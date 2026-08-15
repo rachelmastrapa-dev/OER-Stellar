@@ -1,10 +1,11 @@
 # Editing Instructions for ASTR10
-
+## Starting Day
+1. Create new issue in git
+2. Make new branch
+3. Open log, AI log, and this file 
+## Ending Day
+Close all files, commit, merger branches.
 ## Whole Chapter - Manual
-- Main chapter page - start with H2 Introduction and brief summary
-- Remove all section summaries
-- Make sure that each page starts with an H2 with a brief summary (Introduction for every page?) - can't be identical to chapter title    Galaxies
-- Change name of last page to Accessible Descriptions
 - key terms
   - note possible key terms
   - Copy key terms from Openstax and add to log. for chapter and general  - check general log
@@ -14,10 +15,24 @@
 - Commit changes in Conductor
 - Learning objectives already moved - need to do this an agentic AI project
 
+## Jyothsna
+- Main chapter page 
+  - start with H2 Introduction and brief summary
+- Remove all section summaries
+- Change name of last page to Accessible Descriptions
+
 ## Format html - Playlab AI
 Made new app with instructions in document. 
+1. Copy in html of entire page.
+2. Copy text output to AI Log
+3. Copy html to a scratch file (Appendices) and make sure it works. 
+4. Review reccomendation and implement or not
+  1. highlighted text
+  2. headers
+5. Overwrite chapter page when ready.
+6. rerun if necessary
 
-### Processing Steps
+### App Processing Steps
 
 1. **Remove italics** — Strip all `<em>` or `<i>` tags from the text.
 
@@ -64,13 +79,7 @@ Made new app with instructions in document. 
 - **Recommended section headers**, including nested topics, starting with an H2 header and introductory paragraph
 - **An AI citation in APA format**
 
-## Review - Manual
-- save AI report to AI log
-- Edit in html to avoid nbsp
-- Review all changes made by chabot, and re-run if necessary.
-- Confirm that page translates properly in Libretext. 
-- edit in scratch, then paste to main page.
-- Shorten chapter, section, subsection names - follow AI guidance? 
+## Review - Manual 
 - Make sure remixed material is in the correct section.
 - Delete extra text or figures.
 - log attribution info, including codes                
@@ -106,16 +115,16 @@ The general idea is to copy in the figure, and then the html of the figure and 
 **Chapter Done?**
 ## Format Key terms Playlab AI
 - use chatbot
-- when done, type done, and copy to AI log
-- check openstax for key terms and definitions    
-- In-text key terms are bold
-- create definitions for all terms in spreadsheet
+  - when done, type done, and copy to AI log
+  - check openstax for key terms and definitions    
+  - In-text key terms are bold
+  - create definitions for all terms in spreadsheet
 - Use chatbot to format list
-- Manually link term to key term page
-- Search each page for first appearance of term.
-- copy in link from AI or
-- Browse to key terms and find anchor
-- Make sure that link opens new window
+- Link term to key term page
+  - Search each page for first appearance of term.
+  - copy in link from AI or
+    - Browse to key terms and find anchor
+    - Make sure that link opens new window
 - save AI report to AI log
 ## Edit main chapter page - manual
 - Have page start with an H2 Introduction before learning objectives and short summary paragraph.
@@ -128,5 +137,3 @@ The general idea is to copy in the figure, and then the html of the figure and 
 - Update progress log.
 - Notify Jyothsna that it is done. 
 - When you make corrections, update progress again. 
-- Optional 
-    - Scientist Appendices - Make accessible, edit, etc. and link to relevant sections. 
