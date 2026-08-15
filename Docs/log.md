@@ -27,6 +27,26 @@ Current Chapters Done  6 does this update live?
 
 - Create links between chapters
 - record descriptions of figures?
+- Optional 
+    - Scientist Appendices - Make accessible, edit, etc. and link to relevant sections. 
+## 8/14/26
+- Final edit of text for Milky Way, start Galaxies.
+- Have started to set up files for Solar System. start with astronomy toolkit  Focusing on this for now.  
+- Buy agent soon? 
+- Note: use instructions format for Claude instructions.
+
+### Pinned
+- Discovery of Galaxies - log figure att
+
+### Finished
+- Final Edit of Observing Our Galaxy
+- Final Edit of Spiral Structure
+- Final Edit of Mass of the Milky Way
+- final edit all chapters, key terms
+- Main Page, saved in Conductor
+- Completed instructions
+- Format HTML Discovery of Galaxies
+
 ## 8/13/26
 Finished format text & manual on all of Milky way galaxy, now Working on graphs in Milky Way Galaxy
 

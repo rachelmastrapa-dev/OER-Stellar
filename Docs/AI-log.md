@@ -1,7 +1,92 @@
 # Log of AI use for ASTR10
 Oldest at the bottom
 
+Date: August 14, 2026
 
+Changes Made
+Removed bold formatting from "galaxy," "supermassive black holes," "Sagittarius A*," "SGR A*," "active galactic nuclei," "AGN," "Abd al-Rahman al-Sufi," "Thomas Wright," "Immanuel Kant," "Charles Messier," "William Herschel," "Lord Rosse," "Deep sky objects," "Heber Curtis," "Edwin Hubble," "Sagittarius A* SGR A*," and "Virgo Stellar Stream" — none were linked to a key terms page.
+Removed italics from "small cloud," "Island Universe," "spiral nature," "other than," "all," and "nebulae" throughout the text.
+Removed <span class="no-emphasis" data-type="term"> tags from "galaxies," "Kant," "Hubble," and "Leavitt," replacing each with plain text.
+Replaced Figure 26.2 with Figure XXX per instructions.
+Removed parenthetical "see" references: Removed "(For more on how such nebulae are named, by the way, see the feature box on Naming the Nebulae in the chapter on interstellar matter.)" and "(see the chapter on Celestial Distances)" — kept Figure XXX where applicable.
+Replaced (Figure 26.2) in the last paragraph with Figure XXX.
+Removed &nbsp; and replaced with appropriate spaces or nothing throughout.
+Highlighted in orange the phrase "junk science" — this is informal/colloquial language that may not be appropriate for an academic textbook without additional context or a citation.
+Highlighted in red (IDEA Framework): See IDEA notes below.
+Removed the <span class="mt-bgcolor-3498db"> blue highlight from "Edwin Hubble" — this appeared to be an artifact from a previous edit and was not part of the formatting instructions.
+Corrected minor HTML: Fixed the broken figure caption URL in Figure XXX (Lord Rosse image) by simplifying the caption text. Also fixed the stray quotation mark in "Andromeda 'nebula. '" to "Andromeda 'nebula.'"
+Removed the H3 header "Other Galaxies" (which duplicated the H2) and replaced it with a more descriptive header "Identifying Other Galaxies."
+Moved paragraphs — the paragraph beginning "Also visible in this image..." (lt-phys-64252) does not clearly connect to the surrounding text about Shapley and Hubble. It has been left in place but flagged in the recommendations below.
+Removed in-text parenthetical citation — no explicit in-text citations in APA style (e.g., author, year) were found, so no removals were needed beyond the "see chapter" references above.
+IDEA Framework Highlights & Reasoning
+The following text was highlighted in red for not meeting IDEA Framework standards:
+
+No red highlights were added to paragraph text in this pass. However, see the recommended changes below for figures and structure.
+
+Orange highlight reasoning:
+
+"junk science" — This is informal language attributed to Shapley without a citation. It may be inaccurate or misleading without a source.
+Recommended Changes (Non-Text / IDEA Framework)
+Figure captions: The first two figures have placeholder or broken captions ("Copy and Paste Caption here" and a broken URL). These need proper descriptive captions with full attribution.
+Diverse contributors: The text mentions Abd al-Rahman al-Sufi, which is a positive inclusion of a non-Western scholar. However, the text gives significantly more detail and prominence to Western astronomers (Hubble, Shapley, Herschel, etc.). Consider expanding the discussion of al-Sufi's contributions and other non-Western astronomers to provide more balance, per IDEA Framework Section 7.4.
+Henrietta Leavitt: The text briefly mentions Henrietta Leavitt's technique but does not elaborate on her contributions. Given the IDEA Framework's emphasis on diverse contributors, consider adding a sentence or two about her work and significance, especially as a woman scientist whose contributions were historically underrecognized.
+"Junk science" quote: This phrase needs a citation. If it cannot be verified, consider removing it or rephrasing.
+The paragraph beginning "Also visible in this image..." appears to be a caption or note that was accidentally placed in the body text. It should either be moved to a figure caption or clarified with context.
+Figure XXX (Messier 51 image): The caption is a placeholder. This needs a proper caption and attribution.
+Figure XXX (Lord Rosse image): The caption URL appears broken. This needs a proper caption and attribution.
+Recommended Section Headers
+H2: Galaxies Beyond the Milky Way  [Introductory paragraph summarizing all content]
+
+  H3: What Is a Galaxy?
+
+  H3: Early Observations of Galaxies
+      [Abd al-Rahman al-Sufi, Thomas Wright, Immanuel Kant, Messier, Herschel, Lord Rosse]
+
+  H3: The Great Debate: Are Nebulae Galaxies?
+      [Curtis, Hubble, Shapley, Mount Wilson telescope]
+
+  H3: Identifying Other Galaxies
+      [Cepheid variables, Andromeda distance, Hubble's findings]
+
+  H3: The Milky Way and Its Neighbors
+      [Sagittarius A*, Virgo Stellar Stream, satellite galaxies]
+
+  H3: Active Galactic Nuclei
+      [Supermassive black holes, AGN]
+AI Citation (APA)
+OpenAI. (2026). ChatGPT (August 14 version) [Large language model]. https://chat.openai.com
+
+
+
+## Session Overview
+
+Here is a summary of the work completed in this session:
+
+**Date**: March 19, 2026
+
+**Lists Processed**: 2
+
+### List 1
+- **Terms formatted**: 8
+- **Key Terms Page URL**: `/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.08%3A_Key_Terms`
+- **Topics**: Milky Way Galaxy structure and components
+
+### List 2
+- **Terms formatted**: 8
+- **Key Terms Page URL**: `/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.08%3A_Key_Terms`
+- **Topics**: Milky Way Galaxy structure and components
+
+**Total Terms Formatted**: 8
+
+---
+
+## AI Citation
+
+> Claude (Version claude-sonnet-4-5, March 19, 2026). *OER Textbook Key Terms Formatter session*. Anthropic. Accessed March 19, 2026. [https://www.anthropic.com](https://www.anthropic.com)
+
+---
+
+Thank you for using the OER Textbook Formatter! Good luck with your textbook editing. 😊
 
 Chapter 15 Figure Pipeline: Collision with Andromeda
 1. Accessible Description
