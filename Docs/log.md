@@ -29,6 +29,32 @@ Current Chapters Done  6 does this update live?
 - record descriptions of figures?
 - Optional 
     - Scientist Appendices - Make accessible, edit, etc. and link to relevant sections. 
+## 8/15/26
+- Format HTML of Galaxies and next steps
+- Buy agent today??
+- Astronomy Toolkit Figures??
+
+Skipping Astronomy Archtecture in Galaxes because not done.
+### Pinned
+- Final Edit of Galaxies
+
+### Finished
+- Format HTML + HTML Review Discovery of Galaxies
+- Format HTML Types of Galaxies
+- Format HTML Properties of Galaxies
+- Format HTML Extragalactic distance scale
+- Format HTML The Exapnding Universe
+- HTML Review Types of Galaxies
+- HTML Review Properties of Galaxies
+- HTML Review The Extragalactic Distance Scale
+- HTML Review The Expanding Universe
+- Format Figure Discovery of Galaxies
+- Format Figure Types of Galaxies
+- astro-figs fix - last attribution, increment figure numbers
+- Format Figure Properties of Galaxies
+- Format Figure The Extragalactic Distance Scale
+- Format Figure The Expanding Universe
+
 ## 8/14/26
 - Final edit of text for Milky Way, start Galaxies.
 - Have started to set up files for Solar System. start with astronomy toolkit  Focusing on this for now.  
@@ -46,6 +72,7 @@ Current Chapters Done  6 does this update live?
 - Main Page, saved in Conductor
 - Completed instructions
 - Format HTML Discovery of Galaxies
+- Copied Astronomy Toolkit
 
 ## 8/13/26
 Finished format text & manual on all of Milky way galaxy, now Working on graphs in Milky Way Galaxy

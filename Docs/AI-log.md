@@ -1,6 +1,1318 @@
 # Log of AI use for ASTR10
 Oldest at the bottom
 
+One flag before the write-up: the submitted alt-text lists the distances as **3, 16, 25, 7 cm** (left) and **6, 32, 50, 14 cm** (right), but the image itself shows **3, 16, 20, 7 cm** and **6, 32, 40, 14 cm** — the third value differs (25/50 vs. 20/40). I've gone with what's visible in the image below; let me know if I should use the submitted numbers instead.
+
+Also incrementing the figure number from 16.5.2 to **16.5.3**, since none was given.
+
+# Figure 16.5.3 — Expanding Raisin Bread
+
+## 1. Accessible Description
+
+```html
+<h2>Figure 16.5.3 Expanding Raisin Bread</h2>
+<p>A diagram of two loaves of raisin bread, one unrisen and one expanded, showing raisins moving farther apart.</p>
+<h3>Unrisen Loaf (30 cm)</h3>
+<ul>
+    <li>A smaller loaf of bread, 30 cm wide, with several raisins scattered through its right half.</li>
+    <li>A reference raisin near the upper left of the raisin-filled region has arrows pointing to four other raisins, each labeled with its distance from the reference.</li>
+    <li>Clockwise from upper left, the distances are 3 cm, 16 cm, 20 cm, and 7 cm.</li>
+</ul>
+<h3>Risen Loaf (60 cm)</h3>
+<ul>
+    <li>A larger loaf of bread, 60 cm wide, twice the width of the unrisen loaf, with the same raisins now spread farther apart.</li>
+    <li>The same reference raisin has arrows to the same four raisins, with the distances increased proportionally.</li>
+    <li>Clockwise from upper left, the distances are now 6 cm, 32 cm, 40 cm, and 14 cm.</li>
+</ul>
+<h3>Key Takeaway</h3>
+<ul>
+    <li>Every distance from the reference raisin has doubled as the loaf doubled in width, so raisins that started farther away end up moving away faster than raisins that started close by.</li>
+</ul>
+```
+
+## 2. New Figure Caption Text
+
+As the loaf rises uniformly, every raisin's distance from a reference raisin doubles, showing why more distant raisins, like more distant galaxies, appear to recede faster during uniform expansion.
+
+## 3. New Alt-Text
+
+Diagram of expanding raisin bread showing raisin distances doubling as the loaf rises. Details in caption.
+
+## 4. Original Alt-Text & Caption (preserved)
+
+- **Original alt-text:** Expanding Raisin Bread. In this illustration, the loaf of raisin bread at left is 30 cm wide. Arrows are drawn from a reference raisin located to the left of center to four other raisins within the loaf, with distances indicated. Clockwise from upper left: 3 cm, 16 cm, 25 cm and 7 cm from the reference. At right, the loaf has expanded to 60 cm wide. The distances from the reference raisin have increased accordingly. Clockwise from upper left: 6 cm, 32 cm, 50 cm and 14 cm.
+- **Original caption text:** Expanding Raisin Bread. As the raisin bread rises, the raisins "see" other raisins moving away. More distant raisins move away faster in a uniformly expanding bread.
+
+## 5. Figure Attribution (Standard OpenStax Astronomy)
+
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+## 6. Accessible Description Anchor Link
+
+```
+/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.5.3_Expanding_Raisin_Bread
+```
+
+## 7. Assembled Figure HTML
+
+```html
+<figure><img alt="Diagram of expanding raisin bread showing raisin distances doubling as the loaf rises. Details in caption." class="internal default" src="/@api/deki/files/45718/ae13f98164248c5b991e7d0dacdc377fdef69560" /><figcaption>Figure \(\PageIndex{1}\) : Expanding Raisin Bread. As the loaf rises uniformly, every raisin's distance from a reference raisin doubles, showing why more distant raisins, like more distant galaxies, appear to recede faster during uniform expansion. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.5.3_Expanding_Raisin_Bread" target="_blank" title="16.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+Generated: August 15, 2026
+
+Claude (Anthropic). (2026). *Claude* (Sonnet 5) [Large language model]. https://claude.ai
+
+One flag: no figure number was submitted — incrementing from the last figure (16.5.1) to **16.5.2**. Let me know if that's not correct.
+
+# Figure 16.5.2 — Stretching a Ruler
+
+## 1. Accessible Description
+
+```html
+<h2>Figure 16.5.2 Stretching a Ruler</h2>
+<p>A diagram of two rulers, one normal and one stretched, illustrating how ants on the stretched ruler move apart.</p>
+<h3>Top Ruler (Normal Length)</h3>
+<ul>
+    <li>A short wooden ruler marked with tick marks labeled 0 through 12 in increments of 2.</li>
+    <li>Four ants sit on the ruler, positioned above the marks at 2, 4, 7, and 12.</li>
+</ul>
+<h3>Bottom Ruler (Stretched)</h3>
+<ul>
+    <li>A longer wooden ruler, stretched to about twice the length of the top ruler, with arrows at both ends indicating the stretching.</li>
+    <li>The same tick marks, labeled 0 through 12, are now spaced twice as far apart as on the top ruler.</li>
+    <li>The four ants remain positioned above the same numbers, 2, 4, 7, and 12, but are now spread farther apart in physical space because the ruler has stretched.</li>
+    <li>Three labeled arrows beneath the ruler show the speed at which each pair of neighboring ants moves apart, as seen by the ant at position 2:
+    <ul>
+        <li>Between 2 and 4: 2 cm/min.</li>
+        <li>Between 4 and 7: 5 cm/min.</li>
+        <li>Between 7 and 12: 10 cm/min.</li>
+    </ul>
+    </li>
+</ul>
+<h3>Key Takeaway</h3>
+<ul>
+    <li>The farther apart two ants are on the ruler, the faster they appear to move away from each other as the ruler stretches, illustrating that recession speed is proportional to distance.</li>
+</ul>
+```
+
+## 2. New Figure Caption Text
+
+As the ruler stretches uniformly, ants farther apart move away from each other faster than ants close together, an analogy for how the expansion of space causes more distant galaxies to recede at greater speeds.
+
+## 3. New Alt-Text
+
+Diagram of ants on a stretching ruler, showing recession speed increasing with distance. Details in caption.
+
+## 4. Original Alt-Text & Caption (preserved)
+
+- **Original alt-text:** Stretching a Ruler. In this illustration, the ruler at top is normal sized, and has ants drawn at 2, 4, 7 and 12 cm. The same ruler is drawn below, but stretched to twice its length. The ants are still at their positions as above, but the ant at 2 cm sees the ant at 4 cm move away at 2 cm/min, the ant at 7 cm move away at 5 cm/min and the ant at 12 cm move away at 10 cm/min.
+- **Original caption text:** Stretching a Ruler. Ants on a stretching ruler see other ants move away from them. The speed with which another ant moves away is proportional to its distance.
+
+## 5. Figure Attribution (Standard OpenStax Astronomy)
+
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+## 6. Accessible Description Anchor Link
+
+```
+/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.5.2_Stretching_a_Ruler
+```
+
+## 7. Assembled Figure HTML
+
+```html
+<figure><img alt="Diagram of ants on a stretching ruler, showing recession speed increasing with distance. Details in caption." class="internal default" src="/@api/deki/files/45716/9911beb78725457558a6713b33f7f6f7c58cd9e7" /><figcaption>Figure \(\PageIndex{1}\) : Stretching a Ruler. As the ruler stretches uniformly, ants farther apart move away from each other faster than ants close together, an analogy for how the expansion of space causes more distant galaxies to recede at greater speeds. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.5.2_Stretching_a_Ruler" target="_blank" title="16.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+Generated: August 15, 2026
+
+Claude (Anthropic). (2026). *Claude* (Sonnet 5) [Large language model]. https://claude.ai
+
+One flag before the full write-up: the submitted alt-text describes panel (a)'s vertical axis as running from **-500** at bottom, but the image itself shows the axis starting at **0** (with gridlines at 0, 500, 1000, 1500). I've gone with what's visible in the image below — let me know if I should use -500 instead.
+
+# Figure 16.5.1 — Hubble's Law
+
+## 1. Accessible Description
+
+```html
+<h2>Figure 16.5.1 Hubble's Law</h2>
+<p>Two charts comparing Hubble's early velocity-distance data to a later, more extensive dataset.</p>
+<h3>Chart (a): Hubble's Data (1929)</h3>
+<ul>
+    <li>The vertical axis is labeled Velocity (km/s) and goes from 0 at the bottom to 1500 at the top, in increments of 500 km/s.</li>
+    <li>The horizontal axis is labeled Distance (millions of LY) and goes from 0 on the left to 6 on the right, in increments of 3 million light-years.</li>
+    <li>Red dots show individual galaxy measurements, scattered broadly around a general upward trend, with substantial spread at any given distance.</li>
+    <li>A red line representing the average trend runs from about 0 million LY, 0 km/s at the lower left to about 6 million LY, 1000 km/s at the upper right.</li>
+</ul>
+<h3>Chart (b): Hubble and Humason (1931)</h3>
+<ul>
+    <li>The vertical axis is labeled Velocity (km/s) and goes from 0 at the bottom to 20,000 at the top, in increments of 5,000 km/s.</li>
+    <li>The horizontal axis is labeled Distance (millions of LY) and goes from 0 on the left to 120 on the right, in increments of 30 million light-years.</li>
+    <li>Black dots show individual galaxy measurements, following a tight, nearly straight upward trend extending out to about 100 million light-years and 19,000 km/s.</li>
+    <li>A black line representing the average trend runs from about 0 million LY, 0 km/s at the lower left to about 100 million LY, 19,000 km/s at the upper right.</li>
+    <li>The red data points from Chart (a) are also plotted here, clustered near the lower left corner, showing how limited the 1929 dataset was compared to the 1931 dataset.</li>
+</ul>
+<h3>Key Trend</h3>
+<ul>
+    <li>Both charts show that galaxy velocity increases with distance, but the 1931 dataset extends to distances and velocities roughly 20 times greater than the 1929 dataset, with a much tighter, more clearly linear relationship.</li>
+</ul>
+```
+
+## 2. New Figure Caption Text
+
+Comparing Hubble's 1929 data to Hubble and Humason's 1931 data shows how quickly astronomers extended the known range of galaxy distances and velocities, strengthening the case for a linear velocity-distance relation.
+
+## 3. New Alt-Text
+
+Two charts of galaxy velocity vs. distance: Hubble's 1929 data and the more extensive 1931 dataset. Details in caption.
+
+## 4. Original Alt-Text & Caption (preserved)
+
+- **Original alt-text:** Hubble's Law. The plot in panel (a), at left, is labeled Hubble's Data (1929) and has the vertical axis labeled Velocity (km/s), running from -500 at bottom to 1500 at top in increments of 500 km/s. The horizontal axis is labeled Distance (millions of LY), and runs from zero at left to 6 at right in increments of 3 million light years. The data is plotted as red dots, with the mean drawn as a red line beginning at 0 LY, 0 km/s at lower left to 6 MLY, 1000 km/s at upper right. The plot in panel (b), at right, is labeled Hubble and Humason (1931) and has the vertical axis labeled Velocity (km/s), running from zero at bottom to 20,000 at top in increments of 5,000 km/s. The horizontal axis is labeled Distance (millions of LY), and runs from zero at left to 120 at right in increments of 30 million LY. The data is plotted as black dots, with the mean drawn as a black line beginning at 0 LY, 0 km/s at lower left to 100 MLY, 19,000 km/s at upper right. The data from panel (a) are plotted in red at lower left.
+- **Original caption text:** Hubble's Law. (a) These data show Hubble's original velocity-distance relation, adapted from his 1929 paper in the Proceedings of the National Academy of Sciences. (b) These data show Hubble and Humason's velocity-distance relation, adapted from their 1931 paper in The Astrophysical Journal. The red dots at the lower left are the points in the diagram in the 1929 paper. Comparison of the two graphs shows how rapidly the determination of galactic distances and redshifts progressed in the 2 years between these publications.
+
+## 5. Figure Attribution (Standard OpenStax Astronomy)
+
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+## 6. Accessible Description Anchor Link
+
+```
+/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.5.1_Hubbles_Law
+```
+
+## 7. Assembled Figure HTML
+
+```html
+<figure><img alt="Two charts of galaxy velocity vs. distance: Hubble's 1929 data and the more extensive 1931 dataset. Details in caption." class="internal default" src="/@api/deki/files/45720/7f27f064e23d86aa9968b4ef8642cbe37194697e" /><figcaption>Figure \(\PageIndex{1}\) : Hubble's Law. Comparing Hubble's 1929 data to Hubble and Humason's 1931 data shows how quickly astronomers extended the known range of galaxy distances and velocities, strengthening the case for a linear velocity-distance relation. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.5.1_Hubbles_Law" target="_blank" title="16.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+Generated: August 15, 2026
+
+Claude (Anthropic). (2026). *Claude* (Sonnet 5) [Large language model]. https://claude.ai
+
+I'll flag one thing: no figure number was given for this one. The last figure was 16.4.1, so I'm incrementing to **16.4.2** — let me know if that's not right.
+
+# Figure 16.4.2 — Type Ia Supernova
+
+## 1. Accessible Description
+
+```html
+<h2>Figure 16.4.2 Type Ia Supernova</h2>
+<p>An image of a type Ia supernova outshining its host spiral galaxy.</p>
+<h3>Image Elements</h3>
+<ul>
+    <li>A very bright, white star-like point of light with prominent diffraction spikes sits left of center, lower than the galaxy.</li>
+    <li>This bright point is the type Ia supernova, appearing far brighter than any individual star in the surrounding field.</li>
+    <li>A spiral galaxy is in the upper right of the image, oriented at an angle, with a bright central bulge and dusty, reddish-brown spiral arms winding outward.</li>
+    <li>A second, fainter bright star with diffraction spikes appears near the top of the galaxy, above and to the left of its center.</li>
+    <li>The supernova lies at the outer edge of the galaxy's spiral arms, appearing much brighter than the galaxy's own bright core despite being part of the same system.</li>
+    <li>The background is filled with numerous faint, distant galaxies of varying shapes, along with scattered foreground stars.</li>
+</ul>
+<p>Credit: NASA, ESA, A. Riess (STScI)</p>
+```
+
+## 2. New Figure Caption Text
+
+Near its peak brightness, this type Ia supernova outshines its entire host galaxy, a predictable peak luminosity that lets astronomers use these events as standard candles to measure cosmic distances.
+
+## 3. New Alt-Text
+
+Type Ia supernova outshining its host spiral galaxy from the galaxy's outskirts. Details in caption.
+
+## 4. Original Alt-Text & Caption (preserved)
+
+- **Original alt-text:** Type Ia Supernova. The very bright star to the left of center is a type Ia supernova at the outskirts of the spiral galaxy seen at upper right.
+- **Original caption text:** Type Ia Supernova. The bright object at the bottom left of center is a type Ia supernova near its peak intensity. The supernova easily outshines its host galaxy. This extreme increase and luminosity help astronomers use Ia supernova as standard bulbs.
+
+## 5. Figure Attribution (Standard OpenStax Astronomy)
+
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+## 6. Accessible Description Anchor Link
+
+```
+/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.4.2_Type_Ia_Supernova
+```
+
+## 7. Assembled Figure HTML
+
+```html
+<figure><img alt="Type Ia supernova outshining its host spiral galaxy from the galaxy's outskirts. Details in caption." class="internal default" src="/@api/deki/files/45715/8f41afce03887ebdcb5408b94b902df128e3ff51" /><figcaption>Figure \(\PageIndex{1}\) : Type Ia Supernova. Near its peak brightness, this type Ia supernova outshines its entire host galaxy, a predictable peak luminosity that lets astronomers use these events as standard candles to measure cosmic distances. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.4.2_Type_Ia_Supernova" target="_blank" title="16.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+Generated: August 15, 2026
+
+Claude (Anthropic). (2026). *Claude* (Sonnet 5) [Large language model]. https://claude.ai
+
+# Figure 16.4.1 — Cepheid Variable Star in M100
+
+## 1. Accessible Description
+
+```html
+<h2>Figure 16.4.1 Cepheid Variable Star</h2>
+<p>A Hubble Space Telescope image of the galaxy M100 with three close-up insets tracking a variable star's brightness over time.</p>
+<h3>Background Image</h3>
+<ul>
+    <li>A grayscale image shows part of the spiral galaxy M100, with bright, dense structure toward the lower left and fainter, thinner spiral arms extending toward the upper right.</li>
+    <li>A small white square near the center right of the image marks the location of the Cepheid variable star.</li>
+    <li>Two thin lines extend upward from the square, connecting it to the two closest inset panels above.</li>
+</ul>
+<h3>May 4</h3>
+<ul>
+    <li>Top left inset panel.</li>
+    <li>A close-up, grainy, black-and-white view of the marked region.</li>
+    <li>The target star is faint and difficult to distinguish from the surrounding scattered points of light.</li>
+</ul>
+<h3>May 9</h3>
+<ul>
+    <li>Top center inset panel.</li>
+    <li>The same region as the May 4 panel, showing the target star slightly brighter and easier to distinguish near the center of the panel.</li>
+</ul>
+<h3>May 31</h3>
+<ul>
+    <li>Top right inset panel.</li>
+    <li>The same region again, with the target star now clearly the brightest point in the panel, standing out against the surrounding fainter stars.</li>
+</ul>
+<p>Credit: modification of work by Wendy L. Freedman, Observatories of the Carnegie Institution of Washington, and NASA/ESA</p>
+```
+
+## 2. New Figure Caption Text
+
+Hubble Space Telescope images taken on three separate nights track the changing brightness of a single Cepheid variable star in M100, a method astronomers used to measure the galaxy's distance at 56 million light-years.
+
+## 3. New Alt-Text
+
+Cepheid variable star in galaxy M100, shown brightening across insets from May 4 to May 31. Details in caption.
+
+## 4. Original Alt-Text & Caption (preserved)
+
+- **Original alt-text:** Cepheid Variable Star in M100. In the background of this image is a portion of the galaxy M100. At center right is a small white box indicating the area that contains the variable star observed using the Hubble Space Telescope. Along the top of the image are three insets showing the star at three different times. From left: May 4, May 9 and May 31. The star is significantly brighter in the May 31 image.
+- **Original caption text:** Cepheid Variable Star. In 1994, using the Hubble Space Telescope, astronomers were able to make out an individual cepheid variable star in the galaxy M100 and measure its distance to be 56 million light-years. The insets show the star on three different nights; you can see that its brightness is indeed variable.
+
+## 5. Figure Attribution (Standard OpenStax Astronomy)
+
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+## 6. Accessible Description Anchor Link
+
+```
+/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.4.1_Cepheid_Variable_Star
+```
+
+## 7. Assembled Figure HTML
+
+```html
+<figure><img alt="Cepheid variable star in galaxy M100, shown brightening across insets from May 4 to May 31. Details in caption." class="internal default" src="/@api/deki/files/45714/de24bdfc12d685ea331bcf9eefd472f605efe230" /><figcaption>Figure \(\PageIndex{1}\) : Cepheid Variable Star. Hubble Space Telescope images taken on three separate nights track the changing brightness of a single Cepheid variable star in M100, a method astronomers used to measure the galaxy's distance at 56 million light-years. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.4.1_Cepheid_Variable_Star" target="_blank" title="16.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+Generated: August 15, 2026
+
+Claude (Anthropic). (2026). *Claude* (Sonnet 5) [Large language model]. https://claude.ai
+
+# Figure 16.3.1 — The Pinwheel Galaxy (M101)
+
+## 1. Accessible Description
+
+```html
+<h2>Figure 16.3.1 The Pinwheel Galaxy</h2>
+<p>A face-on image of a spiral galaxy taken by the Hubble Space Telescope.</p>
+<h3>Image Elements</h3>
+<ul>
+    <li>The galaxy fills most of the frame, oriented face-on so its full spiral structure is visible.</li>
+    <li>A bright, compact, yellowish-white core sits near the center of the galaxy.</li>
+    <li>Multiple spiral arms wind outward from the core in a pinwheel pattern, tightly wound near the center and loosening toward the outer edge.</li>
+    <li>The spiral arms are traced by reddish-brown dust lanes and clusters of bright blue points marking regions of active star formation.</li>
+    <li>The outer regions of the galaxy fade into faint, diffuse blue light with wispy, irregular edges rather than a sharp boundary.</li>
+    <li>A patch of clumpy blue material extends from the upper left edge of the galaxy, appearing separate from the main spiral structure.</li>
+    <li>Numerous foreground stars are scattered across the black background, appearing as small white, blue, and orange points of light.</li>
+    <li>Several faint, fuzzy smudges of light in the background are distant galaxies.</li>
+</ul>
+<p>Credit: NASA, ESA, K. Kuntz (Johns Hopkins University), F. Bresolin (University of Hawaii), J. Trauger (Jet Propulsion Lab), J. Mould (NOAO), Y.-H. Chu (University of Illinois, Urbana), and STScI</p>
+```
+
+## 2. New Figure Caption Text
+
+This visible-light image from the Hubble Space Telescope shows the well-ordered spiral arms of a face-on galaxy, the kind of structure astronomers study to measure rotation curves and detect the presence of dark matter.
+
+## 3. New Alt-Text
+
+Face-on spiral galaxy M101, the Pinwheel Galaxy, with bright core and blue star-forming arms. Details in caption.
+
+## 4. Original Alt-Text & Caption (preserved)
+
+- **Original alt-text:** The Pinwheel Galaxy M101. A prime example of a large, face-on spiral galaxy.
+- **Original caption text:** The Pinwheel Galaxy. This galaxy is a face-on spiral at a distance of 21 million light-years. M101 is almost twice the diameter of the Milky Way, and it contains at least 1 trillion stars.
+
+## 5. Figure Attribution (Standard OpenStax Astronomy)
+
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+## 6. Accessible Description Anchor Link
+
+```
+/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.3.1_The_Pinwheel_Galaxy
+```
+
+## 7. Assembled Figure HTML
+
+```html
+<figure><img alt="Face-on spiral galaxy M101, the Pinwheel Galaxy, with bright core and blue star-forming arms. Details in caption." class="internal default" src="/@api/deki/files/45712/d2f562d0643440324cdd92d458fd2ce4880c88ba" /><figcaption>Figure \(\PageIndex{1}\) : The Pinwheel Galaxy. This visible-light image from the Hubble Space Telescope shows the well-ordered spiral arms of a face-on galaxy, the kind of structure astronomers study to measure rotation curves and detect the presence of dark matter. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.3.1_The_Pinwheel_Galaxy" target="_blank" title="16.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+Generated: August 15, 2026
+
+Claude (Anthropic). (2026). *Claude* (Sonnet 5) [Large language model]. https://claude.ai
+
+This one flags for confirmation before I proceed: the figure's provided attribution info (ESO/VMC Survey via Wikimedia Commons, CC BY 4.0) is **not** the standard OpenStax Astronomy default — this is a third-party source with its own License/Author/Source. Per the fig-att rules, I'll use the submitted metadata directly for the attribution rather than the OpenStax default. Also note the original caption/credit line had unresolved placeholders ("Copyright; author via source") which I've replaced using your submitted metadata.
+
+---
+
+**1. Accessible Description**
+
+```html
+<h2>Figure 16.2.6 Large Magellanic Cloud</h2>
+<p>A wide-field image of the irregular dwarf galaxy the Large Magellanic Cloud.</p>
+<h3>Image Elements</h3>
+<ul>
+    <li>A large, elongated, hazy cloud of stars and gas stretches diagonally across the center of the image, brighter and denser toward the middle.</li>
+    <li>The central region glows with a soft pink and white haze, dotted with many individual stars.</li>
+    <li>A bright, colorful clustering of stars and glowing gas, the Tarantula Nebula, appears as a distinct bright patch to the upper left of the galaxy's center.</li>
+    <li>Numerous smaller clusters of blue and red stars are scattered throughout the galaxy, marking regions of active star formation.</li>
+    <li>The galaxy has no organized spiral structure, giving it an irregular, patchy shape.</li>
+    <li>A dense field of foreground stars in various colors, blue, white, orange, and red, fills the surrounding dark background.</li>
+</ul>
+```
+
+---
+
+**2. New Figure Caption Text**
+
+The Large Magellanic Cloud, one of the Milky Way's nearest galactic neighbors, is an irregular dwarf galaxy whose bright star-forming regions, including the Tarantula Nebula, make it a valuable target for studying stellar evolution and galactic dynamics.
+
+---
+
+**3. New Alt-Text** (~85 characters)
+
+The Large Magellanic Cloud, an irregular dwarf galaxy near the Milky Way. Details in caption.
+
+---
+
+**4. Original Alt-Text and Caption (preserved)**
+
+<p><strong>Original alt-text:</strong> The Large Magellanic Cloud</p>
+
+<p><strong>Original caption:</strong> Figure \(\PageIndex{1}\): Large Magellanic Cloud. ESO Vista image of the large magellanic cloud (Copyright; author via source)</p>
+
+---
+
+**5. Figure Attribution (third-party, as submitted)**
+
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://star.herts.ac.uk/~mcioni/vmc/" target="_blank" title="ESO/VMC Survey">ESO/VMC Survey</a> via <a href="https://commons.wikimedia.org/wiki/File:The_Large_Magellanic_Cloud_revealed_by_VISTA.jpg" target="_blank" title="Wikimedia Commons">Wikimedia Commons</a>
+```
+
+---
+
+**6. Anchor Link to Accessible Descriptions Page**
+
+```
+/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.2.6_Large_Magellanic_Cloud
+```
+
+---
+
+**7. Complete Assembled Figure HTML**
+
+```html
+<figure><img alt="The Large Magellanic Cloud, an irregular dwarf galaxy near the Milky Way. Details in caption." class="internal default" src="/@api/deki/files/68238/3840px-The_Large_Magellanic_Cloud_revealed_by_VISTA.jpg" /><figcaption>Figure \(\PageIndex{1}\) : Large Magellanic Cloud. The Large Magellanic Cloud, one of the Milky Way's nearest galactic neighbors, is an irregular dwarf galaxy whose bright star-forming regions, including the Tarantula Nebula, make it a valuable target for studying stellar evolution and galactic dynamics. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://star.herts.ac.uk/~mcioni/vmc/" target="_blank" title="ESO/VMC Survey">ESO/VMC Survey</a> via <a href="https://commons.wikimedia.org/wiki/File:The_Large_Magellanic_Cloud_revealed_by_VISTA.jpg" target="_blank" title="Wikimedia Commons">Wikimedia Commons</a>) <a href="/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.2.6_Large_Magellanic_Cloud" target="_blank" title="Accessible Descriptions">Accessible description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+
+*Generated August 15, 2026.*
+*AI citation (APA): Anthropic. (2026). Claude (Sonnet 5) [Large language model]. https://claude.ai*
+
+Please confirm the third-party attribution details are correct, and let me know if you'd like any edits before moving to the next figure.
+
+**1. Accessible Description**
+
+```html
+<h2>Figure 16.2.5 Dwarf Elliptical Galaxy</h2>
+<p>A black-and-white image of the dwarf elliptical galaxy M32.</p>
+<h3>Image Elements</h3>
+<ul>
+    <li>A bright, featureless, oval-shaped glow of light fills the center of the image, brightest at its core and fading smoothly outward.</li>
+    <li>The galaxy has no visible spiral arms or internal structure.</li>
+    <li>Individual stars become visible as small points of light at the outer edges of the galaxy, where the density of stars declines.</li>
+    <li>The surrounding field is dark and scattered with faint background stars.</li>
+    <li>Credit: NOAO/AURA/NSF</li>
+</ul>
+```
+
+---
+
+**2. New Figure Caption Text**
+
+M32 is a dwarf elliptical galaxy and companion to the much larger Andromeda galaxy, spanning only about 2,400 light-years across.
+
+---
+
+**3. New Alt-Text** (~78 characters)
+
+Dwarf elliptical galaxy M32, a companion to the Andromeda galaxy. Details in caption.
+
+---
+
+**4. Original Alt-Text and Caption (preserved)**
+
+<p><strong>Original alt-text:</strong> Dwarf Elliptical Galaxy M32. This companion to the Andromeda Galaxy is, like most ellipticals, a featureless and uniform oval of light. Note that individual stars can be seen at the edges where the density of stars declines.</p>
+
+<p><strong>Original caption:</strong> Figure \(\PageIndex{1}\): Dwarf Elliptical Galaxy. M32, a dwarf elliptical galaxy and one of the companions to the giant Andromeda galaxy M31. M32 is a dwarf by galactic standards, as it is only 2400 light-years across. (credit: NOAO/AURA/NSF)</p>
+
+---
+
+**5. Figure Attribution (Openstax Astronomy default)**
+
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+---
+
+**6. Anchor Link to Accessible Descriptions Page**
+
+```
+/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.2.5_Dwarf_Elliptical_Galaxy
+```
+
+---
+
+**7. Complete Assembled Figure HTML**
+
+```html
+<figure><img alt="Dwarf elliptical galaxy M32, a companion to the Andromeda galaxy. Details in caption." class="internal default" src="/@api/deki/files/45707/dd7a968d9ac68ea51ea179df0812df5b29616728" /><figcaption>Figure \(\PageIndex{1}\) : Dwarf Elliptical Galaxy. M32 is a dwarf elliptical galaxy and companion to the much larger Andromeda galaxy, spanning only about 2,400 light-years across. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.2.5_Dwarf_Elliptical_Galaxy" target="_blank" title="Accessible Descriptions">Accessible description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+
+*Generated August 15, 2026.*
+*AI citation (APA): Anthropic. (2026). Claude (Sonnet 5) [Large language model]. https://claude.ai*
+
+Ready for the next figure.
+
+**1. Accessible Description**
+
+```html
+<h2>Figure 16.2.4 Elliptical Galaxies</h2>
+<p>Two images of elliptical galaxies with different amounts of internal structure.</p>
+<h3>Image (a)</h3>
+<ul>
+    <li>On the left</li>
+    <li>An image of the giant elliptical galaxy ESO 325-G004, appearing as a large, nearly featureless oval of light with a bright central nucleus.</li>
+    <li>Several other elliptical galaxies and background stars are scattered around the edges of the image.</li>
+    <li>Credit: modification of work by NASA, ESA, and The Hubble Heritage Team (STScI/AURA)</li>
+</ul>
+<h3>Image (b)</h3>
+<ul>
+    <li>On the right</li>
+    <li>An image of an unnamed elliptical galaxy that shows more internal structure than a typical elliptical, including faint wisps and irregular patches of light within the oval.</li>
+    <li>This structure suggests the galaxy formed relatively recently from the collision of two spiral galaxies.</li>
+    <li>A bright foreground star with diffraction spikes appears in the lower right of the image.</li>
+    <li>Credit: modification of work by ESA/Hubble, NASA</li>
+</ul>
+```
+
+---
+
+**2. New Figure Caption Text**
+
+Image (a) shows the giant elliptical galaxy ESO 325-G004, a smooth, featureless system typical of old elliptical galaxies. Image (b) shows an elliptical galaxy with more internal structure, likely the result of a relatively recent merger between two spiral galaxies.
+
+---
+
+**3. New Alt-Text** (~90 characters)
+
+Two elliptical galaxies: smooth ESO 325-G004 and a more structured, recently merged elliptical. Details in caption.
+
+---
+
+**4. Original Alt-Text and Caption (preserved)**
+
+<p><strong>Original alt-text:</strong> Elliptical Galaxies. Panel (a), at left, shows the giant elliptical ESO 325-G004, a large and nearly featureless oval of light with a bright nucleus. Panel (b), at right, shows an unnamed elliptical that has more structure within the otherwise featureless oval, suggesting a relatively recent formation from the collision of two spiral galaxies.</p>
+
+<p><strong>Original caption:</strong> Figure \(\PageIndex{1}\): Elliptical Galaxies. (a) ESO 325-G004 is a giant elliptical galaxy. Other elliptical galaxies can be seen around the edges of this image. (b) This elliptical galaxy probably originated from the collision of two spiral galaxies. (credit a: modification of work by NASA, ESA, and The Hubble Heritage Team (STScI/AURA); credit b: modification of work by ESA/Hubble, NASA)</p>
+
+---
+
+**5. Figure Attribution (Openstax Astronomy default)**
+
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+---
+
+**6. Anchor Link to Accessible Descriptions Page**
+
+```
+/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.2.4_Elliptical_Galaxies
+```
+
+---
+
+**7. Complete Assembled Figure HTML**
+
+```html
+<figure><img alt="Two elliptical galaxies: smooth ESO 325-G004 and a more structured, recently merged elliptical. Details in caption." class="internal default" src="/@api/deki/files/45710/9b824c07a5f24a6f14b563566059b711a233f91f" /><figcaption>Figure \(\PageIndex{1}\) : Elliptical Galaxies. Image (a) shows the giant elliptical galaxy ESO 325-G004, a smooth, featureless system typical of old elliptical galaxies. Image (b) shows an elliptical galaxy with more internal structure, likely the result of a relatively recent merger between two spiral galaxies. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.2.4_Elliptical_Galaxies" target="_blank" title="Accessible Descriptions">Accessible description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+
+*Generated August 15, 2026.*
+*AI citation (APA): Anthropic. (2026). Claude (Sonnet 5) [Large language model]. https://claude.ai*
+
+Ready for the next figure.
+
+**1. Accessible Description**
+
+```html
+<h2>Figure 16.2.3 Barred Spiral Galaxy</h2>
+<p>An image of the barred spiral galaxy NGC 1300.</p>
+<h3>Image Elements</h3>
+<ul>
+    <li>A large, bright spiral galaxy seen nearly face-on, filling most of the frame against a dark background of scattered stars.</li>
+    <li>A straight, elongated bar of stars and dust extends through the center of the galaxy, rather than a rounded central bulge.</li>
+    <li>Two spiral arms begin at the ends of the bar, curving outward and wrapping around the galaxy.</li>
+    <li>The arms are lined with reddish dust lanes near the bar and lighter blue clusters of young stars farther out.</li>
+    <li>A small, bright yellow-white nucleus sits at the center of the bar.</li>
+    <li>Credit: NASA, ESA, and the Hubble Heritage Team (STScI/AURA)</li>
+</ul>
+```
+
+---
+
+**2. New Figure Caption Text**
+
+NGC 1300 is a barred spiral galaxy, where a straight bar of stars and gas crosses the nucleus and the spiral arms unwind from its ends rather than from the center directly.
+
+---
+
+**3. New Alt-Text** (~78 characters)
+
+Barred spiral galaxy NGC 1300, with arms unwinding from a central bar. Details in caption.
+
+---
+
+**4. Original Alt-Text and Caption (preserved)**
+
+<p><strong>Original alt-text:</strong> Barred Spiral Galaxy NGC 1300. Instead of the smooth, graceful arms that emerge from the nucleus of a spiral like M100, a barred spiral has straight, elongated structures on either side of the nucleus from which the curved arms originate.</p>
+
+<p><strong>Original caption:</strong> Figure \(\PageIndex{1}\): Barred Spiral Galaxy. NGC 1300, shown here, is a barred spiral galaxy. Note that the spiral arms begin at the ends of the bar. (credit: NASA, ESA, and the Hubble Heritage Team(STScI/AURA))</p>
+
+---
+
+**5. Figure Attribution (Openstax Astronomy default)**
+
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+---
+
+**6. Anchor Link to Accessible Descriptions Page**
+
+```
+/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.2.3_Barred_Spiral_Galaxy
+```
+
+---
+
+**7. Complete Assembled Figure HTML**
+
+```html
+<figure><img alt="Barred spiral galaxy NGC 1300, with arms unwinding from a central bar. Details in caption." class="internal default" src="/@api/deki/files/45711/e5df10c3e1dd02da17751d8bb918aadc120b1764" /><figcaption>Figure \(\PageIndex{1}\) : Barred Spiral Galaxy. NGC 1300 is a barred spiral galaxy, where a straight bar of stars and gas crosses the nucleus and the spiral arms unwind from its ends rather than from the center directly. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.2.3_Barred_Spiral_Galaxy" target="_blank" title="Accessible Descriptions">Accessible description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+
+*Generated August 15, 2026.*
+*AI citation (APA): Anthropic. (2026). Claude (Sonnet 5) [Large language model]. https://claude.ai*
+
+Ready for the next figure.
+
+I'll process this figure now. Since it's Chapter 16 (Galaxies), I don't yet have an updated Workbench accessible-descriptions link for this chapter — my memory only has links for Ch. 14 and Ch. 15. I'll build everything else and flag the link as a placeholder for you to confirm/replace.
+
+---
+
+**1. Accessible Description**
+
+```html
+<h2>Figure 16.2.2 Spiral Galaxies</h2>
+<p>Two images of spiral galaxies viewed from different angles.</p>
+<h3>Image (a)</h3>
+<ul>
+    <li>On the left</li>
+    <li>A face-on image of the spiral galaxy M100, with the bulge, spiral arms, disk, and halo labeled.</li>
+    <li>The Bulge label points to the bright, rounded region at the center of the galaxy.</li>
+    <li>The Spiral arms label points, with two lines, to the curving arm structures extending from the center.</li>
+    <li>The Disk label points to the flat, rotating region that contains the spiral arms.</li>
+    <li>The Halo label marks the faint outer region surrounding the disk and bulge.</li>
+    <li>The spiral arms appear bluer than the rest of the galaxy.</li>
+    <li>Credit: modification of work by Hubble Legacy Archive, NASA, ESA, and Judy Schmidt</li>
+</ul>
+<h3>Image (b)</h3>
+<ul>
+    <li>On the right</li>
+    <li>An edge-on image of the spiral galaxy NGC 4565.</li>
+    <li>The galaxy appears as a thin sliver of light.</li>
+    <li>A dark dust lane bisects the galaxy along its entire length.</li>
+    <li>The central bulge is thicker than the thin surrounding disk.</li>
+    <li>Credit: modification of work by "Jschulman555"/Wikimedia</li>
+</ul>
+```
+
+---
+
+**2. New Figure Caption Text**
+
+Image (a) shows the face-on spiral galaxy M100, where bluer spiral arms indicate young, high-mass stars and active star formation. Image (b) shows the edge-on spiral galaxy NGC 4565, where a dark dust lane traces the galactic plane by absorbing starlight.
+
+---
+
+**3. New Alt-Text** (~86 characters)
+
+Face-on and edge-on views of spiral galaxies M100 and NGC 4565. Details in caption.
+
+---
+
+**4. Original Alt-Text and Caption (preserved)**
+
+<p><strong>Original alt-text:</strong> Two Views of Spiral Galaxies. In panel (a), at left, the face-on spiral M100 is shown with the major components labeled. At center is the Bulge, the Spiral arms are indicated with arrows at top and to the right, the spiral arms lie within the Disk and the Halo surrounds most of the galaxy as a whole. Panel (b), at right, shows spiral galaxy NGC4565 that is edge-on. It appears as a thin sliver of light, with a dark dust lane bisecting the entire length and a central bulge somewhat thicker than the thin disk.</p>
+
+<p><strong>Original caption:</strong> Figure \(\PageIndex{1}\): Spiral Galaxies. (a) The spiral arms of M100, shown here, are bluer than the rest of the galaxy, indicating young, high-mass stars and star-forming regions. (b) We view this spiral galaxy, NGC 4565, almost exactly edge on, and from this angle, we can see the dust in the plane of the galaxy; it appears dark because it absorbs the light from the stars in the galaxy. (credit a: modification of work by Hubble Legacy Archive, NASA, ESA, and Judy Schmidt; credit b: modification of work by "Jschulman555"/ Wikimedia)</p>
+
+---
+
+**5. Figure Attribution (Openstax Astronomy default)**
+
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+---
+
+**6. Anchor Link to Accessible Descriptions Page**
+
+⚠️ Placeholder — please confirm the Chapter 16 Workbench section link (e.g., `/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.XX%3A_Accessible_Descriptions`):
+
+```
+/Workbench/De_Anza_-_ASTR10/16:_Galaxies/16.XX:_Accessible_Descriptions#Figure_16.2.2_Spiral_Galaxies
+```
+
+---
+
+**7. Complete Assembled Figure HTML**
+
+```html
+<figure><img alt="Face-on and edge-on views of spiral galaxies M100 and NGC 4565. Details in caption." class="internal default" src="/@api/deki/files/45708/347a4419b03d290ca645d3987eb6a9b7a81bf55b" /><figcaption>Figure \(\PageIndex{1}\) : Spiral Galaxies. Image (a) shows the face-on spiral galaxy M100, where bluer spiral arms indicate young, high-mass stars and active star formation. Image (b) shows the edge-on spiral galaxy NGC 4565, where a dark dust lane traces the galactic plane by absorbing starlight. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/16:_Galaxies/16.XX:_Accessible_Descriptions#Figure_16.2.2_Spiral_Galaxies" target="_blank" title="Accessible Descriptions">Accessible description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+
+*Generated August 15, 2026.*
+*AI citation (APA): Anthropic. (2026). Claude (Sonnet 5) [Large language model]. https://claude.ai*
+
+Could you confirm the correct Chapter 16 accessible-descriptions section link so I can finalize the anchor and figure HTML?
+
+## 1. Accessible Description
+
+```html
+<h2>Figure 16.2.1 Classification of Galaxies</h2>
+<p>Diagram illustrating Hubble's tuning fork classification of galaxies.</p>
+<h3>Ellipticals</h3>
+<ul>
+    <li>A row of five shapes runs along the left side of the diagram, connected by a blue line, labeled Ellipticals.</li>
+    <li>From left to right, the shapes progress from round to increasingly flattened ovals, labeled E0, E3, E5, E7, and S0.</li>
+    <li>E0 is a circular shape.</li>
+    <li>E3 and E5 are progressively flatter ovals.</li>
+    <li>E7 is a very elongated, thin oval.</li>
+    <li>S0 is a more circular shape with a bright core, marking the transition point where the line splits into two branches.</li>
+    <li>Below each labeled shape is an image of a real elliptical galaxy of that type, shown as a fuzzy, glowing patch of light without spiral structure.</li>
+</ul>
+<h3>Spirals</h3>
+<ul>
+    <li>From the S0 transition point, the upper branch of the line curves to the right and is labeled Spirals.</li>
+    <li>Three illustrated spiral shapes are spaced along this branch, labeled Sa, Sb, and Sc from left to right.</li>
+    <li>Sa has short, tightly wound spiral arms around a large central bulge.</li>
+    <li>Sb has longer arms and a smaller central bulge.</li>
+    <li>Sc has long, open, multiple spiral arms and a small central bulge.</li>
+    <li>Above each illustrated type is an image of a real spiral galaxy of that type.</li>
+</ul>
+<h3>Barred Spirals</h3>
+<ul>
+    <li>From the S0 transition point, the lower branch of the line curves downward and to the right, forming the second prong of the tuning fork.</li>
+    <li>Three illustrated barred spiral shapes are spaced along this branch, labeled SBa, SBb, and SBc from left to right.</li>
+    <li>SBa has a short central bar with tightly wound arms extending from its ends.</li>
+    <li>SBb has a longer bar with more open arms.</li>
+    <li>SBc has a long, prominent bar with long, open arms extending from its ends.</li>
+    <li>Below each illustrated type is an image of a real barred spiral galaxy of that type.</li>
+</ul>
+<p>Credit: modification of work by NASA, ESA</p>
+```
+
+## 2. New Figure Caption Text
+Edwin Hubble's tuning fork diagram organizes galaxies by shape, branching from elliptical galaxies into two sequences of spiral and barred spiral galaxies with increasingly open arms.
+
+## 3. New Alt-Text
+```
+Hubble tuning fork diagram classifying elliptical, spiral, and barred spiral galaxies. Details in caption.
+```
+
+## 4. Original Alt-Text and Caption (preserved)
+- **Original alt-text:** Hubble Classification of Galaxies. Sometimes referred to as the tuning fork diagram, this figure illustrates Hubble's classification of galaxies. From left to right are the Ellipticals, beginning with the spherical E0, slightly oval E3, flatter oval E5 to the very elongated oval E7. Below each illustrated type is an image of a galaxy of that type. At center is the more circular S0, from which the line splits into two parts (hence the tuning fork reference) and labeled Spirals. Above are the regular spirals. From left to right beginning with the short armed Sa, longer armed Sb and the open, multiple armed Sc. Above each illustrated type is an image of a galaxy of that type. Below are the barred spirals. From left to right beginning with the short bar SBa, longer bar SBb and the open, long bar SBc. Below each illustrated type is an image of a galaxy of that type.
+- **Original caption text:** This figure shows Edwin Hubble's original classification of galaxies. Elliptical galaxies are on the left. On the right, you can see the basic spiral shapes illustrated, alongside images of actual barred and unbarred spirals. (credit: modification of work by NASA, ESA)
+
+## 5. Attribution (default Openstax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+## 6. Anchor Link to Accessible Descriptions Page
+```
+/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.2.1_Classification_of_Galaxies
+```
+
+## 7. Complete Figure HTML
+```html
+<figure><img alt="Hubble tuning fork diagram classifying elliptical, spiral, and barred spiral galaxies. Details in caption." class="internal default" src="/@api/deki/files/45709/d31ae8d61a672bc0730c5e74ac2a492ff2398579" /><figcaption>Figure \(\PageIndex{1}\) : Classification of Galaxies. Edwin Hubble's tuning fork diagram organizes galaxies by shape, branching from elliptical galaxies into two sequences of spiral and barred spiral galaxies with increasingly open arms. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.2.1_Classification_of_Galaxies" target="_blank" title="16.8: Accessible Descriptions">Accessible description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 15, 2026.*
+*AI citation (APA): Anthropic. (2026). Claude (Sonnet 5) [Large language model]. https://claude.ai*
+
+Got it — starting over for Figure 16.1.3 with the actual figure HTML, including the real image source and original alt-text.
+
+## 1. Accessible Description
+
+```html
+<h2>Figure 16.1.3 Andromeda Galaxy</h2>
+<p>Visible light image of the Andromeda Galaxy and two satellite galaxies.</p>
+<h3>Image Elements</h3>
+<ul>
+    <li>The Andromeda Galaxy, also known as M31, is a large spiral galaxy that fills most of the frame.</li>
+    <li>The galaxy's disk is tilted and appears elongated, stretching from the upper left to the lower right of the image.</li>
+    <li>A bright, glowing central bulge, or nucleus, marks the middle of the galaxy.</li>
+    <li>Reddish-brown dust lanes form a mottled, ring-like pattern around the central bulge.</li>
+    <li>Faint blue spiral arms extend outward from the center, dotted with clusters of stars.</li>
+    <li>Thousands of foreground stars from our own galaxy are scattered across the black background, appearing as small points of white, blue, and orange light.</li>
+    <li>A smaller, round satellite galaxy, M32, appears as a compact glowing patch above and to the right of the galaxy's center.</li>
+    <li>A second satellite galaxy, M110, appears as an elongated glowing patch below the main galaxy.</li>
+</ul>
+<p>Credit: Adam Evans</p>
+```
+
+## 2. New Figure Caption Text
+The disk, spiral arms, and dust lanes of the Andromeda Galaxy are shown alongside two of its satellite galaxies, illustrating the structure typical of large spiral galaxies like our own.
+
+## 3. New Alt-Text
+```
+Andromeda Galaxy with satellite galaxies M32 and M110. Details in caption.
+```
+
+## 4. Original Alt-Text and Caption (preserved)
+- **Original alt-text:** The Andromeda Galaxy. The compact nucleus of our nearest large galactic neighbor is seen at the center of this visible light image, with the blue spiral arms and thick dust lanes circling around the outer parts of the galaxy.
+- **Original caption text:** Also known by its catalog number M31, the Andromeda galaxy is a large spiral galaxy very similar in appearance to, and slightly larger than, our own Galaxy. At a distance of about 2.5 million light-years, Andromeda is the spiral galaxy that is nearest to our own in space. Here, it is seen with two of its satellite galaxies, M32 (top) and M110 (bottom). (credit: Adam Evans)
+
+## 5. Attribution (default Openstax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+## 6. Anchor Link to Accessible Descriptions Page
+```
+/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.1.3_Andromeda_Galaxy
+```
+
+## 7. Complete Figure HTML
+```html
+<figure><img alt="Andromeda Galaxy with satellite galaxies M32 and M110. Details in caption." class="internal default" src="/@api/deki/files/45705/e94305c5e04a4d3d70f6e88a266d059b63c12900" /><figcaption>Figure \(\PageIndex{1}\) : Andromeda Galaxy. The disk, spiral arms, and dust lanes of the Andromeda Galaxy are shown alongside two of its satellite galaxies, illustrating the structure typical of large spiral galaxies like our own. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.1.3_Andromeda_Galaxy" target="_blank" title="16.8: Accessible Descriptions">Accessible description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 15, 2026.*
+*AI citation (APA): Anthropic. (2026). Claude (Sonnet 5) [Large language model]. https://claude.ai*
+
+Two flags before the output:
+
+- **Duplicate figure number:** you submitted 16.1.1 again, but that's already used for the Lord Rosse drawing. I'm assuming this should be **16.1.2** — let me know if you intended something else.
+- **Typo:** the draft caption has a stray closing parenthesis ("M51, NGC 5194)") — corrected below to "(M51, NGC 5194)".
+- Also flagging again: the original alt-text field (`fig-ch01_patchfile_01.jpg`) is a filename, not real alt-text — preserved as submitted, new alt-text generated separately.
+
+This is confirmed as a Hubble Space Telescope visible-light image (2005, NASA/ESA), matching your submitted credit.
+
+---
+
+**1. Accessible Description**
+```html
+<h2>Figure 16.1.2 Messier 51</h2>
+<p>A Hubble Space Telescope image of the Whirlpool Galaxy.</p>
+<h3>Image Elements</h3>
+<ul>
+    <li>The Whirlpool Galaxy, a spiral galaxy, occupies most of the image, with a bright, yellow-white core at its center.</li>
+    <li>Two prominent spiral arms wind outward from the core, traced by dark, reddish-brown lanes of dust.</li>
+    <li>Bright pink patches are scattered along the spiral arms, marking regions of active star formation.</li>
+    <li>Clusters of blue stars line the spiral arms, representing groups of young, hot stars.</li>
+    <li>A smaller, yellow companion galaxy, NGC 5195, is located to the right, joined to the Whirlpool Galaxy by a faint arm of stars and dust.</li>
+</ul>
+```
+
+**2. New Figure Caption Text**
+```html
+This Hubble Space Telescope image in visible light shows the graceful spiral arms and star-forming regions of the Whirlpool Galaxy (M51) beside its companion, NGC 5195.
+```
+
+**3. New Alt-text** (~97 characters)
+```html
+Spiral Whirlpool Galaxy (M51) beside companion galaxy NGC 5195, imaged by Hubble Space Telescope.
+```
+
+**4. Original Alt-text and Caption (preserved, typo corrected)**
+```html
+<p>Original alt-text: fig-ch01_patchfile_01.jpg</p>
+<p>Original caption text: The Whirlpool Galaxy (Spiral Galaxy M51, NGC 5194) beside its lenticular galaxy partner, NGC 5195.</p>
+```
+
+**5. Figure Attribution HTML**
+```html
+<a href="https://en.wikipedia.org/wiki/Public_domain" target="_blank" title="Public Domain">Public Domain</a>; <a href="https://www.nasa.gov/" target="_blank" title="NASA/ESA">NASA/ESA</a> via <a href="https://commons.wikimedia.org/wiki/File:Messier51_sRGB.jpg" target="_blank" title="Wikimedia Commons">Wikimedia Commons</a>
+```
+
+**6. Accessible Descriptions Anchor Link**
+```
+/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.1.2_Messier_51
+```
+
+**7. Complete Figure HTML**
+```html
+<figure><img alt="Spiral Whirlpool Galaxy (M51) beside companion galaxy NGC 5195, imaged by Hubble Space Telescope. Details in caption." class="internal default" src="/@api/deki/files/68239/3840px-Messier51_sRGB.jpg" /> <figcaption>Figure \(\PageIndex{1}\) : Messier 51. This Hubble Space Telescope image in visible light shows the graceful spiral arms and star-forming regions of the Whirlpool Galaxy (M51) beside its companion, NGC 5195. (<a href="https://en.wikipedia.org/wiki/Public_domain" target="_blank" title="Public Domain">Public Domain</a>; <a href="https://www.nasa.gov/" target="_blank" title="NASA/ESA">NASA/ESA</a> via <a href="https://commons.wikimedia.org/wiki/File:Messier51_sRGB.jpg" target="_blank" title="Wikimedia Commons">Wikimedia Commons</a>) <a href="/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.1.2_Messier_51" target="_blank" title="Accessible Descriptions">Accessible description of Figure \(\PageIndex{1}\)</a>.</figcaption> </figure>
+```
+
+---
+*Generated August 15, 2026. Anthropic. (2026). Claude (Sonnet 5) [Large language model]. https://claude.ai*
+
+I looked at the drawing — it's Lord Rosse's famous 1845 sketch of M51, made with the Leviathan of Parsonstown telescope at Birr Castle, and it was the first drawing to reveal a spiral nebula's spiral structure. That companion patch near the upper right corresponds to the companion galaxy now known as NGC 5195.
+
+A couple of flags before the full output:
+
+- **Alt-text mismatch:** the submitted alt-text (`fig-ch01_patchfile_01.jpg`) looks like a leftover filename rather than descriptive alt-text. I've preserved it as "original" below but generated proper new alt-text for the figure HTML.
+- **Non-OpenStax attribution:** since this is a Wikimedia Commons / Public Domain figure (not OpenStax), I'm using the fig-att non-default format with the License, Author, and Source values you gave. However, no **AuthorLink** was submitted for Lord Rosse — I need that to finish the attribution HTML and the assembled figure HTML (component 5 and 7 below are pending).
+
+---
+
+**1. Accessible Description**
+```html
+<h2>Figure 16.1.1 Whirlpool Galaxy</h2>
+<p>An illustration of the Whirlpool Galaxy, drawn by Lord Rosse.</p>
+<h3>Illustration Elements</h3>
+<ul>
+    <li>Rendered in black and white using stippled shading to represent the brightness of different regions.</li>
+    <li>A dense, tightly wound spiral structure occupies the center of the drawing, with the darkest shading concentrated at the core.</li>
+    <li>Several spiral arms wind outward from the core, gradually becoming fainter toward the outer edges.</li>
+    <li>A smaller, separate patch of shading appears near the upper right, corresponding to a companion galaxy detached from the main spiral structure.</li>
+    <li>Small numbers are scattered across the drawing, marking specific points of reference within the structure.</li>
+</ul>
+```
+
+**2. New Figure Caption Text**
+```html
+In 1845, Lord Rosse used his 72-inch Leviathan telescope at Birr Castle to produce this drawing, the first to reveal the spiral structure of the Whirlpool Galaxy, then classified as a spiral nebula.
+```
+
+**3. New Alt-text** (~88 characters)
+```html
+Illustration of the Whirlpool Galaxy's spiral structure, drawn by Lord Rosse in 1845.
+```
+
+**4. Original Alt-text and Caption (preserved)**
+```html
+<p>Original alt-text: fig-ch01_patchfile_01.jpg</p>
+<p>Original caption text: Drawing of a galaxy by Lord Rosse.</p>
+```
+
+**5. Figure Attribution HTML** — *pending AuthorLink*
+```html
+<a href="https://en.wikipedia.org/wiki/Public_domain" target="_blank" title="Public Domain">Public Domain</a>; <a href="[AuthorLink needed]" target="_blank" title="Lord Rosse">Lord Rosse</a> via <a href="https://commons.wikimedia.org/wiki/File:Whirlpool_by_lord_rosse.jpg" target="_blank" title="Wikimedia Commons">Wikimedia Commons</a>
+```
+
+**6. Accessible Descriptions Anchor Link**
+```
+/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.1.1_Whirlpool_Galaxy
+```
+
+**7. Complete Figure HTML** — *pending AuthorLink (will assemble once provided)*
+
+---
+*Generated August 15, 2026. Anthropic. (2026). Claude (Sonnet 5) [Large language model]. https://claude.ai*
+
+Once I have the AuthorLink, I'll finish components 5 and 7.
+
+Using the Wikipedia page as the AuthorLink. Here are the final components 5 and 7:
+
+**5. Figure Attribution HTML**
+```html
+<a href="https://en.wikipedia.org/wiki/Public_domain" target="_blank" title="Public Domain">Public Domain</a>; <a href="https://en.wikipedia.org/wiki/William_Parsons,_3rd_Earl_of_Rosse" target="_blank" title="Lord Rosse">Lord Rosse</a> via <a href="https://commons.wikimedia.org/wiki/File:Whirlpool_by_lord_rosse.jpg" target="_blank" title="Wikimedia Commons">Wikimedia Commons</a>
+```
+
+**7. Complete Figure HTML**
+```html
+<figure><img alt="Illustration of the Whirlpool Galaxy's spiral structure, drawn by Lord Rosse in 1845. Details in caption." class="internal default" src="/@api/deki/files/68235/RosseGalaxy.jpg" /> <figcaption>Figure \(\PageIndex{1}\) : Whirlpool Galaxy. In 1845, Lord Rosse used his 72-inch Leviathan telescope at Birr Castle to produce this drawing, the first to reveal the spiral structure of the Whirlpool Galaxy, then classified as a spiral nebula. (<a href="https://en.wikipedia.org/wiki/Public_domain" target="_blank" title="Public Domain">Public Domain</a>; <a href="https://en.wikipedia.org/wiki/William_Parsons,_3rd_Earl_of_Rosse" target="_blank" title="Lord Rosse">Lord Rosse</a> via <a href="https://commons.wikimedia.org/wiki/File:Whirlpool_by_lord_rosse.jpg" target="_blank" title="Wikimedia Commons">Wikimedia Commons</a>) <a href="/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions#Figure_16.1.1_Whirlpool_Galaxy" target="_blank" title="Accessible Descriptions">Accessible description of Figure \(\PageIndex{1}\)</a>.</figcaption> </figure>
+```
+
+That completes all seven components for Figure 16.1.1. Let me know when you have the next figure for Chapter 16.
+
+**Date:** August 15, 2026
+
+---
+
+## Changes Made
+
+1. Removed `&nbsp;` from the H2 header "The Expanding Universe."
+2. Removed all `<span class="no-emphasis" data-type="term">` tags, replacing with plain text (Slipher, Lemaître, Humason, Hubble, type Ia supernovae, expanding universe, Tully-Fisher relation, 21-cm line, Hubble's law, redshift).
+3. Removed the `<span data-type="term">` tags from "redshift," "type Ia supernova," "Hubble constant," and "Hubble's law."
+4. Removed italics (`<em data-effect="italics">`) from "The more distant the galaxy, the faster it was receding from us," "accelerating," "away from us," and "expansion of space" throughout.
+5. Removed italics from journal titles in the figure caption (Proceedings of the National Academy of Sciences and The Astrophysical Journal). Note: per standard HTML practice, journal titles in figure captions are left as plain text since the workflow does not call for adding italics formatting.
+6. Replaced "Figure 26.15" with "Figure XXX" in the paragraph text and figure caption.
+7. Replaced "Figure 26.16" with "Figure XXX" in the paragraph text and figure caption.
+8. Replaced "Figure 26.17" with "Figure XXX" in the paragraph text and figure caption.
+9. Converted the block MathML equation for v = H × d to KaTeX block format: \[v = H \times d \nonumber\].
+10. Converted the block MathML equation for the distance calculation in the Example to KaTeX block format: \[d = \frac{v}{H} = ...\nonumber\].
+11. Converted the inline MathML equation for the Exercise answer to KaTeX inline format using \(...\).
+12. Removed bold formatting from the Hubble's law equation variables in the paragraph text (v, H, d) as they are not key term links. Rendered as plain text.
+13. Removed the `<h2>` tag from "Exercise" and reformatted it as an exercise box using `<section class="box-exercise">` with the appropriate legend and answer structure.
+14. Reformatted the "Example: Hubble's Law" section as an example box using `<div class="box-example">` with the appropriate legend.
+15. Moved the Example and Exercise sections to the end of the page, after all content sections, as they logically follow the instructional content.
+16. Removed the `data-type="footnote-refs-title"` attribute from the "Examples and Exercises" H3 header, as it was replaced by the properly formatted example and exercise boxes.
+17. Removed the empty `<p>&nbsp;</p>` paragraph in the Slipher section.
+18. Removed the empty `<p>&nbsp;</p>` paragraph after the Humason paragraph.
+19. Removed the parenthetical "(By then, there was no question that the spiral nebulae were in fact galaxies.)" from the Hubble/Humason paragraph.
+20. Removed the parenthetical about spacetime review from the expansion of space paragraph: "(If this notion of the 'stretching' of space surprises or bothers you, now would be a good time to review the information about spacetime in Black Holes and Curved Spacetime. We will discuss these ideas further as our discussion broadens from galaxies to the whole universe.)"
+21. Renamed the H3 header "What is the Universe expanding into?" to "What the Universe Is Expanding Into" — removed the question format per the guidelines.
+22. Added a missing period after "observatory" in the Humason paragraph.
+23. Corrected "measureable" to <span class="mt-bgcolor-e67e22">measureable</span> — flagged as a spelling issue (correct spelling is "measurable"). Note: per workflow, the text is highlighted but not corrected.
+24. Removed the `(Figure 26.16)` parenthetical reference and replaced with "Figure XXX."
+25. Removed the `(Figure 26.17)` parenthetical reference in the raisin bread paragraph and replaced with "Figure XXX."
+
+---
+
+## IDEA Framework Recommendations
+
+Based on the IDEA Framework (IDEA-Framework-Sept-2023-revised-9-27.pdf):
+
+1. **Diverse Authors, Researchers, and Studies (7.4) — Named Scientists:** The text names only male scientists — Percival Lowell, Vesto Slipher, Georges Lemaître, Alexander Friedmann, Edwin Hubble, Milton Humason, and Harlow Shapley. Per the IDEA Framework, "referencing discipline contributors with backgrounds like those of students both validates and affirms the students as student-scholars and invites them into the academic conversation" (IDEA Framework, 7.4). The IDEA Framework also notes that "if the contributions are dominated by cis-hetero white men, discuss this with the class and include some the historical and structural explanations for the lack of diversity" (IDEA Framework, 7.4). Consider adding a sidebar or note acknowledging that the early 20th-century astronomical community was largely exclusionary, and highlighting contributions from astronomers of diverse backgrounds to the study of galaxy velocities and the expanding universe.
+
+2. **Diverse Authors, Researchers, and Studies (7.4) — Henrietta Swan Leavitt:** The text relies heavily on Cepheid variable measurements without acknowledging Henrietta Swan Leavitt, whose discovery of the period-luminosity relationship for Cepheid variables made Hubble's distance measurements possible. Leavitt was a woman working as a "computer" at the Harvard Observatory, a role that was largely invisible in the scientific record. The IDEA Framework calls for including "examples of and references to historically underrepresented groups" (IDEA Framework, 7.4). Consider adding a sentence acknowledging Leavitt's foundational contribution.
+
+3. **Incorporating Diverse Perspectives (7.8) — Lemaître's Recognition:** The text does note that the International Astronomical Union suggested renaming Hubble's law the Hubble-Lemaître law, which is a positive step toward recognitive justice (IDEA Framework, 3.0). However, the text still refers to the relationship as "Hubble's law" throughout. Consider consistently using "Hubble-Lemaître law" or adding a note at first use explaining the naming history more fully.
+
+4. **Appropriate Terminology (7.6) — STEM Guidance:** The IDEA Framework notes that "referencing theory and concepts by the scientist's or theorist's name elevates the person over the concept" (IDEA Framework, 7.4). Consider whether "Hubble's law" could be supplemented with a descriptive name such as the "Velocity-Distance Law" or "Recession Law" to make the concept more accessible and less dependent on name recognition, particularly given the naming dispute around Lemaître's contributions.
+
+5. **Prior Knowledge Assumptions (7.5):** The raisin bread analogy assumes familiarity with bread-making and yeast. The IDEA Framework cautions against assuming students have cooked when discussing heating or cooling (IDEA Framework, 7.5). Consider briefly explaining what yeast does in bread-making, or using a more universally accessible analogy. Similarly, the reference to "the fourth of July" in the previous section assumes familiarity with U.S. cultural traditions.
+
+6. **Figures — Diverse Representation:** The two analogy figures (stretching ruler with ants, expanding raisin bread) are diagrams with no human subjects. No diversity concerns apply to the images themselves. However, the use of a gendered pronoun ("He measures how fast other ants...") in the ruler analogy paragraph assigns a male gender to the "intelligent ant." Consider using a gender-neutral pronoun such as "they" to model inclusive language.
+
+---
+
+## Recommended Section Headers
+
+**H2: The Expanding Universe**
+*Introductory paragraph: An overview of the discovery that the universe is expanding, and how early spectroscopic observations of galaxies led to one of the most profound insights in the history of astronomy.*
+
+- **H3: Slipher's Pioneering Observations**
+  - Lowell Observatory and the search for solar systems
+  - Redshifts of spiral nebulae
+  - The significance of Slipher's 1914 announcement
+
+- **H3: Hubble's Law**
+  - Lemaître's theoretical prediction
+  - Hubble and Humason's observational work
+  - The velocity-distance relationship
+  - The Hubble constant
+
+- **H3: Using Hubble's Law to Measure Distances**
+  - Applying the velocity-distance formula
+  - Limitations and assumptions
+
+- **H3: Is Hubble's Constant Really Constant?**
+  - Decelerating vs. accelerating expansion
+  - Type Ia supernovae and the discovery of acceleration
+  - Implications for distance calculations
+
+- **H3: Models for an Expanding Universe**
+  - The rubber ruler analogy
+  - The raisin bread analogy
+  - What expansion means for galaxies and space
+
+- **H3: What the Universe Is Expanding Into**
+  - The limits of measurement
+  - No observable edge, boundary, or center
+
+---
+
+## AI Citation
+
+OpenAI. (2026). *ChatGPT* (August 15 version) [Large language model]. https://chat.openai.com
+
+---
+
+**Date:** August 15, 2026
+
+---
+
+## Changes Made
+
+1. Removed `&nbsp;` from the H2 header "Distance Scales."
+2. Removed the parenthetical analogy about getting to class on time from the second paragraph, as it is a parenthetical sentence. Removed the surrounding parentheses.
+3. Removed the parenthetical "(and we recommend that you review that chapter if it has been a while since you've read it)" from the Variable Stars section.
+4. Removed italics (`<em data-effect="italics">`) from "variable stars" and "bulbs" throughout.
+5. Removed all `<span class="no-emphasis" data-type="term">` tags, replacing with plain text (Baade, Tully, Fisher, standard bulb, 21-cm line, Tully-Fisher relation).
+6. Removed the `<span data-type="term">` tag from "type Ia supernova."
+7. Removed the `<span class="no-emphasis" data-type="term">` tag from "type Ia supernova" in the figure caption.
+8. Replaced "Figure 26.11" with "Figure XXX" in the paragraph text and figure caption.
+9. Replaced "Figure 26.12" with "Figure XXX" in the paragraph text and figure caption.
+10. Replaced "Table 26.2" with "Table XXX" in both paragraph and table caption.
+11. Removed bold (`<strong>`) from "Galactic distances," "standard galactic brightness," "Tully-Fisher Relationship," "galaxy's white dwarf supernovae," "V," "d," "t," "H<sub>0</sub>," and "V = H<sub>o</sub>d to d = v/H<sub>o</sub>" as none are links to a key terms page.
+12. Removed the parenthetical "(see The Evolution of Binary Star Systems)" from the Standard Bulbs section.
+13. Replaced the subscript `<sub>o </sub>` (with trailing space) on H<sub>0</sub> with clean `<sub>0</sub>` formatting throughout.
+14. Moved the "Another method is to examine a galaxy's white dwarf supernovae luminosities" paragraph (class `lt-phys-64228`) to after the Tully-Fisher discussion, as it logically belongs with the other standard bulb/distance methods rather than interrupting the Tully-Fisher explanation.
+15. Moved the "Galactic Distance and Position versus Galactic Age" section and its paragraphs to after the Tully-Fisher section, as they logically follow the distance methods discussion.
+16. Renamed the H3 header "Other Measuring Techniques" to "The Tully-Fisher Relation" to better reflect the content of that section.
+17. Renamed the H3 header "Galactic Distance and Position versus Galactic Age" to "Galactic Distance, Position, and Age" — removed the word "versus" as it implies opposition where none exists.
+18. Reformatted the `<div class="bc-aside aside">` content to use proper `<p>` tags inside the div for cleaner HTML structure.
+19. Removed italics from L<sub>Sun</sub> in the Standard Bulbs paragraph.
+
+---
+
+## IDEA Framework Recommendations
+
+Based on the IDEA Framework (IDEA-Framework-Sept-2023-revised-9-27.pdf):
+
+1. **Diverse Authors, Researchers, and Studies (7.4):** The text names only male scientists — Hubble, Baade, Tully, and Fisher — as contributors to the methods of measuring galactic distances. Per the IDEA Framework, referencing discipline contributors with diverse backgrounds "validates and affirms students as student-scholars and invites them into the academic conversation" (IDEA Framework, 7.4). Consider adding a sentence or sidebar acknowledging the contributions of Wendy L. Freedman (already credited in the figure caption), who led the Hubble Space Telescope Key Project on the extragalactic distance scale, and Henrietta Swan Leavitt, whose discovery of the period-luminosity relationship for Cepheid variables made all of these distance measurements possible.
+
+2. **Incorporating Diverse Perspectives (7.8):** The text centers the history of distance measurement entirely within a Western scientific tradition. Consider adding a brief note acknowledging that Indigenous and non-Western astronomical traditions have long observed and tracked celestial objects, and that modern astronomy builds on a global history of sky observation.
+
+3. **Appropriate Terminology (7.6) — STEM Guidance:** The IDEA Framework notes that for STEM courses, "referencing theory and concepts by the scientist's or theorist's name elevates the person over the concept. When appropriate, shift attention to the concept by using descriptions that signify the reason the concept is important" (IDEA Framework, 7.4). Consider whether "Tully-Fisher relation" could be supplemented with a descriptive name such as the "Rotation-Luminosity Relation" to make the concept more accessible and less dependent on name recognition.
+
+4. **Applications and Problem Scenarios (IDEA Framework):** The analogy about getting to class on time (removed per workflow) assumed a specific student experience. The IDEA Framework cautions against assumptions about prior knowledge or frame of reference. The removal of this analogy aligns with IDEA best practices.
+
+5. **Figures — Diverse Representation:** The figure caption for the Cepheid Variable Star credits Wendy L. Freedman, a prominent woman astronomer. This is a positive example of diverse attribution. Consider adding a brief note in the text about Freedman's role in the HST Key Project to make this contribution more visible to students.
+
+6. **Table XXX (Distance Methods):** The table is clear and well-structured. No IDEA concerns apply to the table content itself.
+
+---
+
+## Recommended Section Headers
+
+**H2: Measuring Distances to Galaxies**
+*Introductory paragraph: An overview of why measuring galaxy distances is essential to understanding their properties, and the challenges astronomers face in making these measurements accurately.*
+
+- **H3: Variable Stars as Distance Markers**
+  - The role of Cepheid variables
+  - Hubble Space Telescope measurements
+  - Limitations of the Cepheid method
+
+- **H3: Standard Bulbs**
+  - The concept of standard luminosity
+  - Type Ia supernovae as distance indicators
+  - Other standard bulb candidates
+
+- **H3: The Tully-Fisher Relation**
+  - Rotation velocity and galaxy luminosity
+  - Using the 21-cm line
+  - Limitations of the method
+
+- **H3: Galactic Distance, Position, and Age**
+  - Hubble's Law and the Hubble Constant
+  - Calculating the age of the universe from distance and velocity
+
+- **H3: Summary of Distance Methods**
+  - Comparison table of methods, galaxy types, and distance ranges
+
+---
+
+## AI Citation
+
+OpenAI. (2026). *ChatGPT* (August 15 version) [Large language model]. https://chat.openai.com
+
+---
+
+**Date:** August 15, 2026
+
+---
+
+## Changes Made
+
+1. Removed `&nbsp;` from the H2 header "Properties of Galaxies."
+2. Removed all `<span class="no-emphasis" data-type="term">` tags throughout, replacing with plain text (galaxies, Doppler effect, galactic mass, Andromeda galaxy, dark matter, Milky Way Galaxy, line broadening, mass-to-light ratio).
+3. Removed the `<span data-type="term">` tag from "mass-to-light ratio."
+4. Converted the inline MathML for 4 × 10¹¹ M<sub>Sun</sub> to plain text: 4 x 10<sup>11</sup> M<sub>Sun</sub>.
+5. Converted the inline MathML for 1.4 × 10¹² M<sub>Sun</sub> to plain text: 1.4 x 10<sup>12</sup> M<sub>Sun</sub>.
+6. Converted the inline MathML for 8.5 × 10¹¹ M<sub>Sun</sub> to plain text: 8.5 x 10<sup>11</sup> M<sub>Sun</sub>.
+7. Removed italics (`<em data-effect="italics">`) from M<sub>Sun</sub> and L<sub>Sun</sub> throughout, including in the table.
+8. Replaced "Table 26.1" with "Table XXX" in both paragraph references.
+9. Replaced "Table 18.3" with "Table XXX" in the mass-to-light ratio section.
+10. Replaced "Figure 26.10" with "Figure XXX" in the paragraph and figure caption.
+11. Removed the parenthetical "(Figure 26.10)" and replaced with "Figure XXX."
+12. Highlighted the passage about Edwin Hubble in red for IDEA review — see reasoning below.
+
+---
+
+## IDEA Framework Recommendations
+
+Based on the IDEA Framework (IDEA-Framework-Sept-2023-revised-9-27.pdf), the following recommendations are made:
+
+1. **Diverse Authors, Researchers, and Studies (7.4):** The text references only Edwin Hubble and Kepler by name. The IDEA Framework notes that OER texts still skew heavily toward white male scientists (Thiede, 2021). Consider adding a sentence or sidebar that acknowledges contributions from diverse astronomers to the study of galaxy masses, dark matter, and rotation curves — for example, Vera Rubin and Kent Ford, whose work on galaxy rotation curves was foundational to our understanding of dark matter. This is also an opportunity to highlight the work of researchers from underrepresented groups.
+
+2. **Incorporating Diverse Perspectives (7.8) — Highlighted in Red:** The final paragraph centers Edwin Hubble as the reference point for a historical parallel about scientific breakthroughs. While historically accurate, the text does not acknowledge that the scientific community of Hubble's era was largely exclusionary. The IDEA Framework recommends inserting context or attribution for historical references as needed. Consider adding a brief note acknowledging that the scientific community of today is more diverse than in Hubble's time, and that this diversity strengthens the field.
+
+3. **Illustrations and Photos (7.1):** The single figure in this section (M101, the Pinwheel Galaxy) is an astronomical image with no human subjects. No diversity concerns apply to the image itself. However, the credited researchers in the caption (Kuntz, Bresolin, Trauger, Mould, Chu) represent some diversity. Consider adding a brief note about any of these researchers' backgrounds to model diverse scientific contributions.
+
+4. **Applications and Problem Scenarios (IDEA Framework):** The text uses the Sun as the reference unit for mass and luminosity throughout. This is standard scientific practice and is inclusive. No changes needed here.
+
+5. **Keyword and Glossary Representation (7.7):** The term "dark matter" is used extensively but not linked to a glossary or key terms page. Consider adding a glossary link for this term, as it is a high-priority concept for students and represents an area of active research with contributions from diverse scientists worldwide.
+
+---
+
+## Recommended Section Headers
+
+**H2: Properties of Galaxies**
+*Introductory paragraph: An overview of how astronomers measure and characterize the physical properties of galaxies, including mass, luminosity, and the role of dark matter.*
+
+- **H3: Measuring Galaxy Masses**
+  - Rotation speeds and Kepler's third law
+  - Mass estimates for spiral galaxies (Andromeda, Milky Way)
+  - Measuring mass in elliptical galaxies using line broadening
+
+- **H3: Comparing Galaxy Types**
+  - Summary table of galaxy characteristics
+  - Mass ranges for spirals, ellipticals, and irregulars
+
+- **H3: Mass-to-Light Ratio**
+  - Definition and significance
+  - Variation across galaxy types
+  - Evidence for dark matter in galaxy halos
+
+---
+
+## AI Citation
+
+OpenAI. (2026). *ChatGPT* (August 15 version) [Large language model]. https://chat.openai.com
+
+---
+
+**Date:** August 15, 2026
+
+---
+
+## Changes Made
+
+1. Removed the `&nbsp;` after "Galaxy Types" in the H2 header.
+2. Removed the `<span class="no-emphasis" data-type="term">` tags throughout, replacing them with plain text (galaxies, Andromeda galaxy, spiral galaxies, Large Magellanic Cloud, Small Magellanic Cloud, dark matter, irregular galaxy, Elliptical galaxies).
+3. Removed italics (`<em data-effect="italics">`) from M<sub>Sun</sub>, L<sub>Sun</sub>, and "Dwarf ellipticals" throughout.
+4. Removed bold (`<strong>`) from "Spiral galaxies," "Elliptical galaxies," "Active galaxies," "Seyfert galaxies," and "Radio galaxies" as they are not links to a key terms page. Also removed bold from "Hubble Galactic Tuning Fork."
+5. Removed the parenthetical "(see Analyzing Starlight)" from paragraph 2.
+6. Removed "(see Figure 26.2)" and replaced with "Figure XXX" in the Spiral Galaxies section.
+7. Replaced all figure numbers (Figure 26.4, 26.5, 26.6, 26.7, 26.8, 26.9, 25.10) with Figure XXX throughout.
+8. Removed "(see Figure 25.10)" and replaced with "Figure XXX."
+9. Removed "(Figure 26.7)" and replaced with "Figure XXX."
+10. Removed the parenthetical "(see Active Galaxies, Quasars, and Supermassive Black Holes)" — not present in this text, but confirmed no such references remain.
+11. Removed "(Figure 26.5)" and replaced with "Figure XXX."
+12. Removed "(Figure 26.4)" and replaced with "Figure XXX."
+13. Removed "(Figure 26.9)" and replaced with "Figure XXX."
+14. Removed "(Figure 26.6)" and replaced with "Figure XXX."
+15. Removed "(Figure 26.8)" and replaced with "Figure XXX."
+16. Removed `&nbsp;` blank paragraphs (the empty `<p>&nbsp;</p>` tags) in the Irregular Galaxies and Elliptical Galaxies sections.
+17. Replaced Figure `\(\PageIndex{1}\)` references in the two locally-uploaded figures with "Figure XXX."
+18. Fixed the broken URL in the Large Magellanic Cloud figure caption — removed the malformed appended "(Copyright" from the href and title, correcting the link.
+19. Removed "(see Analyzing Starlight)" from the Galaxy Evolution section paragraph.
+20. Added an `<h3>` header "Active Galaxies" and moved the active galaxies paragraph (class `lt-phys-64225`) under it, placing it logically after Irregular Galaxies and before Galaxy Evolution.
+21. Formatted the "Further Exploration" section into a `<section class="box-note">` box.
+22. Highlighted the fragment "Appear to be old when compared to other spirals." in orange as it appears to be an incomplete sentence/grammar issue.
+23. Removed trailing comma at the end of the last sentence in the Irregular Galaxies section, replacing it with a period.
+24. Removed the `<span data-type="term">` tag from "Elliptical galaxies" in the Elliptical Galaxies section body paragraph, replacing with plain text.
+
+---
+
+## IDEA Framework Recommendations (Non-Text Material)
+
+1. **Figures — Diverse Representation:** The figures in this section (NGC 2787, M100, NGC 4565, NGC 1300, ESO 325-G004, M32, Large Magellanic Cloud) are all astronomical images with no human subjects. No diversity concerns apply to the images themselves. However, all credited scientists and researchers named in captions (Judy Schmidt, "Jschulman555") appear to represent a limited demographic. Consider adding captions or supplementary text that highlights contributions from a more diverse range of astronomers.
+2. **Figures — Caption Attribution:** The Hubble Classification figure credits only NASA and ESA. Consider adding context about Edwin Hubble's background and noting that galaxy classification has been refined by many astronomers from diverse backgrounds since Hubble's time.
+3. **Hubble's Legacy:** The text centers Edwin Hubble as the primary figure in galaxy classification without acknowledging other contributors. Consider adding a sentence or note about other astronomers, including women such as Henrietta Swan Leavitt or Cecilia Payne-Gaposchkin, whose work was foundational to understanding galaxies.
+4. **Magellanic Clouds — Indigenous Knowledge:** The text notes that Ferdinand Magellan and his crew "were the first European travelers to notice" the Magellanic Clouds. This framing erases the long-standing knowledge of these objects by Indigenous peoples of the Southern Hemisphere, including Aboriginal Australians and peoples of the Pacific Islands and South America, who had names and cultural knowledge of these objects long before European contact. Consider revising this sentence to acknowledge Indigenous astronomical knowledge.
+
+---
+
+## Recommended Section Headers
+
+**H2: Types and Evolution of Galaxies**
+*Introductory paragraph: An overview of how astronomers classify galaxies by shape and structure, and how our understanding of galaxy evolution has developed from Hubble's early classifications to modern research.*
+
+- **H3: Classifying Galaxies**
+  - Overview of Hubble's classification system (tuning fork diagram)
+  - The four major galaxy groups
+
+- **H3: Spiral Galaxies**
+  - Structure of spiral galaxies (bulge, halo, disk, arms)
+  - Barred spirals
+  - Range of spiral types (Sa to Sc)
+  - Mass and luminosity of spirals
+
+- **H3: Elliptical Galaxies**
+  - Shape and classification (E0 to E7)
+  - Giant and dwarf ellipticals
+  - Stellar populations and dark matter
+
+- **H3: Irregular Galaxies**
+  - Characteristics of irregular galaxies
+  - The Magellanic Clouds as examples
+
+- **H3: Active Galaxies**
+  - Seyfert galaxies, radio galaxies, quasars, and blazars
+
+- **H3: Galaxy Evolution**
+  - Early theories of galaxy evolution
+  - Modern understanding of galaxy transformation
+  - Mergers, collisions, and changing galaxy types
+
+---
+
+## AI Citation
+
+OpenAI. (2026). *ChatGPT* (August 15 version) [Large language model]. https://chat.openai.com
+
+---
+
+
 Date: August 14, 2026
 
 Changes Made
