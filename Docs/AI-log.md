@@ -1,6 +1,511 @@
 # Log of AI use for ASTR10
 Oldest at the bottom
 
+---
+
+**Date:** August 16, 2026
+
+---
+
+## List of Changes Made
+
+1. **H2 Header revised:** Changed `<h2 class="lt-phys-66857">Introduction - change</h2>` to `<h2 class="lt-phys-66857">How Galaxies and Large-Scale Structure Form</h2>`. The placeholder text "- change" was removed and replaced with a descriptive title. The class attribute was preserved.
+2. **Removed parenthetical cross-reference** `(to be discussed in The Big Bang)` from the introductory paragraph.
+3. **Removed cross-reference** `We also saw in Active Galaxies, Quasars, and Supermassive Black Holes that` — revised to `We also saw that` to remove the chapter cross-reference while preserving the sentence.
+4. **Removed cross-reference** `as we saw in Active Galaxies, Quasars, and Supermassive Black Holes` from the second paragraph of How Galaxies Form and Grow — revised sentence to remove the cross-reference while preserving the meaning.
+5. **Removed italics** from `giant` in the sentence about mature giant elliptical galaxies.
+6. **Removed italics** from `everything` in the Forming Galactic Structures section.
+7. **Replaced Figure 28.27** with `Figure XXX` in paragraph text and figure caption.
+8. **Replaced Figure 28.21** with `Figure XXX` in paragraph text (two instances — one in Forming Galactic Structures, one in the figure caption for Figure 28.29).
+9. **Replaced Figure 28.28** with `Figure XXX` in paragraph text and figure caption.
+10. **Replaced Figure 28.29** with `Figure XXX` in paragraph text and figure caption.
+11. **Replaced Figure 28.30** with `Figure XXX` in paragraph text and figure caption.
+12. **Removed parenthetical cross-reference** `(see The Big Bang)` from the Forming Galactic Structures section.
+13. **Removed orphaned paragraph** `The box at left is labeled "Big Bang," the box at center is unlabeled and the box at right is labeled "Present". A white arrow points from left to right representing the direction of time.` — this descriptive text was a stray paragraph that belonged in the figure caption. It was incorporated into the figure caption for Figure XXX (formerly 28.29) as: `The box at left is labeled "Big Bang," the box at center shows an intermediate stage, and the box at right is labeled "Present."` The stray paragraph was removed from the body text.
+14. **H3 header `The Universe`** — renamed to `The Story of the Universe` to be more descriptive and informative per recommended section header guidelines.
+15. **Replaced nightclub analogy** `much as sound waves vibrate the air of a nightclub with an especially loud band` — revised to `much as sound waves vibrate the air in a large concert hall`. Per IDEA Framework 7.5 (Applications, Examples, and Problem Scenarios): "Be mindful when creating exercises that require specific knowledge, context, or frame of reference." A nightclub is a culturally specific and age-restricted context that may not be universally accessible or appropriate for all students. A concert hall is a more neutral and universally accessible analogy. This change is highlighted as a suggestion; the original text was not flagged in red as the change is minor.
+16. **Replaced Lego analogy** `like Lego pieces being put together one by one to create a giant Lego metropolis` — revised to `like building blocks being put together one by one to create a giant structure`. Per IDEA Framework 7.5: "Even very common cultural elements such as Harry Potter, Disney, or popular game shows are not universal." Lego is a commercial brand that is not universally accessible or familiar in all cultural contexts. A more neutral analogy was substituted.
+17. **Removed parenthetical cross-reference** `(Figure 28.27)` — replaced with `Figure XXX` inline.
+18. **Removed parenthetical cross-reference** `(Figure 28.28)` — replaced with `Figure XXX` inline.
+19. **Removed parenthetical cross-reference** `(Figure 28.30)` — replaced with `Figure XXX` inline.
+20. **Minor HTML cleanup:** Consistent indentation and spacing in all `<figure>` tags. Removed extraneous whitespace.
+
+---
+
+## IDEA Framework Assessment
+
+Using the IDEA Framework (IDEA-Framework-Sept-2023-revised-9-27.pdf) as a reference:
+
+### Paragraph Text — No Red Highlights Applied
+
+No paragraph text was flagged in red. However, the following observations and recommendations are noted:
+
+### Recommended Changes (Non-Text and General)
+
+1. **Diverse Authors, Researchers, and Studies (IDEA 7.4):** Per the IDEA Framework: "Referencing discipline contributors—e.g., researchers, scholars, academics—with backgrounds like those of students both validates and affirms the students as student-scholars and invites them into the academic conversation." The text discusses galaxy formation theory, the black hole-galaxy mass relationship, and large-scale structure formation without naming any researchers. This is an opportunity to mention contributors from diverse backgrounds. For example:
+   - The discovery of the black hole-galaxy mass relationship involved contributions from researchers at institutions around the world, including work by Andrea Ghez (University of California, Los Angeles), who shared the 2020 Nobel Prize in Physics for her work on the supermassive black hole at the center of the Milky Way.
+   - The Illustris and IllustrisTNG simulations of large-scale structure formation (referenced implicitly in Figure XXX, formerly 28.29) involved researchers from institutions across Europe, North America, and beyond.
+   - Per the IDEA Framework: "Include current, more diverse contributors when possible and relevant where historical contributors are not diverse." Consider adding a feature box or sidebar highlighting a researcher from an underrepresented group who has contributed to galaxy formation theory or large-scale structure modeling.
+
+2. **Illustrations and Photos (IDEA 7.1):** All figures in this section are schematic diagrams, telescope images, or computer simulation outputs. There are no images of people. Per the IDEA Framework, consider adding a sidebar or feature box with an image of a researcher from an underrepresented group who has contributed to this field — for example, Andrea Ghez, or a researcher from a non-Western institution working on galaxy formation simulations.
+
+3. **Applications and Examples (IDEA 7.5):** Per the IDEA Framework: "Be mindful when creating exercises that require specific knowledge, context, or frame of reference." Two analogies in the original text were revised (see changes 15 and 16 above):
+   - The nightclub analogy was replaced with a concert hall analogy.
+   - The Lego analogy was replaced with a building blocks analogy.
+   These changes make the text more universally accessible and avoid assumptions about students' familiarity with specific commercial brands or age-restricted cultural contexts.
+
+4. **Incorporating Diverse Perspectives (IDEA Framework, Section 3.0):** The text presents galaxy formation theory primarily through a Western scientific framework. Per the IDEA Framework: "What is claimed as 'history'...is actually a mono-cultural, Western...version of human experience." While the scientific content itself is universal, consider acknowledging that our current understanding of galaxy formation is the result of contributions from researchers across many countries and institutions. For example, the Sloan Digital Sky Survey (discussed in a previous section) involved scientists from institutions in the United States, Japan, Germany, and other countries. The text could briefly note the international and collaborative nature of modern cosmological research.
+
+5. **Appropriate Terminology (IDEA 7.6):** The text uses the phrase "red and dead" to describe elliptical galaxies. This is standard astronomical terminology. However, per the IDEA Framework's guidance on appropriate terminology, consider whether this phrase could carry unintended connotations for some students. It is flagged here as a consideration, not a required change, since it is standard scientific vocabulary.
+
+6. **Knowledge and Representation (IDEA Framework, Section 3.0):** The IDEA Framework notes: "If academic knowledge is almost exclusively provided by authors who share an origin, perspective, or history, we must ask how we can be assured that our knowledge has not been filtered through a specific lens." The content in this section is primarily theoretical and observational cosmology, which is a field where structural barriers have historically limited participation by women, BIPOC researchers, and researchers from non-Western institutions. Per the IDEA Framework's guidance on "emerging inclusivity" as an obtainable goal, even a brief acknowledgment of the international and diverse nature of modern cosmological research would move this section toward greater inclusivity.
+
+---
+
+## Recommended Section Headers
+
+```
+H2: How Galaxies and Large-Scale Structure Form
+    [Introductory paragraph: The central question — how did the universe get its current structure?
+     The short answer: dark matter + gravity + time]
+
+H3: How Galaxies Form and Grow
+    [Top-down vs. bottom-up formation; elliptical and spiral galaxy formation;
+     the black hole-galaxy mass relationship; AGN feedback]
+
+H3: Forming Galactic Structures
+    [Evidence for early galaxy clusters; dark matter seeds; supercomputer models of
+     large-scale structure formation; the cosmic web]
+
+H3: The Story of the Universe
+    [Putting it all together: from smooth beginnings to filaments, voids, and clusters;
+     bottom-up assembly of galaxies and large-scale structure]
+```
+
+---
+
+## AI Citation (APA Format)
+
+OpenAI. (2026). *ChatGPT* (August 16 version) [Large language model]. https://chat.openai.com
+
+---
+
+
+
+**Date:** August 16, 2026
+
+---
+
+## List of Changes Made
+
+1. **H2 Header revised:** Changed `<h2>Introduction - change</h2>` to `<h2>Dark Matter and the Universe</h2>`. The placeholder text "- change" was removed and replaced with a descriptive title.
+2. **Removed `<span class="no-emphasis" data-type="term" group-by="d">dark matter</span>`** — replaced with plain text: `dark matter` (multiple instances throughout).
+3. **Removed `<span class="no-emphasis" data-type="term" group-by="g">gravitational lens</span>`** — replaced with plain text: `gravitational lenses`.
+4. **Removed `<span class="no-emphasis" data-type="term" group-by="M">MACHO</span>`** — replaced with plain text: `MACHO`.
+5. **Removed `<span class="no-emphasis" data-type="term" group-by="L">Local Group</span>`** — replaced with plain text: `Local Group`.
+6. **Removed `<span class="no-emphasis" data-type="term" group-by="V">Virgo Cluster</span>`** — replaced with plain text: `Virgo Cluster`.
+7. **Removed `<span class="no-emphasis" data-type="term" group-by="m">mass-to-light ratio</span>`** — replaced with plain text: `mass-to-light ratio`.
+8. **Removed `<span class="no-emphasis" data-type="term" group-by="L">Large Magellanic Cloud</span>`** — replaced with plain text: `Large Magellanic Cloud` in figure caption.
+9. **Removed `<span class="no-emphasis" data-type="term" group-by="S">Small Magellanic Cloud</span>`** — replaced with plain text: `Small Magellanic Cloud` in figure caption.
+10. **Removed `<span data-type="term" group-by="h">hot dark matter</span>`** — replaced with plain text: `hot dark matter`.
+11. **Removed `<span data-type="term" group-by="c">cold dark matter</span>`** — replaced with plain text: `cold dark matter`.
+12. **Removed `<span data-type="term" group-by="d">dark energy</span>`** — replaced with plain text: `dark energy`.
+13. **Removed `<span class="no-emphasis" data-type="term" group-by="E">Einstein</span>`** — replaced with plain text: `Einstein`.
+14. **Removed italics** from `is` in "But what is dark matter?" — rendered as plain text.
+15. **Removed italics** from `hot` and `cold` in the dark matter categories paragraph.
+16. **Removed italics** from `rotation curves,` in the Dark Matter and Galaxies section.
+17. **Removed italics** from `E` and `mc` in the Einstein equation reference — rendered as plain text: `E = mc²`.
+18. **Replaced Figure 28.23** with `Figure XXX` in paragraph text and figure caption.
+19. **Replaced Figure 28.24** with `Figure XXX` in paragraph text and figure caption.
+20. **Replaced Figure 28.25** with `Figure XXX` in paragraph text and figure caption.
+21. **Replaced Figure 28.26** with `Figure XXX` in paragraph text and figure caption.
+22. **Replaced Table 28.1** with `Table XXX` in paragraph text and table caption.
+23. **Removed parenthetical cross-reference** `(especially The Milky Way Galaxy)` from the introductory paragraph.
+24. **Removed parenthetical cross-reference** `(As many a ship captain in the polar seas found out too late, the part of the iceberg visible above the ocean's surface was not necessarily the only part he needed to pay attention to.)` — this is a parenthetical sentence per workflow rule 6. Note: also flagged below for IDEA review due to gendered pronoun "he."
+25. **Removed parenthetical cross-reference** `(as we saw in The Milky Way Galaxy)` from the Dark Matter and Galaxies section.
+26. **Removed parenthetical cross-reference** `(See the Astronomy Basics feature box Gravitational Lensing.)` from the Properties of Dark Matter section.
+27. **Removed parenthetical cross-reference** `(see Figure 28.25)` — replaced with `Figure XXX`.
+28. **Removed parenthetical cross-reference** `in Properties of Galaxies` from the Mass-to-Light Ratio section.
+29. **Removed parenthetical cross-reference** `(see The Big Bang)` from the Properties of Dark Matter section (two instances).
+30. **Removed parenthetical cross-reference** `(remember Einstein's famous E = mc²)` — revised to remove the parenthetical while preserving the equation reference as plain text: `the energy equivalent of about 68 grams of dark energy`.
+31. **Removed parenthetical cross-reference** `As we will see in The Big Bang` — revised sentence to remove chapter reference while preserving meaning.
+32. **Removed parenthetical cross-reference** `as we will see` — revised sentence in the dark energy paragraph to remove the forward reference.
+33. **Minor HTML cleanup:** Consistent indentation and spacing in all `<figure>` and `<table>` tags.
+
+---
+
+## IDEA Framework Assessment
+
+After reviewing the content against the IDEA Framework (IDEA-Framework-Sept-2023-revised-9-27.pdf):
+
+### Paragraph Text — No Red Highlights Applied
+
+No paragraph text was flagged in red. However, the following observations and recommendations are noted based on the IDEA Framework:
+
+### Recommended Changes (Non-Text and General)
+
+1. **Gendered Language (IDEA 7.3 — Gender-Inclusive Language and Use of Pronouns):** The original text contained the sentence: "As many a ship captain in the polar seas found out too late, the part of the iceberg visible above the ocean's surface was not necessarily the only part he needed to pay attention to." This sentence was removed per workflow rule 6 (parenthetical sentence removal). However, it is worth noting that the original contained a gendered pronoun ("he") applied to a generic role. Per IDEA Framework 7.3, generic roles should not default to a single gender. If this analogy is reinstated, it should use gender-neutral language (e.g., "they needed to pay attention to").
+
+2. **Diverse Authors, Researchers, and Studies (IDEA 7.4):** The text mentions Albert Einstein by name in connection with general relativity. Per IDEA Framework 7.4, when individual researchers are named, the text should, where possible, also include contributions from researchers of diverse backgrounds. The history of dark matter research includes important contributions from researchers such as Vera Rubin and Kent Ford (rotation curves), Fritz Zwicky (cluster mass discrepancies), and more recently researchers from institutions across Asia, Latin America, and Africa. Consider adding a brief mention of Vera Rubin's pioneering work on rotation curves, as her contributions are directly relevant to the content of the Dark Matter and Galaxies section and she represents an underrepresented group (women in astrophysics) whose work was historically overlooked. Per the IDEA Framework: "Include current, more diverse contributors when possible and relevant where historical contributors are not diverse."
+
+3. **Illustrations and Photos (IDEA 7.1):** All figures in this section are telescope images, data plots, or composite astronomical images. There are no images of people. Per IDEA Framework 7.1, consider adding a sidebar or feature box that highlights a researcher from an underrepresented group who contributed to dark matter research — for example, Vera Rubin, whose work on galaxy rotation curves provided some of the most compelling evidence for dark matter, or researchers from non-Western institutions currently working on dark matter detection experiments.
+
+4. **Applications and Examples (IDEA Framework):** The analogy used to explain dark matter detection (the ship captain and the iceberg) was removed per workflow rules. The remaining analogies in the text (air particles in a warm vs. cold room for hot/cold dark matter) are accessible and do not assume specific cultural knowledge. Per the IDEA Framework: "Be mindful when creating exercises that require specific knowledge, context, or frame of reference." The air particle analogy is a good example of an inclusive, universally accessible analogy.
+
+5. **Incorporating Diverse Perspectives (IDEA Framework):** The text discusses the history of dark matter discovery primarily through the lens of Western astronomical institutions. Per IDEA Framework section 3.0 and 7.4, consider acknowledging that our current understanding of dark matter is the result of contributions from researchers across many countries and institutions, not solely from Western universities. For example, the Atacama Large Millimeter Array (ALMA) in Chile involves international collaboration, and dark matter research is being conducted at institutions across Asia, Latin America, and beyond.
+
+6. **Appropriate Terminology (IDEA 7.6):** The term "MACHOs" (MAssive Compact Halo Objects) is a standard astronomical acronym. The text also references "WIMPs" (Weakly Interacting Massive Particles) implicitly. These terms are standard in the field and do not carry negative connotations in this context.
+
+---
+
+## Recommended Section Headers
+
+```
+H2: Dark Matter and the Universe
+    [Introductory paragraph: Overview of dark matter's importance in galaxy evolution and the universe]
+
+H3: Local Dark Matter
+    [Evidence (or lack thereof) for dark matter in the solar system and near the Sun]
+
+H3: Dark Matter and Galaxies
+    [Rotation curves; evidence for dark matter halos in spiral galaxies]
+
+H3: Dark Matter in Clusters of Galaxies
+    [Galaxy velocities; gravitational lensing; X-ray emission as methods for detecting dark matter in clusters]
+
+H3: Mass-to-Light Ratio
+    [Definition and measurements; Table of mass-to-light ratios; dark matter dominance at galaxy scales and above]
+
+H3: Properties of Dark Matter
+    [MACHOs; hot vs. cold dark matter; current evidence favoring cold dark matter models]
+
+H3: Dark Energy and the Composition of the Universe
+    [Introduction to dark energy; inventory of the universe's contents; open questions in cosmology]
+```
+
+---
+
+## AI Citation (APA Format)
+
+OpenAI. (2026). *ChatGPT* (August 16 version) [Large language model]. https://chat.openai.com
+
+---
+
+Do you have more HTML to paste in?
+
+---
+
+**Date:** August 16, 2026
+
+---
+
+## List of Changes Made
+
+1. **H2 Header revised:** Changed `<h2>Introduction - change</h2>` to `<h2>The Distribution of Galaxies in Space</h2>`. The placeholder text "- change" was removed and replaced with a descriptive title.
+2. **Removed `<span data-type="term" group-by="i">isotropic</span>`** — replaced with plain text: `isotropic`.
+3. **Removed `<span data-type="term" group-by="h">homogeneous</span>`** — replaced with plain text: `homogeneous`.
+4. **Removed `<span data-type="term" group-by="c">cosmological principle</span>`** — replaced with plain text: `cosmological principle`.
+5. **Removed `<span data-type="term" group-by="L">Local Group</span>`** — replaced with plain text: `Local Group`.
+6. **Removed `<span class="no-emphasis" data-type="term" group-by="L">Local Group</span>`** — replaced with plain text: `Local Group`.
+7. **Removed `<span class="no-emphasis" data-type="term" group-by="A">Andromeda galaxy</span>`** — replaced with plain text: `Andromeda galaxy`.
+8. **Removed `<span class="no-emphasis" data-type="term" group-by="M">Milky Way Galaxy</span>`** — replaced with plain text: `Milky Way Galaxy`.
+9. **Removed `<span class="no-emphasis" data-type="term" group-by="g">galaxy clusters</span>`** — replaced with plain text: `galaxy clusters`.
+10. **Removed `<span class="no-emphasis" data-type="term" group-by="V">Virgo Cluster</span>`** — replaced with plain text: `Virgo Cluster`.
+11. **Removed `<span class="no-emphasis" data-type="term" group-by="C">Coma cluster</span>`** — replaced with plain text: `Coma cluster`.
+12. **Removed `<span class="no-emphasis" data-type="term" group-by="S">Sloan Digital Sky Survey</span>`** — replaced with plain text: `Sloan Digital Sky Survey` (two instances).
+13. **Removed `<span data-type="term" group-by="s">superclusters</span>`** — replaced with plain text: `superclusters`.
+14. **Removed `<span data-type="term" group-by="v">voids</span>`** — replaced with plain text: `voids`.
+15. **Removed `<span class="no-emphasis" data-type="term" group-by="g">gravitational lens</span>`** in figure caption — replaced with plain text: `gravitational lens`.
+16. **Replaced Figure 28.13** with `Figure XXX` in paragraph text.
+17. **Replaced Figure 28.14** with `Figure XXX` in paragraph text and figure caption.
+18. **Replaced Figure 28.15** with `Figure XXX` in paragraph text and figure caption.
+19. **Replaced Figure 28.16** with `Figure XXX` in paragraph text and figure caption.
+20. **Replaced Figure 28.17** with `Figure XXX` in paragraph text (two instances) and figure caption.
+21. **Replaced Figure 28.18** with `Figure XXX` in paragraph text and figure caption.
+22. **Replaced Figure 28.19** with `Figure XXX` in paragraph text and figure caption.
+23. **Replaced Figure 28.21** with `Figure XXX` in paragraph text (two instances) and figure caption.
+24. **Replaced Figure 28.22** with `Figure XXX` in paragraph text and figure caption.
+25. **Removed italics** from `poor` and `rich` in the Neighboring Groups and Clusters section.
+26. **Removed italics** from `640 objects at a time` in The Sloan Digital Sky Survey section.
+27. **Removed italics** from `optical fibers` in The Sloan Digital Sky Survey section.
+28. **Removed italics** from variable names** in the Example box (V, R) — rendered as plain text.
+29. **Removed italics** from `R³` in the Example Solution — rendered as plain text with superscript.
+30. **Removed parenthetical cross-reference** `(see The Architecture of the Galaxy)` from the Cosmological Principle section.
+31. **Removed parenthetical cross-reference** `(recall this term from Astronomical Instruments)` from The Sloan Digital Sky Survey section.
+32. **Removed parenthetical cross-reference** `(see The Big Bang)` from the Cosmological Principle section (two instances).
+33. **Removed parenthetical cross-reference** `(see The Big Bang)` from the Superclusters and Voids section.
+34. **Removed cross-reference text** `see the Making Connections feature box Astronomy and Technology: The Sloan Digital Sky Survey at the end of this section` from the Superclusters and Voids section.
+35. **Removed parenthetical note** `(Strictly speaking, this is true only if the light from distant galaxies is not absorbed by dust in our own Galaxy, but Hubble made corrections for this absorption.)` — this is a parenthetical sentence per workflow rule 6.
+36. **Removed parenthetical cross-reference** `in the chapter on Active Galaxies, Quasars, and Supermassive Black Holes` from the Neighboring Groups and Clusters section — revised to remove the cross-reference while preserving the sentence.
+37. **Removed cross-reference** `We mentioned in The Milky Way Galaxy` — revised to `A dwarf galaxy` to remove the chapter cross-reference while preserving the sentence.
+38. **Removed cross-reference** `if you have been thinking about our discussions of the expanding universe in Galaxies` — revised to `if you have been thinking about our discussions of the expanding universe`.
+39. **Converted MathML to plain text** for the Coma cluster mass: `4 × 10<sup>15</sup> M<sub>Sun</sub>`. The duplicate `4 × 10<sup>15</sup>` in the original HTML (MathML followed by plain text) was reduced to a single instance.
+40. **Removed italics** from `M` in M<sub>Sun</sub> references throughout — rendered as plain text.
+41. **Converted MathML equations in Example box to plain text** — `2³ = 8` rendered as `2<sup>3</sup> = 8`; volume formula rendered as `(4/3)π × (60 million light-years)<sup>3</sup> = 9 × 10<sup>23</sup> light-years<sup>3</sup>`.
+42. **Converted MathML equations in Exercise answer to plain text** — `(4/3)π × (90 million light-years)<sup>3</sup> = 3.05 × 10<sup>24</sup> light-years<sup>3</sup>` and `3<sup>3</sup> = 27`.
+43. **Formatted Example box** — converted `<section class="box-example">` with `\(\PageIndex{1}\)` header to `<div class="box-example">` with a descriptive legend: `Example: Galaxy Survey Volumes`. Moved solution text inside the box.
+44. **Formatted Exercise box** — updated header legend from `\(\PageIndex{1}\)` to `Exercise: Galaxy Survey Volumes`. Answer section already correctly formatted; preserved as-is.
+45. **Formatted Further Exploration box** — already formatted as `<div class="box-note">`. Changed to `<section class="box-note">` per the Further Exploration format in the workflow. Preserved all links and content.
+46. **Removed `&nbsp;`** from the blank paragraph in the Exercise answer section — replaced with nothing.
+47. **H3 header `Gravitational Lensing`** — added `class="lt-phys-66855"` to match the style of other H3 headers.
+48. **H3 header `The Sloan Digital Sky Survey`** — added `class="lt-phys-66855"` to match the style of other H3 headers.
+49. **Highlighted in orange** `is scheduled to launch` — the James Webb Space Telescope launched in December 2021; the text states it "is scheduled to launch" in 2021, which is now outdated. This is flagged as a potential factual update needed.
+50. **Highlighted in red** the sentence about Margaret Geller and John Huchra — per IDEA Framework section 7.4 (Diverse Authors, Researchers, and Studies), the text names only two researchers (both appearing to be from Western institutions) without acknowledging the broader diversity of contributors to large-scale structure mapping. The IDEA Framework notes that when contributions are dominated by a narrow group, this should be discussed or supplemented with more diverse examples.
+51. **Minor HTML cleanup:** Consistent indentation and spacing in all `<figure>`, `<section>`, and `<div>` tags.
+
+---
+
+## IDEA Framework Assessment
+
+### Paragraph Text Highlighted in Red
+
+- **Margaret Geller and John Huchra paragraph** (Superclusters and Voids section): Highlighted in red. Per IDEA Framework 7.4 (Diverse Authors, Researchers, and Studies), the text names only two researchers without acknowledging the diversity of contributors to large-scale structure research. The IDEA Framework states: "If the contributions are dominated by cis-hetero white men, discuss this with the class and include some of the historical and structural explanations for the lack of diversity" and "Include current, more diverse contributors when possible." Consider supplementing this passage with mention of other contributors to large-scale structure mapping from a wider range of backgrounds and institutions.
+
+### Recommended Changes (Non-Text and General)
+
+1. **Illustrations and Photos (IDEA 7.1):** All figures in this section are telescope images, survey maps, diagrams, and one image of a single male astronomer (Richard Kron, Figure XXX). Per IDEA Framework 7.1, consider adding images that represent a more diverse range of scientists working in this field. The single image of a person in this section shows one individual; consider whether an additional image of a more diverse group of researchers could be included.
+2. **Diverse Authors, Researchers, and Studies (IDEA 7.4):** The text names Margaret Geller and John Huchra as pioneers of galaxy mapping. Consider adding a brief mention of other researchers from underrepresented groups who have contributed to large-scale structure surveys, such as contributors to the SDSS from institutions in Asia, Latin America, or other regions. The IDEA Framework specifically notes: "Include examples of and references to historically underrepresented groups, such as Arabic contributors to mathematics and astronomy."
+3. **Applications and Examples (IDEA Framework):** The analogy of explorers in "uncharted territory" carries colonial connotations, as many territories described as "uncharted" by Western explorers were in fact well-known to Indigenous peoples. Per IDEA Framework guidance on appropriate terminology, consider revising this analogy to use a more neutral framing, such as scientists mapping an unknown region of the ocean floor or researchers surveying a newly discovered ecosystem.
+4. **Appropriate Terminology (IDEA 7.6):** The phrase "uncharted territory" in the Superclusters and Voids section may carry unintended colonial connotations. Consider revising to a more neutral metaphor.
+5. **Outdated Content:** The text states that the James Webb Space Telescope "is scheduled to launch" in 2021. The telescope launched on December 25, 2021. This should be updated to reflect the actual launch and subsequent scientific results. This is flagged in orange in the HTML above.
+6. **Incorporating Diverse Perspectives (IDEA Framework):** The "Galaxy Zoo" citizen science project is mentioned positively and highlights global participation. This is a strength of the section from an IDEA perspective. Consider expanding this mention to note the global diversity of participants and the accessibility of citizen science as a way to include diverse perspectives in research.
+
+---
+
+## Recommended Section Headers
+
+```
+H2: The Distribution of Galaxies in Space
+    [Introductory paragraph: Why galaxy distribution matters for understanding evolution and collisions]
+
+H3: The Cosmological Principle
+    [Hubble's survey findings; isotropy and homogeneity; the cosmological principle defined]
+
+H3: The Local Group
+    [Our galactic neighborhood; members of the Local Group; recent discoveries of dwarf galaxies]
+
+H3: Neighboring Groups and Clusters
+    [Galaxy clusters: poor and rich; the Virgo Cluster; the Coma Cluster; elliptical vs. spiral galaxies in clusters]
+
+H3: Gravitational Lensing
+    [How mass bends light; multiple images and arcs; lensing as a tool for probing distant galaxies]
+
+H3: Superclusters and Voids
+    [Three-dimensional mapping; filaments and superclusters; voids; large-scale structure of the universe]
+
+H3: The Sloan Digital Sky Survey
+    [Technology and methods of the SDSS; results and data scale; citizen science and Galaxy Zoo]
+```
+
+---
+
+## AI Citation (APA Format)
+
+OpenAI. (2026). *ChatGPT* (August 16 version) [Large language model]. https://chat.openai.com
+
+---
+
+**Date:** August 16, 2026
+
+---
+
+## List of Changes Made
+
+1. **H2 Header revised:** Changed `<h2>Introduction - change</h2>` to `<h2>Galaxy Collisions and Evolution</h2>`. The placeholder text "- change" was removed and replaced with a descriptive title.
+2. **Removed italics** from `orbits` in the Galactic Mergers section.
+3. **Replaced Figure 28.1** with `Figure XXX` in paragraph text.
+4. **Replaced Figure 28.7** with `Figure XXX` in paragraph text and figure caption.
+5. **Replaced Figure 28.8** with `Figure XXX` in paragraph text and figure caption.
+6. **Replaced Figure 28.9** with `Figure XXX` in paragraph text (two instances) and figure caption.
+7. **Replaced Figure 28.10** with `Figure XXX` in paragraph text and figure caption.
+8. **Replaced Figure 28.11** with `Figure XXX` in paragraph text and figure caption.
+9. **Replaced Figure 28.12** with `Figure XXX` in paragraph text and figure caption.
+10. **Replaced Figure 27.7** with `Figure XXX` in paragraph text.
+11. **Removed parenthetical cross-reference** `(See the Astronomy Basics feature box Why Galaxies Collide but Stars Rarely Do.)` from the Galactic Mergers section.
+12. **Removed parenthetical cross-reference** `(see The Distribution of Galaxies in Space)` from the Galactic Collisions section.
+13. **Removed parenthetical cross-reference** `(see Figure 28.12)` — replaced with `Figure XXX` in the Active Galactic Nuclei section.
+14. **Removed parenthetical cross-reference** `(Figure 28.8)` — replaced with `Figure XXX` in the Galactic Collisions section.
+15. **Removed parenthetical cross-reference** `(Figure 28.9)` — replaced with `Figure XXX` in the paragraph about elliptical galaxies.
+16. **Removed parenthetical cross-reference** `(Figure 28.10)` — replaced with `Figure XXX` in the starburst paragraph.
+17. **Removed parenthetical cross-reference** `(Figure 28.11)` — replaced with `Figure XXX` in the galaxy mergers frequency paragraph.
+18. **Removed `<span class="no-emphasis" data-type="term" group-by="g">galaxy collisions</span>`** — replaced with plain text: `galaxy collisions`.
+19. **Removed `<span class="no-emphasis" data-type="term" group-by="M">M87</span>`** — replaced with plain text: `M87`.
+20. **Removed `<span data-type="term" group-by="m">merger</span>`** — replaced with plain text: `merger`.
+21. **Removed `<span data-type="term" group-by="g">galactic cannibalism</span>`** — replaced with plain text: `galactic cannibalism`.
+22. **Removed `<span data-type="term" group-by="s">starburst</span>`** — replaced with plain text: `starburst`.
+23. **Removed italics** from `active galactic nuclei` in the Active Galactic Nuclei section.
+24. **Removed italics** from `AGN feedback` in the Active Galactic Nuclei section.
+25. **Removed cross-reference text** `You learned in Active Galaxies, Quasars, and Supermassive Black Holes about a family of objects known as` — replaced with `A family of objects known as` to remove the chapter cross-reference while preserving the sentence meaning.
+26. **Removed cross-reference** `we discussed in Galaxies` from the elliptical galaxies paragraph — replaced with `we discussed previously`.
+27. **Removed `<em>` italics tags** throughout (orbits, active galactic nuclei, AGN feedback).
+28. **H3 header `Galactic Collisions`** — added `class="lt-phys-64837"` to match the style of other H3 headers in the document.
+29. **Minor HTML cleanup:** Consistent indentation and spacing in all `<figure>` tags.
+30. **Corrected minor typo in figure caption credit:** Added space after period in `R.P.van der Marel` → `R.P. van der Marel` and `J.Gerssen` → `J. Gerssen`, and `R.Kraft` → `R. Kraft`.
+31. **Corrected figure caption:** "Centaurus is at a distance" → "Centaurus A is at a distance" (minor HTML error correction).
+32. **No spelling or grammar errors** were identified that required orange highlighting.
+
+---
+
+## IDEA Framework Assessment
+
+After reviewing the content against the IDEA Framework (IDEA-Framework-Sept-2023-revised-9-27.pdf):
+
+**No paragraph text was flagged in red.** The content is primarily scientific and technical. However, the following observations are noted:
+
+### Recommended Changes (Non-Text and General)
+
+1. **Illustrations and Photos (IDEA 7.1):** All figures in this section are telescope images of galaxies, simulations, or composite data visualizations. There are no images of people. Per the IDEA Framework, consider adding a sidebar, feature box, or supplementary image that highlights a researcher from an underrepresented group who has contributed to the study of galaxy collisions, mergers, or AGN — for example, a researcher from a non-Western institution or a woman in astrophysics.
+2. **Diverse Authors, Researchers, and Studies (IDEA 7.4):** The figure credits mention researchers by name (e.g., P. Jonsson, G. Novak, T. J. Cox, Pieter van Dokkum, Marijn Franx). All credited researchers appear to be from Western institutions. Consider adding a feature box or note that highlights contributions from researchers at institutions in other parts of the world, or from underrepresented groups, who have advanced our understanding of galaxy evolution and mergers.
+3. **Incorporating Diverse Perspectives (IDEA Framework):** The text uses the analogy of "two equal companies that join forces" (from the business world) to explain galaxy mergers. This is a culturally specific analogy rooted in Western corporate culture. Consider offering an alternative or additional analogy that is more globally accessible.
+4. **Appropriate Terminology (IDEA 7.6):** The term "galactic cannibalism" is a colorful astronomical term that uses the metaphor of consumption. While it is standard terminology in the field, consider adding a brief note acknowledging that it is a metaphor, particularly given the historical and colonial connotations of the word "cannibalism." The IDEA Framework recommends identifying terminology that may carry unintended negative connotations and providing context where appropriate.
+5. **Applications and Examples (IDEA Framework):** The grapefruit/San Francisco analogy for star separation is effective and accessible. Consider whether additional analogies from non-U.S. geographic contexts could be offered as alternatives to make the content more globally inclusive.
+
+---
+
+## Recommended Section Headers
+
+```
+H2: Galaxy Collisions and Evolution
+    [Introductory paragraph: Overview of how collisions and mergers shape galaxy evolution]
+
+H3: Galactic Mergers
+    [How galaxy collisions alter star orbits and galaxy appearance; gallery of colliding galaxies]
+
+H3: Galactic Collisions
+    [Why galaxies collide more often than stars; scale comparisons; computer simulations;
+     mergers, galactic cannibalism, and starburst galaxies]
+
+H3: Evidence from the Early Universe
+    [How observations of distant, young galaxies resemble starburst merger galaxies;
+     frequency of mergers over cosmic time]
+
+H3: Active Galactic Nuclei and Galaxy Evolution
+    [How AGN and supermassive black holes influence galaxy evolution;
+     AGN feedback and its role in star formation]
+```
+
+---
+
+## AI Citation (APA Format)
+
+OpenAI. (2026). *ChatGPT* (August 16 version) [Large language model]. https://chat.openai.com
+
+---
+
+
+**Date:** August 16, 2026
+
+---
+
+## List of Changes Made
+
+1. **H2 Header revised:** Changed `<h2>Introduction - change&nbsp;</h2>` to `<h2>Introduction to Galaxy Evolution</h2>`. The `&nbsp;` was removed and replaced with nothing (no space needed at end of header). The placeholder text "- change" was removed and the title was made descriptive.
+2. **Removed `&nbsp;`** from the H2 header (no space needed at end of title).
+3. **Removed `<span class="no-emphasis" data-type="term" group-by="g">galaxies</span>`** — replaced with plain text: `galaxies`.
+4. **Removed `<span class="no-emphasis" data-type="term" group-by="A">Andromeda galaxy</span>`** — replaced with plain text: `Andromeda galaxy`.
+5. **Replaced Figure 28.2** with `Figure XXX` in paragraph text (two instances).
+6. **Replaced Figure 28.3** with `Figure XXX` in paragraph text (two instances).
+7. **Replaced Figure 28.4** with `Figure XXX` in paragraph text.
+8. **Replaced Figure 28.5** with `Figure XXX` in paragraph text.
+9. **Replaced Figure 28.6** with `Figure XXX` in paragraph text.
+10. **Replaced all figure caption numbers** (28.2, 28.3, 28.4, 28.5, 28.6) with `Figure XXX`.
+11. **Removed italics** from `redshift` in the Spectra, Colors, and Shapes section.
+12. **Removed italics** from `shapes` in the A Changing Universe section.
+13. **Removed italics** from `young` in the A Changing Universe section.
+14. **Removed italics** from `seeds` in the A Changing Universe section.
+15. **Removed italics** from `individual` and `successive generations` in the Introduction section.
+16. **Removed italics** from `quasars` in The First Generation of Stars section.
+17. **Removed italics** from `z` in Figure XXX caption (formerly 28.3).
+18. **Removed italics** from `a, b,* and *c* in Figure XXX caption (formerly 28.6) — replaced with plain text `a, b, and c`.
+19. **Removed italics** from `M` in `M`<sub>Sun</sub> references in paragraph text.
+20. **Removed parenthetical cross-reference** `(see Active Galaxies, Quasars, and Supermassive Black Holes)` from the quasars paragraph.
+21. **Removed parenthetical cross-reference** `(as explained in Galaxies)` from the Spectra, Colors, and Shapes section.
+22. **Replaced `(Figure 28.2)`** with `Figure XXX` in paragraph text.
+23. **Replaced `(Figure 28.3)`** with `Figure XXX` in paragraph text.
+24. **Replaced `(Figure 28.4)`** with `Figure XXX` in paragraph text.
+25. **Replaced `(Figure 28.5)`** with `Figure XXX` in paragraph text.
+26. **Replaced `(Figure 28.6)`** with `Figure XXX` in paragraph text.
+27. **Removed `<span class="no-emphasis" data-type="term" group-by="q">quasar</span>`** — replaced with plain text: `quasar`.
+28. **Removed `<span data-type="term" group-by="e">evolution</span>`** — replaced with plain text: `evolution`.
+29. **Removed parenthetical note in figure caption** `(see the Astronomy Basics feature box on Gravitational Lensing later in this chapter)` from the Abell 2744 figure caption.
+30. **Removed parenthetical note in figure caption** `(Since the Hubble orbits Earth every 96 minutes, the telescope returned to view the same tiny piece of sky over and over again until enough light was collected and added together to make this very long exposure.)` — Note: This is a parenthetical sentence in a figure caption. Per workflow rule 6, parentheses around an entire sentence in paragraph text are removed. Applied same rule to figure caption parenthetical sentence.
+31. **Removed italics** from `M` in M<sub>Sun</sub> in the A Changing Universe section; rendered as plain text `M<sub>Sun</sub>`.
+32. **No spelling or grammar errors** were identified that required highlighting.
+33. **No IDEA Framework concerns** were identified in the paragraph text that required red highlighting (see IDEA section below for recommendations).
+34. **Paragraphs reviewed for logical order** — all paragraphs appear to be in logical order within their sections. No paragraphs were moved.
+35. **No references section** was present in the HTML; no reference formatting was needed.
+36. **Minor HTML cleanup:** Closed spacing and indentation in `<figure>` tags for consistency.
+
+---
+
+## IDEA Framework Assessment
+
+After reviewing the content against the IDEA Framework:
+
+**No paragraph text was flagged in red.** The content is primarily scientific and does not contain overtly exclusionary language. However, the following recommendations are noted:
+
+### Recommended Changes (Non-Text and General)
+
+1. **Diverse Authors and Researchers (IDEA 7.4):** The text references several research teams and telescope programs but does not mention the names or backgrounds of diverse scientists who contributed to this research. Consider adding a brief mention of researchers from underrepresented groups who have contributed to galaxy evolution research.
+2. **Illustrations and Photos (IDEA 7.1):** All figures in this section are telescope images of galaxies. There are no images of people. Consider adding a sidebar or feature box that highlights a diverse astronomer who contributed to this field (e.g., an astronomer from a non-Western institution or a woman in astronomy).
+3. **Incorporating Diverse Perspectives (IDEA Framework):** The analogies used (e.g., "families of international students sending newspapers") are somewhat Western-centric in framing. Consider revising the analogy to be more globally neutral.
+4. **Applications and Examples (IDEA Framework):** The human development analogy (babies → adults) is used to explain galaxy evolution. This is effective but consider whether additional culturally diverse analogies could be offered as alternatives.
+
+---
+
+## Recommended Section Headers
+
+```
+H2: Introduction to Galaxy Evolution
+    [Introductory paragraph summarizing the challenge of studying galaxy change over cosmic time]
+
+H3: Observing Galaxies Across Time
+    [How look-back time and cosmic distance allow study of galaxy evolution]
+
+H3: Spectra, Colors, and Shapes
+    [How electromagnetic radiation reveals galaxy properties; color and morphology as tracers of star formation]
+
+H3: The First Generation of Stars
+    [Evidence from old stars and distant galaxies for early star formation]
+
+H3: A Changing Universe
+    [How modern telescopes revealed that early galaxies differ dramatically from present-day galaxies; galaxy growth through mergers]
+```
+
+---
+
+## AI Citation (APA Format)
+
+OpenAI. (2026). *ChatGPT* (August 16 version) [Large language model]. https://chat.openai.com
+
+---
+
+
+## Session Overview
+
+Here is a summary of the work completed in this session:
+
+**Date**: March 19, 2026
+
+**Lists Processed**: 1
+
+### List 1
+- **Terms formatted**: 8
+- **Key Terms Page URL**: `/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.07%3A_Key_Terms`
+- **Topics**: Galaxy types, Hubble's law, and cosmology
+
+**Total Terms Formatted**: 8
+
+---
+
+## AI Citation
+
+> Claude (Version claude-sonnet-4-5, March 19, 2026). *OER Textbook Key Terms Formatter session*. Anthropic. Accessed March 19, 2026. [https://www.anthropic.com](https://www.anthropic.com)
+
+---
+
+Thank you for using the OER Textbook Formatter! Good luck with your textbook editing. 😊
+
 One flag before the write-up: the submitted alt-text lists the distances as **3, 16, 25, 7 cm** (left) and **6, 32, 50, 14 cm** (right), but the image itself shows **3, 16, 20, 7 cm** and **6, 32, 40, 14 cm** — the third value differs (25/50 vs. 20/40). I've gone with what's visible in the image below; let me know if I should use the submitted numbers instead.
 
 Also incrementing the figure number from 16.5.2 to **16.5.3**, since none was given.

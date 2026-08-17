@@ -5,7 +5,8 @@ Note - oldest entry at bottom of page
 ## Progress
 ASTR 10 18 Chapters + Appendices - remove?
 
-Current Chapters Done  6 does this update live?
+Current Chapters Done  8
+astronomical instruments, stellar spectra, star formation, aging stars, stellar finale, black holes, the milky way, galaxies
 
 ## Tasks
 1. Review all completed science and societies and mark as complete in project tracking. - asap - once AI system is working
@@ -29,6 +30,28 @@ Current Chapters Done  6 does this update live?
 - record descriptions of figures?
 - Optional 
     - Scientist Appendices - Make accessible, edit, etc. and link to relevant sections. 
+## 8/16/26
+- Finish galaxies
+- start on evolution of galaxies
+- work with agent and astronomy toolkit or break up astro figs into skills
+### Pinned
+- HTML Review Observations of Distant Galaxies
+
+### Finished
+- Final Edit of The Discovery of Galaxies
+- Final Edit of Types of Galaxies
+- Final Edit of Properties of Galaxies
+- Final Edit of The Extragalactic Distance Scale
+- Final Edit of The Expanding Universe
+- Format Key Terms Galaxies and copy in links
+- Galaxies - main page
+- Galaxies - final check
+- Whole Chapter - Evolution of Galaxies
+- Format HTML Observations of Distant Galaxies
+- Format HTML Mergers and Active Galaxies
+- Format HTML The Distribution of Galaxies
+- Format HTML The Challenge of Dark Matter
+- Format HTML The Structure of the Universe
 ## 8/15/26
 - Format HTML of Galaxies and next steps
 - Buy agent today??
