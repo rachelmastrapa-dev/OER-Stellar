@@ -4,11 +4,15 @@
 2. Make new branch
 3. Open log, AI log, and this file 
 ## Ending Day
-Close all files, commit, merger branches.
+Close all files, commit, merge branches.
 ## Whole Chapter - Manual
 - key terms
   - note possible key terms
   - Copy key terms from Openstax and add to log. for chapter and general  - check general log
+- remove chapter summaries
+- change last section to Accessible Descriptions
+- shorten chapter, section, and subsection headings.
+- More links to end - call Further Exploration
 - Go over remixed material on each page and make sure it is on correct page. 
 - Delete extra materials
 - log references
