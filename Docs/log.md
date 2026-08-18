@@ -25,11 +25,23 @@ astronomical instruments, stellar spectra, star formation, aging stars, stellar 
 14. use AI to create summaries for each page, and read over, put in main part and in window - do I need page summaries?
 15. revisit  main text around figures and captions and use the format image (a), (capitalize in headers)
 ## Future?
-
 - Create links between chapters
 - record descriptions of figures?
 - Optional 
     - Scientist Appendices - Make accessible, edit, etc. and link to relevant sections. 
+## 8/17/26
+- Finish Evolution of Galaxies
+### Pinned
+- Process Art and Astronomy/Final Edit Evolution of galaxies
+
+### Finished
+- HTML Review Evolution of Galaxies
+- Format Figures Observations of Distant Galaxies
+- Copied in astronomy toolkit and edited numbers, focusing on main topics
+- Format Figures Mergers and Active Galaxies
+- Format Figures The Distribution of Galaxies
+- Format Figures The Challenge of Dark Matter
+- Format Figures The Strucutre if the Universe
 ## 8/16/26
 - Finish galaxies
 - start on evolution of galaxies

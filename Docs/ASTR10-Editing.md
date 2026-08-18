@@ -86,14 +86,16 @@ Made new app with instructions in document. 
 
 ## Format Figures - Claude AI
 The general idea is to copy in the figure, and then the html of the figure and some of the text around it in html.  also add the title of the figure. and attribution data, or https://github.com/rachelmastrapa-dev/astro_figspreformated attribution for openstax, give link to accessible description page. See github package for full details.  
-- copy in image, old figure html,, figure #, if needed - accessible description link, figure title, default attribution, or attribution information. 
+- copy in image, old figure html, 
+  - if needed - accessible description link ( start with /Workbench), figure title, default attribution, or attribution information, figure. 
+  - Will use attribution from last figure and increment from last figure #
 - copy all results to AI log.
 - first copy accesible description into accessible descriptions and save!
-- copy old caption and alt-text to  and new figure html to chapter text (add, do not overwrite)
+- copy old caption and alt-text to  and new figure html to chapter text 
 - check links
 - edit
-- Change indices to correct figure number
-- improve wording of caption, alt-text and accessible description.
+  - Change indices to correct figure number
+  - improve wording of caption, alt-text and accessible description.
 
 ## Final Edit - Manual
 **The Milky Way Galaxy -all**
