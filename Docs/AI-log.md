@@ -1,6 +1,1180 @@
 # Log of AI use for ASTR10
 Oldest at the bottom
 
+**Note:** No figure number given, so I've inferred **17.5.3** (incrementing from 17.5.2) — flagging for confirmation. No credit line in the original caption, so none is included in the accessible description.
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.5.3 Formation of Cluster of Galaxies</h2>
+<p>Diagram of three stages in the formation of a galaxy cluster.</p>
+<h3>Panel 1: Small Clouds</h3>
+<ul>
+    <li>Three separate groups of small, hazy blue gas clouds, each with white arrows pointing inward from surrounding clouds toward a common center.</li>
+    <li>The arrows represent gravity drawing each group of small clouds together.</li>
+</ul>
+<h3>Panel 2: Galaxies</h3>
+<ul>
+    <li>Three fully formed galaxies, one plain blue glow and two with visible spiral structure, positioned in a row.</li>
+    <li>White arrows point inward between the galaxies, showing them being pulled toward each other by gravity.</li>
+</ul>
+<h3>Panel 3: Cluster of Galaxies</h3>
+<ul>
+    <li>The same three galaxies, now arranged in a loose, random grouping rather than in a row, representing a small cluster of galaxies.</li>
+</ul>
+```
+
+### 2. New Figure Caption Text
+This diagram illustrates one model for galaxy cluster formation, in which small gas clouds first collapse under gravity to form individual galaxies, which then congregate into a cluster.
+
+### 3. New Alt-Text
+Diagram showing small clouds forming galaxies that then group into a cluster. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Formation of a Cluster of Galaxies. Panel 1, labeled Small clouds, shows three areas where gas clouds have been drawn together due to gravity. White arrows are drawn pointing to the common center of each group of clouds. Panel 2, labeled Galaxies, shows three galaxies being pulled together due to gravity. White arrows indicate the motion of the galaxies toward each other. Panel 3, labeled Cluster of Galaxies, shows the three galaxies arranged randomly in a cluster.
+
+**Original caption:** This schematic diagram shows how galaxies might have formed if small clouds formed first and then congregated to form galaxies and then clusters of galaxies.
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.5.3_Formation_of_Cluster_of_Galaxies`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Diagram showing small clouds forming galaxies that then group into a cluster. Details in caption." class="internal default" src="/@api/deki/files/45989/0f8d823bee540c5e4fb3f8f3f115008ca51d4a55" /> <figcaption>Figure \(\PageIndex{1}\) : Formation of Cluster of Galaxies. This diagram illustrates one model for galaxy cluster formation, in which small gas clouds first collapse under gravity to form individual galaxies, which then congregate into a cluster. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.5.3_Formation_of_Cluster_of_Galaxies" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm the inferred figure number (17.5.3) and the attribution treatment.
+
+**Note:** No figure number given, so I've inferred **17.5.2** (incrementing from 17.5.1) — flagging for confirmation.
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.5.2 Formation of Large-Scale Structure</h2>
+<p>Diagram of three simulated cubes showing the growth of cosmic structure over time.</p>
+<h3>Diagram Elements</h3>
+<ul>
+    <li>Three cube-shaped simulation boxes are arranged diagonally from upper left to lower right, each showing dark matter and gas distribution at a different point in cosmic history.</li>
+    <li>A white arrow beneath the cubes points from upper left to lower right, labeled Big Bang at its starting point and Present at its ending point, indicating the progression of time.</li>
+    <li>The leftmost cube shows a relatively smooth, faint, cloud-like distribution of matter with only a few bright spots, representing the universe within the first 2 billion years after the Big Bang.</li>
+    <li>The middle cube shows a more developed, web-like pattern of filaments beginning to form, with additional small bright points representing forming galaxies.</li>
+    <li>The rightmost cube shows a highly clumpy, tangled network of bright filaments and dense knots of galaxies, with large dark voids between them, representing the present-day universe.</li>
+</ul>
+<p>Credit: modification of work by CXC/MPE/V. Springel</p>
+```
+
+### 2. New Figure Caption Text
+This sequence of simulated cubes traces the growth of large-scale cosmic structure, from a smooth distribution of dark matter and gas shortly after the Big Bang to the clumpy, filamentary network of galaxies seen in the universe today.
+
+### 3. New Alt-Text
+Simulation sequence showing large-scale cosmic structure evolving from the Big Bang to today. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Growth of Large-Scale Structure as Calculated by Supercomputers. This image presents three boxes showing how filaments and superclusters of galaxies grow over time, from a relatively smooth distribution of dark matter and gas at left, with few galaxies formed in the first 2 billion years after the Big Bang, to the very clumpy strings of galaxies with large voids today at right.
+
+**Original caption:** The boxes show how filaments and superclusters of galaxies grow over time, from a relatively smooth distribution of dark matter and gas, with few galaxies formed in the first 2 billion years after the Big Bang, to the very clumpy strings of galaxies with large voids today. The box at left is labeled "Big Bang," the box at center shows an intermediate stage, and the box at right is labeled "Present." Compare the last image in this sequence with the actual distribution of nearby galaxies shown in Figure \(\PageIndex{1}\). (credit: modification of work by CXC/MPE/V. Springel)
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.5.2_Formation_of_Large-Scale_Structure`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Simulation sequence showing large-scale cosmic structure evolving from the Big Bang to today. Details in caption." class="internal default" src="/@api/deki/files/45990/8e663fd7ed7f4f8ae88f78e630505eeccdc64dfe" /> <figcaption>Figure \(\PageIndex{1}\) : Formation of Large-Scale Structure. This sequence of simulated cubes traces the growth of large-scale cosmic structure, from a smooth distribution of dark matter and gas shortly after the Big Bang to the clumpy, filamentary network of galaxies seen in the universe today. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.5.2_Formation_of_Large-Scale_Structure" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm the inferred figure number (17.5.2) and the attribution treatment.
+
+**Note:** Figure number 17.5.1 given explicitly. No credit line in the original caption, so none is included. Since the panels are grouped under two titled rows, each with its own numbered sequence (1–3), I've structured the description with a subsection for each row.
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.5.1 Growth of Spiral Bulges</h2>
+<p>Diagram illustrating two ways spiral galaxy bulges can form.</p>
+<h3>Rapid Collapse</h3>
+<ul>
+    <li>Panel 1: An amorphous, diffuse cloud of gas, labeled Primordial hydrogen cloud.</li>
+    <li>Panel 2: A smaller, brighter, glowing clump of material, labeled Cloud collapses under gravity. Red arrows point inward from all sides toward the clump, representing collapse due to gravity.</li>
+    <li>Panel 3: A normal spiral galaxy seen edge-on, with a bright, elongated central bulge, labeled Large bulge of ancient stars dominates galaxy.</li>
+</ul>
+<h3>Environmental Effects</h3>
+<ul>
+    <li>Panel 1: A spiral galaxy with a small, separate companion galaxy in the upper right, labeled Disk galaxy and companion. A red curved arrow traces the companion's path toward the spiral galaxy.</li>
+    <li>Panel 2: The companion galaxy, now shown as an orange streak, merging into the bright nucleus of the spiral galaxy, labeled Smaller galaxy falls into disk galaxy. A red arrow points toward the nucleus, showing the companion's infall.</li>
+    <li>Panel 3: The spiral galaxy, seen at an angle, now with a noticeably larger and brighter central bulge than in Panel 1, labeled Bulge inflates with addition of young stars and gas.</li>
+</ul>
+```
+
+### 2. New Figure Caption Text
+This diagram shows two pathways for the growth of spiral galaxy bulges: rapid collapse of a single primordial gas cloud, and gradual growth through mergers with smaller companion galaxies.
+
+### 3. New Alt-Text
+Diagram of two ways spiral galaxy bulges form: cloud collapse or galaxy mergers. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Evolution of Spiral Bulges. The upper row of images is titled Rapid Collapse. Panel 1 at left, labeled Primordial hydrogen cloud, shows an amorphous cloud of gas. Panel 2, labeled Cloud collapses under gravity, shows a smaller and brighter clump of material. Red arrows point inward representing motion due to gravity. Panel 3 at right, labeled Large bulge of ancient stars dominates galaxy, shows a normal spiral galaxy. The lower row of images is titled Environmental Effects. Panel 1 at left, labeled Disk galaxy and companion, shows a spiral galaxy with a small companion galaxy orbiting it. A red arrow indicates the motion of the companion. Panel 2, labeled Smaller galaxy falls into disk galaxy, shows the companion merging with the nucleus of the spiral. A red arrow indicates the motion of the companion. Panel 3 at right, labeled Bulge inflates with addition of young stars and gas, shows the spiral with a much larger bulge than seen in panel 1.
+
+**Original caption:** The nuclear bulges of some spiral galaxies formed through the collapse of a single protogalactic cloud (top row). Others grew over time through mergers with other smaller galaxies (bottom row).
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.5.1_Growth_of_Spiral_Bulges`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Diagram of two ways spiral galaxy bulges form: cloud collapse or galaxy mergers. Details in caption." class="internal default" src="/@api/deki/files/45988/3806ffdaa1f227c498e75a21132a039787820262" /> <figcaption>Figure \(\PageIndex{1}\) : Growth of Spiral Bulges. This diagram shows two pathways for the growth of spiral galaxy bulges: rapid collapse of a single primordial gas cloud, and gradual growth through mergers with smaller companion galaxies. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.5.1_Growth_of_Spiral_Bulges" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm the attribution treatment.
+
+**Note:** No figure number given, so I've inferred **17.4.2** (incrementing from 17.4.1) — flagging for confirmation.
+
+**Flagging a data discrepancy:** The figure title in the original caption reads "Cluster Abell 2218," but every other mention in the alt-text and caption body refers to "Abell 1689." I've used **Abell 1689** as the title below, since it's consistent throughout the rest of the text and appears to be the correct object, but please confirm before I finalize — I can switch to "Abell 2218" if that's actually correct. (I also removed the `&nbsp;` from the title per the acc-desc guidelines.)
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.4.2 Cluster Abell 1689</h2>
+<p>Composite visible and X-ray image of the massive galaxy cluster Abell 1689.</p>
+<h3>Image Elements</h3>
+<ul>
+    <li>A composite image of the galaxy cluster Abell 1689, located about 2.3 billion light-years away, combining Hubble Space Telescope visible and near-infrared data with Chandra X-ray Observatory data.</li>
+    <li>Hundreds of individual galaxies, most appearing yellow or white, are scattered across the frame, densest near the center and thinning outward.</li>
+    <li>A diffuse purple glow fills the central region of the cluster, representing hot X-ray-emitting gas, brightest near the middle and fading gradually outward.</li>
+    <li>Thin, curving arcs of light, gravitationally lensed images of more distant background galaxies, are visible stretched around the cluster.</li>
+    <li>Several bright, sharp-pointed stars are scattered throughout, representing foreground stars in the Milky Way.</li>
+</ul>
+<p>Credit: modification of work by NASA/ESA/JPL-Caltech/Yale/CNRS</p>
+```
+
+### 2. New Figure Caption Text
+This composite Hubble and Chandra X-ray image reveals the massive galaxy cluster Abell 1689, where abundant X-ray emission, gravitationally lensed background galaxies, and galaxy velocities together indicate a total mass of about 10¹⁵ solar masses, most of it dark matter.
+
+### 3. New Alt-Text
+Composite Hubble and X-ray image of massive galaxy cluster Abell 1689. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** X-ray Image of a Galaxy Cluster. This composite image shows the galaxy cluster Abell 1689. The diffuse glow of X-rays, shown in purple, completely fills the central regions of this distant galaxy cluster.
+
+**Original caption:** Cluster Abell 2218. This composite image shows the galaxy cluster Abell 1689 at a distance of 2.3 billion light-years. The finely detailed views of the galaxies, most of them yellow, are in visible and near-infrared light from the Hubble Space Telescope, while the diffuse purple haze shows X-rays as seen by Chandra X-ray Observatory. The abundant X-rays, the gravitationally lensed images (thin curving arcs) of background galaxies, and the measured velocities of galaxies in the clusters all show that the total mass of Abell 1689—most of it dark matter—is about 10¹⁵ solar masses. (credit: modification of work by NASA/ESA/JPL-Caltech/Yale/CNRS)
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.4.2_Cluster_Abell_1689`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Composite Hubble and X-ray image of massive galaxy cluster Abell 1689. Details in caption." class="internal default" src="/@api/deki/files/45982/63b3060896a505c28a41a3a0cc4f7fd49ad211a8" /> <figcaption>Figure \(\PageIndex{1}\) : Cluster Abell 1689. This composite Hubble and Chandra X-ray image reveals the massive galaxy cluster Abell 1689, where abundant X-ray emission, gravitationally lensed background galaxies, and galaxy velocities together indicate a total mass of about 10<sup>15</sup> solar masses, most of it dark matter. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.4.2_Cluster_Abell_1689" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm: (1) the title should be "Abell 1689" (not "Abell 2218" as in the original), (2) the figure number (17.4.2), and (3) the attribution treatment.
+
+**Note:** Figure number 17.4.1 given explicitly. **Flagging a data discrepancy:** the submitted alt-text identifies the background image as "M31," while the original caption identifies it as "the Triangulum galaxy" (M33) — these are two different galaxies. I've used "Triangulum galaxy" in the description below since that's what the caption text specifies, but please confirm which is correct before I finalize, since it affects both the accessible description and new alt-text.
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.4.1 Rotation Indicates Dark Matter</h2>
+<p>Chart of galaxy rotation velocity overlaid on an image of the Triangulum galaxy.</p>
+<h3>Chart Elements</h3>
+<ul>
+    <li>The vertical axis is labeled Rotational Velocity (km/s) and ranges from 0 at the bottom to 150 at the top, with tick marks at increments of 50.</li>
+    <li>The horizontal axis is labeled R (×1000 LY) and ranges from 0 to 50, with tick marks at increments of 10.</li>
+    <li>The chart is overlaid on a background image of a spiral galaxy, shown in white and pink, positioned in the lower left with its center near the origin of the axes.</li>
+</ul>
+<h3>Data Series</h3>
+<ul>
+    <li>The red line, labeled Observed, plots measured rotational velocities as red data points with error bars. It rises steeply from about 35 km/s near the center to about 100 km/s by R = 10, then continues climbing gradually to about 130 km/s by R = 50.</li>
+    <li>The blue line, labeled Expected, shows the rotational velocity predicted from the visible mass alone. It rises from 0 to a peak of about 65 km/s near R = 10, then steadily declines to about 35 km/s by R = 50.</li>
+</ul>
+<p>Key Trend: The observed rotational velocity remains high and continues to rise at large distances from the galaxy's center, while the velocity expected from visible matter alone drops off, implying the presence of a massive, extended halo of dark matter.</p>
+<p>Credit background: modification of work by ESO</p>
+```
+
+### 2. New Figure Caption Text
+This chart compares the observed rotational velocity of the Triangulum galaxy with the velocity predicted from its visible mass alone, showing that stars and gas far from the center orbit much faster than expected, evidence for a surrounding halo of dark matter.
+
+### 3. New Alt-Text
+Rotation curve of the Triangulum galaxy showing evidence for dark matter. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Rotation curve plot for the Triangulum galaxy overlaid on an image of M31. The vertical axis shows Rotational Velocity in km/s from 0 to 150. The horizontal axis shows R in thousands of light-years from 0 to 50. The observed red curve stays high at around 120 km/s at large distances, while the expected blue curve based on visible mass alone drops off to about 40 km/s at large distances.
+
+**Original caption:** We see the Milky Way's neighbor, the Triangulum galaxy, with a graph that shows the velocity at which stars and clouds of gas orbit the galaxy at different distances from the center (red line). As is true of the Milky Way, the rotational velocity (or orbital speed) does not decrease with distance from the center, which is what you would expect if an assembly of objects rotates around a common center. A calculation (blue line) based on the total mass visible as stars, gas, and dust predicts that the velocity should be much lower at larger distances from the center. The discrepancy between the two curves implies the presence of a halo of massive dark matter extending outside the boundary of the luminous matter. This dark matter causes everything in the galaxy to orbit faster than the observed matter alone could explain. (credit background: modification of work by ESO)
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.4.1_Rotation_Indicates_Dark_Matter`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Rotation curve of the Triangulum galaxy showing evidence for dark matter. Details in caption." class="internal default" src="/@api/deki/files/45984/ead8567b738c4189d87e56ce4063b2e8a135ceb0" /> <figcaption>Figure \(\PageIndex{1}\) : Rotation Indicates Dark Matter. This chart compares the observed rotational velocity of the Triangulum galaxy with the velocity predicted from its visible mass alone, showing that stars and gas far from the center orbit much faster than expected, evidence for a surrounding halo of dark matter. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.4.1_Rotation_Indicates_Dark_Matter" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm: (1) whether the background image is the Triangulum galaxy or M31, (2) the figure number, and (3) the attribution treatment. I also noted the observed/expected curve values in my description differ slightly from those stated in the alt-text (~130/~35 km/s at R=50 vs. the alt-text's ~120/~40 km/s) — I read these directly off the chart, but flagging in case you'd prefer the alt-text's stated values instead.
+
+**Note:** No figure number given, so I've inferred **17.3.6** (incrementing from 17.3.5) — flagging for confirmation. This is treated as a chart, following the chart-description guidelines (axes first, then data, then key trend).
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.3.6 Sloan Digital Sky Survey Map</h2>
+<p>Chart mapping galaxy positions and ages by redshift and sky angle.</p>
+<h3>Chart Elements</h3>
+<ul>
+    <li>The chart is a circular polar plot representing two wedge-shaped slices of sky, with Earth and the Milky Way at the center.</li>
+    <li>The radial axis, extending outward from the center, is labeled Redshift z and ranges from 0 at the center to 0.14 at the edge of the circle, with tick marks at increments of 0.02. The outer circle corresponds to a distance of two billion light-years.</li>
+    <li>The angular axis, arranged around the circumference of the circle, is labeled in hour angle, with marks including 4h, 8h, 12h, 16h, and 20h.</li>
+    <li>Two wedge-shaped regions of the circle, one in the upper half and one in the lower half, are filled with data points; the remaining areas of the circle are empty, representing regions obstructed by dust in the Milky Way.</li>
+</ul>
+<h3>Data Points</h3>
+<ul>
+    <li>Thousands of small colored dots fill both wedges, representing individual galaxies and clusters of galaxies.</li>
+    <li>The dots form a clumpy, web-like pattern of dense strands and empty voids, appearing similarly clumpy but overall uniform in both wedges.</li>
+    <li>The color of each dot indicates the age of the galaxy's stars: redder dots represent galaxies made of older stars, while greener and bluer dots represent galaxies with younger stars.</li>
+    <li>The reddish-orange dots appear more tightly clustered along the dense strands, while the green dots are more evenly spread throughout, including in less dense regions.</li>
+</ul>
+<p>Key Trend: Galaxies with older, redder stars are more strongly clustered together than galaxies with younger, bluer stars, and the large-scale distribution of galaxies is uniform but clumpy throughout both wedges of sky.</p>
+<p>Credit: modification of work by M. Blanton and the Sloan Digital Sky Survey</p>
+```
+
+### 2. New Figure Caption Text
+This map from the Sloan Digital Sky Survey plots galaxy positions by redshift and sky angle out to two billion light-years, revealing a clumpy, web-like large-scale structure in which older, redder galaxies cluster more strongly than younger, bluer galaxies.
+
+### 3. New Alt-Text
+SDSS map of galaxy redshift and clustering, colored by stellar age. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Sloan Digital Sky Survey Maps Large-Scale Structure of the Universe. This plot shows two wedges of sky. The distance from Earth (at center) is given as Redshift z, ranging from zero at center to 0.14 at the edge of the circle. The distribution of galaxies and clusters of galaxies is clumpy but uniform in both wedges.
+
+**Original caption:** This image shows slices from the SDSS map. The point at the center corresponds to the Milky Way. Points on the map moving outward from the center are farther away. The distance to the galaxies is indicated by their redshifts (following Hubble's law), shown on the horizontal line going right from the center. The redshift z = Δλ/λ, where Δλ is the difference between the observed wavelength and the wavelength λ emitted by a nonmoving source in the laboratory. Hour angle on the sky is shown around the circumference of the circular graph. The colors of the galaxies indicate the ages of their stars, with the redder color showing galaxies that are made of older stars. The outer circle is at a distance of two billion light-years from us. Note that red (older stars) galaxies are more strongly clustered than blue galaxies (young stars). The unmapped areas are where our view of the universe is obstructed by dust in our own Galaxy. (credit: modification of work by M. Blanton and the Sloan Digital Sky Survey)
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.3.6_Sloan_Digital_Sky_Survey_Map`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="SDSS map of galaxy redshift and clustering, colored by stellar age. Details in caption." class="internal default" src="/@api/deki/files/45981/6dc96656104f128a09f5e7a211ded1c3cc26a588" /> <figcaption>Figure \(\PageIndex{1}\) : Sloan Digital Sky Survey Map. This map from the Sloan Digital Sky Survey plots galaxy positions by redshift and sky angle out to two billion light-years, revealing a clumpy, web-like large-scale structure in which older, redder galaxies cluster more strongly than younger, bluer galaxies. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.3.6_Sloan_Digital_Sky_Survey_Map" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm the inferred figure number (17.3.6) and the attribution treatment.
+
+**Note:** No figure number given, so I've inferred **17.3.5** (incrementing from 17.3.4) — flagging for confirmation.
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.3.5 Gravitational Lensing Distortions</h2>
+<p>Hubble image of a galaxy cluster showing lensed images and a reconstructed background galaxy.</p>
+<h3>Main Image</h3>
+<ul>
+    <li>A wide Hubble Space Telescope image of a galaxy cluster, filled with orange and yellow elliptical galaxies near the center.</li>
+    <li>Four separate, distorted, elongated arcs of blue light are circled in white, positioned around the outside of the cluster: two in the upper left, one in the upper center, and one in the lower right.</li>
+    <li>These arcs are distinct, distorted images of a single background galaxy produced by the cluster's gravitational lensing.</li>
+    <li>A small white box near the center of the cluster marks the position of the background galaxy itself, before being distorted into the surrounding arcs.</li>
+    <li>A line points from this small box down to a larger box at the lower left, indicating the origin of the reconstructed image shown there.</li>
+</ul>
+<h3>Reconstruction Inset</h3>
+<ul>
+    <li>Located in the lower left corner, showing a reconstruction of what the lensed background galaxy would look like without the distorting effect of the cluster.</li>
+    <li>The reconstructed galaxy appears as an elongated, mottled shape with multiple bright, glowing patches of blue, white, and pink scattered throughout.</li>
+    <li>These bright patches represent regions of star formation, much brighter than typical star-forming regions in the Milky Way.</li>
+</ul>
+<p>Credit: modification of work by NASA, ESA, and Z. Levay (STScI)</p>
+```
+
+### 2. New Figure Caption Text
+This image shows multiple distorted arcs produced by a galaxy cluster gravitationally lensing a single background galaxy, along with a reconstruction of that galaxy's true appearance, revealing unusually bright regions of star formation.
+
+### 3. New Alt-Text
+Lensed arcs of a background galaxy and its reconstructed appearance in a Hubble image. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Distorted Images of a Distant Galaxy Produced by Gravitational Lensing in a Galaxy Cluster. The distorted images of the galaxy are circled in white and lie outside the galaxy cluster at the center of the image. A small box near the center of the cluster marks the position of the background galaxy being lensed by the cluster. The image in the large box at lower left is a reconstruction of what the lensed galaxy would look like in the absence of the cluster.
+
+**Original caption:** The rounded outlines show the location of distinct, distorted images of the background galaxy resulting from lensing by the mass in the cluster. The image in the box at lower left is a reconstruction of what the lensed galaxy would look like in the absence of the cluster, based on a model of the cluster's mass distribution, which can be derived from studying the distorted galaxy images. The reconstruction shows far more detail about the galaxy than could have been seen in the absence of lensing. As the image shows, this galaxy contains regions of star formation glowing like bright Christmas tree bulbs. These are much brighter than any star-formation regions in our Milky Way Galaxy. (credit: modification of work by NASA, ESA, and Z. Levay (STScI))
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.3.5_Gravitational_Lensing_Distortions`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Lensed arcs of a background galaxy and its reconstructed appearance in a Hubble image. Details in caption." class="internal default" src="/@api/deki/files/45980/62b0cced1fb29d64e9a2290fd79cf9a42c2ca8e1" /> <figcaption>Figure \(\PageIndex{1}\) : Gravitational Lensing Distortions. This image shows multiple distorted arcs produced by a galaxy cluster gravitationally lensing a single background galaxy, along with a reconstruction of that galaxy's true appearance, revealing unusually bright regions of star formation. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.3.5_Gravitational_Lensing_Distortions" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm the inferred figure number (17.3.5) and the attribution treatment.
+
+**Note:** No figure number given, so I've inferred **17.3.4** (incrementing from 17.3.3) — flagging for confirmation.
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.3.4 Gravitationally Lensed Supernova</h2>
+<p>Hubble image of a distant galaxy cluster, with inset showing a lensed supernova.</p>
+<h3>Main Image</h3>
+<ul>
+    <li>A wide Hubble Space Telescope image of a distant galaxy cluster, roughly 5 billion light-years away, filled with numerous orange and yellow elliptical and spiral galaxies against a dark background.</li>
+    <li>A white square box marks a small region below and left of center, indicating the area enlarged in the inset at right.</li>
+</ul>
+<h3>Inset Enlargement</h3>
+<ul>
+    <li>Located at the upper right, showing a close-up view of the lensing galaxy at the center, appearing as a bright, diffuse orange-white glow.</li>
+    <li>Four small yellow points surround the galaxy, each marked with a white arrow, representing four separate images of a single background supernova at a distance of 9 billion light-years.</li>
+    <li>The four points are arranged around the galaxy in a cross-shaped pattern known as an Einstein Cross.</li>
+    <li>Faint blue streaks curve around the galaxy, representing the stretched, distorted image of the supernova's host spiral galaxy, warped by the gravitational lensing effect.</li>
+</ul>
+<p>Credit: modification of work by NASA, ESA, and S. Rodney (JHU) and the FrontierSN team; T. Treu (UCLA), P. Kelly (UC Berkeley), and the GLASS team; J. Lotz (STScI) and the Frontier Fields team; M. Postman (STScI) and the CLASH team; and Z. Levay (STScI)</p>
+```
+
+### 2. New Figure Caption Text
+Gravitational lensing by a foreground galaxy cluster produced four separate images of a single background supernova, arranged in a cross-shaped Einstein Cross pattern around the lensing galaxy, along with a stretched image of the supernova's distorted host galaxy.
+
+### 3. New Alt-Text
+Hubble image of a galaxy cluster with inset showing a lensed supernova's Einstein Cross. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Multiple Images of a Gravitationally-lensed Supernova. The background image is of a distant galaxy cluster through which the light of an even more distant supernova has passed. The enlargement at right shows the four images of the supernova around the lensing galaxy.
+
+**Original caption:** Light from a supernova at a distance of 9 billion light-years passed near a galaxy in a cluster at a distance of about 5 billion light-years. In the enlarged inset view of the galaxy, the arrows point to the multiple images of the exploding star. The images are arranged around the galaxy in a cross-shaped pattern called an Einstein Cross. The blue streaks wrapping around the galaxy are the stretched images of the supernova's host spiral galaxy, which has been distorted by the warping of space. (credit: modification of work by NASA, ESA, and S. Rodney (JHU) and the FrontierSN team; T. Treu (UCLA), P. Kelly (UC Berkeley), and the GLASS team; J. Lotz (STScI) and the Frontier Fields team; M. Postman (STScI) and the CLASH team; and Z. Levay (STScI))
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.3.4_Gravitationally_Lensed_Supernova`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Hubble image of a galaxy cluster with inset showing a lensed supernova's Einstein Cross. Details in caption." class="internal default" src="/@api/deki/files/45979/cb333105cd1a57b41b35ca3f937536a85434bc90" /> <figcaption>Figure \(\PageIndex{1}\) : Gravitationally Lensed Supernova. Gravitational lensing by a foreground galaxy cluster produced four separate images of a single background supernova, arranged in a cross-shaped Einstein Cross pattern around the lensing galaxy, along with a stretched image of the supernova's distorted host galaxy. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.3.4_Gravitationally_Lensed_Supernova" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm the inferred figure number (17.3.4) and the attribution treatment.
+
+**Note:** No figure number given, so I've inferred **17.3.3** (incrementing from 17.3.2) — flagging for confirmation. This is a diagram, so I've followed the diagram-element formatting. No credit line appears in the original caption, so none is included in the accessible description.
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.3.3 Gravitational Lensing</h2>
+<p>Diagram showing how gravitational lensing creates two images of a quasar.</p>
+<h3>Diagram Elements</h3>
+<ul>
+    <li>A blue ball at the far left, labeled Observer on Earth, represents the viewing position.</li>
+    <li>A white, elongated ellipse at the center, labeled Galaxy, represents a foreground galaxy acting as the lens.</li>
+    <li>A white circle at the far right, labeled Quasar, represents the distant light source.</li>
+    <li>Two solid yellow arrows travel leftward from the Quasar toward the Galaxy, representing two paths of light from the quasar.</li>
+    <li>Near the Galaxy, each solid arrow bends and continues as a new arrow pointing toward the Observer on Earth, showing the light being deflected by the galaxy's gravity.</li>
+    <li>From the Observer, two dashed arrows extend rightward past the Galaxy, one angled above it and one angled below it, showing the two apparent directions from which the quasar's light appears to arrive.</li>
+    <li>The upper dashed line points to a label, Image A, at the upper right of the diagram.</li>
+    <li>The lower dashed line points to a label, Image B, at the lower right of the diagram.</li>
+    <li>A small angle, labeled θ, marks the angular separation between the two dashed lines as seen by the Observer on Earth.</li>
+</ul>
+```
+
+### 2. New Figure Caption Text
+This diagram illustrates how a foreground galaxy's gravity bends two light paths from a distant quasar, so that an observer on Earth sees two separate images of the same quasar in different directions on the sky.
+
+### 3. New Alt-Text
+Diagram of gravitational lensing producing two images of a background quasar. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Illustration of Gravitational Lensing. At left is a blue ball labeled 'Observer on Earth'. At center a 'Galaxy' is drawn as a white ellipse, and at far right a 'Quasar' is drawn as a white circle. Two yellow arrows are drawn from the quasar pointing to the left representing light from the quasar. Where these arrows are closest to the galaxy at center, they change direction, with each arrow now pointing toward Earth. To the observer on Earth looking along the lines separated by theta, two images of the quasar would appear: Image A above the galaxy, and Image B below the galaxy.
+
+**Original caption:** This drawing shows how a gravitational lens can make two images. Two light rays from a distant quasar are shown being bent while passing a foreground galaxy; they then arrive together at Earth. Although the two beams of light contain the same information, they now appear to come from two different points on the sky. This sketch is oversimplified and not to scale, but it gives a rough idea of the lensing phenomenon.
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.3.3_Gravitational_Lensing`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Diagram of gravitational lensing producing two images of a background quasar. Details in caption." class="internal default" src="/@api/deki/files/45973/b1c801d09c557c1485e5eafec0cc9efa7cba46cd" /> <figcaption>Figure \(\PageIndex{1}\) : Gravitational Lensing. This diagram illustrates how a foreground galaxy's gravity bends two light paths from a distant quasar, so that an observer on Earth sees two separate images of the same quasar in different directions on the sky. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.3.3_Gravitational_Lensing" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm the inferred figure number (17.3.3) and the attribution treatment.
+
+**Note:** No figure number given, so I've inferred **17.3.2** (incrementing from 17.3.1) — flagging for confirmation.
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.3.2 Coma Cluster</h2>
+<p>Combined visible and infrared image of the central Coma Cluster.</p>
+<h3>Image Elements</h3>
+<ul>
+    <li>A color-coded, combined visible-light and infrared image of the central region of the Coma Cluster, located about 320 million light-years away.</li>
+    <li>The background is filled with numerous small green smudges, representing faint dwarf galaxies, far outnumbering the larger galaxies in the field.</li>
+    <li>A small number of larger, brighter blue-white galaxies, both spirals and ellipticals, are scattered throughout, standing out clearly against the dense field of dwarf galaxies.</li>
+    <li>Several bright, sharp-pointed blue stars, foreground objects in the Milky Way, also appear in the frame, distinguishable from the softer, extended galaxies.</li>
+    <li>A few faint pink and red smudges are also present, showing galaxies in a different color range from the dominant green dwarfs.</li>
+</ul>
+<p>Credit: modification of work by NASA/JPL-Caltech/L. Jenkins (GSFC)</p>
+```
+
+### 2. New Figure Caption Text
+This combined visible-light and infrared image of the Coma Cluster, color-coded to highlight faint dwarf galaxies in green, shows that small dwarf galaxies vastly outnumber the cluster's large ellipticals and spirals.
+
+### 3. New Alt-Text
+Coma Cluster image color-coded to show dwarf galaxies outnumbering large galaxies. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Small Galaxies Outnumber Large Galaxies. This combined visible-light image from the Sloan Digital Sky Survey and infrared Spitzer Space Telescope view of the central region of the Coma Cluster has been color coded so that faint dwarf galaxies are seen as green. Large ellipticals and spirals are few compared to the number of dwarf galaxies.
+
+**Original caption:** This combined visible-light (from the Sloan Digital Sky Survey) and infrared (from the Spitzer Space Telescope) image has been color coded so that faint dwarf galaxies are seen as green. Note the number of little green smudges on the image. The cluster is roughly 320 million light-years away from us. (credit: modification of work by NASA/JPL-Caltech/L. Jenkins (GSFC))
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.3.2_Coma_Cluster`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Coma Cluster image color-coded to show dwarf galaxies outnumbering large galaxies. Details in caption." class="internal default" src="/@api/deki/files/45976/662e1e9a85934db0f9993f11c1511e26bf031cb0" /> <figcaption>Figure \(\PageIndex{1}\) : Coma Cluster. This combined visible-light and infrared image of the Coma Cluster, color-coded to highlight faint dwarf galaxies in green, shows that small dwarf galaxies vastly outnumber the cluster's large ellipticals and spirals. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.3.2_Coma_Cluster" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm the inferred figure number (17.3.2) and the attribution treatment.
+
+Understood — disregarding the previous Local Group figure. This is **Figure 17.3.1: Virgo Cluster**.
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.3.1 Virgo Cluster</h2>
+<p>Image of the central region of the Virgo Cluster of galaxies.</p>
+<h3>Image Elements</h3>
+<ul>
+    <li>A wide star field showing the central part of the Virgo Cluster, located about 50 million light-years away.</li>
+    <li>The giant elliptical galaxy M87 appears just below center as a large, bright, diffuse glow that fades gradually outward.</li>
+    <li>Hundreds of smaller, fainter galaxies are scattered throughout the image, appearing as small hazy patches of light among the foreground stars.</li>
+    <li>Two galaxies near the upper right, known as The Eyes, appear as a close pair of small, round, glowing shapes.</li>
+    <li>Several other spiral and elliptical galaxies of varying size and brightness are visible surrounding M87.</li>
+</ul>
+<p>Credit: modification of work by Chris Mihos (Case Western Reserve University)/ESO</p>
+```
+
+### 2. New Figure Caption Text
+This image shows the central region of the Virgo Cluster, the nearest rich galaxy cluster at about 50 million light-years, dominated by the giant elliptical galaxy M87 and surrounded by hundreds of smaller member galaxies.
+
+### 3. New Alt-Text
+Central Virgo Cluster with giant elliptical galaxy M87 and surrounding galaxies. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Central Region of the Virgo Cluster. This image is dominated by the giant elliptical galaxy M87 at center. Hundreds of smaller, fainter galaxies seem to swarm around M87.
+
+**Original caption:** Virgo is the nearest rich cluster and is at a distance of about 50 million light-years. It contains hundreds of bright galaxies. In this picture you can see only the central part of the cluster, including the giant elliptical galaxy M87, just below center. Other spirals and ellipticals are visible; the two galaxies to the top right are known as "The Eyes." (credit: modification of work by Chris Mihos (Case Western Reserve University)/ESO)
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.3.1_Virgo_Cluster`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Central Virgo Cluster with giant elliptical galaxy M87 and surrounding galaxies. Details in caption." class="internal default" src="/@api/deki/files/45977/692ee36c2e4629e8d2b7af612db40f5a8724e2c9" /> <figcaption>Figure \(\PageIndex{1}\) : Virgo Cluster. This image shows the central region of the Virgo Cluster, the nearest rich galaxy cluster at about 50 million light-years, dominated by the giant elliptical galaxy M87 and surrounded by hundreds of smaller member galaxies. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.3.1_Virgo_Cluster" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm the attribution treatment.
+
+**Note:** Figure number 17.3.1 given explicitly. The original caption has no credit line, so none is included in the accessible description, and I'm defaulting to standard OpenStax attribution (no third-party credit to flag here).
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.3.1 Local Group</h2>
+<p>A diagram mapping galaxies of the Local Group by distance.</p>
+<h3>Diagram Structure</h3>
+<ul>
+    <li>Two horizontal oval rings represent the Local Group at two different scales, connected by dashed lines showing that the smaller upper ring is a magnified view of the region nearest the Milky Way within the larger lower ring.</li>
+    <li>The upper ring is labeled 950,000 LY and shows galaxies within that distance of the Milky Way, at its center.</li>
+    <li>The lower ring is labeled 5.5 million LY and shows galaxies within that larger distance, with the Milky Way and Andromeda galaxy located near its center.</li>
+    <li>Each named galaxy is marked with a colored dot, labeled by name, with a colored wedge or ray extending from the center indicating its general direction.</li>
+</ul>
+<h3>Color Key</h3>
+<ul>
+    <li>Yellow marks spiral galaxies.</li>
+    <li>Blue marks elliptical galaxies.</li>
+    <li>Red marks irregular galaxies.</li>
+    <li>The three largest galaxies in the Local Group, the Milky Way, the Andromeda galaxy, and M33, are spirals, shown in yellow. Most of the remaining labeled galaxies are smaller irregular galaxies, shown in red, or dwarf elliptical galaxies, shown in blue.</li>
+</ul>
+<h3>Labeled Galaxies</h3>
+<ul>
+    <li>Upper (near) view: Milky Way Galaxy, Ursa Minor, Leo II, Draco, Leo I, Sextans, And II, IC 1613, Fornax, Carina, Sculptor, LMC, SMC, UGC-A86, Leo A, IC 10, Andromeda galaxy, NGC 205, M32, M33, and Pegasus.</li>
+    <li>Lower (far) view adds: NGC 185, NGC 147, Tucana, GR 8, NGC 6822, WLM, and IC 5152.</li>
+</ul>
+```
+
+### 2. New Figure Caption Text
+This diagram maps galaxies of the Local Group by distance and type, showing that the three largest members are spiral galaxies while most others are small dwarf elliptical or irregular galaxies.
+
+### 3. New Alt-Text
+Diagram of Local Group galaxies by distance and type. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Illustration of the Local Group of Galaxies. The upper portion of the figure shows galaxies surrounding the Milky Way (center) out to 950,000 light years. The lower portion shows the galaxies out to 5.5 million light years. The galaxy types are color coded as yellow for Spiral, blue for Elliptical and red for Irregular.
+
+**Original caption:** This illustration shows some members of the Local Group of galaxies, with our Milky Way at the center. The exploded view at the top shows the region closest to the Milky Way and fits into the bigger view at the bottom as shown by the dashed lines. The three largest galaxies among the three dozen or so members of the Local Group are all spirals; the others are small irregular galaxies and dwarf ellipticals. A number of new members of the group have been found since this map was made.
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.3.1_Local_Group`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Diagram of Local Group galaxies by distance and type. Details in caption." class="internal default" src="/@api/deki/files/45974/495a85aa8419cb0d94f9369f2b914b8df5ccfae3" /> <figcaption>Figure \(\PageIndex{1}\) : Local Group. This diagram maps galaxies of the Local Group by distance and type, showing that the three largest members are spiral galaxies while most others are small dwarf elliptical or irregular galaxies. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.3.1_Local_Group" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm the color assignments in the "Labeled Galaxies" section are accurate to the source image, since I inferred the type breakdown from the caption text rather than pixel-level color verification.
+
+**Note:** No figure number given, so I've inferred **17.2.5** (incrementing from 17.2.4) — flagging for confirmation. This figure has a single combined credit line (not per-panel), so I've applied the standard treatment: OpenStax attribution in the assembled HTML, with the original credit preserved at the end of the accessible description.
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.2.5 Centaurus A Galaxy</h2>
+<p>Composite visible, submillimeter, and X-ray image of the galaxy Centaurus A.</p>
+<h3>Image Elements</h3>
+<ul>
+    <li>A composite image combining visible light, submillimeter radiation, and X-ray data, set against a dark, star-filled background.</li>
+    <li>The galaxy appears as a large, diffuse, pale sphere of stars, dominated by a thick, dark and orange dust lane running diagonally from lower left to upper right across its center.</li>
+    <li>Bright orange submillimeter radiation traces the dust lane and glows most intensely along its length.</li>
+    <li>Two large, hazy blue lobes extend outward from the galaxy's core in opposite directions, perpendicular to the dust lane, representing X-ray-emitting gas inflated by jets from the galaxy's active nucleus.</li>
+    <li>Faint blue jets are visible reaching from the core into each lobe, aligned along the same axis as the lobes.</li>
+</ul>
+<p>Credit: modification of work by ESO/WFI (Optical); MPIfR/ESO/APEX/A. Weiss et al. (Submillimeter); NASA/CXC/CfA/R. Kraft et al. (X-ray)</p>
+```
+
+### 2. New Figure Caption Text
+This composite image combines visible, submillimeter, and X-ray data to reveal the active galactic nucleus of Centaurus A, located just 13 million light-years away, which powers jets that inflate two large lobes of hot, X-ray-emitting gas beyond the galaxy's stellar disk.
+
+### 3. New Alt-Text
+Composite visible, submillimeter, and X-ray image of active galaxy Centaurus A. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Composite View of the Galaxy Centaurus A. This massive galaxy is dominated by a huge dust lane that runs across the face of the galaxy from lower left to upper right in this composite image. Superimposed on the visible light image are sub-millimeter (orange) and X-rays (blue). The X-rays clearly show jets emerging from the core perpendicular to the dust lane, with sub-millimeter radiation at the ends of the jets and in the dust lane.
+
+**Original caption:** This artificially colored image was made using data from three different telescopes: submillimeter radiation with a wavelength of 870 microns is shown in orange; X-rays are seen in blue; and visible light from stars is shown in its natural color. Centaurus A has an active galactic nucleus that is powering two jets, seen in blue and orange, reaching in opposite directions far outside the galaxy's stellar disk, and inflating two huge lobes, or clouds, of hot X-ray-emitting gas. Centaurus A is at a distance of 13 million light-years, making it one of the closest active galaxies we know. (credit: modification of work by ESO/WFI (Optical); MPIfR/ESO/APEX/A. Weiss et al. (Submillimeter); NASA/CXC/CfA/R. Kraft et al. (X-ray))
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.2.5_Centaurus_A_Galaxy`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Composite visible, submillimeter, and X-ray image of active galaxy Centaurus A. Details in caption." class="internal default" src="/@api/deki/files/45972/1ca587a18a6856d620f76443652f44103272dfcc" /> <figcaption>Figure \(\PageIndex{1}\) : Centaurus A Galaxy. This composite image combines visible, submillimeter, and X-ray data to reveal the active galactic nucleus of Centaurus A, located just 13 million light-years away, which powers jets that inflate two large lobes of hot, X-ray-emitting gas beyond the galaxy's stellar disk. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.2.5_Centaurus_A_Galaxy" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm the inferred figure number (17.2.5) and the attribution treatment.
+
+**Note:** No figure number given, so I've inferred **17.2.4** (incrementing from 17.2.3) — flagging for confirmation. This figure again has distinct per-panel credits, so I've used the standard OpenStax attribution in the assembled HTML and preserved the per-panel credits at the end of the accessible description, as with the prior two multi-credit figures.
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.2.4 Starburst</h2>
+<p>Two images showing galaxies undergoing intense, interaction-triggered star formation.</p>
+<h3>Image (a)</h3>
+<ul>
+    <li>A Hubble Space Telescope image showing four galaxies in a dark starry field, three of which, part of Stephan's Quintet, are interacting gravitationally at a distance of 270 million light-years.</li>
+    <li>A pale golden spiral galaxy appears at the upper left; this galaxy is much closer than the other three and is not part of the interaction.</li>
+    <li>The three interacting galaxies, positioned at upper right, lower right, and bottom center, show distorted, stretched shapes with tidal streams connecting them.</li>
+    <li>Long strings of young, massive blue stars and pink-glowing regions of star formation trace the areas disturbed by the interaction.</li>
+    <li>A fourth, more distant golden elliptical galaxy appears alone near the bottom of the image.</li>
+</ul>
+<h3>Image (b)</h3>
+<ul>
+    <li>A combined Hubble and Spitzer Space Telescope image of the starburst galaxy II Zw 096, located 500 million light-years away with a diameter of about 50,000 light-years.</li>
+    <li>Blue regions show the two merging galaxies in visible light, including a distinct blue spiral galaxy at upper right with sweeping arms.</li>
+    <li>A bright red and orange region near the center marks intense infrared radiation from a dusty area of prodigious new star formation.</li>
+    <li>Diffuse blue clouds extend to the left of the central region, tracing more of the merging galactic material.</li>
+</ul>
+<p>Credit a: modification of work by NASA, ESA, and the Hubble SM4 ERO Team</p>
+<p>Credit b: modification of work by NASA/JPL-Caltech/STScI</p>
+```
+
+### 2. New Figure Caption Text
+These images show interaction-triggered star formation: three colliding members of Stephan's Quintet producing widespread young star clusters, and the starburst galaxy II Zw 096, where merging visible-light galaxies surround an infrared-bright region forming new stars at an extreme rate.
+
+### 3. New Alt-Text
+Colliding galaxies in Stephan's Quintet and starburst galaxy II Zw 096 in Hubble/Spitzer imagery. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Starburst Associated with Colliding Galaxies. Panel a, at left, shows three of the galaxies in the small group known as Stephan's Quintet that are interacting gravitationally with each other, resulting in the distorted shapes seen here. Panel b, at right, shows galaxy II Zw 096. This combined image using both Hubble and Spitzer Space Telescope data shows that it is forming bright clusters of new stars at a prodigious rate. The blue colors show the merging galaxies in visible light, while the red colors show infrared radiation from the dusty region where star formation is happening.
+
+**Original caption:** (a) Three of the galaxies in the small group known as Stephan's Quintet are interacting gravitationally with each other (the galaxy at upper left is actually much closer than the other three and is not part of this interaction), resulting in the distorted shapes seen here. Long strings of young, massive blue stars and hundreds of star formation regions glowing in the pink light of excited hydrogen gas are also results of the interaction. The ages of the star clusters range from 2 million to 1 billion years old, suggesting that there have been several different collisions within this group of galaxies, each leading to bursts of star formation. The three interacting members of Stephan's Quintet are located at a distance of 270 million light-years. (b) Most galaxies form new stars at a fairly slow rate, but members of a rare class known as starburst galaxies blaze with extremely active star formation. The galaxy II Zw 096 is one such starburst galaxy, and this combined image using both Hubble and Spitzer Space Telescope data shows that it is forming bright clusters of new stars at a prodigious rate. The blue colors show the merging galaxies in visible light, while the red colors show infrared radiation from the dusty region where star formation is happening. This galaxy is at a distance of 500 million light-years and has a diameter of about 50,000 light-years, about half the size of the Milky Way. (credit a: modification of work by NASA, ESA, and the Hubble SM4 ERO Team; credit b: modification of work by NASA/JPL-Caltech/STScI)
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.2.4_Starburst`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Colliding galaxies in Stephan's Quintet and starburst galaxy II Zw 096 in Hubble/Spitzer imagery. Details in caption." class="internal default" src="/@api/deki/files/45966/1d8d259d6ad70c5b2ae53f6f399ed4992d998d5e" /> <figcaption>Figure \(\PageIndex{1}\) : Starburst. These images show interaction-triggered star formation: three colliding members of Stephan's Quintet producing widespread young star clusters, and the starburst galaxy II Zw 096, where merging visible-light galaxies surround an infrared-bright region forming new stars at an extreme rate. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.2.4_Starburst" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm the inferred figure number (17.2.4) and the attribution treatment.
+
+**Note:** No figure number given, so I've inferred **17.2.3** (incrementing from 17.2.2) — flagging for confirmation. This figure has distinct credits per panel (a and b), so as with the earlier multi-credit figure, I've used the standard OpenStax attribution in the assembled HTML and preserved the per-panel credits at the end of the accessible description. Flagging for confirmation.
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.2.3 Galactic Cannibalism</h2>
+<p>Two images showing evidence of galaxy mergers.</p>
+<h3>Image (a)</h3>
+<ul>
+    <li>A Hubble Space Telescope image of the elliptical galaxy NGC 1316, appearing as a large, diffuse, glowing golden-white sphere.</li>
+    <li>Dark, wispy filaments of dust form an irregular silhouette across the bright nucleus, unusual for an elliptical galaxy, which typically contains little dust.</li>
+    <li>The dust is likely the remnant of a smaller companion galaxy absorbed by NGC 1316 about 100 million years ago.</li>
+</ul>
+<h3>Image (b)</h3>
+<ul>
+    <li>A composite image of the highly disturbed galaxy NGC 6240, combining a Hubble Space Telescope background image with two Chandra X-ray Telescope insets.</li>
+    <li>The background Hubble image shows a butterfly-shaped galaxy with dark, dusty lanes crossing pale, diffuse light, alongside two bright foreground stars.</li>
+    <li>A white box on the galaxy's center marks the region enlarged in the first inset.</li>
+    <li>The first inset shows a false-color X-ray view with red, orange, and yellow diffuse gas surrounding a smaller bright region, marked by another white box.</li>
+    <li>The second, most enlarged inset reveals two separate bright blue-white points, representing two distinct galactic nuclei separated by only 4000 light-years.</li>
+    <li>These two nuclei likely mark two supermassive black holes, left over from the two original spiral galaxies, that are spiraling toward their own eventual merger.</li>
+</ul>
+<p>Credit a: modification of work by NASA, ESA, and The Hubble Heritage Team (STScI/AURA)</p>
+<p>Credit b: X-ray: NASA/CXC/MPE/S. Komossa et al.; Optical: NASA/STScI/R.P. van der Marel &amp; J. Gerssen</p>
+```
+
+### 2. New Figure Caption Text
+These images show two forms of galactic cannibalism: dust from a small galaxy absorbed by the elliptical galaxy NGC 1316, and NGC 6240, where Chandra X-ray imaging reveals two supermassive black holes—remnants of two merging spiral galaxies—spiraling toward their own eventual merger.
+
+### 3. New Alt-Text
+Dust in elliptical galaxy NGC 1316 and X-ray view of merging galaxy NGC 6240's twin black holes. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Galactic Cannibalism. Panel a, at left, shows the eerie silhouette of dark dust clouds against the glowing nucleus of the elliptical galaxy NGC 1316. Panel b, at right, shows the highly disturbed galaxy NGC 6240, imaged by HST (background image) and the Chandra X-ray Telescope (both insets). NGC 6240 is apparently the product of a merger between two gas-rich spiral galaxies. The X-ray images show that there is not one but two nuclei, both glowing brightly in X-rays.
+
+**Original caption:** (a) This Hubble image shows the eerie silhouette of dark dust clouds against the glowing nucleus of the elliptical galaxy NGC 1316. Elliptical galaxies normally contain very little dust. These clouds are probably the remnant of a small companion galaxy that was cannibalized (eaten) by NGC 1316 about 100 million years ago. (b) The highly disturbed galaxy NGC 6240, imaged by Hubble Space Telescope (background image) and Chandra X-ray Telescope (both insets) is apparently the product of a merger between two gas-rich spiral galaxies. The X-ray images show that there is not one but two nuclei, both glowing brightly in X-rays and separated by only 4000 light-years. These are likely the locations of two supermassive black holes that inhabited the cores of the two galaxies pre-merger; here they are participating in a kind of "death spiral," in which the two black holes themselves will merge to become one. (credit a: modification of work by NASA, ESA, and The Hubble Heritage Team (STScI/AURA); credit b: X-ray: NASA/CXC/MPE/S. Komossa et al.; Optical: NASA/STScI/R.P. van der Marel & J. Gerssen)
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.2.3_Galactic_Cannibalism`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Dust in elliptical galaxy NGC 1316 and X-ray view of merging galaxy NGC 6240's twin black holes. Details in caption." class="internal default" src="/@api/deki/files/45969/fb03a2c007d9bf0dec9661341095a160f73ba1d5" /> <figcaption>Figure \(\PageIndex{1}\) : Galactic Cannibalism. These images show two forms of galactic cannibalism: dust from a small galaxy absorbed by the elliptical galaxy NGC 1316, and NGC 6240, where Chandra X-ray imaging reveals two supermassive black holes—remnants of two merging spiral galaxies—spiraling toward their own eventual merger. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.2.3_Galactic_Cannibalism" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm the inferred figure number (17.2.3) and the attribution treatment.
+
+**Note:** No figure number given, so I've inferred **17.2.2** (incrementing from 17.2.1) — flagging for confirmation. Since this is an unlabeled 2×3 sequence depicting chronological progression, I've numbered the panels 1–6 in reading order rather than using grid-position labels, to preserve the sense of time sequence. No attribution source stated, so defaulting to standard OpenStax attribution with the original credit preserved.
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.2.2 Simulated Collision</h2>
+<p>Computer simulation of two spiral galaxies merging into one elliptical galaxy.</p>
+<h3>Panel 1</h3>
+<ul>
+    <li>Two spiral galaxies at the start of the interaction, one large face-on spiral with tightly wound arms and a smaller, more elongated companion below it.</li>
+</ul>
+<h3>Panel 2</h3>
+<ul>
+    <li>The two galaxies have moved closer together, their spiral arms stretched and distorted into curving, wispy blue structures.</li>
+</ul>
+<h3>Panel 3</h3>
+<ul>
+    <li>The galaxies pass through each other, producing long, sweeping blue tidal arms and a bridge of material connecting them.</li>
+</ul>
+<h3>Panel 4</h3>
+<ul>
+    <li>A bright, ring-like structure with extended blue tidal debris forms as the galaxies merge further, with a smaller companion still visible to the lower left.</li>
+</ul>
+<h3>Panel 5</h3>
+<ul>
+    <li>The merging galaxies have settled into an oval, hazy golden shape with faint blue material trailing along extended tidal streams.</li>
+</ul>
+<h3>Panel 6</h3>
+<ul>
+    <li>The two original spiral galaxies have merged into a single, round, smooth golden elliptical galaxy, brightest at the center and fading outward.</li>
+</ul>
+<p>Credit: modification of work by P. Jonsson (Harvard-Smithsonian Center for Astrophysics), G. Novak (Princeton University), and T. J. Cox (Carnegie Observatories)</p>
+```
+
+### 2. New Figure Caption Text
+This computer simulation follows two spiral galaxies over about a billion years as they merge into a single elliptical galaxy, with bursts of blue marking star formation triggered by the interaction.
+
+### 3. New Alt-Text
+Simulated sequence of two spiral galaxies colliding and merging into one elliptical galaxy. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Computer Simulation of a Galaxy Collision. This computer simulation starts at upper left with two spiral galaxies in the process of merging. Moving from left to right the two galaxies become more and more distorted as the collision progresses. In the last panel at lower right, the two spiral galaxies have settled down into one large elliptical galaxy.
+
+**Original caption:** This computer simulation starts with two spiral galaxies merging and ends with a single elliptical galaxy. The colors show the colors of stars in the system; note the bursts of blue color as copious star formation gets triggered by the interaction. The timescale from start to finish in this sequence is about a billion years. (credit: modification of work by P. Jonsson (Harvard-Smithsonian Center for Astrophysics), G. Novak (Princeton University), and T. J. Cox (Carnegie Observatories))
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.2.2_Simulated_Collision`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Simulated sequence of two spiral galaxies colliding and merging into one elliptical galaxy. Details in caption." class="internal default" src="/@api/deki/files/45968/6c64ff6aad496025c358d89afa411d48be196d82" /> <figcaption>Figure \(\PageIndex{1}\) : Simulated Collision. This computer simulation follows two spiral galaxies over about a billion years as they merge into a single elliptical galaxy, with bursts of blue marking star formation triggered by the interaction. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.2.2_Simulated_Collision" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm the inferred figure number (17.2.2) and the attribution treatment.
+
+**Note:** Figure number 17.2.1 given explicitly. This is a multi-panel figure with different credit lines per panel (a/b, c, d/e, f) — since no attribution source was stated, I've used the standard OpenStax attribution for the assembled HTML and preserved the original per-panel credit lines at the end of the accessible description, grouped as they appear in the original caption. Flagging this for your confirmation given the multiple distinct credits.
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.2.1 Interacting Galaxies</h2>
+<p>Six images showing galaxies in different stages of interaction.</p>
+<h3>Image (a)</h3>
+<ul>
+    <li>A black-and-white visible-light image of the galaxies M82 and M83.</li>
+    <li>The smaller galaxy, M82, appears near the top as an elongated dark shape.</li>
+    <li>The larger spiral galaxy, M83, appears below as a rounded dark shape.</li>
+</ul>
+<h3>Image (b)</h3>
+<ul>
+    <li>A false-color radio image of the same pair of galaxies, showing radio waves given off by cold hydrogen gas.</li>
+    <li>The background is dark blue, with the gas shown in colors ranging from blue at the faintest levels to green, yellow, orange, and red at the brightest levels.</li>
+    <li>The two galaxies are wrapped in a common shroud of gas that is stretched and pulled between them by their mutual gravity.</li>
+</ul>
+<h3>Image (c)</h3>
+<ul>
+    <li>A close-up Hubble Space Telescope image of galaxy M82, shown at an angle with a bright, elongated central disk.</li>
+    <li>Red, filament-like tendrils of gas stream outward above and below the disk, powered by supernova explosions from a burst of star formation triggered by the interaction with M83.</li>
+</ul>
+<h3>Image (d)</h3>
+<ul>
+    <li>The barred spiral galaxy UGC 10214, nicknamed the Tadpole, disrupted by the passage of a smaller companion galaxy.</li>
+    <li>A long, curving tidal tail of stars and gas, about 280,000 light-years long, extends away from the main galaxy, pulled out by the gravity of the passing companion.</li>
+    <li>Bright blue clumps along the tail mark bursts of star formation triggered by the interaction.</li>
+</ul>
+<h3>Image (e)</h3>
+<ul>
+    <li>Galaxies NGC 4676 A and B, nicknamed The Mice, shown as two spiral galaxies connected by long, narrow tails of stars.</li>
+    <li>The tails were pulled away from each galaxy by their mutual gravitational interaction.</li>
+</ul>
+<h3>Image (f)</h3>
+<ul>
+    <li>Arp 148, a pair of galaxies caught in the process of merging into one new galaxy.</li>
+    <li>One galaxy has been reshaped into a bright blue ring of active star formation, the result of a shockwave from the two galaxies passing through each other.</li>
+    <li>The second, elongated galaxy extends outward from the ring.</li>
+</ul>
+<p>Credit a, b: modification of work by NRAO/AUI</p>
+<p>Credit c: modification of work by NASA, ESA, and The Hubble Heritage Team (STScI/AURA)</p>
+<p>Credit d, e: modification of work by NASA, H. Ford (JHU), G. Illingworth (UCSC/LO), M. Clampin (STScI), G. Hartig (STScI), the ACS Science Team, and ESA</p>
+<p>Credit f: modification of work by NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration, and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook University)</p>
+```
+
+### 2. New Figure Caption Text
+This gallery illustrates several stages and effects of galaxy interactions and mergers, from gas stretched between colliding pairs to tidal tails, star-formation bursts, and rings triggered by gravitational encounters.
+
+### 3. New Alt-Text
+Six-panel gallery of galaxies in various stages of gravitational interaction and merging. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Gallery of Interacting Galaxies. Panels 'a' and 'b' show M82 (smaller galaxy at top) and M83 (spiral) seen in a black-and-white visible light image (a) and in radio waves given off by cold hydrogen gas (b). The hydrogen image shows the two galaxies wrapped in a common shroud of gas that is being stretched by the gravity of the two galaxies. Panel 'c' presents a close-up view by HST showing some of the effects of this interaction on galaxy M82, including gas streaming outward (red tendrils), powered by supernovae. In panel 'd' is galaxy UGC 10214 that has been disrupted by the passage of a smaller galaxy. The interloper's gravity pulled out the long tidal tail, which is about 280,000 light years long, and triggered bursts of star formation seen as blue clumps along the tail. Galaxies NGC 4676 A and B in panel 'e' are nicknamed 'The Mice.' In this HST image, you can see the long narrow tails of stars pulled away from the galaxies by the interactions of the two spirals. Panel 'f' shows Arp 148, a pair of galaxies that are caught in the act of merging to become one new galaxy. The two have already passed through each other once, causing a shockwave that reformed one into a bright blue ring of star formation.
+
+**Original caption:** (a and b) M82 (smaller galaxy at top) and M83 (spiral) are seen (a) in a black-and-white visible light image and (b) in radio waves given off by cold hydrogen gas. The hydrogen image shows that the two galaxies are wrapped in a common shroud of gas that is being tugged and stretched by the gravity of the two galaxies. (c) This close-up view by the Hubble Space Telescope shows some of the effects of this interaction on galaxy M82, including gas streaming outward (red tendrils) powered by supernovae explosions of massive stars formed in the burst of star formation that was a result of the collision. (d) Galaxy UGC 10214 ("The Tadpole") is a barred spiral galaxy 420 million light-years from the Milky Way that has been disrupted by the passage of a smaller galaxy. The interloper's gravity pulled out the long tidal tail, which is about 280,000 light-years long, and triggered bursts of star formation seen as blue clumps along the tail. (e) Galaxies NGC 4676 A and B are nicknamed "The Mice." In this Hubble Space Telescope image, you can see the long, narrow tails of stars pulled away from the galaxies by the interactions of the two spirals. (f) Arp 148 is a pair of galaxies that are caught in the act of merging to become one new galaxy. The two appear to have already passed through each other once, causing a shockwave that reformed one into a bright blue ring of star formation, like the ripples from a stone tossed into a pond. (credit a, b: modification of work by NRAO/AUI; credit c: modification of work by NASA, ESA, and The Hubble Heritage Team (STScI/AURA); credit d, e: modification of work by NASA, H. Ford (JHU), G. Illingworth (UCSC/LO), M. Clampin (STScI), G. Hartig (STScI), the ACS Science Team, and ESA; credit f: modification of work by NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration, and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook University))
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.2.1_Interacting_Galaxies`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Six-panel gallery of galaxies in various stages of gravitational interaction and merging. Details in caption." class="internal default" src="/@api/deki/files/45970/ea35faf4603157973505b02d225dd66aae177a3f" /> <figcaption>Figure \(\PageIndex{1}\) : Interacting Galaxies. This gallery illustrates several stages and effects of galaxy interactions and mergers, from gas stretched between colliding pairs to tidal tails, star-formation bursts, and rings triggered by gravitational encounters. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.2.1_Interacting_Galaxies" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm the attribution treatment for this multi-credit panel figure.
+
+**Note:** No figure number given, so I've inferred **17.1.4** (incrementing from 17.1.3) — flagging for confirmation. No attribution source stated, so defaulting to standard OpenStax attribution as with prior figures, with the original internal credit preserved in the accessible description.
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.1.4 Early Galaxies</h2>
+<p>Hubble Space Telescope image of small, early galaxy fragments, with enlarged insets.</p>
+<h3>Main Image</h3>
+<ul>
+    <li>A wide-field Hubble image showing numerous small, distant galaxies scattered across the frame, most too faint to distinguish detail directly.</li>
+    <li>Eighteen of these galaxies are labeled with numbers marking their positions: 1, 5, 6, 8, 10, 11, 12, 13, 18, 19, 29, 34, 37, 40, 60, 61, 94, and 113.</li>
+    <li>Two bright stars, each surrounded by sharp, star-shaped points of light, appear near the upper left and center left of the image.</li>
+</ul>
+<h3>Inset Enlargements</h3>
+<ul>
+    <li>Located at the upper right, a grid of small panels shows enlarged close-up views of each numbered galaxy.</li>
+    <li>Each panel is labeled with the number corresponding to its position in the main image.</li>
+    <li>Five of the panels include a redshift label: galaxy 6 at z = 2.390, galaxy 8 at z = 2.386, galaxy 12 at z = 2.388, galaxy 18 at z = 2.393, and galaxy 19 at z = 2.397.</li>
+    <li>Below the grid, two larger panels labeled 5 and 6(53W002) show wider views providing more context around those two objects.</li>
+</ul>
+<p>Credit: modification of work by Rogier Windhorst (Arizona State University) and NASA</p>
+```
+
+### 2. New Figure Caption Text
+This Hubble Space Telescope image reveals 18 small, compact groups of stars from about 11 billion years ago, each far smaller than the Milky Way and packed within a region only 2 million light-years across, likely destined to merge into one or more normal galaxies.
+
+### 3. New Alt-Text
+Hubble image of 18 small early galaxy fragments with enlarged insets. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Eighteen Early Galaxies. This HST image shows numerous small, distant galaxies that emitted their light about 11 billion years ago. Eighteen of these galaxies are numbered in the main image, and each is shown enlarged in the inset at upper right. Five of the galaxies in the inset are labeled with their redshift values.
+
+**Original caption:** This Hubble Space Telescope image shows what are probably "galaxies under construction" in the early universe. The boxes in this color image show enlargements of 18 groups of stars smaller than galaxies as we know them. All these objects emitted their light about 11 billion years ago. They are typically only about 2,000 light-years across, which is much smaller than the Milky Way, with its diameter of 100,000 light-years. These 18 objects are found in a region only 2 million light-years across and are close enough together that they will probably collide and merge to build one or more normal galaxies. (credit: modification of work by Rogier Windhorst (Arizona State University) and NASA)
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.1.4_Early_Galaxies`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Hubble image of 18 small early galaxy fragments with enlarged insets. Details in caption." class="internal default" src="/@api/deki/files/45965/427b38d573fb27917982270026ae923c4960ed5d" /> <figcaption>Figure \(\PageIndex{1}\) : Early Galaxies. This Hubble Space Telescope image reveals 18 small, compact groups of stars from about 11 billion years ago, each far smaller than the Milky Way and packed within a region only 2 million light-years across, likely destined to merge into one or more normal galaxies. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.1.4_Early_Galaxies" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm the inferred figure number (17.1.4) and the attribution treatment.
+
+**Note:** No figure number given, so I've inferred **17.1.3** (incrementing from 17.1.2) — flagging for confirmation. No attribution source stated, so defaulting to standard OpenStax attribution as with prior figures, with the original internal credit preserved in the accessible description.
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.1.3 Hubble Ultra-Deep Field</h2>
+<p>Hubble Space Telescope image of thousands of distant galaxies.</p>
+<h3>Image Elements</h3>
+<ul>
+    <li>A deep Hubble Space Telescope image of a small patch of sky, densely filled with thousands of galaxies of varying colors, shapes, and sizes.</li>
+    <li>Several pinwheel-shaped spiral galaxies are scattered throughout, resembling the structure of the Milky Way.</li>
+    <li>Many galaxies show irregular or distorted shapes, resulting from collisions with companion galaxies.</li>
+    <li>Reddish, blob-shaped elliptical galaxies, which contain mostly old stars, appear throughout the image.</li>
+    <li>A small number of bright, sharp-pointed objects are foreground stars from the Milky Way, distinguishable from the more numerous faint, extended galaxies.</li>
+</ul>
+<p>Credit: modification of work by NASA, ESA, H. Teplitz and M. Rafelski (IPAC/Caltech), A. Koekemoer (STScI), R. Windhorst (Arizona State University), and Z. Levay (STScI)</p>
+```
+
+### 2. New Figure Caption Text
+This 11-day Hubble Space Telescope exposure of a small patch of sky reveals roughly 10,000 galaxies of varying shapes and ages, including spiral galaxies like the Milky Way, colliding peculiar-shaped galaxies, and reddish elliptical galaxies made up mostly of old stars.
+
+### 3. New Alt-Text
+Hubble Ultra-Deep Field showing thousands of galaxies of varied shapes and ages. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Hubble Ultra Deep Field. This remarkable HST image contains many thousands of galaxies of all morphological types uniformly spread over the entire frame.
+
+**Original caption:** This image is the result of an 11-day-long observation with the Hubble Space Telescope of a tiny region of sky, located toward the constellation Fornax near the south celestial pole. This is an area that has only a handful of Milky Way stars. There are about 10,000 objects in this single image, nearly all of them galaxies, each with tens or hundreds of billions of stars. We can see some pinwheel-shaped spiral galaxies, which are like the Milky Way. But we also find a large variety of peculiar-shaped galaxies that are in collision with companion galaxies. Elliptical galaxies, which contain mostly old stars, appear as reddish blobs. (credit: modification of work by NASA, ESA, H. Teplitz and M. Rafelski (IPAC/Caltech), A. Koekemoer (STScI), R. Windhorst (Arizona State University), and Z. Levay (STScI))
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.1.3_Hubble_Ultra-Deep_Field`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Hubble Ultra-Deep Field showing thousands of galaxies of varied shapes and ages. Details in caption." class="internal default" src="/@api/deki/files/45964/5b5d52ea632328145475c72ec88d375ace168974" /> <figcaption>Figure \(\PageIndex{1}\) : Hubble Ultra-Deep Field. This 11-day Hubble Space Telescope exposure of a small patch of sky reveals roughly 10,000 galaxies of varying shapes and ages, including spiral galaxies like the Milky Way, colliding peculiar-shaped galaxies, and reddish elliptical galaxies made up mostly of old stars. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.1.3_Hubble_Ultra-Deep_Field" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm the inferred figure number (17.1.3) and the attribution treatment.
+
+**Note:** No figure number was given, so I've inferred **17.1.2** by incrementing from the last figure (17.1.1) — flagging for your confirmation. No attribution source was stated either, so I've defaulted to the standard OpenStax Astronomy attribution (as with the prior figure), with the original internal credit preserved at the end of the accessible description.
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.1.2 Very Distant Galaxy</h2>
+<p>Hubble and Spitzer images of a distant galaxy field.</p>
+<h3>Main Image</h3>
+<ul>
+    <li>A wide, deep Hubble Space Telescope image showing many faint, distant galaxies scattered across a dark background.</li>
+    <li>A white arrow points to a faint orange dot below center, marking the luminous galaxy at a redshift of z = 8.68, corresponding to a distance of about 13.2 billion light years.</li>
+    <li>Two square insets appear at the upper right, enlarging the region around the galaxy.</li>
+</ul>
+<h3>Hubble Inset</h3>
+<ul>
+    <li>Labeled Hubble, at the top right.</li>
+    <li>An enlarged, higher-resolution view of the region around the galaxy, showing a bright orange point of light near the center along with several fainter red and blue points.</li>
+</ul>
+<h3>Spitzer Inset</h3>
+<ul>
+    <li>Labeled Spitzer, below the Hubble inset.</li>
+    <li>A lower-resolution infrared image of the same region, showing soft, blurred patches of orange, pink, and green light rather than distinct points.</li>
+</ul>
+<p>Credit: modification of work by I. Labbé (Leiden University), NASA/ESA/JPL-Caltech</p>
+```
+
+### 2. New Figure Caption Text
+This Hubble Space Telescope image, with a lower-resolution Spitzer Space Telescope infrared inset, shows a distant galaxy at redshift z = 8.68, seen as it appeared roughly 13.2 billion years ago. The galaxy was identified by a strong hydrogen emission line that marks regions of active star formation.
+
+### 3. New Alt-Text
+Hubble image of a very distant galaxy at redshift 8.68, with Spitzer infrared inset. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Very Distant Galaxy. This Hubble Space Telescope image shows a luminous galaxy (arrowed, below center) at z=8.68, corresponding to a distance of about 13.2 billion light years. The inset at top right, labeled 'Hubble', is an enlargement of the region around the galaxy. The inset at bottom right, labeled 'Spitzer', is a lower resolution Spitzer Space Telescope infrared image of the galaxy.
+
+**Original caption:** This image was made with the Hubble Space Telescope and shows the field around a luminous galaxy at a redshift z = 8.68, which corresponds to 13.2 billion light years. This means that we are seeing this galaxy as it appeared about 13.2 billion years ago. The galaxy itself is indicated by the arrow. Long exposures in the far-red and infrared wavelengths were combined to make the image, and additional infrared exposures with the Spitzer Space Telescope, which has lower spatial resolution than the Hubble (lower inset), show the redshifted light of normal stars. The very distant galaxy was detected because it has a strong emission line of hydrogen. This line is produced in regions where the formation of hot, young stars is taking place. (credit: modification of work by I. Labbé (Leiden University), NASA/ESA/JPL-Caltech)
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.1.2_Very_Distant_Galaxy`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Hubble image of a very distant galaxy at redshift 8.68, with Spitzer infrared inset. Details in caption." class="internal default" src="/@api/deki/files/45967/33bcae388e20381eaadd16fb2b861000fd3fb725" /> <figcaption>Figure \(\PageIndex{1}\) : Very Distant Galaxy. This Hubble Space Telescope image, with a lower-resolution Spitzer Space Telescope infrared inset, shows a distant galaxy at redshift z = 8.68, seen as it appeared roughly 13.2 billion years ago. The galaxy was identified by a strong hydrogen emission line that marks regions of active star formation. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.1.2_Very_Distant_Galaxy" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm the inferred figure number (17.1.2) and the attribution treatment.
+
+Noted the move to Chapter 17 and updated the default accessible-descriptions link. Here's the full pipeline output for Figure 17.1.1:
+
+**Note on attribution:** This is an OpenStax figure carrying an internal third-party credit (NASA, ESA, STScI). Per standard practice, I've used the default OpenStax attribution in the assembled HTML and appended the original credit line at the end of the accessible description — flagging this for your confirmation.
+
+---
+
+### 1. Accessible Description
+
+```html
+<h2>Figure 17.1.1 Astronomical Time Travel</h2>
+<p>Visible-light Hubble Space Telescope image of galaxy cluster Abell 2744.</p>
+<h3>Foreground Cluster</h3>
+<ul>
+    <li>Several large, bright elliptical galaxies dominate the cluster, named Abell 2744, appearing near the center and scattered throughout the image.</li>
+    <li>The cluster contains several hundred galaxies, seen as they looked 3.5 billion years ago.</li>
+    <li>The immense gravity of Abell 2744 acts as a gravitational lens, warping space to brighten and magnify the images of nearly 3000 more distant background galaxies.</li>
+</ul>
+<h3>Background Galaxies</h3>
+<ul>
+    <li>Numerous smaller, more distant galaxies are scattered throughout the image, with some appearing as thin, curved arcs distorted by the lensing effect.</li>
+    <li>Many of the background galaxies appear blue, as they are seen as they looked more than 12 billion years ago, not long after the Big Bang.</li>
+    <li>The blue color indicates active star formation producing hot, bright blue stars, which was much more common in that earlier time than it is today.</li>
+</ul>
+<p>Credit: NASA, ESA, STScI</p>
+```
+
+### 2. New Figure Caption Text
+This Hubble Space Telescope image captures the massive galaxy cluster Abell 2744, whose gravity bends and magnifies light from thousands of much more distant background galaxies through gravitational lensing.
+
+### 3. New Alt-Text
+Hubble image of galaxy cluster Abell 2744 gravitationally lensing background galaxies. Details in caption.
+
+### 4. Preserved Original Alt-Text and Caption
+**Original alt-text:** Image of galaxy cluster Abell 2744. Several large, bright elliptical galaxies dominate this cluster of galaxies, which is massive enough to act as a gravitational lens to brighten and magnify the images of nearly 3000 distant background galaxies.
+
+**Original caption:** This true-color, long-exposure image, made during 70 orbits of Earth with the Hubble Space Telescope, shows a small area in the direction of the constellation Sculptor. The massive cluster of galaxies named Abell 2744 appears in the foreground of this image. It contains several hundred galaxies, and we are seeing them as they looked 3.5 billion years ago. The immense gravity in Abell 2744 acts as a gravitational lens to warp space and brighten and magnify images of nearly 3000 distant background galaxies. The more distant galaxies (many of them quite blue) appear as they did more than 12 billion years ago, not long after the Big Bang. Blue galaxies were much more common in that earlier time than they are today. These galaxies appear blue because they are undergoing active star formation and making hot, bright blue stars. (credit: NASA, ESA, STScI)
+
+### 5. Figure Attribution (Standard OpenStax Astronomy)
+```html
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>
+```
+
+### 6. Anchor Link
+`/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.1.1_Astronomical_Time_Travel`
+
+### 7. Assembled Figure HTML
+```html
+<figure><img alt="Hubble image of galaxy cluster Abell 2744 gravitationally lensing background galaxies. Details in caption." class="internal default" src="/@api/deki/files/45963/d3a7b8b8d6212c98e8f43af434924f8dacc5b87a" /> <figcaption>Figure \(\PageIndex{1}\) : Astronomical Time Travel. This Hubble Space Telescope image captures the massive galaxy cluster Abell 2744, whose gravity bends and magnifies light from thousands of much more distant background galaxies through gravitational lensing. (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" title="CC BY 4.0">CC BY 4.0</a>; <a href="https://openstax.org/books/astronomy-2e/pages/preface" target="_blank" title="Fraknoi, et al.">Fraknoi, et al.</a> via <a href="https://openstax.org/details/books/astronomy" target="_blank" title="Openstax Astronomy 2nd ed.">Openstax Astronomy 2nd ed.</a>) <a href="/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions#Figure_17.1.1_Astronomical_Time_Travel" target="_blank" title="17.8: Accessible Descriptions">Alternative description of Figure \(\PageIndex{1}\)</a>.</figcaption></figure>
+```
+
+---
+*Generated August 17, 2026*
+*AI citation (APA): Anthropic. (2026, August 17). Claude (Sonnet 5) [Large language model]. https://claude.ai/*
+
+Please confirm: (1) the attribution treatment described above, and (2) the Chapter 17 accessible-descriptions link — I'll reuse it as the default for subsequent Ch. 17 figures unless you update it.
+
 ---
 
 **Date:** August 16, 2026
