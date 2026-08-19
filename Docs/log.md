@@ -29,6 +29,17 @@ astronomical instruments, stellar spectra, star formation, aging stars, stellar 
 - record descriptions of figures?
 - Optional 
     - Scientist Appendices - Make accessible, edit, etc. and link to relevant sections. 
+## 8/18/26
+- Finish Evolution of Galaxies
+Libretext is being slow. reboot?
+### Pinned
+- Final Edit The Challenge of Dark Matter
+
+### Finished
+- Minor fixes to Format Figure- figure indices and auto-confirmation.
+- Process Art and Astronomy
+- Final Edit Observation of Distant Galaxies
+- Final Edit Mergers and Active Galaxies
 ## 8/17/26
 - Finish Evolution of Galaxies
 ### Pinned
