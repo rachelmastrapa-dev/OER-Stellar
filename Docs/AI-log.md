@@ -1,6 +1,38 @@
 # Log of AI use for ASTR10
 Oldest at the bottom
 
+## Session Summary
+
+### Activities Completed
+
+1. **References** — Formatted 3 references in APA style:
+   - Montgomery, C., Orchiston, W., & Whittingham, I. (2009). Journal article on the origin of the black hole concept.
+   - Gianopoulos, A. (Ed.). (2026). NASA webpage on black holes.
+   - Event Horizon Telescope. (2019). Webpage on the first image of a black hole.
+
+2. **Attribution** — Formatted 1 text attribution:
+   - "Visualizing the Universe - the Intersection of Art and Astronomy" from *Mediterranean Archaeology and Archaeometry* by Chris Impey and Dinah Jasensky.
+
+---
+
+### AI Citation
+
+OpenAI. (2026). *Sorcerer* [Large language model]. https://chat.openai.com
+
+---
+
+### Suggestions to Improve This App
+
+1. **Input Templates** — Providing users with a structured input template for each formatting type could reduce parsing errors and improve consistency.
+2. **Typo Detection** — Adding a more robust spell-check step for titles and author names could help catch errors before formatting.
+3. **Batch Confirmation** — For batch processing, offering a confirmation step before returning all results could help catch errors early.
+4. **Export Option** — Adding an option to export all formatted results from a session as a single document could improve workflow efficiency.
+5. **More Reference Types** — Expanding the reference formatting to include more source types, such as podcasts, videos, and social media posts, could broaden the app's utility.
+
+---
+
+Thank you for using **Sorcerer**! Have a great day! 🌟
+
 **Note:** No figure number given, so I've inferred **17.5.3** (incrementing from 17.5.2) — flagging for confirmation. No credit line in the original caption, so none is included in the accessible description.
 
 ---
