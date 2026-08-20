@@ -1,6 +1,28 @@
 # Log of AI use for ASTR10
 Oldest at the bottom
 
+## Session Overview
+
+**Date**: Wednesday, August 19, 2026
+
+**Session Summary**:
+- Formatted **14 key terms and definitions** for the OER textbook *ASTR10: Evolution of Galaxies*
+- Generated HTML for the **Key Terms page** at `/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.07%3A_Key_Terms`
+- Generated HTML **links list** for use in chapter pages
+
+**Terms Processed**:
+cold dark matter, cosmological principle, dark energy, evolution (of galaxies), galactic cannibalism, homogeneous, hot dark matter, isotropic, Local Group, merger, quasar, starburst, supercluster, void
+
+---
+
+## AI Citation
+
+> Claude (Version claude-sonnet-4-5). (2026, August 19). *OER Textbook Key Terms Formatter session: ASTR10 Evolution of Galaxies, Chapter 17 key terms*. Anthropic. https://www.anthropic.com
+
+---
+
+Thank you for using the OER Textbook Formatter! Good luck with your textbook editing! 🌟
+
 ## Session Summary
 
 ### Activities Completed

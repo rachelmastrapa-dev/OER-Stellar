@@ -40,7 +40,6 @@ Made new app with instructions in document. 
     3. headers
 5. rerun if necessary
 6. Overwrite chapter page when ready.
- 
 
 ### App Processing Steps
 1. **Remove italics** — Strip all `<em>` or `<i>` tags from the text.
@@ -132,8 +131,6 @@ The general idea is to copy in the figure, and then the html of the figure and 
 - check size of thumbnail image and format attribution  
 
 ## Final Check- Manual
-- Edit in html to avoid nbsp
-- check accessibility in Libretext
 - Commit changes in Conductor
 - Update progress log.
 - Notify Jyothsna that it is done. 
