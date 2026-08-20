@@ -3,9 +3,9 @@
 Note - oldest entry at bottom of page
 
 ## Progress
-ASTR 10 18 Chapters + Appendices - remove?
+ASTR 10 17 Chapters + Appendices - remove?
 
-Current Chapters Done  8
+Current Chapters Done  9
 astronomical instruments, stellar spectra, star formation, aging stars, stellar finale, black holes, the milky way, galaxies
 
 ## Tasks
@@ -29,6 +29,30 @@ astronomical instruments, stellar spectra, star formation, aging stars, stellar 
 - record descriptions of figures?
 - Optional 
     - Scientist Appendices - Make accessible, edit, etc. and link to relevant sections. 
+## Procedure
+- Whole Chapter
+- Format HTML
+- HTML Review
+- Format Figures
+- Final Edit
+- Format Key Terms
+- Edit Main Chapter Page
+- Final Checks
+## 8/19/26
+- Finish Evolution of Galaxies
+- Start Next Chapter - Introduction to Astronomy?
+Dump astronomy toolkit?  Do simple versions of Intro to Astronomy and Night Sky
+
+### Pinned
+- Whole Chapter Introduction to Astronomy
+
+### Finished
+- Final Edit The Structure of the Universe
+- Format Key Terms Evolution of Galaxies
+- Edit Main Chapter Page Evolution of Galaxies
+- Final Check Evolution of Galaxies
+- Deleted astronomy toolkit - copied in here, but lost image files.
+- Cleaned out Introduction to Astronomy and Night Sky and re-transcluded from Openstax
 ## 8/18/26
 - Finish Evolution of Galaxies
 Libretext is being slow. reboot?
@@ -40,6 +64,7 @@ Libretext is being slow. reboot?
 - Process Art and Astronomy
 - Final Edit Observation of Distant Galaxies
 - Final Edit Mergers and Active Galaxies
+- Final Edit The Challenge of Dark Matter
 ## 8/17/26
 - Finish Evolution of Galaxies
 ### Pinned
