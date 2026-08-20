@@ -39,7 +39,46 @@ astronomical instruments, stellar spectra, star formation, aging stars, stellar 
 - Edit Main Chapter Page
 - Final Checks
 ## 8/20/26
+Changing to AI workflow following claude guidelines:
+This is a good instinct to sort out before you're deep in it — the structure you set up now will save you a lot of pain later. Here's how I'd think about it.
 
+## The core problem you're solving
+
+I don't have memory across separate conversations (unless you're using a feature like Projects, more on that below), and any single conversation has a finite context window. So "keep the same context for the entire project" really means: **you need an external, versioned source of truth that gets fed back to me at the start of each session** — not a single infinite chat.
+
+## Recommended structure
+
+**1. A living project spec (the anchor doc)**
+One markdown file — `PROJECT.md` or similar — that always reflects current reality: goals, constraints, key decisions made (and why), current status, and what's next. This is what you paste in or point me to at the start of any new session. Treat it like a README that's always up to date, not a log.
+
+**2. Session logs (the provenance trail)**
+A new dated file per work session — `sessions/2026-08-20-session01.md` — with a consistent template, e.g.:
+- Goal for this session
+- What Claude produced/proposed
+- What you decided, edited, rejected, or wrote yourself
+- Open questions carried to next session
+
+This is your Claude-vs-you record. Keep the attribution granular *in the log*, not scattered as comments in code/docs — much easier to audit later.
+
+**3. Decision records for anything consequential**
+Lightweight ADR (Architecture/decision record) style — one file per significant decision, numbered, with the options considered and why one was chosen. Prevents re-litigating the same choice three months in, and makes it obvious whose call it was.
+
+**4. Git as the actual backbone**
+- Commit after each session, not each message.
+- Use commit trailers to mark authorship, e.g. `Assisted-by: Claude` on commits where I generated most of the content, plain commits where you wrote it. This gives you `git log` as a queryable provenance record for free.
+- Branch per step/phase if steps are substantial; merge with a short summary of what changed and who drove it.
+
+**5. One file per "domain," not one giant doc**
+Split by concern (architecture, data model, open-questions, glossary) rather than one sprawling doc — easier for both of us to load only what's relevant to a given step instead of re-parsing everything each time.
+
+## How to actually run sessions with me
+
+- Start each session by pasting (or uploading) `PROJECT.md` plus the relevant piece of state — not the whole history.
+- End each session by asking me to draft the session log entry and any updates to `PROJECT.md` — that's the handoff artifact you commit.
+- If you're on claude.ai, **Projects** can hold your `PROJECT.md` and key docs as persistent project knowledge, so you don't have to re-paste them every time — worth setting up if you haven't.
+- If part of this involves actual code, **Claude Code** works directly in your git repo, sees `git log`/`git diff`, and can commit with proper attribution itself — genuinely useful for the "who did what" tracking since the commit history becomes the audit trail automatically.
+
+One thing worth pinning down before we go further:
 ### Pinned
 - Whole Chapter Introduction to Astronomy
 - Do as much of Intro to Astro as humanly possible
