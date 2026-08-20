@@ -1,3 +1,2 @@
 # OER-Stellar
-Some tools and files for an OER textbook about stellar astronomy.
-Making local copy of log, AI log, and instructions so it isn't lost when Libretext is down.
+Project for editing an Open Educational Resource (OER) textbook for Stellar Astronomy. Includes tools to edit and format the text using AI.
