@@ -1,23 +1,67 @@
 # Editing Instructions for ASTR10
 ## Starting Day
 1. Create new issue in git
-2. Make new branch
-3. Open log, AI log, and this file 
+    1. Editing for the day with date
+    2. List goals for the day
+2. Move issue to working in project, assign self, create branch
+3. Create new session file for today
 ## Ending Day
-Close all files, commit, merge branches.
-## Whole Chapter - Manual
-- key terms
-  - note possible key terms
-  - Copy key terms from Openstax and add to log. for chapter and general  - check general log
-- remove chapter summaries
-- change last section to Accessible Descriptions
-- shorten chapter, section, and subsection headings.
-- More links to end - call Further Exploration
-- Go over remixed material on each page and make sure it is on correct page. 
-- Delete extra materials
-- log references
+1. List questions for tomorrow in session file
+2. Save and close all files, commit, merge branches.
+
+## Whole Chapter - Manual in Libretext
+- Change last section to Accessible Descriptions
+- Remove chapter summaries
+- Add chapter thumbnails
+- Change chapter titles - shorten, clarify
+- Delete Extra material - on the chapter/section level
 - Commit changes in Conductor
-- Learning objectives already moved - need to do this an agentic AI project
+
+## Harvest
+If starting new project, use libretext to harvest book to repo using export-book and libretext-export, or do chapter by chapter
+
+## Edit Chapter - Claude/AI
+
+### Passive - no user interaction needed
+1. **Remove italics** — Strip all `<em>` or `<i>` tags from the text.
+2. **Remove bold** — Remove `<strong>` or `<b>` tags, *except* when they wrap a link to a key terms page.
+3. **Remove term spans** — Replace `<span class="no-emphasis" data-type="term" ...>text</span>` with just the plain text.
+4. **Remove `&nbsp;`** — Replace non-breaking spaces with a regular space if a space is needed, or remove them entirely if no space is needed.
+5. **Replace Figure and Table numbers** — Replace all specific Figure and Table numbers (e.g., Figure 21.5, Table 18.1) with `Figure \(\PageIndex{1}\)` or `Table \(\PageIndex{1}\)`.
+6. **Remove parenthetical "see" references** — Remove parenthetical text that begins with "see" but keep any Figure \(\PageIndex{1}\) reference. For example:
+   - `(see Figure \(\PageIndex{1}\))` → `Figure \(\PageIndex{1}\)`
+   - `(Figure \(\PageIndex{1}\))` → `Figure \(\PageIndex{1}\)`
+   - `(see Active Galaxies, Quasars...)` → removed entirely
+   - Parentheses around entire sentences are also removed.
+7. **Correct minor HTML errors** — Fix any small structural or syntax errors in the HTML.
+8. **Examples and Exercises**
+   - If a header starts with "Example," reformat it into a styled example box with the header text as the box legend and the section text inside the box.
+   - If a header starts with "Exercise," reformat it into a styled exercise box, with the header as the legend, section text inside, and any answer text moved to the answer section.
+   - Move Examples and Exercises boxes to the end of the page
+
+- Move learning objectives from chapters into main chapter page.
+- Key terms
+  - Check against key terms list from Openstax and create list for chapter
+  - Format terms and definitions and add to key terms page
+  - Find first occurance of term in chapter paragraph text, not figure, table, or heading 
+     - format text to bold and link
+     - handle whether in plural or singular in paragraph text.
+- Suggest section and subsection headings within guidelines
+  - Page must always start with and H2 Heading
+  - Heading text should be very brief and reflect the topic of the section
+  - Heading text should be a statement, not a question.
+
+- Box Handling
+  - Note boxes that say link to learning 
+     - Create note page at end of page called Further Exploration
+     - Move each of the link statements to the Further Exploration box and 
+     - If there is more than one paragraph, format all to an unnumbered list
+     - Follow the link to its actual source and replace the link in the html with the actual page.
+
+
+- Flag any material that should be in a different section
+- Log references, attributions, figure attributions
+
 
 ## Jyothsna
 - Main chapter page 
@@ -25,36 +69,12 @@ Close all files, commit, merge branches.
 - Remove all section summaries
 - Change name of last page to Accessible Descriptions
 
-## Format HTML - Playlab AI
-Made new app with instructions in document. 
-1. Copy in html of entire page.
-2. Copy text output to AI Log 
-    1. Click on copy button at bottom.
-    2. Copy into plain text.
-    3. Ignore html, just copy markdown
-    4. Copy markdown into log.
-3. Copy html to a scratch file (Appendices) and make sure it works. 
-4. Review reccomendation and implement or not
-    1. Note what had term html and decide if it is a key term and add to key term list with def
-    2. highlighted text
-    3. headers
-5. rerun if necessary
-6. Overwrite chapter page when ready.
 
 ### App Processing Steps
-1. **Remove italics** — Strip all `<em>` or `<i>` tags from the text.
-2. **Remove bold** — Remove `<strong>` or `<b>` tags, *except* when they wrap a link to a key terms page.
-3. **Remove term spans** — Replace `<span class="no-emphasis" data-type="term" ...>text</span>` with just the plain text.
-4. **Remove `&nbsp;`** — Replace non-breaking spaces with a regular space if a space is needed, or remove them entirely if no space is needed.
-5. **Replace Figure and Table numbers** — Replace all specific Figure and Table numbers (e.g., Figure 21.5, Table 18.1) with `Figure XXX` or `Table XXX`.
-6. **Remove parenthetical "see" references** — Remove parenthetical text that begins with "see" but keep any Figure XXX reference. For example:
-   - `(see Figure XXX)` → `Figure XXX`
-   - `(Figure XXX)` → `Figure XXX`
-   - `(see Active Galaxies, Quasars...)` → removed entirely
-   - Parentheses around entire sentences are also removed.
-7. **Correct minor HTML errors** — Fix any small structural or syntax errors in the HTML.
-8. **Format Example boxes** — If a header starts with "Example," reformat it into a styled example box with the header text as the box legend and the section text inside the box.
-9. **Format Exercise boxes** — If a header starts with "Exercise," reformat it into a styled exercise box, with the header as the legend, section text inside, and any answer text moved to the answer section.
+
+
+
+
 10. **Format Further Exploration sections** — Place all text in a "Further Exploration" section inside a styled note box.
 11. **Highlight spelling/grammar errors in orange** — Do not correct them; instead wrap them in `<span class="mt-bgcolor-e67e22">text</span>`.
 12. **Highlight IDEA Framework issues in red** — Flag content in paragraph text that does not meet IDEA (Inclusion, Diversity, Equity, and Access) standards using `<span class="mt-bgcolor-c0392b">text</span>`. For non-text material (figures, headers), describe recommended changes in a list.
@@ -77,7 +97,6 @@ Made new app with instructions in document. 
 - Delete extra text or figures.
 - log attribution info, including codes                
 - Log attribution info for figures and give them titles.
-- Figure: Do a global search and replace of XXX with  \(\PageIndex{1}\). 
 - Equations: global search for $$ - replace in libretext first to make right and left paren?
   - Inline: \(equation\)
   - Display/Block: \[equation nonumber\]
