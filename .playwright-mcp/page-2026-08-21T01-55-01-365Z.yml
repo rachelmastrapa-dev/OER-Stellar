@@ -1,0 +1,248 @@
+- generic [active] [ref=f168e1]:
+  - link "Skip to main content" [ref=f168e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f168e3]:
+    - text: 
+    - generic [ref=f168e4]:
+      - generic [ref=f168e5]:
+        - generic: ✕
+        - navigation [ref=f168e7]:
+          - generic [ref=f168e8]:
+            - link [ref=f168e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f168e11]
+            - button "Enter Reader Mode" [ref=f168e13] [cursor=pointer]:
+              - generic [ref=f168e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f168e16]:
+        - list [ref=f168e18]:
+          - listitem [ref=f168e19]:
+            - link [ref=f168e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f168e22]
+          - listitem [ref=f168e23]:
+            - text: 
+            - generic [ref=f168e25]:
+              - generic [ref=f168e26]: "Search :"
+              - searchbox "Search :" [ref=f168e27]
+              - button " Search" [ref=f168e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f168e29]:
+            - list [ref=f168e30]:
+              - listitem [ref=f168e31]:
+                - link "Edit" [ref=f168e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System?action=edit
+              - text: 
+              - listitem [ref=f168e33]:
+                - link " Options" [ref=f168e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f168e35]:
+                - link " Rachel Mastrapa" [ref=f168e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f168e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f168e38] [cursor=pointer]
+          - list [ref=f168e39]:
+            - listitem [ref=f168e40]:
+              - link " Home" [ref=f168e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f168e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f168e43]:
+              - link " Workbench" [ref=f168e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f168e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f168e46]:
+              - link " De Anza - ASTR10" [ref=f168e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f168e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f168e49]:
+              - generic [ref=f168e50]: 
+              - text: "6: The Sun and Our Solar System"
+          - text: 
+      - navigation
+    - article [ref=f168e51]:
+      - generic [ref=f168e52]:
+        - generic [ref=f168e53]:
+          - button " Page settings" [ref=f168e54] [cursor=pointer]
+          - text: "    : :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "6: The Sun and Our Solar System" [level=1] [ref=f168e55]'
+        - list [ref=f168e58]:
+          - listitem [ref=f168e59]:
+            - link [ref=f168e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f168e62]:
+                - img "CC" [ref=f168e63]
+                - img "BY" [ref=f168e64]
+          - listitem [ref=f168e65]:
+            - generic [ref=f168e66]:
+              - term [ref=f168e67]: "Last updated:"
+              - definition [ref=f168e68]: Dec 27, 2025, 10:06 PM by Rachel Mastrapa
+          - listitem [ref=f168e69]:
+            - generic [ref=f168e70]:
+              - term [ref=f168e71]: "Page restriction:"
+              - definition [ref=f168e72]: Private
+          - listitem [ref=f168e73]:
+            - generic [ref=f168e74]:
+              - term [ref=f168e75]: "Page ID:"
+              - definition [ref=f168e76]: "115280"
+          - listitem [ref=f168e77]:
+            - list [ref=f168e78]:
+              - listitem [ref=f168e79]:
+                - button "Pin Page" [ref=f168e80] [cursor=pointer]: 
+              - listitem [ref=f168e81]:
+                - generic [ref=f168e82]:
+                  - link " Page notifications Off" [ref=f168e84] [cursor=pointer]:
+                    - /url: "#"
+                  - text: 
+              - text: 
+              - listitem [ref=f168e85]:
+                - list [ref=f168e86]:
+                  - listitem [ref=f168e87]:
+                    - 'link " 5.8: Accessible Descriptions" [ref=f168e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.08%3A_Accessible_Descriptions
+                      - text: 
+                      - generic [ref=f168e89]: "5.8: Accessible Descriptions"
+                  - listitem [ref=f168e90]:
+                    - 'link "6.1: Composition and Atmosphere of the Sun " [ref=f168e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.01%3A_Composition_and_Atmosphere_of_the_Sun
+                      - generic [ref=f168e92]: "6.1: Composition and Atmosphere of the Sun"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f168e93]:
+        - generic [ref=f168e94]:
+          - paragraph [ref=f168e95]: Writing in ASTR 4, will copy when done
+          - paragraph
+          - list [ref=f168e98]:
+            - listitem [ref=f168e99]:
+              - generic [ref=f168e100]:
+                - term [ref=f168e101]:
+                  - 'link " 6.1: Composition and Atmosphere of the Sun" [ref=f168e102] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.01%3A_Composition_and_Atmosphere_of_the_Sun
+                    - generic [ref=f168e103]: 
+                    - text: "6.1: Composition and Atmosphere of the Sun"
+                - definition
+            - listitem [ref=f168e104]:
+              - generic [ref=f168e105]:
+                - term [ref=f168e106]:
+                  - 'link " 6.2: The Solar Cycle" [ref=f168e107] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.02%3A_The_Solar_Cycle
+                    - generic [ref=f168e108]: 
+                    - text: "6.2: The Solar Cycle"
+                - definition
+            - listitem [ref=f168e109]:
+              - generic [ref=f168e110]:
+                - term [ref=f168e111]:
+                  - 'link " 6.3: Space Weather" [ref=f168e112] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.03%3A_Space_Weather
+                    - generic [ref=f168e113]: 
+                    - text: "6.3: Space Weather"
+                - definition
+            - listitem [ref=f168e114]:
+              - generic [ref=f168e115]:
+                - term [ref=f168e116]:
+                  - 'link " 6.4: The Solar System" [ref=f168e117] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.04%3A_The_Solar_System
+                    - generic [ref=f168e118]: 
+                    - text: "6.4: The Solar System"
+                - definition
+            - listitem [ref=f168e119]:
+              - generic [ref=f168e120]:
+                - term [ref=f168e121]:
+                  - 'link " 6.5: Science Sensationalism and Literacy" [ref=f168e122] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.05%3A_Science_Sensationalism_and_Literacy
+                    - generic [ref=f168e123]: 
+                    - text: "6.5: Science Sensationalism and Literacy"
+                - definition
+            - listitem [ref=f168e124]:
+              - generic [ref=f168e125]:
+                - term [ref=f168e126]:
+                  - 'link " 6.6: Key Terms" [ref=f168e127] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.06%3A_Key_Terms
+                    - generic [ref=f168e128]: 
+                    - text: "6.6: Key Terms"
+                - definition
+            - listitem [ref=f168e129]:
+              - generic [ref=f168e130]:
+                - term [ref=f168e131]:
+                  - 'link " 6.7: Accessible Descriptions" [ref=f168e132] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.07%3A_Accessible_Descriptions
+                    - generic [ref=f168e133]: 
+                    - text: "6.7: Accessible Descriptions"
+                - definition
+          - paragraph
+          - paragraph [ref=f168e134]: Thumbnail
+        - generic [ref=f168e135]:
+          - separator [ref=f168e136]
+          - paragraph [ref=f168e138]:
+            - 'link "6: The Sun and Our Solar System" [ref=f168e139] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System
+            - text: is shared under a
+            - link "CC BY" [ref=f168e140] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f168e141]:
+        - list [ref=f168e142]:
+          - listitem: 
+          - listitem [ref=f168e143]:
+            - list [ref=f168e144]:
+              - listitem [ref=f168e145]:
+                - 'link " 5.8: Accessible Descriptions" [ref=f168e146] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.08%3A_Accessible_Descriptions
+                  - text: 
+                  - generic [ref=f168e147]: "5.8: Accessible Descriptions"
+              - listitem [ref=f168e148]:
+                - 'link "6.1: Composition and Atmosphere of the Sun " [ref=f168e149] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.01%3A_Composition_and_Atmosphere_of_the_Sun
+                  - generic [ref=f168e150]: "6.1: Composition and Atmosphere of the Sun"
+                  - text: 
+        - generic:   
+        - text: ": : : :         "
+    - generic [ref=f168e152]:
+      - button "Open support menu" [ref=f168e154] [cursor=pointer]: "?"
+      - navigation [ref=f168e156]:
+        - paragraph [ref=f168e158]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f168e159] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f168e160] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f168e161] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f168e162] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f168e163] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f168e164]:
+      - generic:
+        - generic [ref=f168e166]:
+          - button "Annotation sidebar" [ref=f168e167]
+          - generic [ref=f168e172]:
+            - button "Show highlights" [ref=f168e173]
+            - button "New page note" [ref=f168e178]
+          - status [ref=f168e183]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f168e184]:
+    - button "contents" [ref=f168e185] [cursor=pointer]
+    - button "readability" [ref=f168e187] [cursor=pointer]
+    - button "resources" [ref=f168e189] [cursor=pointer]
+    - button "tools" [ref=f168e191] [cursor=pointer]
+    - button "developers" [ref=f168e193] [cursor=pointer]

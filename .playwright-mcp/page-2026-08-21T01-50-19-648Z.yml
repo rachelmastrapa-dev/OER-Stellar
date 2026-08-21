@@ -1,0 +1,235 @@
+- generic [ref=f137e1]:
+  - link "Skip to main content" [ref=f137e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f137e3]:
+    - text: 
+    - generic [ref=f137e4]:
+      - generic [ref=f137e5]:
+        - generic: ✕
+        - navigation [ref=f137e7]:
+          - generic [ref=f137e8]:
+            - link [ref=f137e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f137e11]
+            - button "Enter Reader Mode" [ref=f137e13] [cursor=pointer]:
+              - generic [ref=f137e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f137e16]:
+        - list [ref=f137e18]:
+          - listitem [ref=f137e19]:
+            - link [ref=f137e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f137e22]
+          - listitem [ref=f137e23]:
+            - text: 
+            - generic [ref=f137e25]:
+              - generic [ref=f137e26]: "Search :"
+              - searchbox "Search :" [ref=f137e27]
+              - button " Search" [ref=f137e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f137e29]:
+            - list [ref=f137e30]:
+              - listitem [ref=f137e31]:
+                - link "Edit" [ref=f137e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments?action=edit
+              - text: 
+              - listitem [ref=f137e33]:
+                - link " Options" [ref=f137e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f137e35]:
+                - link " Rachel Mastrapa" [ref=f137e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f137e37]:
+        - generic:
+          - button " Contents" [ref=f137e151] [cursor=pointer]
+          - list [ref=f137e39]:
+            - listitem [ref=f137e40]:
+              - link " Home" [ref=f137e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f137e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f137e43]:
+              - link " Workbench" [ref=f137e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f137e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f137e46]:
+              - link " De Anza - ASTR10" [ref=f137e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f137e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f137e49]:
+              - generic [ref=f137e50]: 
+              - text: "5: Astronomical Instruments"
+          - text: 
+      - navigation:
+        - generic:                                                
+    - article [ref=f137e51]:
+      - generic [ref=f137e52]:
+        - generic [ref=f137e53]:
+          - button " Page settings" [ref=f137e54] [cursor=pointer]
+          - text: "    : :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "5: Astronomical Instruments" [level=1] [ref=f137e55]':
+          - generic [ref=f137e152]: "5: Astronomical Instruments "
+        - list [ref=f137e58]:
+          - listitem [ref=f137e59]:
+            - link [ref=f137e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f137e62]:
+                - img "CC" [ref=f137e63]
+                - img "BY" [ref=f137e64]
+          - listitem [ref=f137e65]:
+            - generic [ref=f137e66]:
+              - term [ref=f137e67]: "Last updated:"
+              - definition [ref=f137e68]: Jul 29, 2026, 10:15 AM by Jyothsna Viswanadha
+          - listitem [ref=f137e69]:
+            - generic [ref=f137e70]:
+              - term [ref=f137e71]: "Page restriction:"
+              - definition [ref=f137e72]: Private
+          - listitem [ref=f137e73]:
+            - generic [ref=f137e74]:
+              - term [ref=f137e75]: "Page ID:"
+              - definition [ref=f137e76]: "115279"
+          - listitem [ref=f137e77]:
+            - list [ref=f137e78]:
+              - listitem [ref=f137e79]:
+                - button "Pin Page" [ref=f137e80] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f137e81]:
+                - list [ref=f137e82]:
+                  - listitem [ref=f137e83]:
+                    - 'link " 4.9: Accessible Descriptions" [ref=f137e84] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.09%3A_Accessible_Descriptions
+                      - text: 
+                      - generic [ref=f137e85]: "4.9: Accessible Descriptions"
+                  - listitem [ref=f137e86]:
+                    - 'link "5.1: Telescopes " [ref=f137e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.01%3A_Telescopes
+                      - generic [ref=f137e88]: "5.1: Telescopes"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f137e89]:
+        - group [ref=f137e156]:
+          - generic [ref=f137e157]:
+            - generic [ref=f137e158]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f137e159]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f137e160]:
+            - generic [ref=f137e163]:
+              - generic [ref=f137e165]:
+                - link "Edit" [ref=f137e166]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f137e167]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f137e168]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f137e169]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f137e170]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f137e171]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f137e174]:
+                - toolbar [ref=f137e175]:
+                  - button "Save" [ref=f137e176]:
+                    - generic [ref=f137e177]: 
+                  - button "Cancel" [ref=f137e179]:
+                    - generic [ref=f137e180]: 
+                - text:          
+                - toolbar [ref=f137e221]:
+                  - button "Alignment" [ref=f137e222]:
+                    - generic [ref=f137e223]: 
+                - text:    
+                - toolbar [ref=f137e236]:
+                  - button "Replace" [ref=f137e237]:
+                    - generic [ref=f137e238]: 
+                - toolbar [ref=f137e240]:
+                  - button "Enable Binder" [disabled] [ref=f137e241]
+                  - button "Insert Adapt" [disabled] [ref=f137e243]
+                  - button "Query" [ref=f137e245]
+                  - button "Accessibility Checker" [disabled] [ref=f137e248]
+                - toolbar [ref=f137e251]:
+                  - button "Visual" [pressed] [ref=f137e267]:
+                    - generic [ref=f137e253]: 
+            - application "Rich Text Editor, editarea" [ref=f137e255]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f137e269]: "<h2>Introduction</h2> <p>To study the stars, astronomers need to be able collect data.&nbsp;The main tool that astronomers use is the telescope. This chapter will describe how telescopes work and the various instruments that astronomers use to collect data.&nbsp;It is understandable if&nbsp;the word instrument makes you&nbsp;think of&nbsp;a piano or a guitar. Scientific instruments are devices that are used by astronomers to collect data, including telescopes, detectors, and spectrometers.&nbsp;&nbsp;</p> <section class=\"box-objectives\"> <h5 class=\"box-legend lt-phys-64684\"><span class=\"lt-icon-default\">Learning Objectives</span></h5> <p class=\"lt-phys-64684\">By the end of this section, you will be able to:</p> <ul> <li class=\"lt-phys-64684\">Describe the main parts of a telescope and how it collects light.</li> <li class=\"lt-phys-64684\">List the differences between refracting and reflecting telescopes.&nbsp;</li> <li class=\"lt-phys-64684\">Describe the progression in telescope design.</li> <li>Review the factors relevant to choosing an appropriate telescope site.</li> <li class=\"lt-phys-64685\">List the different types of detectors and describe why the charge-coupled device&nbsp;(CCD) is preferred.</li> <li class=\"lt-phys-64685\">Review the difference between visible and infrared observations.</li> <li class=\"lt-phys-64687\">Describe how radio waves from space are detected.</li> <li class=\"lt-phys-64687\">Define radar and list how it has been used to explore space.</li> <li class=\"lt-phys-64688\">List the advantages of making astronomical observations from space.</li> <li class=\"lt-phys-64688\">Describe some of the space-based observatories astronomers use.</li> </ul> </section> <p>{{template.ShowOrg()}}</p> <p><strong>Thumbnail</strong>: The James Lick telescope at Lick Observatory, Mt. Hamilton, California. It is a 36 inch refractor. (<a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" target=\"_blank\" title=\"CC BY 2.0\">CC BY 2.0</a>; <a href=\"https://www.flickr.com/people/23369083@N05\" target=\"_blank\" title=\"myyorgda\">myyorgda</a> via <a href=\"https://commons.wikimedia.org/wiki/File:Lick_Observatory_Refractor.jpg\" target=\"_blank\" title=\"Wikimedia Commons\">Wikimedia Commons</a>)</p>"
+              - generic [ref=f137e257]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f137e259] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f137e91]:
+          - separator [ref=f137e92]
+          - paragraph [ref=f137e94]:
+            - 'link "5: Astronomical Instruments" [ref=f137e95] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments
+            - text: is shared under a
+            - link "CC BY" [ref=f137e96] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f137e97]:
+        - list [ref=f137e98]:
+          - listitem: 
+          - listitem [ref=f137e99]:
+            - list [ref=f137e100]:
+              - listitem [ref=f137e101]:
+                - 'link " 4.9: Accessible Descriptions" [ref=f137e102] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.09%3A_Accessible_Descriptions
+                  - text: 
+                  - generic [ref=f137e103]: "4.9: Accessible Descriptions"
+              - listitem [ref=f137e104]:
+                - 'link "5.1: Telescopes " [ref=f137e105] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.01%3A_Telescopes
+                  - generic [ref=f137e106]: "5.1: Telescopes"
+                  - text: 
+        - generic:   
+        - text: "     : : : :              "
+    - generic [ref=f137e108]:
+      - button "Open support menu" [ref=f137e110] [cursor=pointer]: "?"
+      - navigation [ref=f137e112]:
+        - paragraph [ref=f137e114]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f137e115] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f137e116] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f137e117] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f137e118] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f137e119] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f137e120]:
+      - generic:
+        - generic [ref=f137e122]:
+          - button "Annotation sidebar" [ref=f137e123]
+          - generic [ref=f137e128]:
+            - button "Show highlights" [ref=f137e129]
+            - button "New page note" [ref=f137e134]
+          - status [ref=f137e139]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f137e140]:
+    - button "contents" [ref=f137e141] [cursor=pointer]
+    - button "readability" [ref=f137e143] [cursor=pointer]
+    - button "resources" [ref=f137e145] [cursor=pointer]
+    - button "tools" [ref=f137e147] [cursor=pointer]
+    - button "developers" [ref=f137e149] [cursor=pointer]
+  - text:  
+  - generic [ref=f137e260]:
+    - generic [ref=f137e261] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f137e264] [cursor=pointer]

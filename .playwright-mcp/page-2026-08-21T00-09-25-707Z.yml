@@ -1,0 +1,532 @@
+- generic [ref=f3e1]:
+  - link "Skip to main content" [ref=f3e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f3e3]:
+    - text: 
+    - generic [ref=f3e4]:
+      - generic [ref=f3e5]:
+        - generic: ✕
+        - navigation [ref=f3e7]:
+          - generic [ref=f3e8]:
+            - link [ref=f3e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f3e11]
+            - button "Enter Reader Mode" [ref=f3e13] [cursor=pointer]:
+              - generic [ref=f3e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f3e16]:
+        - list [ref=f3e18]:
+          - listitem [ref=f3e19]:
+            - link [ref=f3e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f3e22]
+          - listitem [ref=f3e23]:
+            - text: 
+            - generic [ref=f3e25]:
+              - generic [ref=f3e26]: "Search :"
+              - searchbox "Search :" [ref=f3e27]
+              - button " Search" [ref=f3e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f3e29]:
+            - list [ref=f3e30]:
+              - listitem [ref=f3e31]:
+                - link "Edit" [ref=f3e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.01%3A_How_Science_Works?action=edit
+              - text: 
+              - listitem [ref=f3e33]:
+                - link " Options" [ref=f3e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f3e35]:
+                - link " Rachel Mastrapa" [ref=f3e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f3e37]:
+        - generic:
+          - button " Contents" [ref=f3e218] [cursor=pointer]
+          - list [ref=f3e39]:
+            - listitem [ref=f3e40]:
+              - link " Home" [ref=f3e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f3e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f3e43]:
+              - link " Workbench" [ref=f3e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f3e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f3e46]:
+              - link " De Anza - ASTR10" [ref=f3e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f3e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f3e49]:
+              - 'link " 1: Introduction to Astronomy" [ref=f3e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy
+                - generic [ref=f3e51]: 
+                - text: "1: Introduction to Astronomy"
+              - text: »
+            - listitem [ref=f3e52]:
+              - generic [ref=f3e53]: 
+              - text: "1.1: How Science Works"
+          - button " Expand/collapse global location" [ref=f3e54] [cursor=pointer]
+      - navigation:
+        - generic:                                               
+    - article [ref=f3e55]:
+      - generic [ref=f3e56]:
+        - generic [ref=f3e57]:
+          - button " Page settings" [ref=f3e58] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :      "
+        - 'heading "1.1: How Science Works" [level=1] [ref=f3e59]':
+          - generic [ref=f3e219]: "1.1: How Science Works "
+        - list [ref=f3e62]:
+          - listitem [ref=f3e63]:
+            - link [ref=f3e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f3e66]:
+                - img "CC" [ref=f3e67]
+                - img "BY" [ref=f3e68]
+          - listitem [ref=f3e69]:
+            - generic [ref=f3e70]:
+              - term [ref=f3e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f3e72]: Aug 19, 2026, 9:38 PM by Rachel Mastrapa
+          - listitem [ref=f3e73]:
+            - generic [ref=f3e74]:
+              - term [ref=f3e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f3e76]: Private
+          - listitem [ref=f3e77]:
+            - generic [ref=f3e78]:
+              - term [ref=f3e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f3e80]: "152331"
+          - listitem [ref=f3e81]:
+            - list [ref=f3e82]:
+              - listitem [ref=f3e83]:
+                - button "Pin Page" [ref=f3e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f3e85]:
+                - list [ref=f3e86]:
+                  - listitem [ref=f3e87]:
+                    - 'link " 1: Introduction to Astronomy" [ref=f3e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy
+                      - text: 
+                      - generic [ref=f3e89]: "1: Introduction to Astronomy"
+                  - listitem [ref=f3e90]:
+                    - 'link "1.2: Origins of Astronomy " [ref=f3e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.02%3A_Origins_of_Astronomy
+                      - generic [ref=f3e92]: "1.2: Origins of Astronomy"
+                      - text: 
+              - text:  
+      - list [ref=f3e95]:
+        - listitem [ref=f3e96]:
+          - img "OpenStax" [ref=f3e97]
+        - listitem [ref=f3e98]:
+          - link "OpenStax" [ref=f3e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f3e100]:
+          - link "OpenStax" [ref=f3e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f3e102]:
+        - group [ref=f3e223]:
+          - generic [ref=f3e224]:
+            - generic [ref=f3e225]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f3e226]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f3e227]:
+            - generic [ref=f3e230]:
+              - generic [ref=f3e231]:
+                - generic [ref=f3e232]:
+                  - link "Edit" [ref=f3e233]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f3e234]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f3e235]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f3e236]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f3e237]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f3e238]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f3e239]: "Words: 5658, Chars: 34860"
+              - group "Editor toolbars" [ref=f3e241]:
+                - toolbar [ref=f3e242]:
+                  - button "Save" [ref=f3e243]:
+                    - generic [ref=f3e244]: 
+                  - button "Cancel" [ref=f3e246]:
+                    - generic [ref=f3e247]: 
+                - toolbar [ref=f3e250]:
+                  - button "Undo" [disabled] [ref=f3e251]:
+                    - generic [ref=f3e252]: 
+                  - button "Redo" [disabled] [ref=f3e253]:
+                    - generic [ref=f3e254]: 
+                - toolbar [ref=f3e256]:
+                  - button "Headings" [ref=f3e257]
+                - toolbar [ref=f3e262]:
+                  - button "Bold" [ref=f3e263]:
+                    - generic [ref=f3e264]: 
+                  - button "Italic" [ref=f3e265]:
+                    - generic [ref=f3e266]: 
+                  - button "Underline" [ref=f3e267]:
+                    - generic [ref=f3e268]: 
+                - toolbar [ref=f3e270]:
+                  - button "Text color" [ref=f3e271]:
+                    - generic [ref=f3e272]: 
+                  - button "Background color" [ref=f3e274]:
+                    - generic [ref=f3e275]: 
+                - toolbar [ref=f3e278]:
+                  - button "Remove format" [ref=f3e279]:
+                    - generic [ref=f3e280]: 
+                - toolbar [ref=f3e282]:
+                  - button "Insert/Remove numbered list" [ref=f3e283]:
+                    - generic [ref=f3e284]: 
+                  - button "Insert/Remove bulleted list" [ref=f3e285]:
+                    - generic [ref=f3e286]: 
+                - toolbar [ref=f3e288]:
+                  - button "Alignment" [ref=f3e289]:
+                    - generic [ref=f3e290]: 
+                - text: 
+                - toolbar [ref=f3e293]:
+                  - button "Link" [ref=f3e294]:
+                    - generic [ref=f3e295]: 
+                  - button "Image" [ref=f3e296]:
+                    - generic [ref=f3e297]: 
+                  - text: 
+                  - button "Boxes" [ref=f3e298]
+                - toolbar [ref=f3e303]:
+                  - button "Replace" [ref=f3e304]:
+                    - generic [ref=f3e305]: 
+                - toolbar [ref=f3e307]:
+                  - button "Enable Binder" [ref=f3e308]
+                  - button "Insert Adapt" [ref=f3e310]
+                  - button "Query" [ref=f3e312]
+                  - button "Accessibility Checker" [ref=f3e315]
+                - toolbar [ref=f3e318]:
+                  - button "HTML" [ref=f3e319]:
+                    - generic [ref=f3e320]: 
+            - application "Rich Text Editor, editarea" [ref=f3e322]:
+              - iframe [active] [ref=f3e323]:
+                - generic [active] [ref=f5e1]:
+                  - heading "Nature of Science" [level=2] [ref=f5e2]
+                  - paragraph [ref=f5e3]:
+                    - text: Biology is a science, but what exactly is science? What does the study of biology share with other scientific disciplines? Science (from the Latin
+                    - emphasis [ref=f5e4]: scientia,
+                    - text: meaning "knowledge") can be defined as knowledge about the natural world.
+                  - paragraph [ref=f5e5]: Science is a very specific way of learning, or knowing, about the world. The history of the past 500 years demonstrates that science is a very powerful way of knowing about the world; it is largely responsible for the technological revolutions that have taken place during this time. There are however, areas of knowledge and human experience that the methods of science cannot be applied to. These include such things as answering purely moral questions, aesthetic questions, or what can be generally categorized as spiritual questions. Science has cannot investigate these areas because they are outside the realm of material phenomena, the phenomena of matter and energy, and cannot be observed and measured.
+                  - paragraph [ref=f5e6]: The scientific method is a method of research with defined steps that include experiments and careful observation. The steps of the scientific method will be examined in detail later, but one of the most important aspects of this method is the testing of hypotheses. A hypothesis is a suggested explanation for an event, which can be tested. Hypotheses, or tentative explanations, are generally produced within the context of a scientific theory. A scientific theory is a generally accepted, thoroughly tested and confirmed explanation for a set of observations or phenomena. Scientific theory is the foundation of scientific knowledge. In addition, in many scientific disciplines (less so in biology) there are scientific laws, often expressed in mathematical formulas, which describe how elements of nature will behave under certain specific conditions. There is not an evolution of hypotheses through theories to laws as if they represented some increase in certainty about the world. Hypotheses are the day-to-day material that scientists work with and they are developed within the context of theories. Laws are concise descriptions of parts of the world that are amenable to formulaic or mathematical description.
+                  - paragraph [ref=f5e7]: Sometime in your life you’ve asked a question about the world around you. Probably you’ve asked a lot of questions over the years. The best way to answer questions about the natural world is by using science. Scientists ask questions every day, and then use a set of steps to answer those questions. The steps are known as the scientific method. By following the scientific method, scientists come up with the best information about the natural world. As a scientist, you need to do experiments to find out about the world. You also need to wonder, observe, talk, and think. Everything we learn helps us to ask new and better questions.
+                  - heading "Types of Science" [level=2] [ref=f5e8]
+                  - paragraph [ref=f5e9]: What would you expect to see in a museum of natural sciences? Frogs? Plants? Dinosaur skeletons? Exhibits about how the brain functions? A planetarium? Gems and minerals? Or maybe all of the above? Science includes such diverse fields as astronomy, biology, computer sciences, geology, logic, physics, chemistry, and mathematics . However, those fields of science related to the physical world and its phenomena and processes are considered natural sciences. Thus, a museum of natural sciences might contain any of the items listed above.
+                  - paragraph [ref=f5e10]: There is no complete agreement when it comes to defining what the natural sciences include. For some experts, the natural sciences are astronomy, biology, chemistry, earth science, and physics. Other scholars choose to divide natural sciences into life sciences, which study living things and include biology, and physical sciences, which study nonliving matter and include astronomy, physics, and chemistry. Some disciplines such as biophysics and biochemistry build on two sciences and are interdisciplinary.
+                  - heading "Scientific Inquiry" [level=2] [ref=f5e11]
+                  - paragraph [ref=f5e12]: "One thing is common to all forms of science: an ultimate goal “to know.” Curiosity and inquiry are the driving forces for the development of science. Scientists seek to understand the world and the way it operates. Two methods of logical thinking are used: inductive reasoning and deductive reasoning."
+                  - paragraph [ref=f5e13]: Inductive reasoning is a form of logical thinking that uses related observations to arrive at a general conclusion. This type of reasoning is common in descriptive science. A life scientist such as a biologist makes observations and records them. These data can be qualitative (descriptive) or quantitative (consisting of numbers), and the raw data can be supplemented with drawings, pictures, photos, or videos. From many observations, the scientist can infer conclusions (inductions) based on evidence. Inductive reasoning involves formulating generalizations inferred from careful observation and the analysis of a large amount of data. Brain studies often work this way. Many brains are observed while people are doing a task. The part of the brain that lights up, indicating activity, is then demonstrated to be the part controlling the response to that task.
+                  - paragraph [ref=f5e14]: Deductive reasoning or deduction is the type of logic used in hypothesis-based science. In deductive reasoning, the pattern of thinking moves in the opposite direction as compared to inductive reasoning. Deductive reasoning is a form of logical thinking that uses a general principle or law to forecast specific results. From those general principles, a scientist can extrapolate and predict the specific results that would be valid as long as the general principles are valid. For example, a prediction would be that if the climate is becoming warmer in a region, the distribution of plants and animals should change. Comparisons have been made between distributions in the past and the present, and the many changes that have been found are consistent with a warming climate. Finding the change in distribution is evidence that the climate change conclusion is a valid one.
+                  - paragraph [ref=f5e15]: "Both types of logical thinking are related to the two main pathways of scientific study: descriptive science and hypothesis-based science. Descriptive (or discovery) science aims to observe, explore, and discover, while hypothesis-based science begins with a specific question or problem and a potential answer or solution that can be tested. The boundary between these two forms of study is often blurred, because most scientific endeavors combine both approaches. Observations lead to questions, questions lead to forming a hypothesis as a possible answer to those questions, and then the hypothesis is tested. Thus, descriptive science and hypothesis-based science are in continuous dialogue."
+                  - heading "Scientific Method" [level=2] [ref=f5e16]
+                  - paragraph [ref=f5e17]: Scientists study the universe by posing questions about it and seeking science-based responses. This approach is common to other sciences as well and is often referred to as the scientific method. The scientific method is not exclusively used by biologists but can be applied to almost anything as a logical problem-solving method.
+                  - paragraph [ref=f5e18]: "Chemistry is a science based on observation and experimentation. Doing chemistry involves attempting to answer questions and explain observations in terms of the laws and theories of chemistry, using procedures that are accepted by the scientific community. There is no single route to answering a question or explaining an observation, but there is an aspect common to every approach: Each uses knowledge based on experiments that can be reproduced to verify the results."
+                  - paragraph [ref=f5e19]: The path of discovery that leads from question and observation to law or hypothesis to theory, combined with experimental verification of the hypothesis and any necessary modification of the theory, is called the scientific method.
+                  - paragraph [ref=f5e20]:
+                    - text: As scientists inquire and gather information about the world, they follow a process called the
+                    - strong [ref=f5e21]: scientific method
+                    - text: . This process typically begins with an observation and question that the scientist will research. Next, the scientist typically performs some research about the topic and then devises a hypothesis. Then, the scientist will test the hypothesis by performing an experiment. Finally, the scientist analyzes the results of the experiment and draws a conclusion. Note that the scientific method can be applied to many situations that are not limited to science, and this method can be modified to suit the situation.
+                  - paragraph [ref=f5e22]: "Consider an example. Let us say that you try to turn on your car, but it will not start. You undoubtedly wonder: Why will the car not start? You can follow a scientific method to answer this question. First off, you may perform some research to determine a variety of reasons why the car will not start. Next, you will state a hypothesis. For example, you may believe that the car is not starting because it has no engine oil. To test this, you open the hood of the car and examine the oil level. You observe that the oil is at an acceptable level, and you thus conclude that the oil level is not contributing to your car issue. To troubleshoot the issue further, you may devise a new hypothesis to test and then repeat the process again."
+                  - heading "Figure" [level=3] [ref=f5e23]
+                  - paragraph [ref=f5e24]: find simplified figure, and then put this one at the end?? - separate scientific method - one experiement from science general??
+                  - paragraph [ref=f5e25]
+                  - figure [ref=f5e26]:
+                    - img "fig-ch01_patchfile_01.jpg" [ref=f5e27]
+                    - generic [ref=f5e28]:
+                      - text: "Figure \\(\\PageIndex{1}\\): Copy and Paste Caption here. ("
+                      - link "Copyright; author via source" [ref=f5e29]:
+                        - /url: https://commons.wikimedia.org/wiki/File:The_Scientific_Method.svg
+                      - text: )
+                  - paragraph [ref=f5e30]
+                  - 'figure "Figure \\(\\PageIndex{3}\\): The scientific method follows a process similar to the one shown in this diagram. All the key components are shown, in roughly the right order. Scientific progress is seldom neat and clean: It requires open inquiry and the reworking of questions and ideas in response to findings." [ref=f5e31]':
+                    - img [ref=f5e32]
+                  - heading "Observation/Question" [level=3] [ref=f5e34]
+                  - paragraph [ref=f5e35]: "The scientific process typically starts with an observation (often a problem to be solved) that leads to a question. Let’s think about a simple problem that starts with an observation and apply the scientific method to solve the problem. One Monday morning, a student arrives at class and quickly discovers that the classroom is too warm. That is an observation that also describes a problem: the classroom is too warm. The student then asks a question: “Why is the classroom so warm?”"
+                  - paragraph [ref=f5e36]: "Asking a question is one really good way to begin to learn about the natural world. You might have seen something that makes you curious. You might want to know what to change to produce a better result. Let’s say a farmer is having an erosion problem. She wants to keep more soil on her farm. The farmer learns that a farming method called “no-till farming” allows farmers to plant seeds without plowing the land. She wonders if planting seeds without plowing will reduce the erosion problem and help keep more soil on her farmland. Her question is this: “Will using the no-till method of farming help me to lose less soil on my farm?” (figure 2)."
+                  - heading "Hypothesis" [level=3] [ref=f5e37]
+                  - paragraph [ref=f5e38]: Some routes involve a hypothesis, a tentative explanation of observations that acts as a guide for gathering and checking information. A hypothesis is tested by experimentation, calculation, and/or comparison with the experiments of others and then refined as needed.
+                  - paragraph [ref=f5e39]: Recall that a hypothesis is a suggested explanation that can be tested. To solve a problem, several hypotheses may be proposed. For example, one hypothesis might be, “The classroom is warm because no one turned on the air conditioning.” But there could be other responses to the question, and therefore other hypotheses may be proposed. A second hypothesis might be, “The classroom is warm because there is a power failure, and so the air conditioning doesn’t work.”
+                  - paragraph [ref=f5e40]:
+                    - text: Once a hypothesis has been selected, a prediction may be made. A prediction is similar to a hypothesis but it typically has the format “If . . . then . . . .” For example, the prediction for the first hypothesis might be, “
+                    - emphasis [ref=f5e41]: If
+                    - text: the student turns on the air conditioning,
+                    - emphasis [ref=f5e42]: then
+                    - text: the classroom will no longer be too warm.”
+                  - paragraph [ref=f5e43]:
+                    - text: A hypothesis must be testable to ensure that it is valid. For example, a hypothesis that depends on what a bear thinks is not testable, because it can never be known what a bear thinks. It should also be falsifiable, meaning that it can be disproven by experimental results. An example of an unfalsifiable hypothesis is “Botticelli’s
+                    - emphasis [ref=f5e44]: Birth of Venus
+                    - text: is beautiful.” There is no experiment that might show this statement to be false. To test a hypothesis, a researcher will conduct one or more experiments designed to eliminate one or more of the hypotheses. This is important. A hypothesis can be disproven, or eliminated, but it can never be proven. Science does not deal in proofs like mathematics. If an experiment fails to disprove a hypothesis, then we find support for that explanation, but this is not to say that down the road a better explanation will not be found, or a more carefully designed experiment will be found to falsify the hypothesis.
+                  - paragraph [ref=f5e45]:
+                    - text: After doing the research, the farmer will try to answer the question. She might think, “If I don’t plow my fields, I will lose less soil than if I do plow the fields. Plowing disrupts the soil and breaks up roots that help hold soil in place.” This answer to her question is a
+                    - strong [ref=f5e46]: hypothesis
+                    - text: . A hypothesis is a reasonable explanation. A hypothesis can be tested. It may be the right answer, it may be a wrong answer, but it must be testable. Once she has a hypothesis, the next step is to do experiments to test the hypothesis. A hypothesis can be proved or disproved by testing. If a hypothesis is repeatedly tested and shown to be true, then scientists call it a
+                    - strong [ref=f5e47]: theory
+                    - text: .
+                  - paragraph [ref=f5e48]:
+                    - text: "This last point is crucial: a hypothesis must be a proposed explanation that can be"
+                    - emphasis [ref=f5e49]: tested
+                    - text: . The most straightforward approach to such testing in science is to perform an experiment. If the experiment is conducted properly, its results either will agree with the predictions of the hypothesis or they will contradict it. If the experimental result is truly inconsistent with the hypothesis, a scientist must discard the hypothesis and try to develop an alternative. If the experimental result agrees with predictions, this does not necessarily prove that the hypothesis is absolutely correct; perhaps later experiments will contradict crucial parts of the hypothesis. But, the more experiments that agree with the hypothesis, the more likely we are to accept the hypothesis as a useful description of nature.
+                  - heading "Research" [level=3] [ref=f5e50]
+                  - paragraph [ref=f5e51]: "Need to gather information to set up and experiments - also, sometimes can't do an experiment. Asking a question is one really good way to begin to learn about the natural world. You might have seen something that makes you curious. You might want to know what to change to produce a better result. Let’s say a farmer is having an erosion problem. She wants to keep more soil on her farm. The farmer learns that a farming method called “no-till farming” allows farmers to plant seeds without plowing the land. She wonders if planting seeds without plowing will reduce the erosion problem and help keep more soil on her farmland. Her question is this: “Will using the no-till method of farming help me to lose less soil on my farm?”"
+                  - heading "Experiment" [level=3] [ref=f5e52]
+                  - paragraph [ref=f5e53]:
+                    - text: When we design experiments, we choose just one thing to change. The thing we change is called the
+                    - strong [ref=f5e54]: independent variable
+                    - text: ". In the example, the farmer chooses two fields and then changes only one thing between them. She changes how she plows her fields. One field will be tilled and one will not. Everything else will be the same on both fields: the type of crop she grows, the amount of water and fertilizer that she uses, and the slope of the fields she plants on. The fields should be facing the same direction to get about the same amount of sunlight. These are the experimental"
+                    - strong [ref=f5e55]: controls
+                    - text: . If the farmer only changes how she plows her fields, she can see the impact of the one change. After the experiment is complete, scientists then measure the result. The farmer measures how much soil is lost from each field. This is the
+                    - strong [ref=f5e56]: dependent variable
+                    - text: . How much soil is lost from each field “depends” on the plowing method.
+                  - paragraph [ref=f5e57]: "Each experiment will have one or more variables and one or more controls. A variable is any part of the experiment that can vary or change during the experiment. A control is a part of the experiment that does not change. Look for the variables and controls in the example that follows. As a simple example, an experiment might be conducted to test the hypothesis that phosphate limits the growth of algae in freshwater ponds. A series of artificial ponds are filled with water and half of them are treated by adding phosphate each week, while the other half are treated by adding a salt that is known not to be used by algae. The variable here is the phosphate (or lack of phosphate), the experimental or treatment cases are the ponds with added phosphate and the control ponds are those with something inert added, such as the salt. Just adding something is also a control against the possibility that adding extra matter to the pond has an effect. If the treated ponds show lesser growth of algae, then we have found support for our hypothesis. If they do not, then we reject our hypothesis. Be aware that rejecting one hypothesis does not determine whether or not the other hypotheses can be accepted; it simply eliminates one hypothesis that is not valid (Figure \\(\\PageIndex{5}\\)). Using the scientific method, the hypotheses that are inconsistent with experimental data are rejected."
+                  - generic [ref=f5e58]:
+                    - paragraph [ref=f5e59]:
+                      - generic [ref=f5e60]: "Example \\(\\PageIndex{1}\\)"
+                    - paragraph [ref=f5e61]: In the example below, the scientific method is used to solve an everyday problem. Which part in the example below is the hypothesis? Which is the prediction? Based on the results of the experiment, is the hypothesis supported? If it is not supported, propose some alternative hypotheses.
+                    - list [ref=f5e62]:
+                      - listitem [ref=f5e63]: My toaster doesn’t toast my bread.
+                      - listitem [ref=f5e64]: Why doesn’t my toaster work?
+                      - listitem [ref=f5e65]: There is something wrong with the electrical outlet.
+                      - listitem [ref=f5e66]: If something is wrong with the outlet, my coffeemaker also won’t work when plugged into it.
+                      - listitem [ref=f5e67]: I plug my coffeemaker into the outlet.
+                      - listitem [ref=f5e68]: My coffeemaker works.
+                    - paragraph [ref=f5e69]:
+                      - strong [ref=f5e70]: Solution
+                    - paragraph [ref=f5e71]: "The hypothesis is #3 (there is something wrong with the electrical outlet), and the prediction is #4 (if something is wrong with the outlet, then the coffeemaker also won’t work when plugged into the outlet). The original hypothesis is not supported, as the coffee maker works when plugged into the outlet. Alternative hypotheses may include (1) the toaster might be broken or (2) the toaster wasn’t turned on."
+                  - paragraph [ref=f5e72]: In practice, the scientific method is not as rigid and structured as it might at first appear. Sometimes an experiment leads to conclusions that favor a change in approach; often, an experiment brings entirely new scientific questions to the puzzle. Many times, science does not operate in a linear fashion; instead, scientists continually draw inferences and make generalizations, finding patterns as their research proceeds. Scientific reasoning is more complex than the scientific method alone suggests.
+                  - heading "Data and Experimental Error" [level=3] [ref=f5e73]
+                  - paragraph [ref=f5e74]: During an experiment, a scientist collects data. The data might be measurements, like the farmer is taking in figure 4. The scientist should record the data in a notebook or onto a computer. The data is kept in charts that are clearly labeled. Labeling helps the scientist to know what each number represents. A scientist may also write descriptions of what happened during the experiment. At the end of the experiment the scientist studies the data. The scientist may create a graph or drawing to show the data. If the scientist can picture the data the results may be easier to understand. Then it is easier to draw logical conclusions
+                  - paragraph [ref=f5e75]: Even if the scientist is really careful it is possible to make a mistake. One kind of mistake is with the equipment. For example, an electronic balance may always measure one gram high. To fix this, the balance should be adjusted. If it can’t be adjusted, each measurement should be corrected. A mistake can come if a measurement is hard to make. For example, the scientist may stop a stopwatch too soon or too late. To fix this, the scientist should run the experiment many times and make many measurements. The average of the measurements will be the accurate answer. Sometimes the result from one experiment is very different from the other results. If one data point is really different, it may be thrown out. It is likely a mistake was made in that experiment.
+                  - heading "Analysis" [level=3] [ref=f5e76]
+                  - paragraph [ref=f5e77]: The scientist must next form a conclusion. The scientist must study all of the data. What statement best explains the data? Did the experiment prove the hypothesis? Sometimes an experiment shows that a hypothesis is correct. Other times the data disproves the hypothesis. Sometimes it’s not possible to tell. If there is no conclusion, the scientist may test the hypothesis again. This time he will use some different experiments. No matter what the experiment shows the scientist has learned something. Even a disproved hypothesis can lead to new questions.
+                  - paragraph [ref=f5e78]: The farmer grows crops on the two fields for a season. She finds that 2.2 times as much soil was lost on the plowed field as compared to the unplowed field. She concludes that her hypothesis was correct. The farmer also notices some other differences in the two plots. The plants in the no-till plots are taller. The soil moisture seems higher. She decides to repeat the experiment. This time she will measure soil moisture, plant growth, and the total amount of water the plants consume. From now on she will use no-till methods of farming. She will also research other factors that may reduce soil erosion.
+                  - heading "Models" [level=3] [ref=f5e79]
+                  - paragraph [ref=f5e80]:
+                    - text: A
+                    - strong [ref=f5e81]: model
+                    - text: is a representation of something that is often too difficult (or impossible) to display directly. While a model is justified with experimental proof, it is only accurate under limited situations. Physicists use models for a variety of purposes. For example, models can help physicists analyze a scenario and perform a calculation, or they can be used to represent a situation in the form of a computer simulation.
+                  - paragraph [ref=f5e82]: Scientists use models to help them understand and explain ideas. Models explain objects or systems in a more simple way. Models often only show only a part of a system. The real situation is more complicated. Models help scientists to make predictions about complex systems. Some models are something that you can see or touch. Other types of models use an idea or numbers. Each type is useful in certain ways.
+                  - paragraph [ref=f5e83]: Scientists create models with computers. Computers can handle enormous amounts of data. This can more accurately represent the real situation. For example, Earth’s climate depends on an enormous number of factors. Climate models can predict how climate will change as certain gases are added to the atmosphere. To test how good a model is, scientists might start a test run at a time in the past. If the model can predict the present it is probably a good model. It is more likely to be accurate when predicting the future.
+                  - heading "Physical Models" [level=3] [ref=f5e84]
+                  - paragraph [ref=f5e85]:
+                    - text: A
+                    - strong [ref=f5e86]: physical model
+                    - text: is a representation of something using objects. It can be three-dimensional, like a globe. It can also be a two-dimensional drawing or diagram. Models are usually smaller and simpler than the real object. They most likely leave out some parts, but contain the important parts. In a good model the parts are made or drawn to scale. Physical models allow us to see, feel and move their parts. This allows us to better understand the real system.
+                  - paragraph [ref=f5e87]: An example of a physical model is a drawing of the layers of Earth (figure 5). A drawing helps us to understand the structure of the planet. Yet there are many differences between a drawing and the real thing. The size of a model is much smaller, for example. A drawing also doesn’t give good idea of how substances move. Arrows showing the direction the material moves can help. A physical model is very useful but it can’t explain the real Earth perfectly.
+                  - heading "Ideas as Models" [level=3] [ref=f5e88]
+                  - paragraph [ref=f5e89]: Some models are based on an idea that helps scientists explain something. A good idea explains all the known facts. An example is how Earth got its Moon. A Mars-sized planet hit Earth and rocky material broke off of both bodies (figure 6). This material orbited Earth and then came together to form the Moon. This is a model of something that happened billions of years ago. It brings together many facts known from our studies of the Moon’s surface. It accounts for the chemical makeup of rocks from the Moon, Earth, and meteorites. The physical properties of Earth and Moon figure in as well. Not all known data fits this model, but much does. There is also more information that we simply don’t yet know.
+                  - heading "Models that Use Numbers" [level=3] [ref=f5e90]
+                  - paragraph [ref=f5e91]: Models may use formulas or equations to describe something. Sometimes math may be the only way to describe it. For example, equations help scientists to explain what happened in the early days of the universe. The universe formed so long ago that math is the only way to describe it. A climate model includes lots of numbers, including temperature readings, ice density, snowfall levels, and humidity. These numbers are put into equations to make a model. The results are used to predict future climate. For example, if there are more clouds, does global temperature go up or down? Models are not perfect because they are simple versions of the real situation. Even so, these models are very useful to scientists. These days, models of complex things are made on computers.
+                  - heading "Theories" [level=3] [ref=f5e92]
+                  - paragraph [ref=f5e93]: If such a hypothesis turns out to be capable of explaining a large body of experimental data, it can reach the status of a theory. Scientific theories are well-substantiated, comprehensive, testable explanations of particular aspects of nature. Theories are accepted because they provide satisfactory explanations, but they can be modified if new data become available.
+                  - paragraph [ref=f5e94]:
+                    - text: A
+                    - strong [ref=f5e95]: theory
+                    - text: is an explanation for patterns in nature that is supported by scientific evidence and verified multiple times by various groups of researchers. Some theories include models to help visualize phenomena, whereas others do not. Newton’s theory of gravity, for example, does not require a model or mental image, because we can observe the objects directly with our own senses. The kinetic theory of gases, on the other hand, is a model in which a gas is viewed as being composed of atoms and molecules. Atoms and molecules are too small to be observed directly with our senses—thus, we picture them mentally to understand what our instruments tell us about the behavior of gases.
+                  - paragraph [ref=f5e96]: When scientists have the data and conclusions, they write a paper. They publish their paper in a scientific journal. A journal is a magazine for the scientists who are interested in a certain field. Before the paper is printed, other scientists look at it to try to find mistakes. They see if the conclusions follow from the data. This is called peer review. If the paper is sound it is printed in the journal.
+                  - paragraph [ref=f5e97]: Other papers are published on the same topic in the journal. The evidence for or against a hypothesis is discussed by many scientists. Sometimes a hypothesis is repeatedly shown to be true and never shown to be false. The hypothesis then becomes a theory. Sometimes people say they have a ”theory” when what they have is a hypothesis.
+                  - paragraph [ref=f5e98]: In science, a theory has been repeatedly shown to be true. A theory is supported by many observations. However, a theory may be disproved if conflicting data is discovered. Many important theories have been shown to be true by many observations and experiments and are extremely unlikely to be disproved. These include the theory of plate tectonics and the theory of evolution.
+                  - heading "Laws" [level=3] [ref=f5e99]
+                  - paragraph [ref=f5e100]: Some hypotheses are attempts to explain the behavior that is summarized in laws. The laws of science summarize a vast number of experimental observations, and describe or predict some facet of the natural world.
+                  - paragraph [ref=f5e101]:
+                    - text: A
+                    - strong [ref=f5e102]: law
+                    - text: uses concise language to describe a generalized pattern in nature that is supported by scientific evidence and repeated experiments. Often, a law can be expressed in the form of a single mathematical equation. Laws and theories are similar in that they are both scientific statements that result from a tested hypothesis and are supported by scientific evidence. However, the designation
+                    - emphasis [ref=f5e103]:
+                      - emphasis [ref=f5e104]: law
+                    - text: "is reserved for a concise and very general statement that describes phenomena in nature, such as the law that energy is conserved during any process, or Newton’s second law of motion, which relates force, mass, and acceleration by the simple equation \\(\\mathbf{F}=m \\mathbf{a}\\). A theory, in contrast, is a less concise statement of observed phenomena. For example, the Theory of Evolution and the Theory of Relativity cannot be expressed concisely enough to be considered a law. The biggest difference between a law and a theory is that a theory is much more complex and dynamic. A law describes a single action, whereas a theory explains an entire group of related phenomena. And, whereas a law is a postulate that forms the foundation of the scientific method, a theory is the end result of that process."
+                  - paragraph [ref=f5e105]:
+                    - text: Over centuries scientists have extracted various
+                    - emphasis [ref=f5e106]: scientific laws
+                    - text: from countless observations, hypotheses, and experiments. These scientific laws are, in a sense, the “rules” of the game that nature plays. One remarkable discovery about nature—one that underlies everything you will read about in this text—is that the same laws apply everywhere in the universe. The rules that determine the motion of stars so far away that your eye cannot see them are the same laws that determine the arc of a baseball after a batter has hit it out of the park.
+                  - paragraph [ref=f5e107]: Note that without the existence of such universal laws, we could not make much headway in astronomy. If each pocket of the universe had different rules, we would have little chance of interpreting what happened in other “neighborhoods.” But, the consistency of the laws of nature gives us enormous power to understand distant objects without traveling to them and learning the local laws. In the same way, if every region of a country had completely different laws, it would be very difficult to carry out commerce or even to understand the behavior of people in those different regions. A consistent set of laws, though, allows us to apply what we learn or practice in one state to any other state.
+                  - heading "Reporting Scientific Work" [level=2] [ref=f5e108]
+                  - paragraph [ref=f5e109]: Whether scientific research is basic science or applied science, scientists must share their findings for other researchers to expand and build upon their discoveries. Communication and collaboration within and between sub disciplines of science are key to the advancement of knowledge in science. For this reason, an important aspect of a scientist’s work is disseminating results and communicating with peers. Scientists can share results by presenting them at a scientific meeting or conference, but this approach can reach only the limited few who are present. Instead, most scientists present their results in peer-reviewed articles that are published in scientific journals. Peer-reviewed articles are scientific papers that are reviewed, usually anonymously by a scientist’s colleagues, or peers. These colleagues are qualified individuals, often experts in the same research area, who judge whether or not the scientist’s work is suitable for publication. The process of peer review helps to ensure that the research described in a scientific paper or grant proposal is original, significant, logical, and thorough. Grant proposals, which are requests for research funding, are also subject to peer review. Scientists publish their work so other scientists can reproduce their experiments under similar or different conditions to expand on the findings. The experimental results must be consistent with the findings of other scientists.
+                  - paragraph [ref=f5e110]: There are many journals and the popular press that do not use a peer-review system. A large number of online open-access journals, journals with articles available without cost, are now available many of which use rigorous peer-review systems, but some of which do not. Results of any studies published in these forums without peer review are not reliable and should not form the basis for other scientific work. In one exception, journals may allow a researcher to cite a personal communication from another researcher about unpublished results with the cited author’s permission.
+                  - paragraph [ref=f5e111]:
+                    - text: This self-correcting aspect of science sets it off from most human activities. Scientists spend a great deal of time questioning and challenging one another, which is why applications for project funding—as well as reports for publication in academic journals—go through an extensive process of
+                    - emphasis [ref=f5e112]: peer review
+                    - text: ", which is a careful examination by other scientists in the same field. In science (after formal education and training), everyone is encouraged to improve upon experiments and to challenge any and all hypotheses. New scientists know that one of the best ways to advance their careers is to find a weakness in our current understanding of something and to correct it with a new or modified hypothesis."
+                  - heading "Summary of Scientific Process" [level=3] [ref=f5e113]
+                  - paragraph [ref=f5e114]:
+                    - text: The models, theories, and laws we devise sometimes
+                    - emphasis [ref=f5e115]: imply the existence of objects or phenomena as yet unobserved.
+                    - text: These predictions are remarkable triumphs and tributes to the power of science. It is the underlying order in the universe that enables scientists to make such spectacular predictions. However, if
+                    - emphasis [ref=f5e116]:
+                      - emphasis [ref=f5e117]: experiment
+                    - text: does not verify our predictions, then the theory or law is wrong, no matter how elegant or convenient it is. Laws can never be known with absolute certainty because it is impossible to perform every imaginable experiment in order to confirm a law in every possible scenario. Physicists operate under the assumption that all scientific laws and theories are valid until a counterexample is observed. If a good-quality, verifiable experiment contradicts a well-established law, then the law must be modified or overthrown completely.
+                  - paragraph [ref=f5e118]: The study of science in general and physics in particular is an adventure much like the exploration of uncharted ocean. Discoveries are made; models, theories, and laws are formulated; and the beauty of the physical universe is made more sublime for the insights gained.
+                  - paragraph [ref=f5e119]:
+                    - text: The ultimate judge in science is always what nature itself reveals based on observations, experiments, models, and testing. Science is not merely a body of knowledge, but a
+                    - emphasis [ref=f5e120]: method
+                    - text: by which we attempt to understand nature and how it behaves. This method begins with many observations over a period of time.
+                  - paragraph [ref=f5e121]:
+                    - text: This is not to say that our current scientific models and laws cannot change. New experiments and observations can lead to new, more sophisticated models—models that can include new phenomena and laws about their behavior. The general theory of relativity proposed by Albert Einstein is a perfect example of such a transformation that took place about a century ago; it led us to predict, and eventually to observe, a strange new class of objects that astronomers call
+                    - emphasis [ref=f5e122]: black holes
+                    - text: . Only the patient process of observing nature ever more carefully and precisely can demonstrate the validity of such new scientific models.
+              - generic [ref=f3e324]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f3e326] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f3e104]:
+          - separator [ref=f3e105]
+          - paragraph [ref=f3e107]:
+            - text: This page titled
+            - 'link "1.1: How Science Works" [ref=f3e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.01%3A_How_Science_Works
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f3e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f3e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f3e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f3e112]:
+        - list [ref=f3e113]:
+          - listitem [ref=f3e114]:
+            - link "Back to top" [ref=f3e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f3e116]:
+            - list [ref=f3e117]:
+              - listitem [ref=f3e118]:
+                - 'link " 1: Introduction to Astronomy" [ref=f3e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy
+                  - text: 
+                  - generic [ref=f3e120]: "1: Introduction to Astronomy"
+              - listitem [ref=f3e121]:
+                - 'link "1.2: Origins of Astronomy " [ref=f3e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.02%3A_Origins_of_Astronomy
+                  - generic [ref=f3e123]: "1.2: Origins of Astronomy"
+                  - text: 
+        - list [ref=f3e126]:
+          - listitem [ref=f3e127]: Was this article helpful?
+          - listitem [ref=f3e128]:
+            - button "Yes" [ref=f3e129] [cursor=pointer]
+          - listitem [ref=f3e130]:
+            - button "No" [ref=f3e131] [cursor=pointer]
+          - listitem [ref=f3e132]:
+            - button "Leave feedback" [ref=f3e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , ,"
+        - generic [ref=f3e134]:
+          - heading "Attachments" [level=2] [ref=f3e135]
+          - generic:
+            - button "Attach a file" [ref=f3e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f3e138]:
+            - generic [ref=f3e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f3e142]
+            - generic [ref=f3e143]:
+              - grid [ref=f3e146]:
+                - rowgroup [ref=f3e147]:
+                  - row [ref=f3e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f3e149]':
+                      - generic:
+                        - generic [ref=f3e150]: File
+                        - generic [ref=f3e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f3e152]':
+                      - generic:
+                        - generic [ref=f3e153]: Last modified
+                        - generic [ref=f3e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f3e155]':
+                      - generic:
+                        - generic [ref=f3e156]: Size
+                        - generic [ref=f3e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f3e158]':
+                      - generic:
+                        - generic [ref=f3e159]: Added by
+                        - generic [ref=f3e160]: 
+              - grid [ref=f3e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f3e327]: File
+                          - generic [ref=f3e328]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f3e329]: Last modified
+                          - generic [ref=f3e330]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f3e331]: Size
+                          - generic [ref=f3e332]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f3e333]: Added by
+                          - generic [ref=f3e334]: 
+                - rowgroup [ref=f3e171]:
+                  - row [ref=f3e335]:
+                    - gridcell " 1280px-The_Scientific_Method.jpg (no description)" [ref=f3e336]:
+                      - generic [ref=f3e337]:
+                        - generic [ref=f3e338]:
+                          - generic [ref=f3e339]: 
+                          - link "1280px-The_Scientific_Method.jpg" [ref=f3e340] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/68250/1280px-The_Scientific_Method.jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f3e341]:
+                          - generic [ref=f3e342]: (no description)
+                          - text: 
+                    - gridcell "Aug 19, 2026, 9:37 PM" [ref=f3e343]
+                    - gridcell "192 KiB" [ref=f3e345]
+                    - gridcell "Rachel Mastrapa" [ref=f3e346]
+    - generic [ref=f3e175]:
+      - button "Open support menu" [ref=f3e177] [cursor=pointer]: "?"
+      - navigation [ref=f3e179]:
+        - paragraph [ref=f3e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f3e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f3e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f3e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f3e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f3e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f3e187]:
+      - generic:
+        - generic [ref=f3e189]:
+          - button "Annotation sidebar" [ref=f3e190]
+          - generic [ref=f3e195]:
+            - button "Show highlights" [ref=f3e196]
+            - button "New page note" [ref=f3e201]
+          - status [ref=f3e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f3e207]:
+    - button "contents" [ref=f3e208] [cursor=pointer]
+    - button "readability" [ref=f3e210] [cursor=pointer]
+    - button "resources" [ref=f3e212] [cursor=pointer]
+    - button "tools" [ref=f3e214] [cursor=pointer]
+    - button "developers" [ref=f3e216] [cursor=pointer]
+  - text:  
+  - generic [ref=f3e347]:
+    - generic [ref=f3e348] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f3e351] [cursor=pointer]

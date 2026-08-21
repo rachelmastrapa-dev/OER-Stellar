@@ -1,0 +1,347 @@
+- generic [ref=f110e1]:
+  - link "Skip to main content" [ref=f110e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f110e3]:
+    - text: 
+    - generic [ref=f110e4]:
+      - generic [ref=f110e5]:
+        - generic: ✕
+        - navigation [ref=f110e7]:
+          - generic [ref=f110e8]:
+            - link [ref=f110e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f110e11]
+            - button "Enter Reader Mode" [ref=f110e13] [cursor=pointer]:
+              - generic [ref=f110e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f110e16]:
+        - list [ref=f110e18]:
+          - listitem [ref=f110e19]:
+            - link [ref=f110e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f110e22]
+          - listitem [ref=f110e23]:
+            - text: 
+            - generic [ref=f110e25]:
+              - generic [ref=f110e26]: "Search :"
+              - searchbox "Search :" [ref=f110e27]
+              - button " Search" [ref=f110e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f110e29]:
+            - list [ref=f110e30]:
+              - listitem [ref=f110e31]:
+                - link "Edit" [ref=f110e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.03%3A_Spectral_Lines?action=edit
+              - text: 
+              - listitem [ref=f110e33]:
+                - link " Options" [ref=f110e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f110e35]:
+                - link " Rachel Mastrapa" [ref=f110e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f110e37]:
+        - generic:
+          - button " Contents" [ref=f110e240] [cursor=pointer]
+          - list [ref=f110e39]:
+            - listitem [ref=f110e40]:
+              - link " Home" [ref=f110e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f110e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f110e43]:
+              - link " Workbench" [ref=f110e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f110e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f110e46]:
+              - link " De Anza - ASTR10" [ref=f110e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f110e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f110e49]:
+              - 'link " 4: Stellar Spectra" [ref=f110e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra
+                - generic [ref=f110e51]: 
+                - text: "4: Stellar Spectra"
+              - text: »
+            - listitem [ref=f110e52]:
+              - generic [ref=f110e53]: 
+              - text: "4.3: Spectral Lines"
+          - text: 
+      - navigation:
+        - generic:                                                 
+    - article [ref=f110e54]:
+      - generic [ref=f110e55]:
+        - generic [ref=f110e56]:
+          - button " Page settings" [ref=f110e57] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "4.3: Spectral Lines" [level=1] [ref=f110e58]':
+          - generic [ref=f110e241]: "4.3: Spectral Lines "
+        - list [ref=f110e61]:
+          - listitem [ref=f110e62]:
+            - link [ref=f110e64] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f110e65]:
+                - img "CC" [ref=f110e66]
+                - img "BY" [ref=f110e67]
+          - listitem [ref=f110e68]:
+            - generic [ref=f110e69]:
+              - term [ref=f110e70] [cursor=pointer]: "Last updated:"
+              - definition [ref=f110e71]: Aug 7, 2026, 10:16 PM by Caitlin Kepple
+          - listitem [ref=f110e72]:
+            - generic [ref=f110e73]:
+              - term [ref=f110e74] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f110e75]: Private
+          - listitem [ref=f110e76]:
+            - generic [ref=f110e77]:
+              - term [ref=f110e78] [cursor=pointer]: "Page ID:"
+              - definition [ref=f110e79]: "131954"
+          - listitem [ref=f110e80]:
+            - list [ref=f110e81]:
+              - listitem [ref=f110e82]:
+                - button "Pin Page" [ref=f110e83] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f110e84]:
+                - list [ref=f110e85]:
+                  - listitem [ref=f110e86]:
+                    - 'link " 4.2: The Atom" [ref=f110e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.02%3A_The_Atom
+                      - text: 
+                      - generic [ref=f110e88]: "4.2: The Atom"
+                  - listitem [ref=f110e89]:
+                    - 'link "4.4: Stellar Classification " [ref=f110e90] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.04%3A_Stellar_Classification
+                      - generic [ref=f110e91]: "4.4: Stellar Classification"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f110e92]:
+        - group [ref=f110e245]:
+          - generic [ref=f110e246]:
+            - generic [ref=f110e247]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f110e248]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f110e249]:
+            - generic [ref=f110e252]:
+              - generic [ref=f110e254]:
+                - link "Edit" [ref=f110e255]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f110e256]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f110e257]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f110e258]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f110e259]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f110e260]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f110e263]:
+                - toolbar [ref=f110e264]:
+                  - button "Save" [ref=f110e265]:
+                    - generic [ref=f110e266]: 
+                  - button "Cancel" [ref=f110e268]:
+                    - generic [ref=f110e269]: 
+                - text:          
+                - toolbar [ref=f110e310]:
+                  - button "Alignment" [ref=f110e311]:
+                    - generic [ref=f110e312]: 
+                - text:    
+                - toolbar [ref=f110e325]:
+                  - button "Replace" [ref=f110e326]:
+                    - generic [ref=f110e327]: 
+                - toolbar [ref=f110e329]:
+                  - button "Enable Binder" [disabled] [ref=f110e330]
+                  - button "Insert Adapt" [disabled] [ref=f110e332]
+                  - button "Query" [ref=f110e334]
+                  - button "Accessibility Checker" [disabled] [ref=f110e337]
+                - toolbar [ref=f110e340]:
+                  - button "Visual" [pressed] [ref=f110e356]:
+                    - generic [ref=f110e342]: 
+            - application "Rich Text Editor, editarea" [ref=f110e344]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f110e358]: "<h2 class=\"lt-phys-64678\">Atomic Transitions</h2> <p>The electrons in an atom can absorb or release energy, changing how they orbit the nucleus.&nbsp;These transitions from different energy states in the atom occur at specific energies that can be observed by astronomers in the form of light.</p> <h3 class=\"lt-phys-64680\">Electron Energy Levels</h3> <p>Let's review the properties of atomic matter. Atoms are made of protons, electrons, and neutrons. The nucleus of an atom contains the protons and neutrons and most of the mass of the atom and has a positive charge. Electrons have a negative charge. The opposite charges attract each other holding the atom together. Scientists say that the electron orbits the proton, but this orbit is not at all like the way the Earth orbits the Sun. The Earth could technically orbit the Sun at any distance by increasing or decreasing its speed, moving closer or farther from the Sun. Changing speed requires a change in energy. If there was a large enough source of energy, the Earth could move any distance, small or large, away from the Sun.</p> <p>Unlike planets, the electrons in atoms can't be at any distance from the nucleus. In fact, electrons can only orbit at specific distances from the nucleus, corresponding to specific energies that scientists call <strong><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.08:_Key_Terms#energy levels\" target=\"_blank\" title=\"energy levels\">energy levels</a></strong>. Electrons can move, or transition, from one energy level to another by absorbing or releasing energy. The energy of these transitions&nbsp;is also fixed. Think of transitions as stair steps. When using steps, the height of the step is fixed, so you can only move upwards or downwards by a fixed amount. If, instead, you were walking on a ramp, you could move up or down any amount because movement on a ramp is not fixed to specific amounts.</p> <p class=\"lt-chem-3507\">A hydrogen atom consists of only one electron orbiting one proton, so it is the simplest example of energy levels. Figure \\(\\PageIndex{1}\\) depicts the energy levels of hydrogen as black concentric circles within the light blue area that represents the atom of hydrogen. The proton is not shown, but would be in the center of the circles. The <strong><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.08:_Key_Terms#quantum number\" target=\"_blank\" title=\"quantum number\">quantum number</a></strong>, n, represents the possible energy levels. The lowest allowed value of n is 1, because the electron is as close to the proton as it can get and has the lowest amount of energy. This is the most stable state of the hydrogen atom and is called the <strong><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.08:_Key_Terms#ground state\" target=\"_blank\" title=\"ground state\">ground state</a></strong>. The ground state, n&nbsp;= 1, is the central circle in Figure \\(\\PageIndex{1}\\). The next energy level is n&nbsp;=&nbsp;2, which represents a higher energy level and is represented by a circle larger than the circle for n&nbsp;=&nbsp;1. The next larger circle represents n = 3.&nbsp;The levels for n = 4 and n = 5 are represented by partial circles on the left side of the atom that are cut short because they represent circles that are larger than the figure.</p> <p class=\"lt-chem-3507\">When an electron moves to a higher energy level, it is called <strong><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.08:_Key_Terms#excitation\" target=\"_blank\" title=\"excitation\">excitation</a></strong>. If a hydrogen atom absorbs an amount of energy that corresponds to the difference between that of n=1 and some higher value of n, the electron moves to the higher orbit and the atom is said to be in an excited state. Excited states are unstable and quickly drop to the ground state, but not always in a single step. For example, the electron, represented by a light blue dot in Figure \\(\\PageIndex{1}\\) is initially located in the n= 3 state. This electron can move either directly to the ground state or to the n = 2 state, and then move to n=1. As an analogy, when walking down the stairs, you can choose to take one step at a time, or take two, or jump all the way to the bottom. Unlike a staircase where the change in height is always equal, the difference between each energy level is a unique amount. That means that the change in energy from n=3→2 is not the same as the change in energy from n=2→1. Using the staircase analogy, this would mean that every step would be a different height compared to another.</p> <figure><img alt=\"Electron energy levels of hydrogen. Details in Caption.\" class=\"internal default\" src=\"/@api/deki/files/46135/a02dc151e6fb2bde2306171ce7da4cc1e2d63a1e\" /> <figcaption>Figure \\(\\PageIndex{1}\\):&nbsp;In this simplified model of a hydrogen atom, the concentric circles represent permitted orbits or energy levels. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>). Accessible description of Figure \\(\\PageIndex{1}\\).</figcaption> </figure> <p class=\"lt-phys-64680\">All of these electronic transitions require the absorption or loss of energy. Where does the energy to excite electrons come from, and what type of energy is released when an electron drops to a lower energy state? The answer is electromagnetic radiation, or light.&nbsp;All electromagnetic waves contain an amount of energy&nbsp;directly related to its frequency. The energy of an individual photon can be calculated using the equation: \\[E=hf \\nonumber\\] where E is the amount of energy, h is the Planck constant, 6.626 x 10<sup>-34</sup> J s, and f is the frequency of the photon. In astronomy, we refer to different types of electromagnetic radiation by wavelength. The wavelength of a photon, <span class=\"mt-bgcolor-e67e22\">(include lambda </span><span class=\"mt-bgcolor-e67e22\">sybmol</span><span class=\"mt-bgcolor-e67e22\"> here? I can't figure out the right parentheses combo&nbsp;-Caitlin)</span>, is equal to photon's frequency divided by the speed of light, c. We can rewrite the equation for the energy of a photon to: <span class=\"mt-bgcolor-e67e22\">(I think students may get confused between the text description and the rearranged equation without steps for rearranging shown. Maybe just show one step, or include a short rearrange \"by dividing...\"?)</span>&nbsp;\\[E=\\dfrac{hc}{\\lambda}&nbsp;\\nonumber\\] Photons can have almost any energy, and some of them can be exactly equal to the energy of electronic transitions.</p> <p class=\"lt-phys-64680\">Suppose a beam of white light, which consists of photons of all visible wavelengths, shines through a gas of atomic hydrogen. A photon of wavelength 656 nanometers has just the right energy to raise an electron in a hydrogen atom from the second to the third orbit. Thus, as all the photons of different energies stream by the hydrogen atoms, photons with this particular wavelength can be absorbed by those atoms whose electrons are orbiting on the second level. When they are absorbed, the electrons on the second level will move to the third level, and a number of the photons of this wavelength and energy will be missing from the general stream of white light. The lack of photons at the specific wavelength will produce a dark gap in the spectrum, called a <strong><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.08:_Key_Terms#spectral line\" target=\"_blank\" title=\"spectral line\">spectral line</a></strong>. Other photons will have the right energies to raise electrons from the second to the fourth orbit, or from the first to the fifth orbit, and so on. Only photons with these exact energies can be absorbed. All of the other photons will stream past the atoms untouched. Thus, hydrogen atoms absorb light at only certain wavelengths and produce dark spectral lines at those wavelengths in the spectrum we see.</p> <p class=\"lt-phys-64680\">When we turn off the light source, the excited electrons drop back down from higher to lower energy levels and emit photons of light. These photons will have energies or wavelengths that correspond to the energy difference between permissible orbits. Figure \\(\\PageIndex{1}\\) includes a violet arrow extending from the n&nbsp;=&nbsp;5 circle to the n&nbsp;=&nbsp;2 circle representing the transition n = 5→2 which produces the violet spectral line. The blue-green arrow represents the&nbsp;n = 4→2 transition that produces the blue-green spectral line, and the red arrow is the n = 3→2 transition that produces the red spectral line. Since the light source is off, the spectrum will appear mostly dark, with individual bright lines from the photons released by the electronic transitions.</p> <p class=\"lt-phys-64680\">We have described how certain discrete amounts of energy can be absorbed by an atom, raising it to an excited state and moving one of its electrons farther from its nucleus. If enough energy is absorbed, the electron can be completely removed from the atom—this is called ionization. The atom is then called an ion. Even greater amounts of energy must be absorbed by the ion, to remove an additional electron deeper in the structure of the atom. If enough energy is available, an atom can become completely ionized, losing all of its electrons. <span class=\"mt-bgcolor-e67e22\">A hydrogen atom, having only one electron to lose, can be ionized only once. A helium atom can be ionized twice, and an oxygen atom up to eight times. (this exact sentence was in the previous section, maybe reword if wanting to include here too)</span></p> <p>Note that this model of specific energy levels is a simplification of reality. The energy levels are not truly an exact value, but a range of values. More complicated and accurate models of the atom belong in a higher level course. For the purposes of this textbook, this model is good enough.</p> <h3 class=\"lt-phys-64680\">Hydrogen's Energy Levels</h3> <p class=\"lt-chem-3507\">The hydrogen spectrum was the first to be observed by Ånders Ångström in the 1860's. Johann&nbsp;Balmer, a German high school teacher, discovered a simple mathematical formula that related the wavelengths of the various lines that are observable in the visible and near-UV&nbsp;parts of the spectrum. This set of lines is now known as the Balmer Series.</p> <figure><img alt=\"Energy level diagram of hydrogen. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/67608/H-spectral_series_crop.jpg\" /> <figcaption>Figure \\(\\PageIndex{2}\\): Each series is defined by the energy level that an electron is excited from or where it ends its downward movement. To provide a compact display, the vertical energy scale has been distorted and only the longest-wavelength transitions for each series are depicted as arrows. <span class=\"mt-bgcolor-f1c40f\">(</span><a href=\"https://creativecommons.org/licenses/by/3.0/\" target=\"_blank\" title=\"CC BY 3.0\"><span class=\"mt-bgcolor-f1c40f\">CC BY 3.0</span></a><span class=\"mt-bgcolor-f1c40f\">; </span><a href=\"http://www.chem1.com/SKL/SKLchem/\" target=\"_blank\" title=\"Stephen Lower\"><span class=\"mt-bgcolor-f1c40f\">Stephen Lower</span></a><span class=\"mt-bgcolor-f1c40f\"> via </span><a href=\"http://www.chem1.com/acad/webtext/virtualtextbook.html\" target=\"_blank\" title=\"Chem 1 (Lower)\"><span class=\"mt-bgcolor-f1c40f\">Chem 1 (Lower)</span></a><span class=\"mt-bgcolor-f1c40f\">). Alternate description of&nbsp;Figure \\(\\</span><span class=\"mt-bgcolor-f1c40f\">PageIndex</span><span class=\"mt-bgcolor-f1c40f\">{2}\\).</span></figcaption> </figure> <p class=\"lt-chem-3507\">The lines of the hydrogen spectrum can be organized into different series according to the value of n at which the emission terminates, or at which absorption originates. In Figure \\(\\PageIndex{2}\\), energy levels are represented by horizontal black lines, with n = 1 at the bottom and increasing upwards. As the energy levels increase the lines are closer to each other until after n = 8 the top of the figure is labeled continuum, representing where an electron is removed from an atom. Each energy level is labeled with the name of the series and the transitions are represented by red arrows.&nbsp;The first few series are named after their discoverers. The most well-known and first-observed of these is the Balmer series (n = 2), which lies mostly in the visible region of the spectrum. The Lyman lines (n = 1) are in the ultraviolet. Paschen (n = 3), Brackett (n = 4), and Pfund (n = 5) series are in the infrared.</p> <h3>Ionization and Spectral Lines</h3> <p class=\"lt-phys-64680\">An atom that has become positively ionized has lost a negative charge and is left with a net positive charge. The positively charged ion&nbsp;exerts a strong attraction on any free electron. Eventually, one or more electrons will be captured and the atom will become neutral. During the electron-capture process, the atom emits one or more photons. Which photons are emitted depends on whether the electron is captured at once to the lowest energy level of the atom or stops at one or more intermediate levels on its way to the lowest available level. Along with absorbing photons, atoms can also be ionized by collisions with other particles.&nbsp;The rate at which such collisional ionizations occur depends on the speeds of the atoms and therefore on the temperature of the gas. The hotter the gas, the more of its atoms will be ionized.</p> <p class=\"lt-phys-64680\">The rate at which ions and electrons recombine also depends on their relative speeds, or&nbsp;the temperature. In addition, it depends on the density of the gas: the higher the density, the greater the chance for recapture, because the different kinds of particles are crowded more closely together. Knowing the temperature and density of a gas means it is possible to calculate the fraction of atoms that have been ionized once, twice, and so on. In the Sun, for example, we find that most of the hydrogen and helium atoms in its atmosphere are neutral, whereas most of the calcium atoms, as well as many other heavier atoms, are ionized once.</p> <p class=\"lt-phys-64680\">The energy levels of an ionized atom are entirely different from those of the same atom when it is neutral. Each time an electron is removed from the atom, the energy levels of the ion, and thus the wavelengths of the spectral lines it can produce, change. This helps astronomers differentiate the ions of a given element. Ionized hydrogen, having no electron, can produce no absorption lines.</p> <h3>Identifying Elements</h3> <p class=\"lt-phys-64678\">The science of spectroscopy starts in the lab, where scientists observe the spectra of different elements with the spectrometer. What scientists noted is that each element or compound has their own signature spectrum. This agreed with the models predicting that electrons orbit at specific energy levels. Some elements may share the energy of a few transitions, but each element has a unique set of possible energy levels. Therefore, the spectrum of each element is unique. In other words, each particular gas can absorb or emit only certain wavelengths of the light peculiar to that gas. It is the precise pattern of wavelengths that makes the signature of each element unique.</p> <p class=\"lt-chem-3503\">How did they make these measurements? Researchers did this by passing light through various elements, using containers with a small amount of a gas in them. This produced a continuum spectrum with gaps. When, they heated the gas they observed an overall dark spectrum with individual bright lines. In both types of experiments on the same type of gas, for example hydrogen, the dark gaps or bright lines were at the same position. They concluded that each element has its own characteristic spectrum which can be used to identify the element, like a fingerprint. The different types of spectra are discussed in the next section.</p> <p class=\"lt-phys-64678\">In these experiments, if the gas was pure hydrogen, it would emit one pattern of lines. When it was pure sodium, it would emit a different pattern. A mixture of hydrogen and sodium emitted both sets of spectral lines. From such experiments, scientists began to see that different substances showed distinctive spectral signatures by which their presence could be detected, Figure \\(\\PageIndex{3}\\). Note that the wavelength range in this figure is from 3800 to 7500 Angstroms. Later in this section the wavelength range of the spectra will be in nanometers instead of Angstroms. One nanometer is equal to 10 angstroms, so just remove a zero from the Angstrom to get the value in nanometers (nm). For example, hydrogen has a single red line at 656 nm or 6560 Angstroms.</p> <figure><img alt=\"A continuous spectrum and spectra of several elements. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/46126/8765b16e7c60f55573d5d08501140d0d468bf3e1\" /> <figcaption>Figure \\(\\PageIndex{3}\\):&nbsp;The spectra of sodium, hydrogen, calcium, and mercury gases have different patterns of lines.<span class=\"mt-bgcolor-f1c40f\">&nbsp;(</span><a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\"><span class=\"mt-bgcolor-f1c40f\">CC BY 4.0</span></a><span class=\"mt-bgcolor-f1c40f\">; </span><a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\"><span class=\"mt-bgcolor-f1c40f\">Fraknoi</span><span class=\"mt-bgcolor-f1c40f\">, et al.</span></a><span class=\"mt-bgcolor-f1c40f\"> via </span><a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\"><span class=\"mt-bgcolor-f1c40f\">Openstax</span><span class=\"mt-bgcolor-f1c40f\"> Astronomy </span><span class=\"mt-bgcolor-f1c40f\">2nd</span><span class=\"mt-bgcolor-f1c40f\"> ed.</span></a><span class=\"mt-bgcolor-f1c40f\">). </span><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.09:_Accessible_Descriptions#Figure_4.3.3_Spectra_of_Elements\" title=\"4.9: Accessible Descriptions\"><span class=\"mt-bgcolor-f1c40f\">Alternative description of Figure \\(\\</span><span class=\"mt-bgcolor-f1c40f\">PageIndex</span><span class=\"mt-bgcolor-f1c40f\">{3}\\)</span></a><span class=\"mt-bgcolor-f1c40f\">.</span></figcaption> </figure> <p class=\"lt-chem-3503\">Spectra are extremely useful for identifying small quantities of different elements in a mixture. Several elements (Rb, Cs, Tl) were discovered by observing spectral lines that did not correspond to any of the then-known elements. Helium, which is present only in traces on Earth, was first discovered by observing the spectrum of the Sun. This discovery inspired astronomers to collect spectra of the stars to identify their compositions.</p> <h2>Types of Spectra</h2> <p class=\"lt-phys-64678\">A continuous spectrum is an array of all wavelengths or colors of the rainbow. A continuous spectrum can serve as a backdrop from which the atoms of much less dense gas can absorb light. An absorption spectrum consists of a series or pattern of dark lines superimposed upon the continuous spectrum of a source. An emission spectrum appears as a pattern or series of bright lines. Figure \\(\\PageIndex{4}\\) includes examples of all three types of spectra. The next sections describe how each of these spectra is produced.</p> <figure><img alt=\"Types of spectra: continuous, emission, and absorption. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/67609/1280px-Types_of_Spectra-_Continuous%252C_Emission%252C_and_Absorption_(01F8GF8DK2PRY4FP9DA2XPQC8S).png\" /> <figcaption>Figure \\(\\PageIndex{4}\\):&nbsp;A continuous spectrum includes the full range of light and is produced by a light source. An emissions spectrum is mostly dark with&nbsp;a few bright lines. An absorption spectrum is similar to a continuous spectrum, but has a few small, dark gaps where there are fewer photons. <span class=\"mt-bgcolor-f1c40f\">(</span><a href=\"https://creativecommons.org/licenses/by/3.0/\" target=\"_blank\" title=\"CC BY 3.0\"><span class=\"mt-bgcolor-f1c40f\">CC BY 3.0</span></a><span class=\"mt-bgcolor-f1c40f\">; </span><a href=\"http://www.chem1.com/SKL/SKLchem/\" target=\"_blank\" title=\"Stephen Lower\"><span class=\"mt-bgcolor-f1c40f\">Stephen Lower</span></a><span class=\"mt-bgcolor-f1c40f\"> via </span><a href=\"http://www.chem1.com/acad/webtext/virtualtextbook.html\" target=\"_blank\" title=\"Chem 1 (Lower)\"><span class=\"mt-bgcolor-f1c40f\">Chem 1 (Lower)</span></a><span class=\"mt-bgcolor-f1c40f\">).&nbsp;Alternate description of&nbsp;Figure \\(\\</span><span class=\"mt-bgcolor-f1c40f\">PageIndex</span><span class=\"mt-bgcolor-f1c40f\">{4}\\).</span></figcaption> </figure> <h3>Continuous Spectrum</h3> <p class=\"lt-chem-3503\">When sunlight is refracted by rain droplets into a rainbow or by a prism onto a viewing screen, we see the visible part of the spectrum. When you look at the spectrum of sunlight, you will see a blend of colors. This is called a continuous spectrum because there is light at every wavelength, without any dark gaps, Figure \\(\\PageIndex{5}\\). This is like a rainbow, produced when sunlight passes through raindrops, which act as prisms.</p> <figure><img alt=\"Visible continuous spectrum. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/66748\" /> <figcaption><br /> Figure \\(\\PageIndex{5}\\):&nbsp;The spectrum of light that includes all of the colors of the rainbow. (<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\" title=\"CC0\">CC0</a>; <a href=\"https://commons.wikimedia.org/wiki/User:SiriusB\" target=\"_blank\" title=\"SiriusB\">SiriusB</a> via <a href=\"https://commons.wikimedia.org/wiki/File:Linear_visible_spectrum_ciecam02.png\" target=\"_blank\" title=\"Wikimedia Commons\">Wikimedia Commons</a>).</figcaption> </figure> <p>The continuous spectrum in Figure \\(\\PageIndex{5}\\), covers the wavelength range from 360 to 770 nanometers (nm). These wavelengths are very small considering that one nanometer is 10<sup>-9</sup> meters. Near 360 nm, the spectrum appears very dark, not because the light is a dark color, but because the light is not detectable by the human eye. In fact, the wavelengths on this spectrum that are less than 400 nm are not visible, but ultraviolet. When scientists create images that represent colors that can't be seen by humans, they often replace the invisible color with a color that humans can see. In this case, the ultraviolet light is represented by the color black. Since a visible light source does not emit the same amount of light at each wavelength, this end of the spectrum is also darker because there are fewer photons emitted at these wavelengths.</p> <p>The boundary between ultraviolet and visible light is not very sharp, but by 440 nm, the spectrum is bright violet. As the wavelength increases, the light passes through blue (450-485 nm), cyan (485-500 nm), green (500-565 nm), yellow (565-590 nm), orange (590-625 nm), and red (625-740 nm). The red region becomes very dark by 700 nm, in this case solely because there are fewer visible light photons. The infrared range begins at 780 nm, beyond the scale of this graph. Note that this chart measures wavelength in nanometers (nm), while Figure \\(\\PageIndex{3}\\) measures wavelengths in Angstroms. They still represent the same wavelength, but the numbers are smaller in nanometers because 1 nm = 10 Angstroms.</p> <h3>Emission Spectra</h3> <p class=\"lt-chem-3503\">Heat a piece of iron up to near its melting point and it will emit a broad continuous spectrum that the eye perceives as orange-yellow. But if you zap the iron with an electric spark, some of the iron atoms will vaporize and have one or more of their electrons temporarily knocked out of them. As they cool down, the electrons will recombine with the iron ions, losing energy as they move in toward the nucleus and giving up this excess energy as light. The spectrum of this light is a series of discrete wavelengths which we call an emission spectrum.</p> <p class=\"lt-chem-3507\">An <strong><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.08:_Key_Terms#emission spectrum\" target=\"_blank\" title=\"emission spectrum\">emission spectrum</a></strong> is produced when electrons that had previously been excited to values of n greater than 1 fall back to the ground state (n =&nbsp;1), either directly, or by way of intermediate n states. This can also happen when a gas is heated. The heat speeds up the individual atoms in the gas, which can lead to collisions. Those collisions may knock an electron off of an atom. Eventually the electron is captured by an ion, an atom missing one or more electrons. Then the process continues as described above and the hot gas releases emission lines related to the chemical composition of the gas.</p> <figure><img alt=\"Emission spectrum of hydrogen. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/66968\" /> <figcaption><br /> Figure \\(\\PageIndex{6}\\): Hydrogen emits 4 bright lines in the visible which are part of the Balmer series. (<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\" title=\"CC0\">CC0</a>; <a href=\"https://commons.wikimedia.org/wiki/User:Nucleus_hydro_elemon\" target=\"_blank\" title=\"Nucleus hydro elemon\">Nucleus hydro elemon</a> via <a href=\"https://commons.wikimedia.org/wiki/File:Atomic_spectrum_of_hydrogen.svg\" target=\"_blank\" title=\"Wikimedia Commons\">Wikimedia Commons</a>).</figcaption> </figure> <p class=\"lt-phys-64100\">Figure \\(\\PageIndex{6}\\) includes 6 emission lines of hydrogen in the visible range from 360 to 600 nm. The red line at 656 nm represents the electron transition n = 3→2. The rest of the Balmer series includes a cyan line at 486 nm representing n&nbsp;=&nbsp;4→2, a blue line at 434 nm representing n = 5→2, and a violet line at 410 nm representing n&nbsp;=&nbsp;6→2. The next transition, n&nbsp;=&nbsp;7→2, is in the ultraviolet.</p> <p class=\"lt-chem-3503\">If you live in a city, you probably see atomic line light sources every night! Neon signs are the most colorful and spectacular, but high-intensity street lighting is the most widespread source. These streetlights use <span class=\"mt-bgcolor-e67e22\">heated sodium gas (maybe somewhat outdated example? most streetlights are an awful LED light nowadays)</span>, since the emissions spectrum of sodium has several bright yellow lines, Figure (\\PageIndex{3}\\).</p> <h3>Absorption Spectra</h3> <p class=\"lt-phys-64100\">If light from a continuous source, such as a star, passes through an atmosphere of hydrogen, such as the star's outer atmosphere, those wavelengths that correspond to the allowed transitions are absorbed, and appear as dark lines superimposed on the continuous spectrum. An <strong><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.08:_Key_Terms#absorption spectrum\" target=\"_blank\" title=\"absorption spectrum\">absorption spectrum</a></strong> will also form if light behind a cloud of gas absorbs photons at the cloud’s energy level while the rest of the photons pass through the cloud.</p> <p class=\"lt-chem-3507\">These dark absorption lines were first observed by William Wollaston in his study of the solar spectrum. In 1814, Joseph von Fraunhofer (1787-1826) re-discovered them and made accurate measurements of 814 lines, including the four most prominent of the Balmer lines, Figure \\(\\PageIndex{7}\\). While this hand-drawn spectrum covers the entire visible range, it is presented in order of decreasing wavelength, from red to violet, unlike the other spectra in this section. It also has no numbered wavelength scale, but instead the names of the colors are noted at the bottom. Above the spectrum, some of the stronger lines are labeled with letters. There is also a chart representing the brightness, or number of photons of each wavelength of the spectrum. The peak brightness is near the yellow area of the spectrum. The brightness steadily decreases in both directions, toward red and violet. It is impossible to tell from the figure, but there are 514 individual absorption lines.</p> <figure><img alt=\"Absorption spectrum of the Sun by Josef Fraunhofer. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/66970\" /> <figcaption>Figure \\(\\PageIndex{7}\\): Fraunhofer Solar Spectrum. This absorption spectrum of the Sun&nbsp;was collected an illustrated by Joseph von Fraunhofer in 1814. (<a href=\"https://creativecommons.org/licenses/by/3.0/\" target=\"_blank\" title=\"CC BY 3.0\">CC BY 3.0</a>; <a href=\"http://www.chem1.com/SKL/SKLchem/\" target=\"_blank\" title=\"Stephen Lower\">Stephen Lower</a> via <a href=\"http://www.chem1.com/acad/webtext/virtualtextbook.html\" target=\"_blank\" title=\"Chem 1 (Lower)\">Chem 1 (Lower)</a>).&nbsp;Alternate description of&nbsp;Figure \\(\\PageIndex{7}\\).</figcaption> </figure> <p class=\"lt-phys-64680\">Atoms that have absorbed specific photons from a passing beam of white light and become excited generally de-excite themselves and emit that light again in a very short time. If the light is re-emitted, how are dark spectral lines ever produced? Why doesn’t this reemitted light quickly fill in the darker absorption lines? Imagine a beam of white light coming toward you through some cooler gas. Some of the reemitted light is actually returned to the beam of white light you see, but this fills in the absorption lines only to a slight extent. The reason is that the atoms in the gas reemit light in all directions, and only a small fraction of the reemitted light is in the direction of the original beam. There are still some photons collected in the position of the dark lines, but the amount is far fewer than the rest of the spectrum. It is more accurate to say that absorption lines are darker than the rest of the spectrum.</p> <h2>Analysis of the Solar Spectrum</h2> <p class=\"lt-phys-64678\">The dark lines in the solar spectrum thus give evidence of certain chemical elements between us and the Sun absorbing those wavelengths of sunlight. Because the space between us and the Sun is pretty empty, astronomers realized that the atoms doing the absorbing must be in a thin atmosphere of cooler gas around the Sun. This outer atmosphere is not all that different from the rest of the Sun, just thinner and cooler. Thus, we can use what we learn about its composition as an indicator of what the whole Sun is made of.</p> <p class=\"lt-phys-64678\">In 1860, German physicist Gustav Kirchhoff became the first person to use spectroscopy to identify an element in the Sun when he found the spectral signature of sodium gas. In the years that followed, astronomers found many other chemical elements in the Sun and stars. In fact, the element helium was found first in the Sun from its spectrum and only later identified on Earth. The word helium comes from Helios, the Greek name for the Sun.</p> <p>For comparison, Figure \\(\\PageIndex{8}\\) is a spectrum collected by a modern telescope and spectrometer at Kitt Peak National Observatory in Arizona. The spectrum covers the same wavelength range as Figure \\(\\PageIndex{7}\\), from 400 to 700 nm. However, this spectrum is significantly larger. There are 50 individual slices of the spectrum stacked on top of each other. Roughly 10 slices are red, 5 are orange, and so on to violet. Each slice only covers 6 nm of the 300 nm range of the spectrum. The reason this figure is so much larger is because the spectrometer used to collect it has significantly higher resolution than von Fraunhofer's spectroscope. The modern spectrometer can split the spectrum into much smaller pieces representing tiny differences in wavelength. Each 6 nm slice contains dozens of individual spectral lines that would be impossible to detect in a lower resolution spectrometer. The entire spectrum has thousands of lines. Each of those lines carries information about the composition of the Sun. This spectrum is a powerful demonstration of the advances in astronomical technology in the last 200 years.</p> <figure><img alt=\"A high-resolution spectrum of the Sun. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/66969\" /> <figcaption>Figure \\(\\PageIndex{8}\\): Solar Absorption Spectrum. This spectrum was collected at the National Solar Observatory at Kitt Peak. See text for details. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://kpno.noirlab.edu/\" target=\"_blank\" title=\"N.A. Sharp/KPNO/NOIRLab/NSO/NSF/AURA\">N.A. Sharp/KPNO/NOIRLab/NSO/NSF/AURA</a> via <a href=\"https://commons.wikimedia.org/wiki/File:High_resolution_solar_spectrum_(noao-sun).jpg\" target=\"_blank\" title=\"Wikimedia Commons\">Wikimedia Commons</a>).&nbsp;</figcaption> </figure> <p>Now that we understand that the dark lines that Wollaston and von Fraunhofer saw over 200 years ago are caused by atoms in the Sun's atmosphere absorbing the photons at those wavelengths. We also know that those lines can be used to identify which elements, such as hydrogen or helium, are in the atmosphere of the Sun. As scientists were collecting measurements in the lab, astronomers were busy collecting spectra of the stars. Eventually, astronomers began using the presence of absorption and emission lines to analyze the composition of other stars and clouds of gas in space.</p> <section class=\"box-note\"> <h5 class=\"box-legend\"><span class=\"lt-icon-default\">Further Exploration: Interactive Activity</span></h5> <ul> <li>Explore the <a href=\"https://foothillastrosims.github.io/hydrogen-atom-alpha/\" title=\"https://foothillastrosims.github.io/hydrogen-atom-alpha/\">AstroSims Hydrogen Atom</a> simulation&nbsp;to visualize the structure of a hydrogen atom and investigate how electron energy levels are related to the absorption and emission of light.</li> <li>Explore the <a href=\"https://foothillastrosims.github.io/Spectrum-Constructor/\" title=\"https://foothillastrosims.github.io/Spectrum-Constructor/\">AstroSims Spectrum Constructor</a> simulation&nbsp;to investigate how continuous, emission, and absorption spectra are formed and how spectral lines can be used to identify the composition of gases.</li> </ul> </section> <h2>Attributions</h2> <p>This page was adapted from \"<a href=\"/Bookshelves/Astronomy__Cosmology/Astronomy_Lab_(Lumen)/10:_Star_Colors_and_Spectroscopy/10.04:_Elemental_Data\" title=\"Elemental Data\">Elemental Data</a>\" in <a href=\"https://courses.lumenlearning.com/atd-fscj-introastronomy/\" title=\"Astronomy Lab (Lumen)\">Astronomy Lab (Lumen)</a> originally written by <a href=\"https://lumenlearning.com/\" title=\"Lumen Learning\">Lumen Learning</a>, and published under <a href=\"https://creativecommons.org/licenses/by/4.0/\" title=\"CC BY 4.0\">CC BY 4.0</a>.</p>"
+              - generic [ref=f110e346]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f110e348] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f110e94]:
+          - separator [ref=f110e95]
+          - paragraph [ref=f110e97]:
+            - 'link "4.3: Spectral Lines" [ref=f110e98] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.03%3A_Spectral_Lines
+            - text: is shared under a
+            - link "CC BY" [ref=f110e99] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f110e100]:
+        - list [ref=f110e101]:
+          - listitem [ref=f110e102]:
+            - link "Back to top" [ref=f110e103] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f110e104]:
+            - list [ref=f110e105]:
+              - listitem [ref=f110e106]:
+                - 'link " 4.2: The Atom" [ref=f110e107] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.02%3A_The_Atom
+                  - text: 
+                  - generic [ref=f110e108]: "4.2: The Atom"
+              - listitem [ref=f110e109]:
+                - 'link "4.4: Stellar Classification " [ref=f110e110] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.04%3A_Stellar_Classification
+                  - generic [ref=f110e111]: "4.4: Stellar Classification"
+                  - text: 
+        - list [ref=f110e114]:
+          - listitem [ref=f110e115]: Was this article helpful?
+          - listitem [ref=f110e116]:
+            - button "Yes" [ref=f110e117] [cursor=pointer]
+          - listitem [ref=f110e118]:
+            - button "No" [ref=f110e119] [cursor=pointer]
+          - listitem [ref=f110e120]:
+            - button "Leave feedback" [ref=f110e121] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f110e122]:
+          - heading "Attachments" [level=2] [ref=f110e123]
+          - generic:
+            - button "Attach a file" [ref=f110e124] [cursor=pointer]
+            - text: 
+          - generic [ref=f110e126]:
+            - generic [ref=f110e129]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f110e130]
+            - generic [ref=f110e131]:
+              - grid [ref=f110e134]:
+                - rowgroup [ref=f110e135]:
+                  - row [ref=f110e136]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f110e137]':
+                      - generic:
+                        - generic [ref=f110e138]: File
+                        - generic [ref=f110e139]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f110e140]':
+                      - generic:
+                        - generic [ref=f110e141]: Last modified
+                        - generic [ref=f110e142]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f110e143]':
+                      - generic:
+                        - generic [ref=f110e144]: Size
+                        - generic [ref=f110e145]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f110e146]':
+                      - generic:
+                        - generic [ref=f110e147]: Added by
+                        - generic [ref=f110e148]: 
+              - grid [ref=f110e150]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f110e151]: File
+                          - generic [ref=f110e152]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f110e153]: Last modified
+                          - generic [ref=f110e154]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f110e155]: Size
+                          - generic [ref=f110e156]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f110e157]: Added by
+                          - generic [ref=f110e158]: 
+                - rowgroup [ref=f110e159]:
+                  - row [ref=f110e160]:
+                    - gridcell " 1280px-Types_of_Spectra-_Continuous,_Emission,_and_Absorption_(01F8GF8DK2PRY4FP9DA2XPQC8S).png (no description)" [ref=f110e161]:
+                      - generic [ref=f110e162]:
+                        - generic [ref=f110e163]:
+                          - generic [ref=f110e164]: 
+                          - link "1280px-Types_of_Spectra-_Continuous,_Emission,_and_Absorption_(01F8GF8DK2PRY4FP9DA2XPQC8S).png" [ref=f110e165] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/67609/1280px-Types_of_Spectra-_Continuous%2C_Emission%2C_and_Absorption_(01F8GF8DK2PRY4FP9DA2XPQC8S).png?origin=mt-web
+                          - text:   
+                        - generic [ref=f110e166]:
+                          - generic [ref=f110e167]: (no description)
+                          - text: 
+                    - gridcell "Jun 25, 2026, 2:10 PM" [ref=f110e168]
+                    - gridcell "425 KiB" [ref=f110e170]
+                    - gridcell "Rachel Mastrapa" [ref=f110e171]
+                  - row [ref=f110e172]:
+                    - gridcell " H-spectral_series_crop.jpg (no description)" [ref=f110e173]:
+                      - generic [ref=f110e174]:
+                        - generic [ref=f110e175]:
+                          - generic [ref=f110e176]: 
+                          - link "H-spectral_series_crop.jpg" [ref=f110e177] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/67608/H-spectral_series_crop.jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f110e178]:
+                          - generic [ref=f110e179]: (no description)
+                          - text: 
+                    - gridcell "Jun 25, 2026, 11:44 AM" [ref=f110e180]
+                    - gridcell "63 KiB" [ref=f110e182]
+                    - gridcell "Rachel Mastrapa" [ref=f110e183]
+                  - row [ref=f110e184]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f110e185]:
+                      - generic [ref=f110e186]:
+                        - generic [ref=f110e187]:
+                          - generic [ref=f110e188]: 
+                          - link "mindtouch.page#thumbnail" [ref=f110e189] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63423/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f110e190]:
+                          - generic [ref=f110e191]: (no description)
+                          - text: 
+                    - gridcell "Dec 7, 2025, 6:55 PM" [ref=f110e192]
+                    - gridcell "11 KiB" [ref=f110e194]
+                    - gridcell "Rachel Mastrapa" [ref=f110e195]
+    - generic [ref=f110e197]:
+      - button "Open support menu" [ref=f110e199] [cursor=pointer]: "?"
+      - navigation [ref=f110e201]:
+        - paragraph [ref=f110e203]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f110e204] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f110e205] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f110e206] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f110e207] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f110e208] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f110e209]:
+      - generic:
+        - generic [ref=f110e211]:
+          - button "Annotation sidebar" [ref=f110e212]
+          - generic [ref=f110e217]:
+            - button "Show highlights" [ref=f110e218]
+            - button "New page note" [ref=f110e223]
+          - status [ref=f110e228]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f110e229]:
+    - button "contents" [ref=f110e230] [cursor=pointer]
+    - button "readability" [ref=f110e232] [cursor=pointer]
+    - button "resources" [ref=f110e234] [cursor=pointer]
+    - button "tools" [ref=f110e236] [cursor=pointer]
+    - button "developers" [ref=f110e238] [cursor=pointer]
+  - text:  
+  - generic [ref=f110e349]:
+    - generic [ref=f110e350] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f110e353] [cursor=pointer]

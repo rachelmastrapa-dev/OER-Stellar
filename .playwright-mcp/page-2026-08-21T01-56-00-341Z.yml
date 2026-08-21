@@ -1,0 +1,355 @@
+- generic [ref=f175e1]:
+  - link "Skip to main content" [ref=f175e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f175e3]:
+    - text: 
+    - generic [ref=f175e4]:
+      - generic [ref=f175e5]:
+        - generic: ✕
+        - navigation [ref=f175e7]:
+          - generic [ref=f175e8]:
+            - link [ref=f175e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f175e11]
+            - button "Enter Reader Mode" [ref=f175e13] [cursor=pointer]:
+              - generic [ref=f175e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f175e16]:
+        - list [ref=f175e18]:
+          - listitem [ref=f175e19]:
+            - link [ref=f175e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f175e22]
+          - listitem [ref=f175e23]:
+            - text: 
+            - generic [ref=f175e25]:
+              - generic [ref=f175e26]: "Search :"
+              - searchbox "Search :" [ref=f175e27]
+              - button " Search" [ref=f175e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f175e29]:
+            - list [ref=f175e30]:
+              - listitem [ref=f175e31]:
+                - link "Edit" [ref=f175e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.01%3A_Composition_and_Atmosphere_of_the_Sun?action=edit
+              - text: 
+              - listitem [ref=f175e33]:
+                - link " Options" [ref=f175e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f175e35]:
+                - link " Rachel Mastrapa" [ref=f175e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f175e37]:
+        - generic:
+          - button " Contents" [ref=f175e207] [cursor=pointer]
+          - list [ref=f175e39]:
+            - listitem [ref=f175e40]:
+              - link " Home" [ref=f175e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f175e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f175e43]:
+              - link " Workbench" [ref=f175e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f175e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f175e46]:
+              - link " De Anza - ASTR10" [ref=f175e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f175e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f175e49]:
+              - 'link " 6: The Sun and Our Solar System" [ref=f175e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System
+                - generic [ref=f175e51]: 
+                - text: "6: The Sun and Our Solar System"
+              - text: »
+            - listitem [ref=f175e52]:
+              - generic [ref=f175e53]: 
+              - text: "6.1: Composition and Atmosphere of the Sun"
+          - button " Expand/collapse global location" [ref=f175e54] [cursor=pointer]
+      - navigation:
+        - generic:                                               
+    - article [ref=f175e55]:
+      - generic [ref=f175e56]:
+        - generic [ref=f175e57]:
+          - button " Page settings" [ref=f175e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "6.1: Composition and Atmosphere of the Sun" [level=1] [ref=f175e59]':
+          - generic [ref=f175e208]: "6.1: Composition and Atmosphere of the Sun "
+        - list [ref=f175e62]:
+          - listitem [ref=f175e63]:
+            - link [ref=f175e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f175e66]:
+                - img "CC" [ref=f175e67]
+                - img "BY" [ref=f175e68]
+          - listitem [ref=f175e69]:
+            - generic [ref=f175e70]:
+              - term [ref=f175e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f175e72]: Dec 8, 2025, 9:47 AM by Rachel Mastrapa
+          - listitem [ref=f175e73]:
+            - generic [ref=f175e74]:
+              - term [ref=f175e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f175e76]: Private
+          - listitem [ref=f175e77]:
+            - generic [ref=f175e78]:
+              - term [ref=f175e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f175e80]: "132052"
+          - listitem [ref=f175e81]:
+            - list [ref=f175e82]:
+              - listitem [ref=f175e83]:
+                - button "Pin Page" [ref=f175e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f175e85]:
+                - list [ref=f175e86]:
+                  - listitem [ref=f175e87]:
+                    - 'link " 6: The Sun and Our Solar System" [ref=f175e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System
+                      - text: 
+                      - generic [ref=f175e89]: "6: The Sun and Our Solar System"
+                  - listitem [ref=f175e90]:
+                    - 'link "6.2: The Solar Cycle " [ref=f175e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.02%3A_The_Solar_Cycle
+                      - generic [ref=f175e92]: "6.2: The Solar Cycle"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f175e93]:
+        - group [ref=f175e212]:
+          - generic [ref=f175e213]:
+            - generic [ref=f175e214]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f175e215]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f175e216]:
+            - generic [ref=f175e219]:
+              - generic [ref=f175e220]:
+                - generic [ref=f175e221]:
+                  - link "Edit" [ref=f175e222]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f175e223]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f175e224]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f175e225]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f175e226]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f175e227]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f175e228]: "Words: 8, Chars: 39"
+              - group "Editor toolbars" [ref=f175e230]:
+                - toolbar [ref=f175e231]:
+                  - button "Save" [ref=f175e232]:
+                    - generic [ref=f175e233]: 
+                  - button "Cancel" [ref=f175e235]:
+                    - generic [ref=f175e236]: 
+                - toolbar [ref=f175e239]:
+                  - button "Undo" [disabled] [ref=f175e240]:
+                    - generic [ref=f175e241]: 
+                  - button "Redo" [disabled] [ref=f175e242]:
+                    - generic [ref=f175e243]: 
+                - toolbar [ref=f175e245]:
+                  - button "Headings" [ref=f175e246]
+                - toolbar [ref=f175e251]:
+                  - button "Bold" [ref=f175e252]:
+                    - generic [ref=f175e253]: 
+                  - button "Italic" [ref=f175e254]:
+                    - generic [ref=f175e255]: 
+                  - button "Underline" [ref=f175e256]:
+                    - generic [ref=f175e257]: 
+                - toolbar [ref=f175e259]:
+                  - button "Text color" [ref=f175e260]:
+                    - generic [ref=f175e261]: 
+                  - button "Background color" [ref=f175e263]:
+                    - generic [ref=f175e264]: 
+                - toolbar [ref=f175e267]:
+                  - button "Remove format" [ref=f175e268]:
+                    - generic [ref=f175e269]: 
+                - toolbar [ref=f175e271]:
+                  - button "Insert/Remove numbered list" [ref=f175e272]:
+                    - generic [ref=f175e273]: 
+                  - button "Insert/Remove bulleted list" [ref=f175e274]:
+                    - generic [ref=f175e275]: 
+                - toolbar [ref=f175e277]:
+                  - button "Alignment" [ref=f175e278]:
+                    - generic [ref=f175e279]: 
+                - text: 
+                - toolbar [ref=f175e282]:
+                  - button "Link" [ref=f175e283]:
+                    - generic [ref=f175e284]: 
+                  - button "Image" [ref=f175e285]:
+                    - generic [ref=f175e286]: 
+                  - text: 
+                  - button "Boxes" [ref=f175e287]
+                - toolbar [ref=f175e292]:
+                  - button "Replace" [ref=f175e293]:
+                    - generic [ref=f175e294]: 
+                - toolbar [ref=f175e296]:
+                  - button "Enable Binder" [ref=f175e297]
+                  - button "Insert Adapt" [ref=f175e299]
+                  - button "Query" [ref=f175e301]
+                  - button "Accessibility Checker" [ref=f175e304]
+                - toolbar [ref=f175e307]:
+                  - button "HTML" [ref=f175e308]:
+                    - generic [ref=f175e309]: 
+            - application "Rich Text Editor, editarea" [ref=f175e311]:
+              - iframe [active] [ref=f175e312]:
+                - paragraph [ref=f177e2]: Writing in ASTR 10, will copy when done
+              - generic [ref=f175e313]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f175e315] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f175e95]:
+          - separator [ref=f175e96]
+          - paragraph [ref=f175e98]:
+            - 'link "6.1: Composition and Atmosphere of the Sun" [ref=f175e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.01%3A_Composition_and_Atmosphere_of_the_Sun
+            - text: is shared under a
+            - link "CC BY" [ref=f175e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f175e101]:
+        - list [ref=f175e102]:
+          - listitem [ref=f175e103]:
+            - link "Back to top" [ref=f175e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f175e105]:
+            - list [ref=f175e106]:
+              - listitem [ref=f175e107]:
+                - 'link " 6: The Sun and Our Solar System" [ref=f175e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System
+                  - text: 
+                  - generic [ref=f175e109]: "6: The Sun and Our Solar System"
+              - listitem [ref=f175e110]:
+                - 'link "6.2: The Solar Cycle " [ref=f175e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.02%3A_The_Solar_Cycle
+                  - generic [ref=f175e112]: "6.2: The Solar Cycle"
+                  - text: 
+        - list [ref=f175e115]:
+          - listitem [ref=f175e116]: Was this article helpful?
+          - listitem [ref=f175e117]:
+            - button "Yes" [ref=f175e118] [cursor=pointer]
+          - listitem [ref=f175e119]:
+            - button "No" [ref=f175e120] [cursor=pointer]
+          - listitem [ref=f175e121]:
+            - button "Leave feedback" [ref=f175e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f175e123]:
+          - heading "Attachments" [level=2] [ref=f175e124]
+          - generic:
+            - button "Attach a file" [ref=f175e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f175e127]:
+            - generic [ref=f175e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f175e131]
+            - generic [ref=f175e132]:
+              - grid [ref=f175e135]:
+                - rowgroup [ref=f175e136]:
+                  - row [ref=f175e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f175e138]':
+                      - generic:
+                        - generic [ref=f175e139]: File
+                        - generic [ref=f175e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f175e141]':
+                      - generic:
+                        - generic [ref=f175e142]: Last modified
+                        - generic [ref=f175e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f175e144]':
+                      - generic:
+                        - generic [ref=f175e145]: Size
+                        - generic [ref=f175e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f175e147]':
+                      - generic:
+                        - generic [ref=f175e148]: Added by
+                        - generic [ref=f175e149]: 
+              - grid [ref=f175e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f175e316]: File
+                          - generic [ref=f175e317]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f175e318]: Last modified
+                          - generic [ref=f175e319]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f175e320]: Size
+                          - generic [ref=f175e321]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f175e322]: Added by
+                          - generic [ref=f175e323]: 
+                - rowgroup [ref=f175e160]:
+                  - row [ref=f175e324]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f175e325]:
+                      - generic [ref=f175e326]:
+                        - generic [ref=f175e327]:
+                          - generic [ref=f175e328]: 
+                          - link "mindtouch.page#thumbnail" [ref=f175e329] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63433/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f175e330]:
+                          - generic [ref=f175e331]: (no description)
+                          - text: 
+                    - gridcell "Dec 7, 2025, 6:56 PM" [ref=f175e332]
+                    - gridcell "11 KiB" [ref=f175e334]
+                    - gridcell "Rachel Mastrapa" [ref=f175e335]
+    - generic [ref=f175e164]:
+      - button "Open support menu" [ref=f175e166] [cursor=pointer]: "?"
+      - navigation [ref=f175e168]:
+        - paragraph [ref=f175e170]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f175e171] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f175e172] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f175e173] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f175e174] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f175e175] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f175e176]:
+      - generic:
+        - generic [ref=f175e178]:
+          - button "Annotation sidebar" [ref=f175e179]
+          - generic [ref=f175e184]:
+            - button "Show highlights" [ref=f175e185]
+            - button "New page note" [ref=f175e190]
+          - status [ref=f175e195]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f175e196]:
+    - button "contents" [ref=f175e197] [cursor=pointer]
+    - button "readability" [ref=f175e199] [cursor=pointer]
+    - button "resources" [ref=f175e201] [cursor=pointer]
+    - button "tools" [ref=f175e203] [cursor=pointer]
+    - button "developers" [ref=f175e205] [cursor=pointer]
+  - text:  
+  - generic [ref=f175e336]:
+    - generic [ref=f175e337] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f175e340] [cursor=pointer]

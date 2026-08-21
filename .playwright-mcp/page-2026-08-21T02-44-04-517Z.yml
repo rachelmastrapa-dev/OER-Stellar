@@ -1,0 +1,426 @@
+- generic [ref=f457e1]:
+  - link "Skip to main content" [ref=f457e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f457e3]:
+    - text: 
+    - generic [ref=f457e4]:
+      - generic [ref=f457e5]:
+        - generic: ✕
+        - navigation [ref=f457e7]:
+          - generic [ref=f457e8]:
+            - link [ref=f457e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f457e11]
+            - button "Enter Reader Mode" [ref=f457e13] [cursor=pointer]:
+              - generic [ref=f457e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f457e16]:
+        - list [ref=f457e18]:
+          - listitem [ref=f457e19]:
+            - link [ref=f457e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f457e22]
+          - listitem [ref=f457e23]:
+            - text: 
+            - generic [ref=f457e25]:
+              - generic [ref=f457e26]: "Search :"
+              - searchbox "Search :" [ref=f457e27]
+              - button " Search" [ref=f457e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f457e29]:
+            - list [ref=f457e30]:
+              - listitem [ref=f457e31]:
+                - link "Edit" [ref=f457e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.02%3A_Spiral_Structure?action=edit
+              - text: 
+              - listitem [ref=f457e33]:
+                - link " Options" [ref=f457e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f457e35]:
+                - link " Rachel Mastrapa" [ref=f457e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f457e37]:
+        - generic:
+          - button " Contents" [ref=f457e217] [cursor=pointer]
+          - list [ref=f457e39]:
+            - listitem [ref=f457e40]:
+              - link " Home" [ref=f457e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f457e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f457e43]:
+              - link " Workbench" [ref=f457e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f457e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f457e46]:
+              - link " De Anza - ASTR10" [ref=f457e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f457e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f457e49]:
+              - 'link " 15: Milky Way Galaxy" [ref=f457e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy
+                - generic [ref=f457e51]: 
+                - text: "15: Milky Way Galaxy"
+              - text: »
+            - listitem [ref=f457e52]:
+              - generic [ref=f457e53]: 
+              - text: "15.2: Spiral Structure"
+          - text: 
+      - navigation:
+        - generic:                                                 
+    - article [ref=f457e54]:
+      - generic [ref=f457e55]:
+        - generic [ref=f457e56]:
+          - button " Page settings" [ref=f457e57] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :       "
+        - 'heading "15.2: Spiral Structure" [level=1] [ref=f457e58]':
+          - generic [ref=f457e218]: "15.2: Spiral Structure "
+        - list [ref=f457e61]:
+          - listitem [ref=f457e62]:
+            - link [ref=f457e64] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f457e65]:
+                - img "CC" [ref=f457e66]
+                - img "BY" [ref=f457e67]
+          - listitem [ref=f457e68]:
+            - generic [ref=f457e69]:
+              - term [ref=f457e70] [cursor=pointer]: "Last updated:"
+              - definition [ref=f457e71]: Aug 17, 2026, 11:03 AM by Jyothsna Viswanadha
+          - listitem [ref=f457e72]:
+            - generic [ref=f457e73]:
+              - term [ref=f457e74] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f457e75]: Private
+          - listitem [ref=f457e76]:
+            - generic [ref=f457e77]:
+              - term [ref=f457e78] [cursor=pointer]: "Page ID:"
+              - definition [ref=f457e79]: "139670"
+          - listitem [ref=f457e80]:
+            - list [ref=f457e81]:
+              - listitem [ref=f457e82]:
+                - button "Pin Page" [ref=f457e83] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f457e84]:
+                - list [ref=f457e85]:
+                  - listitem [ref=f457e86]:
+                    - 'link " 15.1: Observing Our Galaxy" [ref=f457e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.01%3A_Observing_Our_Galaxy
+                      - text: 
+                      - generic [ref=f457e88]: "15.1: Observing Our Galaxy"
+                  - listitem [ref=f457e89]:
+                    - 'link "15.3: Mass of the Milky Way " [ref=f457e90] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.03%3A_Mass_of_the_Milky_Way
+                      - generic [ref=f457e91]: "15.3: Mass of the Milky Way"
+                      - text: 
+              - text:  
+      - list [ref=f457e94]:
+        - listitem [ref=f457e95]:
+          - img "OpenStax" [ref=f457e96]
+        - listitem [ref=f457e97]:
+          - link "OpenStax" [ref=f457e98] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f457e99]:
+          - link "OpenStax" [ref=f457e100] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f457e101]:
+        - group [ref=f457e222]:
+          - generic [ref=f457e223]:
+            - generic [ref=f457e224]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f457e225]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f457e226]:
+            - generic [ref=f457e229]:
+              - generic [ref=f457e230]:
+                - generic [ref=f457e231]:
+                  - link "Edit" [ref=f457e232]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f457e233]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f457e234]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f457e235]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f457e236]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f457e237]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f457e238]: "Words: 1107, Chars: 6887"
+              - group "Editor toolbars" [ref=f457e240]:
+                - toolbar [ref=f457e241]:
+                  - button "Save" [ref=f457e242]:
+                    - generic [ref=f457e243]: 
+                  - button "Cancel" [ref=f457e245]:
+                    - generic [ref=f457e246]: 
+                - toolbar [ref=f457e249]:
+                  - button "Undo" [disabled] [ref=f457e250]:
+                    - generic [ref=f457e251]: 
+                  - button "Redo" [disabled] [ref=f457e252]:
+                    - generic [ref=f457e253]: 
+                - toolbar [ref=f457e255]:
+                  - button "Headings" [ref=f457e256]
+                - toolbar [ref=f457e261]:
+                  - button "Bold" [ref=f457e262]:
+                    - generic [ref=f457e263]: 
+                  - button "Italic" [ref=f457e264]:
+                    - generic [ref=f457e265]: 
+                  - button "Underline" [ref=f457e266]:
+                    - generic [ref=f457e267]: 
+                - toolbar [ref=f457e269]:
+                  - button "Text color" [ref=f457e270]:
+                    - generic [ref=f457e271]: 
+                  - button "Background color" [ref=f457e273]:
+                    - generic [ref=f457e274]: 
+                - toolbar [ref=f457e277]:
+                  - button "Remove format" [ref=f457e278]:
+                    - generic [ref=f457e279]: 
+                - toolbar [ref=f457e281]:
+                  - button "Insert/Remove numbered list" [ref=f457e282]:
+                    - generic [ref=f457e283]: 
+                  - button "Insert/Remove bulleted list" [ref=f457e284]:
+                    - generic [ref=f457e285]: 
+                - toolbar [ref=f457e287]:
+                  - button "Alignment" [ref=f457e288]:
+                    - generic [ref=f457e289]: 
+                - text: 
+                - toolbar [ref=f457e292]:
+                  - button "Link" [ref=f457e293]:
+                    - generic [ref=f457e294]: 
+                  - button "Image" [ref=f457e295]:
+                    - generic [ref=f457e296]: 
+                  - text: 
+                  - button "Boxes" [ref=f457e297]
+                - toolbar [ref=f457e302]:
+                  - button "Replace" [ref=f457e303]:
+                    - generic [ref=f457e304]: 
+                - toolbar [ref=f457e306]:
+                  - button "Enable Binder" [ref=f457e307]
+                  - button "Insert Adapt" [ref=f457e309]
+                  - button "Query" [ref=f457e311]
+                  - button "Accessibility Checker" [ref=f457e314]
+                - toolbar [ref=f457e317]:
+                  - button "HTML" [ref=f457e318]:
+                    - generic [ref=f457e319]: 
+            - application "Rich Text Editor, editarea" [ref=f457e321]:
+              - iframe [active] [ref=f457e322]:
+                - generic [active] [ref=f459e1]:
+                  - heading "Mapping the Milky Way" [level=2] [ref=f459e2]
+                  - paragraph [ref=f459e3]: The Milky Way Galaxy is a Spiral Galaxy and most likely a barred spiral. This characteristic is difficult to confirm due to our location within the Milky Way and all of the gas and dust we have to look through. Astronomers were able to make tremendous progress in mapping the spiral structure of the Milky Way after the discovery of the 21-cm line that comes from cool hydrogen. The obscuring effect of interstellar dust prevents us from seeing stars at large distances in the disk at visible wavelengths. However, radio waves of 21-cm wavelength pass right through the dust, enabling astronomers to detect hydrogen atoms throughout the Galaxy. More recent surveys of the infrared emission from stars in the disk have provided a similar dust-free perspective of our Galaxy's stellar distribution. Despite all this progress over the past fifty years, we are still just beginning to pin down the precise structure of our Galaxy.
+                  - heading "The Arms of the Milky Way" [level=3] [ref=f459e4]
+                  - paragraph [ref=f459e5]: "Figure \\(\\PageIndex{1}\\) is a map of our Galaxy's arm structure derived from Spitzer Space Telescope observations in the infrared. The map has a polar coordinate system that is centered on the Sun, so the positions of all objects are measured by their distance and direction from the Sun. Radio observations of the disk's gaseous component indicate that the Galaxy has two major spiral arms, Perseus and Scutum-Centaurus, that emerge from the bar and several fainter arms and shorter spurs."
+                  - figure [ref=f459e6]:
+                    - img "Milky Way map with bar, spiral arms, and Sun's location. Details in caption." [ref=f459e7]
+                    - generic [ref=f459e8]:
+                      - text: "Figure \\(\\PageIndex{1}\\): This face-on map, assembled from Spitzer Space Telescope infrared data, shows the Milky Way's central bar with the Scutum-Centaurus and Perseus arms winding out from its ends, while the fainter Sagittarius and Outer arms contain comparatively fewer stars. ("
+                      - link "CC BY 4.0" [ref=f459e9]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f459e10]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f459e11]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: ).
+                      - 'link "Accessible description of Figure \\(\\PageIndex{1}\\)" [ref=f459e12]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/15:_Milky_Way_Galaxy/15.09:_Accessible_Descriptions#Figure_15.2.1_Milky_Way_Bar_and_Arms
+                      - text: .
+                  - paragraph [ref=f459e13]: The Sun is in the Orion Spur, between the Perseus and Sagittarius arms, 26,000 light years from the galactic center. Our Sun and Solar System orbit around the Milky Way Galaxy once every 225 million Earth years. We are also not too close to the Galaxy's center. Some postulate it would always be daytime if we were near the Milky Way Galaxy's center because there are so many stars.
+                  - paragraph [ref=f459e14]: "The Orion Spur is a stream of stars and gas about 10,000 light-years long that runs from the Cygnus arm diagonally downward to the right through the Perseus arm and on to the Sagittarius arm. It contains features like the Cygnus Rift, the great dark nebula in the summer Milky Way, and the bright Orion Nebula. Figure \\(\\PageIndex{2}\\) includes a few other objects that share this small section of the Galaxy with us. The farther away we try to look from our own arm, the more the dust in the Galaxy builds up and makes it hard to observe with visible light."
+                  - figure [ref=f459e15]:
+                    - img "Sun's location in the Orion Spur among Milky Way's spiral arms. Details in caption." [ref=f459e16]
+                    - generic [ref=f459e17]:
+                      - text: "Figure \\(\\PageIndex{2}\\): The Sun lies within the Orion Spur, a minor spiral arm located between the Perseus and Sagittarius arms, alongside several other notable star-forming regions and objects. ("
+                      - link "CC BY 4.0" [ref=f459e18]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f459e19]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f459e20]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: ).
+                      - 'link "Accessible description of Figure \\(\\PageIndex{2}\\)" [ref=f459e21]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/15:_Milky_Way_Galaxy/15.09:_Accessible_Descriptions#Figure_15.2.2_Orion_Spur
+                      - text: .
+                  - heading "Differential Galactic Rotation" [level=3] [ref=f459e22]
+                  - paragraph [ref=f459e23]:
+                    - text: At the Sun's distance from its center, the Galaxy does not rotate like a solid plate. Instead, the way individual objects orbit around the center of the Galaxy is more like the Solar System. Stars, as well as the clouds of gas and dust, obey Kepler's third law. Objects farther from the center take longer to complete an orbit around the Galaxy than do those closer to the center. In other words, stars and interstellar matter in larger orbits in the Galaxy trail behind those in smaller ones. This effect is called
+                    - strong [ref=f459e24]:
+                      - link "differential galactic rotation" [ref=f459e25]:
+                        - /url: /Workbench/De_Anza_-_ASTR10/15:_Milky_Way_Galaxy/15.08:_Key_Terms#differential galactic rotation
+                    - text: .
+                  - paragraph [ref=f459e26]: "Differential rotation would appear to explain why so much of the material in the disk of the Milky Way is concentrated into the spiral arms. No matter what the original distribution of the material might be, the differential rotation of the Galaxy can stretch it out into spiral features. Figure \\(\\PageIndex{3}\\) is a diagram of the development of spiral arms from two irregular clouds of interstellar matter. The clouds start as two separate objects on either side of the galactic center. Over time, as the portions of the clouds closest to the galactic center move faster, those farther out trail behind, stretching the material into a spiral shape."
+                  - figure [ref=f459e27]:
+                    - img "Four-panel model of spiral arm formation by differential rotation. Details in caption." [ref=f459e28]
+                    - generic [ref=f459e29]:
+                      - text: "Figure \\(\\PageIndex{3}\\): Because regions farther from the galactic center take longer to complete an orbit than regions closer in, differential rotation can stretch irregular clouds of gas into spiral arms. Since real spiral arms persist over time rather than winding up completely, other processes must help maintain them. ("
+                      - link "CC BY 4.0" [ref=f459e30]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f459e31]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f459e32]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: ).
+                      - 'link "Accessible description of Figure \\(\\PageIndex{3}\\)" [ref=f459e33]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/15:_Milky_Way_Galaxy/15.09:_Accessible_Descriptions#Figure_15.2.3_Differential_Galactic_Rotation
+                      - text: .
+                  - heading "Evolution of Spiral Arms" [level=3] [ref=f459e34]
+                  - paragraph [ref=f459e35]: This model of spiral arms formation presents astronomers with a problem. Over the roughly 13-billion-year history of the Galaxy, differential rotation would have wound the Galaxy's arms tighter and tighter until the spiral structure disappeared. Did the Milky Way actually have spiral arms when it formed 13 billion years ago? And do spiral arms, once formed, last for that long a time?
+                  - paragraph [ref=f459e36]: With the advent of the Hubble Space Telescope, it has become possible to observe the structure of very distant galaxies and to see what they were like shortly after they began to form more than 13 billion years ago. What the observations show is that galaxies in their infancy had bright, clumpy star-forming regions, but no regular spiral structure.
+                  - paragraph [ref=f459e37]: Over the next few billion years, the galaxies that were to become spirals lost their massive clumps and developed a central bulge. The turbulence in these galaxies decreased and rotation began to dominate the motions of the stars and gas. Smaller star-forming clumps began to form simple spiral arms. Bright, well-defined spiral arms began to appear only when the galaxies were about 3.6 billion years old. Initially, there were two well-defined arms. Multi-armed structures in galaxies like we see in the Milky Way appeared only when the universe was about 8 billion years old.
+                  - paragraph [ref=f459e38]: Scientists have used supercomputer calculations to model the formation and evolution of the arms. These calculations follow the motions of up to 100 million star particles to see whether gravitational forces can cause them to form spiral structure. What these calculations show is that giant molecular clouds have enough gravitational influence over their surroundings to initiate the formation of structures that look like spiral arms. These arms then become self-perpetuating and can survive for at least several billion years. The arms may change their brightness over time as star formation comes and goes, but they are not temporary features. The concentration of matter in the arms exerts sufficient gravitational force to keep the arms together over long periods of time.
+              - generic [ref=f457e323]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f457e325] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f457e103]:
+          - separator [ref=f457e104]
+          - paragraph [ref=f457e106]:
+            - text: This page titled
+            - 'link "15.2: Spiral Structure" [ref=f457e107] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.02%3A_Spiral_Structure
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f457e108] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f457e109] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f457e110] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f457e111]:
+        - list [ref=f457e112]:
+          - listitem [ref=f457e113]:
+            - link "Back to top" [ref=f457e114] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f457e115]:
+            - list [ref=f457e116]:
+              - listitem [ref=f457e117]:
+                - 'link " 15.1: Observing Our Galaxy" [ref=f457e118] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.01%3A_Observing_Our_Galaxy
+                  - text: 
+                  - generic [ref=f457e119]: "15.1: Observing Our Galaxy"
+              - listitem [ref=f457e120]:
+                - 'link "15.3: Mass of the Milky Way " [ref=f457e121] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.03%3A_Mass_of_the_Milky_Way
+                  - generic [ref=f457e122]: "15.3: Mass of the Milky Way"
+                  - text: 
+        - list [ref=f457e125]:
+          - listitem [ref=f457e126]: Was this article helpful?
+          - listitem [ref=f457e127]:
+            - button "Yes" [ref=f457e128] [cursor=pointer]
+          - listitem [ref=f457e129]:
+            - button "No" [ref=f457e130] [cursor=pointer]
+          - listitem [ref=f457e131]:
+            - button "Leave feedback" [ref=f457e132] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , , ,"
+        - generic [ref=f457e133]:
+          - heading "Attachments" [level=2] [ref=f457e134]
+          - generic:
+            - button "Attach a file" [ref=f457e135] [cursor=pointer]
+            - text: 
+          - generic [ref=f457e137]:
+            - generic [ref=f457e140]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f457e141]
+            - generic [ref=f457e142]:
+              - grid [ref=f457e145]:
+                - rowgroup [ref=f457e146]:
+                  - row [ref=f457e147]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f457e148]':
+                      - generic:
+                        - generic [ref=f457e149]: File
+                        - generic [ref=f457e150]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f457e151]':
+                      - generic:
+                        - generic [ref=f457e152]: Last modified
+                        - generic [ref=f457e153]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f457e154]':
+                      - generic:
+                        - generic [ref=f457e155]: Size
+                        - generic [ref=f457e156]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f457e157]':
+                      - generic:
+                        - generic [ref=f457e158]: Added by
+                        - generic [ref=f457e159]: 
+              - grid [ref=f457e161]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f457e162]: File
+                          - generic [ref=f457e163]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f457e164]: Last modified
+                          - generic [ref=f457e165]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f457e166]: Size
+                          - generic [ref=f457e167]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f457e168]: Added by
+                          - generic [ref=f457e169]: 
+                - rowgroup [ref=f457e170]:
+                  - row [ref=f457e171]:
+                    - gridcell "No files attached." [ref=f457e172]
+    - generic [ref=f457e174]:
+      - button "Open support menu" [ref=f457e176] [cursor=pointer]: "?"
+      - navigation [ref=f457e178]:
+        - paragraph [ref=f457e180]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f457e181] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f457e182] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f457e183] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f457e184] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f457e185] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f457e186]:
+      - generic:
+        - generic [ref=f457e188]:
+          - button "Annotation sidebar" [ref=f457e189]
+          - generic [ref=f457e194]:
+            - button "Show highlights" [ref=f457e195]
+            - button "New page note" [ref=f457e200]
+          - status [ref=f457e205]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f457e206]:
+    - button "contents" [ref=f457e207] [cursor=pointer]
+    - button "readability" [ref=f457e209] [cursor=pointer]
+    - button "resources" [ref=f457e211] [cursor=pointer]
+    - button "tools" [ref=f457e213] [cursor=pointer]
+    - button "developers" [ref=f457e215] [cursor=pointer]
+  - text:  
+  - generic [ref=f457e326]:
+    - generic [ref=f457e327] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f457e330] [cursor=pointer]

@@ -1,0 +1,288 @@
+- generic [active] [ref=f230e1]:
+  - link "Skip to main content" [ref=f230e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f230e3]:
+    - text: 
+    - generic [ref=f230e4]:
+      - generic [ref=f230e5]:
+        - generic: ✕
+        - navigation [ref=f230e7]:
+          - generic [ref=f230e8]:
+            - link [ref=f230e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f230e11]
+            - button "Enter Reader Mode" [ref=f230e13] [cursor=pointer]:
+              - generic [ref=f230e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f230e16]:
+        - list [ref=f230e18]:
+          - listitem [ref=f230e19]:
+            - link [ref=f230e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f230e22]
+          - listitem [ref=f230e23]:
+            - text: 
+            - generic [ref=f230e25]:
+              - generic [ref=f230e26]: "Search :"
+              - searchbox "Search :" [ref=f230e27]
+              - button " Search" [ref=f230e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f230e29]:
+            - list [ref=f230e30]:
+              - listitem [ref=f230e31]:
+                - link "Edit" [ref=f230e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking?action=edit
+              - text: 
+              - listitem [ref=f230e33]:
+                - link " Options" [ref=f230e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f230e35]:
+                - link " Rachel Mastrapa" [ref=f230e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f230e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f230e38] [cursor=pointer]
+          - list [ref=f230e39]:
+            - listitem [ref=f230e40]:
+              - link " Home" [ref=f230e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f230e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f230e43]:
+              - link " Workbench" [ref=f230e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f230e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f230e46]:
+              - link " De Anza - ASTR10" [ref=f230e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f230e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f230e49]:
+              - generic [ref=f230e50]: 
+              - text: "8: Stellar Tracking"
+          - text: 
+      - navigation
+    - article [ref=f230e51]:
+      - generic [ref=f230e52]:
+        - generic [ref=f230e53]:
+          - button " Page settings" [ref=f230e54] [cursor=pointer]
+          - text: "    : :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "8: Stellar Tracking" [level=1] [ref=f230e55]':
+          - generic [ref=f230e56]: "8: Stellar Tracking "
+        - list [ref=f230e58]:
+          - listitem [ref=f230e59]:
+            - link [ref=f230e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f230e62]:
+                - img "CC" [ref=f230e63]
+                - img "BY" [ref=f230e64]
+          - listitem [ref=f230e65]:
+            - generic [ref=f230e66]:
+              - term [ref=f230e67]: "Last updated:"
+              - definition [ref=f230e68]: Dec 28, 2025, 5:26 PM by Rachel Mastrapa
+          - listitem [ref=f230e69]:
+            - generic [ref=f230e70]:
+              - term [ref=f230e71]: "Page restriction:"
+              - definition [ref=f230e72]: Private
+          - listitem [ref=f230e73]:
+            - generic [ref=f230e74]:
+              - term [ref=f230e75]: "Page ID:"
+              - definition [ref=f230e76]: "115282"
+          - listitem [ref=f230e77]:
+            - list [ref=f230e78]:
+              - listitem [ref=f230e79]:
+                - button "Pin Page" [ref=f230e80] [cursor=pointer]: 
+              - listitem [ref=f230e81]:
+                - generic [ref=f230e82]:
+                  - link " Page notifications Off" [ref=f230e84] [cursor=pointer]:
+                    - /url: "#"
+                  - text: 
+              - text: 
+              - listitem [ref=f230e85]:
+                - list [ref=f230e86]:
+                  - listitem [ref=f230e87]:
+                    - 'link " 7.6: Accessible Descriptions" [ref=f230e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.06%3A_Accessible_Descriptions
+                      - text: 
+                      - generic [ref=f230e89]: "7.6: Accessible Descriptions"
+                  - listitem [ref=f230e90]:
+                    - 'link "8.1: Celestial Coordinates " [ref=f230e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.01%3A_Celestial_Coordinates
+                      - generic [ref=f230e92]: "8.1: Celestial Coordinates"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f230e93]:
+        - generic [ref=f230e94]:
+          - generic [ref=f230e96]:
+            - heading " Learning Objectives" [level=5] [ref=f230e97]
+            - paragraph [ref=f230e99]: "By the end of this section, you will be able to:"
+            - list [ref=f230e100]:
+              - listitem [ref=f230e101]: Describe how latitude and longitude are used to map Earth
+              - listitem [ref=f230e102]: Explain how right ascension and declination are used to map the sky
+              - listitem [ref=f230e103]: Explain why the spectral lines of photons we observe from an object will change as a result of the object’s motion toward or away from us
+              - listitem [ref=f230e104]: Describe how we can use the Doppler effect to deduce how fast astronomical objects are moving through space
+              - listitem [ref=f230e105]: Understand the concept of triangulating distances to distant objects, including stars
+              - listitem [ref=f230e106]: Explain why space-based satellites deliver more precise distances than ground-based methods
+              - listitem [ref=f230e107]: Discuss astronomers’ efforts to determine the distance of the stars closest to the Sun
+              - listitem [ref=f230e108]: Describe how some stars vary their light output and why such stars are important
+              - listitem [ref=f230e109]: Explain the importance of pulsating variable stars, such as cepheids and RR Lyrae-type stars, to our study of the universe
+              - listitem [ref=f230e110]: Understand how spectral types are used to estimate stellar luminosities
+              - listitem [ref=f230e111]: Examine how these techniques are used by astronomers today
+          - paragraph
+          - list [ref=f230e114]:
+            - listitem [ref=f230e115]:
+              - generic [ref=f230e116]:
+                - term [ref=f230e117]:
+                  - 'link " 8.1: Celestial Coordinates" [ref=f230e118] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.01%3A_Celestial_Coordinates
+                    - generic [ref=f230e119]: 
+                    - text: "8.1: Celestial Coordinates"
+                - definition
+            - listitem [ref=f230e120]:
+              - generic [ref=f230e121]:
+                - term [ref=f230e122]:
+                  - 'link " 8.2: Doppler Effect" [ref=f230e123] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.02%3A_Doppler_Effect
+                    - generic [ref=f230e124]: 
+                    - text: "8.2: Doppler Effect"
+                - definition
+            - listitem [ref=f230e125]:
+              - generic [ref=f230e126]:
+                - term [ref=f230e127]:
+                  - 'link " 8.3: Proper Motion" [ref=f230e128] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.03%3A_Proper_Motion
+                    - generic [ref=f230e129]: 
+                    - text: "8.3: Proper Motion"
+                - definition
+            - listitem [ref=f230e130]:
+              - generic [ref=f230e131]:
+                - term [ref=f230e132]:
+                  - 'link " 8.4: Parallax and Naming Stars" [ref=f230e133] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.04%3A_Parallax_and_Naming_Stars
+                    - generic [ref=f230e134]: 
+                    - text: "8.4: Parallax and Naming Stars"
+                - definition
+            - listitem [ref=f230e135]:
+              - generic [ref=f230e136]:
+                - term [ref=f230e137]:
+                  - 'link " 8.5: Variable Stars- One Key to Cosmic Distances" [ref=f230e138] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.05%3A_Variable_Stars-_One_Key_to_Cosmic_Distances
+                    - generic [ref=f230e139]: 
+                    - text: "8.5: Variable Stars- One Key to Cosmic Distances"
+                - definition [ref=f230e140]: Cepheids and RR Lyrae stars are two types of pulsating variable stars. Light curves of these stars show that their luminosities vary with a regularly repeating period. RR Lyrae stars can be used as standard bulbs, and cepheid variables obey a period-luminosity relation, so measuring their periods can tell us their luminosities. Then, we can calculate their distances by comparing their luminosities with their apparent brightnesses, and this can allow us to measure distances to these stars out to
+            - listitem [ref=f230e141]:
+              - generic [ref=f230e142]:
+                - term [ref=f230e143]:
+                  - 'link " 8.6: The H-R and Cosmic Distances" [ref=f230e144] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.06%3A_The_H-R_and_Cosmic_Distances
+                    - generic [ref=f230e145]: 
+                    - text: "8.6: The H-R and Cosmic Distances"
+                - definition [ref=f230e146]: Stars with identical temperatures but different pressures (and diameters) have somewhat different spectra. Spectral classification can therefore be used to estimate the luminosity class of a star as well as its temperature. As a result, a spectrum can allow us to pinpoint where the star is located on an H–R diagram and establish its luminosity. This, with the star’s apparent brightness, again yields its distance. The various distance methods can be used to check one against another.
+            - listitem [ref=f230e147]:
+              - generic [ref=f230e148]:
+                - term [ref=f230e149]:
+                  - 'link " 8.7: Lookback Time" [ref=f230e150] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.07%3A_Lookback_Time
+                    - generic [ref=f230e151]: 
+                    - text: "8.7: Lookback Time"
+                - definition
+            - listitem [ref=f230e152]:
+              - generic [ref=f230e153]:
+                - term [ref=f230e154]:
+                  - 'link " 8.8: Oral Tradition and Other Stories of Variable Stars" [ref=f230e155] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.08%3A_Oral_Tradition_and_Other_Stories_of_Variable_Stars
+                    - generic [ref=f230e156]: 
+                    - text: "8.8: Oral Tradition and Other Stories of Variable Stars"
+                - definition
+            - listitem [ref=f230e157]:
+              - generic [ref=f230e158]:
+                - term [ref=f230e159]:
+                  - 'link " 8.9: Key Terms" [ref=f230e160] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.09%3A_Key_Terms
+                    - generic [ref=f230e161]: 
+                    - text: "8.9: Key Terms"
+                - definition
+            - listitem [ref=f230e162]:
+              - generic [ref=f230e163]:
+                - term [ref=f230e164]:
+                  - 'link " 8.10: Accessible Descriptions" [ref=f230e165] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.10%3A_Accessible_Descriptions
+                    - generic [ref=f230e166]: 
+                    - text: "8.10: Accessible Descriptions"
+                - definition
+          - paragraph
+          - paragraph [ref=f230e167]: Thumbnail
+        - generic [ref=f230e168]:
+          - separator [ref=f230e169]
+          - paragraph [ref=f230e171]:
+            - 'link "8: Stellar Tracking" [ref=f230e172] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking
+            - text: is shared under a
+            - link "CC BY" [ref=f230e173] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f230e174]:
+        - list [ref=f230e175]:
+          - listitem: 
+          - listitem [ref=f230e176]:
+            - list [ref=f230e177]:
+              - listitem [ref=f230e178]:
+                - 'link " 7.6: Accessible Descriptions" [ref=f230e179] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.06%3A_Accessible_Descriptions
+                  - text: 
+                  - generic [ref=f230e180]: "7.6: Accessible Descriptions"
+              - listitem [ref=f230e181]:
+                - 'link "8.1: Celestial Coordinates " [ref=f230e182] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.01%3A_Celestial_Coordinates
+                  - generic [ref=f230e183]: "8.1: Celestial Coordinates"
+                  - text: 
+        - generic:   
+        - text: "     : : : :              "
+    - generic [ref=f230e185]:
+      - button "Open support menu" [ref=f230e187] [cursor=pointer]: "?"
+      - navigation [ref=f230e189]:
+        - paragraph [ref=f230e191]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f230e192] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f230e193] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f230e194] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f230e195] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f230e196] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f230e197]:
+      - generic:
+        - generic [ref=f230e199]:
+          - button "Annotation sidebar" [ref=f230e200]
+          - generic [ref=f230e205]:
+            - button "Show highlights" [ref=f230e206]
+            - button "New page note" [ref=f230e211]
+          - status [ref=f230e216]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f230e217]:
+    - button "contents" [ref=f230e218] [cursor=pointer]
+    - button "readability" [ref=f230e220] [cursor=pointer]
+    - button "resources" [ref=f230e222] [cursor=pointer]
+    - button "tools" [ref=f230e224] [cursor=pointer]
+    - button "developers" [ref=f230e226] [cursor=pointer]
+  - text:  

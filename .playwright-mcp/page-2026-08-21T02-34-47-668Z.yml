@@ -1,0 +1,498 @@
+- generic [ref=f403e1]:
+  - link "Skip to main content" [ref=f403e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f403e3]:
+    - text: 
+    - generic [ref=f403e4]:
+      - generic [ref=f403e5]:
+        - generic: ✕
+        - navigation [ref=f403e7]:
+          - generic [ref=f403e8]:
+            - link [ref=f403e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f403e11]
+            - button "Enter Reader Mode" [ref=f403e13] [cursor=pointer]:
+              - generic [ref=f403e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f403e16]:
+        - list [ref=f403e18]:
+          - listitem [ref=f403e19]:
+            - link [ref=f403e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f403e22]
+          - listitem [ref=f403e23]:
+            - text: 
+            - generic [ref=f403e25]:
+              - generic [ref=f403e26]: "Search :"
+              - searchbox "Search :" [ref=f403e27]
+              - button " Search" [ref=f403e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f403e29]:
+            - list [ref=f403e30]:
+              - listitem [ref=f403e31]:
+                - link "Edit" [ref=f403e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.04%3A_Neutron_Stars_and_Pulsars?action=edit
+              - text: 
+              - listitem [ref=f403e33]:
+                - link " Options" [ref=f403e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f403e35]:
+                - link " Rachel Mastrapa" [ref=f403e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f403e37]:
+        - generic:
+          - button " Contents" [ref=f403e218] [cursor=pointer]
+          - list [ref=f403e39]:
+            - listitem [ref=f403e40]:
+              - link " Home" [ref=f403e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f403e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f403e43]:
+              - link " Workbench" [ref=f403e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f403e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f403e46]:
+              - link " De Anza - ASTR10" [ref=f403e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f403e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f403e49]:
+              - 'link " 13: Stellar Finale" [ref=f403e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale
+                - generic [ref=f403e51]: 
+                - text: "13: Stellar Finale"
+              - text: »
+            - listitem [ref=f403e52]:
+              - generic [ref=f403e53]: 
+              - text: "13.4: Neutron Stars and Pulsars"
+          - button " Expand/collapse global location" [ref=f403e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                
+    - article [ref=f403e55]:
+      - generic [ref=f403e56]:
+        - generic [ref=f403e57]:
+          - button " Page settings" [ref=f403e58] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :        "
+        - 'heading "13.4: Neutron Stars and Pulsars" [level=1] [ref=f403e59]':
+          - generic [ref=f403e219]: "13.4: Neutron Stars and Pulsars "
+        - list [ref=f403e62]:
+          - listitem [ref=f403e63]:
+            - link [ref=f403e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f403e66]:
+                - img "CC" [ref=f403e67]
+                - img "BY" [ref=f403e68]
+          - listitem [ref=f403e69]:
+            - generic [ref=f403e70]:
+              - term [ref=f403e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f403e72]: Aug 9, 2026, 2:42 PM by Rachel Mastrapa
+          - listitem [ref=f403e73]:
+            - generic [ref=f403e74]:
+              - term [ref=f403e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f403e76]: Private
+          - listitem [ref=f403e77]:
+            - generic [ref=f403e78]:
+              - term [ref=f403e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f403e80]: "133524"
+          - listitem [ref=f403e81]:
+            - list [ref=f403e82]:
+              - listitem [ref=f403e83]:
+                - button "Pin Page" [ref=f403e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f403e85]:
+                - list [ref=f403e86]:
+                  - listitem [ref=f403e87]:
+                    - 'link " 13.3: Supernovae" [ref=f403e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.03%3A_Supernovae
+                      - text: 
+                      - generic [ref=f403e89]: "13.3: Supernovae"
+                  - listitem [ref=f403e90]:
+                    - 'link "13.5: Binary Star Systems " [ref=f403e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.05%3A_Binary_Star_Systems
+                      - generic [ref=f403e92]: "13.5: Binary Star Systems"
+                      - text: 
+              - text:  
+      - list [ref=f403e95]:
+        - listitem [ref=f403e96]:
+          - img "OpenStax" [ref=f403e97]
+        - listitem [ref=f403e98]:
+          - link "OpenStax" [ref=f403e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f403e100]:
+          - link "OpenStax" [ref=f403e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f403e102]:
+        - group [ref=f403e223]:
+          - generic [ref=f403e224]:
+            - generic [ref=f403e225]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f403e226]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f403e227]:
+            - generic [ref=f403e230]:
+              - generic [ref=f403e231]:
+                - generic [ref=f403e232]:
+                  - link "Edit" [ref=f403e233]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f403e234]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f403e235]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f403e236]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f403e237]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f403e238]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f403e239]: "Words: 2035, Chars: 12212"
+              - group "Editor toolbars" [ref=f403e241]:
+                - toolbar [ref=f403e242]:
+                  - button "Save" [ref=f403e243]:
+                    - generic [ref=f403e244]: 
+                  - button "Cancel" [ref=f403e246]:
+                    - generic [ref=f403e247]: 
+                - toolbar [ref=f403e250]:
+                  - button "Undo" [disabled] [ref=f403e251]:
+                    - generic [ref=f403e252]: 
+                  - button "Redo" [disabled] [ref=f403e253]:
+                    - generic [ref=f403e254]: 
+                - toolbar [ref=f403e256]:
+                  - button "Headings" [ref=f403e257]
+                - toolbar [ref=f403e262]:
+                  - button "Bold" [ref=f403e263]:
+                    - generic [ref=f403e264]: 
+                  - button "Italic" [ref=f403e265]:
+                    - generic [ref=f403e266]: 
+                  - button "Underline" [ref=f403e267]:
+                    - generic [ref=f403e268]: 
+                - toolbar [ref=f403e270]:
+                  - button "Text color" [ref=f403e271]:
+                    - generic [ref=f403e272]: 
+                  - button "Background color" [ref=f403e274]:
+                    - generic [ref=f403e275]: 
+                - toolbar [ref=f403e278]:
+                  - button "Remove format" [ref=f403e279]:
+                    - generic [ref=f403e280]: 
+                - toolbar [ref=f403e282]:
+                  - button "Insert/Remove numbered list" [ref=f403e283]:
+                    - generic [ref=f403e284]: 
+                  - button "Insert/Remove bulleted list" [ref=f403e285]:
+                    - generic [ref=f403e286]: 
+                - toolbar [ref=f403e288]:
+                  - button "Alignment" [ref=f403e289]:
+                    - generic [ref=f403e290]: 
+                - text: 
+                - toolbar [ref=f403e293]:
+                  - button "Link" [ref=f403e294]:
+                    - generic [ref=f403e295]: 
+                  - button "Image" [ref=f403e296]:
+                    - generic [ref=f403e297]: 
+                  - text: 
+                  - button "Boxes" [ref=f403e298]
+                - toolbar [ref=f403e303]:
+                  - button "Replace" [ref=f403e304]:
+                    - generic [ref=f403e305]: 
+                - toolbar [ref=f403e307]:
+                  - button "Enable Binder" [ref=f403e308]
+                  - button "Insert Adapt" [ref=f403e310]
+                  - button "Query" [ref=f403e312]
+                  - button "Accessibility Checker" [ref=f403e315]
+                - toolbar [ref=f403e318]:
+                  - button "HTML" [ref=f403e319]:
+                    - generic [ref=f403e320]: 
+            - application "Rich Text Editor, editarea" [ref=f403e322]:
+              - iframe [active] [ref=f403e323]:
+                - generic [active] [ref=f405e1]:
+                  - heading "Neutron Stars" [level=2] [ref=f405e2]
+                  - paragraph [ref=f405e3]:
+                    - text: After a type II supernova explosion fades away, all that is left behind is either a neutron star or a black hole. We will describe the properties of black holes in
+                    - link "Black Holes" [ref=f405e4]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/14:_Black_Holes
+                    - text: . For now, we will discuss neutron stars.
+                  - paragraph [ref=f405e5]:
+                    - text: The densest objects in the universe, neutron stars are dim and intensely hot. the force of gravity at their surface is 10
+                    - superscript [ref=f405e6]: "11"
+                    - text: times greater than what we experience at Earth’s surface. The interior of a neutron star is composed of about 95% neutrons, with a small number of protons and electrons mixed in. In effect, a neutron star is a giant atomic nucleus, with a mass about 10
+                    - superscript [ref=f405e7]: "57"
+                    - text: "times the mass of a proton. Its diameter is more like the size of a small town or an asteroid than a star. Table \\(\\PageIndex{1}\\) compares the properties of neutron stars and white dwarfs."
+                  - paragraph [ref=f405e8]: "Because they are so small, a neutron star can be very hard to detect. In Figure \\(\\PageIndex{1}\\), there is a lone neutron star, RX J1856.5−3754, indicated with an arrow. This star is over 700 thousand K at the surface, and can is roughly 28 kilometers across. The first clue that there was a neutron star at this location came in 1992, when ROSAT, the Roentgen Satellite, found a bright X-ray source without any visible counterpart in the sky. Hubble's Wide Field Planetary Camera 2 was used in October 1996 to undertake asensitive search for the object in visible light, and found this star near the X-ray position. Astronomers haven't directly measured the neutron star's distance, but it lies in front of a molecular cloud known to be about 400 light-years away in the southern constellation Corona Australis."
+                  - figure [ref=f405e9]:
+                    - img "Neutron Star RX J1856.5−3754 by Hubble Space Telescope." [ref=f405e10]
+                    - generic [ref=f405e11]:
+                      - text: "Figure \\(\\PageIndex{1}\\) : Neutron Star RX J1856.5−3754. This Hubble Space telescope image is the first direct observation of a neutron star, labeled with an arrow, in visible light. ("
+                      - link "CC BY 4.0" [ref=f405e12]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fred Walter (State University of New York at Stony Brook) and NASA/ESA" [ref=f405e13]:
+                        - /url: https://www.nasa.gov/
+                      - text: via
+                      - link "ESA Hubble" [ref=f405e14]:
+                        - /url: https://esahubble.org/images/opo9732a/
+                      - text: )
+                      - 'link "Alternative description of Figure \\(\\PageIndex{1}\\)" [ref=f405e15]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/13:_Stellar_Finale/13.08:_Accessible_Descriptions#Figure_13.4.1_Neutron_Star_RX_J1856.5.E2.88.923754
+                      - text: .
+                  - table [ref=f405e16]:
+                    - caption [ref=f405e17]: "Table \\(\\PageIndex{1}\\): White Dwarf and Neutron Star"
+                    - rowgroup [ref=f405e18]:
+                      - row [ref=f405e19]:
+                        - columnheader "Property" [ref=f405e20]
+                        - columnheader "White Dwarf" [ref=f405e21]
+                        - columnheader "Neutron Star" [ref=f405e22]
+                    - rowgroup [ref=f405e23]:
+                      - row [ref=f405e24]:
+                        - cell "Mass (Sun = 1)" [ref=f405e25]
+                        - cell "0.6 (always <1.4)" [ref=f405e26]
+                        - cell "Always >1.4 and <3" [ref=f405e27]
+                      - row [ref=f405e28]:
+                        - cell "Radius" [ref=f405e29]
+                        - cell "7000 km" [ref=f405e30]
+                        - cell "10 km" [ref=f405e31]
+                      - row [ref=f405e32]:
+                        - cell "Density" [ref=f405e33]
+                        - cell [ref=f405e34]:
+                          - math [ref=f405e35]:
+                            - generic [ref=f405e38]:
+                              - generic [ref=f405e39]: "8"
+                              - generic [ref=f405e40]: ×
+                              - generic [ref=f405e41]:
+                                - generic [ref=f405e42]: "10"
+                                - generic [ref=f405e43]: "5"
+                          - text: g/
+                          - generic [ref=f405e44]:
+                            - text: cm
+                            - superscript [ref=f405e45]: "3"
+                        - cell [ref=f405e46]:
+                          - text: "10"
+                          - superscript [ref=f405e47]: "14"
+                          - text: g/
+                          - generic [ref=f405e48]:
+                            - text: cm
+                            - superscript [ref=f405e49]: "3"
+                  - heading "The Discovery of Neutron Stars" [level=3] [ref=f405e50]
+                  - paragraph [ref=f405e51]:
+                    - text: In 1967, Jocelyn Bell, a research student at Cambridge University, was studying distant radio sources with a special detector that had been designed and built by her advisor Antony Hewish to find rapid variations in radio signals. In September 1967, Bell discovered a source of rapid, sharp, intense, and extremely regular pulses of radio radiation in the constellation of Vulpecula. The pulses arrived precisely every 1.33728 seconds, leading the scientists to speculate that perhaps they had found signals from an intelligent civilization. Radio astronomers even half-jokingly dubbed the source LGM for little green men. Since then, nearly 3000 such sources have been discovered, and they are now called
+                    - strong [ref=f405e52]:
+                      - link "pulsars" [ref=f405e53]:
+                        - /url: /Workbench/De_Anza_-_ASTR10/13:_Stellar_Finale/13.07:_Key_Terms#pulsar
+                    - text: ", short for “pulsating radio sources.”"
+                  - paragraph [ref=f405e54]: .
+                  - paragraph [ref=f405e55]: "The pulse periods of different pulsars range from a little longer than 1/1000 of a second to nearly 10 seconds. At first, the pulsars seemed particularly mysterious because nothing could be seen at their location on visible-light photographs. But then a pulsar was discovered right in the center of the Crab Nebula, a cloud of gas produced by SN 1054 that is roughly 6500 light-years away. Figure \\(\\PageIndex{2}\\)) includes the Crab Nebula in X-ray light. The pulsar is the bright spot at the center of the concentric rings. Data taken over about a year show that particles stream away from the inner ring at about half the speed of light. The jet that is perpendicular to this ring is a stream of matter and antimatter electrons also moving at half the speed of light. The energy from the Crab Nebula pulsar arrives in sharp bursts that occur 30 times each second. In addition to pulses of radio energy, there are pulses of visible light and X-rays from the Crab Nebula. Since this pulsar was detected inside a supernova remnant, astronomers began exploring the connection between pulsars and supernove."
+                  - figure [ref=f405e56]:
+                    - img "The Crab Nebula in X-ray. Details in caption." [ref=f405e57]
+                    - generic [ref=f405e58]:
+                      - text: "Figure \\(\\PageIndex{2}\\) : Crab Nebula. This X-ray image includes the pulsar with its jet, that are not observable in visible light. ("
+                      - link "CC BY" [ref=f405e59]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f405e60]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f405e61]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: )
+                      - 'link "Alternative description of Figure \\(\\PageIndex{2}\\)" [ref=f405e62]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/13:_Stellar_Finale/13.08:_Accessible_Descriptions#Figure_13.4.2_Crab_Nebula_in_X-rays
+                      - text: .
+                  - heading "A Spinning Lighthouse Model" [level=3] [ref=f405e63]
+                  - paragraph [ref=f405e64]: By applying a combination of theory and observation, astronomers eventually concluded that pulsars must be spinning neutron stars. According to this model, a neutron star is something like a lighthouse. A lighthouse, light source projects a beam of light and rotates. From the a ship, the light appears to blink on and off at a regular rate as the turning beam sweeps past you. In the same way, radiation from a small region on a neutron star sweeps across space, giving us a pulse of radiation each time the beam points toward Earth.
+                  - paragraph [ref=f405e65]: The principle of conservation of angular momentum states that if an object gets smaller, it can spin more rapidly. Even if the original star was rotating very slowly when it was on the main sequence, its rotation rate increased as it collapsed to form a neutron star. With a diameter of only 10 to 20 kilometers, a neutron star can complete one full spin in only a fraction of a second, similar to observed pulsars.
+                  - paragraph [ref=f405e66]: "The magnetic field that existed in the original star is compressed when the core collapses to a neutron star. At the surface of the neutron star, in the outer layer consisting of ordinary matter and not just pure neutrons, protons and electrons are caught up in this spinning field and accelerated nearly to the speed of light. At the north and south magnetic poles, the trapped particles escape the strong hold of the magnetic field. They are focused into a narrow beam and are ejected out of the magnetic pole at enormous speeds. They give off energy over a broad range of the electromagnetic spectrum. Figure \\(\\PageIndex{3}\\)) is a diagram showing how beams of radiation at the magnetic poles of a neutron star can appear to be a pulsar. As each beam sweeps over Earth, we see a short pulse of radiation. This model requires that the magnetic poles be located in different places from the rotation poles. In this model, all pulsars are neutron stars, but not all neutron stars are observed on Earth as pulsars. If a neutron star has magnetic poles that never point at Earth or if a neutron star's rotation poles and magnetic poles are aligned, then Earth will not observe a pulsing signal from the neutron star."
+                  - figure [ref=f405e67]:
+                    - img "Pulsar diagram with magnetic field lines and particle beams. Details in text." [ref=f405e68]
+                    - generic [ref=f405e69]:
+                      - text: "Figure \\(\\PageIndex{3}\\) : Model of a Pulsar. This diagram demonstrates that pulsars are neutron stars that have a spin axis perpendicular to its magnetic poles. The beams from the magnetic poles rotate similar to a lighthouse and, if they are pointing correctly, observed by Earth. ("
+                      - link "CC BY" [ref=f405e70]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f405e71]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f405e72]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: )
+                      - 'link "Alternative description of Figure \\(\\PageIndex{3}\\)" [ref=f405e73]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/13:_Stellar_Finale/13.08:_Accessible_Descriptions#Figure_13.4.3_Model_of_a_Pulsar
+                      - text: .
+                  - heading "Tests of the Model" [level=3] [ref=f405e74]
+                  - paragraph [ref=f405e75]:
+                    - text: To confirm this model, astronomers needed to connect the model predictions with observations. Using Kepler's law for pulsars in binary star systems, astronomer can calculate the some pulsars. They are in the range of 1.4 to 1.8
+                    - generic [ref=f405e76]:
+                      - text: M
+                      - subscript [ref=f405e77]: Sun
+                    - text: which is what theorists predict for neutron stars. Also, when the high-energy charged particles from the neutron star pulsar hit the slower-moving material from a supernova, they energize this material and cause it to glow at many different wavelengths. In the Crab Nebula, the pulsar beams are a power source that light up the nebula long after the initial explosion of the star that made it.
+                  - paragraph [ref=f405e78]: The ultimate energy source in this model is the rotation of the neutron star, which propels charged particles outward and spins its magnetic field at enormous speeds. As its rotational energy is used to excite the Crab Nebula year after year, the pulsar inside the nebula slows down. As it slows, the pulses come a little less often. Several decades of careful observations have now shown that the Crab Nebula pulsar is gradually slowing down. Having measured how much the pulsar is slowing down, we can calculate how much rotation energy the neutron star is losing. Remember that it is very densely packed and spins amazingly quickly. Even a tiny slowing down can mean an immense loss of energy. The rotational energy lost by the pulsar turns out to be the same as the amount of energy emerging from the nebula surrounding it. The slowing down of a rotating neutron star can explain precisely why the Crab Nebula is glowing with the amount of energy we observe.
+                  - heading "The Evolution of Pulsars" [level=3] [ref=f405e79]
+                  - paragraph [ref=f405e80]: From observations of the pulsars discovered so far, astronomers have concluded that one new pulsar is born somewhere in the Galaxy every 25 to 100 years, the same rate at which supernovae are estimated to occur. Calculations suggest that the typical lifetime of a pulsar is about 10 million years. After that, the neutron star no longer rotates fast enough to produce significant beams of particles and energy. We estimate that there are about 100 million neutron stars in our Galaxy, most of them rotating too slowly to be observed as a pulsar. Also, we are unable to observe any pulsars whose beams never point at Earth.
+                  - paragraph [ref=f405e81]: The Crab pulsar is rather young, only about 960 years old, and has a short period, whereas other, older pulsars have already slowed to longer periods. Pulsars thousands of years old have lost too much energy to emit appreciably in the visible and X-ray wavelengths, and they are observed only as radio pulsars; their periods are a second or longer. Only a few of the pulsars discovered so far are embedded in the visible clouds of gas that mark the remnant of a supernova. The lifetime of a pulsar turns out to be about 100 times longer than the length of time required for the expanding gas of a supernova remnant to disperse into interstellar space. Thus, most pulsars are found with no other trace left of the explosion that produced them.
+                  - paragraph [ref=f405e82]: In addition, some pulsars are ejected by a supernova explosion that is not the same in all directions. If the supernova explosion is stronger on one side, it can kick the pulsar entirely out of the supernova remnant. Astronomers have detected several young supernova remnants in nearby galaxies where the pulsar is to one side of the remnant and racing away at several hundred miles per second.
+                  - heading "Touched by a Neutron Star" [level=3] [ref=f405e83]
+                  - paragraph [ref=f405e84]: On December 27, 2004, Earth was bathed with a stream of X-ray and gamma-ray radiation from a neutron star known as SGR 1806-20. Despite the distance of the source, its burst of energy had measurable effects on Earth’s atmosphere. The apparent brightness of this gamma-ray flare was greater than any historical star explosion. The primary effect was on a layer high in Earth’s atmosphere called the ionosphere. At night, the ionosphere is normally at a height of about 85 kilometers, but during the day, energy from the Sun ionizes more molecules and lowers the boundary of the ionosphere to a height of about 60 kilometers. The pulse of X-rays and gamma-rays produced about the same level of ionization as the daytime Sun. It also caused some sensitive satellites above the atmosphere to shut down their electronics.
+                  - paragraph [ref=f405e85]: Measurements by telescopes in space indicate that SGR 1806-20 was a special type of fast-spinning neutron star called a magnetar. Astronomers Robert Duncan and Christopher Thomson gave them this name because their magnetic fields are stronger than that of any other type of astronomical source, about 800 trillion times stronger than the magnetic field of Earth. A magnetar is thought to consist of a superdense core of neutrons surrounded by a rigid crust of atoms about a mile deep with a surface made of iron. The magnetar’s field is so strong that it creates huge stresses inside that can sometimes crack open the hard crust, causing a starquake. The vibrating crust produces an enormous blast of energy.
+                  - paragraph [ref=f405e86]: Fortunately, we were far enough away from magnetar SGR 1806-20 to be safe. Could a magnetar ever present a real danger to Earth? To produce enough energy to disrupt the ozone layer, a magnetar would have to be located within the cloud of comets that surround the Solar System, and we know no magnetars are that close. Nevertheless, it is a fascinating discovery that events on distant star corpses can have measurable effects on Earth.
+              - generic [ref=f403e324]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f403e326] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f403e104]:
+          - separator [ref=f403e105]
+          - paragraph [ref=f403e107]:
+            - text: This page titled
+            - 'link "13.4: Neutron Stars and Pulsars" [ref=f403e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.04%3A_Neutron_Stars_and_Pulsars
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f403e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f403e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f403e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f403e112]:
+        - list [ref=f403e113]:
+          - listitem [ref=f403e114]:
+            - link "Back to top" [ref=f403e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f403e116]:
+            - list [ref=f403e117]:
+              - listitem [ref=f403e118]:
+                - 'link " 13.3: Supernovae" [ref=f403e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.03%3A_Supernovae
+                  - text: 
+                  - generic [ref=f403e120]: "13.3: Supernovae"
+              - listitem [ref=f403e121]:
+                - 'link "13.5: Binary Star Systems " [ref=f403e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.05%3A_Binary_Star_Systems
+                  - generic [ref=f403e123]: "13.5: Binary Star Systems"
+                  - text: 
+        - list [ref=f403e126]:
+          - listitem [ref=f403e127]: Was this article helpful?
+          - listitem [ref=f403e128]:
+            - button "Yes" [ref=f403e129] [cursor=pointer]
+          - listitem [ref=f403e130]:
+            - button "No" [ref=f403e131] [cursor=pointer]
+          - listitem [ref=f403e132]:
+            - button "Leave feedback" [ref=f403e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , , , ,"
+        - generic [ref=f403e134]:
+          - heading "Attachments" [level=2] [ref=f403e135]
+          - generic:
+            - button "Attach a file" [ref=f403e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f403e138]:
+            - generic [ref=f403e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f403e142]
+            - generic [ref=f403e143]:
+              - grid [ref=f403e146]:
+                - rowgroup [ref=f403e147]:
+                  - row [ref=f403e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f403e149]':
+                      - generic:
+                        - generic [ref=f403e150]: File
+                        - generic [ref=f403e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f403e152]':
+                      - generic:
+                        - generic [ref=f403e153]: Last modified
+                        - generic [ref=f403e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f403e155]':
+                      - generic:
+                        - generic [ref=f403e156]: Size
+                        - generic [ref=f403e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f403e158]':
+                      - generic:
+                        - generic [ref=f403e159]: Added by
+                        - generic [ref=f403e160]: 
+              - grid [ref=f403e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f403e327]: File
+                          - generic [ref=f403e328]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f403e329]: Last modified
+                          - generic [ref=f403e330]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f403e331]: Size
+                          - generic [ref=f403e332]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f403e333]: Added by
+                          - generic [ref=f403e334]: 
+                - rowgroup [ref=f403e171]:
+                  - row [ref=f403e335]:
+                    - gridcell " Vela_pulsar_-_Chandra,_animation.gif (no description)" [ref=f403e336]:
+                      - generic [ref=f403e337]:
+                        - generic [ref=f403e338]:
+                          - generic [ref=f403e339]: 
+                          - link "Vela_pulsar_-_Chandra,_animation.gif" [ref=f403e340] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/67791/Vela_pulsar_-_Chandra%2C_animation.gif?origin=mt-web
+                          - text:   
+                        - generic [ref=f403e341]:
+                          - generic [ref=f403e342]: (no description)
+                          - text: 
+                    - gridcell "Jul 27, 2026, 3:57 PM" [ref=f403e343]
+                    - gridcell "812 KiB" [ref=f403e345]
+                    - gridcell "Rachel Mastrapa" [ref=f403e346]
+    - generic [ref=f403e175]:
+      - button "Open support menu" [ref=f403e177] [cursor=pointer]: "?"
+      - navigation [ref=f403e179]:
+        - paragraph [ref=f403e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f403e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f403e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f403e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f403e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f403e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f403e187]:
+      - generic:
+        - generic [ref=f403e189]:
+          - button "Annotation sidebar" [ref=f403e190]
+          - generic [ref=f403e195]:
+            - button "Show highlights" [ref=f403e196]
+            - button "New page note" [ref=f403e201]
+          - status [ref=f403e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f403e207]:
+    - button "contents" [ref=f403e208] [cursor=pointer]
+    - button "readability" [ref=f403e210] [cursor=pointer]
+    - button "resources" [ref=f403e212] [cursor=pointer]
+    - button "tools" [ref=f403e214] [cursor=pointer]
+    - button "developers" [ref=f403e216] [cursor=pointer]
+  - text:  
+  - generic [ref=f403e347]:
+    - generic [ref=f403e348] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f403e351] [cursor=pointer]

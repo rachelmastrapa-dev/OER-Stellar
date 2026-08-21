@@ -1,0 +1,502 @@
+- generic [ref=f151e1]:
+  - link "Skip to main content" [ref=f151e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f151e3]:
+    - text: 
+    - generic [ref=f151e4]:
+      - generic [ref=f151e5]:
+        - generic: ✕
+        - navigation [ref=f151e7]:
+          - generic [ref=f151e8]:
+            - link [ref=f151e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f151e11]
+            - button "Enter Reader Mode" [ref=f151e13] [cursor=pointer]:
+              - generic [ref=f151e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f151e16]:
+        - list [ref=f151e18]:
+          - listitem [ref=f151e19]:
+            - link [ref=f151e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f151e22]
+          - listitem [ref=f151e23]:
+            - text: 
+            - generic [ref=f151e25]:
+              - generic [ref=f151e26]: "Search :"
+              - searchbox "Search :" [ref=f151e27]
+              - button " Search" [ref=f151e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f151e29]:
+            - list [ref=f151e30]:
+              - listitem [ref=f151e31]:
+                - link "Edit" [ref=f151e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.04%3A_Radio_Telescopes?action=edit
+              - text: 
+              - listitem [ref=f151e33]:
+                - link " Options" [ref=f151e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f151e35]:
+                - link " Rachel Mastrapa" [ref=f151e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f151e37]:
+        - generic:
+          - button " Contents" [ref=f151e207] [cursor=pointer]
+          - list [ref=f151e39]:
+            - listitem [ref=f151e40]:
+              - link " Home" [ref=f151e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f151e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f151e43]:
+              - link " Workbench" [ref=f151e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f151e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f151e46]:
+              - link " De Anza - ASTR10" [ref=f151e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f151e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f151e49]:
+              - 'link " 5: Astronomical Instruments" [ref=f151e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments
+                - generic [ref=f151e51]: 
+                - text: "5: Astronomical Instruments"
+              - text: »
+            - listitem [ref=f151e52]:
+              - generic [ref=f151e53]: 
+              - text: "5.4: Radio Telescopes"
+          - button " Expand/collapse global location" [ref=f151e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                
+    - article [ref=f151e55]:
+      - generic [ref=f151e56]:
+        - generic [ref=f151e57]:
+          - button " Page settings" [ref=f151e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "5.4: Radio Telescopes" [level=1] [ref=f151e59]':
+          - generic [ref=f151e208]: "5.4: Radio Telescopes "
+        - list [ref=f151e62]:
+          - listitem [ref=f151e63]:
+            - link [ref=f151e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f151e66]:
+                - img "CC" [ref=f151e67]
+                - img "BY" [ref=f151e68]
+          - listitem [ref=f151e69]:
+            - generic [ref=f151e70]:
+              - term [ref=f151e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f151e72]: Aug 4, 2026, 3:13 PM by Jyothsna Viswanadha
+          - listitem [ref=f151e73]:
+            - generic [ref=f151e74]:
+              - term [ref=f151e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f151e76]: Private
+          - listitem [ref=f151e77]:
+            - generic [ref=f151e78]:
+              - term [ref=f151e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f151e80]: "132010"
+          - listitem [ref=f151e81]:
+            - list [ref=f151e82]:
+              - listitem [ref=f151e83]:
+                - button "Pin Page" [ref=f151e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f151e85]:
+                - list [ref=f151e86]:
+                  - listitem [ref=f151e87]:
+                    - 'link " 5.3: Capturing Light" [ref=f151e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.03%3A_Capturing_Light
+                      - text: 
+                      - generic [ref=f151e89]: "5.3: Capturing Light"
+                  - listitem [ref=f151e90]:
+                    - 'link "5.5: Spacecraft " [ref=f151e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.05%3A_Spacecraft
+                      - generic [ref=f151e92]: "5.5: Spacecraft"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f151e93]:
+        - group [ref=f151e212]:
+          - generic [ref=f151e213]:
+            - generic [ref=f151e214]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f151e215]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f151e216]:
+            - generic [ref=f151e219]:
+              - generic [ref=f151e220]:
+                - generic [ref=f151e221]:
+                  - link "Edit" [ref=f151e222]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f151e223]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f151e224]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f151e225]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f151e226]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f151e227]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f151e228]: "Words: 1755, Chars: 11498"
+              - group "Editor toolbars" [ref=f151e230]:
+                - toolbar [ref=f151e231]:
+                  - button "Save" [ref=f151e232]:
+                    - generic [ref=f151e233]: 
+                  - button "Cancel" [ref=f151e235]:
+                    - generic [ref=f151e236]: 
+                - toolbar [ref=f151e239]:
+                  - button "Undo" [disabled] [ref=f151e240]:
+                    - generic [ref=f151e241]: 
+                  - button "Redo" [disabled] [ref=f151e242]:
+                    - generic [ref=f151e243]: 
+                - toolbar [ref=f151e245]:
+                  - button "Headings" [ref=f151e246]
+                - toolbar [ref=f151e251]:
+                  - button "Bold" [ref=f151e252]:
+                    - generic [ref=f151e253]: 
+                  - button "Italic" [ref=f151e254]:
+                    - generic [ref=f151e255]: 
+                  - button "Underline" [ref=f151e256]:
+                    - generic [ref=f151e257]: 
+                - toolbar [ref=f151e259]:
+                  - button "Text color" [ref=f151e260]:
+                    - generic [ref=f151e261]: 
+                  - button "Background color" [ref=f151e263]:
+                    - generic [ref=f151e264]: 
+                - toolbar [ref=f151e267]:
+                  - button "Remove format" [ref=f151e268]:
+                    - generic [ref=f151e269]: 
+                - toolbar [ref=f151e271]:
+                  - button "Insert/Remove numbered list" [ref=f151e272]:
+                    - generic [ref=f151e273]: 
+                  - button "Insert/Remove bulleted list" [ref=f151e274]:
+                    - generic [ref=f151e275]: 
+                - toolbar [ref=f151e277]:
+                  - button "Alignment" [ref=f151e278]:
+                    - generic [ref=f151e279]: 
+                - text: 
+                - toolbar [ref=f151e282]:
+                  - button "Link" [ref=f151e283]:
+                    - generic [ref=f151e284]: 
+                  - button "Image" [ref=f151e285]:
+                    - generic [ref=f151e286]: 
+                  - text: 
+                  - button "Boxes" [ref=f151e287]
+                - toolbar [ref=f151e292]:
+                  - button "Replace" [ref=f151e293]:
+                    - generic [ref=f151e294]: 
+                - toolbar [ref=f151e296]:
+                  - button "Enable Binder" [ref=f151e297]
+                  - button "Insert Adapt" [ref=f151e299]
+                  - button "Query" [ref=f151e301]
+                  - button "Accessibility Checker" [ref=f151e304]
+                - toolbar [ref=f151e307]:
+                  - button "HTML" [ref=f151e308]:
+                    - generic [ref=f151e309]: 
+            - application "Rich Text Editor, editarea" [ref=f151e311]:
+              - iframe [active] [ref=f151e312]:
+                - generic [active] [ref=f153e1]:
+                  - heading "Radio Astronomy" [level=2] [ref=f153e2]
+                  - paragraph [ref=f153e3]: "Some objects in the universe give off light in the form of radio waves. In the early 1930s, Karl G. Jansky was experimenting with antennas for long-range radio communication when he encountered some mysterious static, Figure \\(\\PageIndex{1}\\). He discovered that this radiation came in strongest about four minutes earlier on each successive day. He correctly concluded that since Earth’s rotation relative to the stars is four minutes shorter than a solar day, the radiation source must originate from outside our solar system, tracking with the stars rather than the Sun. He concluded that the radio waves must be originating from a specific location in space. Subsequent investigation showed that the source of this radiation was part of the Milky Way Galaxy. Jansky had discovered the first source of cosmic radio waves."
+                  - figure [ref=f153e4]:
+                    - img "Karl Jansky and radio antenna. Details in caption." [ref=f153e5]
+                    - generic [ref=f153e6]:
+                      - text: "Figure \\(\\PageIndex{1}\\): First Radio Telescope. This rotating radio antenna was used by Jansky in his discovery of radio radiation from the Milky Way. ("
+                      - link "CC BY 4.0" [ref=f153e7]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f153e8]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f153e9]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: ).
+                      - 'link "Alternative description of Figure \\(\\PageIndex{1}\\)" [ref=f153e10]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.08:_Accessible_Descriptions#Figure_5.4.1_First_Radio_Telescope
+                      - text: .
+                  - paragraph [ref=f153e11]: In 1936, Grote Reber, who was an amateur astronomer interested in radio communications, used galvanized iron and wood to build the first antenna specifically designed to receive cosmic radio waves. Over the years, Reber built several such antennas and used them to carry out pioneering surveys of the sky for celestial radio sources. He remained active in radio astronomy for more than 30 years. During the first decade, he worked practically alone because professional astronomers had not yet recognized the vast potential of radio astronomy.
+                  - heading "Radio Receivers" [level=2] [ref=f153e12]
+                  - paragraph [ref=f153e13]: Like visible light, radio waves are a form of electromagnetic radiation, but we cannot detect radio waves with our senses. Instead, we must rely on electronic equipment to receive the radio waves. In commercial radio broadcasting, we encode sound information into radio waves. These must be decoded at the other end and then turned back into sound by speakers or headphones. If cosmic radio signals were translated into sound, they would sound like static. Nevertheless, there is information in the radio waves that can tell us about the chemistry and physical conditions of the sources of the waves.
+                  - paragraph [ref=f153e14]: "Just as vibrating charged particles can produce electromagnetic waves, electromagnetic waves can make charged particles move back and forth. Radio waves can produce a current in conductors of electricity such as metals. An antenna is such a conductor: it intercepts radio waves, which create a feeble current in it. The current is then amplified in a radio receiver until it is strong enough to measure or record. Like your television or radio, receivers can be tuned to select a single frequency. In astronomy, however, it is more common to use sophisticated data-processing techniques that allow thousands of separate frequency bands to be detected simultaneously. Thus, the astronomical radio receiver operates much like a spectrometer on a visible-light or infrared telescope, providing information about how much radiation we receive at each wavelength or frequency. After computer processing, the radio signals are recorded for future analysis."
+                  - paragraph [ref=f153e15]: "Radio waves are reflected by conducting surfaces, just as light is reflected from a shiny metallic surface. A radio-reflecting telescope consists of a concave metal reflector, or dish, similar to a telescope mirror. The radio waves collected by the dish are reflected to a focus, where they can then be directed to a receiver and analyzed. Radio astronomers construct a pictorial representation of the radio sources they observe. In a radio image of a distant galaxy, the radio telescopes reveal vast jets and complicated regions of radio emissions that are completely invisible in photographs taken with visible light, Figure \\(\\PageIndex{2}\\)."
+                  - figure [ref=f153e16]:
+                    - img "Radio image of Galaxy Cygnus A. Details in caption." [ref=f153e17]
+                    - generic [ref=f153e18]:
+                      - text: "Figure \\(\\PageIndex{2}\\): This image has been constructed of radio observations at the Very Large Array of a galaxy called Cygnus A. The galaxy would be a small dot in the center of the image. ("
+                      - link "CC BY 4.0" [ref=f153e19]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f153e20]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f153e21]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: ).
+                      - 'link "Alternative description of Figure \\(\\PageIndex{2}\\)" [ref=f153e22]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.08:_Accessible_Descriptions#Figure_5.4.2__Radio_Image_of_Cygnus_A
+                      - text: .
+                  - paragraph [ref=f153e23]:
+                    - text: Radio astronomy is a young field compared with visible-light astronomy, but it has experienced tremendous growth in recent decades, represented in this
+                    - link "list of radio observatories" [ref=f153e24]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/18:_Appendices/18.02:_Tables#Radio+Telescopes
+                    - text: . The world’s largest radio reflectors that can be pointed to any direction in the sky have apertures of 100 meters. One of these has been built at the National Radio Astronomy Observatory in West Virginia.
+                  - heading "Radio Interferometry" [level=2] [ref=f153e25]
+                  - paragraph [ref=f153e26]:
+                    - text: A telescope’s resolution depends upon its aperture, but it also depends upon the wavelength of the light that the telescope is gathering. The longer the waves, the harder it is to resolve fine detail in images. Because radio waves have such long wavelengths, they present challenges for astronomers who need good resolution. In fact, even the largest radio dishes on Earth, cannot make out as much detail as the typical small telescope used in a college astronomy lab. To overcome this difficulty, radio astronomers have learned to sharpen their images by linking two or more radio telescopes together electronically. Two or more telescopes linked together in this way are called an
+                    - link [ref=f153e27]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.07:_Key_Terms#interferometer
+                      - strong [ref=f153e28]: interferometer
+                    - text: .
+                  - paragraph [ref=f153e29]:
+                    - link [ref=f153e30]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.07:_Key_Terms#interference
+                      - strong [ref=f153e31]: Interference
+                    - text: is the way that multiple waves interact with each other when they arrive in an instrument. This interaction allows astronomers to find more detail in the observations. The resolution of an interferometer depends upon the separation of the telescopes, not upon their individual apertures. Two telescopes separated by 1 kilometer provide the same resolution as would a single dish 1 kilometer across.
+                  - paragraph [ref=f153e32]:
+                    - text: To get even better resolution, astronomers combine a large number of radio dishes into an
+                    - link [ref=f153e33]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.07:_Key_Terms#interferometer+array
+                      - strong [ref=f153e34]: interferometer array
+                    - text: . Computer processing of the results permits the reconstruction of a high-resolution radio image. The largest interferometer in the United States is the National Radio Astronomy Observatory’s Jansky Very Large Array (VLA) near Socorro, New Mexico. It consists of 27 movable radio telescopes, each having an aperture of 25 meters, spread over a total span of about 36 kilometers, achieving a resolution of about 1 arcsecond.
+                  - paragraph [ref=f153e35]: "The Atacama Large Millimeter/submillimeter array (ALMA) in the Atacama Desert of Northern Chile, Figure \\(\\PageIndex{3}\\), at an altitude of 16,400 feet, consists of 12 7-meter and 54 12-meter telescopes, and can achieve baselines up to 16 kilometers. Since it became operational in 2013, it has made observations at resolutions down to 6 milliarcseconds (0.006 arcseconds), a remarkable achievement for radio astronomy."
+                  - figure [ref=f153e36]:
+                    - img "Atacama Large Millimeter/Submillimeter Array (ALMA). Details in caption." [ref=f153e37]
+                    - generic [ref=f153e38]:
+                      - text: "Figure \\(\\PageIndex{3}\\): Located in the Atacama Desert of Northern Chile, ALMA is made up of multiple radio dishes spread over a large area and currently provides the highest resolution for radio observations. ("
+                      - link "CC BY 4.0" [ref=f153e39]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f153e40]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f153e41]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: ).
+                      - 'link "Alternative description of Figure \\(\\PageIndex{3}\\)" [ref=f153e42]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.08:_Accessible_Descriptions#Figure_5.4.3__Atacama_Large_Millimeter.2FSubmillimeter_Array_(ALMA)
+                      - text: .
+                  - paragraph [ref=f153e43]: "Initially, the size of interferometer arrays was limited by the requirement that all of the dishes be physically wired together. Astronomers, with the use of current technology and computing power, have learned to time the arrival of electromagnetic waves coming from space very precisely at each telescope and combine the data later. The United States operates the Very Long Baseline Array (VLBA), made up of 10 individual telescopes stretching from the Virgin Islands to Hawaii, Figure \\(\\PageIndex{3}\\). The VLBA, completed in 1993, can form astronomical images with a resolution of 0.0001 arcseconds, permitting features as small as 10 astronomical units to be distinguished at the center of our Galaxy."
+                  - figure [ref=f153e44]:
+                    - img "VLBA dishes on Earth. Details in caption." [ref=f153e45]
+                    - generic [ref=f153e46]:
+                      - text: "Figure \\(\\PageIndex{4}\\): Very Long Baseline Array. This map shows the distribution of 10 antennas that constitute an array of radio telescopes. There are 8 dishes in the continental United States along with one in Hawaii and one in Puerto Rico. ("
+                      - link "CC BY 4.0" [ref=f153e47]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f153e48]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f153e49]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: ).
+                  - paragraph [ref=f153e50]:
+                    - text: Recent advances in technology have also made it possible to do interferometry at visible and infrared wavelengths, represented in this
+                    - link "list of visible interferometers" [ref=f153e51]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/18:_Appendices/18.02:_Tables#Visible+Interferometers
+                    - text: . At the beginning of the twenty-first century, three observatories with multiple telescopes each began using their dishes as interferometers, combining their light to obtain a much greater resolution. In addition, a dedicated interferometric array was built on Mt. Wilson in California. Just as in radio arrays, these observations allow astronomers to make out more detail than a single telescope could provide.
+                  - heading "Radar Astronomy" [level=2] [ref=f153e52]
+                  - paragraph [ref=f153e53]:
+                    - link "Radar" [ref=f153e54]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.07:_Key_Terms#radar
+                    - text: is the technique of transmitting radio waves to an object in our Solar System and then detecting the light that the object reflects back. The time required for the round trip can be measured electronically with great precision. Because we know that radio waves travel at the speed of light, we can determine the distance to the object or a particular feature on its surface. Radar observations have been used to determine the distances to planets and how fast things are moving in the Solar System. Radar waves have played important roles in navigating spacecraft throughout the solar system. In addition, radar observations have determined the rotation periods of Venus and Mercury, probed tiny Earth-approaching asteroids, and allowed us to investigate the mountains and valleys on the surfaces of Mercury, Venus, Mars, and the large moons of Jupiter.
+                  - paragraph [ref=f153e55]: "Any radio dish can be used as a radar telescope if it is equipped with a powerful transmitter as well as a receiver. For many years, the most spectacular facility in the world for radar astronomy was the 1000-foot (305-meter) telescope at Arecibo in Puerto Rico, Figure \\(\\PageIndex{5}\\). The Arecibo telescope was too large to be pointed directly at different parts of the sky. Instead, it was constructed in a huge natural bowl formed by several hills, and it was lined with reflecting metal panels. A limited ability to track astronomical sources was achieved by moving the receiver system, which was suspended on cables 100 meters above the surface of the bowl. Unfortunately, the telescope was seriously damaged in the powerful storms of 2020 and had to be decommissioned. An even larger (500-meter) radar telescope has recently gone into operation in China and is called the Five-hundred-meter Aperture Spherical Telescope (FAST)."
+                  - figure [ref=f153e56]:
+                    - img "Arecibo Radar Observatory and Dish. Details in caption." [ref=f153e57]
+                    - generic [ref=f153e58]:
+                      - text: "Figure \\(\\PageIndex{5}\\): The Arecibo Observatory in Puerto Rico was the largest and most powerful astronomical radar facility in the world and was often featured in films. ("
+                      - link "CC BY 4.0" [ref=f153e59]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f153e60]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f153e61]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: ).
+                  - generic [ref=f153e62]:
+                    - 'heading "Further Exploration: Interactive Activity" [level=5] [ref=f153e63]'
+                    - list [ref=f153e65]:
+                      - listitem [ref=f153e66]:
+                        - text: Explore the
+                        - link "National Radio Astronomy" [ref=f153e67]:
+                          - /url: https://public.nrao.edu/
+                        - text: Observatory website to learn how radio telescopes detect radio waves from space and support astronomical research across the electromagnetic spectrum.
+                      - listitem [ref=f153e68]:
+                        - text: Learn about the history and scientific discoveries of the
+                        - link "Arecibo Observatory" [ref=f153e69]:
+                          - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.08:_Accessible_Descriptions
+                        - text: ", once the world's largest single-dish radio telescope and a leading center for radar astronomy."
+                      - listitem [ref=f153e70]:
+                        - text: Explore the
+                        - link "Very Long Baseline Array" [ref=f153e71]:
+                          - /url: https://public.nrao.edu/telescopes/vlba/
+                        - text: to discover how widely separated radio telescopes work together as an interferometer to produce extremely high-resolution images.
+                      - listitem [ref=f153e72]:
+                        - text: Watch
+                        - emphasis [ref=f153e73]:
+                          - text: "ALMA:"
+                          - link "In Search of Our Cosmic Origins" [ref=f153e74]:
+                            - /url: https://www.almaobservatory.org/en/videos/alma-in-search-of-our-cosmic-origins/
+                        - text: to learn how ALMA studies cold gas and dust to investigate the formation of stars, planets, and galaxies.
+                      - listitem [ref=f153e75]:
+                        - text: Explore the
+                        - link "Five-hundred-meter Aperture Spherical Telescope (FAST)" [ref=f153e76]:
+                          - /url: https://english.nao.cas.cn/research/researchdivisions/radioastronomy/202103/t20210323_266393.html
+                        - text: to learn how the world's largest filled-aperture radio telescope is used to study pulsars, galaxies, and the radio universe.
+              - generic [ref=f151e313]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f151e315] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f151e95]:
+          - separator [ref=f151e96]
+          - paragraph [ref=f151e98]:
+            - 'link "5.4: Radio Telescopes" [ref=f151e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.04%3A_Radio_Telescopes
+            - text: is shared under a
+            - link "CC BY" [ref=f151e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f151e101]:
+        - list [ref=f151e102]:
+          - listitem [ref=f151e103]:
+            - link "Back to top" [ref=f151e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f151e105]:
+            - list [ref=f151e106]:
+              - listitem [ref=f151e107]:
+                - 'link " 5.3: Capturing Light" [ref=f151e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.03%3A_Capturing_Light
+                  - text: 
+                  - generic [ref=f151e109]: "5.3: Capturing Light"
+              - listitem [ref=f151e110]:
+                - 'link "5.5: Spacecraft " [ref=f151e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.05%3A_Spacecraft
+                  - generic [ref=f151e112]: "5.5: Spacecraft"
+                  - text: 
+        - list [ref=f151e115]:
+          - listitem [ref=f151e116]: Was this article helpful?
+          - listitem [ref=f151e117]:
+            - button "Yes" [ref=f151e118] [cursor=pointer]
+          - listitem [ref=f151e119]:
+            - button "No" [ref=f151e120] [cursor=pointer]
+          - listitem [ref=f151e121]:
+            - button "Leave feedback" [ref=f151e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f151e123]:
+          - heading "Attachments" [level=2] [ref=f151e124]
+          - generic:
+            - button "Attach a file" [ref=f151e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f151e127]:
+            - generic [ref=f151e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f151e131]
+            - generic [ref=f151e132]:
+              - grid [ref=f151e135]:
+                - rowgroup [ref=f151e136]:
+                  - row [ref=f151e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f151e138]':
+                      - generic:
+                        - generic [ref=f151e139]: File
+                        - generic [ref=f151e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f151e141]':
+                      - generic:
+                        - generic [ref=f151e142]: Last modified
+                        - generic [ref=f151e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f151e144]':
+                      - generic:
+                        - generic [ref=f151e145]: Size
+                        - generic [ref=f151e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f151e147]':
+                      - generic:
+                        - generic [ref=f151e148]: Added by
+                        - generic [ref=f151e149]: 
+              - grid [ref=f151e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f151e316]: File
+                          - generic [ref=f151e317]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f151e318]: Last modified
+                          - generic [ref=f151e319]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f151e320]: Size
+                          - generic [ref=f151e321]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f151e322]: Added by
+                          - generic [ref=f151e323]: 
+                - rowgroup [ref=f151e160]:
+                  - row [ref=f151e324]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f151e325]:
+                      - generic [ref=f151e326]:
+                        - generic [ref=f151e327]:
+                          - generic [ref=f151e328]: 
+                          - link "mindtouch.page#thumbnail" [ref=f151e329] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63429/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f151e330]:
+                          - generic [ref=f151e331]: (no description)
+                          - text: 
+                    - gridcell "Dec 7, 2025, 6:55 PM" [ref=f151e332]
+                    - gridcell "11 KiB" [ref=f151e334]
+                    - gridcell "Rachel Mastrapa" [ref=f151e335]
+    - generic [ref=f151e164]:
+      - button "Open support menu" [ref=f151e166] [cursor=pointer]: "?"
+      - navigation [ref=f151e168]:
+        - paragraph [ref=f151e170]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f151e171] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f151e172] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f151e173] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f151e174] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f151e175] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f151e176]:
+      - generic:
+        - generic [ref=f151e178]:
+          - button "Annotation sidebar" [ref=f151e179]
+          - generic [ref=f151e184]:
+            - button "Show highlights" [ref=f151e185]
+            - button "New page note" [ref=f151e190]
+          - status [ref=f151e195]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f151e196]:
+    - button "contents" [ref=f151e197] [cursor=pointer]
+    - button "readability" [ref=f151e199] [cursor=pointer]
+    - button "resources" [ref=f151e201] [cursor=pointer]
+    - button "tools" [ref=f151e203] [cursor=pointer]
+    - button "developers" [ref=f151e205] [cursor=pointer]
+  - text:  
+  - generic [ref=f151e336]:
+    - generic [ref=f151e337] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f151e340] [cursor=pointer]

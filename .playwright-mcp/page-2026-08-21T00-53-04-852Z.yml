@@ -1,0 +1,235 @@
+- generic [ref=f67e1]:
+  - link "Skip to main content" [ref=f67e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f67e3]:
+    - text: 
+    - generic [ref=f67e4]:
+      - generic [ref=f67e5]:
+        - generic: ✕
+        - navigation [ref=f67e7]:
+          - generic [ref=f67e8]:
+            - link [ref=f67e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f67e11]
+            - button "Enter Reader Mode" [ref=f67e13] [cursor=pointer]:
+              - generic [ref=f67e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f67e16]:
+        - list [ref=f67e18]:
+          - listitem [ref=f67e19]:
+            - link [ref=f67e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f67e22]
+          - listitem [ref=f67e23]:
+            - text: 
+            - generic [ref=f67e25]:
+              - generic [ref=f67e26]: "Search :"
+              - searchbox "Search :" [ref=f67e27]
+              - button " Search" [ref=f67e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f67e29]:
+            - list [ref=f67e30]:
+              - listitem [ref=f67e31]:
+                - link "Edit" [ref=f67e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light?action=edit
+              - text: 
+              - listitem [ref=f67e33]:
+                - link " Options" [ref=f67e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f67e35]:
+                - link " Rachel Mastrapa" [ref=f67e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f67e37]:
+        - generic:
+          - button " Contents" [ref=f67e151] [cursor=pointer]
+          - list [ref=f67e39]:
+            - listitem [ref=f67e40]:
+              - link " Home" [ref=f67e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f67e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f67e43]:
+              - link " Workbench" [ref=f67e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f67e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f67e46]:
+              - link " De Anza - ASTR10" [ref=f67e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f67e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f67e49]:
+              - generic [ref=f67e50]: 
+              - text: "3: Stars and Light"
+          - text: 
+      - navigation:
+        - generic:                                               
+    - article [ref=f67e51]:
+      - generic [ref=f67e52]:
+        - generic [ref=f67e53]:
+          - button " Page settings" [ref=f67e54] [cursor=pointer]
+          - text: "    : :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "3: Stars and Light" [level=1] [ref=f67e55]':
+          - generic [ref=f67e152]: "3: Stars and Light "
+        - list [ref=f67e58]:
+          - listitem [ref=f67e59]:
+            - link [ref=f67e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f67e62]:
+                - img "CC" [ref=f67e63]
+                - img "BY" [ref=f67e64]
+          - listitem [ref=f67e65]:
+            - generic [ref=f67e66]:
+              - term [ref=f67e67]: "Last updated:"
+              - definition [ref=f67e68]: Jan 26, 2026, 5:43 PM by Rachel Mastrapa
+          - listitem [ref=f67e69]:
+            - generic [ref=f67e70]:
+              - term [ref=f67e71]: "Page restriction:"
+              - definition [ref=f67e72]: Private
+          - listitem [ref=f67e73]:
+            - generic [ref=f67e74]:
+              - term [ref=f67e75]: "Page ID:"
+              - definition [ref=f67e76]: "115276"
+          - listitem [ref=f67e77]:
+            - list [ref=f67e78]:
+              - listitem [ref=f67e79]:
+                - button "Pin Page" [ref=f67e80] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f67e81]:
+                - list [ref=f67e82]:
+                  - listitem [ref=f67e83]:
+                    - 'link " 2.10: Accessible Descriptions" [ref=f67e84] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.10%3A_Accessible_Descriptions
+                      - text: 
+                      - generic [ref=f67e85]: "2.10: Accessible Descriptions"
+                  - listitem [ref=f67e86]:
+                    - 'link "3.1: Properties of Light " [ref=f67e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.01%3A_Properties_of_Light
+                      - generic [ref=f67e88]: "3.1: Properties of Light"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f67e89]:
+        - group [ref=f67e156]:
+          - generic [ref=f67e157]:
+            - generic [ref=f67e158]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f67e159]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f67e160]:
+            - generic [ref=f67e163]:
+              - generic [ref=f67e165]:
+                - link "Edit" [ref=f67e166]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f67e167]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f67e168]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f67e169]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f67e170]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f67e171]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f67e174]:
+                - toolbar [ref=f67e175]:
+                  - button "Save" [ref=f67e176]:
+                    - generic [ref=f67e177]: 
+                  - button "Cancel" [ref=f67e179]:
+                    - generic [ref=f67e180]: 
+                - text:          
+                - toolbar [ref=f67e221]:
+                  - button "Alignment" [ref=f67e222]:
+                    - generic [ref=f67e223]: 
+                - text:    
+                - toolbar [ref=f67e236]:
+                  - button "Replace" [ref=f67e237]:
+                    - generic [ref=f67e238]: 
+                - toolbar [ref=f67e240]:
+                  - button "Enable Binder" [disabled] [ref=f67e241]
+                  - button "Insert Adapt" [disabled] [ref=f67e243]
+                  - button "Query" [ref=f67e245]
+                  - button "Accessibility Checker" [disabled] [ref=f67e248]
+                - toolbar [ref=f67e251]:
+                  - button "Visual" [pressed] [ref=f67e267]:
+                    - generic [ref=f67e253]: 
+            - application "Rich Text Editor, editarea" [ref=f67e255]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f67e269]: "<h2>Page Title&nbsp;</h2> <p>Coded into the light is a wide range of information about what stars are like and how they work. If we can decipher this code and read the messages it contains, we can learn an enormous amount about the cosmos without ever having to leave Earth.</p> <section class=\"box-objectives\"> <h5 class=\"box-legend\"><span class=\"lt-icon-default\">Learning Objectives</span></h5> <p>By the end of this section, you will be able to:</p> <ul> <li>Explain the evidence for Maxwell’s electromagnetic model of light</li> <li>Describe the relationship between wavelength, frequency, and speed of light</li> <li>Discuss the particle model of light and the definition of photon</li> <li>Explain how and why the amount of light we see from an object depends upon its distance</li> <li>Explain the difference between luminosity and apparent brightness</li> <li>Understand how astronomers specify brightness with magnitudes</li> <li>Understand the bands of the electromagnetic spectrum and how they differ from one another</li> <li>Understand how each part of the spectrum interacts with Earth’s atmosphere</li> <li>Explain how and why the light emitted by an object depends on its temperature</li> <li>Compare the relative temperatures of stars based on their colors</li> <li>Understand how astronomers use color indexes to measure the temperatures of stars</li> </ul> </section> <p><span class=\"mt-bgcolor-e74c3c\">Reduce Number of learning objectives</span></p> <p>&nbsp;</p> <p>{{template.ShowOrg()}}</p> <p><span class=\"mt-bgcolor-e74c3c\">Thumbnail</span></p>"
+              - generic [ref=f67e257]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f67e259] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f67e91]:
+          - separator [ref=f67e92]
+          - paragraph [ref=f67e94]:
+            - 'link "3: Stars and Light" [ref=f67e95] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light
+            - text: is shared under a
+            - link "CC BY" [ref=f67e96] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f67e97]:
+        - list [ref=f67e98]:
+          - listitem: 
+          - listitem [ref=f67e99]:
+            - list [ref=f67e100]:
+              - listitem [ref=f67e101]:
+                - 'link " 2.10: Accessible Descriptions" [ref=f67e102] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.10%3A_Accessible_Descriptions
+                  - text: 
+                  - generic [ref=f67e103]: "2.10: Accessible Descriptions"
+              - listitem [ref=f67e104]:
+                - 'link "3.1: Properties of Light " [ref=f67e105] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.01%3A_Properties_of_Light
+                  - generic [ref=f67e106]: "3.1: Properties of Light"
+                  - text: 
+        - generic:   
+        - text: "     : : : :              "
+    - generic [ref=f67e108]:
+      - button "Open support menu" [ref=f67e110] [cursor=pointer]: "?"
+      - navigation [ref=f67e112]:
+        - paragraph [ref=f67e114]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f67e115] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f67e116] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f67e117] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f67e118] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f67e119] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f67e120]:
+      - generic:
+        - generic [ref=f67e122]:
+          - button "Annotation sidebar" [ref=f67e123]
+          - generic [ref=f67e128]:
+            - button "Show highlights" [ref=f67e129]
+            - button "New page note" [ref=f67e134]
+          - status [ref=f67e139]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f67e140]:
+    - button "contents" [ref=f67e141] [cursor=pointer]
+    - button "readability" [ref=f67e143] [cursor=pointer]
+    - button "resources" [ref=f67e145] [cursor=pointer]
+    - button "tools" [ref=f67e147] [cursor=pointer]
+    - button "developers" [ref=f67e149] [cursor=pointer]
+  - text:  
+  - generic [ref=f67e260]:
+    - generic [ref=f67e261] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f67e264] [cursor=pointer]

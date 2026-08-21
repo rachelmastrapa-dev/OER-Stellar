@@ -1,0 +1,661 @@
+- generic [ref=f283e1]:
+  - link "Skip to main content" [ref=f283e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f283e3]:
+    - text: 
+    - generic [ref=f283e4]:
+      - generic [ref=f283e5]:
+        - generic: ✕
+        - navigation [ref=f283e7]:
+          - generic [ref=f283e8]:
+            - link [ref=f283e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f283e11]
+            - button "Enter Reader Mode" [ref=f283e13] [cursor=pointer]:
+              - generic [ref=f283e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f283e16]:
+        - list [ref=f283e18]:
+          - listitem [ref=f283e19]:
+            - link [ref=f283e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f283e22]
+          - listitem [ref=f283e23]:
+            - text: 
+            - generic [ref=f283e25]:
+              - generic [ref=f283e26]: "Search :"
+              - searchbox "Search :" [ref=f283e27]
+              - button " Search" [ref=f283e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f283e29]:
+            - list [ref=f283e30]:
+              - listitem [ref=f283e31]:
+                - link "Edit" [ref=f283e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.05%3A_The_H-R_Diagram?action=edit
+              - text: 
+              - listitem [ref=f283e33]:
+                - link " Options" [ref=f283e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f283e35]:
+                - link " Rachel Mastrapa" [ref=f283e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f283e37]:
+        - generic:
+          - button " Contents" [ref=f283e216] [cursor=pointer]
+          - list [ref=f283e39]:
+            - listitem [ref=f283e40]:
+              - link " Home" [ref=f283e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f283e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f283e43]:
+              - link " Workbench" [ref=f283e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f283e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f283e46]:
+              - link " De Anza - ASTR10" [ref=f283e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f283e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f283e49]:
+              - 'link " 9: Celestial Census" [ref=f283e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census
+                - generic [ref=f283e51]: 
+                - text: "9: Celestial Census"
+              - text: »
+            - listitem [ref=f283e52]:
+              - generic [ref=f283e53]: 
+              - text: "9.5: The H-R Diagram"
+          - text: 
+      - navigation:
+        - generic:                                                
+    - article [ref=f283e54]:
+      - generic [ref=f283e55]:
+        - generic [ref=f283e56]:
+          - button " Page settings" [ref=f283e57] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "9.5: The H-R Diagram" [level=1] [ref=f283e58]':
+          - generic [ref=f283e59]: "9.5: The H-R Diagram "
+        - list [ref=f283e61]:
+          - listitem [ref=f283e62]:
+            - link [ref=f283e64] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f283e65]:
+                - img "CC" [ref=f283e66]
+                - img "BY" [ref=f283e67]
+          - listitem [ref=f283e68]:
+            - generic [ref=f283e69]:
+              - term [ref=f283e70] [cursor=pointer]: "Last updated:"
+              - definition [ref=f283e71]: Dec 28, 2025, 7:26 PM by Rachel Mastrapa
+          - listitem [ref=f283e72]:
+            - generic [ref=f283e73]:
+              - term [ref=f283e74] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f283e75]: Private
+          - listitem [ref=f283e76]:
+            - generic [ref=f283e77]:
+              - term [ref=f283e78] [cursor=pointer]: "Page ID:"
+              - definition [ref=f283e79]: "132350"
+          - listitem [ref=f283e80]:
+            - list [ref=f283e81]:
+              - listitem [ref=f283e82]:
+                - button "Pin Page" [ref=f283e83] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f283e84]:
+                - list [ref=f283e85]:
+                  - listitem [ref=f283e86]:
+                    - 'link " 9.4: Diameters of Stars" [ref=f283e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.04%3A_Diameters_of_Stars
+                      - text: 
+                      - generic [ref=f283e88]: "9.4: Diameters of Stars"
+                  - listitem [ref=f283e89]:
+                    - 'link "9.6: The Red Sky Paradox " [ref=f283e90] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.06%3A_The_Red_Sky_Paradox
+                      - generic [ref=f283e91]: "9.6: The Red Sky Paradox"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f283e92]:
+        - group [ref=f283e219]:
+          - generic [ref=f283e220]:
+            - generic [ref=f283e221]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f283e222]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f283e223]:
+            - generic [ref=f283e226]:
+              - generic [ref=f283e227]:
+                - generic [ref=f283e228]:
+                  - link "Edit" [ref=f283e229]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f283e230]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f283e231]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f283e232]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f283e233]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f283e234]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f283e235]: "Words: 4511, Chars: 26823"
+              - group "Editor toolbars" [ref=f283e237]:
+                - toolbar [ref=f283e238]:
+                  - button "Save" [ref=f283e239]:
+                    - generic [ref=f283e240]: 
+                  - button "Cancel" [ref=f283e242]:
+                    - generic [ref=f283e243]: 
+                - toolbar [ref=f283e246]:
+                  - button "Undo" [disabled] [ref=f283e247]:
+                    - generic [ref=f283e248]: 
+                  - button "Redo" [disabled] [ref=f283e249]:
+                    - generic [ref=f283e250]: 
+                - toolbar [ref=f283e252]:
+                  - button "Headings" [ref=f283e253]
+                - toolbar [ref=f283e258]:
+                  - button "Bold" [ref=f283e259]:
+                    - generic [ref=f283e260]: 
+                  - button "Italic" [ref=f283e261]:
+                    - generic [ref=f283e262]: 
+                  - button "Underline" [ref=f283e263]:
+                    - generic [ref=f283e264]: 
+                - toolbar [ref=f283e266]:
+                  - button "Text color" [ref=f283e267]:
+                    - generic [ref=f283e268]: 
+                  - button "Background color" [ref=f283e270]:
+                    - generic [ref=f283e271]: 
+                - toolbar [ref=f283e274]:
+                  - button "Remove format" [ref=f283e275]:
+                    - generic [ref=f283e276]: 
+                - toolbar [ref=f283e278]:
+                  - button "Insert/Remove numbered list" [ref=f283e279]:
+                    - generic [ref=f283e280]: 
+                  - button "Insert/Remove bulleted list" [ref=f283e281]:
+                    - generic [ref=f283e282]: 
+                - toolbar [ref=f283e284]:
+                  - button "Alignment" [ref=f283e285]:
+                    - generic [ref=f283e286]: 
+                - text: 
+                - toolbar [ref=f283e289]:
+                  - button "Link" [ref=f283e290]:
+                    - generic [ref=f283e291]: 
+                  - button "Image" [ref=f283e292]:
+                    - generic [ref=f283e293]: 
+                  - text: 
+                  - button "Boxes" [ref=f283e294]
+                - toolbar [ref=f283e299]:
+                  - button "Replace" [ref=f283e300]:
+                    - generic [ref=f283e301]: 
+                - toolbar [ref=f283e303]:
+                  - button "Enable Binder" [ref=f283e304]
+                  - button "Insert Adapt" [ref=f283e306]
+                  - button "Query" [ref=f283e308]
+                  - button "Accessibility Checker" [ref=f283e311]
+                - toolbar [ref=f283e314]:
+                  - button "HTML" [ref=f283e315]:
+                    - generic [ref=f283e316]: 
+            - application "Rich Text Editor, editarea" [ref=f283e318]:
+              - iframe [active] [ref=f283e319]:
+                - generic [active] [ref=f285e1]:
+                  - heading "Comparing the Properties of Stars" [level=2] [ref=f285e2]
+                  - paragraph [ref=f285e3]: In this chapter and Analyzing Starlight, we described some of the characteristics by which we might classify stars and how those are measured. These ideas are summarized in Table 18.2. We have also given an example of a relationship between two of these characteristics in the mass-luminosity relation. When the characteristics of large numbers of stars were measured at the beginning of the twentieth century, astronomers were able to begin a deeper search for patterns and relationships in these data.
+                  - table [ref=f285e4]:
+                    - caption [ref=f285e5]: "Table 18.2: Measuring the Characteristics of Stars"
+                    - rowgroup [ref=f285e6]:
+                      - row [ref=f285e7]:
+                        - columnheader "Characteristic" [ref=f285e8]
+                        - columnheader "Technique" [ref=f285e9]
+                    - rowgroup [ref=f285e10]:
+                      - row [ref=f285e11]:
+                        - cell "Surface temperature" [ref=f285e12]
+                        - cell [ref=f285e13]:
+                          - paragraph [ref=f285e14]: 1. Determine the color (very rough).
+                          - paragraph [ref=f285e15]: 2. Measure the spectrum and get the spectral type.
+                      - row [ref=f285e16]:
+                        - cell "Chemical composition" [ref=f285e17]
+                        - cell "Determine which lines are present in the spectrum." [ref=f285e18]
+                      - row [ref=f285e19]:
+                        - cell "Luminosity" [ref=f285e20]
+                        - cell "Measure the apparent brightness and compensate for distance." [ref=f285e21]
+                      - row [ref=f285e22]:
+                        - cell "Radial velocity" [ref=f285e23]
+                        - cell "Measure the Doppler shift in the spectrum." [ref=f285e24]
+                      - row [ref=f285e25]:
+                        - cell "Rotation" [ref=f285e26]
+                        - cell "Measure the width of spectral lines." [ref=f285e27]
+                      - row [ref=f285e28]:
+                        - cell "Mass" [ref=f285e29]
+                        - cell "Measure the period and radial velocity curves of spectroscopic binary stars." [ref=f285e30]
+                      - row [ref=f285e31]:
+                        - cell "Diameter" [ref=f285e32]
+                        - cell [ref=f285e33]:
+                          - paragraph [ref=f285e34]: 1. Measure the way a star’s light is blocked by the Moon.
+                          - paragraph [ref=f285e35]: 2. Measure the light curves and Doppler shifts for eclipsing binary stars.
+                  - paragraph [ref=f285e36]: To help understand what sorts of relationships might be found, let’s look briefly at a range of data about human beings. If you want to understand humans by comparing and contrasting their characteristics—without assuming any previous knowledge of these strange creatures—you could try to determine which characteristics lead you in a fruitful direction. For example, you might plot the heights of a large sample of humans against their weights (which is a measure of their mass). Such a plot is shown in Figure 18.12 and it has some interesting features. In the way we have chosen to present our data, height increases upward, whereas weight increases to the left. Notice that humans are not randomly distributed in the graph. Most points fall along a sequence that goes from the upper left to the lower right.
+                  - 'figure "Figure 18.12 : Height versus Weight. The plot of the heights and weights of a representative group of human beings. Most points lie along a “main sequence” representing most people, but there are a few exceptions." [ref=f285e37]':
+                    - img "Graph of Height Versus Weight. The vertical axis is labeled “Height” in arbitrary units. The horizontal axis is labeled “Weight” in arbitrary units. A plot of dots shows a general trend of weight increasing as height increases, with a few outliers above and below." [ref=f285e39]
+                  - paragraph [ref=f285e41]: We can conclude from this graph that human height and weight are related. Generally speaking, taller human beings weigh more, whereas shorter ones weigh less. This makes sense if you are familiar with the structure of human beings. Typically, if we have bigger bones, we have more flesh to fill out our larger frame. It’s not mathematically exact—there is a wide range of variation—but it’s not a bad overall rule. And, of course, there are some dramatic exceptions. You occasionally see a short human who is very overweight and would thus be more to the bottom left of our diagram than the average sequence of people. Or you might have a very tall, skinny fashion model with great height but relatively small weight, who would be found near the upper right.
+                  - paragraph [ref=f285e42]: A similar diagram has been found extremely useful for understanding the lives of stars. In 1913, American astronomer Henry Norris Russell plotted the luminosities of stars against their spectral classes (a way of denoting their surface temperatures). This investigation, and a similar independent study in 1911 by Danish astronomer Ejnar Hertzsprung, led to the extremely important discovery that the temperature and luminosity of stars are related (Figure 18.13).
+                  - 'figure "Figure 18.13 : Hertzsprung (1873–1967) and Russell (1877–1957). (a) Ejnar Hertzsprung and (b) Henry Norris Russell independently discovered the relationship between the luminosity and surface temperature of stars that is summarized in what is now called the H–R diagram." [ref=f285e43]':
+                    - img "Photographs of (a) Ejnar Hertzsprung and (b) Henry Norris Russell." [ref=f285e45]
+                  - paragraph [ref=f285e47]
+                  - heading "Features of the H–R Diagram" [level=3] [ref=f285e48]
+                  - paragraph [ref=f285e49]:
+                    - text: Following Hertzsprung and Russell, let us plot the temperature (or spectral class) of a selected group of nearby stars against their luminosity and see what we find (Figure 18.14). Such a plot is frequently called the
+                    - emphasis [ref=f285e50]: Hertzsprung–Russell diagram
+                    - text: ", abbreviated H–R diagram. It is one of the most important and widely used diagrams in astronomy, with applications that extend far beyond the purposes for which it was originally developed more than a century ago."
+                  - 'figure "Figure 18.14 : H–R Diagram for a Selected Sample of Stars. In such diagrams, luminosity is plotted along the vertical axis. Along the horizontal axis, we can plot either temperature or spectral type (also sometimes called spectral class). Several of the brightest stars are identified by name. Most stars fall on the main sequence." [ref=f285e51]':
+                    - img [ref=f285e53]
+                  - paragraph [ref=f285e55]:
+                    - text: It is customary to plot H–R diagrams in such a way that temperature increases toward the left and luminosity toward the top. Notice the similarity to our plot of height and weight for people (Figure 18.12). Stars, like people, are not distributed over the diagram at random, as they would be if they exhibited all combinations of luminosity and temperature. Instead, we see that the stars cluster into certain parts of the H–R diagram. The great majority are aligned along a narrow sequence running from the upper left (hot, highly luminous) to the lower right (cool, less luminous). This band of points is called the main sequence. It represents a relationship between
+                    - emphasis [ref=f285e56]: temperature
+                    - text: and
+                    - emphasis [ref=f285e57]: luminosity
+                    - text: that is followed by most stars. We can summarize this relationship by saying that hotter stars are more luminous than cooler ones.
+                  - paragraph [ref=f285e58]:
+                    - text: A number of stars, however, lie above the main sequence on the H–R diagram, in the upper-right region, where stars have low temperature and high luminosity. How can a star be at once cool, meaning each square meter on the star does not put out all that much energy, and yet very luminous? The only way is for the star to be enormous—to have so many square meters on its surface that the
+                    - emphasis [ref=f285e59]: total
+                    - text: energy output is still large. These stars must be
+                    - emphasis [ref=f285e60]: giants
+                    - text: or
+                    - emphasis [ref=f285e61]: supergiants
+                    - text: ", the stars of huge diameter we discussed earlier."
+                  - paragraph [ref=f285e62]: There are also some stars in the lower-left corner of the diagram, which have high temperature and low luminosity. If they have high surface temperatures, each square meter on that star puts out a lot of energy. How then can the overall star be dim? It must be that it has a very small total surface area; such stars are known as white dwarfs (white because, at these high temperatures, the colors of the electromagnetic radiation that they emit blend together to make them look bluish-white). We will say more about these puzzling objects in a moment. Figure 18.15 is a schematic H–R diagram for a large sample of stars, drawn to make the different types more apparent.
+                  - 'figure "Figure 18.15 : Schematic H–R Diagram for Many Stars. Ninety percent of all stars on such a diagram fall along a narrow band called the main sequence. A minority of stars are found in the upper right; they are both cool (and hence red) and bright, and must be giants. Some stars fall in the lower left of the diagram; they are both hot and dim, and must be white dwarfs." [ref=f285e63]':
+                    - img [ref=f285e65]
+                  - paragraph [ref=f285e67]: Now, think back to our discussion of star surveys. It is difficult to plot an H–R diagram that is truly representative of all stars because most stars are so faint that we cannot see those outside our immediate neighborhood. The stars plotted in Figure 18.14 were selected because their distances are known. This sample omits many intrinsically faint stars that are nearby but have not had their distances measured, so it shows fewer faint main-sequence stars than a “fair” diagram would. To be truly representative of the stellar population, an H–R diagram should be plotted for all stars within a certain distance. Unfortunately, our knowledge is reasonably complete only for stars within 10 to 20 light-years of the Sun, among which there are no giants or supergiants. Still, from many surveys (and more can now be done with new, more powerful telescopes), we estimate that about 90% of the true stars overall (excluding brown dwarfs) in our part of space are main-sequence stars, about 10% are white dwarfs, and fewer than 1% are giants or supergiants.
+                  - paragraph [ref=f285e68]: These estimates can be used directly to understand the lives of stars. Permit us another quick analogy with people. Suppose we survey people just like astronomers survey stars, but we want to focus our attention on the location of young people, ages 6 to 18 years. Survey teams fan out and take data about where such youngsters are found at all times during a 24-hour day. Some are found in the local pizza parlor, others are asleep at home, some are at the movies, and many are in school. After surveying a very large number of young people, one of the things that the teams determine is that, averaged over the course of the 24 hours, one-third of all youngsters are found in school.
+                  - paragraph [ref=f285e69]:
+                    - text: How can they interpret this result? Does it mean that two-thirds of students are truants and the remaining one-third spend all their time in school? No, we must bear in mind that the survey teams counted youngsters throughout the full 24-hour day. Some survey teams worked at night, when most youngsters were at home asleep, and others worked in the late afternoon, when most youngsters were on their way home from school (and more likely to be enjoying a pizza). If the survey was truly representative, we
+                    - emphasis [ref=f285e70]: can
+                    - text: conclude, however, that if an average of one-third of all youngsters are found in school, then humans ages 6 to 18 years must spend about one-third of
+                    - emphasis [ref=f285e71]: their time
+                    - text: in school.
+                  - paragraph [ref=f285e72]: We can do something similar for stars. We find that, on average, 90% of all stars are located on the main sequence of the H–R diagram. If we can identify some activity or life stage with the main sequence, then it follows that stars must spend 90% of their lives in that activity or life stage.
+                  - heading "Understanding the Main Sequence" [level=3] [ref=f285e73]
+                  - paragraph [ref=f285e74]: "In The Sun: A Nuclear Powerhouse, we discussed the Sun as a representative star. We saw that what stars such as the Sun “do for a living” is to convert protons into helium deep in their interiors via the process of nuclear fusion, thus producing energy. The fusion of protons to helium is an excellent, long-lasting source of energy for a star because the bulk of every star consists of hydrogen atoms, whose nuclei are protons."
+                  - paragraph [ref=f285e75]: Our computer models of how stars evolve over time show us that a typical star will spend about 90% of its life fusing the abundant hydrogen in its core into helium. This then is a good explanation of why 90% of all stars are found on the main sequence in the H–R diagram. But if all the stars on the main sequence are doing the same thing (fusing hydrogen), why are they distributed along a sequence of points? That is, why do they differ in luminosity and surface temperature (which is what we are plotting on the H–R diagram)?
+                  - paragraph [ref=f285e76]:
+                    - text: "To help us understand how main-sequence stars differ, we can use one of the most important results from our studies of model stars. Astrophysicists have been able to show that the structure of stars that are in equilibrium and derive all their energy from nuclear fusion is completely and uniquely determined by just two quantities: the"
+                    - emphasis [ref=f285e77]: total mass
+                    - text: and the
+                    - emphasis [ref=f285e78]: composition
+                    - text: of the star. This fact provides an interpretation of many features of the H–R diagram.
+                  - paragraph [ref=f285e79]: Imagine a cluster of stars forming from a cloud of interstellar “raw material” whose chemical composition is similar to the Sun’s. (We’ll describe this process in more detail in The Birth of Stars and Discovery of Planets outside the Solar System, but for now, the details will not concern us.) In such a cloud, all the clumps of gas and dust that become stars begin with the same chemical composition and differ from one another only in mass. Now suppose that we compute a model of each of these stars for the time at which it becomes stable and derives its energy from nuclear reactions, but before it has time to alter its composition appreciably as a result of these reactions.
+                  - paragraph [ref=f285e80]: The models calculated for these stars allow us to determine their luminosities, temperatures, and sizes. If we plot the results from the models—one point for each model star—on the H–R diagram, we get something that looks just like the main sequence we saw for real stars.
+                  - paragraph [ref=f285e81]: And here is what we find when we do this. The model stars with the largest masses are the hottest and most luminous, and they are located at the upper left of the diagram.
+                  - paragraph [ref=f285e82]:
+                    - text: The least-massive model stars are the coolest and least luminous, and they are placed at the lower right of the plot. The other model stars all lie along a line running diagonally across the diagram. In other words,
+                    - emphasis [ref=f285e83]: the main sequence turns out to be a sequence of stellar masses
+                    - text: .
+                  - paragraph [ref=f285e84]: This makes sense if you think about it. The most massive stars have the most gravity and can thus compress their centers to the greatest degree. This means they are the hottest inside and the best at generating energy from nuclear reactions deep within. As a result, they shine with the greatest luminosity and have the hottest surface temperatures. The stars with lowest mass, in turn, are the coolest inside and least effective in generating energy. Thus, they are the least luminous and wind up being the coolest on the surface. Our Sun lies somewhere in the middle of these extremes (as you can see in Figure 18.14). The characteristics of representative main-sequence stars (excluding brown dwarfs, which are not true stars) are listed in Table 18.3.
+                  - table [ref=f285e85]:
+                    - caption [ref=f285e86]: "Table 18.3: Characteristics of Main-Sequence Stars"
+                    - rowgroup [ref=f285e87]:
+                      - row [ref=f285e88]:
+                        - columnheader "Spectral Type" [ref=f285e89]
+                        - columnheader "Mass (Sun = 1)" [ref=f285e90]
+                        - columnheader "Luminosity (Sun = 1)" [ref=f285e91]
+                        - columnheader "Temperature" [ref=f285e92]
+                        - columnheader "Radius (Sun = 1)" [ref=f285e93]
+                    - rowgroup [ref=f285e94]:
+                      - row [ref=f285e95]:
+                        - cell "O5" [ref=f285e96]
+                        - cell "40" [ref=f285e97]
+                        - cell [ref=f285e98]:
+                          - math [ref=f285e99]:
+                            - generic [ref=f285e102]:
+                              - generic [ref=f285e103]: "7"
+                              - generic [ref=f285e104]: ×
+                              - generic [ref=f285e105]:
+                                - generic [ref=f285e106]: "10"
+                                - generic [ref=f285e107]: "5"
+                        - cell "40,000 K" [ref=f285e108]
+                        - cell "18" [ref=f285e109]
+                      - row [ref=f285e110]:
+                        - cell "B0" [ref=f285e111]
+                        - cell "16" [ref=f285e112]
+                        - cell [ref=f285e113]:
+                          - math [ref=f285e114]:
+                            - generic [ref=f285e117]:
+                              - generic [ref=f285e118]: "2.7"
+                              - generic [ref=f285e119]: ×
+                              - generic [ref=f285e120]:
+                                - generic [ref=f285e121]: "10"
+                                - generic [ref=f285e122]: "5"
+                        - cell "28,000 K" [ref=f285e123]
+                        - cell "7" [ref=f285e124]
+                      - row [ref=f285e125]:
+                        - cell "A0" [ref=f285e126]
+                        - cell "3.3" [ref=f285e127]
+                        - cell "55" [ref=f285e128]
+                        - cell "10,000 K" [ref=f285e129]
+                        - cell "2.5" [ref=f285e130]
+                      - row [ref=f285e131]:
+                        - cell "F0" [ref=f285e132]
+                        - cell "1.7" [ref=f285e133]
+                        - cell "5" [ref=f285e134]
+                        - cell "7500 K" [ref=f285e135]
+                        - cell "1.4" [ref=f285e136]
+                      - row [ref=f285e137]:
+                        - cell "G0" [ref=f285e138]
+                        - cell "1.1" [ref=f285e139]
+                        - cell "1.4" [ref=f285e140]
+                        - cell "6000 K" [ref=f285e141]
+                        - cell "1.1" [ref=f285e142]
+                      - row [ref=f285e143]:
+                        - cell "K0" [ref=f285e144]
+                        - cell "0.8" [ref=f285e145]
+                        - cell "0.35" [ref=f285e146]
+                        - cell "5000 K" [ref=f285e147]
+                        - cell "0.8" [ref=f285e148]
+                      - row [ref=f285e149]:
+                        - cell "M0" [ref=f285e150]
+                        - cell "0.4" [ref=f285e151]
+                        - cell "0.05" [ref=f285e152]
+                        - cell "3500 K" [ref=f285e153]
+                        - cell "0.6" [ref=f285e154]
+                  - paragraph [ref=f285e155]: Note that we’ve seen this 90% figure come up before. This is exactly what we found earlier when we examined the mass-luminosity relation (Figure 18.9). We observed that 90% of all stars seem to follow the relationship; these are the 90% of all stars that lie on the main sequence in our H–R diagram. Our models and our observations agree.
+                  - paragraph [ref=f285e156]: "What about the other stars on the H–R diagram—the giants and supergiants, and the white dwarfs? As we will see in the next few chapters, these are what main-sequence stars turn into as they age: They are the later stages in a star’s life. As a star consumes its nuclear fuel, its source of energy changes, as do its chemical composition and interior structure. These changes cause the star to alter its luminosity and surface temperature so that it no longer lies on the main sequence on our diagram. Because stars spend much less time in these later stages of their lives, we see fewer stars in those regions of the H–R diagram."
+                  - heading "Extremes of Stellar Luminosities, Diameters, and Densities" [level=3] [ref=f285e157]
+                  - paragraph [ref=f285e158]:
+                    - text: We can use the H–R diagram to explore the extremes in size, luminosity, and density found among the stars. Such extreme stars are not only interesting to fans of the
+                    - emphasis [ref=f285e159]: Guinness Book of World Records
+                    - text: ; they can teach us a lot about how stars work. For example, we saw that the most massive main-sequence stars are the most luminous ones. We know of a few extreme stars that are a million times more luminous than the Sun, with masses that exceed 100 times the Sun’s mass. These superluminous stars, which are at the upper left of the H–R diagram, are exceedingly hot, very blue stars of spectral type O. These are the stars that would be the most conspicuous at vast distances in space.
+                  - paragraph [ref=f285e160]: The cool supergiants in the upper corner of the H–R diagram are as much as 10,000 times as luminous as the Sun. In addition, these stars have diameters very much larger than that of the Sun. As discussed above, some supergiants are so large that if the solar system could be centered in one, the star’s surface would lie beyond the orbit of Mars (see Figure 18.16). We will have to ask, in coming chapters, what process can make a star swell up to such an enormous size, and how long these “swollen” stars can last in their distended state.
+                  - 'figure "Figure 18.16 : The Sun and a Supergiant. Here you see how small the Sun looks in comparison to one of the largest known stars: VY Canis Majoris, a supergiant." [ref=f285e161]':
+                    - img "Illustration of the Sun and a Supergiant Star. At left, the supergiant star VY Canis Majoris is shown as a large yellow sphere. At the bottom left edge of the supergiant a small rectangle is drawn. This area is enlarged in the inset at right. The Sun is shown as a tiny dot surrounded by a dashed circle representing Earth’s orbit. The surface of the supergiant is drawn running diagonally across the upper right half of the enlargement. The Sun and the orbit of Earth would fit inside VY Canis Majoris many times over." [ref=f285e163]
+                  - paragraph [ref=f285e165]: In contrast, the very common red, cool, low-luminosity stars at the lower end of the main sequence are much smaller and more compact than the Sun. An example of such a red dwarf is Ross 614B, with a surface temperature of 2700 K and only 1/2000 of the Sun’s luminosity. We call such a star a dwarf because its diameter is only 1/10 that of the Sun. A star with such a low luminosity also has a low mass (about 1/12 that of the Sun). This combination of mass and diameter means that it is so compressed that the star has an average density about 80 times that of the Sun. Its density must be higher, in fact, than that of any known solid found on the surface of Earth. (Despite this, the star is made of gas throughout because its center is so hot.)
+                  - paragraph [ref=f285e166]: The faint, red, main-sequence stars are not the stars of the most extreme densities, however. The white dwarfs, at the lower-left corner of the H–R diagram, have densities many times greater still.
+                  - heading "The White Dwarfs" [level=3] [ref=f285e167]
+                  - paragraph [ref=f285e168]: The first white dwarf star was detected in 1862. Called Sirius B, it forms a binary system with Sirius A, the brightest-appearing star in the sky. It eluded discovery and analysis for a long time because its faint light tends to be lost in the glare of nearby Sirius A (Figure 18.17). (Since Sirius is often called the Dog Star—being the brightest star in the constellation of Canis Major, the big dog—Sirius B is sometimes nicknamed the Pup.)
+                  - figure [ref=f285e169]:
+                    - img "Two Views of Sirius and Its White Dwarf Companion. (a) A visible light image taken by the Hubble Space Telescope. Sirius B is the faint speck in the lower left had quadrant of the image, and nearly lost in the glare of bright Sirius A. (b) X-ray image from the Chandra X-ray telescope. Sirius B is much brighter in X-rays and is the bright object at the center of the image. Above and slightly to the right is Sirius A." [ref=f285e171]
+                  - paragraph [ref=f285e173]:
+                    - text: We have now found thousands of white dwarfs. Table 18.1 shows that about 7% of the true stars (spectral types O–M) in our local neighborhood are white dwarfs. A good example of a typical white dwarf is the nearby star 40 Eridani B. Its surface temperature is a relatively hot 12,000 K, but its luminosity is only 1/275
+                    - emphasis [ref=f285e174]: L
+                    - subscript [ref=f285e175]: Sun
+                    - text: . Calculations show that its radius is only 1.4% of the Sun’s, or about the same as that of Earth, and its volume is 2.5 × 10
+                    - superscript [ref=f285e176]: –6
+                    - text: that of the Sun. Its mass, however, is 0.57 times the Sun’s mass, just a little more than half. To fit such a substantial mass into so tiny a volume, the star’s density must be about 210,000 times the density of the Sun, or more than 300,000 g/cm
+                    - superscript [ref=f285e177]: "3"
+                    - text: . A teaspoonful of this material would have a mass of some 1.6 tons! At such enormous densities, matter cannot exist in its usual state; we will examine the particular behavior of this type of matter in The Death of Stars. For now, we just note that white dwarfs are dying stars, reaching the end of their productive lives and ready for their stories to be over.
+                  - paragraph [ref=f285e178]: "The British astrophysicist (and science popularizer) Arthur Eddington (1882–1944) described the first known white dwarf this way:"
+                  - blockquote [ref=f285e179]:
+                    - paragraph [ref=f285e180]: "The message of the companion of Sirius, when decoded, ran: “I am composed of material three thousand times denser than anything you’ve ever come across. A ton of my material would be a little nugget you could put in a matchbox.” What reply could one make to something like that? Well, the reply most of us made in 1914 was, “Shut up; don’t talk nonsense.”"
+                  - paragraph [ref=f285e181]: Today, however, astronomers not only accept that stars as dense as white dwarfs exist but (as we will see) have found even denser and stranger objects in their quest to understand the evolution of different types of stars.
+                  - heading "Hertzsprung- Russell Diagram" [level=2] [ref=f285e182]
+                  - paragraph [ref=f285e183]:
+                    - strong [ref=f285e184]: The Hertzsprung-Russell diagram
+                    - text: ", also referred to as the H-R Diagram, is a graph of stellar absolute magnitude or luminosity versus their spectral type or photosphere temperature. The H-R Diagram was created circa 1910 by Danish astronomer"
+                    - strong [ref=f285e185]: Ejnar Hertzsprung
+                    - text: and American astronomer
+                    - strong [ref=f285e186]: Henry Norris Russell
+                    - text: . Plotting stellar luminosity versus color (temperature) allowed Hertzsprung Russell to see patterns in stars, from groupings of stars to how stars change over time, what is called stellar evolution. Looking at the H-R Diagram, you will first note that numerous stars are plotted. Imagine millions of stars, that is what makes up the diagram itself.
+                  - paragraph [ref=f285e187]:
+                    - text: The
+                    - strong [ref=f285e188]: Hertzsprung- Russell diagram
+                    - text: ", or the"
+                    - strong [ref=f285e189]: H-R diagram
+                    - text: ", is a graph which plots a star’s brightness versus its color. This very-useful graphic was developed around 1910 by Danish astronomer"
+                    - strong [ref=f285e190]: Ejnar Hertzsprung
+                    - text: and American astronomer
+                    - strong [ref=f285e191]: Henry Norris Russell
+                    - text: ". The H-R diagram groups stars into four major classes, and shows stellar evolution: how stars change as they fuse the elements in their stellar cores."
+                  - paragraph [ref=f285e192]: The H-R diagram itself will appear different than most graphs. Yet, with one glance, you can see stellar groupings, brightness, and colors. The stellar colors are reflective of the star’s photosphere, or surface temperature. The hotter the star, the more bluish it will appear. And, the cooler the star, the more reddish in color.
+                  - generic [ref=f285e194]:
+                    - text: Hertzsprung-Russell diagram, or H-R diagram. Some 22,000 stars make up the data for this specific illustration. HRDiagram by Richard Powell is licensed under
+                    - link "CC BY-SA 2.5" [ref=f285e195]:
+                      - /url: https://creativecommons.org/licenses/by-sa/2.5
+                  - paragraph [ref=f285e196]: Let’s first examine closely the above H-R diagram illustration.
+                  - paragraph [ref=f285e197]:
+                    - strong [ref=f285e198]: The Y-axis plots the star’s brightness.
+                    - text: "This particular illustration uses a familiar unit: the Sun. So, with the Sun &equals; 1, stars are plotted when compared to the Sun. This is their absolute magnitude or brightness, not how they look in the sky, or apparent magnitude. (A topic discussed in Lab 3."
+                    - emphasis [ref=f285e199]: Magnitude and Light Pollution
+                    - text: ). For those so inclined, the Y-axis is plotted on a logarithm scale. The Y-axis can also be plotted in absolute magnitude. Most plots are based on the Sun = 1, though.
+                  - paragraph [ref=f285e200]: If you also note on the right-hand side of the graph along the Y-axis, you will see numbers and Absolute Magnitude. This is the other way to represent stellar brightness’s.
+                  - paragraph [ref=f285e201]:
+                    - strong [ref=f285e202]: The X-axis plots the star’s temperature.
+                    - text: "Look at the values of the X-axis along the top of the illustration (not the bottom – more on that later). You will note at the very top a line of letters; O B A F G K M. Right below that you will also note numbers; 30000K 10000K 7500K 6000K 5000K 4000K 3000K. These numbers will be our primary focus: they are the star’s photosphere temperature in the Kelvin temperature scale. You are familiar with the Fahrenheit and most likely the Celsius or Centigrade temperature scales. The Kelvin temperature scale is like the Celsius temperature scale, but starts at zero, called absolute zero. There are no negative temperatures on the Kelvin temperature scale; it always starts at zero. Astronomers prefer the Kelvin temperature scale because there are referrals to the coldest temperature in space — which is just above 0K or absolute zero."
+                  - paragraph [ref=f285e203]: Some astronomers prefer to use what is known as the Color Index — Colour (B-V) — found along the bottom X-axis on the illustration. This is another way to classify a star’s temperature and color.
+                  - figure "Image courtesy of Florida State College at Jacksonville." [ref=f285e204]:
+                    - img "A graphic, which shows the location of different star groups on the Hertzsprung-Russell diagram. To the above left, this simplified H-R Diagram shows how stars group according to temperature (Spectral Class) and Luminosity (Absolute Magnitude). Upper stars are bright, whereas stars towards the bottom, or X-Axis, are dim stars. Stars on the left are hot stars; to the right are cool stars. Based on this, groupings of stars become noticeable.." [ref=f285e205]
+                  - figure "CC BY-SA 2. 5 | Image courtesy of Richard Powell." [ref=f285e207]:
+                    - img "Hertzsprung-Russell diagram. A plot of luminosity (absolute magnitude) against the colour of the stars ranging from the high-temperature blue-white stars on the left side of the diagram to the low temperature red stars on the right side. Converted to png and compressed with pngcrush." [ref=f285e208]
+                  - paragraph [ref=f285e210]: The graph also shows the colors of the plotted stars — note the stars on the left of the graph are more blue-white, towards the center yellowish, and on the right red to almost a purple color. That indicates the stellar temperature.
+                  - paragraph [ref=f285e211]:
+                    - text: As you go higher on the graph, up the Y-axis, the stars are brighter — the stellar luminosity. This can be plotted as the L
+                    - subscript [ref=f285e212]: sun
+                    - text: with the L
+                    - subscript [ref=f285e213]: sun
+                    - text: = 1. It can also be plotted as Absolute Magnitude, M.
+                  - heading "H-R Diagram for Milky Way Stars" [level=2] [ref=f285e214]
+                  - paragraph [ref=f285e215]: "The H-R diagram shown in illustration above provides stellar data in a different way. The four main groups of stars are clearly identified:"
+                  - list [ref=f285e216]:
+                    - listitem [ref=f285e217]:
+                      - strong [ref=f285e218]: "Main Sequence:"
+                      - text: most stars, like our Sun; this is the area on the H-R diagram where most stars will spend their stellar lives.
+                    - listitem [ref=f285e219]:
+                      - strong [ref=f285e220]: "Supergiants:"
+                      - text: cool stars which are very large and very bright. These stars generally end with a supernova event and many collapse to become neutron stars and even further collapse to a black hole.
+                    - listitem [ref=f285e221]:
+                      - strong [ref=f285e222]: "Giants:"
+                      - text: cool stars which are a little smaller and dimmer than the Supergiants. The Giants have a different stellar ending than the Supergiants.
+                    - listitem [ref=f285e223]:
+                      - strong [ref=f285e224]: "White Dwarfs:"
+                      - text: very, very hot stars which are very small in size.
+                  - paragraph [ref=f285e225]: "This particular H-R diagram is very informative in that it graphically shows relative sizes, (though not to scale), colors (thus temperatures), and in some cases masses when compared to the Sun (for example in the upper left-hand corner: 60 MSUN, which means a star 60 times the mass of the Sun). There are also a number of representative stars shown; for example:"
+                  - list [ref=f285e226]:
+                    - listitem [ref=f285e227]:
+                      - text: "Betelgeuse in the constellation Orion — X-axis: 3000K, Y-axis 10"
+                      - superscript [ref=f285e228]: "5"
+                      - text: M
+                      - subscript [ref=f285e229]: SUN
+                    - listitem [ref=f285e230]:
+                      - text: "Polaris, the north pole star — X-axis: 6000K, Y-axis between 10"
+                      - superscript [ref=f285e231]: "3"
+                      - text: and 10
+                      - superscript [ref=f285e232]: "4"
+                      - text: M
+                      - subscript [ref=f285e233]: SUN
+                    - listitem [ref=f285e234]:
+                      - text: "Sirius, the brightest star visible from Earth after the Sun — X-axis: 9000K, Y-axis 10 and 10"
+                      - superscript [ref=f285e235]: "2"
+                      - text: M
+                      - subscript [ref=f285e236]: SUN
+                    - listitem [ref=f285e237]:
+                      - text: "Sirius B, the white dwarf companion of Sirius — o X-axis: ~25000K, Y-axis 0.1 and 10-"
+                      - superscript [ref=f285e238]: "2"
+                      - text: M
+                      - subscript [ref=f285e239]: SUN
+                    - listitem [ref=f285e240]:
+                      - text: "The Sun — X-axis: 6000K, Y-axis 1 M"
+                      - subscript [ref=f285e241]: SUN
+                  - heading "Four Groups of Stars based on H-R Diagram" [level=3] [ref=f285e242]
+                  - paragraph [ref=f285e243]: The H-R Diagram plots stars such that there are four major groups.
+                  - paragraph [ref=f285e244]:
+                    - text: The
+                    - strong [ref=f285e245]: Supergiants
+                    - text: are cool stars, which are very large and very bright. They are located towards the top right of the graph.
+                  - paragraph [ref=f285e246]:
+                    - text: The
+                    - strong [ref=f285e247]: Giants
+                    - text: are cool stars, which are a little smaller and dimmer than the Supergiants.
+                  - paragraph [ref=f285e248]:
+                    - text: The
+                    - strong [ref=f285e249]: White Dwarfs
+                    - text: are very hot stars, which are small in size and relatively dim. They are found in the lower left of the H-R Diagram.
+                  - paragraph [ref=f285e250]:
+                    - text: The
+                    - strong [ref=f285e251]: Main Sequence
+                    - text: is a band of stars, which includes most of the stars, like our Sun. These are usually smaller stars, often dwarf stars.
+                  - paragraph [ref=f285e252]: The H-R Diagram can also show a star’s life, referred to as Stellar Evolution. During the 1930s, it was found for stars with uniform chemical composition, there is a relationship between stellar mass and the star’s luminosity and diameter.
+                  - paragraph [ref=f285e253]: Other important derivations of the Hertzsprung-Russell diagram can be used to show different data, for example classes of stars, protostars, brown dwarf objects, or graphs known as color index and color magnitude diagram.
+                  - figure "CC BY 4. 0 | Image courtesy of European Southern Observatory (ESO)." [ref=f285e254]:
+                    - img "A Hertzsprung-Russell diagram showing the four major groupings of stars—Supergiants, giants, white dwarfs, and main sequence." [ref=f285e255]
+                  - heading "Further Exploration" [level=2] [ref=f285e257]
+                  - paragraph [ref=f285e258]:
+                    - text: Use this
+                    - link "interactive H-R diagram" [ref=f285e259]:
+                      - /url: https://openstax.org/l/30interhr
+                    - text: to explore the sizes of stars based on their placement. Overlay the closest stars and the brightest stars, and consider where they lie on the figure. How many stars are among both the closest and brightest stars?
+                  - heading "Attributions" [level=2] [ref=f285e260]
+                  - paragraph [ref=f285e261]:
+                    - link "https://phys.libretexts.org/Bookshel...ilky_Way_Stars" [ref=f285e262]:
+                      - /url: /Bookshelves/Astronomy__Cosmology/Astronomy_Lab_(Lumen)/11:_H-R_Diagram/11.03:_H-R_Diagram_for_Milky_Way_Stars
+              - generic [ref=f283e320]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f283e322] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f283e94]:
+          - separator [ref=f283e95]
+          - paragraph [ref=f283e97]:
+            - 'link "9.5: The H-R Diagram" [ref=f283e98] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.05%3A_The_H-R_Diagram
+            - text: is shared under a
+            - link "CC BY" [ref=f283e99] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f283e100]:
+        - list [ref=f283e101]:
+          - listitem [ref=f283e102]:
+            - link "Back to top" [ref=f283e103] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f283e104]:
+            - list [ref=f283e105]:
+              - listitem [ref=f283e106]:
+                - 'link " 9.4: Diameters of Stars" [ref=f283e107] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.04%3A_Diameters_of_Stars
+                  - text: 
+                  - generic [ref=f283e108]: "9.4: Diameters of Stars"
+              - listitem [ref=f283e109]:
+                - 'link "9.6: The Red Sky Paradox " [ref=f283e110] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.06%3A_The_Red_Sky_Paradox
+                  - generic [ref=f283e111]: "9.6: The Red Sky Paradox"
+                  - text: 
+        - list [ref=f283e114]:
+          - listitem [ref=f283e115]: Was this article helpful?
+          - listitem [ref=f283e116]:
+            - button "Yes" [ref=f283e117] [cursor=pointer]
+          - listitem [ref=f283e118]:
+            - button "No" [ref=f283e119] [cursor=pointer]
+          - listitem [ref=f283e120]:
+            - button "Leave feedback" [ref=f283e121] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f283e122]:
+          - heading "Attachments" [level=2] [ref=f283e123]
+          - generic:
+            - button "Attach a file" [ref=f283e124] [cursor=pointer]
+            - text: 
+          - generic [ref=f283e126]:
+            - generic [ref=f283e129]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f283e130]
+            - generic [ref=f283e131]:
+              - grid [ref=f283e134]:
+                - rowgroup [ref=f283e135]:
+                  - row [ref=f283e136]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f283e137]':
+                      - generic:
+                        - generic [ref=f283e138]: File
+                        - generic [ref=f283e139]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f283e140]':
+                      - generic:
+                        - generic [ref=f283e141]: Last modified
+                        - generic [ref=f283e142]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f283e143]':
+                      - generic:
+                        - generic [ref=f283e144]: Size
+                        - generic [ref=f283e145]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f283e146]':
+                      - generic:
+                        - generic [ref=f283e147]: Added by
+                        - generic [ref=f283e148]: 
+              - grid [ref=f283e150]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f283e151]: File
+                          - generic [ref=f283e152]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f283e153]: Last modified
+                          - generic [ref=f283e154]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f283e155]: Size
+                          - generic [ref=f283e156]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f283e157]: Added by
+                          - generic [ref=f283e158]: 
+                - rowgroup [ref=f283e159]:
+                  - row [ref=f283e160]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f283e161]:
+                      - generic [ref=f283e162]:
+                        - generic [ref=f283e163]:
+                          - generic [ref=f283e164]: 
+                          - link "mindtouch.page#thumbnail" [ref=f283e165] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63452/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f283e166]:
+                          - generic [ref=f283e167]: (no description)
+                          - text: 
+                    - gridcell "Dec 7, 2025, 7:20 PM" [ref=f283e168]
+                    - gridcell "11 KiB" [ref=f283e170]
+                    - gridcell "Rachel Mastrapa" [ref=f283e171]
+    - generic [ref=f283e173]:
+      - button "Open support menu" [ref=f283e175] [cursor=pointer]: "?"
+      - navigation [ref=f283e177]:
+        - paragraph [ref=f283e179]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f283e180] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f283e181] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f283e182] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f283e183] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f283e184] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f283e185]:
+      - generic:
+        - generic [ref=f283e187]:
+          - button "Annotation sidebar" [ref=f283e188]
+          - generic [ref=f283e193]:
+            - button "Show highlights" [ref=f283e194]
+            - button "New page note" [ref=f283e199]
+          - status [ref=f283e204]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f283e205]:
+    - button "contents" [ref=f283e206] [cursor=pointer]
+    - button "readability" [ref=f283e208] [cursor=pointer]
+    - button "resources" [ref=f283e210] [cursor=pointer]
+    - button "tools" [ref=f283e212] [cursor=pointer]
+    - button "developers" [ref=f283e214] [cursor=pointer]
+  - text:  
+  - generic [ref=f283e323]:
+    - generic [ref=f283e324] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f283e327] [cursor=pointer]

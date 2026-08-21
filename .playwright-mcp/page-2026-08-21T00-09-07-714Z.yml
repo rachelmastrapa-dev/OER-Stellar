@@ -1,0 +1,291 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=e3]:
+    - text: 
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - generic: ✕
+        - navigation [ref=e7]:
+          - generic [ref=e8]:
+            - link [ref=e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=e11]
+            - button "Enter Reader Mode" [ref=e13] [cursor=pointer]:
+              - generic [ref=e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=e16]:
+        - list [ref=e18]:
+          - listitem [ref=e19]:
+            - link [ref=e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=e22]
+          - listitem [ref=e23]:
+            - text: 
+            - generic [ref=e25]:
+              - generic [ref=e26]: "Search :"
+              - searchbox "Search :" [ref=e27]
+              - button " Search" [ref=e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=e29]:
+            - list [ref=e30]:
+              - listitem [ref=e31]:
+                - link "Edit" [ref=e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy?action=edit
+              - text: 
+              - listitem [ref=e33]:
+                - link " Options" [ref=e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=e35]:
+                - link " Rachel Mastrapa" [ref=e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=e37]:
+        - generic:
+          - button " Contents" [ref=e216] [cursor=pointer]
+          - list [ref=e39]:
+            - listitem [ref=e40]:
+              - link " Home" [ref=e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=e43]:
+              - link " Workbench" [ref=e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=e46]:
+              - link " De Anza - ASTR10" [ref=e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=e49]:
+              - generic [ref=e50]: 
+              - text: "1: Introduction to Astronomy"
+          - text: 
+      - navigation:
+        - generic:                                        
+    - article [ref=e51]:
+      - generic [ref=e52]:
+        - generic [ref=e53]:
+          - button " Page settings" [ref=e54] [cursor=pointer]
+          - text: "    : :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "1: Introduction to Astronomy" [level=1] [ref=e55]':
+          - generic [ref=e213]: "1: Introduction to Astronomy "
+        - list [ref=e58]:
+          - listitem [ref=e59]:
+            - link [ref=e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=e62]:
+                - img "CC" [ref=e63]
+                - img "BY" [ref=e64]
+          - listitem [ref=e65]:
+            - generic [ref=e66]:
+              - term [ref=e67]: "Last updated:"
+              - definition [ref=e68]: Aug 19, 2026, 10:04 PM by Rachel Mastrapa
+          - listitem [ref=e69]:
+            - generic [ref=e70]:
+              - term [ref=e71]: "Page restriction:"
+              - definition [ref=e72]: Private
+          - listitem [ref=e73]:
+            - generic [ref=e74]:
+              - term [ref=e75]: "Page ID:"
+              - definition [ref=e76]: "113013"
+          - listitem [ref=e77]:
+            - list [ref=e78]:
+              - listitem [ref=e79]:
+                - button "Pin Page" [ref=e80] [cursor=pointer]: 
+              - listitem
+              - text: 
+              - listitem [ref=e81]:
+                - list [ref=e82]:
+                  - listitem [ref=e83]:
+                    - link " Licensing" [ref=e84] [cursor=pointer]:
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/00%3A_Front_Matter/04%3A_Licensing
+                      - text: 
+                      - generic [ref=e85]: Licensing
+                  - listitem [ref=e86]:
+                    - 'link "1.1: How Science Works " [ref=e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.01%3A_How_Science_Works
+                      - generic [ref=e88]: "1.1: How Science Works"
+                      - text: 
+              - listitem [ref=e335]:
+                - generic [ref=e336]:
+                  - generic [ref=e337]:
+                    - button "PDF Export Options" [ref=e338] [cursor=pointer]:
+                      - generic [ref=e339]: picture_as_pdf
+                    - text: 
+                  - link "Donate to LibreTexts (opens in modal)" [ref=e340] [cursor=pointer]:
+                    - /url: https://donorbox.org/libretexts
+                    - generic [ref=e341]: 
+                    - text: Donate
+                  - link "View Conductor Project (opens in new tab)" [ref=e342] [cursor=pointer]:
+                    - /url: https://conductor.libretexts.org/projects/D5SCjkv3Jm
+                    - text: Conductor Project
+      - complementary
+      - text: 
+      - generic [ref=e89]:
+        - generic [ref=e91]:
+          - heading "Introduction" [level=2] [ref=e92]
+          - paragraph [ref=e93]: Astronomy is defined as the study of the objects that lie beyond our planet Earth and the processes by which these objects interact with one another. We will see, though, that it is much more. It is also humanity’s attempt to organize what we learn into a clear history of the universe, from the instant of its birth in the Big Bang to the present moment. Throughout this book, we emphasize that science is a progress report, one that changes constantly as new techniques and instruments allow us to probe the universe more deeply.
+          - generic [ref=e95]:
+            - heading " Learning Objectives" [level=5] [ref=e96]
+            - paragraph [ref=e98]: "By the end of this section, you will be able to:"
+            - list [ref=e99]:
+              - listitem [ref=e100]: Describe early examples of astronomy around the world
+              - listitem [ref=e101]: Explain how Greek astronomers were able to deduce that Earth is spherical
+              - listitem [ref=e102]: Explain how Greek astronomers were able to calculate Earth’s size
+              - listitem [ref=e103]: Describe the motion of Earth called precession
+              - listitem [ref=e104]: Describe Ptolemy’s geocentric system of planetary motion
+              - listitem [ref=e105]: Explain how Copernicus developed the heliocentric model of the solar system
+              - listitem [ref=e106]: Explain the Copernican model of planetary motion and describe evidence or arguments in favor of it
+              - listitem [ref=e107]: Describe Galileo’s discoveries concerning the study of motion and forces
+              - listitem [ref=e108]: Explain how Galileo’s discoveries tilted the balance of evidence in favor of the Copernican model
+          - paragraph
+          - list [ref=e111]:
+            - listitem [ref=e112]:
+              - generic [ref=e113]:
+                - term [ref=e114]:
+                  - 'link " 1.1: How Science Works" [ref=e115] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.01%3A_How_Science_Works
+                    - generic [ref=e116]: 
+                    - text: "1.1: How Science Works"
+                - definition
+            - listitem [ref=e117]:
+              - generic [ref=e118]:
+                - term [ref=e119]:
+                  - 'link " 1.2: Origins of Astronomy" [ref=e120] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.02%3A_Origins_of_Astronomy
+                    - generic [ref=e121]: 
+                    - text: "1.2: Origins of Astronomy"
+                - definition
+            - listitem [ref=e122]:
+              - generic [ref=e123]:
+                - term [ref=e124]:
+                  - 'link " 1.3: Modern Astronomy" [ref=e125] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.03%3A_Modern_Astronomy
+                    - generic [ref=e126]: 
+                    - text: "1.3: Modern Astronomy"
+                - definition
+            - listitem [ref=e127]:
+              - generic [ref=e128]:
+                - term [ref=e129]:
+                  - 'link " 1.4: Astronomy Toolkit" [ref=e130] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.04%3A_Astronomy_Toolkit
+                    - generic [ref=e131]: 
+                    - text: "1.4: Astronomy Toolkit"
+                - definition
+            - listitem [ref=e132]:
+              - generic [ref=e133]:
+                - term [ref=e134]:
+                  - 'link " 1.5: Astronomy and You" [ref=e135] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.05%3A_Astronomy_and_You
+                    - generic [ref=e136]: 
+                    - text: "1.5: Astronomy and You"
+                - definition
+            - listitem [ref=e137]:
+              - generic [ref=e138]:
+                - term [ref=e139]:
+                  - 'link " 1.6: Key Terms" [ref=e140] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.06%3A_Key_Terms
+                    - generic [ref=e141]: 
+                    - text: "1.6: Key Terms"
+                - definition
+            - listitem [ref=e142]:
+              - generic [ref=e143]:
+                - term [ref=e144]:
+                  - 'link " 1.7: Accessible Description" [ref=e145] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.07%3A_Accessible_Description
+                    - generic [ref=e146]: 
+                    - text: "1.7: Accessible Description"
+                - definition
+          - paragraph
+          - paragraph [ref=e147]:
+            - strong [ref=e148]: Thumbnail
+            - text: ": Silhouette of a person standing in foreground of a black, orange, and blue sunrise-or-sunset horizon in Montana. (\""
+            - link "Silhouette person standing with horizon (Unsplash)" [ref=e149] [cursor=pointer]:
+              - /url: https://commons.wikimedia.org/w/index.php?curid=61859522
+            - text: ",\""
+            - link "Jay Dantinne jayd" [ref=e150] [cursor=pointer]:
+              - /url: https://unsplash.com/@jayd
+            - text: ","
+            - link "CC0" [ref=e151] [cursor=pointer]:
+              - /url: https://creativecommons.org/public-domain/cc0/
+            - text: via
+            - link "Wikimedia Commons" [ref=e152] [cursor=pointer]:
+              - /url: https://commons.wikimedia.org/wiki/Main_Page
+            - text: )
+        - generic [ref=e153]:
+          - separator [ref=e154]
+          - paragraph [ref=e156]:
+            - 'link "1: Introduction to Astronomy" [ref=e157] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy
+            - text: is shared under a
+            - link "CC BY" [ref=e158] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+          - text: 
+      - generic [ref=e159]:
+        - list [ref=e160]:
+          - listitem: 
+          - listitem [ref=e161]:
+            - list [ref=e162]:
+              - listitem [ref=e163]:
+                - link " Licensing" [ref=e164] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/00%3A_Front_Matter/04%3A_Licensing
+                  - text: 
+                  - generic [ref=e165]: Licensing
+              - listitem [ref=e166]:
+                - 'link "1.1: How Science Works " [ref=e167] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.01%3A_How_Science_Works
+                  - generic [ref=e168]: "1.1: How Science Works"
+                  - text: 
+        - generic:   
+        - text: "     : : : :              "
+    - generic [ref=e170]:
+      - button "Open support menu" [ref=e172] [cursor=pointer]: "?"
+      - navigation [ref=e174]:
+        - paragraph [ref=e176]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=e177] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=e178] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=e179] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=e180] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=e181] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=e182]:
+      - generic:
+        - generic [ref=e184]:
+          - button "Annotation sidebar" [ref=e185]
+          - generic [ref=e190]:
+            - button "Show highlights" [ref=e191]
+            - button "New page note" [ref=e196]
+          - status [ref=e201]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=e202]:
+    - button "contents" [ref=e203] [cursor=pointer]
+    - button "readability" [ref=e205] [cursor=pointer]
+    - button "resources" [ref=e207] [cursor=pointer]
+    - button "tools" [ref=e209] [cursor=pointer]
+    - button "developers" [ref=e211] [cursor=pointer]
+  - text:  
+  - generic [ref=e323]:
+    - generic [ref=e324] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=e327] [cursor=pointer]

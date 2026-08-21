@@ -1,0 +1,319 @@
+- generic [ref=f84e1]:
+  - link "Skip to main content" [ref=f84e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f84e3]:
+    - text: 
+    - generic [ref=f84e4]:
+      - generic [ref=f84e5]:
+        - generic: ✕
+        - navigation [ref=f84e7]:
+          - generic [ref=f84e8]:
+            - link [ref=f84e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f84e11]
+            - button "Enter Reader Mode" [ref=f84e13] [cursor=pointer]:
+              - generic [ref=f84e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f84e16]:
+        - list [ref=f84e18]:
+          - listitem [ref=f84e19]:
+            - link [ref=f84e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f84e22]
+          - listitem [ref=f84e23]:
+            - text: 
+            - generic [ref=f84e25]:
+              - generic [ref=f84e26]: "Search :"
+              - searchbox "Search :" [ref=f84e27]
+              - button " Search" [ref=f84e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f84e29]:
+            - list [ref=f84e30]:
+              - listitem [ref=f84e31]:
+                - link "Edit" [ref=f84e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.05%3A_Light_Pollution_and_Satellite_Constellations?action=edit
+              - text: 
+              - listitem [ref=f84e33]:
+                - link " Options" [ref=f84e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f84e35]:
+                - link " Rachel Mastrapa" [ref=f84e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f84e37]:
+        - generic:
+          - button " Contents" [ref=f84e207] [cursor=pointer]
+          - list [ref=f84e39]:
+            - listitem [ref=f84e40]:
+              - link " Home" [ref=f84e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f84e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f84e43]:
+              - link " Workbench" [ref=f84e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f84e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f84e46]:
+              - link " De Anza - ASTR10" [ref=f84e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f84e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f84e49]:
+              - 'link " 3: Stars and Light" [ref=f84e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light
+                - generic [ref=f84e51]: 
+                - text: "3: Stars and Light"
+              - text: »
+            - listitem [ref=f84e52]:
+              - generic [ref=f84e53]: 
+              - text: "3.5: Light Pollution and Satellite Constellations"
+          - button " Expand/collapse global location" [ref=f84e54] [cursor=pointer]
+      - navigation:
+        - generic:                                               
+    - article [ref=f84e55]:
+      - generic [ref=f84e56]:
+        - generic [ref=f84e57]:
+          - button " Page settings" [ref=f84e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "3.5: Light Pollution and Satellite Constellations" [level=1] [ref=f84e59]':
+          - generic [ref=f84e208]: "3.5: Light Pollution and Satellite Constellations "
+        - list [ref=f84e62]:
+          - listitem [ref=f84e63]:
+            - link [ref=f84e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f84e66]:
+                - img "CC" [ref=f84e67]
+                - img "BY" [ref=f84e68]
+          - listitem [ref=f84e69]:
+            - generic [ref=f84e70]:
+              - term [ref=f84e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f84e72]: Aug 7, 2026, 9:37 AM by Caitlin Kepple
+          - listitem [ref=f84e73]:
+            - generic [ref=f84e74]:
+              - term [ref=f84e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f84e76]: Private
+          - listitem [ref=f84e77]:
+            - generic [ref=f84e78]:
+              - term [ref=f84e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f84e80]: "118230"
+          - listitem [ref=f84e81]:
+            - list [ref=f84e82]:
+              - listitem [ref=f84e83]:
+                - button "Pin Page" [ref=f84e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f84e85]:
+                - list [ref=f84e86]:
+                  - listitem [ref=f84e87]:
+                    - 'link " 3.4: Color and Temperature" [ref=f84e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.04%3A_Color_and_Temperature
+                      - text: 
+                      - generic [ref=f84e89]: "3.4: Color and Temperature"
+                  - listitem [ref=f84e90]:
+                    - 'link "3.6: Key Terms " [ref=f84e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.06%3A_Key_Terms
+                      - generic [ref=f84e92]: "3.6: Key Terms"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f84e93]:
+        - group [ref=f84e212]:
+          - generic [ref=f84e213]:
+            - generic [ref=f84e214]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f84e215]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f84e216]:
+            - generic [ref=f84e219]:
+              - generic [ref=f84e221]:
+                - link "Edit" [ref=f84e222]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f84e223]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f84e224]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f84e225]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f84e226]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f84e227]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f84e230]:
+                - toolbar [ref=f84e231]:
+                  - button "Save" [ref=f84e232]:
+                    - generic [ref=f84e233]: 
+                  - button "Cancel" [ref=f84e235]:
+                    - generic [ref=f84e236]: 
+                - text:          
+                - toolbar [ref=f84e277]:
+                  - button "Alignment" [ref=f84e278]:
+                    - generic [ref=f84e279]: 
+                - text:    
+                - toolbar [ref=f84e292]:
+                  - button "Replace" [ref=f84e293]:
+                    - generic [ref=f84e294]: 
+                - toolbar [ref=f84e296]:
+                  - button "Enable Binder" [disabled] [ref=f84e297]
+                  - button "Insert Adapt" [disabled] [ref=f84e299]
+                  - button "Query" [ref=f84e301]
+                  - button "Accessibility Checker" [disabled] [ref=f84e304]
+                - toolbar [ref=f84e307]:
+                  - button "Visual" [pressed] [ref=f84e336]:
+                    - generic [ref=f84e309]: 
+            - application "Rich Text Editor, editarea" [ref=f84e311]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f84e338]: "<p>This chapter has been all about observing and measuring starlight. We've focused on the importance of terms like luminosity, color, and magnitude.&nbsp;</p> <p>IAU Light Pollution Webpage (CC BY 4.0 License):&nbsp;<a href=\"https://iauarchive.eso.org/public/themes/light_pollution/\" rel=\"freelink\" title=\"https://iauarchive.eso.org/public/themes/light_pollution/\">https://iauarchive.eso.org/public/th...ght_pollution/</a>&nbsp;</p> <p>IAU Satellite Constellations:&nbsp;<a href=\"https://iauarchive.eso.org/public/themes/satellite-constellations/\" rel=\"freelink\" title=\"https://iauarchive.eso.org/public/themes/satellite-constellations/\">https://iauarchive.eso.org/public/th...onstellations/</a>&nbsp;</p> <p><a href=\"https://iauarchive.eso.org/news/announcements/detail/ann25010/\" title=\"https://iauarchive.eso.org/news/announcements/detail/ann25010/\">IAU Recommendation on the Protection of Astronomical Sites</a> (from 2025)</p> <p>Astrobites: <a href=\"https://astrobites.org/2025/04/22/light-pollution-and-indigenous-cultures/\" title=\"https://astrobites.org/2025/04/22/light-pollution-and-indigenous-cultures/\">Light Pollution's Impact on Indigenous Culture</a></p> <p>&nbsp;</p> <figure><img alt=\"Observatory domes on a mountain ridge above a blanket of clouds under a clear sky.\" class=\"internal default\" src=\"/@api/deki/files/66356/Subaru%252C_Keck_and_NASA_Telescopes._Mauna_Kea_Summit_(503910)_(21665383948).jpg\" /> <figcaption>Figure \\(\\PageIndex{1}\\): From left to right the, <a href=\"https://subarutelescope.org/en/\" title=\"https://subarutelescope.org/en/\">Subaru Telescope</a>, the two&nbsp;<a href=\"https://keckobservatory.org/\" title=\"https://keckobservatory.org/\">Keck</a> telescopes, NASA's <a href=\"https://irtfweb.ifa.hawaii.edu/\" title=\"https://irtfweb.ifa.hawaii.edu/\">Infrared Telescope </a><a href=\"https://irtfweb.ifa.hawaii.edu/\" title=\"https://irtfweb.ifa.hawaii.edu/\">Facility</a>&nbsp;were all built on the summit of Maunakea. The two Keck telescopes&nbsp;had planned extensions that were highly opposed by Native Hawaiians. (<a href=\"https://creativecommons.org/licenses/by/2.0/\" target=\"_blank\" title=\"CC BY 2.0\">CC BY 2.0</a>; <a href=\"https://www.flickr.com/people/92487715@N03\" target=\"_blank\" title=\"Robert Linsdell\">Robert Linsdell</a> via <a href=\"https://commons.wikimedia.org/wiki/File:Subaru,_Keck_and_NASA_Telescopes._Mauna_Kea_Summit_(503910)_(21665383948).jpg\" target=\"_blank\" title=\"Wikimedia Commons\">Wikimedia Commons</a>).</figcaption> </figure> <p>&nbsp;</p> <p>&nbsp;</p> <p>For Further Exploration</p> <p>Dark Sky International&nbsp;</p>"
+              - generic [ref=f84e313]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f84e315] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f84e95]:
+          - separator [ref=f84e96]
+          - paragraph [ref=f84e98]:
+            - 'link "3.5: Light Pollution and Satellite Constellations" [ref=f84e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.05%3A_Light_Pollution_and_Satellite_Constellations
+            - text: is shared under a
+            - link "CC BY" [ref=f84e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f84e101]:
+        - list [ref=f84e102]:
+          - listitem [ref=f84e103]:
+            - link "Back to top" [ref=f84e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f84e105]:
+            - list [ref=f84e106]:
+              - listitem [ref=f84e107]:
+                - 'link " 3.4: Color and Temperature" [ref=f84e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.04%3A_Color_and_Temperature
+                  - text: 
+                  - generic [ref=f84e109]: "3.4: Color and Temperature"
+              - listitem [ref=f84e110]:
+                - 'link "3.6: Key Terms " [ref=f84e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.06%3A_Key_Terms
+                  - generic [ref=f84e112]: "3.6: Key Terms"
+                  - text: 
+        - list [ref=f84e115]:
+          - listitem [ref=f84e116]: Was this article helpful?
+          - listitem [ref=f84e117]:
+            - button "Yes" [ref=f84e118] [cursor=pointer]
+          - listitem [ref=f84e119]:
+            - button "No" [ref=f84e120] [cursor=pointer]
+          - listitem [ref=f84e121]:
+            - button "Leave feedback" [ref=f84e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f84e123]:
+          - heading "Attachments" [level=2] [ref=f84e124]
+          - generic:
+            - button "Attach a file" [ref=f84e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f84e127]:
+            - generic [ref=f84e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f84e131]
+            - generic [ref=f84e132]:
+              - grid [ref=f84e135]:
+                - rowgroup [ref=f84e136]:
+                  - row [ref=f84e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f84e138]':
+                      - generic:
+                        - generic [ref=f84e139]: File
+                        - generic [ref=f84e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f84e141]':
+                      - generic:
+                        - generic [ref=f84e142]: Last modified
+                        - generic [ref=f84e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f84e144]':
+                      - generic:
+                        - generic [ref=f84e145]: Size
+                        - generic [ref=f84e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f84e147]':
+                      - generic:
+                        - generic [ref=f84e148]: Added by
+                        - generic [ref=f84e149]: 
+              - grid [ref=f84e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f84e316]: File
+                          - generic [ref=f84e317]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f84e318]: Last modified
+                          - generic [ref=f84e319]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f84e320]: Size
+                          - generic [ref=f84e321]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f84e322]: Added by
+                          - generic [ref=f84e323]: 
+                - rowgroup [ref=f84e160]:
+                  - row [ref=f84e324]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f84e325]:
+                      - generic [ref=f84e326]:
+                        - generic [ref=f84e327]:
+                          - generic [ref=f84e328]: 
+                          - link "mindtouch.page#thumbnail" [ref=f84e329] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/60315/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f84e330]:
+                          - generic [ref=f84e331]: (no description)
+                          - text: 
+                    - gridcell "Jul 24, 2025, 12:47 PM" [ref=f84e332]
+                    - gridcell "11 KiB" [ref=f84e334]
+                    - gridcell "Caitlin Kepple" [ref=f84e335]
+    - generic [ref=f84e164]:
+      - button "Open support menu" [ref=f84e166] [cursor=pointer]: "?"
+      - navigation [ref=f84e168]:
+        - paragraph [ref=f84e170]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f84e171] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f84e172] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f84e173] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f84e174] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f84e175] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f84e176]:
+      - generic:
+        - generic [ref=f84e178]:
+          - button "Annotation sidebar" [ref=f84e179]
+          - generic [ref=f84e184]:
+            - button "Show highlights" [ref=f84e185]
+            - button "New page note" [ref=f84e190]
+          - status [ref=f84e195]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f84e196]:
+    - button "contents" [ref=f84e197] [cursor=pointer]
+    - button "readability" [ref=f84e199] [cursor=pointer]
+    - button "resources" [ref=f84e201] [cursor=pointer]
+    - button "tools" [ref=f84e203] [cursor=pointer]
+    - button "developers" [ref=f84e205] [cursor=pointer]
+  - text:  
+  - generic [ref=f84e339]:
+    - generic [ref=f84e340] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f84e343] [cursor=pointer]

@@ -1,0 +1,291 @@
+- generic [active] [ref=f97e1]:
+  - link "Skip to main content" [ref=f97e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f97e3]:
+    - text: 
+    - generic [ref=f97e4]:
+      - generic [ref=f97e5]:
+        - generic: ✕
+        - navigation [ref=f97e7]:
+          - generic [ref=f97e8]:
+            - link [ref=f97e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f97e11]
+            - button "Enter Reader Mode" [ref=f97e13] [cursor=pointer]:
+              - generic [ref=f97e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f97e16]:
+        - list [ref=f97e18]:
+          - listitem [ref=f97e19]:
+            - link [ref=f97e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f97e22]
+          - listitem [ref=f97e23]:
+            - text: 
+            - generic [ref=f97e25]:
+              - generic [ref=f97e26]: "Search :"
+              - searchbox "Search :" [ref=f97e27]
+              - button " Search" [ref=f97e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f97e29]:
+            - list [ref=f97e30]:
+              - listitem [ref=f97e31]:
+                - link "Edit" [ref=f97e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra?action=edit
+              - text: 
+              - listitem [ref=f97e33]:
+                - link " Options" [ref=f97e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f97e35]:
+                - link " Rachel Mastrapa" [ref=f97e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f97e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f97e38] [cursor=pointer]
+          - list [ref=f97e39]:
+            - listitem [ref=f97e40]:
+              - link " Home" [ref=f97e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f97e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f97e43]:
+              - link " Workbench" [ref=f97e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f97e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f97e46]:
+              - link " De Anza - ASTR10" [ref=f97e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f97e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f97e49]:
+              - generic [ref=f97e50]: 
+              - text: "4: Stellar Spectra"
+          - text: 
+      - navigation
+    - article [ref=f97e51]:
+      - generic [ref=f97e52]:
+        - generic [ref=f97e53]:
+          - button " Page settings" [ref=f97e54] [cursor=pointer]
+          - text: "    : :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "4: Stellar Spectra" [level=1] [ref=f97e55]'
+        - list [ref=f97e58]:
+          - listitem [ref=f97e59]:
+            - link [ref=f97e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f97e62]:
+                - img "CC" [ref=f97e63]
+                - img "BY" [ref=f97e64]
+          - listitem [ref=f97e65]:
+            - generic [ref=f97e66]:
+              - term [ref=f97e67]: "Last updated:"
+              - definition [ref=f97e68]: Aug 5, 2026, 11:20 AM by Jyothsna Viswanadha
+          - listitem [ref=f97e69]:
+            - generic [ref=f97e70]:
+              - term [ref=f97e71]: "Page restriction:"
+              - definition [ref=f97e72]: Private
+          - listitem [ref=f97e73]:
+            - generic [ref=f97e74]:
+              - term [ref=f97e75]: "Page ID:"
+              - definition [ref=f97e76]: "115277"
+          - listitem [ref=f97e77]:
+            - list [ref=f97e78]:
+              - listitem [ref=f97e79]:
+                - button "Pin Page" [ref=f97e80] [cursor=pointer]: 
+              - listitem [ref=f97e81]:
+                - generic [ref=f97e82]:
+                  - link " Page notifications Off" [ref=f97e84] [cursor=pointer]:
+                    - /url: "#"
+                  - text: 
+              - text: 
+              - listitem [ref=f97e85]:
+                - list [ref=f97e86]:
+                  - listitem [ref=f97e87]:
+                    - 'link " 3.7: Accessible Descriptions" [ref=f97e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.07%3A_Accessible_Descriptions
+                      - text: 
+                      - generic [ref=f97e89]: "3.7: Accessible Descriptions"
+                  - listitem [ref=f97e90]:
+                    - 'link "4.1: Spectroscopy " [ref=f97e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.01%3A_Spectroscopy
+                      - generic [ref=f97e92]: "4.1: Spectroscopy"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f97e93]:
+        - generic [ref=f97e95]:
+          - heading "Introduction" [level=2] [ref=f97e96]
+          - paragraph [ref=f97e97]: How do you collect a sample of a star? An astronomer can't scoop up a piece of a star and take it to a lab to learn its composition. They also can't measure the rotation or motion of a star using the same procedures that we measure the motion of a car or airplane due to their extreme distance. Instead, astronomers rely on different measurements by analyzing the light of the star. By analyzing the color of a star, astronomers can calculate its temperature. The next step in light analysis is to break the light into smaller pieces by wavelength, producing a spectrum. The analysis of spectra and the information derived from them is the focus of this chapter.
+          - generic [ref=f97e99]:
+            - heading " Learning Objectives" [level=5] [ref=f97e100]
+            - paragraph [ref=f97e102]: "By the end of this section, you will be able to:"
+            - list [ref=f97e103]:
+              - listitem [ref=f97e104]: Describe the structure of atoms and the components of nuclei
+              - listitem [ref=f97e105]: Define the atomic mass unit
+              - listitem [ref=f97e106]: Explain how emission line spectra and absorption line spectra are formed
+              - listitem [ref=f97e107]: Explain how spectral lines and ionization levels in a gas can help us determine its temperature
+              - listitem [ref=f97e108]: Explain how astronomers learn the composition of a gas by examining its spectral lines
+              - listitem [ref=f97e109]: Describe how astronomers use spectral classes to characterize stars
+              - listitem [ref=f97e110]: List the stellar properties that astronomers can learn about a star by studying its spectrum
+              - listitem [ref=f97e111]: Describe the proper motion of a star and how it relates to a star’s space velocity
+          - paragraph
+          - list [ref=f97e114]:
+            - listitem [ref=f97e115]:
+              - generic [ref=f97e116]:
+                - term [ref=f97e117]:
+                  - 'link " 4.1: Spectroscopy" [ref=f97e118] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.01%3A_Spectroscopy
+                    - generic [ref=f97e119]: 
+                    - text: "4.1: Spectroscopy"
+                - definition
+            - listitem [ref=f97e120]:
+              - generic [ref=f97e121]:
+                - term [ref=f97e122]:
+                  - 'link " 4.2: The Atom" [ref=f97e123] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.02%3A_The_Atom
+                    - generic [ref=f97e124]: 
+                    - text: "4.2: The Atom"
+                - definition
+            - listitem [ref=f97e125]:
+              - generic [ref=f97e126]:
+                - term [ref=f97e127]:
+                  - 'link " 4.3: Spectral Lines" [ref=f97e128] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.03%3A_Spectral_Lines
+                    - generic [ref=f97e129]: 
+                    - text: "4.3: Spectral Lines"
+                - definition
+            - listitem [ref=f97e130]:
+              - generic [ref=f97e131]:
+                - term [ref=f97e132]:
+                  - 'link " 4.4: Stellar Classification" [ref=f97e133] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.04%3A_Stellar_Classification
+                    - generic [ref=f97e134]: 
+                    - text: "4.4: Stellar Classification"
+                - definition
+            - listitem [ref=f97e135]:
+              - generic [ref=f97e136]:
+                - term [ref=f97e137]:
+                  - 'link " 4.5: Brown Dwarfs" [ref=f97e138] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.05%3A_Brown_Dwarfs
+                    - generic [ref=f97e139]: 
+                    - text: "4.5: Brown Dwarfs"
+                - definition
+            - listitem [ref=f97e140]:
+              - generic [ref=f97e141]:
+                - term [ref=f97e142]:
+                  - 'link " 4.6: Stellar Characteristics" [ref=f97e143] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.06%3A_Stellar_Characteristics
+                    - generic [ref=f97e144]: 
+                    - text: "4.6: Stellar Characteristics"
+                - definition
+            - listitem [ref=f97e145]:
+              - generic [ref=f97e146]:
+                - term [ref=f97e147]:
+                  - 'link " 4.7: Accessibility Through Sonification" [ref=f97e148] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.07%3A_Accessibility_Through_Sonification
+                    - generic [ref=f97e149]: 
+                    - text: "4.7: Accessibility Through Sonification"
+                - definition
+            - listitem [ref=f97e150]:
+              - generic [ref=f97e151]:
+                - term [ref=f97e152]:
+                  - 'link " 4.8: Key Terms" [ref=f97e153] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.08%3A_Key_Terms
+                    - generic [ref=f97e154]: 
+                    - text: "4.8: Key Terms"
+                - definition
+            - listitem [ref=f97e155]:
+              - generic [ref=f97e156]:
+                - term [ref=f97e157]:
+                  - 'link " 4.9: Accessible Descriptions" [ref=f97e158] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.09%3A_Accessible_Descriptions
+                    - generic [ref=f97e159]: 
+                    - text: "4.9: Accessible Descriptions"
+                - definition
+          - paragraph
+          - paragraph [ref=f97e160]:
+            - strong [ref=f97e161]: Thumbnail
+            - text: ": The spectrum of the Sun, discussed in detail in"
+            - link "Spectral Lines" [ref=f97e162] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.03%3A_Spectral_Lines#Analysis_of_the_Solar_Spectrum
+            - text: . (
+            - link "CC BY 4.0" [ref=f97e163] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+            - text: ;
+            - link "N.A. Sharp/KPNO/NOIRLab/NSO/NSF/AURA" [ref=f97e164] [cursor=pointer]:
+              - /url: https://kpno.noirlab.edu/
+            - text: via
+            - link "Wikimedia Commons" [ref=f97e165] [cursor=pointer]:
+              - /url: https://commons.wikimedia.org/wiki/File:High_resolution_solar_spectrum_(noao-sun).jpg
+            - text: ).
+        - generic [ref=f97e166]:
+          - separator [ref=f97e167]
+          - paragraph [ref=f97e169]:
+            - 'link "4: Stellar Spectra" [ref=f97e170] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra
+            - text: is shared under a
+            - link "CC BY" [ref=f97e171] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f97e172]:
+        - list [ref=f97e173]:
+          - listitem: 
+          - listitem [ref=f97e174]:
+            - list [ref=f97e175]:
+              - listitem [ref=f97e176]:
+                - 'link " 3.7: Accessible Descriptions" [ref=f97e177] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.07%3A_Accessible_Descriptions
+                  - text: 
+                  - generic [ref=f97e178]: "3.7: Accessible Descriptions"
+              - listitem [ref=f97e179]:
+                - 'link "4.1: Spectroscopy " [ref=f97e180] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.01%3A_Spectroscopy
+                  - generic [ref=f97e181]: "4.1: Spectroscopy"
+                  - text: 
+        - generic:   
+        - text: "     : : : :         "
+    - generic [ref=f97e183]:
+      - button "Open support menu" [ref=f97e185] [cursor=pointer]: "?"
+      - navigation [ref=f97e187]:
+        - paragraph [ref=f97e189]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f97e190] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f97e191] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f97e192] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f97e193] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f97e194] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f97e195]:
+      - generic:
+        - generic [ref=f97e197]:
+          - button "Annotation sidebar" [ref=f97e198]
+          - generic [ref=f97e203]:
+            - button "Show highlights" [ref=f97e204]
+            - button "New page note" [ref=f97e209]
+          - status [ref=f97e214]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f97e215]:
+    - button "contents" [ref=f97e216] [cursor=pointer]
+    - button "readability" [ref=f97e218] [cursor=pointer]
+    - button "resources" [ref=f97e220] [cursor=pointer]
+    - button "tools" [ref=f97e222] [cursor=pointer]
+    - button "developers" [ref=f97e224] [cursor=pointer]

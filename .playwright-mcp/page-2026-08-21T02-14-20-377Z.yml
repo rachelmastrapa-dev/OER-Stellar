@@ -1,0 +1,268 @@
+- generic [active] [ref=f283e1]:
+  - link "Skip to main content" [ref=f283e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f283e3]:
+    - text: 
+    - generic [ref=f283e4]:
+      - generic [ref=f283e5]:
+        - generic: ✕
+        - navigation [ref=f283e7]:
+          - generic [ref=f283e8]:
+            - link [ref=f283e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f283e11]
+            - button "Enter Reader Mode" [ref=f283e13] [cursor=pointer]:
+              - generic [ref=f283e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f283e16]:
+        - list [ref=f283e18]:
+          - listitem [ref=f283e19]:
+            - link [ref=f283e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f283e22]
+          - listitem [ref=f283e23]:
+            - text: 
+            - generic [ref=f283e25]:
+              - generic [ref=f283e26]: "Search :"
+              - searchbox "Search :" [ref=f283e27]
+              - button " Search" [ref=f283e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f283e29]:
+            - list [ref=f283e30]:
+              - listitem [ref=f283e31]:
+                - link "Edit" [ref=f283e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.05%3A_The_H-R_Diagram?action=edit
+              - text: 
+              - listitem [ref=f283e33]:
+                - link " Options" [ref=f283e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f283e35]:
+                - link " Rachel Mastrapa" [ref=f283e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f283e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f283e38] [cursor=pointer]
+          - list [ref=f283e39]:
+            - listitem [ref=f283e40]:
+              - link " Home" [ref=f283e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f283e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f283e43]:
+              - link " Workbench" [ref=f283e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f283e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f283e46]:
+              - link " De Anza - ASTR10" [ref=f283e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f283e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f283e49]:
+              - 'link " 9: Celestial Census" [ref=f283e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census
+                - generic [ref=f283e51]: 
+                - text: "9: Celestial Census"
+              - text: »
+            - listitem [ref=f283e52]:
+              - generic [ref=f283e53]: 
+              - text: "9.5: The H-R Diagram"
+          - text: 
+      - navigation
+    - article [ref=f283e54]:
+      - generic [ref=f283e55]:
+        - generic [ref=f283e56]:
+          - button " Page settings" [ref=f283e57] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "9.5: The H-R Diagram" [level=1] [ref=f283e58]':
+          - generic [ref=f283e59]: "9.5: The H-R Diagram "
+        - list [ref=f283e61]:
+          - listitem [ref=f283e62]:
+            - link [ref=f283e64] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f283e65]:
+                - img "CC" [ref=f283e66]
+                - img "BY" [ref=f283e67]
+          - listitem [ref=f283e68]:
+            - generic [ref=f283e69]:
+              - term [ref=f283e70] [cursor=pointer]: "Last updated:"
+              - definition [ref=f283e71]: Dec 28, 2025, 7:26 PM by Rachel Mastrapa
+          - listitem [ref=f283e72]:
+            - generic [ref=f283e73]:
+              - term [ref=f283e74] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f283e75]: Private
+          - listitem [ref=f283e76]:
+            - generic [ref=f283e77]:
+              - term [ref=f283e78] [cursor=pointer]: "Page ID:"
+              - definition [ref=f283e79]: "132350"
+          - listitem [ref=f283e80]:
+            - list [ref=f283e81]:
+              - listitem [ref=f283e82]:
+                - button "Pin Page" [ref=f283e83] [cursor=pointer]: 
+              - listitem
+              - text: 
+              - listitem [ref=f283e84]:
+                - list [ref=f283e85]:
+                  - listitem [ref=f283e86]:
+                    - 'link " 9.4: Diameters of Stars" [ref=f283e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.04%3A_Diameters_of_Stars
+                      - text: 
+                      - generic [ref=f283e88]: "9.4: Diameters of Stars"
+                  - listitem [ref=f283e89]:
+                    - 'link "9.6: The Red Sky Paradox " [ref=f283e90] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.06%3A_The_Red_Sky_Paradox
+                      - generic [ref=f283e91]: "9.6: The Red Sky Paradox"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f283e92]:
+        - paragraph [ref=f283e93]
+        - generic [ref=f283e94]:
+          - separator [ref=f283e95]
+          - paragraph [ref=f283e97]:
+            - 'link "9.5: The H-R Diagram" [ref=f283e98] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.05%3A_The_H-R_Diagram
+            - text: is shared under a
+            - link "CC BY" [ref=f283e99] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f283e100]:
+        - list [ref=f283e101]:
+          - listitem [ref=f283e102]:
+            - link "Back to top" [ref=f283e103] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f283e104]:
+            - list [ref=f283e105]:
+              - listitem [ref=f283e106]:
+                - 'link " 9.4: Diameters of Stars" [ref=f283e107] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.04%3A_Diameters_of_Stars
+                  - text: 
+                  - generic [ref=f283e108]: "9.4: Diameters of Stars"
+              - listitem [ref=f283e109]:
+                - 'link "9.6: The Red Sky Paradox " [ref=f283e110] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.06%3A_The_Red_Sky_Paradox
+                  - generic [ref=f283e111]: "9.6: The Red Sky Paradox"
+                  - text: 
+        - list [ref=f283e114]:
+          - listitem [ref=f283e115]: Was this article helpful?
+          - listitem [ref=f283e116]:
+            - button "Yes" [ref=f283e117] [cursor=pointer]
+          - listitem [ref=f283e118]:
+            - button "No" [ref=f283e119] [cursor=pointer]
+          - listitem [ref=f283e120]:
+            - button "Leave feedback" [ref=f283e121] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f283e122]:
+          - heading "Attachments" [level=2] [ref=f283e123]
+          - generic:
+            - button "Attach a file" [ref=f283e124] [cursor=pointer]
+            - text: 
+          - generic [ref=f283e126]:
+            - generic [ref=f283e129]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f283e130]
+            - generic [ref=f283e131]:
+              - grid [ref=f283e134]:
+                - rowgroup [ref=f283e135]:
+                  - row [ref=f283e136]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f283e137]':
+                      - generic:
+                        - generic [ref=f283e138]: File
+                        - generic [ref=f283e139]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f283e140]':
+                      - generic:
+                        - generic [ref=f283e141]: Last modified
+                        - generic [ref=f283e142]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f283e143]':
+                      - generic:
+                        - generic [ref=f283e144]: Size
+                        - generic [ref=f283e145]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f283e146]':
+                      - generic:
+                        - generic [ref=f283e147]: Added by
+                        - generic [ref=f283e148]: 
+              - grid [ref=f283e150]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f283e151]: File
+                          - generic [ref=f283e152]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f283e153]: Last modified
+                          - generic [ref=f283e154]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f283e155]: Size
+                          - generic [ref=f283e156]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f283e157]: Added by
+                          - generic [ref=f283e158]: 
+                - rowgroup [ref=f283e159]:
+                  - row [ref=f283e160]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f283e161]:
+                      - generic [ref=f283e162]:
+                        - generic [ref=f283e163]:
+                          - generic [ref=f283e164]: 
+                          - link "mindtouch.page#thumbnail" [ref=f283e165] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63452/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f283e166]:
+                          - generic [ref=f283e167]: (no description)
+                          - text: 
+                    - gridcell "Dec 7, 2025, 7:20 PM" [ref=f283e168]
+                    - gridcell "11 KiB" [ref=f283e170]
+                    - gridcell "Rachel Mastrapa" [ref=f283e171]
+    - generic [ref=f283e173]:
+      - button "Open support menu" [ref=f283e175] [cursor=pointer]: "?"
+      - navigation [ref=f283e177]:
+        - paragraph [ref=f283e179]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f283e180] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f283e181] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f283e182] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f283e183] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f283e184] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f283e185]:
+      - generic:
+        - generic [ref=f283e187]:
+          - button "Annotation sidebar" [ref=f283e188]
+          - generic [ref=f283e193]:
+            - button "Show highlights" [ref=f283e194]
+            - button "New page note" [ref=f283e199]
+          - status [ref=f283e204]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f283e205]:
+    - button "contents" [ref=f283e206] [cursor=pointer]
+    - button "readability" [ref=f283e208] [cursor=pointer]
+    - button "resources" [ref=f283e210] [cursor=pointer]
+    - button "tools" [ref=f283e212] [cursor=pointer]
+    - button "developers" [ref=f283e214] [cursor=pointer]

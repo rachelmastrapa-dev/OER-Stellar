@@ -1,0 +1,464 @@
+- generic [ref=f490e1]:
+  - link "Skip to main content" [ref=f490e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f490e3]:
+    - text: 
+    - generic [ref=f490e4]:
+      - generic [ref=f490e5]:
+        - generic: ✕
+        - navigation [ref=f490e7]:
+          - generic [ref=f490e8]:
+            - link [ref=f490e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f490e11]
+            - button "Enter Reader Mode" [ref=f490e13] [cursor=pointer]:
+              - generic [ref=f490e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f490e16]:
+        - list [ref=f490e18]:
+          - listitem [ref=f490e19]:
+            - link [ref=f490e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f490e22]
+          - listitem [ref=f490e23]:
+            - text: 
+            - generic [ref=f490e25]:
+              - generic [ref=f490e26]: "Search :"
+              - searchbox "Search :" [ref=f490e27]
+              - button " Search" [ref=f490e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f490e29]:
+            - list [ref=f490e30]:
+              - listitem [ref=f490e31]:
+                - link "Edit" [ref=f490e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.01%3A_The_Discovery_of_Galaxies?action=edit
+              - text: 
+              - listitem [ref=f490e33]:
+                - link " Options" [ref=f490e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f490e35]:
+                - link " Rachel Mastrapa" [ref=f490e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f490e37]:
+        - generic:
+          - button " Contents" [ref=f490e218] [cursor=pointer]
+          - list [ref=f490e39]:
+            - listitem [ref=f490e40]:
+              - link " Home" [ref=f490e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f490e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f490e43]:
+              - link " Workbench" [ref=f490e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f490e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f490e46]:
+              - link " De Anza - ASTR10" [ref=f490e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f490e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f490e49]:
+              - 'link " 16: Galaxies" [ref=f490e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies
+                - generic [ref=f490e51]: 
+                - text: "16: Galaxies"
+              - text: »
+            - listitem [ref=f490e52]:
+              - generic [ref=f490e53]: 
+              - text: "16.1: The Discovery of Galaxies"
+          - button " Expand/collapse global location" [ref=f490e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                
+    - article [ref=f490e55]:
+      - generic [ref=f490e56]:
+        - generic [ref=f490e57]:
+          - button " Page settings" [ref=f490e58] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :         "
+        - 'heading "16.1: The Discovery of Galaxies" [level=1] [ref=f490e59]':
+          - generic [ref=f490e219]: "16.1: The Discovery of Galaxies "
+        - list [ref=f490e62]:
+          - listitem [ref=f490e63]:
+            - link [ref=f490e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f490e66]:
+                - img "CC" [ref=f490e67]
+                - img "BY" [ref=f490e68]
+          - listitem [ref=f490e69]:
+            - generic [ref=f490e70]:
+              - term [ref=f490e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f490e72]: Aug 16, 2026, 9:37 AM by Rachel Mastrapa
+          - listitem [ref=f490e73]:
+            - generic [ref=f490e74]:
+              - term [ref=f490e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f490e76]: Private
+          - listitem [ref=f490e77]:
+            - generic [ref=f490e78]:
+              - term [ref=f490e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f490e80]: "112934"
+          - listitem [ref=f490e81]:
+            - list [ref=f490e82]:
+              - listitem [ref=f490e83]:
+                - button "Pin Page" [ref=f490e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f490e85]:
+                - list [ref=f490e86]:
+                  - listitem [ref=f490e87]:
+                    - 'link " 16: Galaxies" [ref=f490e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies
+                      - text: 
+                      - generic [ref=f490e89]: "16: Galaxies"
+                  - listitem [ref=f490e90]:
+                    - 'link "16.2: Types of Galaxies " [ref=f490e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.02%3A_Types_of_Galaxies
+                      - generic [ref=f490e92]: "16.2: Types of Galaxies"
+                      - text: 
+              - text:  
+      - list [ref=f490e95]:
+        - listitem [ref=f490e96]:
+          - img "OpenStax" [ref=f490e97]
+        - listitem [ref=f490e98]:
+          - link "OpenStax" [ref=f490e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f490e100]:
+          - link "OpenStax" [ref=f490e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f490e102]:
+        - group [ref=f490e223]:
+          - generic [ref=f490e224]:
+            - generic [ref=f490e225]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f490e226]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f490e227]:
+            - generic [ref=f490e230]:
+              - generic [ref=f490e231]:
+                - generic [ref=f490e232]:
+                  - link "Edit" [ref=f490e233]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f490e234]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f490e235]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f490e236]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f490e237]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f490e238]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f490e239]: "Words: 1041, Chars: 6633"
+              - group "Editor toolbars" [ref=f490e241]:
+                - toolbar [ref=f490e242]:
+                  - button "Save" [ref=f490e243]:
+                    - generic [ref=f490e244]: 
+                  - button "Cancel" [ref=f490e246]:
+                    - generic [ref=f490e247]: 
+                - toolbar [ref=f490e250]:
+                  - button "Undo" [disabled] [ref=f490e251]:
+                    - generic [ref=f490e252]: 
+                  - button "Redo" [disabled] [ref=f490e253]:
+                    - generic [ref=f490e254]: 
+                - toolbar [ref=f490e256]:
+                  - button "Headings" [ref=f490e257]
+                - toolbar [ref=f490e262]:
+                  - button "Bold" [ref=f490e263]:
+                    - generic [ref=f490e264]: 
+                  - button "Italic" [ref=f490e265]:
+                    - generic [ref=f490e266]: 
+                  - button "Underline" [ref=f490e267]:
+                    - generic [ref=f490e268]: 
+                - toolbar [ref=f490e270]:
+                  - button "Text color" [ref=f490e271]:
+                    - generic [ref=f490e272]: 
+                  - button "Background color" [ref=f490e274]:
+                    - generic [ref=f490e275]: 
+                - toolbar [ref=f490e278]:
+                  - button "Remove format" [ref=f490e279]:
+                    - generic [ref=f490e280]: 
+                - toolbar [ref=f490e282]:
+                  - button "Insert/Remove numbered list" [ref=f490e283]:
+                    - generic [ref=f490e284]: 
+                  - button "Insert/Remove bulleted list" [ref=f490e285]:
+                    - generic [ref=f490e286]: 
+                - toolbar [ref=f490e288]:
+                  - button "Alignment" [ref=f490e289]:
+                    - generic [ref=f490e290]: 
+                - text: 
+                - toolbar [ref=f490e293]:
+                  - button "Link" [ref=f490e294]:
+                    - generic [ref=f490e295]: 
+                  - button "Image" [ref=f490e296]:
+                    - generic [ref=f490e297]: 
+                  - text: 
+                  - button "Boxes" [ref=f490e298]
+                - toolbar [ref=f490e303]:
+                  - button "Replace" [ref=f490e304]:
+                    - generic [ref=f490e305]: 
+                - toolbar [ref=f490e307]:
+                  - button "Enable Binder" [ref=f490e308]
+                  - button "Insert Adapt" [ref=f490e310]
+                  - button "Query" [ref=f490e312]
+                  - button "Accessibility Checker" [ref=f490e315]
+                - toolbar [ref=f490e318]:
+                  - button "HTML" [ref=f490e319]:
+                    - generic [ref=f490e320]: 
+            - application "Rich Text Editor, editarea" [ref=f490e322]:
+              - iframe [active] [ref=f490e323]:
+                - generic [active] [ref=f492e1]:
+                  - heading "Galaxies Beyond the Milky Way" [level=2] [ref=f492e2]
+                  - paragraph [ref=f492e3]: A galaxy is a massive, gravitationally bound system of stars, stellar remnants, interstellar medium, and dark matter. The term galaxy comes from the Greek galaxias, literally translated as milk or milky, referring to our Milky Way galaxy. Galaxies can range in size from the dwarf galaxies as small as ten million stars, to giant galaxies with one hundred trillion stars. It is currently estimated that there are 170 billion galaxies in the Universe. Astronomer think that nearly all galaxies also contain planetary systems. That has not been confirmed, but is a solid theory based on what we have discovered in the Milky Way, and comparing the characteristics of the Milky Way to other galaxies. However, early astronomers did not even know that other galaxies existed.
+                  - heading "Early Observations" [level=3] [ref=f492e4]
+                  - paragraph [ref=f492e5]: Early astronomers differentiated between the planets and stars and deep sky objects. With the telescopes available in earlier centuries, galaxies looked like small fuzzy patches of light that were difficult to distinguish from the star clusters and gas-and-dust clouds that are part of our own Galaxy. All objects that were not sharp points of light were given the same name, nebulae, the Latin word for clouds.
+                  - paragraph [ref=f492e6]: The study and discussions of galaxies goes back millennia. Abd al-Rahman al-Sufi, an astronomer from Persia, modern Iran, studied the Large Magellanic Cloud, an irregular galaxy, which he called Al Bakr. He also studied the Andromeda Galaxy, which he described as a small cloud.
+                  - paragraph [ref=f492e7]: Thomas Wright hypothesized in 1750 that the Milky Way galaxy was a flattened disk of stars. Wright also thought that some of the 'nebulae' observed were actually objects like the Milky Way. Nebulae was the term used to describe all of these nebula-like objects, many of which are now known to be galaxies. Five years later, in 1755, Immanuel Kant coined the term Island Universe to describe these nebulae that Wright had hypothesized.
+                  - paragraph [ref=f492e8]: "During the search for comets from 1771 to 1784, Charles Messier completed a catalog listing of a number of bright nebulae. The designations in this catalog, such as M51 for Messier 51, are still used today. Several of the Messier Objects are now known to be galaxies. When William Herschel created his 1786 catalogue of deep sky objects, he used the phrase spiral nebula for a number of the objects, such as the Andromeda nebula. This indicated that Herschel was able to discern the spiral nature of these objects. William Parsons, 3rd Earl of Rosse, was an engineer and astronomer. In 1845 he was able to differentiate between elliptical and spiral nebulae using his 72-inch telescope. Figure \\(\\PageIndex{1}\\) is Rosse's sketch of the spiral structure of the Whirlpool Galaxy, then classified as a spiral nebula. Figure \\(\\PageIndex{2}\\) is a Hubble Space Telescope image of the same object, also called Messier 51. Comparing the two figures, it is impressive how much detail Rosse was able to glean from his early observations, including the presence of the companion galaxy NGC5195, considering he did not know the true nature of the objects."
+                  - figure [ref=f492e9]:
+                    - img "Illustration of the Whirlpool Galaxy's spiral structure by Lord Rosse. Details in caption." [ref=f492e10]
+                    - generic [ref=f492e11]:
+                      - text: "Figure \\(\\PageIndex{1}\\) : Whirlpool Galaxy. In 1845, Lord Rosse created this illustration of the Whirlpool Galaxy, then classified as a spiral nebula. ("
+                      - link "Public Domain" [ref=f492e12]:
+                        - /url: https://en.wikipedia.org/wiki/Public_domain
+                      - text: ;
+                      - link "Lord Rosse" [ref=f492e13]:
+                        - /url: https://en.wikipedia.org/wiki/William_Parsons,_3rd_Earl_of_Rosse
+                      - text: via
+                      - link "Wikimedia Commons" [ref=f492e14]:
+                        - /url: https://commons.wikimedia.org/wiki/File:Whirlpool_by_lord_rosse.jpg
+                      - text: )
+                      - 'link "Accessible description of Figure \\(\\PageIndex{1}\\)" [ref=f492e15]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/16:_Galaxies/16.08:_Accessible_Descriptions#Figure_16.1.1_Whirlpool_Galaxy
+                      - text: .
+                  - figure [ref=f492e16]:
+                    - img "Spiral Whirlpool Galaxy (M51) and galaxy NGC 5195 by Hubble Space Telescope. Details in caption." [ref=f492e17]
+                    - generic [ref=f492e18]:
+                      - text: "Figure \\(\\PageIndex{2}\\) : Messier 51. This Hubble Space Telescope image in visible light shows the spiral arms and star-forming regions of the Whirlpool Galaxy (M51) beside its companion, NGC 5195. ("
+                      - link "Public Domain" [ref=f492e19]:
+                        - /url: https://en.wikipedia.org/wiki/Public_domain
+                      - text: ;
+                      - link "NASA/ESA" [ref=f492e20]:
+                        - /url: https://www.nasa.gov/
+                      - text: via
+                      - link "Wikimedia Commons" [ref=f492e21]:
+                        - /url: https://commons.wikimedia.org/wiki/File:Messier51_sRGB.jpg
+                      - text: )
+                      - 'link "Accessible description of Figure \\(\\PageIndex{2}\\)" [ref=f492e22]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/16:_Galaxies/16.08:_Accessible_Descriptions#Figure_16.1.2_Messier_51
+                      - text: .
+                  - heading "Nebulae or Galaxies" [level=3] [ref=f492e23]
+                  - paragraph [ref=f492e24]: Into the 1920s, many astronomers thought the Milky Way encompassed all that exists in the universe. Because the precise shapes of galaxies were often hard to make out and no techniques had yet been devised for measuring their distances, the nature of the nebulae was the subject of much debate.
+                  - paragraph [ref=f492e25]:
+                    - text: In 1917, Heber Curtis (1872-1942) was observing a nova in the Andromeda galaxy, called nebula at the time. Researching previous novae, including those in the Milky Way, Curtis was convinced that Andromeda was indeed a galaxy much like the Milky Way Galaxy, and that the dust lanes seen in Andromeda were similar to those in the Milky Way Galaxy.
+                    - link "Edwin Hubble" [ref=f492e26]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/18:_Appendices/18.01:_Alphabetical_List_of_Scientists/18.1.12:_Hubble_Edwin
+                    - text: (1889-1953) settled that question a couple of years later when his research and observations determined "nebula" like Andromeda were indeed actually galaxies.
+                  - heading "Identifying Other Galaxies" [level=3] [ref=f492e27]
+                  - paragraph [ref=f492e28]: By the early twentieth century, some nebulae had been correctly identified as star clusters, and others, such as the Orion Nebula, as gaseous nebulae. Most nebulae, however, looked faint and indistinct, even with the best telescopes, and their distances remained unknown. If these nebulae were nearby, with distances comparable to those of observable stars, they were most likely clouds of gas or groups of stars within our Galaxy. If, on the other hand, they were remote, far beyond the edge of the Galaxy, they could be other star systems containing billions of stars. To determine what the nebulae are, astronomers had to find a way of measuring the distances to at least some of them. When the 2.5-meter (100-inch) telescope on Mount Wilson in Southern California went into operation, astronomers finally had the large telescope they needed to settle the controversy.
+                  - paragraph [ref=f492e29]: "Working with the 2.5-meter telescope, Edwin Hubble was able to resolve individual stars in several of the brighter spiral-shaped nebulae, including M31, the great spiral in Andromeda. Figure \\(\\PageIndex{3}\\) the Andromeda galaxy, including the stars that Hubble was able to observe. When he analyzed the light curves, of some of the stars he discovered some faint variable stars also called cepheids. Henrietta Leavitt, and astronomer working at Harvard, had developed a technique of measuring distances in space by using cepheid variables. Using her method, Hubble estimated that the Andromeda galaxy was about 900,000 light-years away from us. At that enormous distance, it had to be a separate galaxy of stars located well outside the boundaries of the Milky Way. Today, we know the Andromeda galaxy is actually slightly more than twice as distant as Hubble's first estimate, but his conclusion about its true nature remains unchanged."
+                  - figure [ref=f492e30]:
+                    - img "Andromeda Galaxy with satellite galaxies M32 and M110. Details in caption." [ref=f492e31]
+                    - generic [ref=f492e32]:
+                      - text: "Figure \\(\\PageIndex{3}\\) : Andromeda Galaxy. The disk, spiral arms, and dust lanes of the Andromeda Galaxy are contain many stars, including the Cepheid variables that can be used to measure the distance to the galaxy. ("
+                      - link "CC BY 4.0" [ref=f492e33]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f492e34]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f492e35]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: )
+                      - 'link "Accessible description of Figure \\(\\PageIndex{1}\\)" [ref=f492e36]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/16:_Galaxies/16.08:_Accessible_Descriptions#Figure_16.1.3_Andromeda_Galaxy
+                      - text: .
+              - generic [ref=f490e324]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f490e326] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f490e104]:
+          - separator [ref=f490e105]
+          - paragraph [ref=f490e107]:
+            - text: This page titled
+            - 'link "16.1: The Discovery of Galaxies" [ref=f490e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.01%3A_The_Discovery_of_Galaxies
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f490e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f490e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f490e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f490e112]:
+        - list [ref=f490e113]:
+          - listitem [ref=f490e114]:
+            - link "Back to top" [ref=f490e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f490e116]:
+            - list [ref=f490e117]:
+              - listitem [ref=f490e118]:
+                - 'link " 16: Galaxies" [ref=f490e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies
+                  - text: 
+                  - generic [ref=f490e120]: "16: Galaxies"
+              - listitem [ref=f490e121]:
+                - 'link "16.2: Types of Galaxies " [ref=f490e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.02%3A_Types_of_Galaxies
+                  - generic [ref=f490e123]: "16.2: Types of Galaxies"
+                  - text: 
+        - list [ref=f490e126]:
+          - listitem [ref=f490e127]: Was this article helpful?
+          - listitem [ref=f490e128]:
+            - button "Yes" [ref=f490e129] [cursor=pointer]
+          - listitem [ref=f490e130]:
+            - button "No" [ref=f490e131] [cursor=pointer]
+          - listitem [ref=f490e132]:
+            - button "Leave feedback" [ref=f490e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , , , , ,"
+        - generic [ref=f490e134]:
+          - heading "Attachments" [level=2] [ref=f490e135]
+          - generic:
+            - button "Attach a file" [ref=f490e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f490e138]:
+            - generic [ref=f490e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f490e142]
+            - generic [ref=f490e143]:
+              - grid [ref=f490e146]:
+                - rowgroup [ref=f490e147]:
+                  - row [ref=f490e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f490e149]':
+                      - generic:
+                        - generic [ref=f490e150]: File
+                        - generic [ref=f490e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f490e152]':
+                      - generic:
+                        - generic [ref=f490e153]: Last modified
+                        - generic [ref=f490e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f490e155]':
+                      - generic:
+                        - generic [ref=f490e156]: Size
+                        - generic [ref=f490e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f490e158]':
+                      - generic:
+                        - generic [ref=f490e159]: Added by
+                        - generic [ref=f490e160]: 
+              - grid [ref=f490e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f490e327]: File
+                          - generic [ref=f490e328]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f490e329]: Last modified
+                          - generic [ref=f490e330]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f490e331]: Size
+                          - generic [ref=f490e332]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f490e333]: Added by
+                          - generic [ref=f490e334]: 
+                - rowgroup [ref=f490e171]:
+                  - row [ref=f490e335]:
+                    - gridcell " 3840px-Messier51.jpg (no description)" [ref=f490e336]:
+                      - generic [ref=f490e337]:
+                        - generic [ref=f490e338]:
+                          - generic [ref=f490e339]: 
+                          - link "3840px-Messier51.jpg" [ref=f490e340] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/68236/3840px-Messier51.jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f490e341]:
+                          - generic [ref=f490e342]: (no description)
+                          - text: 
+                    - gridcell "Aug 14, 2026, 7:05 PM" [ref=f490e343]
+                    - gridcell "2.6 MiB" [ref=f490e345]
+                    - gridcell "Rachel Mastrapa" [ref=f490e346]
+                  - row [ref=f490e347]:
+                    - gridcell " 3840px-Messier51_sRGB.jpg (no description)" [ref=f490e348]:
+                      - generic [ref=f490e349]:
+                        - generic [ref=f490e350]:
+                          - generic [ref=f490e351]: 
+                          - link "3840px-Messier51_sRGB.jpg" [ref=f490e352] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/68239/3840px-Messier51_sRGB.jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f490e353]:
+                          - generic [ref=f490e354]: (no description)
+                          - text: 
+                    - gridcell "Aug 15, 2026, 9:59 AM" [ref=f490e355]
+                    - gridcell "2.6 MiB" [ref=f490e357]
+                    - gridcell "Rachel Mastrapa" [ref=f490e358]
+                  - row [ref=f490e359]:
+                    - gridcell " RosseGalaxy.jpg (no description)" [ref=f490e360]:
+                      - generic [ref=f490e361]:
+                        - generic [ref=f490e362]:
+                          - generic [ref=f490e363]: 
+                          - link "RosseGalaxy.jpg" [ref=f490e364] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/68235/RosseGalaxy.jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f490e365]:
+                          - generic [ref=f490e366]: (no description)
+                          - text: 
+                    - gridcell "Aug 14, 2026, 7:03 PM" [ref=f490e367]
+                    - gridcell "251 KiB" [ref=f490e369]
+                    - gridcell "Rachel Mastrapa" [ref=f490e370]
+    - generic [ref=f490e175]:
+      - button "Open support menu" [ref=f490e177] [cursor=pointer]: "?"
+      - navigation [ref=f490e179]:
+        - paragraph [ref=f490e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f490e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f490e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f490e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f490e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f490e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f490e187]:
+      - generic:
+        - generic [ref=f490e189]:
+          - button "Annotation sidebar" [ref=f490e190]
+          - generic [ref=f490e195]:
+            - button "Show highlights" [ref=f490e196]
+            - button "New page note" [ref=f490e201]
+          - status [ref=f490e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f490e207]:
+    - button "contents" [ref=f490e208] [cursor=pointer]
+    - button "readability" [ref=f490e210] [cursor=pointer]
+    - button "resources" [ref=f490e212] [cursor=pointer]
+    - button "tools" [ref=f490e214] [cursor=pointer]
+    - button "developers" [ref=f490e216] [cursor=pointer]
+  - text:  
+  - generic [ref=f490e371]:
+    - generic [ref=f490e372] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f490e375] [cursor=pointer]

@@ -1,0 +1,251 @@
+- generic [ref=f449e1]:
+  - link "Skip to main content" [ref=f449e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f449e3]:
+    - text: 
+    - generic [ref=f449e4]:
+      - generic [ref=f449e5]:
+        - generic: ✕
+        - navigation [ref=f449e7]:
+          - generic [ref=f449e8]:
+            - link [ref=f449e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f449e11]
+            - button "Enter Reader Mode" [ref=f449e13] [cursor=pointer]:
+              - generic [ref=f449e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f449e16]:
+        - list [ref=f449e18]:
+          - listitem [ref=f449e19]:
+            - link [ref=f449e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f449e22]
+          - listitem [ref=f449e23]:
+            - text: 
+            - generic [ref=f449e25]:
+              - generic [ref=f449e26]: "Search :"
+              - searchbox "Search :" [ref=f449e27]
+              - button " Search" [ref=f449e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f449e29]:
+            - list [ref=f449e30]:
+              - listitem [ref=f449e31]:
+                - link "Edit" [ref=f449e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy?action=edit
+              - text: 
+              - listitem [ref=f449e33]:
+                - link " Options" [ref=f449e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f449e35]:
+                - link " Rachel Mastrapa" [ref=f449e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f449e37]:
+        - generic:
+          - button " Contents" [ref=f449e162] [cursor=pointer]
+          - list [ref=f449e39]:
+            - listitem [ref=f449e40]:
+              - link " Home" [ref=f449e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f449e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f449e43]:
+              - link " Workbench" [ref=f449e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f449e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f449e46]:
+              - link " De Anza - ASTR10" [ref=f449e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f449e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f449e49]:
+              - generic [ref=f449e50]: 
+              - text: "15: Milky Way Galaxy"
+          - text: 
+      - navigation:
+        - generic:                                                 
+    - article [ref=f449e51]:
+      - generic [ref=f449e52]:
+        - generic [ref=f449e53]:
+          - button " Page settings" [ref=f449e54] [cursor=pointer]
+          - text: "    : :  :  :  :  :  :  :  :  :  :  :  :  :     "
+        - 'heading "15: Milky Way Galaxy" [level=1] [ref=f449e55]':
+          - generic [ref=f449e163]: "15: Milky Way Galaxy "
+        - list [ref=f449e58]:
+          - listitem [ref=f449e59]:
+            - link [ref=f449e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f449e62]:
+                - img "CC" [ref=f449e63]
+                - img "BY" [ref=f449e64]
+          - listitem [ref=f449e65]:
+            - generic [ref=f449e66]:
+              - term [ref=f449e67]: "Last updated:"
+              - definition [ref=f449e68]: Aug 14, 2026, 6:37 PM by Rachel Mastrapa
+          - listitem [ref=f449e69]:
+            - generic [ref=f449e70]:
+              - term [ref=f449e71]: "Page restriction:"
+              - definition [ref=f449e72]: Private
+          - listitem [ref=f449e73]:
+            - generic [ref=f449e74]:
+              - term [ref=f449e75]: "Page ID:"
+              - definition [ref=f449e76]: "139697"
+          - listitem [ref=f449e77]:
+            - list [ref=f449e78]:
+              - listitem [ref=f449e79]:
+                - button "Pin Page" [ref=f449e80] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f449e81]:
+                - list [ref=f449e82]:
+                  - listitem [ref=f449e83]:
+                    - 'link " 14.6: Accessible Descriptions" [ref=f449e84] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.06%3A_Accessible_Descriptions
+                      - text: 
+                      - generic [ref=f449e85]: "14.6: Accessible Descriptions"
+                  - listitem [ref=f449e86]:
+                    - 'link "15.1: Observing Our Galaxy " [ref=f449e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.01%3A_Observing_Our_Galaxy
+                      - generic [ref=f449e88]: "15.1: Observing Our Galaxy"
+                      - text: 
+              - text:  
+      - list [ref=f449e91]:
+        - listitem [ref=f449e92]:
+          - img "OpenStax" [ref=f449e93]
+        - listitem [ref=f449e94]:
+          - link "OpenStax" [ref=f449e95] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f449e96]:
+          - link "OpenStax" [ref=f449e97] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f449e98]:
+        - group [ref=f449e167]:
+          - generic [ref=f449e168]:
+            - generic [ref=f449e169]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f449e170]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f449e171]:
+            - generic [ref=f449e174]:
+              - generic [ref=f449e176]:
+                - link "Edit" [ref=f449e177]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f449e178]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f449e179]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f449e180]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f449e181]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f449e182]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f449e185]:
+                - toolbar [ref=f449e186]:
+                  - button "Save" [ref=f449e187]:
+                    - generic [ref=f449e188]: 
+                  - button "Cancel" [ref=f449e190]:
+                    - generic [ref=f449e191]: 
+                - text:          
+                - toolbar [ref=f449e232]:
+                  - button "Alignment" [ref=f449e233]:
+                    - generic [ref=f449e234]: 
+                - text:    
+                - toolbar [ref=f449e247]:
+                  - button "Replace" [ref=f449e248]:
+                    - generic [ref=f449e249]: 
+                - toolbar [ref=f449e251]:
+                  - button "Enable Binder" [disabled] [ref=f449e252]
+                  - button "Insert Adapt" [disabled] [ref=f449e254]
+                  - button "Query" [ref=f449e256]
+                  - button "Accessibility Checker" [disabled] [ref=f449e259]
+                - toolbar [ref=f449e262]:
+                  - button "Visual" [pressed] [ref=f449e278]:
+                    - generic [ref=f449e264]: 
+            - application "Rich Text Editor, editarea" [ref=f449e266]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f449e280]: "<h2>Introduction</h2> <p class=\"lt-phys-3798 lt-phys-64815\">One of the most striking features you can see in a truly dark sky—one without light pollution—is the band of faint white light called the Milky Way, which stretches from one horizon to the other. This chapter will discuss early observations of the Milky Way, our galaxy's structure, formation, and many other things that we have learned while observing the Milky Way.</p> <section class=\"box-objectives\"> <h5 class=\"box-legend lt-phys-64816\"><span class=\"lt-icon-default\">Learning Objectives</span></h5> <p class=\"lt-phys-64816\">By the end of this section, you will be able to:</p> <ul> <li class=\"lt-phys-64816\">List the main components of the Galaxy</li> <li class=\"lt-phys-64818\">Describe how astronomers determine the mass of the galaxy</li> <li class=\"lt-phys-64818\">Describe how the observed rotation curve of our galaxy suggest the presence of dark matter</li> <li class=\"lt-phys-64819\">Describe the radio and X-ray observations that indicate energetic phenomena are occurring at the galactic center</li> <li class=\"lt-phys-64819\">Explain what has been revealed by high-resolution near-infrared imaging of the galactic center</li> <li class=\"lt-phys-64820\">Distinguish between population I and population II stars according to their locations, motions, heavy-element abundances, and ages</li> <li class=\"lt-phys-64821\">Describe the roles played by the collapse of a single cloud and mergers with other galaxies in building the Milky Way Galaxy we see today</li> </ul> </section> <p class=\"lt-phys-3798 lt-phys-64815\">{{template.ShowOrg()}}</p> <p><strong>Thumbnail</strong>: Milky Way over dunes in Great Sand Dunes National Park, Colorado, United States. (<a href=\"https://en.wikipedia.org/wiki/Public_domain\" target=\"_blank\" title=\"Public Domain\">Public Domain</a>; <a href=\"https://www.flickr.com/photos/greatsanddunesnpp/33949708268/\" target=\"_blank\" title=\"Patrick Myers\">NPS/Patrick Myers</a> via <a href=\"https://commons.wikimedia.org/wiki/File:Milky_Way_over_dunes_in_Great_Sand_Dunes_National_Park,_Colorado,_United_States.jpg\" target=\"_blank\" title=\"Wikimedia Commons\">Wikimedia Commons</a>)</p>"
+              - generic [ref=f449e268]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f449e270] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f449e100]:
+          - separator [ref=f449e101]
+          - paragraph [ref=f449e103]:
+            - text: This page titled
+            - 'link "15: Milky Way Galaxy" [ref=f449e104] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f449e105] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f449e106] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f449e107] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f449e108]:
+        - list [ref=f449e109]:
+          - listitem: 
+          - listitem [ref=f449e110]:
+            - list [ref=f449e111]:
+              - listitem [ref=f449e112]:
+                - 'link " 14.6: Accessible Descriptions" [ref=f449e113] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.06%3A_Accessible_Descriptions
+                  - text: 
+                  - generic [ref=f449e114]: "14.6: Accessible Descriptions"
+              - listitem [ref=f449e115]:
+                - 'link "15.1: Observing Our Galaxy " [ref=f449e116] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.01%3A_Observing_Our_Galaxy
+                  - generic [ref=f449e117]: "15.1: Observing Our Galaxy"
+                  - text: 
+        - generic:   
+        - text: "     : : : : : : : , ,              "
+    - generic [ref=f449e119]:
+      - button "Open support menu" [ref=f449e121] [cursor=pointer]: "?"
+      - navigation [ref=f449e123]:
+        - paragraph [ref=f449e125]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f449e126] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f449e127] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f449e128] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f449e129] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f449e130] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f449e131]:
+      - generic:
+        - generic [ref=f449e133]:
+          - button "Annotation sidebar" [ref=f449e134]
+          - generic [ref=f449e139]:
+            - button "Show highlights" [ref=f449e140]
+            - button "New page note" [ref=f449e145]
+          - status [ref=f449e150]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f449e151]:
+    - button "contents" [ref=f449e152] [cursor=pointer]
+    - button "readability" [ref=f449e154] [cursor=pointer]
+    - button "resources" [ref=f449e156] [cursor=pointer]
+    - button "tools" [ref=f449e158] [cursor=pointer]
+    - button "developers" [ref=f449e160] [cursor=pointer]
+  - text:  
+  - generic [ref=f449e271]:
+    - generic [ref=f449e272] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f449e275] [cursor=pointer]

@@ -1,0 +1,443 @@
+- generic [ref=f214e1]:
+  - link "Skip to main content" [ref=f214e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f214e3]:
+    - text: 
+    - generic [ref=f214e4]:
+      - generic [ref=f214e5]:
+        - generic: ✕
+        - navigation [ref=f214e7]:
+          - generic [ref=f214e8]:
+            - link [ref=f214e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f214e11]
+            - button "Enter Reader Mode" [ref=f214e13] [cursor=pointer]:
+              - generic [ref=f214e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f214e16]:
+        - list [ref=f214e18]:
+          - listitem [ref=f214e19]:
+            - link [ref=f214e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f214e22]
+          - listitem [ref=f214e23]:
+            - text: 
+            - generic [ref=f214e25]:
+              - generic [ref=f214e26]: "Search :"
+              - searchbox "Search :" [ref=f214e27]
+              - button " Search" [ref=f214e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f214e29]:
+            - list [ref=f214e30]:
+              - listitem [ref=f214e31]:
+                - link "Edit" [ref=f214e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.04%3A_Story_of_the_Solar_Neutrino_Problem?action=edit
+              - text: 
+              - listitem [ref=f214e33]:
+                - link " Options" [ref=f214e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f214e35]:
+                - link " Rachel Mastrapa" [ref=f214e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f214e37]:
+        - generic:
+          - button " Contents" [ref=f214e241] [cursor=pointer]
+          - list [ref=f214e39]:
+            - listitem [ref=f214e40]:
+              - link " Home" [ref=f214e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f214e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f214e43]:
+              - link " Workbench" [ref=f214e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f214e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f214e46]:
+              - link " De Anza - ASTR10" [ref=f214e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f214e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f214e49]:
+              - 'link " 7: Powering the Stars" [ref=f214e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars
+                - generic [ref=f214e51]: 
+                - text: "7: Powering the Stars"
+              - text: »
+            - listitem [ref=f214e52]:
+              - generic [ref=f214e53]: 
+              - text: "7.4: Story of the Solar Neutrino Problem"
+          - button " Expand/collapse global location" [ref=f214e54] [cursor=pointer]
+      - navigation:
+        - generic:                                              
+    - article [ref=f214e55]:
+      - generic [ref=f214e56]:
+        - generic [ref=f214e57]:
+          - button " Page settings" [ref=f214e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "7.4: Story of the Solar Neutrino Problem" [level=1] [ref=f214e59]':
+          - generic [ref=f214e60]: "7.4: Story of the Solar Neutrino Problem "
+        - list [ref=f214e62]:
+          - listitem [ref=f214e63]:
+            - link [ref=f214e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f214e66]:
+                - img "CC" [ref=f214e67]
+                - img "BY" [ref=f214e68]
+          - listitem [ref=f214e69]:
+            - generic [ref=f214e70]:
+              - term [ref=f214e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f214e72]: Aug 7, 2026, 12:33 PM by Caitlin Kepple
+          - listitem [ref=f214e73]:
+            - generic [ref=f214e74]:
+              - term [ref=f214e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f214e76]: Private
+          - listitem [ref=f214e77]:
+            - generic [ref=f214e78]:
+              - term [ref=f214e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f214e80]: "128545"
+          - listitem [ref=f214e81]:
+            - list [ref=f214e82]:
+              - listitem [ref=f214e83]:
+                - button "Pin Page" [ref=f214e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f214e85]:
+                - list [ref=f214e86]:
+                  - listitem [ref=f214e87]:
+                    - 'link " 7.3: The Solar Interior" [ref=f214e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.03%3A_The_Solar_Interior
+                      - text: 
+                      - generic [ref=f214e89]: "7.3: The Solar Interior"
+                  - listitem [ref=f214e90]:
+                    - 'link "7.5: Key Terms " [ref=f214e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.05%3A_Key_Terms
+                      - generic [ref=f214e92]: "7.5: Key Terms"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f214e93]:
+        - group [ref=f214e244]:
+          - generic [ref=f214e245]:
+            - generic [ref=f214e246]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f214e247]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f214e248]:
+            - generic [ref=f214e251]:
+              - generic [ref=f214e252]:
+                - generic [ref=f214e253]:
+                  - link "Edit" [ref=f214e254]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f214e255]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f214e256]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f214e257]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f214e258]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f214e259]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f214e260]: "Words: 1329, Chars: 8536"
+              - group "Editor toolbars" [ref=f214e262]:
+                - toolbar [ref=f214e263]:
+                  - button "Save" [ref=f214e264]:
+                    - generic [ref=f214e265]: 
+                  - button "Cancel" [ref=f214e267]:
+                    - generic [ref=f214e268]: 
+                - toolbar [ref=f214e271]:
+                  - button "Undo" [disabled] [ref=f214e272]:
+                    - generic [ref=f214e273]: 
+                  - button "Redo" [disabled] [ref=f214e274]:
+                    - generic [ref=f214e275]: 
+                - toolbar [ref=f214e277]:
+                  - button "Headings" [ref=f214e278]
+                - toolbar [ref=f214e283]:
+                  - button "Bold" [ref=f214e284]:
+                    - generic [ref=f214e285]: 
+                  - button "Italic" [ref=f214e286]:
+                    - generic [ref=f214e287]: 
+                  - button "Underline" [ref=f214e288]:
+                    - generic [ref=f214e289]: 
+                - toolbar [ref=f214e291]:
+                  - button "Text color" [ref=f214e292]:
+                    - generic [ref=f214e293]: 
+                  - button "Background color" [ref=f214e295]:
+                    - generic [ref=f214e296]: 
+                - toolbar [ref=f214e299]:
+                  - button "Remove format" [ref=f214e300]:
+                    - generic [ref=f214e301]: 
+                - toolbar [ref=f214e303]:
+                  - button "Insert/Remove numbered list" [ref=f214e304]:
+                    - generic [ref=f214e305]: 
+                  - button "Insert/Remove bulleted list" [ref=f214e306]:
+                    - generic [ref=f214e307]: 
+                - toolbar [ref=f214e309]:
+                  - button "Alignment" [ref=f214e310]:
+                    - generic [ref=f214e311]: 
+                - text: 
+                - toolbar [ref=f214e314]:
+                  - button "Link" [ref=f214e315]:
+                    - generic [ref=f214e316]: 
+                  - button "Image" [ref=f214e317]:
+                    - generic [ref=f214e318]: 
+                  - text: 
+                  - button "Boxes" [ref=f214e319]
+                - toolbar [ref=f214e324]:
+                  - button "Replace" [ref=f214e325]:
+                    - generic [ref=f214e326]: 
+                - toolbar [ref=f214e328]:
+                  - button "Enable Binder" [ref=f214e329]
+                  - button "Insert Adapt" [ref=f214e331]
+                  - button "Query" [ref=f214e333]
+                  - button "Accessibility Checker" [ref=f214e336]
+                - toolbar [ref=f214e339]:
+                  - button "HTML" [ref=f214e340]:
+                    - generic [ref=f214e341]: 
+            - application "Rich Text Editor, editarea" [ref=f214e343]:
+              - iframe [active] [ref=f214e344]:
+                - generic [active] [ref=f216e1]:
+                  - heading "Science and Society - The Story of the Solar Neutrino Problem" [level=2] [ref=f216e2]
+                  - heading "Introduction to Astrobites" [level=3] [ref=f216e3]
+                  - paragraph [ref=f216e4]: This Science and Society is a showcase example from the Astrobites website, which contains articles written by undergraduate and graduate students of all different backgrounds. Students read over a published scientific article about Astronomy or Physics, then write a student-friendly version of it. We (the authors of this textbook) have only made minor adjustment to follow copyright agreements. After reading this student-written article, we hope you take some time to also review the original scientific article about neutrinos included at the end of this page.
+                  - heading "The Mysterious Neutrino" [level=3] [ref=f216e5]
+                  - paragraph [ref=f216e6]: "Here are some facts about our Sun: it rises in the east and sets in the west. It is powered by nuclear fusion taking place in its molten hot core. Radiation is emitted from the Sun’s surface out into interstellar space. It takes light eight minutes to get from the Sun to Earth. The Earth’s magnetic field protects it from most of these rays, but some end up reaching the ground. Solar radiation is what makes life on Earth possible, and therefore one of the most important physical phenomena of our existence. However, it wasn’t until the past 100 years that humans finally began to understand the nature of these life-giving beams. We didn’t know that the Sun was made up of mostly hydrogen until 1929. In 1942, the first solar radio-wave emissions were detected. The ultraviolet portion of the Sun’s electromagnetic spectrum remained a mystery until 1946. Even though the Sun has been a part of every single human being’s daily life since we began walking the Earth, we are only just starting to truly understand it."
+                  - paragraph [ref=f216e7]: "One of the most fascinating mysteries of the Sun involved the creation, emission, and detection of solar neutrinos. Neutrinos are neutral subatomic particles that are incredibly tiny and abundant in the universe. They are created every time atomic nuclei fuse together or break apart. It is incredibly difficult to detect neutrinos because they almost never interact with matter. In fact, for every 100 billion neutrinos that reach Earth, only one will end up interacting with anything. Additionally, the only way to detect a neutrino is to measure its interaction with another particle. Scientists have been able to detect three different types of neutrinos based on what particle they interact with: electron neutrinos, muon neutrinos, and tau neutrinos. In the Sun’s furnace, only electron neutrinos are created due to the nuclear reactions taking place there."
+                  - paragraph [ref=f216e8]: In 1964, Dr. Raymond David Jr. and Dr. John Bahcall conducted an experiment to figure out whether nuclear fusion was the source of sunlight. During their experiment, they created a computer model that approximated the relative number of neutrinos passing through a unit area per unit time, or flux, of neutrinos the Sun produces at different energies. When they compared their model to observational data, though, only a third of the predicted flux was measured. This discrepancy was coined “the solar neutrino problem” and ended up puzzling scientists for nearly forty years. Where were the other neutrinos? Was there something wrong with our detectors, or was it our models? The answer happened to be both.
+                  - paragraph [ref=f216e9]: At the end of the 20th century, a massive group of scientists, led by Dr. Arthur B. McDonald from Queen’s University, came together to solve the solar neutrino problem. They were using the Sudbury Neutrino Observatory (SNO) located in Ontario, Canada to detect solar neutrinos emitted from the decay of boron-8, an isotope of boron. When the neutrinos interact with the heavy water molecules, they release Cherenkov radiation. This type of radiation is emitted when particles move faster than light in a specific medium. In the SNO, light is slowed down by the water’s refractive index, but charged particles are not. The detected Cherenkov radiation can then be used to make assumptions about its source—in this case, the neutrinos.
+                  - figure [ref=f216e10]:
+                    - img "SNODetector.png" [ref=f216e11]
+                    - generic [ref=f216e12]:
+                      - text: "Figure \\(\\PageIndex{1}\\): Photograph of the SNO+ Detector, taken when the water within the Acrylic Vessel was being replaced with liquid scintillator. ("
+                      - link "CC-BY 4.0" [ref=f216e13]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/deed.en
+                      - text: ;
+                      - link "The SNO Collaboration" [ref=f216e14]:
+                        - /url: https://commons.wikimedia.org/wiki/File:SNO%2B_Detector,_Partially_Filled_with_Scintillator_and_Water.webp
+                      - text: via
+                      - link "Wikimedia Commons" [ref=f216e15]:
+                        - /url: https://commons.wikimedia.org/wiki/Main_Page
+                      - text: ).
+                  - paragraph [ref=f216e16]: The SNO is built 6,800 feet underground to protect it from cosmic rays and uses 1,000 tons of heavy water contained by an acrylic vessel twelve meters in diameter. It has an array of 9,600 photomultiplier tubes mounted on a support structure around the vessel to detect Cherenkov radiation.
+                  - paragraph [ref=f216e17]: The SNO is unique when compared to other neutrino observatories because it can detect neutrinos through three different reactions, meaning that it can detect all three neutrino types. The charged-current (CC) reaction is only sensitive to electron neutrinos, the neutral-current (NC) reaction is sensitive to all neutrino types, and the elastic-scattering (ES) reaction is also sensitive to all three types, but less sensitive to muon and tau neutrinos than electron neutrinos. Earlier observatories were only calibrated to detect electron neutrinos, so they couldn’t make any observations about the other two types. I don’t know what lead the physicists on the SNO project to consider the other two reactions. Was it instinct, intuition, incidental? Was it fate?
+                  - heading "Neutrino Flavors" [level=3] [ref=f216e18]
+                  - paragraph [ref=f216e19]: Between November 2, 1999 and May 28, 2001, data was recorded at the Sudbury Neutrino Observatory. They used the timing and hit patterns of the Cherenkov radiation to reconstruct the neutrino paths and the most probable kinetic energy of the particles. From these observations, they could determine the flux for each neutrino type. When all three fluxes were added together, they found that the total flux matched the predicted value found by David Jr. and Bahcall. This was a surprising result considering that only electron neutrinos are produced in the Sun. Could the neutrinos be changing types as they travel through space? As unlikely as it sounds, the answer is yes. At some point during the eight minutes the Sun’s light spends traveling to Earth, most of the electron neutrinos become muon and tau neutrinos. This phenomenon is called neutrino oscillations or neutrino flavor transformations, which describes how low energy solar neutrinos can switch types as they travel. The number of changes the neutrino can make and the frequency of the changes depends on its energy.
+                  - figure [ref=f216e20]:
+                    - img "A table showing how elementary particles are organized" [ref=f216e21]
+                    - generic [ref=f216e22]:
+                      - text: "Figure \\(\\PageIndex{2}\\): The Standard Model of Particle Physics, with neutrino flavors shown along the bottom row. (Public Domain;"
+                      - link "Cush" [ref=f216e23]:
+                        - /url: https://commons.wikimedia.org/wiki/User:Cush
+                      - text: via
+                      - link "Wikimedia Commons" [ref=f216e24]:
+                        - /url: https://commons.wikimedia.org/wiki/Main_Page
+                      - text: ).
+                  - paragraph [ref=f216e25]: The discovery of neutrino flavor transformation not only solved the solar neutrino problem, it also exposed an incompleteness of the Standard Model of physics, shown above. Before this paper, neutrinos were thought to have no mass at all; however, if neutrinos had no mass, they wouldn’t be able to oscillate. The fact that neutrinos have mass changes the way scientists treat them in calculations and alters our view of the quantum world. The physicists involved in the SNO project might have been looking for the smallest particles known to mankind, but their discoveries had large impacts that are still felt today. As a result, Dr. McDonald won the Nobel Prize in Physics in 2015 for his contribution to the discovery of neutrino oscillations, along with Dr. Takaaki Kajita who showed that some muon neutrinos disappeared as they traveled from their origin to the detector.
+                  - paragraph [ref=f216e26]: The solar neutrino problem might have been untangled, but there are still many mysteries about the Sun that physicists are trying to solve. Why is the solar atmosphere so much hotter than the surface? How can we predict coronal mass ejections? How does solar wind effect the shape and orbit of comets? As an astronomer, I know how easy it is to desire to look beyond our solar system towards distant stars and galaxies, but we cannot forget about the well of information right in front of us. We learned more about the nature of neutrinos from studying the Sun, so maybe the secret to finding a “Theory of Everything” is hidden somewhere beneath its flares. Every day, the Sun rises in the east and sets in the west, waving for our attention—inviting us to unlock its secrets.
+                  - paragraph [ref=f216e27]
+                  - heading "Attributions" [level=3] [ref=f216e28]
+                  - paragraph [ref=f216e29]:
+                    - link "https://astrobites.org/2024/07/15/ei...-oscillations/" [ref=f216e30]:
+                      - /url: https://astrobites.org/2024/07/15/eight-minutes-the-discovery-of-neutrino-oscillations/
+                  - heading "References" [level=3] [ref=f216e31]
+                  - paragraph [ref=f216e32]:
+                    - link "https://journals.aps.org/prl/abstrac...Lett.89.011301" [ref=f216e33]:
+                      - /url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.89.011301
+                  - heading "For Further Exploration" [level=3] [ref=f216e34]
+                  - paragraph [ref=f216e35]:
+                    - text: "The Sudbury Neutrino Observatory:"
+                    - link "https://sno.phy.queensu.ca/" [ref=f216e36]:
+                      - /url: https://sno.phy.queensu.ca/
+                  - paragraph [ref=f216e37]:
+                    - text: "2015 Nobel Prize on Neutrino Oscillations:"
+                    - link "https://www.nobelprize.org/uploads/2...sprize2015.pdf" [ref=f216e38]:
+                      - /url: https://www.nobelprize.org/uploads/2017/09/advanced-physicsprize2015.pdf
+                  - paragraph [ref=f216e39]:
+                    - text: "Fermilab Neutrino Video:"
+                    - link "https://youtu.be/1FSOYNlMMRQ" [ref=f216e40]:
+                      - /url: https://youtu.be/1FSOYNlMMRQ
+                  - paragraph [ref=f216e41]
+              - generic [ref=f214e345]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f214e347] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f214e95]:
+          - separator [ref=f214e96]
+          - paragraph [ref=f214e98]:
+            - 'link "7.4: Story of the Solar Neutrino Problem" [ref=f214e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.04%3A_Story_of_the_Solar_Neutrino_Problem
+            - text: is shared under a
+            - link "CC BY" [ref=f214e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f214e101]:
+        - list [ref=f214e102]:
+          - listitem [ref=f214e103]:
+            - link "Back to top" [ref=f214e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f214e105]:
+            - list [ref=f214e106]:
+              - listitem [ref=f214e107]:
+                - 'link " 7.3: The Solar Interior" [ref=f214e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.03%3A_The_Solar_Interior
+                  - text: 
+                  - generic [ref=f214e109]: "7.3: The Solar Interior"
+              - listitem [ref=f214e110]:
+                - 'link "7.5: Key Terms " [ref=f214e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.05%3A_Key_Terms
+                  - generic [ref=f214e112]: "7.5: Key Terms"
+                  - text: 
+        - list [ref=f214e115]:
+          - listitem [ref=f214e116]: Was this article helpful?
+          - listitem [ref=f214e117]:
+            - button "Yes" [ref=f214e118] [cursor=pointer]
+          - listitem [ref=f214e119]:
+            - button "No" [ref=f214e120] [cursor=pointer]
+          - listitem [ref=f214e121]:
+            - button "Leave feedback" [ref=f214e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f214e123]:
+          - heading "Attachments" [level=2] [ref=f214e124]
+          - generic:
+            - button "Attach a file" [ref=f214e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f214e127]:
+            - generic [ref=f214e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f214e131]
+            - generic [ref=f214e132]:
+              - grid [ref=f214e135]:
+                - rowgroup [ref=f214e136]:
+                  - row [ref=f214e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f214e138]':
+                      - generic:
+                        - generic [ref=f214e139]: File
+                        - generic [ref=f214e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f214e141]':
+                      - generic:
+                        - generic [ref=f214e142]: Last modified
+                        - generic [ref=f214e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f214e144]':
+                      - generic:
+                        - generic [ref=f214e145]: Size
+                        - generic [ref=f214e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f214e147]':
+                      - generic:
+                        - generic [ref=f214e148]: Added by
+                        - generic [ref=f214e149]: 
+              - grid [ref=f214e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f214e152]: File
+                          - generic [ref=f214e153]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f214e154]: Last modified
+                          - generic [ref=f214e155]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f214e156]: Size
+                          - generic [ref=f214e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f214e158]: Added by
+                          - generic [ref=f214e159]: 
+                - rowgroup [ref=f214e160]:
+                  - row [ref=f214e161]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f214e162]:
+                      - generic [ref=f214e163]:
+                        - generic [ref=f214e164]:
+                          - generic [ref=f214e165]: 
+                          - link "mindtouch.page#thumbnail" [ref=f214e166] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63006/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f214e167]:
+                          - generic [ref=f214e168]: (no description)
+                          - text: 
+                    - gridcell "Nov 30, 2025, 12:53 PM" [ref=f214e169]
+                    - gridcell "11 KiB" [ref=f214e171]
+                    - gridcell "Caitlin Kepple" [ref=f214e172]
+                  - row [ref=f214e173]:
+                    - gridcell " SNODetector.png (no description)" [ref=f214e174]:
+                      - generic [ref=f214e175]:
+                        - generic [ref=f214e176]:
+                          - generic [ref=f214e177]: 
+                          - link "SNODetector.png" [ref=f214e178] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/68049/SNODetector.png?origin=mt-web
+                          - text:   
+                        - generic [ref=f214e179]:
+                          - generic [ref=f214e180]: (no description)
+                          - text: 
+                    - gridcell "Aug 7, 2026, 11:54 AM" [ref=f214e181]
+                    - gridcell "632 KiB" [ref=f214e183]
+                    - gridcell "Caitlin Kepple" [ref=f214e184]
+                  - row [ref=f214e185]:
+                    - gridcell " Standard_Model_of_Elementary_Particles.jpg (no description)" [ref=f214e186]:
+                      - generic [ref=f214e187]:
+                        - generic [ref=f214e188]:
+                          - generic [ref=f214e189]: 
+                          - link "Standard_Model_of_Elementary_Particles.jpg" [ref=f214e190] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/68050/Standard_Model_of_Elementary_Particles.jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f214e191]:
+                          - generic [ref=f214e192]: (no description)
+                          - text: 
+                    - gridcell "Aug 7, 2026, 11:57 AM" [ref=f214e193]
+                    - gridcell "557 KiB" [ref=f214e195]
+                    - gridcell "Caitlin Kepple" [ref=f214e196]
+    - generic [ref=f214e198]:
+      - button "Open support menu" [ref=f214e200] [cursor=pointer]: "?"
+      - navigation [ref=f214e202]:
+        - paragraph [ref=f214e204]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f214e205] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f214e206] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f214e207] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f214e208] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f214e209] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f214e210]:
+      - generic:
+        - generic [ref=f214e212]:
+          - button "Annotation sidebar" [ref=f214e213]
+          - generic [ref=f214e218]:
+            - button "Show highlights" [ref=f214e219]
+            - button "New page note" [ref=f214e224]
+          - status [ref=f214e229]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f214e230]:
+    - button "contents" [ref=f214e231] [cursor=pointer]
+    - button "readability" [ref=f214e233] [cursor=pointer]
+    - button "resources" [ref=f214e235] [cursor=pointer]
+    - button "tools" [ref=f214e237] [cursor=pointer]
+    - button "developers" [ref=f214e239] [cursor=pointer]
+  - text:  
+  - generic [ref=f214e348]:
+    - generic [ref=f214e349] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f214e352] [cursor=pointer]

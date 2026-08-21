@@ -1,0 +1,271 @@
+- generic [active] [ref=f310e1]:
+  - link "Skip to main content" [ref=f310e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f310e3]:
+    - text: 
+    - generic [ref=f310e4]:
+      - generic [ref=f310e5]:
+        - generic: ✕
+        - navigation [ref=f310e7]:
+          - generic [ref=f310e8]:
+            - link [ref=f310e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f310e11]
+            - button "Enter Reader Mode" [ref=f310e13] [cursor=pointer]:
+              - generic [ref=f310e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f310e16]:
+        - list [ref=f310e18]:
+          - listitem [ref=f310e19]:
+            - link [ref=f310e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f310e22]
+          - listitem [ref=f310e23]:
+            - text: 
+            - generic [ref=f310e25]:
+              - generic [ref=f310e26]: "Search :"
+              - searchbox "Search :" [ref=f310e27]
+              - button " Search" [ref=f310e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f310e29]:
+            - list [ref=f310e30]:
+              - listitem [ref=f310e31]:
+                - link "Edit" [ref=f310e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.03%3A_Cosmic_Materials?action=edit
+              - text: 
+              - listitem [ref=f310e33]:
+                - link " Options" [ref=f310e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f310e35]:
+                - link " Rachel Mastrapa" [ref=f310e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f310e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f310e38] [cursor=pointer]
+          - list [ref=f310e39]:
+            - listitem [ref=f310e40]:
+              - link " Home" [ref=f310e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f310e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f310e43]:
+              - link " Workbench" [ref=f310e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f310e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f310e46]:
+              - link " De Anza - ASTR10" [ref=f310e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f310e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f310e49]:
+              - 'link " 10: Interstellar Media" [ref=f310e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media
+                - generic [ref=f310e51]: 
+                - text: "10: Interstellar Media"
+              - text: »
+            - listitem [ref=f310e52]:
+              - generic [ref=f310e53]: 
+              - text: "10.3: Cosmic Materials"
+          - button " Expand/collapse global location" [ref=f310e54] [cursor=pointer]
+      - navigation
+    - article [ref=f310e55]:
+      - generic [ref=f310e56]:
+        - generic [ref=f310e57]:
+          - button " Page settings" [ref=f310e58] [cursor=pointer]
+          - text: ":  :  :  :  :  :  :  :  :  :  :  :  :      "
+        - 'heading "10.3: Cosmic Materials" [level=1] [ref=f310e59]'
+        - list [ref=f310e62]:
+          - listitem [ref=f310e63]:
+            - link [ref=f310e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f310e66]:
+                - img "CC" [ref=f310e67]
+                - img "BY" [ref=f310e68]
+          - listitem [ref=f310e69]:
+            - generic [ref=f310e70]:
+              - term [ref=f310e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f310e72]: Dec 28, 2025, 8:33 PM by Rachel Mastrapa
+          - listitem [ref=f310e73]:
+            - generic [ref=f310e74]:
+              - term [ref=f310e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f310e76]: Private
+          - listitem [ref=f310e77]:
+            - generic [ref=f310e78]:
+              - term [ref=f310e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f310e80]: "139498"
+          - listitem [ref=f310e81]:
+            - list [ref=f310e82]:
+              - listitem [ref=f310e83]:
+                - button "Pin Page" [ref=f310e84] [cursor=pointer]: 
+              - listitem
+              - text: 
+              - listitem [ref=f310e85]:
+                - list [ref=f310e86]:
+                  - listitem [ref=f310e87]:
+                    - 'link " 10.2: Interstellar Gas and Dust" [ref=f310e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.02%3A_Interstellar_Gas_and_Dust
+                      - text: 
+                      - generic [ref=f310e89]: "10.2: Interstellar Gas and Dust"
+                  - listitem [ref=f310e90]:
+                    - 'link "10.4: Delete " [ref=f310e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.04%3A_Delete
+                      - generic [ref=f310e92]: "10.4: Delete"
+                      - text: 
+              - listitem
+      - list [ref=f310e95]:
+        - listitem [ref=f310e96]:
+          - img "OpenStax" [ref=f310e97]
+        - listitem [ref=f310e98]:
+          - link "OpenStax" [ref=f310e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f310e100]:
+          - link "OpenStax" [ref=f310e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - complementary
+      - text: 
+      - generic [ref=f310e102]:
+        - paragraph [ref=f310e103]
+        - generic [ref=f310e104]:
+          - separator [ref=f310e105]
+          - paragraph [ref=f310e107]:
+            - text: This page titled
+            - 'link "10.3: Cosmic Materials" [ref=f310e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.03%3A_Cosmic_Materials
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f310e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f310e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f310e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f310e112]:
+        - list [ref=f310e113]:
+          - listitem [ref=f310e114]:
+            - link "Back to top" [ref=f310e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f310e116]:
+            - list [ref=f310e117]:
+              - listitem [ref=f310e118]:
+                - 'link " 10.2: Interstellar Gas and Dust" [ref=f310e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.02%3A_Interstellar_Gas_and_Dust
+                  - text: 
+                  - generic [ref=f310e120]: "10.2: Interstellar Gas and Dust"
+              - listitem [ref=f310e121]:
+                - 'link "10.4: Delete " [ref=f310e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.04%3A_Delete
+                  - generic [ref=f310e123]: "10.4: Delete"
+                  - text: 
+        - list [ref=f310e126]:
+          - listitem [ref=f310e127]: Was this article helpful?
+          - listitem [ref=f310e128]:
+            - button "Yes" [ref=f310e129] [cursor=pointer]
+          - listitem [ref=f310e130]:
+            - button "No" [ref=f310e131] [cursor=pointer]
+          - listitem [ref=f310e132]:
+            - button "Leave feedback" [ref=f310e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , ,"
+        - generic [ref=f310e134]:
+          - heading "Attachments" [level=2] [ref=f310e135]
+          - generic:
+            - button "Attach a file" [ref=f310e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f310e138]:
+            - generic [ref=f310e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f310e142]
+            - generic [ref=f310e143]:
+              - grid [ref=f310e146]:
+                - rowgroup [ref=f310e147]:
+                  - row [ref=f310e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f310e149]':
+                      - generic:
+                        - generic [ref=f310e150]: File
+                        - generic [ref=f310e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f310e152]':
+                      - generic:
+                        - generic [ref=f310e153]: Last modified
+                        - generic [ref=f310e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f310e155]':
+                      - generic:
+                        - generic [ref=f310e156]: Size
+                        - generic [ref=f310e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f310e158]':
+                      - generic:
+                        - generic [ref=f310e159]: Added by
+                        - generic [ref=f310e160]: 
+              - grid [ref=f310e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f310e163]: File
+                          - generic [ref=f310e164]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f310e165]: Last modified
+                          - generic [ref=f310e166]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f310e167]: Size
+                          - generic [ref=f310e168]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f310e169]: Added by
+                          - generic [ref=f310e170]: 
+                - rowgroup [ref=f310e171]:
+                  - row [ref=f310e172]:
+                    - gridcell "No files attached." [ref=f310e173]
+    - generic [ref=f310e175]:
+      - button "Open support menu" [ref=f310e177] [cursor=pointer]: "?"
+      - navigation [ref=f310e179]:
+        - paragraph [ref=f310e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f310e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f310e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f310e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f310e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f310e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f310e187]:
+      - generic:
+        - generic [ref=f310e189]:
+          - button "Annotation sidebar" [ref=f310e190]
+          - generic [ref=f310e195]:
+            - button "Show highlights" [ref=f310e196]
+            - button "New page note" [ref=f310e201]
+          - status [ref=f310e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f310e207]:
+    - button "contents" [ref=f310e208] [cursor=pointer]
+    - button "readability" [ref=f310e210] [cursor=pointer]
+    - button "resources" [ref=f310e212] [cursor=pointer]
+    - button "tools" [ref=f310e214] [cursor=pointer]
+    - button "developers" [ref=f310e216] [cursor=pointer]

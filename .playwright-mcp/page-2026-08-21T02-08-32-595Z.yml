@@ -1,0 +1,425 @@
+- generic [ref=f247e1]:
+  - link "Skip to main content" [ref=f247e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f247e3]:
+    - text: 
+    - generic [ref=f247e4]:
+      - generic [ref=f247e5]:
+        - generic: ✕
+        - navigation [ref=f247e7]:
+          - generic [ref=f247e8]:
+            - link [ref=f247e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f247e11]
+            - button "Enter Reader Mode" [ref=f247e13] [cursor=pointer]:
+              - generic [ref=f247e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f247e16]:
+        - list [ref=f247e18]:
+          - listitem [ref=f247e19]:
+            - link [ref=f247e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f247e22]
+          - listitem [ref=f247e23]:
+            - text: 
+            - generic [ref=f247e25]:
+              - generic [ref=f247e26]: "Search :"
+              - searchbox "Search :" [ref=f247e27]
+              - button " Search" [ref=f247e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f247e29]:
+            - list [ref=f247e30]:
+              - listitem [ref=f247e31]:
+                - link "Edit" [ref=f247e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.06%3A_The_H-R_and_Cosmic_Distances?action=edit
+              - text: 
+              - listitem [ref=f247e33]:
+                - link " Options" [ref=f247e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f247e35]:
+                - link " Rachel Mastrapa" [ref=f247e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f247e37]:
+        - generic:
+          - button " Contents" [ref=f247e218] [cursor=pointer]
+          - list [ref=f247e39]:
+            - listitem [ref=f247e40]:
+              - link " Home" [ref=f247e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f247e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f247e43]:
+              - link " Workbench" [ref=f247e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f247e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f247e46]:
+              - link " De Anza - ASTR10" [ref=f247e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f247e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f247e49]:
+              - 'link " 8: Stellar Tracking" [ref=f247e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking
+                - generic [ref=f247e51]: 
+                - text: "8: Stellar Tracking"
+              - text: »
+            - listitem [ref=f247e52]:
+              - generic [ref=f247e53]: 
+              - text: "8.6: The H-R and Cosmic Distances"
+          - button " Expand/collapse global location" [ref=f247e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                  
+    - article [ref=f247e55]:
+      - generic [ref=f247e56]:
+        - generic [ref=f247e57]:
+          - button " Page settings" [ref=f247e58] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :      "
+        - 'heading "8.6: The H-R and Cosmic Distances" [level=1] [ref=f247e59]':
+          - generic [ref=f247e219]: "8.6: The H-R and Cosmic Distances "
+        - list [ref=f247e62]:
+          - listitem [ref=f247e63]:
+            - link [ref=f247e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f247e66]:
+                - img "CC" [ref=f247e67]
+                - img "BY" [ref=f247e68]
+          - listitem [ref=f247e69]:
+            - generic [ref=f247e70]:
+              - term [ref=f247e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f247e72]: Dec 28, 2025, 5:25 PM by Rachel Mastrapa
+          - listitem [ref=f247e73]:
+            - generic [ref=f247e74]:
+              - term [ref=f247e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f247e76]: Private
+          - listitem [ref=f247e77]:
+            - generic [ref=f247e78]:
+              - term [ref=f247e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f247e80]: "139473"
+          - listitem [ref=f247e81]:
+            - list [ref=f247e82]:
+              - listitem [ref=f247e83]:
+                - button "Pin Page" [ref=f247e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f247e85]:
+                - list [ref=f247e86]:
+                  - listitem [ref=f247e87]:
+                    - 'link " 8.5: Variable Stars- One Key to Cosmic Distances" [ref=f247e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.05%3A_Variable_Stars-_One_Key_to_Cosmic_Distances
+                      - text: 
+                      - generic [ref=f247e89]: "8.5: Variable Stars- One Key to Cosmic Distances"
+                  - listitem [ref=f247e90]:
+                    - 'link "8.7: Lookback Time " [ref=f247e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.07%3A_Lookback_Time
+                      - generic [ref=f247e92]: "8.7: Lookback Time"
+                      - text: 
+              - text:  
+      - list [ref=f247e95]:
+        - listitem [ref=f247e96]:
+          - img "OpenStax" [ref=f247e97]
+        - listitem [ref=f247e98]:
+          - link "OpenStax" [ref=f247e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f247e100]:
+          - link "OpenStax" [ref=f247e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f247e102]:
+        - group [ref=f247e223]:
+          - generic [ref=f247e224]:
+            - generic [ref=f247e225]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f247e226]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f247e227]:
+            - generic [ref=f247e230]:
+              - generic [ref=f247e231]:
+                - generic [ref=f247e232]:
+                  - link "Edit" [ref=f247e233]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f247e234]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f247e235]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f247e236]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f247e237]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f247e238]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f247e239]: "Words: 1374, Chars: 8446"
+              - group "Editor toolbars" [ref=f247e241]:
+                - toolbar [ref=f247e242]:
+                  - button "Save" [ref=f247e243]:
+                    - generic [ref=f247e244]: 
+                  - button "Cancel" [ref=f247e246]:
+                    - generic [ref=f247e247]: 
+                - toolbar [ref=f247e250]:
+                  - button "Undo" [disabled] [ref=f247e251]:
+                    - generic [ref=f247e252]: 
+                  - button "Redo" [disabled] [ref=f247e253]:
+                    - generic [ref=f247e254]: 
+                - toolbar [ref=f247e256]:
+                  - button "Headings" [ref=f247e257]
+                - toolbar [ref=f247e262]:
+                  - button "Bold" [ref=f247e263]:
+                    - generic [ref=f247e264]: 
+                  - button "Italic" [ref=f247e265]:
+                    - generic [ref=f247e266]: 
+                  - button "Underline" [ref=f247e267]:
+                    - generic [ref=f247e268]: 
+                - toolbar [ref=f247e270]:
+                  - button "Text color" [ref=f247e271]:
+                    - generic [ref=f247e272]: 
+                  - button "Background color" [ref=f247e274]:
+                    - generic [ref=f247e275]: 
+                - toolbar [ref=f247e278]:
+                  - button "Remove format" [ref=f247e279]:
+                    - generic [ref=f247e280]: 
+                - toolbar [ref=f247e282]:
+                  - button "Insert/Remove numbered list" [ref=f247e283]:
+                    - generic [ref=f247e284]: 
+                  - button "Insert/Remove bulleted list" [ref=f247e285]:
+                    - generic [ref=f247e286]: 
+                - toolbar [ref=f247e288]:
+                  - button "Alignment" [ref=f247e289]:
+                    - generic [ref=f247e290]: 
+                - text: 
+                - toolbar [ref=f247e293]:
+                  - button "Link" [ref=f247e294]:
+                    - generic [ref=f247e295]: 
+                  - button "Image" [ref=f247e296]:
+                    - generic [ref=f247e297]: 
+                  - text: 
+                  - button "Boxes" [ref=f247e298]
+                - toolbar [ref=f247e303]:
+                  - button "Replace" [ref=f247e304]:
+                    - generic [ref=f247e305]: 
+                - toolbar [ref=f247e307]:
+                  - button "Enable Binder" [ref=f247e308]
+                  - button "Insert Adapt" [ref=f247e310]
+                  - button "Query" [ref=f247e312]
+                  - button "Accessibility Checker" [ref=f247e315]
+                - toolbar [ref=f247e318]:
+                  - button "HTML" [ref=f247e319]:
+                    - generic [ref=f247e320]: 
+            - application "Rich Text Editor, editarea" [ref=f247e322]:
+              - iframe [active] [ref=f247e323]:
+                - generic [active] [ref=f249e1]:
+                  - paragraph [ref=f249e2]: Variable stars are not the only way that we can estimate the luminosity of stars. Another way involves the H–R diagram, which shows that the intrinsic brightness of a star can be estimated if we know its spectral type.
+                  - heading "Distances from Spectral Types" [level=3] [ref=f249e3]
+                  - paragraph [ref=f249e4]: As satisfying and productive as variable stars have been for distance measurement, these stars are rare and are not found near all the objects to which we wish to measure distances. Suppose, for example, we need the distance to a star that is not varying, or to a group of stars, none of which is a variable. In this case, it turns out the H–R diagram can come to our rescue.
+                  - paragraph [ref=f249e5]:
+                    - text: If we can observe the spectrum of a star, we can estimate its distance from our understanding of the H–R diagram. As discussed in Analyzing Starlight, a detailed examination of a stellar spectrum allows astronomers to classify the star into one of the
+                    - emphasis [ref=f249e6]: spectral types
+                    - text: indicating surface temperature. (The types are O, B, A, F, G, K, M, L, T, and Y; each of these can be divided into numbered subgroups.) In general, however, the spectral type alone is not enough to allow us to estimate luminosity. Look again at Figure 18.15. A G2 star could be a main-sequence star with a luminosity of 1
+                    - generic [ref=f249e7]:
+                      - emphasis [ref=f249e8]: L
+                      - subscript [ref=f249e9]: Sun
+                    - text: ", or it could be a giant with a luminosity of 100"
+                    - generic [ref=f249e10]:
+                      - emphasis [ref=f249e11]: L
+                      - subscript [ref=f249e12]: Sun
+                    - text: ", or even a supergiant with a still higher luminosity."
+                  - paragraph [ref=f249e13]: We can learn more from a star’s spectrum, however, than just its temperature. Remember, for example, that we can detect pressure differences in stars from the details of the spectrum. This knowledge is very useful because giant stars are larger (and have lower pressures) than main-sequence stars, and supergiants are still larger than giants. If we look in detail at the spectrum of a star, we can determine whether it is a main-sequence star, a giant, or a supergiant.
+                  - paragraph [ref=f249e14]: Suppose, to start with the simplest example, that the spectrum, color, and other properties of a distant G2 star match those of the Sun exactly. It is then reasonable to conclude that this distant star is likely to be a main-sequence star just like the Sun and to have the same luminosity as the Sun. But if there are subtle differences between the solar spectrum and the spectrum of the distant star, then the distant star may be a giant or even a supergiant.
+                  - paragraph [ref=f249e15]: "The most widely used system of star classification divides stars of a given spectral class into six categories called luminosity classes. These luminosity classes are denoted by Roman numbers as follows:"
+                  - list [ref=f249e16]:
+                    - listitem [ref=f249e17]: "Ia: Brightest supergiants"
+                    - listitem [ref=f249e18]: "Ib: Less luminous supergiants"
+                    - listitem [ref=f249e19]: "II: Bright giants"
+                    - listitem [ref=f249e20]: "III: Giants"
+                    - listitem [ref=f249e21]: "IV: Subgiants (intermediate between giants and main-sequence stars)"
+                    - listitem [ref=f249e22]: "V: Main-sequence stars"
+                  - paragraph [ref=f249e23]: The full spectral specification of a star includes its luminosity class. For example, a main-sequence star with spectral class F3 is written as F3 V. The specification for an M2 giant is M2 III. Figure 19.15 illustrates the approximate position of stars of various luminosity classes on the H–R diagram. The dashed portions of the lines represent regions with very few or no stars.
+                  - 'figure "Figure 19.15 : Luminosity Classes. Stars of the same temperature (or spectral class) can fall into different luminosity classes on the Hertzsprung-Russell diagram. By studying details of the spectrum for each star, astronomers can determine which luminosity class they fall in (whether they are main-sequence stars, giant stars, or supergiant stars)." [ref=f249e24]':
+                    - img [ref=f249e26]
+                  - paragraph [ref=f249e28]:
+                    - text: With both its spectral and luminosity classes known, a star’s position on the H–R diagram is uniquely determined. Since the diagram plots luminosity versus temperature, this means we can now read off the star’s luminosity (once its spectrum has helped us place it on the diagram). As before, if we know how luminous the star really is and see how dim it looks, the difference allows us to calculate its distance. (For historical reasons, astronomers sometimes call this method of distance determination
+                    - emphasis [ref=f249e29]: spectroscopic parallax
+                    - text: ", even though the method has nothing to do with parallax.)"
+                  - paragraph [ref=f249e30]: "The H–R diagram method allows astronomers to estimate distances to nearby stars, as well as some of the most distant stars in our Galaxy, but it is anchored by measurements of parallax. The distances measured using parallax are the gold standard for distances: they rely on no assumptions, only geometry. Once astronomers take a spectrum of a nearby star for which we also know the parallax, we know the luminosity that corresponds to that spectral type. Nearby stars thus serve as benchmarks for more distant stars because we can assume that two stars with identical spectra have the same intrinsic luminosity."
+                  - heading "A Few Words about the Real World" [level=3] [ref=f249e31]
+                  - paragraph [ref=f249e32]: Introductory textbooks such as ours work hard to present the material in a straightforward and simplified way. In doing so, we sometimes do our students a disservice by making scientific techniques seem too clean and painless. In the real world, the techniques we have just described turn out to be messy and difficult, and often give astronomers headaches that last long into the day.
+                  - paragraph [ref=f249e33]: For example, the relationships we have described such as the period-luminosity relation for certain variable stars aren’t exactly straight lines on a graph. The points representing many stars scatter widely when plotted, and thus, the distances derived from them also have a certain built-in scatter or uncertainty.
+                  - paragraph [ref=f249e34]: The distances we measure with the methods we have discussed are therefore only accurate to within a certain percentage of error—sometimes 10%, sometimes 25%, sometimes as much as 50% or more. A 25% error for a star estimated to be 10,000 light-years away means it could be anywhere from 7500 to 12,500 light-years away. This would be an unacceptable uncertainty if you were loading fuel into a spaceship for a trip to the star, but it is not a bad first figure to work with if you are an astronomer stuck on planet Earth.
+                  - paragraph [ref=f249e35]: Nor is the construction of H–R diagrams as easy as you might think at first. To make a good diagram, one needs to measure the characteristics and distances of many stars, which can be a time-consuming task. Since our own solar neighborhood is already well mapped, the stars astronomers most want to study to advance our knowledge are likely to be far away and faint. It may take hours of observing to obtain a single spectrum. Observers may have to spend many nights at the telescope (and many days back home working with their data) before they get their distance measurement. Fortunately, this is changing because surveys like Gaia will study billions of stars, producing public datasets that all astronomers can use.
+                  - paragraph [ref=f249e36]: Despite these difficulties, the tools we have been discussing allow us to measure a remarkable range of distances—parallaxes for the nearest stars, RR Lyrae variable stars; the H–R diagram for clusters of stars in our own and nearby galaxies; and cepheids out to distances of 60 million light-years. Table 19.1 describes the distance limits and overlap of each method.
+                  - paragraph [ref=f249e37]:
+                    - text: Each technique described in this chapter builds on at least one other method, forming what many call the
+                    - emphasis [ref=f249e38]: cosmic distance ladder
+                    - text: . Parallaxes are the foundation of all stellar distance estimates, spectroscopic methods use nearby stars to calibrate their H–R diagrams, and RR Lyrae and cepheid distance estimates are grounded in H–R diagram distance estimates (and even in a parallax measurement to a nearby cepheid,
+                    - generic [ref=f249e39]: Delta Cephei
+                    - text: ).
+                  - paragraph [ref=f249e40]: "This chain of methods allows astronomers to push the limits when looking for even more distant stars. Recent work, for example, has used RR Lyrae stars to identify dim companion galaxies to our own Milky Way out at distances of 300,000 light-years. The H–R diagram method was recently used to identify the two most distant stars in the Galaxy: red giant stars way out in the halo of the Milky Way with distances of almost 1 million light-years."
+                  - paragraph [ref=f249e41]: "We can combine the distances we find for stars with measurements of their composition, luminosity, and temperature—made with the techniques described in Analyzing Starlight and The Stars: A Celestial Census. Together, these make up the arsenal of information we need to trace the evolution of stars from birth to death, the subject to which we turn in the chapters that follow."
+                  - table [ref=f249e42]:
+                    - caption [ref=f249e43]: "Table 19.1: Distance Range of Celestial Measurement Methods"
+                    - rowgroup [ref=f249e44]:
+                      - row [ref=f249e45]:
+                        - columnheader "Method" [ref=f249e46]
+                        - columnheader "Distance Range" [ref=f249e47]
+                    - rowgroup [ref=f249e48]:
+                      - row [ref=f249e49]:
+                        - cell "Trigonometric parallax" [ref=f249e50]
+                        - cell "4–30,000 light-years when the Gaia mission is complete" [ref=f249e51]
+                      - row [ref=f249e52]:
+                        - cell "RR Lyrae stars" [ref=f249e53]
+                        - cell "Out to 300,000 light-years" [ref=f249e54]
+                      - row [ref=f249e55]:
+                        - cell "H–R diagram and spectroscopic distances" [ref=f249e56]
+                        - cell "Out to 1,200,000 light-years" [ref=f249e57]
+                      - row [ref=f249e58]:
+                        - cell "Cepheid stars" [ref=f249e59]
+                        - cell "Out to 60,000,000 light-years" [ref=f249e60]
+              - generic [ref=f247e324]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f247e326] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f247e104]:
+          - separator [ref=f247e105]
+          - paragraph [ref=f247e107]:
+            - text: This page titled
+            - 'link "8.6: The H-R and Cosmic Distances" [ref=f247e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.06%3A_The_H-R_and_Cosmic_Distances
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f247e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f247e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f247e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f247e112]:
+        - list [ref=f247e113]:
+          - listitem [ref=f247e114]:
+            - link "Back to top" [ref=f247e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f247e116]:
+            - list [ref=f247e117]:
+              - listitem [ref=f247e118]:
+                - 'link " 8.5: Variable Stars- One Key to Cosmic Distances" [ref=f247e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.05%3A_Variable_Stars-_One_Key_to_Cosmic_Distances
+                  - text: 
+                  - generic [ref=f247e120]: "8.5: Variable Stars- One Key to Cosmic Distances"
+              - listitem [ref=f247e121]:
+                - 'link "8.7: Lookback Time " [ref=f247e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.07%3A_Lookback_Time
+                  - generic [ref=f247e123]: "8.7: Lookback Time"
+                  - text: 
+        - list [ref=f247e126]:
+          - listitem [ref=f247e127]: Was this article helpful?
+          - listitem [ref=f247e128]:
+            - button "Yes" [ref=f247e129] [cursor=pointer]
+          - listitem [ref=f247e130]:
+            - button "No" [ref=f247e131] [cursor=pointer]
+          - listitem [ref=f247e132]:
+            - button "Leave feedback" [ref=f247e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , ,"
+        - generic [ref=f247e134]:
+          - heading "Attachments" [level=2] [ref=f247e135]
+          - generic:
+            - button "Attach a file" [ref=f247e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f247e138]:
+            - generic [ref=f247e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f247e142]
+            - generic [ref=f247e143]:
+              - grid [ref=f247e146]:
+                - rowgroup [ref=f247e147]:
+                  - row [ref=f247e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f247e149]':
+                      - generic:
+                        - generic [ref=f247e150]: File
+                        - generic [ref=f247e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f247e152]':
+                      - generic:
+                        - generic [ref=f247e153]: Last modified
+                        - generic [ref=f247e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f247e155]':
+                      - generic:
+                        - generic [ref=f247e156]: Size
+                        - generic [ref=f247e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f247e158]':
+                      - generic:
+                        - generic [ref=f247e159]: Added by
+                        - generic [ref=f247e160]: 
+              - grid [ref=f247e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f247e163]: File
+                          - generic [ref=f247e164]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f247e165]: Last modified
+                          - generic [ref=f247e166]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f247e167]: Size
+                          - generic [ref=f247e168]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f247e169]: Added by
+                          - generic [ref=f247e170]: 
+                - rowgroup [ref=f247e171]:
+                  - row [ref=f247e172]:
+                    - gridcell "No files attached." [ref=f247e173]
+    - generic [ref=f247e175]:
+      - button "Open support menu" [ref=f247e177] [cursor=pointer]: "?"
+      - navigation [ref=f247e179]:
+        - paragraph [ref=f247e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f247e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f247e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f247e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f247e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f247e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f247e187]:
+      - generic:
+        - generic [ref=f247e189]:
+          - button "Annotation sidebar" [ref=f247e190]
+          - generic [ref=f247e195]:
+            - button "Show highlights" [ref=f247e196]
+            - button "New page note" [ref=f247e201]
+          - status [ref=f247e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f247e207]:
+    - button "contents" [ref=f247e208] [cursor=pointer]
+    - button "readability" [ref=f247e210] [cursor=pointer]
+    - button "resources" [ref=f247e212] [cursor=pointer]
+    - button "tools" [ref=f247e214] [cursor=pointer]
+    - button "developers" [ref=f247e216] [cursor=pointer]
+  - text:  
+  - generic [ref=f247e327]:
+    - generic [ref=f247e328] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f247e331] [cursor=pointer]

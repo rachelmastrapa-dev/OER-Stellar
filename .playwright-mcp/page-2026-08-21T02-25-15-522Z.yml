@@ -1,0 +1,473 @@
+- generic [ref=f346e1]:
+  - link "Skip to main content" [ref=f346e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f346e3]:
+    - text: 
+    - generic [ref=f346e4]:
+      - generic [ref=f346e5]:
+        - generic: ✕
+        - navigation [ref=f346e7]:
+          - generic [ref=f346e8]:
+            - link [ref=f346e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f346e11]
+            - button "Enter Reader Mode" [ref=f346e13] [cursor=pointer]:
+              - generic [ref=f346e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f346e16]:
+        - list [ref=f346e18]:
+          - listitem [ref=f346e19]:
+            - link [ref=f346e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f346e22]
+          - listitem [ref=f346e23]:
+            - text: 
+            - generic [ref=f346e25]:
+              - generic [ref=f346e26]: "Search :"
+              - searchbox "Search :" [ref=f346e27]
+              - button " Search" [ref=f346e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f346e29]:
+            - list [ref=f346e30]:
+              - listitem [ref=f346e31]:
+                - link "Edit" [ref=f346e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.04%3A_Naming_the_Stars?action=edit
+              - text: 
+              - listitem [ref=f346e33]:
+                - link " Options" [ref=f346e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f346e35]:
+                - link " Rachel Mastrapa" [ref=f346e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f346e37]:
+        - generic:
+          - button " Contents" [ref=f346e240] [cursor=pointer]
+          - list [ref=f346e39]:
+            - listitem [ref=f346e40]:
+              - link " Home" [ref=f346e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f346e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f346e43]:
+              - link " Workbench" [ref=f346e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f346e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f346e46]:
+              - link " De Anza - ASTR10" [ref=f346e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f346e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f346e49]:
+              - 'link " 11: Star Formation" [ref=f346e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation
+                - generic [ref=f346e51]: 
+                - text: "11: Star Formation"
+              - text: »
+            - listitem [ref=f346e52]:
+              - generic [ref=f346e53]: 
+              - text: "11.4: Naming the Stars"
+          - text: 
+      - navigation:
+        - generic:                                              
+    - article [ref=f346e54]:
+      - generic [ref=f346e55]:
+        - generic [ref=f346e56]:
+          - button " Page settings" [ref=f346e57] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "11.4: Naming the Stars" [level=1] [ref=f346e58]':
+          - generic [ref=f346e59]: "11.4: Naming the Stars "
+        - list [ref=f346e61]:
+          - listitem [ref=f346e62]:
+            - link [ref=f346e64] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f346e65]:
+                - img "CC" [ref=f346e66]
+                - img "BY" [ref=f346e67]
+          - listitem [ref=f346e68]:
+            - generic [ref=f346e69]:
+              - term [ref=f346e70] [cursor=pointer]: "Last updated:"
+              - definition [ref=f346e71]: Aug 5, 2026, 3:35 PM by Rachel Mastrapa
+          - listitem [ref=f346e72]:
+            - generic [ref=f346e73]:
+              - term [ref=f346e74] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f346e75]: Private
+          - listitem [ref=f346e76]:
+            - generic [ref=f346e77]:
+              - term [ref=f346e78] [cursor=pointer]: "Page ID:"
+              - definition [ref=f346e79]: "128549"
+          - listitem [ref=f346e80]:
+            - list [ref=f346e81]:
+              - listitem [ref=f346e82]:
+                - button "Pin Page" [ref=f346e83] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f346e84]:
+                - list [ref=f346e85]:
+                  - listitem [ref=f346e86]:
+                    - 'link " 11.3: Evidence of Exoplanets" [ref=f346e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.03%3A_Evidence_of_Exoplanets
+                      - text: 
+                      - generic [ref=f346e88]: "11.3: Evidence of Exoplanets"
+                  - listitem [ref=f346e89]:
+                    - 'link "11.5: Key Terms " [ref=f346e90] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.05%3A_Key_Terms
+                      - generic [ref=f346e91]: "11.5: Key Terms"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f346e92]:
+        - group [ref=f346e243]:
+          - generic [ref=f346e244]:
+            - generic [ref=f346e245]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f346e246]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f346e247]:
+            - generic [ref=f346e250]:
+              - generic [ref=f346e251]:
+                - generic [ref=f346e252]:
+                  - link "Edit" [ref=f346e253]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f346e254]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f346e255]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f346e256]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f346e257]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f346e258]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f346e259]: "Words: 1221, Chars: 8163"
+              - group "Editor toolbars" [ref=f346e261]:
+                - toolbar [ref=f346e262]:
+                  - button "Save" [ref=f346e263]:
+                    - generic [ref=f346e264]: 
+                  - button "Cancel" [ref=f346e266]:
+                    - generic [ref=f346e267]: 
+                - toolbar [ref=f346e270]:
+                  - button "Undo" [disabled] [ref=f346e271]:
+                    - generic [ref=f346e272]: 
+                  - button "Redo" [disabled] [ref=f346e273]:
+                    - generic [ref=f346e274]: 
+                - toolbar [ref=f346e276]:
+                  - button "Headings" [ref=f346e277]
+                - toolbar [ref=f346e282]:
+                  - button "Bold" [ref=f346e283]:
+                    - generic [ref=f346e284]: 
+                  - button "Italic" [ref=f346e285]:
+                    - generic [ref=f346e286]: 
+                  - button "Underline" [ref=f346e287]:
+                    - generic [ref=f346e288]: 
+                - toolbar [ref=f346e290]:
+                  - button "Text color" [ref=f346e291]:
+                    - generic [ref=f346e292]: 
+                  - button "Background color" [ref=f346e294]:
+                    - generic [ref=f346e295]: 
+                - toolbar [ref=f346e298]:
+                  - button "Remove format" [ref=f346e299]:
+                    - generic [ref=f346e300]: 
+                - toolbar [ref=f346e302]:
+                  - button "Insert/Remove numbered list" [ref=f346e303]:
+                    - generic [ref=f346e304]: 
+                  - button "Insert/Remove bulleted list" [ref=f346e305]:
+                    - generic [ref=f346e306]: 
+                - toolbar [ref=f346e308]:
+                  - button "Alignment" [ref=f346e309]:
+                    - generic [ref=f346e310]: 
+                - text: 
+                - toolbar [ref=f346e313]:
+                  - button "Link" [ref=f346e314]:
+                    - generic [ref=f346e315]: 
+                  - button "Image" [ref=f346e316]:
+                    - generic [ref=f346e317]: 
+                  - text: 
+                  - button "Boxes" [ref=f346e318]
+                - toolbar [ref=f346e323]:
+                  - button "Replace" [ref=f346e324]:
+                    - generic [ref=f346e325]: 
+                - toolbar [ref=f346e327]:
+                  - button "Enable Binder" [ref=f346e328]
+                  - button "Insert Adapt" [ref=f346e330]
+                  - button "Query" [ref=f346e332]
+                  - button "Accessibility Checker" [ref=f346e335]
+                - toolbar [ref=f346e338]:
+                  - button "HTML" [ref=f346e339]:
+                    - generic [ref=f346e340]: 
+            - application "Rich Text Editor, editarea" [ref=f346e342]:
+              - iframe [active] [ref=f346e343]:
+                - generic [active] [ref=f348e1]:
+                  - heading "Science and Society - Naming the Stars" [level=2] [ref=f348e2]
+                  - paragraph [ref=f348e3]: We've spent most of this chapter focusing on the formation and evolution of stars themselves. However, have you ever considered how we humans have actually named the stars and other objects in the sky? This discussion of naming objects is most definitely an incomplete one, as many names have been lost to history. However, naming objects is an age old practice that continues to this day, as we humans yearn for common understanding and organization of knowledge in our shared universe.
+                  - heading "Historical Names and Catalogs of the Night Sky" [level=3] [ref=f348e4]
+                  - paragraph [ref=f348e5]: Chinese astronomy catalogs date back nearly 2400 years, following a well-defined set of constellations and coordinates for each star, making these records the oldest of their kind. Creating such a catalog also required ancient astronomers to name the stars and regions of sky to which they were referring. However, due to Earth's precession cycle, the coordinates of the stars have since shifted, so the stars' current positions on the celestial sphere no longer match the original coordinates. Even so, these catalogs laid the foundation for the 283 total asterisms, separating the sky into four main groups as a "kingdom in the sky".
+                  - paragraph [ref=f348e6]: The Greeks and Babylonians also kept a well documented set of constellation and star names, dating back to around 2000 years ago. Claudius Ptolemy’s Almagest star catalog used many names from the Greeks and Babylonians, which further solidified their influence on our current use of these names into the present day. Almagest was the first widely recognized star catalog, published around 150 CE, and was used by astronomers as the main reference catalog for more than 1200 years.
+                  - heading "Current Star Names and Naming Conventions" [level=3] [ref=f348e7]
+                  - paragraph [ref=f348e8]: If viewing from a dark location, the unaided human eye can see over 5000 stars in the night sky. However, only a few hundred stars in the night sky currently have designated names assigned by the International Astronomical Union (IAU). Founded in 1919, the IAU identifies itself as a non-governmental, international collaboration and is considered a global authority on the naming and designation of celestial bodies.
+                  - paragraph [ref=f348e9]: The IAU has a detailed set of procedures and working groups that name or designate various types of astronomical objects. According to the IAU, "name" refers to the alphabetical name used for a star in everyday speech (e.g. “Vega”), while the term "designation" is always alphanumerical and almost exclusively found in the official catalogues used by professional astronomers (e.g. HD 172167). Most newly discovered objects only receive a designation, unless the object gains particular attention. If a particular object does gain enough attention, there are a wide range of ways the actual name can come about, not always governed by the IAU itself.
+                  - paragraph [ref=f348e10]: One example is the A Hua He Inoa collaborative program, hosted by the 'Imiloa organization at the University of Hawai'i at Hilo. The internship program for Hawaiian speaking students has produced several new and some officially recognized names of astronomical objects, all in the Hawaiian language. Working as a collaboration between students, cultural leaders, and astronomy professionals, the program has named several objects that gained worldwide attention in previous years. The most famous among them is 'Oumuamua, the first interstellar object ever observed to enter our solar system.
+                  - paragraph [ref=f348e11]: Pictured as an artist's rendering below, 'Oumuamua was discovered in 2017 by the Pan-STARRS 1 telescope on Mauna Kea, and was first assigned the designation 1I/2017 U1. However, the object quickly gained attention among the general public for its unique shape and being the first object we've ever discovered to come from outside the Solar System, thus creating a need for an official name.
+                  - figure [ref=f348e12]:
+                    - img "'Oumuamua with a background of stars." [ref=f348e13]
+                    - paragraph [ref=f348e15]:
+                      - text: "Figure \\(\\PageIndex{1}\\): Interstellar Visitor. In this artist's depiction, 'Oumuamua, the first object from outside the Solar System, has a long, cylindrical shape and dark color based on the observations made as it passed by in 2017. ("
+                      - link "CC BY 4.0" [ref=f348e16]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Original ESO/M. Kornmesser (+ background position from original change by Nagualdesign)" [ref=f348e17]:
+                        - /url: http://www.eso.org/public/images/eso1737a/
+                      - text: via
+                      - link "Wikimedia Commons" [ref=f348e18]:
+                        - /url: https://commons.wikimedia.org/w/index.php?curid=64265376
+                      - text: ).
+                  - paragraph [ref=f348e19]: Coming back to the topic of stars, in 2025, the International Astronomical Union Working Group on Star Names (WGSN) put forward a new effort to rename 59 stars. The newly (re)named stars are shown in the map below, which also shows the plane of the Milky Way for reference. According to the IAU website, the new name designations by WGSN "will help preserve astronomical heritage while providing new unique names for the international astronomical community." According to the working group, the new star names cover a number of cultural geographies and languages, including \Xam (dialect of Khoe/San), Ancient Greek, Arabic, Chinese, Dayak, Dutch, Egyptian, English, French, Greco-Roman, Greek, Sanskrit, Latin, Malayan, Marshallese, Sami, and Sumerian. The group specifically highlights Asian culture as a central reference point for their work, citing the strong astronomical research base of the region, which they were able to draw on for this project.
+                  - figure [ref=f348e20]:
+                    - img "Map of new star projected onto an image of the Milky Way Galaxy. Details in caption." [ref=f348e21]
+                    - paragraph [ref=f348e23]:
+                      - text: "Figure \\(\\PageIndex{2}\\): New Star Names. This map was adopted by the International Astronomical Union based on the recommendations of the Working Group on Star Names in 2025. ("
+                      - link "CC BY 4.0" [ref=f348e24]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "M. Sadegh Faghanpour" [ref=f348e25]:
+                        - /url: https://www.instagram.com/m.s.faghanpour.a/
+                      - text: via
+                      - link "All Skies Encyclopedia" [ref=f348e26]:
+                        - /url: https://ase.exopla.net/index.php/File:Map_of_New_Names_2025_s.jpg
+                      - text: ).
+                      - 'link "Alternative description of Figure \\(\\PageIndex{2}\\)" [ref=f348e27]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/11:_Star_Formation/11.06:_Accessible_Descriptions#Figure_11.4.2_New_Star_Names
+                      - text: .
+                  - heading "Unofficial Names and \"Purchasing\" of Star Names" [level=3] [ref=f348e28]
+                  - paragraph [ref=f348e29]: As we have discussed in this section, names of celestial objects have a certain timelessness and power to them. If you could, would you be interested in having a star or other celestial object?
+                  - paragraph [ref=f348e30]: It is understandable why a person may be interested to have their own name "written in the stars", as it were. As a testament to this fact, there are a host of websites and commercial businesses that claim the ability to buy naming rights for certain celestial objects, in which a person can pay a small fee to have a star named after them or a loved one. However, to be clear, the IAU does not associate itself or approve of any such practices. Their website has an entire page devoted to debunking any such promotion of purchasing star names. They say, "As an international scientific organisation, the IAU dissociates itself entirely from the commercial practice of "selling" fictitious star names, surface feature names, or real estate on other planets or moons in the Solar System...Like many of the best things in life, the beauty of the night sky is not for sale — it is free for all to enjoy". This policy aligns with similar topics, such as our discussion in Ethics of Building Telescopes and the question of who, if anyone, can own anything in outer space. It also aligns with The Outer Space Treaty which states that "outer space is not subject to national appropriation by claim of sovereignty." We ask you to consider your own stance on this idea, as humanity continues to chart and explore the universe.
+                  - heading "References" [level=3] [ref=f348e31]
+                  - list [ref=f348e32]:
+                    - listitem [ref=f348e33]:
+                      - emphasis [ref=f348e34]: Buying Stars and Star Names
+                      - text: . International Astronomical Union Archive.
+                      - link "https://iauarchive.eso.org/public/th...ng_star_names/" [ref=f348e35]:
+                        - /url: https://iauarchive.eso.org/public/themes/buying_star_names/
+                    - listitem [ref=f348e36]:
+                      - text: Hamacher, D. (2018, Jan 14).
+                      - emphasis [ref=f348e37]: The stories behind Aboriginal star names now recognized by the world's astronomical body
+                      - text: . The Conversation.
+                      - link "https://theconversation.com/the-stor...cal-body-87617" [ref=f348e38]:
+                        - /url: https://theconversation.com/the-stories-behind-aboriginal-star-names-now-recognised-by-the-worlds-astronomical-body-87617
+                    - listitem [ref=f348e39]:
+                      - text: Kimura, K., et al. (2019, Sept 30).
+                      - emphasis [ref=f348e40]: "A Hua He Inoa: Hawaiian Culture-Based Celestial Naming"
+                      - text: . Bulletin of the AAS.
+                      - link "https://baas.aas.org/pub/2020n7i135/release/1" [ref=f348e41]:
+                        - /url: https://baas.aas.org/pub/2020n7i135/release/1
+                    - listitem [ref=f348e42]:
+                      - emphasis [ref=f348e43]: Outer Space Treaty
+                      - text: . (1966, Dec 19). United Nations Office for Outer Space Affairs.
+                      - link "https://www.unoosa.org/oosa/en/ourwo...acetreaty.html" [ref=f348e44]:
+                        - /url: https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/introouterspacetreaty.html
+                    - listitem [ref=f348e45]:
+                      - text: Sadegh Faghanpour, M. (2026, Feb 12).
+                      - emphasis [ref=f348e46]: IAU Selects New Star Names to Reflect Global Astronomical Culture
+                      - text: . International Astronomical Union.
+                      - link "https://www.iau.org/IAU/IAU/News/Ann...ames-2026.aspx" [ref=f348e47]:
+                        - /url: https://www.iau.org/IAU/IAU/News/Ann2026/New-Star-Names-2026.aspx
+                    - listitem [ref=f348e48]:
+                      - text: Shi, Y. (2014, July 7).
+                      - emphasis [ref=f348e49]: Ancient Chinese Astronomy - An Overview
+                      - text: . Handbook of Archaeoastronomy and Ethnoastronomy.
+                      - link "https://link.springer.com/rwe/10.100...1-8_210" [ref=f348e50]:
+                        - /url: https://link.springer.com/rwe/10.1007/978-1-4614-6141-8_210
+                    - listitem [ref=f348e51]:
+                      - text: Sokol, J. (2025, April 18).
+                      - emphasis [ref=f348e52]: Chinese star catalog is the world's oldest, astronomers claim
+                      - text: . Science.
+                      - link "https://www.science.org/content/arti...g-star-catalog" [ref=f348e53]:
+                        - /url: https://www.science.org/content/article/china-lays-claim-world-s-oldest-surviving-star-catalog
+                    - listitem [ref=f348e54]:
+                      - emphasis [ref=f348e55]: Star Names
+                      - text: . International Astronomical Union.
+                      - link "https://iauarchive.eso.org/public/th.../naming_stars/" [ref=f348e56]:
+                        - /url: https://iauarchive.eso.org/public/themes/naming_stars/
+              - generic [ref=f346e344]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f346e346] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f346e94]:
+          - separator [ref=f346e95]
+          - paragraph [ref=f346e97]:
+            - 'link "11.4: Naming the Stars" [ref=f346e98] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.04%3A_Naming_the_Stars
+            - text: is shared under a
+            - link "CC BY" [ref=f346e99] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f346e100]:
+        - list [ref=f346e101]:
+          - listitem [ref=f346e102]:
+            - link "Back to top" [ref=f346e103] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f346e104]:
+            - list [ref=f346e105]:
+              - listitem [ref=f346e106]:
+                - 'link " 11.3: Evidence of Exoplanets" [ref=f346e107] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.03%3A_Evidence_of_Exoplanets
+                  - text: 
+                  - generic [ref=f346e108]: "11.3: Evidence of Exoplanets"
+              - listitem [ref=f346e109]:
+                - 'link "11.5: Key Terms " [ref=f346e110] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.05%3A_Key_Terms
+                  - generic [ref=f346e111]: "11.5: Key Terms"
+                  - text: 
+        - list [ref=f346e114]:
+          - listitem [ref=f346e115]: Was this article helpful?
+          - listitem [ref=f346e116]:
+            - button "Yes" [ref=f346e117] [cursor=pointer]
+          - listitem [ref=f346e118]:
+            - button "No" [ref=f346e119] [cursor=pointer]
+          - listitem [ref=f346e120]:
+            - button "Leave feedback" [ref=f346e121] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f346e122]:
+          - heading "Attachments" [level=2] [ref=f346e123]
+          - generic:
+            - button "Attach a file" [ref=f346e124] [cursor=pointer]
+            - text: 
+          - generic [ref=f346e126]:
+            - generic [ref=f346e129]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f346e130]
+            - generic [ref=f346e131]:
+              - grid [ref=f346e134]:
+                - rowgroup [ref=f346e135]:
+                  - row [ref=f346e136]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f346e137]':
+                      - generic:
+                        - generic [ref=f346e138]: File
+                        - generic [ref=f346e139]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f346e140]':
+                      - generic:
+                        - generic [ref=f346e141]: Last modified
+                        - generic [ref=f346e142]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f346e143]':
+                      - generic:
+                        - generic [ref=f346e144]: Size
+                        - generic [ref=f346e145]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f346e146]':
+                      - generic:
+                        - generic [ref=f346e147]: Added by
+                        - generic [ref=f346e148]: 
+              - grid [ref=f346e150]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f346e151]: File
+                          - generic [ref=f346e152]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f346e153]: Last modified
+                          - generic [ref=f346e154]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f346e155]: Size
+                          - generic [ref=f346e156]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f346e157]: Added by
+                          - generic [ref=f346e158]: 
+                - rowgroup [ref=f346e159]:
+                  - row [ref=f346e160]:
+                    - gridcell " Eso1737a-shorter.jpg (no description)" [ref=f346e161]:
+                      - generic [ref=f346e162]:
+                        - generic [ref=f346e163]:
+                          - generic [ref=f346e164]: 
+                          - link "Eso1737a-shorter.jpg" [ref=f346e165] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/66652/Eso1737a-shorter.jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f346e166]:
+                          - generic [ref=f346e167]: (no description)
+                          - text: 
+                    - gridcell "Feb 26, 2026, 6:41 PM" [ref=f346e168]
+                    - gridcell "741 KiB" [ref=f346e170]
+                    - gridcell "Caitlin Kepple" [ref=f346e171]
+                  - row [ref=f346e172]:
+                    - gridcell " IAU star names map WGSN 2025.jpg (no description)" [ref=f346e173]:
+                      - generic [ref=f346e174]:
+                        - generic [ref=f346e175]:
+                          - generic [ref=f346e176]: 
+                          - link "IAU star names map WGSN 2025.jpg" [ref=f346e177] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/66642/IAU_star_names_map_WGSN_2025.jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f346e178]:
+                          - generic [ref=f346e179]: (no description)
+                          - text: 
+                    - gridcell "Feb 22, 2026, 1:22 PM" [ref=f346e180]
+                    - gridcell "4.2 MiB" [ref=f346e182]
+                    - gridcell "Caitlin Kepple" [ref=f346e183]
+                  - row [ref=f346e184]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f346e185]:
+                      - generic [ref=f346e186]:
+                        - generic [ref=f346e187]:
+                          - generic [ref=f346e188]: 
+                          - link "mindtouch.page#thumbnail" [ref=f346e189] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63010/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f346e190]:
+                          - generic [ref=f346e191]: (no description)
+                          - text: 
+                    - gridcell "Nov 30, 2025, 12:53 PM" [ref=f346e192]
+                    - gridcell "11 KiB" [ref=f346e194]
+                    - gridcell "Caitlin Kepple" [ref=f346e195]
+    - generic [ref=f346e197]:
+      - button "Open support menu" [ref=f346e199] [cursor=pointer]: "?"
+      - navigation [ref=f346e201]:
+        - paragraph [ref=f346e203]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f346e204] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f346e205] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f346e206] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f346e207] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f346e208] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f346e209]:
+      - generic:
+        - generic [ref=f346e211]:
+          - button "Annotation sidebar" [ref=f346e212]
+          - generic [ref=f346e217]:
+            - button "Show highlights" [ref=f346e218]
+            - button "New page note" [ref=f346e223]
+          - status [ref=f346e228]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f346e229]:
+    - button "contents" [ref=f346e230] [cursor=pointer]
+    - button "readability" [ref=f346e232] [cursor=pointer]
+    - button "resources" [ref=f346e234] [cursor=pointer]
+    - button "tools" [ref=f346e236] [cursor=pointer]
+    - button "developers" [ref=f346e238] [cursor=pointer]
+  - text:  
+  - generic [ref=f346e347]:
+    - generic [ref=f346e348] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f346e351] [cursor=pointer]

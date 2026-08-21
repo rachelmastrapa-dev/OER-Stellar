@@ -1,0 +1,647 @@
+- generic [ref=f544e1]:
+  - link "Skip to main content" [ref=f544e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f544e3]:
+    - text: 
+    - generic [ref=f544e4]:
+      - generic [ref=f544e5]:
+        - generic: ✕
+        - navigation [ref=f544e7]:
+          - generic [ref=f544e8]:
+            - link [ref=f544e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f544e11]
+            - button "Enter Reader Mode" [ref=f544e13] [cursor=pointer]:
+              - generic [ref=f544e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f544e16]:
+        - list [ref=f544e18]:
+          - listitem [ref=f544e19]:
+            - link [ref=f544e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f544e22]
+          - listitem [ref=f544e23]:
+            - text: 
+            - generic [ref=f544e25]:
+              - generic [ref=f544e26]: "Search :"
+              - searchbox "Search :" [ref=f544e27]
+              - button " Search" [ref=f544e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f544e29]:
+            - list [ref=f544e30]:
+              - listitem [ref=f544e31]:
+                - link "Edit" [ref=f544e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions?action=edit
+              - text: 
+              - listitem [ref=f544e33]:
+                - link " Options" [ref=f544e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f544e35]:
+                - link " Rachel Mastrapa" [ref=f544e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f544e37]:
+        - generic:
+          - button " Contents" [ref=f544e207] [cursor=pointer]
+          - list [ref=f544e39]:
+            - listitem [ref=f544e40]:
+              - link " Home" [ref=f544e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f544e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f544e43]:
+              - link " Workbench" [ref=f544e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f544e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f544e46]:
+              - link " De Anza - ASTR10" [ref=f544e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f544e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f544e49]:
+              - 'link " 17: Evolution of Galaxies" [ref=f544e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies
+                - generic [ref=f544e51]: 
+                - text: "17: Evolution of Galaxies"
+              - text: »
+            - listitem [ref=f544e52]:
+              - generic [ref=f544e53]: 
+              - text: "17.8: Accessible Descriptions"
+          - button " Expand/collapse global location" [ref=f544e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                
+    - article [ref=f544e55]:
+      - generic [ref=f544e56]:
+        - generic [ref=f544e57]:
+          - button " Page settings" [ref=f544e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "17.8: Accessible Descriptions" [level=1] [ref=f544e59]':
+          - generic [ref=f544e60]: "17.8: Accessible Descriptions "
+        - list [ref=f544e62]:
+          - listitem [ref=f544e63]:
+            - link [ref=f544e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f544e66]:
+                - img "CC" [ref=f544e67]
+                - img "BY" [ref=f544e68]
+          - listitem [ref=f544e69]:
+            - generic [ref=f544e70]:
+              - term [ref=f544e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f544e72]: Aug 19, 2026, 12:07 PM by Rachel Mastrapa
+          - listitem [ref=f544e73]:
+            - generic [ref=f544e74]:
+              - term [ref=f544e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f544e76]: Private
+          - listitem [ref=f544e77]:
+            - generic [ref=f544e78]:
+              - term [ref=f544e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f544e80]: "140414"
+          - listitem [ref=f544e81]:
+            - list [ref=f544e82]:
+              - listitem [ref=f544e83]:
+                - button "Pin Page" [ref=f544e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f544e85]:
+                - list [ref=f544e86]:
+                  - listitem [ref=f544e87]:
+                    - 'link " 17.7: Key Terms" [ref=f544e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.07%3A_Key_Terms
+                      - text: 
+                      - generic [ref=f544e89]: "17.7: Key Terms"
+                  - listitem [ref=f544e90]:
+                    - 'link "18: Appendices " [ref=f544e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices
+                      - generic [ref=f544e92]: "18: Appendices"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f544e93]:
+        - group [ref=f544e210]:
+          - generic [ref=f544e211]:
+            - generic [ref=f544e212]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f544e213]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f544e214]:
+            - generic [ref=f544e217]:
+              - generic [ref=f544e218]:
+                - generic [ref=f544e219]:
+                  - link "Edit" [ref=f544e220]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f544e221]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f544e222]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f544e223]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f544e224]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f544e225]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f544e226]: "Words: 3881, Chars: 25440"
+              - group "Editor toolbars" [ref=f544e228]:
+                - toolbar [ref=f544e229]:
+                  - button "Save" [ref=f544e230]:
+                    - generic [ref=f544e231]: 
+                  - button "Cancel" [ref=f544e233]:
+                    - generic [ref=f544e234]: 
+                - toolbar [ref=f544e237]:
+                  - button "Undo" [disabled] [ref=f544e238]:
+                    - generic [ref=f544e239]: 
+                  - button "Redo" [disabled] [ref=f544e240]:
+                    - generic [ref=f544e241]: 
+                - toolbar [ref=f544e243]:
+                  - button "Headings" [ref=f544e244]
+                - toolbar [ref=f544e249]:
+                  - button "Bold" [ref=f544e250]:
+                    - generic [ref=f544e251]: 
+                  - button "Italic" [ref=f544e252]:
+                    - generic [ref=f544e253]: 
+                  - button "Underline" [ref=f544e254]:
+                    - generic [ref=f544e255]: 
+                - toolbar [ref=f544e257]:
+                  - button "Text color" [ref=f544e258]:
+                    - generic [ref=f544e259]: 
+                  - button "Background color" [ref=f544e261]:
+                    - generic [ref=f544e262]: 
+                - toolbar [ref=f544e265]:
+                  - button "Remove format" [ref=f544e266]:
+                    - generic [ref=f544e267]: 
+                - toolbar [ref=f544e269]:
+                  - button "Insert/Remove numbered list" [ref=f544e270]:
+                    - generic [ref=f544e271]: 
+                  - button "Insert/Remove bulleted list" [ref=f544e272]:
+                    - generic [ref=f544e273]: 
+                - toolbar [ref=f544e275]:
+                  - button "Alignment" [ref=f544e276]:
+                    - generic [ref=f544e277]: 
+                - text: 
+                - toolbar [ref=f544e280]:
+                  - button "Link" [ref=f544e281]:
+                    - generic [ref=f544e282]: 
+                  - button "Image" [ref=f544e283]:
+                    - generic [ref=f544e284]: 
+                  - text: 
+                  - button "Boxes" [ref=f544e285]
+                - toolbar [ref=f544e290]:
+                  - button "Replace" [ref=f544e291]:
+                    - generic [ref=f544e292]: 
+                - toolbar [ref=f544e294]:
+                  - button "Enable Binder" [ref=f544e295]
+                  - button "Insert Adapt" [ref=f544e297]
+                  - button "Query" [ref=f544e299]
+                  - button "Accessibility Checker" [ref=f544e302]
+                - toolbar [ref=f544e305]:
+                  - button "HTML" [ref=f544e306]:
+                    - generic [ref=f544e307]: 
+            - application "Rich Text Editor, editarea" [ref=f544e309]:
+              - iframe [active] [ref=f544e310]:
+                - generic [active] [ref=f546e1]:
+                  - heading "Figure 17.1.1 Astronomical Time Travel" [level=2] [ref=f546e2]
+                  - paragraph [ref=f546e3]: Visible-light Hubble Space Telescope image of galaxy cluster Abell 2744.
+                  - heading "Foreground Cluster" [level=3] [ref=f546e4]
+                  - list [ref=f546e5]:
+                    - listitem [ref=f546e6]: Several large, bright elliptical galaxies are in the cluster, named Abell 2744, located mostly near the center and scattered throughout the image.
+                    - listitem [ref=f546e7]: The cluster contains several hundred galaxies, appearing as they looked 3.5 billion years ago.
+                    - listitem [ref=f546e8]: The immense gravity of Abell 2744 acts as a gravitational lens, warping space to brighten and magnify the images of nearly 3000 more distant background galaxies.
+                  - heading "Background Galaxies" [level=3] [ref=f546e9]
+                  - list [ref=f546e10]:
+                    - listitem [ref=f546e11]: Numerous smaller, more distant galaxies are scattered throughout the image, with some appearing as thin, curved arcs distorted by the lensing effect.
+                    - listitem [ref=f546e12]: Many of the background galaxies appear blue, as they are seen as they looked more than 12 billion years ago, not long after the Big Bang.
+                    - listitem [ref=f546e13]: The blue color indicates active star formation producing hot, bright blue stars, which was much more common in that earlier time than it is today.
+                  - paragraph [ref=f546e14]: "Credit: NASA, ESA, STScI"
+                  - heading "Figure 17.1.2 Very Distant Galaxy" [level=2] [ref=f546e15]
+                  - paragraph [ref=f546e16]: Hubble and Spitzer images of a distant galaxy field.
+                  - heading "Main Image" [level=3] [ref=f546e17]
+                  - list [ref=f546e18]:
+                    - listitem [ref=f546e19]: A Hubble Space Telescope image showing many faint, distant galaxies scattered across a dark background.
+                    - listitem [ref=f546e20]: The galaxies are a variety of colors, including red, orange, yellow, and blue.
+                    - listitem [ref=f546e21]: The galaxies are small with no discernable shape. They are tiny blobs that range from roundish to thin lines.
+                    - listitem [ref=f546e22]: A white arrow points to a faint orange dot below center, marking the luminous galaxy at a redshift of z = 8.68, corresponding to a distance of about 13.2 billion light years.
+                    - listitem [ref=f546e23]: Two square insets appear at the upper right, enlarging the region around the galaxy.
+                  - heading "Hubble Inset" [level=3] [ref=f546e24]
+                  - list [ref=f546e25]:
+                    - listitem [ref=f546e26]: Labeled Hubble, at the top right.
+                    - listitem [ref=f546e27]: An enlarged, higher-resolution view of the region around the galaxy, showing a bright orange point of light near the center along with several fainter red and blue points.
+                  - heading "Spitzer Inset" [level=3] [ref=f546e28]
+                  - list [ref=f546e29]:
+                    - listitem [ref=f546e30]: Labeled Spitzer, below the Hubble inset.
+                    - listitem [ref=f546e31]: A lower-resolution infrared image of the same region, showing soft, blurred patches of orange, pink, and yellow light rather than distinct points.
+                    - listitem [ref=f546e32]: The galaxies in the Spitzer image are significantly brighter in the infrared, compared to the visible Hubble image.
+                  - paragraph [ref=f546e33]: "Credit: I. Labbé (Leiden University), NASA/ESA/JPL-Caltech"
+                  - heading "Figure 17.1.3 Hubble Ultra-Deep Field" [level=2] [ref=f546e34]
+                  - paragraph [ref=f546e35]: Hubble Space Telescope image of thousands of distant galaxies.
+                  - heading "Image Elements" [level=3] [ref=f546e36]
+                  - list [ref=f546e37]:
+                    - listitem [ref=f546e38]: A Hubble Space Telescope image of a small patch of sky, densely filled with thousands of galaxies of varying colors, shapes, and sizes.
+                    - listitem [ref=f546e39]: Several pinwheel-shaped spiral galaxies are scattered throughout, resembling the structure of the Milky Way.
+                    - listitem [ref=f546e40]: Many galaxies show irregular or distorted shapes, resulting from collisions with companion galaxies.
+                    - listitem [ref=f546e41]: Reddish, blob-shaped elliptical galaxies, which contain mostly old stars, appear throughout the image.
+                    - listitem [ref=f546e42]: A small number of bright, sharp-pointed objects are foreground stars from the Milky Way, distinguishable from the more numerous faint, extended galaxies.
+                  - paragraph [ref=f546e43]: "Credit: modification of work by NASA, ESA, H. Teplitz and M. Rafelski (IPAC/Caltech), A. Koekemoer (STScI), R. Windhorst (Arizona State University), and Z. Levay (STScI)"
+                  - heading "Figure 17.1.4 Protogalaxies" [level=2] [ref=f546e44]
+                  - paragraph [ref=f546e45]: Hubble Space Telescope image of small, early galaxy fragments, or protogalaxies with enlarged insets.
+                  - heading "Main Image" [level=3] [ref=f546e46]
+                  - list [ref=f546e47]:
+                    - listitem [ref=f546e48]: A wide-field Hubble image showing numerous small, distant galaxies scattered across the frame, most too faint to distinguish detail directly.
+                    - listitem [ref=f546e49]: "Eighteen protogalaxies are labeled with numbers marking their positions: 1, 5, 6, 8, 10, 11, 12, 13, 18, 19, 29, 34, 37, 40, 60, 61, 94, and 113."
+                    - listitem [ref=f546e50]: Two bright stars, each surrounded by sharp, star-shaped points of light, appear near the upper left and center left of the image.
+                  - heading "Inset Enlargements" [level=3] [ref=f546e51]
+                  - list [ref=f546e52]:
+                    - listitem [ref=f546e53]: Located at the upper right, a grid of small panels shows enlarged close-up views of each numbered object.
+                    - listitem [ref=f546e54]: These objects are compact groups of stars that will eventually become galaxies, using the term protogalaxy.
+                    - listitem [ref=f546e55]: Each panel is labeled with the number corresponding to its position in the main image.
+                    - listitem [ref=f546e56]: "Five of the panels include a redshift label: galaxy 6 at z = 2.390, protogalaxy 8 at z = 2.386, protogalaxy 12 at z = 2.388, protogalaxy 18 at z = 2.393, and protogalaxy 19 at z = 2.397."
+                    - listitem [ref=f546e57]: Below the grid, two larger panels labeled 5 and 6(53W002) show wider views providing more context around those two objects.
+                    - listitem [ref=f546e58]: Almost all of the protogalaxies are blue, with exception of 13 which is orange-red.
+                    - listitem [ref=f546e59]: The protogalaxies are very small with shapes ranging from round to a stretched line.
+                  - paragraph [ref=f546e60]: "Credit: modification of work by Rogier Windhorst (Arizona State University) and NASA"
+                  - heading "Figure 17.2.1 Interacting Galaxies" [level=2] [ref=f546e61]
+                  - paragraph [ref=f546e62]: Six images showing galaxies in different stages of interaction.
+                  - heading "Image (a)" [level=3] [ref=f546e63]
+                  - list [ref=f546e64]:
+                    - listitem [ref=f546e65]: A black-and-white visible-light image of the galaxies M82 and M83.
+                    - listitem [ref=f546e66]: The smaller galaxy, M82, appears near the top as an elongated dark shape.
+                    - listitem [ref=f546e67]: The larger spiral galaxy, M83, appears below as a rounded dark shape.
+                  - heading "Image (b)" [level=3] [ref=f546e68]
+                  - list [ref=f546e69]:
+                    - listitem [ref=f546e70]: A false-color radio image of the same pair of galaxies in Image (a), showing radio waves given off by cold hydrogen gas.
+                    - listitem [ref=f546e71]: The background is dark blue, with the gas shown in colors ranging from light blue to green, yellow, orange, and red at indicating the highest concentration of cold hydrogen gas.
+                    - listitem [ref=f546e72]: The two galaxies are wrapped in a common shroud of gas that is stretched and pulled between them by their mutual gravity.
+                  - heading "Image (c)" [level=3] [ref=f546e73]
+                  - list [ref=f546e74]:
+                    - listitem [ref=f546e75]: A Hubble Space Telescope image of galaxy M82, shown at edge-on with a bright, elongated central disk.
+                    - listitem [ref=f546e76]: Red, filament-like tendrils of gas stream outward above and below the disk, powered by supernova explosions from a burst of star formation triggered by the interaction with M83.
+                  - heading "Image (d)" [level=3] [ref=f546e77]
+                  - list [ref=f546e78]:
+                    - listitem [ref=f546e79]: The barred spiral galaxy UGC 10214, nicknamed the Tadpole, is in the upper left corner of the image.
+                    - listitem [ref=f546e80]: A long, curving tidal tail of stars and gas, about 280,000 light-years long, extends away from the main galaxy toward the lower right corner, pulled out by the gravity of the passing companion.
+                    - listitem [ref=f546e81]: Bright blue clumps along the tail mark bursts of star formation triggered by the interaction.
+                  - heading "Image (e)" [level=3] [ref=f546e82]
+                  - list [ref=f546e83]:
+                    - listitem [ref=f546e84]: Galaxies NGC 4676 A and B, nicknamed The Mice, shown as two spiral galaxies connected by long, narrow tails of stars.
+                    - listitem [ref=f546e85]: The tails were pulled away from each galaxy by their mutual gravitational interaction.
+                  - heading "Image (f)" [level=3] [ref=f546e86]
+                  - list [ref=f546e87]:
+                    - listitem [ref=f546e88]: Arp 148, a pair of galaxies caught in the process of merging into one new galaxy.
+                    - listitem [ref=f546e89]: One galaxy, on the right, has been reshaped into a bright blue ring of active star formation, the result of a shockwave from the two galaxies passing through each other.
+                    - listitem [ref=f546e90]: The second, elongated galaxy extends outward from the ring toward the left of the image.
+                  - paragraph [ref=f546e91]: "Credit a, b: modification of work by NRAO/AUI"
+                  - paragraph [ref=f546e92]: "Credit c: modification of work by NASA, ESA, and The Hubble Heritage Team (STScI/AURA)"
+                  - paragraph [ref=f546e93]: "Credit d, e: modification of work by NASA, H. Ford (JHU), G. Illingworth (UCSC/LO), M. Clampin (STScI), G. Hartig (STScI), the ACS Science Team, and ESA"
+                  - paragraph [ref=f546e94]: "Credit f: modification of work by NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration, and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook University)"
+                  - heading "Figure 17.2.2 Simulated Collision" [level=2] [ref=f546e95]
+                  - paragraph [ref=f546e96]: Computer simulation of two spiral galaxies merging into one elliptical galaxy. The figure is broken into 2 rows of three panels. Panels are unnumbered but this description starts in the upper left panel (Panel 1), moves across the row (Panel2) to the upper right (Panel 3), moves to the bottom left (Panel 4), across that row (Panel 5), to the bottom right (Panel 6). Galaxies are unlabeled, but A and B are assigned until they can no longer be separated.
+                  - heading "Panel 1" [level=3] [ref=f546e97]
+                  - list [ref=f546e98]:
+                    - listitem [ref=f546e99]: Two spiral galaxies at the start of the interaction, one large face-on spiral with tightly wound arms (A) is above a smaller, more elongated companion below it (B).
+                    - listitem [ref=f546e100]: The model of each galaxy includes millions of individual dots that have the color of the star they represent.
+                    - listitem [ref=f546e101]: Galaxy B is made of mostly red stars, while Galaxy A is a mix of red and blue.
+                  - heading "Panel 2" [level=3] [ref=f546e102]
+                  - list [ref=f546e103]:
+                    - listitem [ref=f546e104]: The two galaxies have moved closer together, their spiral arms stretched and distorted into curving, wispy blue structures.
+                    - listitem [ref=f546e105]: Galaxy B has two long red tails.
+                    - listitem [ref=f546e106]: Galaxy A has lost most of its spirals.
+                    - listitem [ref=f546e107]: A long string of blue stars loops around Galaxy A and Galaxy B. The concentration of blue stars indicates star formation.
+                  - heading "Panel 3" [level=3] [ref=f546e108]
+                  - list [ref=f546e109]:
+                    - listitem [ref=f546e110]: The galaxies pass through each other, producing long, sweeping blue tidal arms and a bridge of material connecting them.
+                    - listitem [ref=f546e111]: Galaxy B has moved to the left, and Galaxy A has moved to the right.
+                    - listitem [ref=f546e112]: Both galaxies have a blue ring of star formation. Galaxy A's rings is significantly large and has several blue tails.
+                    - listitem [ref=f546e113]: The line of stars collecting the galaxies is red, indicating older stars.
+                    - listitem [ref=f546e114]
+                  - heading "Panel 4" [level=3] [ref=f546e115]
+                  - list [ref=f546e116]:
+                    - listitem [ref=f546e117]: Galaxy A has a bright, ring-like structure with a yellow center and extended blue tails as the galaxies come back together.
+                    - listitem [ref=f546e118]: Galaxy B is a smaller blue ring with a red center.
+                    - listitem [ref=f546e119]
+                  - heading "Panel 5" [level=3] [ref=f546e120]
+                  - list [ref=f546e121]:
+                    - listitem [ref=f546e122]: "The merging galaxies have settled into a single structure: an oval, hazy golden shape with faint blue material trailing along extended tails."
+                  - heading "Panel 6" [level=3] [ref=f546e123]
+                  - list [ref=f546e124]:
+                    - listitem [ref=f546e125]: The two original spiral galaxies have merged into a single, round elliptical galaxy, brightest at the center and fading outward.
+                    - listitem [ref=f546e126]: The center is yellow, and the outer parts are red with small amounts of blue scattered through it.
+                  - paragraph [ref=f546e127]: "Credit: modification of work by P. Jonsson (Harvard-Smithsonian Center for Astrophysics), G. Novak (Princeton University), and T. J. Cox (Carnegie Observatories)"
+                  - heading "Figure 17.2.3 Galactic Cannibalism" [level=2] [ref=f546e128]
+                  - paragraph [ref=f546e129]: Two images showing evidence of galaxy mergers.
+                  - heading "Image (a)" [level=3] [ref=f546e130]
+                  - list [ref=f546e131]:
+                    - listitem [ref=f546e132]: A Hubble Space Telescope image of the elliptical galaxy NGC 1316, appearing as a large, diffuse, glowing golden-white sphere.
+                    - listitem [ref=f546e133]: Dark, wispy filaments of dust form an irregular silhouette across the bright nucleus, unusual for an elliptical galaxy, which typically contains little dust.
+                    - listitem [ref=f546e134]: The dust is likely the remnant of a smaller companion galaxy absorbed by NGC 1316 about 100 million years ago.
+                  - heading "Image (b)" [level=3] [ref=f546e135]
+                  - list [ref=f546e136]:
+                    - listitem [ref=f546e137]: A composite image of the irregular galaxy NGC 6240, combining a Hubble Space Telescope background image with two Chandra X-ray Telescope insets.
+                    - listitem [ref=f546e138]: The background Hubble image shows a butterfly-shaped galaxy with dark, dusty lanes crossing pale, diffuse light, alongside two bright foreground stars.
+                    - listitem [ref=f546e139]: A white box on the galaxy's center marks the region enlarged in the first inset.
+                    - listitem [ref=f546e140]: The first inset shows a false-color X-ray view with red, orange, and yellow diffuse gas surrounding a smaller bright region, marked by another white box.
+                    - listitem [ref=f546e141]: The second, most enlarged inset reveals two separate bright blue-white points, representing two distinct galactic nuclei separated by only 4000 light-years.
+                    - listitem [ref=f546e142]: These two nuclei are likely two supermassive black holes, left over from the two original spiral galaxies, that are spiraling toward their own eventual merger.
+                  - paragraph [ref=f546e143]: "Credit a: modification of work by NASA, ESA, and The Hubble Heritage Team (STScI/AURA)"
+                  - paragraph [ref=f546e144]: "Credit b: X-ray: NASA/CXC/MPE/S. Komossa et al.; Optical: NASA/STScI/R.P. van der Marel & J. Gerssen"
+                  - heading "Figure 17.2.4 Starburst" [level=2] [ref=f546e145]
+                  - paragraph [ref=f546e146]: Two images showing galaxies undergoing intense, interaction-triggered star formation.
+                  - heading "Image (a)" [level=3] [ref=f546e147]
+                  - list [ref=f546e148]:
+                    - listitem [ref=f546e149]: A Hubble Space Telescope image showing four galaxies in a dark starry field, three of which, part of Stephan's Quintet, are interacting gravitationally at a distance of 270 million light-years.
+                    - listitem [ref=f546e150]: A pale white spiral galaxy appears at the upper left; this galaxy is much closer than the other three and is not part of the interaction.
+                    - listitem [ref=f546e151]: The three interacting galaxies, positioned at upper right, lower center, and bottom center, show distorted, stretched shapes with tidal streams connecting them.
+                    - listitem [ref=f546e152]: Long strings of young, massive blue stars and pink-glowing regions of star formation trace the areas disturbed by the interaction.
+                    - listitem [ref=f546e153]: A fourth, more distant golden elliptical galaxy appears alone near the bottom left of the image.
+                  - heading "Image (b)" [level=3] [ref=f546e154]
+                  - list [ref=f546e155]:
+                    - listitem [ref=f546e156]: A combined Hubble and Spitzer Space Telescope image of the starburst galaxy II Zw 096, located 500 million light-years away with a diameter of about 50,000 light-years.
+                    - listitem [ref=f546e157]: Blue regions show the two merging galaxies in visible light, including a distinct blue spiral galaxy at upper right with sweeping arms. The blue color indicates star formation.
+                    - listitem [ref=f546e158]: A bright red and orange region near the center is intense infrared radiation from a dusty area of new star formation.
+                    - listitem [ref=f546e159]: Diffuse blue clouds extend to the left of the central region, tracing more of the merging galactic material.
+                  - paragraph [ref=f546e160]: "Credit a: modification of work by NASA, ESA, and the Hubble SM4 ERO Team"
+                  - paragraph [ref=f546e161]: "Credit b: modification of work by NASA/JPL-Caltech/STScI"
+                  - heading "Figure 17.2.5 Centaurus A Galaxy" [level=2] [ref=f546e162]
+                  - paragraph [ref=f546e163]: Composite visible, submillimeter, and X-ray image of the galaxy Centaurus A.
+                  - heading "Image Elements" [level=3] [ref=f546e164]
+                  - list [ref=f546e165]:
+                    - listitem [ref=f546e166]: A composite image combining visible light, submillimeter radiation, and X-ray data, set against a dark, star-filled background.
+                    - listitem [ref=f546e167]: The galaxy is in an almost edge on view, with the near edge tipped slightly up and two the left. It appears as a large, diffuse, pale disk of stars, with a thick, dark and orange dust lane running diagonally from lower left to upper right across its center.
+                    - listitem [ref=f546e168]: Bright orange submillimeter radiation traces the dust lane and glows most intensely along its length.
+                    - listitem [ref=f546e169]: Two large, hazy orange lobes, extend outward from the galaxy's core in opposite directions, to the upper left and lower right, perpendicular to the dust lane, representing X-ray-emitting gas inflated by jets from the galaxy's active nucleus The bottom right lobe is surrounded by a shell of blue.
+                    - listitem [ref=f546e170]: Faint blue jets are visible reaching from the core into each lobe, aligned along the same axis as the lobes.
+                  - paragraph [ref=f546e171]: "Credit: modification of work by ESO/WFI (Optical); MPIfR/ESO/APEX/A. Weiss et al. (Submillimeter); NASA/CXC/CfA/R. Kraft et al. (X-ray)"
+                  - heading "Figure 17.3.1 Virgo Cluster" [level=2] [ref=f546e172]
+                  - paragraph [ref=f546e173]: Image of the central region of the Virgo Cluster of galaxies.
+                  - heading "Image Elements" [level=3] [ref=f546e174]
+                  - list [ref=f546e175]:
+                    - listitem [ref=f546e176]: A wide star field showing the central part of the Virgo Cluster, located about 50 million light-years away.
+                    - listitem [ref=f546e177]: The giant elliptical galaxy M87 appears just below center as a large, bright, diffuse glow that fades gradually outward.
+                    - listitem [ref=f546e178]: Hundreds of smaller, fainter galaxies are scattered throughout the image, appearing as small hazy patches of light among the foreground stars.
+                    - listitem [ref=f546e179]: Two galaxies near the upper right, known as The Eyes, appear as a close pair of small, round, glowing shapes.
+                    - listitem [ref=f546e180]: Several other spiral and elliptical galaxies of varying size and brightness are visible surrounding M87.
+                  - paragraph [ref=f546e181]: "Credit: modification of work by Chris Mihos (Case Western Reserve University)/ESO"
+                  - heading "Figure 17.3.2 Coma Cluster" [level=2] [ref=f546e182]
+                  - paragraph [ref=f546e183]: Combined visible and infrared image of the central Coma Cluster.
+                  - heading "Image Elements" [level=3] [ref=f546e184]
+                  - list [ref=f546e185]:
+                    - listitem [ref=f546e186]: A color-coded, combined visible-light and infrared image of the central region of the Coma Cluster, located about 320 million light-years away.
+                    - listitem [ref=f546e187]: The background is filled with numerous small green smudges, representing faint dwarf galaxies, far outnumbering the larger galaxies in the field.
+                    - listitem [ref=f546e188]: A small number of larger, brighter blue-white galaxies, both spirals and ellipticals, are scattered throughout, standing out clearly against the dense field of dwarf galaxies.
+                    - listitem [ref=f546e189]: Several bright, sharp-pointed blue stars, foreground objects in the Milky Way, also appear in the frame, distinguishable from the softer, extended galaxies.
+                    - listitem [ref=f546e190]: A few faint pink and red smudges are also present, showing galaxies in a different color range from the dominant green dwarfs.
+                  - paragraph [ref=f546e191]: "Credit: modification of work by NASA/JPL-Caltech/L. Jenkins (GSFC)"
+                  - heading "Figure 17.3.3 Gravitational Lensing" [level=2] [ref=f546e192]
+                  - paragraph [ref=f546e193]: Diagram showing how gravitational lensing creates two images of a quasar.
+                  - heading "Diagram Elements" [level=3] [ref=f546e194]
+                  - list [ref=f546e195]:
+                    - listitem [ref=f546e196]: A blue ball at the far left, labeled Observer on Earth, represents the viewing position.
+                    - listitem [ref=f546e197]: A white, elongated ellipse at the center, labeled Galaxy, represents a foreground galaxy acting as the lens.
+                    - listitem [ref=f546e198]: A white circle at the far right, labeled Quasar, represents the distant light source.
+                    - listitem [ref=f546e199]: Two solid yellow arrows travel leftward from the Quasar toward the Galaxy, one above the Galaxy and the other below the Galaxy. The arrows represent two paths of light from the quasar.
+                    - listitem [ref=f546e200]: Near the Galaxy, each solid arrow bends towards the Galaxy. The arrow above the Galaxy bends downward, and the arrow below the Galaxy bends upward. Both arrows meet at Earth.
+                    - listitem [ref=f546e201]: At the points above and below the Galaxy where the light from the Quasar was bent, two dashed arrows extend to the left. The dashed arrows continue to the upper and lower left corners of the diagram.
+                    - listitem [ref=f546e202]: The upper dashed line points to a label, Image A, at the upper right of the diagram. This is one position that the quasar is seen from Earth.
+                    - listitem [ref=f546e203]: The lower dashed line points to a label, Image B, at the lower right of the diagram. This is the other position that the quasar is seen from Earth.
+                    - listitem [ref=f546e204]: A small angle, labeled θ, marks the angular separation between the two dashed lines as seen by the Observer on Earth.
+                  - heading "Figure 17.3.4 Gravitationally Lensed Supernova" [level=2] [ref=f546e205]
+                  - paragraph [ref=f546e206]: Hubble image of a distant galaxy cluster, with inset showing a lensed supernova.
+                  - heading "Main Image" [level=3] [ref=f546e207]
+                  - list [ref=f546e208]:
+                    - listitem [ref=f546e209]: A wide Hubble Space Telescope image of a distant galaxy cluster, roughly 5 billion light-years away, filled with numerous orange and yellow elliptical and spiral galaxies against a dark background.
+                    - listitem [ref=f546e210]: A white square box marks a small region in the center, indicating the area enlarged in the inset at right.
+                  - heading "Inset Enlargement" [level=3] [ref=f546e211]
+                  - list [ref=f546e212]:
+                    - listitem [ref=f546e213]: Located on the right, showing a close-up view of the galaxy acting as a lens at the center. The galaxy is s bright oval shape, with a diffuse orange-white glow.
+                    - listitem [ref=f546e214]: Four small yellow points surround the galaxy, each marked with a white arrow, representing four separate images of a single background supernova at a distance of 9 billion light-years.
+                    - listitem [ref=f546e215]: The four points are arranged around the galaxy in a cross-shaped pattern known as an Einstein Cross.
+                    - listitem [ref=f546e216]: Faint blue streaks curve around the galaxy, representing the stretched, distorted image of the supernova's host spiral galaxy, warped by the gravitational lensing effect.
+                  - paragraph [ref=f546e217]: "Credit: modification of work by NASA, ESA, and S. Rodney (JHU) and the FrontierSN team; T. Treu (UCLA), P. Kelly (UC Berkeley), and the GLASS team; J. Lotz (STScI) and the Frontier Fields team; M. Postman (STScI) and the CLASH team; and Z. Levay (STScI)"
+                  - heading "Figure 17.3.5 Gravitational Lensing Distortions" [level=2] [ref=f546e218]
+                  - paragraph [ref=f546e219]: Hubble image of a galaxy cluster showing lensed images and a reconstructed background galaxy.
+                  - heading "Main Image" [level=3] [ref=f546e220]
+                  - list [ref=f546e221]:
+                    - listitem [ref=f546e222]: A wide Hubble Space Telescope image of a galaxy cluster, filled with orange and yellow elliptical galaxies near the center.
+                    - listitem [ref=f546e223]: "Four separate, distorted, elongated arcs of blue light are circled in white, positioned around the outside of the cluster: two in the upper left, one in the upper center, and one in the lower right."
+                    - listitem [ref=f546e224]: These arcs are distinct, distorted images of a single background galaxy produced by the cluster's gravitational lensing.
+                    - listitem [ref=f546e225]: A small white box near the center of the cluster marks the position of the background galaxy itself, before being distorted into the surrounding arcs.
+                    - listitem [ref=f546e226]: Two lines point from this small box down to a larger box at the lower left, indicating the origin of the reconstructed image shown there.
+                  - heading "Reconstruction Inset" [level=3] [ref=f546e227]
+                  - list [ref=f546e228]:
+                    - listitem [ref=f546e229]: In the lower left corner is a reconstruction of what the lensed background galaxy would look like without the distorting effect of the cluster.
+                    - listitem [ref=f546e230]: The reconstructed galaxy appears as an elongated, mottled shape with multiple bright, glowing patches of blue, white, and pink scattered throughout.
+                    - listitem [ref=f546e231]: These bright patches represent regions of star formation, much brighter than typical star-forming regions in the Milky Way.
+                  - paragraph [ref=f546e232]: "Credit: modification of work by NASA, ESA, and Z. Levay (STScI)"
+                  - heading "Figure 17.3.6 Sloan Digital Sky Survey Map" [level=2] [ref=f546e233]
+                  - paragraph [ref=f546e234]: Map of galaxy positions and ages by redshift and sky angle.
+                  - heading "Map Elements" [level=3] [ref=f546e235]
+                  - list [ref=f546e236]:
+                    - listitem [ref=f546e237]: The map is a circular polar projection representing two wedge-shaped slices of sky, with Earth and the Milky Way at the center.
+                    - listitem [ref=f546e238]: The radial axis, extending outward from the center, is labeled Redshift z and ranges from 0 at the center to 0.14 at the edge of the circle, with tick marks at increments of 0.02. The outer circle corresponds to a distance of two billion light-years.
+                    - listitem [ref=f546e239]: The angular axis, arranged around the circumference of the circle, is labeled in hour angle, with marks including 4h, 8h, 12h, 16h, and 20h.
+                    - listitem [ref=f546e240]: Two wedge-shaped regions of the circle, one in the upper half and one in the lower half, are filled with data points; the remaining areas of the circle are empty, representing regions obstructed by dust in the Milky Way.
+                  - heading "Data Points" [level=3] [ref=f546e241]
+                  - list [ref=f546e242]:
+                    - listitem [ref=f546e243]: Thousands of small colored dots fill both wedges, representing individual galaxies and clusters of galaxies.
+                    - listitem [ref=f546e244]: The dots form a clumpy, web-like pattern of dense strands and empty voids, appearing similarly clumpy but overall uniform in both wedges.
+                    - listitem [ref=f546e245]: "The color of each dot indicates the age of the galaxy's stars: redder dots represent galaxies made of older stars, while greener and bluer dots represent galaxies with younger stars."
+                    - listitem [ref=f546e246]: The reddish-orange dots appear more tightly clustered along the dense strands, while the green dots are more evenly spread throughout, including in less dense regions.
+                  - paragraph [ref=f546e247]: "Key Trend: Galaxies with older, redder stars are more strongly clustered together than galaxies with younger, bluer stars, and the large-scale distribution of galaxies is uniform but clumpy throughout both wedges of sky."
+                  - paragraph [ref=f546e248]: "Credit: modification of work by M. Blanton and the Sloan Digital Sky Survey"
+                  - heading "Figure 17.4.1 Rotation Indicates Dark Matter" [level=2] [ref=f546e249]
+                  - paragraph [ref=f546e250]: Chart of galaxy rotation velocity overlaid on an image of the Triangulum galaxy.
+                  - heading "Chart Elements" [level=3] [ref=f546e251]
+                  - list [ref=f546e252]:
+                    - listitem [ref=f546e253]: The vertical axis is labeled Rotational Velocity (km/s) and ranges from 0 at the bottom to 150 at the top, with tick marks at increments of 50.
+                    - listitem [ref=f546e254]: The horizontal axis is labeled R (×1000 LY) and ranges from 0 to 50, with tick marks at increments of 10.
+                    - listitem [ref=f546e255]: The chart is overlaid on a background image of a spiral galaxy, shown in white and pink, positioned in the lower left with its center near the origin of the axes.
+                  - heading "Data Series" [level=3] [ref=f546e256]
+                  - list [ref=f546e257]:
+                    - listitem [ref=f546e258]: The red line, labeled Observed, plots measured rotational velocities as red data points with error bars. It rises steeply from about 35 km/s near the center to about 100 km/s by R = 10, then continues climbing gradually to about 130 km/s by R = 50.
+                    - listitem [ref=f546e259]: The blue line, labeled Expected, shows the rotational velocity predicted from the visible mass alone. It rises from 0 to a peak of about 65 km/s near R = 10, then steadily declines to about 35 km/s by R = 50.
+                  - paragraph [ref=f546e260]: "Key Trend: The observed rotational velocity remains high and continues to rise at large distances from the galaxy's center, while the velocity expected from visible matter alone drops off, implying the presence of a massive, extended halo of dark matter."
+                  - paragraph [ref=f546e261]: "Credit background: modification of work by ESO"
+                  - heading "Figure 17.4.2 Cluster Abell 2218" [level=2] [ref=f546e262]
+                  - paragraph [ref=f546e263]: Composite visible and X-ray image of the massive galaxy cluster Abell 2218.
+                  - heading "Image Elements" [level=3] [ref=f546e264]
+                  - list [ref=f546e265]:
+                    - listitem [ref=f546e266]: A composite image of the galaxy cluster Abell 2218, located about 2.3 billion light-years away, combining Hubble Space Telescope visible and near-infrared data with Chandra X-ray Observatory data.
+                    - listitem [ref=f546e267]: Hundreds of individual galaxies, most appearing yellow or white, are scattered across the frame, densest near the center and thinning outward.
+                    - listitem [ref=f546e268]: A diffuse purple glow fills the central region of the cluster, representing hot X-ray-emitting gas, brightest near the middle and fading gradually outward.
+                    - listitem [ref=f546e269]: Thin, curving arcs of light, gravitationally lensed images of more distant background galaxies, are visible stretched around the cluster.
+                    - listitem [ref=f546e270]: Several bright, sharp-pointed stars are scattered throughout, representing foreground stars in the Milky Way.
+                  - paragraph [ref=f546e271]: "Credit: modification of work by NASA/ESA/JPL-Caltech/Yale/CNRS"
+                  - heading "Figure 17.5.1 Growth of Spiral Bulges" [level=2] [ref=f546e272]
+                  - paragraph [ref=f546e273]: Diagram illustrating two ways spiral galaxy bulges can form.
+                  - heading "Rapid Collapse" [level=3] [ref=f546e274]
+                  - list [ref=f546e275]:
+                    - listitem [ref=f546e276]: "Panel 1: An amorphous, diffuse cloud of gas, labeled Primordial hydrogen cloud."
+                    - listitem [ref=f546e277]: "Panel 2: A smaller, brighter, glowing clump of material, labeled Cloud collapses under gravity. Red arrows point inward from all sides toward the clump, representing collapse due to gravity."
+                    - listitem [ref=f546e278]: "Panel 3: A normal spiral galaxy seen edge-on, with a bright, elongated central bulge, labeled Large bulge of ancient stars dominates galaxy."
+                  - heading "Environmental Effects" [level=3] [ref=f546e279]
+                  - list [ref=f546e280]:
+                    - listitem [ref=f546e281]: "Panel 1: A spiral galaxy with a small, separate companion galaxy in the upper right, labeled Disk galaxy and companion. A red curved arrow traces the companion's path toward the spiral galaxy."
+                    - listitem [ref=f546e282]: "Panel 2: The companion galaxy, now shown as an orange streak, merging into the bright nucleus of the spiral galaxy, labeled Smaller galaxy falls into disk galaxy. A red arrow points toward the nucleus, showing the companion's infall."
+                    - listitem [ref=f546e283]: "Panel 3: The spiral galaxy, seen at an angle, now with a noticeably larger and brighter central bulge than in Panel 1, labeled Bulge inflates with addition of young stars and gas."
+                  - heading "Figure 17.5.2 Formation of Large-Scale Structure" [level=2] [ref=f546e284]
+                  - paragraph [ref=f546e285]: Diagram of three cubes containing a simulation of the growth of cosmic structure over time.
+                  - heading "Diagram Elements" [level=3] [ref=f546e286]
+                  - list [ref=f546e287]:
+                    - listitem [ref=f546e288]: Three cube-shaped simulation boxes are arranged diagonally from upper left to lower right, each showing dark matter and gas distribution at a different point in cosmic history.
+                    - listitem [ref=f546e289]: A white arrow beneath the cubes points from upper left to lower right, labeled Big Bang at its starting point and Present at its ending point, indicating the progression of time.
+                    - listitem [ref=f546e290]: The leftmost cube shows a relatively smooth, faint, cloud-like distribution of matter with only a few bright spots, representing the universe within the first 2 billion years after the Big Bang.
+                    - listitem [ref=f546e291]: The middle cube shows a more developed, web-like pattern of filaments beginning to form, with additional small bright points representing forming galaxies.
+                    - listitem [ref=f546e292]: The rightmost cube shows a highly clumpy, tangled network of bright filaments and dense knots of galaxies, with large dark voids between them, representing the present-day universe.
+                  - paragraph [ref=f546e293]: "Credit: modification of work by CXC/MPE/V. Springel"
+              - generic [ref=f544e311]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f544e313] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f544e95]:
+          - separator [ref=f544e96]
+          - paragraph [ref=f544e98]:
+            - 'link "17.8: Accessible Descriptions" [ref=f544e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions
+            - text: is shared under a
+            - link "CC BY" [ref=f544e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f544e101]:
+        - list [ref=f544e102]:
+          - listitem [ref=f544e103]:
+            - link "Back to top" [ref=f544e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f544e105]:
+            - list [ref=f544e106]:
+              - listitem [ref=f544e107]:
+                - 'link " 17.7: Key Terms" [ref=f544e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.07%3A_Key_Terms
+                  - text: 
+                  - generic [ref=f544e109]: "17.7: Key Terms"
+              - listitem [ref=f544e110]:
+                - 'link "18: Appendices " [ref=f544e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices
+                  - generic [ref=f544e112]: "18: Appendices"
+                  - text: 
+        - list [ref=f544e115]:
+          - listitem [ref=f544e116]: Was this article helpful?
+          - listitem [ref=f544e117]:
+            - button "Yes" [ref=f544e118] [cursor=pointer]
+          - listitem [ref=f544e119]:
+            - button "No" [ref=f544e120] [cursor=pointer]
+          - listitem [ref=f544e121]:
+            - button "Leave feedback" [ref=f544e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f544e123]:
+          - heading "Attachments" [level=2] [ref=f544e124]
+          - generic:
+            - button "Attach a file" [ref=f544e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f544e127]:
+            - generic [ref=f544e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f544e131]
+            - generic [ref=f544e132]:
+              - grid [ref=f544e135]:
+                - rowgroup [ref=f544e136]:
+                  - row [ref=f544e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f544e138]':
+                      - generic:
+                        - generic [ref=f544e139]: File
+                        - generic [ref=f544e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f544e141]':
+                      - generic:
+                        - generic [ref=f544e142]: Last modified
+                        - generic [ref=f544e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f544e144]':
+                      - generic:
+                        - generic [ref=f544e145]: Size
+                        - generic [ref=f544e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f544e147]':
+                      - generic:
+                        - generic [ref=f544e148]: Added by
+                        - generic [ref=f544e149]: 
+              - grid [ref=f544e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f544e314]: File
+                          - generic [ref=f544e315]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f544e316]: Last modified
+                          - generic [ref=f544e317]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f544e318]: Size
+                          - generic [ref=f544e319]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f544e320]: Added by
+                          - generic [ref=f544e321]: 
+                - rowgroup [ref=f544e160]:
+                  - row [ref=f544e322]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f544e323]:
+                      - generic [ref=f544e324]:
+                        - generic [ref=f544e325]:
+                          - generic [ref=f544e326]: 
+                          - link "mindtouch.page#thumbnail" [ref=f544e327] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/65452/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f544e328]:
+                          - generic [ref=f544e329]: (no description)
+                          - text: 
+                    - gridcell "Dec 25, 2025, 9:53 PM" [ref=f544e330]
+                    - gridcell "11 KiB" [ref=f544e332]
+                    - gridcell "Rachel Mastrapa" [ref=f544e333]
+    - generic [ref=f544e164]:
+      - button "Open support menu" [ref=f544e166] [cursor=pointer]: "?"
+      - navigation [ref=f544e168]:
+        - paragraph [ref=f544e170]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f544e171] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f544e172] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f544e173] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f544e174] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f544e175] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f544e176]:
+      - generic:
+        - generic [ref=f544e178]:
+          - button "Annotation sidebar" [ref=f544e179]
+          - generic [ref=f544e184]:
+            - button "Show highlights" [ref=f544e185]
+            - button "New page note" [ref=f544e190]
+          - status [ref=f544e195]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f544e196]:
+    - button "contents" [ref=f544e197] [cursor=pointer]
+    - button "readability" [ref=f544e199] [cursor=pointer]
+    - button "resources" [ref=f544e201] [cursor=pointer]
+    - button "tools" [ref=f544e203] [cursor=pointer]
+    - button "developers" [ref=f544e205] [cursor=pointer]
+  - text:  
+  - generic [ref=f544e334]:
+    - generic [ref=f544e335] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f544e338] [cursor=pointer]

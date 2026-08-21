@@ -1,0 +1,419 @@
+- generic [ref=f286e1]:
+  - link "Skip to main content" [ref=f286e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f286e3]:
+    - text: 
+    - generic [ref=f286e4]:
+      - generic [ref=f286e5]:
+        - generic: ✕
+        - navigation [ref=f286e7]:
+          - generic [ref=f286e8]:
+            - link [ref=f286e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f286e11]
+            - button "Enter Reader Mode" [ref=f286e13] [cursor=pointer]:
+              - generic [ref=f286e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f286e16]:
+        - list [ref=f286e18]:
+          - listitem [ref=f286e19]:
+            - link [ref=f286e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f286e22]
+          - listitem [ref=f286e23]:
+            - text: 
+            - generic [ref=f286e25]:
+              - generic [ref=f286e26]: "Search :"
+              - searchbox "Search :" [ref=f286e27]
+              - button " Search" [ref=f286e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f286e29]:
+            - list [ref=f286e30]:
+              - listitem [ref=f286e31]:
+                - link "Edit" [ref=f286e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.06%3A_The_Red_Sky_Paradox?action=edit
+              - text: 
+              - listitem [ref=f286e33]:
+                - link " Options" [ref=f286e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f286e35]:
+                - link " Rachel Mastrapa" [ref=f286e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f286e37]:
+        - generic:
+          - button " Contents" [ref=f286e207] [cursor=pointer]
+          - list [ref=f286e39]:
+            - listitem [ref=f286e40]:
+              - link " Home" [ref=f286e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f286e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f286e43]:
+              - link " Workbench" [ref=f286e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f286e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f286e46]:
+              - link " De Anza - ASTR10" [ref=f286e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f286e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f286e49]:
+              - 'link " 9: Celestial Census" [ref=f286e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census
+                - generic [ref=f286e51]: 
+                - text: "9: Celestial Census"
+              - text: »
+            - listitem [ref=f286e52]:
+              - generic [ref=f286e53]: 
+              - text: "9.6: The Red Sky Paradox"
+          - button " Expand/collapse global location" [ref=f286e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                
+    - article [ref=f286e55]:
+      - generic [ref=f286e56]:
+        - generic [ref=f286e57]:
+          - button " Page settings" [ref=f286e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "9.6: The Red Sky Paradox" [level=1] [ref=f286e59]':
+          - generic [ref=f286e208]: "9.6: The Red Sky Paradox "
+        - list [ref=f286e62]:
+          - listitem [ref=f286e63]:
+            - link [ref=f286e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f286e66]:
+                - img "CC" [ref=f286e67]
+                - img "BY" [ref=f286e68]
+          - listitem [ref=f286e69]:
+            - generic [ref=f286e70]:
+              - term [ref=f286e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f286e72]: Aug 7, 2026, 9:34 AM by Caitlin Kepple
+          - listitem [ref=f286e73]:
+            - generic [ref=f286e74]:
+              - term [ref=f286e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f286e76]: Private
+          - listitem [ref=f286e77]:
+            - generic [ref=f286e78]:
+              - term [ref=f286e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f286e80]: "128547"
+          - listitem [ref=f286e81]:
+            - list [ref=f286e82]:
+              - listitem [ref=f286e83]:
+                - button "Pin Page" [ref=f286e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f286e85]:
+                - list [ref=f286e86]:
+                  - listitem [ref=f286e87]:
+                    - 'link " 9.5: The H-R Diagram" [ref=f286e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.05%3A_The_H-R_Diagram
+                      - text: 
+                      - generic [ref=f286e89]: "9.5: The H-R Diagram"
+                  - listitem [ref=f286e90]:
+                    - 'link "9.7: Key Terms " [ref=f286e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.07%3A_Key_Terms
+                      - generic [ref=f286e92]: "9.7: Key Terms"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f286e93]:
+        - group [ref=f286e212]:
+          - generic [ref=f286e213]:
+            - generic [ref=f286e214]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f286e215]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f286e216]:
+            - generic [ref=f286e219]:
+              - generic [ref=f286e220]:
+                - generic [ref=f286e221]:
+                  - link "Edit" [ref=f286e222]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f286e223]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f286e224]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f286e225]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f286e226]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f286e227]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f286e228]: "Words: 986, Chars: 6216"
+              - group "Editor toolbars" [ref=f286e230]:
+                - toolbar [ref=f286e231]:
+                  - button "Save" [ref=f286e232]:
+                    - generic [ref=f286e233]: 
+                  - button "Cancel" [ref=f286e235]:
+                    - generic [ref=f286e236]: 
+                - toolbar [ref=f286e239]:
+                  - button "Undo" [disabled] [ref=f286e240]:
+                    - generic [ref=f286e241]: 
+                  - button "Redo" [disabled] [ref=f286e242]:
+                    - generic [ref=f286e243]: 
+                - toolbar [ref=f286e245]:
+                  - button "Headings" [ref=f286e246]
+                - toolbar [ref=f286e251]:
+                  - button "Bold" [ref=f286e252]:
+                    - generic [ref=f286e253]: 
+                  - button "Italic" [ref=f286e254]:
+                    - generic [ref=f286e255]: 
+                  - button "Underline" [ref=f286e256]:
+                    - generic [ref=f286e257]: 
+                - toolbar [ref=f286e259]:
+                  - button "Text color" [ref=f286e260]:
+                    - generic [ref=f286e261]: 
+                  - button "Background color" [ref=f286e263]:
+                    - generic [ref=f286e264]: 
+                - toolbar [ref=f286e267]:
+                  - button "Remove format" [ref=f286e268]:
+                    - generic [ref=f286e269]: 
+                - toolbar [ref=f286e271]:
+                  - button "Insert/Remove numbered list" [ref=f286e272]:
+                    - generic [ref=f286e273]: 
+                  - button "Insert/Remove bulleted list" [ref=f286e274]:
+                    - generic [ref=f286e275]: 
+                - toolbar [ref=f286e277]:
+                  - button "Alignment" [ref=f286e278]:
+                    - generic [ref=f286e279]: 
+                - text: 
+                - toolbar [ref=f286e282]:
+                  - button "Link" [ref=f286e283]:
+                    - generic [ref=f286e284]: 
+                  - button "Image" [ref=f286e285]:
+                    - generic [ref=f286e286]: 
+                  - text: 
+                  - button "Boxes" [ref=f286e287]
+                - toolbar [ref=f286e292]:
+                  - button "Replace" [ref=f286e293]:
+                    - generic [ref=f286e294]: 
+                - toolbar [ref=f286e296]:
+                  - button "Enable Binder" [ref=f286e297]
+                  - button "Insert Adapt" [ref=f286e299]
+                  - button "Query" [ref=f286e301]
+                  - button "Accessibility Checker" [ref=f286e304]
+                - toolbar [ref=f286e307]:
+                  - button "HTML" [ref=f286e308]:
+                    - generic [ref=f286e309]: 
+            - application "Rich Text Editor, editarea" [ref=f286e311]:
+              - iframe [active] [ref=f286e312]:
+                - generic [active] [ref=f288e1]:
+                  - heading "Science and Society - Red Sky Paradox" [level=2] [ref=f288e2]
+                  - heading "How unique are we?" [level=3] [ref=f288e3]
+                  - paragraph [ref=f288e4]: Given the 100 billion or so stars in our galaxy and the incredibly old age of many such systems, you might expect that intelligent life, if it exists, would have had plenty of opportunity to spread itself across the universe in ways that should be obvious to humankind — thus, the Fermi Paradox asks, where is everyone? A similar paradox can be considered regarding the types of stars that seem to host life. Our sun is part of a group of stellar types referred to as FGK-dwarfs, but the vast majority of stars (~¾) are instead red dwarfs (i.e., M-dwarfs), which are smaller, cooler, and dimmer.
+                  - paragraph [ref=f288e5]: Assuming intelligent life can occur around all kinds of stars in the universe, then the greater number of M-dwarfs suggests it is somewhat unusual that we look up and instead find ourselves orbiting a G-dwarf.
+                  - paragraph [ref=f288e6]: Alternatively, perhaps our situation suggests that there is something about these common M-dwarf systems that prohibits life, and FGK-dwarfs are the place to be. The author of today’s paper considers arguments on either side of this problem, dubbed the Red Sky Paradox, using Bayesian statistical analysis to discuss four possible resolutions. The author of this work aims to improve on the somewhat problematic framing of previous studies, which computed probabilities without considering the variable abundance of planets and habitability around different star types.
+                  - paragraph [ref=f288e7]: The author investigates probabilities by developing a formula in which biology develops at a uniform rate that leads directly from non-living chemical processes to eventual intelligent life. This rate is included alongside a time window for life to develop (based on the length of the host star’s life cycle) in order to find the probability of life emerging around an FGK-dwarf versus the more common M-dwarf. These equations are then used to compute the probability of life in various scenarios. There are of course many other types of stars and subtypes, but treating the issue as having just two solutions — a lifeform either develops around an FGK- or an M-dwarf — seems to be a reasonable and helpful simplification.
+                  - heading "Four possible solutions" [level=3] [ref=f288e8]
+                  - paragraph [ref=f288e9]: Resolution I – Our situation is a 1-in-100 outlier. If the rates of developing intelligent life are the same for both star types, then the probability comes down to the stars’ different rates of occurrence, of which FGK types are more rare and shorter lived.
+                  - paragraph [ref=f288e10]: Resolution II – FGK-dwarfs provide better habitability than M-dwarfs. If the probability of intelligent life emerging around both stars were similar, then the rate of life’s development around FGK-stars would need to be at least two orders of magnitude greater.
+                  - paragraph [ref=f288e11]: Resolution III – Life doesn’t have enough time to develop around M-dwarfs. If the probability of life around both stars was similar AND the rate of life’s development was the same, then the time window available for development of life around FGK-dwarfs may be at least 5 times greater than that for M-dwarfs.
+                  - paragraph [ref=f288e12]: Resolution IV – Earth-like worlds are rarer than we think. If the habitable worlds occur at different rates between the two star types, then Earth-like planets would need to be at least two orders of magnitude more common around FGK- than M-dwarfs.
+                  - figure [ref=f288e13]:
+                    - img "Observatory domes on a mountain ridge above a blanket of clouds under a clear sky." [ref=f288e14]
+                    - generic [ref=f288e15]:
+                      - text: "Figure \\(\\PageIndex{1}\\): From left to right the,"
+                      - link "Subaru Telescope" [ref=f288e16]:
+                        - /url: https://subarutelescope.org/en/
+                      - text: ", the two"
+                      - link "Keck" [ref=f288e17]:
+                        - /url: https://keckobservatory.org/
+                      - text: telescopes, NASA's
+                      - link "Infrared Telescope" [ref=f288e18]:
+                        - /url: https://irtfweb.ifa.hawaii.edu/
+                      - link "Facility" [ref=f288e19]:
+                        - /url: https://irtfweb.ifa.hawaii.edu/
+                      - text: were all built on the summit of Maunakea. The two Keck telescopes had planned extensions that were highly opposed by Native Hawaiians. (
+                      - link "CC BY 2.0" [ref=f288e20]:
+                        - /url: https://creativecommons.org/licenses/by/2.0/
+                      - text: ;
+                      - link "Robert Linsdell" [ref=f288e21]:
+                        - /url: https://www.flickr.com/people/92487715@N03
+                      - text: via
+                      - link "Wikimedia Commons" [ref=f288e22]:
+                        - /url: https://commons.wikimedia.org/wiki/File:Subaru,_Keck_and_NASA_Telescopes._Mauna_Kea_Summit_(503910)_(21665383948).jpg
+                      - text: ).
+                  - paragraph [ref=f288e23]
+                  - paragraph [ref=f288e24]:
+                    - generic [ref=f288e25]:
+                      - text: Plot of Resolution I with probability of humanity developing around an FGK-dwarf over the necessary rate for intelligent life to spawn for such stars. The probability may fall between 1% and 10% (10
+                      - superscript [ref=f288e26]: "-2"
+                      - text: and 10
+                      - superscript [ref=f288e27]: "-1"
+                      - text: on the y-axis), though the former seems more consistent with the slow development of intelligent life that occurred on Earth, as shown by the bluer colors.
+                    - emphasis [ref=f288e28]: Figure 1 in today’s paper.
+                    - text: )
+                  - paragraph [ref=f288e29]
+                  - paragraph [ref=f288e30]: The authors make note of a few caveats for each outcome. For Resolution I (see Figure 1), a fast emergence/evolution of life would lead to us being less of an outlier (1-in-10) and resolve the Red Sky Paradox, but should result in a universe teeming with intelligent life and so seems at odds with the apparent Fermi Paradox. A slower emergence rate is more consistent with the billions of years it took intelligent life to develop on Earth, but with the 1-in-100 outlier outcome seems to go against the Copernican Principle that we are not special but just a tiny drop in a vast sea.
+                  - paragraph [ref=f288e31]: Alternatively, Resolution II has good theoretical support due to existing concerns about less-than-habitable conditions that may arise around m-dwarfs (e.g., frequent tidal locking, high stellar activity, etc.). Resolution III has similarly good support since the pre-main sequence for m-dwarfs seems to be at least several times less than the main sequence lifetime of FGK-stars, giving a smaller time window for life to develop. Resolution IV could also be relevant, as the occurrence rates of Earth-sized worlds around different star types are hotly debated, not to mention that Earth-sized doesn’t necessarily mean habitable and doesn’t include other bodies of interest like exomoons.
+                  - heading "Narrowing things down" [level=3] [ref=f288e32]
+                  - paragraph [ref=f288e33]: Of course, these options are not mutually exclusive and a combination of them could be responsible. Fortunately, observational astronomy may be able to test some of these possibilities in the near future. For example, frequently finding runaway greenhouse worlds around m-dwarfs would support Resolution III, whereas a paucity of Earth-like planets around late m-dwarfs would support Resolution IV. Ultimately, this sort of probability study, in combination with incoming results, can help us to best direct future observations (e.g., using JWST) with the highest chance of finding evidence of life in the universe.
+                  - paragraph [ref=f288e34]: "For more details on this work (from the author himself!) check out the excellent summary video below:"
+                  - paragraph [ref=f288e35]:
+                    - text: (
+                    - generic [ref=f288e36]: "Insert youtube video: Why don't we live around a Red Dwarf)"
+                  - paragraph [ref=f288e37]:
+                    - generic [ref=f288e38]: "Edited by: Zili Shen"
+                  - paragraph [ref=f288e40]:
+                    - generic [ref=f288e41]: "Featured image: Edit of figure from Kepler’s Epitome astronomiae Copernicanae (1618), from"
+                    - link "sacred-texts.com" [ref=f288e43]:
+                      - /url: https://www.sacred-texts.com/astro/cwiu/cwiu06.htm
+                  - heading "Attributions" [level=3] [ref=f288e45]
+                  - paragraph [ref=f288e46]:
+                    - link "Astrobites - Shouldn't we be orbiting a red dwarf?" [ref=f288e47]:
+                      - /url: https://astrobites.org/2021/08/24/red-sky-paradox/
+              - generic [ref=f286e313]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f286e315] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f286e95]:
+          - separator [ref=f286e96]
+          - paragraph [ref=f286e98]:
+            - 'link "9.6: The Red Sky Paradox" [ref=f286e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.06%3A_The_Red_Sky_Paradox
+            - text: is shared under a
+            - link "CC BY" [ref=f286e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f286e101]:
+        - list [ref=f286e102]:
+          - listitem [ref=f286e103]:
+            - link "Back to top" [ref=f286e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f286e105]:
+            - list [ref=f286e106]:
+              - listitem [ref=f286e107]:
+                - 'link " 9.5: The H-R Diagram" [ref=f286e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.05%3A_The_H-R_Diagram
+                  - text: 
+                  - generic [ref=f286e109]: "9.5: The H-R Diagram"
+              - listitem [ref=f286e110]:
+                - 'link "9.7: Key Terms " [ref=f286e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.07%3A_Key_Terms
+                  - generic [ref=f286e112]: "9.7: Key Terms"
+                  - text: 
+        - list [ref=f286e115]:
+          - listitem [ref=f286e116]: Was this article helpful?
+          - listitem [ref=f286e117]:
+            - button "Yes" [ref=f286e118] [cursor=pointer]
+          - listitem [ref=f286e119]:
+            - button "No" [ref=f286e120] [cursor=pointer]
+          - listitem [ref=f286e121]:
+            - button "Leave feedback" [ref=f286e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f286e123]:
+          - heading "Attachments" [level=2] [ref=f286e124]
+          - generic:
+            - button "Attach a file" [ref=f286e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f286e127]:
+            - generic [ref=f286e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f286e131]
+            - generic [ref=f286e132]:
+              - grid [ref=f286e135]:
+                - rowgroup [ref=f286e136]:
+                  - row [ref=f286e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f286e138]':
+                      - generic:
+                        - generic [ref=f286e139]: File
+                        - generic [ref=f286e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f286e141]':
+                      - generic:
+                        - generic [ref=f286e142]: Last modified
+                        - generic [ref=f286e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f286e144]':
+                      - generic:
+                        - generic [ref=f286e145]: Size
+                        - generic [ref=f286e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f286e147]':
+                      - generic:
+                        - generic [ref=f286e148]: Added by
+                        - generic [ref=f286e149]: 
+              - grid [ref=f286e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f286e316]: File
+                          - generic [ref=f286e317]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f286e318]: Last modified
+                          - generic [ref=f286e319]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f286e320]: Size
+                          - generic [ref=f286e321]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f286e322]: Added by
+                          - generic [ref=f286e323]: 
+                - rowgroup [ref=f286e160]:
+                  - row [ref=f286e324]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f286e325]:
+                      - generic [ref=f286e326]:
+                        - generic [ref=f286e327]:
+                          - generic [ref=f286e328]: 
+                          - link "mindtouch.page#thumbnail" [ref=f286e329] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63008/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f286e330]:
+                          - generic [ref=f286e331]: (no description)
+                          - text: 
+                    - gridcell "Nov 30, 2025, 12:53 PM" [ref=f286e332]
+                    - gridcell "11 KiB" [ref=f286e334]
+                    - gridcell "Caitlin Kepple" [ref=f286e335]
+    - generic [ref=f286e164]:
+      - button "Open support menu" [ref=f286e166] [cursor=pointer]: "?"
+      - navigation [ref=f286e168]:
+        - paragraph [ref=f286e170]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f286e171] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f286e172] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f286e173] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f286e174] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f286e175] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f286e176]:
+      - generic:
+        - generic [ref=f286e178]:
+          - button "Annotation sidebar" [ref=f286e179]
+          - generic [ref=f286e184]:
+            - button "Show highlights" [ref=f286e185]
+            - button "New page note" [ref=f286e190]
+          - status [ref=f286e195]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f286e196]:
+    - button "contents" [ref=f286e197] [cursor=pointer]
+    - button "readability" [ref=f286e199] [cursor=pointer]
+    - button "resources" [ref=f286e201] [cursor=pointer]
+    - button "tools" [ref=f286e203] [cursor=pointer]
+    - button "developers" [ref=f286e205] [cursor=pointer]
+  - text:  
+  - generic [ref=f286e336]:
+    - generic [ref=f286e337] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f286e340] [cursor=pointer]

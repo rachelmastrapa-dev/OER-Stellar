@@ -1,0 +1,319 @@
+- generic [ref=f352e1]:
+  - link "Skip to main content" [ref=f352e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f352e3]:
+    - text: 
+    - generic [ref=f352e4]:
+      - generic [ref=f352e5]:
+        - generic: ✕
+        - navigation [ref=f352e7]:
+          - generic [ref=f352e8]:
+            - link [ref=f352e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f352e11]
+            - button "Enter Reader Mode" [ref=f352e13] [cursor=pointer]:
+              - generic [ref=f352e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f352e16]:
+        - list [ref=f352e18]:
+          - listitem [ref=f352e19]:
+            - link [ref=f352e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f352e22]
+          - listitem [ref=f352e23]:
+            - text: 
+            - generic [ref=f352e25]:
+              - generic [ref=f352e26]: "Search :"
+              - searchbox "Search :" [ref=f352e27]
+              - button " Search" [ref=f352e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f352e29]:
+            - list [ref=f352e30]:
+              - listitem [ref=f352e31]:
+                - link "Edit" [ref=f352e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.06%3A_Accessible_Descriptions?action=edit
+              - text: 
+              - listitem [ref=f352e33]:
+                - link " Options" [ref=f352e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f352e35]:
+                - link " Rachel Mastrapa" [ref=f352e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f352e37]:
+        - generic:
+          - button " Contents" [ref=f352e217] [cursor=pointer]
+          - list [ref=f352e39]:
+            - listitem [ref=f352e40]:
+              - link " Home" [ref=f352e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f352e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f352e43]:
+              - link " Workbench" [ref=f352e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f352e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f352e46]:
+              - link " De Anza - ASTR10" [ref=f352e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f352e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f352e49]:
+              - 'link " 11: Star Formation" [ref=f352e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation
+                - generic [ref=f352e51]: 
+                - text: "11: Star Formation"
+              - text: »
+            - listitem [ref=f352e52]:
+              - generic [ref=f352e53]: 
+              - text: "11.6: Accessible Descriptions"
+          - button " Expand/collapse global location" [ref=f352e54] [cursor=pointer]
+      - navigation:
+        - generic:                                              
+    - article [ref=f352e55]:
+      - generic [ref=f352e56]:
+        - generic [ref=f352e57]:
+          - button " Page settings" [ref=f352e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "11.6: Accessible Descriptions" [level=1] [ref=f352e59]':
+          - generic [ref=f352e60]: "11.6: Accessible Descriptions "
+        - list [ref=f352e62]:
+          - listitem [ref=f352e63]:
+            - link [ref=f352e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f352e66]:
+                - img "CC" [ref=f352e67]
+                - img "BY" [ref=f352e68]
+          - listitem [ref=f352e69]:
+            - generic [ref=f352e70]:
+              - term [ref=f352e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f352e72]: Aug 5, 2026, 3:16 PM by Rachel Mastrapa
+          - listitem [ref=f352e73]:
+            - generic [ref=f352e74]:
+              - term [ref=f352e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f352e76]: Private
+          - listitem [ref=f352e77]:
+            - generic [ref=f352e78]:
+              - term [ref=f352e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f352e80]: "131106"
+          - listitem [ref=f352e81]:
+            - list [ref=f352e82]:
+              - listitem [ref=f352e83]:
+                - button "Pin Page" [ref=f352e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f352e85]:
+                - list [ref=f352e86]:
+                  - listitem [ref=f352e87]:
+                    - 'link " 11.5: Key Terms" [ref=f352e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.05%3A_Key_Terms
+                      - text: 
+                      - generic [ref=f352e89]: "11.5: Key Terms"
+                  - listitem [ref=f352e90]:
+                    - 'link "12: Aging Stars " [ref=f352e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars
+                      - generic [ref=f352e92]: "12: Aging Stars"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f352e93]:
+        - group [ref=f352e220]:
+          - generic [ref=f352e221]:
+            - generic [ref=f352e222]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f352e223]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f352e224]:
+            - generic [ref=f352e227]:
+              - generic [ref=f352e229]:
+                - link "Edit" [ref=f352e230]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f352e231]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f352e232]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f352e233]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f352e234]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f352e235]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f352e238]:
+                - toolbar [ref=f352e239]:
+                  - button "Save" [ref=f352e240]:
+                    - generic [ref=f352e241]: 
+                  - button "Cancel" [ref=f352e243]:
+                    - generic [ref=f352e244]: 
+                - text:          
+                - toolbar [ref=f352e285]:
+                  - button "Alignment" [ref=f352e286]:
+                    - generic [ref=f352e287]: 
+                - text:    
+                - toolbar [ref=f352e300]:
+                  - button "Replace" [ref=f352e301]:
+                    - generic [ref=f352e302]: 
+                - toolbar [ref=f352e304]:
+                  - button "Enable Binder" [disabled] [ref=f352e305]
+                  - button "Insert Adapt" [disabled] [ref=f352e307]
+                  - button "Query" [ref=f352e309]
+                  - button "Accessibility Checker" [disabled] [ref=f352e312]
+                - toolbar [ref=f352e315]:
+                  - button "Visual" [pressed] [ref=f352e331]:
+                    - generic [ref=f352e317]: 
+            - application "Rich Text Editor, editarea" [ref=f352e319]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f352e333]: "<h2>Figure 11.1.1 Dust and Dense Globules in M16</h2> <p>Two Images of the Eagle Nebula (M16).</p> <h3>Image (a)</h3> <ul> <li>The image on the left includes the&nbsp;central region of the nebula is mostly bright green gas, with two huge columns of gas and dust in the center</li> <li>The columns are orange-red and darker compared to the bright green nebula.</li> <li>Several bright, reddish star and dark space&nbsp;form the background.</li> </ul> <h3>Image (b)</h3> <ul> <li>The image on the right is a close-up of one of the leftmost column in Image (a) has the bright top of the column in the center.</li> <li>Along the bright portion of the top edge of the column, thin wisps of gas are&nbsp;radiating off and away from the pillar. This structure is known as an evaporating gas globule (EGG).</li> <li>The bright region at the top is yellow and has a complicated, cloud-like structure.</li> <li>The lower,&nbsp;darker part of the column is also cloud-like, but more uniform and less complex than the top.</li> </ul> <h2>Figure 11.1.2&nbsp;Orion in Visible and Infrared</h2> <p>Orion in visible and infrared light.</p> <h3>Image (a)</h3> <ul> <li>The image on the left includes the stars that make up Orion. They are brighter than most of the background stars&nbsp;in visible light.</li> <li>Blue lines have been drawn on the image to connect the stars of Orion. <ul> <li>At the top of Orion, three stars form a triangle. The top stars is near Orion's head.</li> <li>The bottom two stars of the triangle form a trapezoid with two stars below them. The top two stars,&nbsp;Orion's shoulders, are farther apart from each other than the two stars at the bottom of the trapezoid. There is another bright star in between the two stars at the bottom.&nbsp; The three stars together form Orion's belt.</li> <li>From the belt, several bright stars extended downward to form Orion's sword.</li> <li>Below the belt, two more stars form a rough trapezoid shape with the belt. The two bottom stars, Orion's feet are roughly the same distance apart as the shoulders.&nbsp;</li> </ul> </li> <li>Many small, white stars and dark space form the background.</li> </ul> <h3>Image (b)</h3> <ul> <li>The infrared image, on the right,&nbsp;of the same part of the sky is mostly red with large yellow clumps and orange swirls. This complex structure that extends much farther than the constellation is the Orion molecular cloud.&nbsp;</li> <li>There are bright yellow clumps at Orion's head, the left side of the belt, and the bottom of the sword. There are several more clumps unrelated to the shape of the constellation.</li> <li>Most of the stars in Image (a) are absent from this image, except for Betelgeuse, Orion's left shoulder. Betelgeuse is cooler than the other stars, and therefore gives off more infrared light.</li> </ul> <h2>Figure 11.1.3 Orion Nebula</h2> <p>Two images of the Orion Nebula in visible and infrared light.</p> <h3>Image (a)</h3> <ul> <li>The image on the left is the Orion Nebula in visible light in the center.</li> <li>The nebula has an overall butterfly shape that is rotated 45 degrees clockwise.&nbsp; <ul> <li>The wings of the butterfly are red, surrounded by bright wisps of light pink and dark blue.</li> <li>There are a few long dark clouds where the butterfly's antennae would be.&nbsp;</li> </ul> </li> <li>Many white stars and dark space form the background, and surround the nebula at the center.&nbsp;</li> </ul> <h3>Image (b)</h3> <ul> <li>The image on the right, is the Orion nebula in infrared light.</li> <li>The Trapezium is&nbsp;a bright, yellow patch near the center.</li> <li>Red swirls of cloud shapes nearly cover the entire image.</li> <li>The bright stars in Image (a) are absent.</li> </ul> <h2>Figure 11.1.4 Trapezium Star Cluster</h2> <p>Two images of the Trapezium star cluster in the&nbsp;Orion&nbsp;Nebula in visible and infrared light.</p> <h3>Image (a)</h3> <ul> <li>The image on the left, includes the Trapezium cluster of stars and the surrounding Orion Nebula.</li> <li>The four brightest, reddish stars of the Trapezium, plus a few others small, white stars, are embedded in orange clouds of gas and dust.</li> <li>There are a few darker, black and blue clouds, predominantly on the upper left corner of the image, but small ones are scattered throughout.&nbsp;</li> </ul> <h3>Image (b)</h3> <ul> <li>The image on the right, is the same region&nbsp; as Image (a) in infrared light.</li> <li>The Trapezium stars are very bright white.&nbsp;</li> <li>There are many more white stars in this image compared to Image (a)&nbsp;because infrared light penetrates the dust in the nebula.</li> <li>The stars are surrounded by a thing white mist with darker wisps.</li> </ul> <h2>Figure 11.1.5 Westerlund 2</h2> <p class=\"lt-phys-64783\">Westerlund 2 star cluster and Carina star-forming region in visible and near-infrared.</p> <ul> <li class=\"lt-phys-64783\">Near the center of the image is the tight cluster of recently formed stars, with very little gas and dust surrounding them. <ul> <li class=\"lt-phys-64783\">The cluster is made up of hundreds to thousands of stars packed so closely that there is very little dark space.</li> <li class=\"lt-phys-64783\">There are two clumps of bright white stars, surrounded by many, many&nbsp;small red stars.&nbsp;</li> <li class=\"lt-phys-64783\">The part of the image including the star cluster is in near-infrared light.</li> </ul> </li> <li class=\"lt-phys-64783\">The left and bottom of the image are filled with bright white clouds of gas and dust. <ul> <li class=\"lt-phys-64783\">The cloud curves around the star cluster, roughly forming a c-shape.</li> <li class=\"lt-phys-64783\">The portion of the nebula nearest the star cluster is mostly smooth and featureless.</li> <li class=\"lt-phys-64783\">The white clouds are surrounded by a blue-green glow.</li> <li class=\"lt-phys-64783\">The bottom right part of the nebula is darker red and orange.</li> <li class=\"lt-phys-64783\">The part of the image including the nebula is in visibile light.</li> <li class=\"lt-phys-64783\">The left side of the nebula is a dimmer violet, compared to the bright white region.</li> <li class=\"lt-phys-64783\">The darker region includes some globules similar to the Eagle Nebula</li> </ul> </li> <li class=\"lt-phys-64783\">Bright blue stars,&nbsp;dimmer white and yellow stars, and dark space form the background.</li> <li class=\"lt-phys-64783\">Detailed Credit:&nbsp;NASA, ESA, the Hubble Heritage Team (STScI/AURA), A. Nota (ESA/STScI), and the Westerlund 2 Science Team</li> </ul> <h2>Figure 11.1.6 Propagating&nbsp;Star Formation</h2> <p class=\"lt-phys-64783\">A diagram of star formation propagating in a molecular cloud.</p> <ul> <li class=\"lt-phys-64783\">On the far left, there is a group of red, blue, and yellow dots labelled \"Old group\" representing the oldest stars in the diagram.&nbsp;</li> <li class=\"lt-phys-64783\">In the \"Old group\" most of the stars are red.&nbsp; Of the 26 stars, 6 are yellow and 4 are blue.</li> <li class=\"lt-phys-64783\">To the right of the old group is another group of stars with some empty space between the two groups. The stars in this group are slightly smaller than the Old group. Of the 15 stars, 5 are red, 5 are yellow, 5 are blue.</li> <li class=\"lt-phys-64783\">There is a double arrowed line indicating the space between the old group and the next group of stars, labeled 100 LY (light-years.)</li> <li class=\"lt-phys-64783\">A third group of stars is to the right of the other two groups.&nbsp; It is labeled \"Young group.\" These stars are smaller compared to the other two groups. Of the 16 stars, 3 are red, 4 are yellow, 9 are blue.</li> <li class=\"lt-phys-64783\">To the right of the young groups is a light blue cloud labelled \"Molecular cloud\"</li> <li class=\"lt-phys-64783\">On the left side of the cloud, there is a ring of brighter blue labeled \"Compressed gas.\"</li> <li class=\"lt-phys-64783\">Inside the ring there are 9 dots labeled \"Protostars.\"&nbsp; Of the 9&nbsp;protostars, 2 are red, 2 are yellow, and 5 are blue.</li> </ul> <h2>Figure 11.1.7 Star Formation</h2> <p class=\"lt-phys-64783\">This illustration of star formation is separted into 4 parts labeled a-d, and positioned from left to right.</p> <h3 class=\"lt-phys-64783\">Part (a)</h3> <ul> <li class=\"lt-phys-64783\">A molecular cloud is represented by a&nbsp;roughly spherical region containing many tiny blue dots as clumps of gas and dust.</li> <li class=\"lt-phys-64783\">A scale is given to the molecular cloud&nbsp;and is labeled 5000 AU.</li> </ul> <h3 class=\"lt-phys-64783\">Part (b)</h3> <ul> <li class=\"lt-phys-64783\">One clump from the molecular cloud is represented&nbsp;as a&nbsp; blue sphere embedded in a faint blue disk.</li> <li class=\"lt-phys-64783\">6 white arrows surround the sphere and disk, all pointing toward the center of the sphere, indicating inflow of material.</li> </ul> <h3 class=\"lt-phys-64783\">Part (c)</h3> <ul> <li class=\"lt-phys-64783\">Includes the same sphere and disk from Part (b).</li> <li class=\"lt-phys-64783\">Four white arrows are drawn pointing inward toward the disk to indicate inflow.&nbsp;</li> <li class=\"lt-phys-64783\">6 red arrows are pointing outwards from&nbsp;the top and bottom (3 each) of the sphere&nbsp;and perpendicular to the disk a, indicating outflow of material such as stellar wind.</li> </ul> <h3 class=\"lt-phys-64783\">Part (d)</h3> <ul> <li class=\"lt-phys-64783\">Includes the same sphere and disk from Part (b) and (d).</li> <li class=\"lt-phys-64783\">No arrows are drawn.</li> <li class=\"lt-phys-64783\">A scale is given for the sphere and disk&nbsp;and is labeled 100 AU.</li> </ul> <h2>Figure 11.1.8 Gas Jets</h2> <p class=\"lt-phys-64783\">3 Images of gas jets flowing away from HH 34 changing over time, from left to right in 1995, 1998, and 2000. All three images have a similar structure except for small changes in the jets: clumps in the jets are slowly moving upward in the image over time.</p> <ul> <li class=\"lt-phys-64783\">The HH object is at the bottom of all three images.</li> <li class=\"lt-phys-64783\">The color of the materials range from bright orange to dark red. The background is black.&nbsp;</li> <li class=\"lt-phys-64783\">The HH object looks like two shallow bowls on top of each other.&nbsp; The bottom bowl opens downward and the top bowl opens upward. These \"bowls\" are the disk of the protostar. <ul> <li class=\"lt-phys-64783\">The top part of the disk is bright orange, while the lower part is red.</li> <li class=\"lt-phys-64783\">There is a dark gap between the top and bottom part of the disk. The protostar is in the gap and its light&nbsp;is blocked by the disk.&nbsp;</li> <li class=\"lt-phys-64783\">In the upper left corner of the figure there is a scale bar reading 200 AU. The protostar and disk is a roughly&nbsp;400 AU wide and a little over 200 AU tall.</li> <li class=\"lt-phys-64783\">There is a jet emerging from the bottom of the disk that continues to the bottom of the image.&nbsp;</li> </ul> </li> <li class=\"lt-phys-64783\">The jet above the disk is the main focus of the figure. <ul> <li class=\"lt-phys-64783\">The jet is bright orange where it emerges from the disk. It slowly darkens to red as it moves away from the disk. <ul> <li class=\"lt-phys-64783\">The jet is about 25 AU wide and extends continuously up to the center of the image, for a distance of roughly 500 AU.&nbsp;</li> <li class=\"lt-phys-64783\">There are very small breaks in the jet where separate clumps are emerging one after the other.</li> <li class=\"lt-phys-64783\">Over time, in each image from left to right, this section of the jet moves farther up the image.</li> </ul> </li> <li class=\"lt-phys-64783\">Above that, the jet is broken into many smaller, dark red clumps that are spread farther apart from each other and scattered over the length and width of the upper part of the image.</li> <li class=\"lt-phys-64783\">The clumps are slightly denser at the center of the image, forming a broken line from the jet below.</li> </ul> </li> </ul> <h2>Figure 11.1.9 Herbig-Haro Objects</h2> <p class=\"lt-phys-64783\">Two images of Herbig-Haro objects HH 47, HH1, and HH2. The top image is of HH47. The bottom image includes two objects, HH 1 on the left and HH 2 on the right.</p> <ul> <li class=\"lt-phys-64783\">In the image HH 47 (top), the protostar and disk are on the left&nbsp;side of the image and the jet extends to the right. <ul> <li class=\"lt-phys-64783\">The disk is a bright white, long, slightly curved&nbsp;cloud. The protostar is hidden inside the disk.</li> <li class=\"lt-phys-64783\">The jet consists of clumps of orange clouds surrounded by blue wisps.&nbsp;</li> <li class=\"lt-phys-64783\">The end of the jet on the right&nbsp; side of the image is bright white cloud with orange wisps. This is where the jet is impacting interstellar gas, forming an arrowhead shape.</li> <li class=\"lt-phys-64783\">A few yellow stars and dark space form the background.</li> </ul> </li> <li class=\"lt-phys-64783\">In the image of HH 1 and HH 2&nbsp;(bottom), HH 1 is in the bottom left corner and HH 2 is in the top right corner. <ul> <li class=\"lt-phys-64783\">HH 1's protostar and jets are hidden by its disk. <ul> <li class=\"lt-phys-64783\">There are two arrowhead shapes pointing away from each other to the left and right.</li> <li class=\"lt-phys-64783\">The left arrowhead is small and orange.&nbsp;</li> <li class=\"lt-phys-64783\">The right one is large with a bright white center, and dark orange and red clouds extending to the right.</li> </ul> </li> <li class=\"lt-phys-64783\">HH 2 has a bright protostar and two arrowheads to its left and right.&nbsp; <ul> <li class=\"lt-phys-64783\">The left arrowhead is small and red.</li> <li class=\"lt-phys-64783\">The right arrowhead is bright white.&nbsp;</li> <li class=\"lt-phys-64783\">The background is mostly dark space with a few, scattered, tiny stars.</li> </ul> </li> </ul> </li> </ul> <h2>Figure 11.1.10 Disks around Protostars</h2> <p>A grid of six space telescope images, of protostars with disks.</p> <h3>Image (a) CoKu Tau1</h3> <ul> <li>Top left</li> <li>A bright, whitish central source, the protostar, is surrounded by faint, wispy, butterfly-shaped structure with the wings extend toward the top and bottom of the image against a black background.</li> <li>A scale bar labeled \"500 AU\" is included in the lower left corner of the panel.</li> </ul> <h3>Image (b) DG Tau B</h3> <ul> <li>Top middle</li> <li>An orange, point-like central source, the protostar is surrounded by a butterfly-shaped structure of dust and gas, with the wings extending to the right and left. The tops of the wings are dimmer than the bottom. cloud of dust extending upward and outward, with darker lanes running through it.</li> <li>The same scale bar as the one in Image (a) is in the bottom left corner without the label.</li> </ul> <h3>Image (c) Haro 6-5B</h3> <ul> <li>Top right</li> <li>A small, bright, white central source, the protostar, has a butterfly-shaped structure of dust and gas, with the wings extending above and below. The bottom wing is brighter than the top.</li> <li>The same scale bar as the one in Image (a) is in the bottom left corner without the label.</li> </ul> <h3>Image (d) IRAS 04016+2610</h3> <ul> <li>Bottom left</li> <li>A bright orange central source, the protostar, has a single butterfly wing extending to the bottom right. The top has dark clouds with an orange glow breaking through them.</li> <li>The same scale bar as the one in Image (a) is in the bottom left corner without the label.</li> </ul> <h3>Image (e) IRAS 04248+2612</h3> <ul> <li>Bottom middle</li> <li>A small, bright central source, the protostar, has a butterfly-shaped structure of dust and gas, with the wings extending to the upper right and left. The wings are bright white and more spread out than the wings in the other images.</li> <li>The same scale bar as the one in Image (a) is in the bottom left corner without the label.</li> </ul> <h3>Image (f) IRAS 04302+2247</h3> <ul> <li>Bottom right</li> <li>A dark, edge-on band of dust bisects a bright, butterfly-shaped pair of glowing lobes extending outward to the upper left and lower right. The protostar is behind the band of dust.</li> <li>The same scale bar as the one in Image (a) is in the bottom left corner without the label.</li> </ul> <h2 class=\"lt-phys-64783\">Figure 11.2.1 Evolutionary Tracks of Protostars</h2> <p class=\"lt-phys-64220\">An H-R Diagram of the evolutionary tracks for contracting protostars.</p> <h3 class=\"lt-phys-64220\">Axes</h3> <ul> <li class=\"lt-phys-64220\">The vertical scale is labeled “Luminosity”, in units of the luminosity of the Sun.</li> <li class=\"lt-phys-64220\">The scale starts at 10<sup>-4</sup> at the bottom and goes to 10<sup>6</sup> at the top.</li> <li class=\"lt-phys-64220\">The horizontal scale is labeled Surface Temperature (K).</li> <li class=\"lt-phys-64220\">The scale begins at 63,000 on the left down to 1,600 on the far right.</li> </ul> <h3 class=\"lt-phys-64220\">Symbols</h3> <ul> <li class=\"lt-phys-64220\">A red line running diagonally across the diagram from upper left to lower right marks the zero-age main sequence.</li> <li class=\"lt-phys-64220\">A black dashed line is drawn slightly above the red line, above which stars may still be surrounded by infalling material.</li> <li class=\"lt-phys-64220\">Six curves are shown to illustrate how stars of different masses change as they evolve toward the zero-age main sequence.</li> <li class=\"lt-phys-64220\">On each curve are dots indicating the amount of time since the initial collapse that it takes for the star to reach that position on the H-R diagram.</li> <li class=\"lt-phys-64220\">For example, after 100 years a 100 Solar mass star will have collapsed to the point that its temperature is about 4000 K, and its luminosity is nearly 106 that of the Sun. <ul> <li class=\"lt-phys-64220\">At 1000 years the temperature is now about 20,000 K and nearly the same luminosity.</li> <li class=\"lt-phys-64220\">At 10,000 years the star has reached the zero-age main sequence with a surface temperature of nearly 50,000 K and luminosity 106 times Solar.</li> </ul> </li> <li class=\"lt-phys-64220\">As a further example, a star of one Solar mass takes longer to collapse. <ul> <li class=\"lt-phys-64220\">At 100,000 years its temperature is just above 4000 K and its luminosity as about 3 times Solar.</li> <li class=\"lt-phys-64220\">At one million years the temperature has increased slightly, but the luminosity as dropped to about 1.5.</li> <li class=\"lt-phys-64220\">When it finally settles on the zero-age main sequence, the temperature has risen to over 5000 K, and its luminosity has dropped to one.</li> </ul> </li> </ul> <h2>Figure 11.3.1 Planet Forming Disks</h2> <p>Four Hubble Space Telescope images, in a row from left to right, showing dark, dusty disks around young protostars. All protostars and disks are in the center of their image and are very small compared to the size of the image.</p> <h3>Image (a)</h3> <ul> <li>Leftmost</li> <li>A small, dark, elliptical disk is silhouetted against a hazy, pale blue-gray background of glowing gas.</li> <li>A bright reddish-orange spot, marking the embedded protostar, is included at the center of the ellipse.</li> </ul> <h3>Image (b)</h3> <ul> <li>Second from left</li> <li>A small, dark, circular disk is silhouetted against a background of glowing gas that transitions from pale pink in the upper right to blue-gray in the lower left.</li> <li>A faint reddish-orange spot, marking the embedded protostar, is at the center of the ellipse.</li> </ul> <h3>Image (c)</h3> <ul> <li>Third from left</li> <li>A small, dark, elliptical disk is silhouetted against a hazy, olive-toned background of glowing gas.</li> <li>A small yellowish-white spot, marking the embedded protostar, is at the center of the ellipse.</li> </ul> <h3>Image (d)</h3> <ul> <li>Rightmost</li> <li>A dark, elliptical disk is silhouetted against a blue-gray background of glowing gas.</li> <li>A large, bright white and red spot, marking the embedded protostar, is at the center of the ellipse, appearing slightly larger and brighter than the protostars in the other three panels.</li> <li>A small, faint yellow point of light is near the lower left corner of the panel, separate from the central disk.</li> </ul> <h2>Figure 11.3.2 Protoplanetary Disks</h2> <p>Protoplanetary Disks of HD 141943 and HD 191089.</p> <ul> <li>At left is an image of HD 141943. <ul> <li>The central star has been blocked so the light from the disk can be photographed.</li> <li>A narrow, elliptical shaped region can be seen.</li> <li>To the right of the image is a computer model of the disk, showing the central star, drawn to the same scale as the image.</li> </ul> </li> <li>On the right is HD 191089. <ul> <li>Its central star is also blocked.</li> <li>The image shows a circular region of light.</li> <li>On the right is a computer model of the disk, at the same scale as the image</li> </ul> </li> </ul> <h2>Figure 11.3.3 Dust Ring around a Young Star</h2> <p>Near-Infrared image of the dust ring orbiting the young star HL Tauri.</p> <ul> <li>The ring surrounding the star is nearly nearly face-on, and is nearly circular.</li> <li>There are many dark gaps in the rings, similar to the appearance of the rings of Saturn.</li> <li>These gaps reveal the presence of emerging planetary bodies forming in the disk around HL Tauri.</li> <li>Credit:&nbsp;ALMA (ESO/NAOJ/NRAO)</li> </ul> <h2>Figure 11.4.2 New Star Names</h2> <p>A map of the entire night sky in an oval, all-sky projection, showing the Milky Way as a bright band across the center, with dozens of newly adopted star names labeled in pairs with their traditional astronomical designations.</p> <h3>Title and Layout</h3> <ul> <li>A title bar spans the top of the image, reading Map of New Star Names Adopted by the IAU WGSN in 2025, with New Star Names and IAU WGSN and 2025 highlighted in gold.</li> <li>An image of the night sky seen from Earth is in the center. The spiral arm of the Milky Way galaxy stretches horizontally across the center.</li> <li>Overlaying the image is an oval all-sky map, including a light gray coordinate grid.</li> <li>Each star on the map is marked with a small gold dot, connected by a thin gold line to a text label giving the new name, in teal, above the previous designation, in gold.</li> </ul> <h3>Upper Left Region</h3> <ul> <li>A cluster of labeled stars is included in the upper left portion of the map, listed here from top to bottom:</li> <li>Kamelos (HD 45866)</li> <li>Shangcheng (HIP 14862)</li> <li>Gang (50 Cas)</li> <li>Shangwei (HIP 29997)</li> <li>Bagu (δ Aur)</li> <li>Shaowei (γ Cam)</li> </ul> <h3>Left-Center Region</h3> <ul> <li>A second cluster is included below and to the right of the upper left group:</li> <li>Huagai (ι Cas)</li> <li>Custos (BE Cam)</li> <li>Sarvvis (δ Per)</li> <li>Aldu (ε Per)</li> <li>Dajiangjunbei (φ Per)</li> <li>Junnanmen (φ And)</li> </ul> <h3>Lower Left Region</h3> <ul> <li>A cluster of stars is included toward the bottom left, near the edge of the map:</li> <li>Deltoton (δ Tri)</li> <li>Apdu (γ Tri)</li> <li>Triminus (ι Tri)</li> <li>Alaybasan (β Tri)</li> <li>Kui (η And)</li> <li>Shimu (ζ And)</li> </ul> <h3>Upper Middle Region</h3> <ul> <li>A group of stars is included above and to the right of the Milky Way band, to the right of the left-side clusters:</li> <li>Tarandus (2 UMi)</li> <li>Rangifer (49 Cas)</li> <li>Tiansi (γ Cas)</li> <li>Cexing (κ Cas)</li> <li>Quadrans (44 Boo A)</li> <li>Blaze Star (T CrB)</li> </ul> <h3>Center Region</h3> <ul> <li>A cluster of stars is included near the middle of the map, just above and left of the brightest part of the Milky Way band:</li> <li>Honores (7 And)</li> <li>Udkadua (λ And)</li> <li>Kaffalmusalsala (κ And)</li> <li>Alfarasalkamil (ο And)</li> <li>Rasalnaqa (ι And)</li> <li>Bodu (95 Her)</li> <li>Ramus (102 Her)</li> <li>Tusizuo (109 Her)</li> </ul> <h3>Lower Middle Region</h3> <ul> <li>Two stars are included below the center of the map:</li> <li>Shatabhisha (λ Aqr)</li> <li>Hydor (2 Cet)</li> </ul> <h3>Right Region</h3> <ul> <li>A cluster of stars is included on the right side of the map, near and within the Milky Way band:</li> <li>Apamvatsa (74 Vir)</li> <li>Heng (ν Cen)</li> <li>Kulou (ι Cen)</li> <li>Shengong (HIP 83100)</li> <li>Paradys (α Apodis)</li> <li>Siwarha (Betelgeuse B), positioned furthest to the right, near the edge of the map</li> <li>Two small, faint patches of light are included below and to the right of Paradys, representing nearby dwarf galaxies.</li> </ul> <h3>Additional Design Elements</h3> <ul> <li>A circular logo is included in the lower left corner, depicting a stylized silhouette of a human torso releasing small white stars, encircled by the text Working Group on Star Names, International Astronomical Union.</li> <li>The letters IAU for International Astronomical Union are included as a stylized logo in the lower right corner.</li> <li>Small text reading \"Base map: Gaia DR2\" is in the lower portion of the map, crediting the source of the background star data, the GAIA spacecraft.</li> </ul>"
+              - generic [ref=f352e321]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f352e323] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f352e95]:
+          - separator [ref=f352e96]
+          - paragraph [ref=f352e98]:
+            - 'link "11.6: Accessible Descriptions" [ref=f352e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.06%3A_Accessible_Descriptions
+            - text: is shared under a
+            - link "CC BY" [ref=f352e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f352e101]:
+        - list [ref=f352e102]:
+          - listitem [ref=f352e103]:
+            - link "Back to top" [ref=f352e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f352e105]:
+            - list [ref=f352e106]:
+              - listitem [ref=f352e107]:
+                - 'link " 11.5: Key Terms" [ref=f352e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.05%3A_Key_Terms
+                  - text: 
+                  - generic [ref=f352e109]: "11.5: Key Terms"
+              - listitem [ref=f352e110]:
+                - 'link "12: Aging Stars " [ref=f352e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars
+                  - generic [ref=f352e112]: "12: Aging Stars"
+                  - text: 
+        - list [ref=f352e115]:
+          - listitem [ref=f352e116]: Was this article helpful?
+          - listitem [ref=f352e117]:
+            - button "Yes" [ref=f352e118] [cursor=pointer]
+          - listitem [ref=f352e119]:
+            - button "No" [ref=f352e120] [cursor=pointer]
+          - listitem [ref=f352e121]:
+            - button "Leave feedback" [ref=f352e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f352e123]:
+          - heading "Attachments" [level=2] [ref=f352e124]
+          - generic:
+            - button "Attach a file" [ref=f352e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f352e127]:
+            - generic [ref=f352e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f352e131]
+            - generic [ref=f352e132]:
+              - grid [ref=f352e135]:
+                - rowgroup [ref=f352e136]:
+                  - row [ref=f352e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f352e138]':
+                      - generic:
+                        - generic [ref=f352e139]: File
+                        - generic [ref=f352e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f352e141]':
+                      - generic:
+                        - generic [ref=f352e142]: Last modified
+                        - generic [ref=f352e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f352e144]':
+                      - generic:
+                        - generic [ref=f352e145]: Size
+                        - generic [ref=f352e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f352e147]':
+                      - generic:
+                        - generic [ref=f352e148]: Added by
+                        - generic [ref=f352e149]: 
+              - grid [ref=f352e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f352e152]: File
+                          - generic [ref=f352e153]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f352e154]: Last modified
+                          - generic [ref=f352e155]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f352e156]: Size
+                          - generic [ref=f352e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f352e158]: Added by
+                          - generic [ref=f352e159]: 
+                - rowgroup [ref=f352e160]:
+                  - row [ref=f352e161]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f352e162]:
+                      - generic [ref=f352e163]:
+                        - generic [ref=f352e164]:
+                          - generic [ref=f352e165]: 
+                          - link "mindtouch.page#thumbnail" [ref=f352e166] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63085/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f352e167]:
+                          - generic [ref=f352e168]: (no description)
+                          - text: 
+                    - gridcell "Dec 3, 2025, 3:20 PM" [ref=f352e169]
+                    - gridcell "11 KiB" [ref=f352e171]
+                    - gridcell "Rachel Mastrapa" [ref=f352e172]
+    - generic [ref=f352e174]:
+      - button "Open support menu" [ref=f352e176] [cursor=pointer]: "?"
+      - navigation [ref=f352e178]:
+        - paragraph [ref=f352e180]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f352e181] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f352e182] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f352e183] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f352e184] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f352e185] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f352e186]:
+      - generic:
+        - generic [ref=f352e188]:
+          - button "Annotation sidebar" [ref=f352e189]
+          - generic [ref=f352e194]:
+            - button "Show highlights" [ref=f352e195]
+            - button "New page note" [ref=f352e200]
+          - status [ref=f352e205]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f352e206]:
+    - button "contents" [ref=f352e207] [cursor=pointer]
+    - button "readability" [ref=f352e209] [cursor=pointer]
+    - button "resources" [ref=f352e211] [cursor=pointer]
+    - button "tools" [ref=f352e213] [cursor=pointer]
+    - button "developers" [ref=f352e215] [cursor=pointer]
+  - text:  
+  - generic [ref=f352e324]:
+    - generic [ref=f352e325] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f352e328] [cursor=pointer]

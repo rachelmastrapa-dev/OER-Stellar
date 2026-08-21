@@ -1,0 +1,50 @@
+- generic [ref=f1e1]:
+  - banner:
+    - navigation
+  - generic [ref=f1e2]:
+    - img "LibreTexts Logo" [ref=f1e4]
+    - main [ref=f1e5]:
+      - generic [ref=f1e6]:
+        - generic [ref=f1e8]:
+          - heading "Login with LibreOne" [level=1] [ref=f1e9]
+          - paragraph [ref=f1e10]: LibreOne allows you to access all LibreTexts applications with just one login.
+        - generic [ref=f1e11]:
+          - generic [ref=f1e12]:
+            - generic [ref=f1e18]:
+              - paragraph [ref=f1e20]: Local Login
+              - generic [ref=f1e22]:
+                - generic [ref=f1e23]: Email
+                - textbox "Email" [active] [ref=f1e24]:
+                  - /placeholder: you@organization.edu
+              - generic [ref=f1e26]:
+                - generic [ref=f1e27]: Password
+                - generic [ref=f1e28]:
+                  - textbox "Password" [ref=f1e29]:
+                    - /placeholder: "********"
+                  - button "󰈈 Toggle Password" [ref=f1e30] [cursor=pointer]:
+                    - generic [ref=f1e31]: 󰈈
+                    - generic [ref=f1e32]: Toggle Password
+                - generic [ref=f1e33]: Password is a required field.
+              - button "Login" [ref=f1e36] [cursor=pointer]
+            - generic [ref=f1e41]:
+              - paragraph [ref=f1e43]: Campus Login
+              - paragraph [ref=f1e44]: "Login with:"
+              - list [ref=f1e46]:
+                - listitem [ref=f1e47]:
+                  - button "GoogleWorkspace Google Workspace" [ref=f1e49] [cursor=pointer]:
+                    - img "GoogleWorkspace" [ref=f1e50]
+                    - generic [ref=f1e51]: Google Workspace
+                - listitem [ref=f1e52]:
+                  - button "MicrosoftActiveDirectory Microsoft Active Directory" [ref=f1e54] [cursor=pointer]:
+                    - img "MicrosoftActiveDirectory" [ref=f1e55]
+                    - generic [ref=f1e56]: Microsoft Active Directory
+          - generic [ref=f1e57]:
+            - generic [ref=f1e58]: Don't have an account yet?
+            - link "Register with LibreOne" [ref=f1e59] [cursor=pointer]:
+              - /url: https://one.libretexts.org/register?service=https://auth.libretexts.org/cas/oauth2.0/callbackAuthorize?client_id%3DATkRbWW2aa9ZbwZpq2Q2z4j5zcPtGjmALITq%26scope%3Dopenid%2520email%2520profile%26redirect_uri%3Dhttps%253A%252F%252Fphys.libretexts.org%252F%2540app%252Fauth%252F3%252Fcode%26response_type%3Dcode%26state%3DNGQ0YmExZTMtODU1NS00NDU2LWFiMWYtYjM3ZmUzYTQwNDE0%26code_challenge_method%3DS256%26code_challenge%3DHYWQIibtMxTLNu0x3ZWnzA7msB800NHsqUYwYsyTGkE%26client_name%3DCasOAuthClient
+            - generic [ref=f1e60]: ·
+            - generic [ref=f1e61]: Forgot your password?
+            - link "Reset your password" [ref=f1e62] [cursor=pointer]:
+              - /url: https://one.libretexts.org/passwordrecovery
+    - contentinfo [ref=f1e63]:
+      - generic [ref=f1e64]: LibreOne Authentication Service - powered by Apereo CAS (Copyright © 2005-2025 Apereo, Inc.)

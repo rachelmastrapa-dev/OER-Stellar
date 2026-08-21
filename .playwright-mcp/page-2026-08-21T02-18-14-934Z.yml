@@ -1,0 +1,638 @@
+- generic [ref=f307e1]:
+  - link "Skip to main content" [ref=f307e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f307e3]:
+    - text: 
+    - generic [ref=f307e4]:
+      - generic [ref=f307e5]:
+        - generic: ✕
+        - navigation [ref=f307e7]:
+          - generic [ref=f307e8]:
+            - link [ref=f307e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f307e11]
+            - button "Enter Reader Mode" [ref=f307e13] [cursor=pointer]:
+              - generic [ref=f307e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f307e16]:
+        - list [ref=f307e18]:
+          - listitem [ref=f307e19]:
+            - link [ref=f307e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f307e22]
+          - listitem [ref=f307e23]:
+            - text: 
+            - generic [ref=f307e25]:
+              - generic [ref=f307e26]: "Search :"
+              - searchbox "Search :" [ref=f307e27]
+              - button " Search" [ref=f307e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f307e29]:
+            - list [ref=f307e30]:
+              - listitem [ref=f307e31]:
+                - link "Edit" [ref=f307e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.02%3A_Interstellar_Gas_and_Dust?action=edit
+              - text: 
+              - listitem [ref=f307e33]:
+                - link " Options" [ref=f307e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f307e35]:
+                - link " Rachel Mastrapa" [ref=f307e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f307e37]:
+        - generic:
+          - button " Contents" [ref=f307e218] [cursor=pointer]
+          - list [ref=f307e39]:
+            - listitem [ref=f307e40]:
+              - link " Home" [ref=f307e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f307e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f307e43]:
+              - link " Workbench" [ref=f307e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f307e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f307e46]:
+              - link " De Anza - ASTR10" [ref=f307e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f307e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f307e49]:
+              - 'link " 10: Interstellar Media" [ref=f307e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media
+                - generic [ref=f307e51]: 
+                - text: "10: Interstellar Media"
+              - text: »
+            - listitem [ref=f307e52]:
+              - generic [ref=f307e53]: 
+              - text: "10.2: Interstellar Gas and Dust"
+          - button " Expand/collapse global location" [ref=f307e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                
+    - article [ref=f307e55]:
+      - generic [ref=f307e56]:
+        - generic [ref=f307e57]:
+          - button " Page settings" [ref=f307e58] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :       "
+        - 'heading "10.2: Interstellar Gas and Dust" [level=1] [ref=f307e59]':
+          - generic [ref=f307e219]: "10.2: Interstellar Gas and Dust "
+        - list [ref=f307e62]:
+          - listitem [ref=f307e63]:
+            - link [ref=f307e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f307e66]:
+                - img "CC" [ref=f307e67]
+                - img "BY" [ref=f307e68]
+          - listitem [ref=f307e69]:
+            - generic [ref=f307e70]:
+              - term [ref=f307e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f307e72]: Dec 28, 2025, 8:17 PM by Rachel Mastrapa
+          - listitem [ref=f307e73]:
+            - generic [ref=f307e74]:
+              - term [ref=f307e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f307e76]: Private
+          - listitem [ref=f307e77]:
+            - generic [ref=f307e78]:
+              - term [ref=f307e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f307e80]: "133412"
+          - listitem [ref=f307e81]:
+            - list [ref=f307e82]:
+              - listitem [ref=f307e83]:
+                - button "Pin Page" [ref=f307e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f307e85]:
+                - list [ref=f307e86]:
+                  - listitem [ref=f307e87]:
+                    - 'link " 10.1: The Interstellar Medium" [ref=f307e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.01%3A_The_Interstellar_Medium
+                      - text: 
+                      - generic [ref=f307e89]: "10.1: The Interstellar Medium"
+                  - listitem [ref=f307e90]:
+                    - 'link "10.3: Cosmic Materials " [ref=f307e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.03%3A_Cosmic_Materials
+                      - generic [ref=f307e92]: "10.3: Cosmic Materials"
+                      - text: 
+              - text:  
+      - list [ref=f307e95]:
+        - listitem [ref=f307e96]:
+          - img "OpenStax" [ref=f307e97]
+        - listitem [ref=f307e98]:
+          - link "OpenStax" [ref=f307e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f307e100]:
+          - link "OpenStax" [ref=f307e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f307e102]:
+        - group [ref=f307e223]:
+          - generic [ref=f307e224]:
+            - generic [ref=f307e225]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f307e226]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f307e227]:
+            - generic [ref=f307e230]:
+              - generic [ref=f307e231]:
+                - generic [ref=f307e232]:
+                  - link "Edit" [ref=f307e233]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f307e234]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f307e235]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f307e236]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f307e237]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f307e238]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f307e239]: "Words: 6260, Chars: 38205"
+              - group "Editor toolbars" [ref=f307e241]:
+                - toolbar [ref=f307e242]:
+                  - button "Save" [ref=f307e243]:
+                    - generic [ref=f307e244]: 
+                  - button "Cancel" [ref=f307e246]:
+                    - generic [ref=f307e247]: 
+                - toolbar [ref=f307e250]:
+                  - button "Undo" [disabled] [ref=f307e251]:
+                    - generic [ref=f307e252]: 
+                  - button "Redo" [disabled] [ref=f307e253]:
+                    - generic [ref=f307e254]: 
+                - toolbar [ref=f307e256]:
+                  - button "Headings" [ref=f307e257]
+                - toolbar [ref=f307e262]:
+                  - button "Bold" [ref=f307e263]:
+                    - generic [ref=f307e264]: 
+                  - button "Italic" [ref=f307e265]:
+                    - generic [ref=f307e266]: 
+                  - button "Underline" [ref=f307e267]:
+                    - generic [ref=f307e268]: 
+                - toolbar [ref=f307e270]:
+                  - button "Text color" [ref=f307e271]:
+                    - generic [ref=f307e272]: 
+                  - button "Background color" [ref=f307e274]:
+                    - generic [ref=f307e275]: 
+                - toolbar [ref=f307e278]:
+                  - button "Remove format" [ref=f307e279]:
+                    - generic [ref=f307e280]: 
+                - toolbar [ref=f307e282]:
+                  - button "Insert/Remove numbered list" [ref=f307e283]:
+                    - generic [ref=f307e284]: 
+                  - button "Insert/Remove bulleted list" [ref=f307e285]:
+                    - generic [ref=f307e286]: 
+                - toolbar [ref=f307e288]:
+                  - button "Alignment" [ref=f307e289]:
+                    - generic [ref=f307e290]: 
+                - text: 
+                - toolbar [ref=f307e293]:
+                  - button "Link" [ref=f307e294]:
+                    - generic [ref=f307e295]: 
+                  - button "Image" [ref=f307e296]:
+                    - generic [ref=f307e297]: 
+                  - text: 
+                  - button "Boxes" [ref=f307e298]
+                - toolbar [ref=f307e303]:
+                  - button "Replace" [ref=f307e304]:
+                    - generic [ref=f307e305]: 
+                - toolbar [ref=f307e307]:
+                  - button "Enable Binder" [ref=f307e308]
+                  - button "Insert Adapt" [ref=f307e310]
+                  - button "Query" [ref=f307e312]
+                  - button "Accessibility Checker" [ref=f307e315]
+                - toolbar [ref=f307e318]:
+                  - button "HTML" [ref=f307e319]:
+                    - generic [ref=f307e320]: 
+            - application "Rich Text Editor, editarea" [ref=f307e322]:
+              - iframe [active] [ref=f307e323]:
+                - generic [active] [ref=f309e1]:
+                  - heading "Interstellar Gases" [level=2] [ref=f309e2]
+                  - paragraph [ref=f309e3]: Interstellar gas, depending on where it is located, can be as cold as a few degrees above absolute zero or as hot as a million degrees or more. We will begin our voyage through the interstellar medium by exploring the different conditions under which we find gas.
+                  - heading "Ionized Hydrogen (H II) Regions—Gas Near Hot Stars" [level=3] [ref=f309e4]
+                  - paragraph [ref=f309e5]: Some of the most spectacular astronomical photographs show interstellar gas located near hot stars (Figure 20.3). The strongest line in the visible region of the hydrogen spectrum is the red line in the Balmer series Scientists also call this red Balmer line the H-alpha line, with alpha meaning it is the first spectral line in the Balmer series.(as explained in the chapter on Radiation and Spectra); this emission line accounts for the characteristic red glow in images like Figure 20.3.
+                  - 'figure "Figure 20.3 : Orion Nebula. The red glow that pervades the great Orion Nebula is produced by the first line in the Balmer series of hydrogen. Hydrogen emission indicates that there are hot young stars nearby that ionize these clouds of gas. When electrons then recombine with protons and move back down into lower energy orbits, emission lines are produced. The blue color seen at the edges of some of the clouds is produced by small particles of dust that scatter the light from the hot stars. Dust can also be seen silhouetted against the glowing gas. (credit: NASA,ESA, M. Robberto (Space Telescope Science Institute/ESA) and the Hubble Space Telescope Orion Treasury Project Team)" [ref=f309e6]':
+                    - img "Photograph of the Orion Nebula. This image is dominated by large areas and bright swirls of glowing gas clouds, criss-crossed by dark bands of dust." [ref=f309e8]
+                  - paragraph [ref=f309e10]: Hot stars are able to heat nearby gas to temperatures close to 10,000 K. The ultraviolet radiation from the stars also ionizes the hydrogen (remember that during ionization, the electron is stripped completely away from the proton). Such a detached proton won’t remain alone forever when attractive electrons are around; it will capture a free electron, becoming a neutral hydrogen once more. However, such a neutral atom can then absorb ultraviolet radiation again and start the cycle over. At a typical moment, most of the atoms near a hot star are in the ionized state.
+                  - paragraph [ref=f309e11]: Since hydrogen is the main constituent of interstellar gas, we often characterize a region of space according to whether its hydrogen is neutral or ionized. A cloud of ionized hydrogen is called an H II region. (Scientists who work with spectra use the Roman numeral I to indicate that an atom is neutral; successively higher Roman numerals are used for each higher stage of ionization. H II thus refers to hydrogen that has lost its one electron; Fe III is iron with two electrons missing.)
+                  - paragraph [ref=f309e12]:
+                    - text: The electrons that are captured by the hydrogen nuclei cascade down through the various energy levels of the hydrogen atoms on their way to the lowest level, or ground state. During each transition downward, they give up energy in the form of light. The process of converting ultraviolet radiation into visible light is called
+                    - emphasis [ref=f309e13]: fluorescence
+                    - text: . Interstellar gas contains other elements besides hydrogen. Many of them are also ionized in the vicinity of hot stars; they then capture electrons and emit light, just as hydrogen does, allowing them to be observed by astronomers. But generally, the red hydrogen line is the strongest, and that is why H II regions look red.
+                  - paragraph [ref=f309e14]: A fluorescent light on Earth works using the same principles as a fluorescent H II region. When you turn on the current, electrons collide with atoms of mercury vapor in the tube. The mercury is excited to a high-energy state because of these collisions. When the electrons in the mercury atoms return to lower-energy levels, some of the energy they emit is in the form of ultraviolet photons. These, in turn, strike a phosphor-coated screen on the inner wall of the light tube. The atoms in the screen absorb the ultraviolet photons and emit visible light as they cascade downward among the energy levels. (The difference is that these atoms give off a wider range of light colors, which mix to give the characteristic white glow of fluorescent lights, whereas the hydrogen atoms in an H II region give off a more limited set of colors.)
+                  - heading "Neutral Hydrogen Clouds" [level=3] [ref=f309e15]
+                  - paragraph [ref=f309e16]: The very hot stars required to produce H II regions are rare, and only a small fraction of interstellar matter is close enough to such hot stars to be ionized by them. Most of the volume of the interstellar medium is filled with neutral (nonionized) hydrogen. How do we go about looking for it?
+                  - paragraph [ref=f309e17]:
+                    - text: Unfortunately, neutral hydrogen atoms at temperatures typical of the gas in interstellar space neither emit nor absorb light in the visible part of the spectrum. Nor, for the most part, do the other trace elements that are mixed with the interstellar hydrogen. However, some of these other elements can
+                    - emphasis [ref=f309e18]: absorb
+                    - text: visible light even at typical interstellar temperatures. This means that when we observe a bright source such as a hot star or a galaxy, we can sometimes see additional lines in its spectrum produced when interstellar gas absorbs light at particular frequencies (see Figure 20.4). Some of the strongest interstellar absorption lines are produced by calcium and sodium, but many other elements can be detected as well in sufficiently sensitive observations (as discussed in Radiation and Spectra).
+                  - 'figure "Figure 20.4 : Absorption Lines though an Interstellar Dust Cloud. When there is a significant amount of cool interstellar matter (gas with some dust) between us and a star, we can see the absorption lines of the gas in the star’s spectrum. We can distinguish the two kinds of lines because, whereas the star’s lines are broad, the lines from the gas are narrower." [ref=f309e19]':
+                    - img [ref=f309e21]
+                  - paragraph [ref=f309e23]: "The first evidence for absorption by interstellar clouds came from the analysis of a spectroscopic binary star (see The Stars: A Celestial Census), published in 1904. While most of the lines in the spectrum of this binary shifted alternately from longer to shorter wavelengths and back again, as we would expect from the Doppler effect for stars in orbit around each other, a few lines in the spectrum remained fixed in wavelength. Since both stars are moving in a binary system, lines that showed no motion puzzled astronomers. The lines were also peculiar in that they were much, much narrower than the rest of the lines, indicating that the gas producing them was at a very low pressure. Subsequent work demonstrated that these lines were not formed in the star’s atmosphere at all, but rather in a cold cloud of gas located between Earth and the binary star."
+                  - paragraph [ref=f309e24]: While these and similar observations proved there was interstellar gas, they could not yet detect hydrogen, the most common element, due to its lack of spectral features in the visible part of the spectrum. (The Balmer line of hydrogen is in the visible range, but only excited hydrogen atoms produce it. In the cold interstellar medium, the hydrogen atoms are all in the ground state and no electrons are in the higher-energy levels required to produce either emission or absorption lines in the Balmer series.) Direct detection of hydrogen had to await the development of telescopes capable of seeing very-low-energy changes in hydrogen atoms in other parts of the spectrum. The first such observations were made using radio telescopes, and radio emission and absorption by interstellar hydrogen remains one of our main tools for studying the vast amounts of cold hydrogen in the universe to this day.
+                  - paragraph [ref=f309e25]: In 1944, while he was still a student, the Dutch astronomer Hendrik van de Hulst predicted that hydrogen would produce a strong line at a wavelength of 21 centimeters. That’s quite a long wavelength, implying that the wave has such a low frequency and low energy that it cannot come from electrons jumping between energy levels (as we discussed in Radiation and Spectra). Instead, energy is emitted when the electron does a flip, something like an acrobat in a circus flipping upright after standing on his head.
+                  - paragraph [ref=f309e26]:
+                    - text: "The flip works like this: a hydrogen atom consists of a proton and an electron bound together. Both the proton and the electron act is if they were spinning like tops, and spin axes of the two tops can either be pointed in the same direction (aligned) or in opposite directions (anti-aligned). If the proton and electron were spinning in opposite directions, the atom as a whole would have a very slightly lower energy than if the two spins were aligned (Figure 20.5). If an atom in the lower-energy state (spins opposed) acquired a small amount of energy, then the spins of the proton and electron could be aligned, leaving the atom in a slightly"
+                    - emphasis [ref=f309e27]: excited state
+                    - text: . If the atom then lost that same amount of energy again, it would return to its ground state. The amount of energy involved corresponds to a wave with a wavelength of 21 centimeters; hence, it is known as the
+                    - emphasis [ref=f309e28]: 21-centimeter line
+                    - text: .
+                  - 'figure "Figure 20.5 : Formation of the 21-Centimeter Line. When the electron in a hydrogen atom is in the orbit closest to the nucleus, the proton and the electron may be spinning either (a) in the same direction or (b) in opposite directions. When the electron flips over, the atom gains or loses a tiny bit of energy by either absorbing or emitting electromagnetic energy with a wavelength of 21 centimeters." [ref=f309e29]':
+                    - img [ref=f309e31]
+                  - paragraph [ref=f309e33]: Neutral hydrogen atoms can acquire small amounts of energy through collisions with other hydrogen atoms or with free electrons. Such collisions are extremely rare in the sparse gases of interstellar space. An individual atom may wait centuries before such an encounter aligns the spins of its proton and electron. Nevertheless, over many millions of years, a significant fraction of the hydrogen atoms are excited by a collision. (Out there in cold space, that’s about as much excitement as an atom typically experiences.)
+                  - paragraph [ref=f309e34]: An excited atom can later lose its excess energy either by colliding with another particle or by giving off a radio wave with a wavelength of 21 centimeters. If there are no collisions, an excited hydrogen atom will wait an average of about 10 million years before emitting a photon and returning to its state of lowest energy. Even though the probability that any single atom will emit a photon is low, there are so many hydrogen atoms in a typical gas cloud that collectively they will produce an observable line at 21 centimeters.
+                  - paragraph [ref=f309e35]:
+                    - text: Equipment sensitive enough to detect the 21-cm line of neutral hydrogen became available in 1951. Dutch astronomers had built an instrument to detect the 21-cm waves that they had predicted, but a fire destroyed it. As a result, two Harvard physicists, Harold
+                    - generic [ref=f309e36]: Ewen
+                    - text: and Edward Purcell, made the first detection (Figure 20.6), soon followed by confirmations from the Dutch and a group in Australia. Since the detection of the 21-cm line, many other radio lines produced by both atoms and molecules have been discovered (as we will discuss in a moment), and these have allowed astronomers to map out the neutral gas throughout our home Galaxy. Astronomers have also detected neutral interstellar gas, including hydrogen, at many other wavelengths from the infrared to the ultraviolet.
+                  - 'figure "Figure 20.6 : Harold Ewen (1922–2015) and Edward Purcell (1912–1997). We see Harold Ewen in 1952 working with the horn antenna (atop the physics laboratory at Harvard) that made the first detection of interstellar 21-cm radiation. The inset shows Edward Purcell, the winner of the 1952 Nobel Prize in physics, a few years later. (credit: modification of work by NRAO)" [ref=f309e37]':
+                    - 'img "Photograph of Harold Ewen inspecting the horn antenna at Harvard. Inset: photograph of Edward Purcell." [ref=f309e39]'
+                  - paragraph [ref=f309e41]:
+                    - text: Modern radio observations show that most of the neutral hydrogen in our Galaxy is confined to an extremely flat layer, less than 300 light-years thick, that extends throughout the disk of the Milky Way Galaxy. This gas has densities ranging from about 0.1 to about 100 atoms per
+                    - generic [ref=f309e42]:
+                      - text: cm
+                      - superscript [ref=f309e43]: "3"
+                    - text: ", and it exists at a wide range of temperatures, from as low as about 100 K (–173 °C) to as high as about 8000 K. These regions of warm and cold gas are interspersed with each other, and the density and temperature at any particular point in space are constantly changing."
+                  - heading "Ultra-Hot Interstellar Gas" [level=3] [ref=f309e44]
+                  - paragraph [ref=f309e45]:
+                    - text: While the temperatures of 10,000 K found in H II regions might seem warm, they are not the hottest phase of the interstellar medium. Some of the interstellar gas is at a temperature of a
+                    - emphasis [ref=f309e46]: million
+                    - text: degrees, even though there is no visible source of heat nearby. The discovery of this ultra-hot interstellar gas was a big surprise. Before the launch of astronomical observatories into space, which could see radiation in the ultraviolet and X-ray parts of the spectrum, astronomers assumed that most of the region between stars was filled with hydrogen at temperatures no warmer than those found in H II regions. But telescopes launched above Earth’s atmosphere obtained ultraviolet spectra that contained interstellar lines produced by oxygen atoms that have been ionized five times. To strip five electrons from their orbits around an oxygen nucleus requires a lot of energy. Subsequent observations with orbiting X-ray telescopes revealed that the Galaxy is filled with numerous bubbles of X-ray-emitting gas. To emit X-rays, and to contain oxygen atoms that have been ionized five times, gas must be heated to temperatures of a million degrees or more.
+                  - paragraph [ref=f309e47]:
+                    - text: Theorists have now shown that the source of energy producing these remarkable temperatures is the explosion of massive stars at the ends of their lives (Figure 20.7). Such explosions, called
+                    - emphasis [ref=f309e48]: supernovae
+                    - text: ", will be discussed in detail in the chapter on The Death of Stars. For now, we’ll just say that some stars, nearing the ends of their lives, become unstable and literally explode. These explosions launch gas into interstellar space at velocities of tens of thousands of kilometers per second (up to about 30% the speed of light). When this ejected gas collides with interstellar gas, it produces shocks that heat the gas to millions or tens of millions of degrees."
+                  - 'figure "Figure 20.7 : Vela Supernova Remnant. About 11,000 years ago, a dying star in the constellation of Vela exploded, becoming as bright as the full moon in Earth’s skies. You can see the faint rounded filaments from that explosion in the center of this colorful image. The edges of the remnant are colliding with the interstellar medium, heating the gas they plow through to temperatures of millions of K. Telescopes in space also reveal a glowing sphere of X-ray radiation from the remnant. (credit: Digitized Sky Survey, ESA/ESO/NASA FITS Liberator, Davide De Martin)" [ref=f309e49]':
+                    - img "The Vela Supernova Remnant. This ancient supernova remnant appears to us now as a thin circular shaped region, with delicate tendrils of light along the edges where the gas collides with the interstellar medium." [ref=f309e51]
+                  - paragraph [ref=f309e53]: Astronomers estimate that one supernova explodes roughly every 100 years somewhere in the Galaxy. On average, shocks launched by supernovae sweep through any given point in the Galaxy about once every few million years. These shocks keep some interstellar space filled with gas at temperatures of millions of degrees, and they continually disturb the colder gas, keeping it in constant, turbulent motion.
+                  - heading "Molecular Clouds" [level=3] [ref=f309e54]
+                  - paragraph [ref=f309e55]: A few simple molecules out in space, such as CN and CH, were discovered decades ago because they produce absorption lines in the visible-light spectra of stars behind them. When more sophisticated equipment for obtaining spectra in radio and infrared wavelengths became available, astronomers—to their surprise—found much more complex molecules in interstellar clouds as well.
+                  - paragraph [ref=f309e56]: Just as atoms leave their “fingerprints” in the spectrum of visible light, so the vibration and rotation of atoms within molecules can leave spectral fingerprints in radio and infrared waves. If we spread out the radiation at such longer wavelengths, we can detect emission or absorption lines in the spectra that are characteristic of specific molecules. Over the years, experiments in our laboratories have shown us the exact wavelengths associated with changes in the rotation and vibration of many common molecules, giving us a template of possible lines against which we can now compare our observations of interstellar matter.
+                  - paragraph [ref=f309e57]:
+                    - text: The discovery of complex molecules in space came as a surprise because most of interstellar space is filled with ultraviolet light from stars, and this light is capable of
+                    - emphasis [ref=f309e58]: dissociating
+                    - text: molecules (breaking them apart into individual atoms). In retrospect, however, the presence of molecules is not surprising. As we will discuss further in the next section, and have already seen above, interstellar space also contains significant amounts of dust capable of blocking out starlight. When this dust accumulates in a single location, the result is a dark cloud where ultraviolet starlight is blocked and molecules can survive. The largest of these structures are created where gravity pulls interstellar gas together to form giant molecular clouds, structures as massive as a million times the mass of the Sun. Within these, most of the interstellar hydrogen has formed the molecule H
+                    - subscript [ref=f309e59]: "2"
+                    - text: (molecular hydrogen). Other, more complex molecules are also present in much smaller quantities.
+                  - paragraph [ref=f309e60]:
+                    - text: Giant molecular clouds have densities of hundreds to thousands of atoms per
+                    - generic [ref=f309e61]:
+                      - text: cm
+                      - superscript [ref=f309e62]: "3"
+                    - text: ", much denser than interstellar space is on average. As a result, though they account for a very small fraction of the volume of interstellar space, they contain a significant fraction—20–30%—of the total mass of the Milky Way’s gas. Because of their high density, molecular clouds block ultraviolet starlight, the main agent for heating most interstellar gas. As a result, they tend to be extremely cold, with typical temperatures near 10 K (−263 °C). Giant molecular clouds are also the sites where new stars form, as we will discuss below."
+                  - paragraph [ref=f309e63]:
+                    - text: It is in these dark regions of space, protected from starlight, that molecules can form. Chemical reactions occurring both in the gas and on the surface of dust grains lead to much more complex compounds, hundreds of which have been identified in interstellar space. Among the simplest of these are water (
+                    - generic [ref=f309e64]:
+                      - text: H
+                      - subscript [ref=f309e65]: "2"
+                      - text: O
+                    - text: ), carbon monoxide (CO), which is produced by fires on Earth, and ammonia (
+                    - generic [ref=f309e66]:
+                      - text: NH
+                      - subscript [ref=f309e67]: "3"
+                    - text: ), whose smell you recognize in strong home cleaning products. Carbon monoxide is particularly abundant in interstellar space and is the primary tool that astronomers use to study giant molecular clouds. Unfortunately, the most abundant molecule, H
+                    - subscript [ref=f309e68]: "2"
+                    - text: ", is particularly difficult to observe directly because in most giant molecular clouds, it is too cold to emit even at radio wavelengths. CO, which tends to be present wherever H"
+                    - subscript [ref=f309e69]: "2"
+                    - text: is found, is a much better emitter and is often used by astronomers to trace molecular hydrogen.
+                  - paragraph [ref=f309e70]:
+                    - text: The more complex molecules astronomers have found are mostly combinations of hydrogen, oxygen, carbon, nitrogen, and sulfur atoms. Many of these molecules are
+                    - emphasis [ref=f309e71]: organic
+                    - text: (those that contain carbon and are associated with the carbon chemistry of life on Earth.) They include formaldehyde (used to preserve living tissues), alcohol (see the feature box on Cocktails in Space), and antifreeze.
+                  - paragraph [ref=f309e72]:
+                    - text: In 1996, astronomers discovered acetic acid (the prime ingredient of vinegar) in a cloud lying in the direction of the constellation of Sagittarius. To balance the sour with the sweet, a simple sugar (glycolaldehyde) has also been found. The largest compounds yet discovered in interstellar space are
+                    - emphasis [ref=f309e73]: fullerenes
+                    - text: ", molecules in which 60 or 70 carbon atoms are arranged in a cage-like configuration (see Figure 20.8). See Table 20.1 for a list of a few of the more interesting interstellar molecules that have been found so far."
+                  - 'figure "Figure 20.8 : Fullerene C60. This three-dimensional perspective shows the characteristic cage-like arrangement of the 60 carbon atoms in a molecule of fullerene C60. Fullerene C60 is also known as a “buckyball,” or as its full name, buckminsterfullerene, because of its similarity to the multisided architectural domes designed by American inventor R. Buckminster Fuller." [ref=f309e74]':
+                    - img "Artist’s 3D Rendering of a Fullerene C60 Molecule. Carbon atoms are shown as black spheres, and the chemical bonds between them shown as black cylinders. The shape of the “buckyball” is similar to that of a soccer ball; alternating pentagons and hexagons arranged into a hollow sphere." [ref=f309e76]
+                  - generic [ref=f309e78]:
+                    - table [ref=f309e79]:
+                      - rowgroup [ref=f309e80]:
+                        - row [ref=f309e81]:
+                          - columnheader "Some Interesting Interstellar Molecules" [ref=f309e82]
+                        - row [ref=f309e83]:
+                          - columnheader "Name" [ref=f309e84]
+                          - columnheader "Chemical Formula" [ref=f309e85]
+                          - columnheader "Use on Earth" [ref=f309e86]
+                      - rowgroup [ref=f309e87]:
+                        - row [ref=f309e88]:
+                          - cell "Ammonia" [ref=f309e89]
+                          - cell [ref=f309e90]:
+                            - generic [ref=f309e91]:
+                              - text: NH
+                              - subscript [ref=f309e92]: "3"
+                          - cell "Household cleansers" [ref=f309e93]
+                        - row [ref=f309e94]:
+                          - cell "Formaldehyde" [ref=f309e95]
+                          - cell [ref=f309e96]:
+                            - generic [ref=f309e97]:
+                              - text: H
+                              - subscript [ref=f309e98]: "2"
+                              - text: CO
+                          - cell "Embalming fluid" [ref=f309e99]
+                        - row [ref=f309e100]:
+                          - cell "Acetylene" [ref=f309e101]
+                          - cell [ref=f309e102]:
+                            - text: HC
+                            - subscript [ref=f309e103]: "2"
+                            - text: H
+                          - cell "Fuel for a welding torch" [ref=f309e104]
+                        - row [ref=f309e105]:
+                          - cell "Acetic acid" [ref=f309e106]
+                          - cell [ref=f309e107]:
+                            - text: C
+                            - subscript [ref=f309e108]: "2"
+                            - text: H
+                            - subscript [ref=f309e109]: "2"
+                            - text: O
+                            - subscript [ref=f309e110]: "4"
+                          - cell "The essence of vinegar" [ref=f309e111]
+                        - row [ref=f309e112]:
+                          - cell "Ethyl alcohol" [ref=f309e113]
+                          - cell [ref=f309e114]:
+                            - text: CH
+                            - subscript [ref=f309e115]: "3"
+                            - text: CH
+                            - subscript [ref=f309e116]: "2"
+                            - text: OH
+                          - cell "End-of-semester parties" [ref=f309e117]
+                        - row [ref=f309e118]:
+                          - cell "Ethylene glycol" [ref=f309e119]
+                          - cell [ref=f309e120]:
+                            - text: HOCH
+                            - subscript [ref=f309e121]: "2"
+                            - text: CH
+                            - subscript [ref=f309e122]: "2"
+                            - text: OH
+                          - cell "Antifreeze ingredient" [ref=f309e123]
+                        - row [ref=f309e124]:
+                          - cell "Benzene" [ref=f309e125]
+                          - cell [ref=f309e126]:
+                            - text: C
+                            - subscript [ref=f309e127]: "6"
+                            - text: H
+                            - subscript [ref=f309e128]: "6"
+                          - cell "Carbon ring, ingredient in varnishes and dyes" [ref=f309e129]
+                    - generic [ref=f309e130]: Table 20.1
+                  - paragraph [ref=f309e131]:
+                    - text: The cold interstellar clouds also contain cyanoacetylene (HC
+                    - subscript [ref=f309e132]: "3"
+                    - text: N) and acetaldehyde (CH
+                    - subscript [ref=f309e133]: "3"
+                    - text: CHO), generally regarded as starting points for
+                    - emphasis [ref=f309e134]: amino acid
+                    - text: formation. These are building blocks of proteins, which are among the fundamental chemicals from which living organisms on Earth are constructed. The presence of these organic molecules does not imply that life exists in space, but it does show that the chemical building blocks of life can form under a wide range of conditions in the universe. As we learn more about how complex molecules are produced in interstellar clouds, we gain an increased understanding of the kinds of processes that preceded the beginnings of life on Earth billions of years ago.
+                  - paragraph [ref=f309e135]:
+                    - text: "Among the molecules astronomers have identified in interstellar clouds is alcohol, which comes in two varieties: methyl (or wood) alcohol and ethyl alcohol (the kind you find in cocktails). Ethyl alcohol is a pretty complex molecule, written by chemists as C"
+                    - subscript [ref=f309e136]: "2"
+                    - text: H
+                    - subscript [ref=f309e137]: "5"
+                    - text: OH. It is quite plentiful in space (relatively speaking). In clouds where it has been identified, we detect up to one molecule for every m
+                    - superscript [ref=f309e138]: "3"
+                    - text: . The largest of the clouds (which can be several hundred light-years across) have enough ethyl alcohol to make 10
+                    - superscript [ref=f309e139]: "28"
+                    - text: fifths of liquor.
+                  - paragraph [ref=f309e140]: We need not fear, however, that future interstellar astronauts will become interstellar alcoholics. Even if a spaceship were equipped with a giant funnel 1 kilometer across and could scoop it through such a cloud at the speed of light, it would take about a thousand years to gather up enough alcohol for one standard martini.
+                  - paragraph [ref=f309e141]:
+                    - text: Furthermore, the very same clouds also contain water (H
+                    - subscript [ref=f309e142]: "2"
+                    - text: O) molecules. Your scoop would gather them up as well, and there are a lot more of them because they are simpler and thus easier to form. For the fun of it, one astronomical paper actually calculated the proof of a typical cloud.
+                    - emphasis [ref=f309e143]: Proof
+                    - text: is the ratio of alcohol to water in a drink, where 0 proof means all water, 100 proof means half alcohol and half water, and 200 proof means all alcohol. The proof of the interstellar cloud was only 0.2, not enough to qualify as a stiff drink
+                  - heading "Interstellar Dust" [level=2] [ref=f309e144]
+                  - paragraph [ref=f309e145]: "Figure 20.9 shows a striking example of what is actually a common sight through large telescopes: a dark region on the sky that appears to be nearly empty of stars. For a long time, astronomers debated whether these dark regions were empty “tunnels” through which we looked beyond the stars of the Milky Way Galaxy into intergalactic space, or clouds of some dark material that blocked the light of the stars beyond. The astronomer William Herschel (discoverer of the planet Uranus) thought it was the former, once remarking after seeing one, “Here truly is a hole in heaven!” However, American astronomer E. E. Barnard is generally credited with showing from his extensive series of nebula photographs that the latter interpretation is the correct one (see the feature box on Edward Emerson Barnard)."
+                  - 'figure "Figure 20.9 : Barnard 68. This object, first catalogued by E. E. Barnard, is a dark interstellar cloud. Its striking appearance is due to the fact that, since it is relatively close to Earth, there are no bright stars between us and it, and its dust obscures the light from the stars behind it. (It looks a little bit like a sideways heart; one astronomers sent a photo of this object to his sweetheart as a valentine.) (credit: modification of work by ESO)" [ref=f309e146]':
+                    - img "Photograph of Barnard 68. An absolutely black, comma-shaped cloud is centered in this image, with hundreds of stars seen in the background." [ref=f309e148]
+                  - paragraph [ref=f309e150]: "Dusty clouds in space betray their presence in several ways: by blocking the light from distant stars, by emitting energy in the infrared part of the spectrum, by reflecting the light from nearby stars, and by making distant stars look redder than they really are."
+                  - heading "Detecting Dust" [level=3] [ref=f309e151]
+                  - paragraph [ref=f309e152]:
+                    - text: The dark cloud seen in Figure 20.9 blocks the light of the many stars that lie behind it; note how the regions in other parts of the photograph are crowded with stars. Barnard 68 is an example of a relatively dense cloud or
+                    - emphasis [ref=f309e153]: dark nebula
+                    - text: containing tiny, solid dust grains. Such opaque clouds are conspicuous on any photograph of the Milky Way, the galaxy in which the Sun is located (see the figures in The Milky Way Galaxy). The “dark rift,” which runs lengthwise down a long part of the Milky Way in our sky and appears to split it in two, is produced by a collection of such obscuring clouds.
+                  - paragraph [ref=f309e154]: While dust clouds are too cold to radiate a measurable amount of energy in the visible part of the spectrum, they glow brightly in the infrared (Figure 20.11). The reason is that small dust grains absorb visible light and ultraviolet radiation very efficiently. The grains are heated by the absorbed radiation, typically to temperatures from 10 to about 500 K, and re-radiate this heat at infrared wavelengths.
+                  - figure [ref=f309e155]:
+                    - img "Visible and Infrared Images of the Horsehead Nebula in Orion. At left, (a) is a visible light image of the “horsehead”, with the very bright star Zeta Orionis at upper left. The horsehead shape is seen silhouetted against the bright red nebulous background in the upper half of the image. Fainter swirls of gas and dark dust are seen in the lower half. At right, (b) is an infrared image of the same region. The infrared image is a near reversal of the visible image. The bright star is barely seen. The horsehead is now a bright shape against a dark background, and the lower half of the image is bright with wisps and swirls of gas and a bright star forming nebula near the center. The insets in the infrared image show the horsehead and the bright nebula in more detail." [ref=f309e157]
+                  - paragraph [ref=f309e159]: Thanks to their small sizes and low temperatures, interstellar grains radiate most of their energy at infrared to microwave frequencies, with wavelengths of tens to hundreds of microns. Earth’s atmosphere is opaque to radiation at these wavelengths, so emission by interstellar dust is best measured from space. Observations from above Earth’s atmosphere show that dust clouds are present throughout the plane of the Milky Way (Figure 20.12).
+                  - figure [ref=f309e160]:
+                    - img "Infrared Emission from the Plane of the Milky Way. In this image the diffuse glow of interstellar dust at 3.6 and 8.0 microns fills the frame. Bright, circular patches of red nebulosity at 24 microns along with irregular patches and tendrils of dark dust are scattered across the entire field." [ref=f309e162]
+                  - paragraph [ref=f309e164]:
+                    - text: Some dense clouds of dust are close to luminous stars and scatter enough starlight to become visible. Such a cloud of dust, illuminated by starlight, is called a
+                    - emphasis [ref=f309e165]: reflection nebula
+                    - text: ", since the light we see is starlight reflected off the grains of dust. One of the best-known examples is the nebulosity around each of the brightest stars in the Pleiades cluster (see Figure 20.1). The dust grains are small, and such small particles turn out to scatter light with blue wavelengths more efficiently than light at red wavelengths. A reflection nebula, therefore, usually appears bluer than its illuminating star (Figure 20.13)."
+                  - 'figure "Figure 20.13 : Pleiades Star Cluster. The bluish light surrounding the stars in this image is an example of a reflection nebula. Like fog around a street lamp, a reflection nebula shines only because the dust within it scatters light from a nearby bright source. The Pleiades cluster is currently passing through an interstellar cloud that contains dust grains, which scatter the light from the hot blue stars in the cluster. The Pleiades cluster is about 400 light-years from the Sun. (credit: NASA, ESA and AURA/Caltech)" [ref=f309e166]':
+                    - img "The Pleiades. The light from the bright, blue stars of this cluster reflects off of the nearby dust clouds, giving the appearance of streetlamps on a foggy night." [ref=f309e168]
+                  - paragraph [ref=f309e170]:
+                    - text: Gas and dust are generally intermixed in space, although the proportions are not exactly the same everywhere. The presence of dust is apparent in many photographs of
+                    - emphasis [ref=f309e171]: emission nebulae
+                    - text: in the constellation of Sagittarius, where we see an H II region surrounded by a blue reflection nebula. Which type of nebula appears brighter depends on the kinds of stars that cause the gas and dust to glow. Stars cooler than about 25,000 K have so little ultraviolet radiation of wavelengths shorter than 91.2 nanometers—which is the wavelength required to ionize hydrogen—that the reflection nebulae around such stars outshine the emission nebulae. Stars hotter than 25,000 K emit enough ultraviolet energy that the emission nebulae produced around them generally outshine the reflection nebulae.
+                  - heading "Interstellar Reddening" [level=3] [ref=f309e172]
+                  - paragraph [ref=f309e173]: The tiny interstellar dust grains absorb some of the starlight they intercept. But at least half of the starlight that interacts with a grain is merely scattered, that is, it is redirected rather than absorbed. Since neither the absorbed nor the scattered starlight reaches us directly, both absorption and scattering make stars look dimmer. The effects of both processes are called interstellar extinction (Figure 20.14).
+                  - paragraph [ref=f309e174]: Astronomers first came to understand interstellar extinction around the early 1930s, as the explanation of a puzzling observation. In the early part of the twentieth century, astronomers discovered that some stars look red even though their spectral lines indicate that they must be extremely hot (and thus should look blue). The solution to this seeming contradiction turned out to be that the light from these hot stars is not only dimmed but also reddened by interstellar dust, a phenomenon known as interstellar reddening.
+                  - 'figure "Figure 20.14 : Barnard 68 in Infrared. In this image, we see Barnard 68, the same object shown in Figure 20.9. The difference is that, in the previous image, the blue, green, and red channels showed light in the visible (or very nearly visible) part of the spectrum. In this image, the red color shows radiation emitted in the infrared at a wavelength of 2.2 microns. Interstellar extinction is much smaller at infrared than at visible wavelengths, so the stars behind the cloud become visible in the infrared channel. (credit: ESO)" [ref=f309e175]':
+                    - img "Barnard 68 in Infrared Light. The same comma-shaped region is shown here as in Figure 20_03_Cloud, but in this case stars are seen all across the nebula since long wavelength infrared light can penetrate the gas and dust of the nebula." [ref=f309e177]
+                  - paragraph [ref=f309e179]:
+                    - text: Dust does not interact with all the colors of light the same way. Much of the violet, blue, and green light from these stars has been scattered or absorbed by dust, so it does not reach Earth. Some of their orange and red light, with longer wavelengths, on the other hand, more easily penetrates the intervening dust and completes its long journey through space to enter Earth-based telescopes (Figure 20.15). Thus, the star looks redder from Earth than it would if you could see it from nearby. (Strictly speaking,
+                    - emphasis [ref=f309e180]: reddening
+                    - text: is not the most accurate term for this process, since no red color is added; instead, blues and related colors are subtracted, so it should more properly be called “deblueing.”) In the most extreme cases, stars can be so reddened that they are entirely undetectable at visible wavelengths and can be seen only at infrared or longer wavelengths (Figure 20.14).
+                  - 'figure "Figure 20.15 : Scattering of Light by Dust. Interstellar dust scatters blue light more efficiently than red light, thereby making distant stars appear redder and giving clouds of dust near stars a bluish hue. Here, a red ray of light from a star comes straight through to the observer, whereas a blue ray is shown scattering. A similar scattering process makes Earth’s sky look blue." [ref=f309e181]':
+                    - img "Illustration of the Scattering of Light by Dust. In this figure a star is drawn and labeled at far left. At far right an arrow is drawn pointing to the right and labeled “To observer”. Emerging from the star are two waves, one short wavelength and drawn in blue, and one long wavelength drawn in red, both moving to the right. At center is an interstellar dust cloud represented as a fuzzy disk with small dots scattered throughout. Inside the cloud, the blue waves coming from the star strike some of these dots and are scattered upward and downward away from the observer. The red waves move through the cloud unimpeded, and travel toward the observer." [ref=f309e183]
+                  - paragraph [ref=f309e185]: We have all seen an example of reddening on Earth. The Sun appears much redder at sunset than it does at noon. The lower the Sun is in the sky, the longer the path its light must travel through the atmosphere. Over this greater distance, there is a greater chance that sunlight will be scattered. Since red light is less likely to be scattered than blue light, the Sun appears more and more red as it approaches the horizon.
+                  - paragraph [ref=f309e186]: By the way, scattering of sunlight is also what causes our sky to look blue, even though the gases that make up Earth’s atmosphere are transparent. As sunlight comes in, it scatters from the molecules of air. The small size of the molecules means that the blue colors scatter much more efficiently than the greens, yellows, and reds. Thus, the blue in sunlight is scattered out of the beam and all over the sky. The light from the Sun that comes to your eye, on the other hand, is missing some of its blue, so the Sun looks a bit yellower, even when it is high in the sky, than it would from space.
+                  - paragraph [ref=f309e187]: The fact that starlight is reddened by interstellar dust means that long-wavelength radiation is transmitted through the Galaxy more efficiently than short-wavelength radiation. Consequently, if we wish to see farther in a direction with considerable interstellar material, we should look at long wavelengths. This simple fact provides one of the motivations for the development of infrared astronomy. In the infrared region at 2 microns (2000 nanometers), for example, the obscuration is only one-sixth as great as in the visible region (500 nanometers), and we can therefore study stars that are more than twice as distant before their light is blocked by interstellar dust. This ability to see farther by observing in the infrared portion of the spectrum represents a major gain for astronomers trying to understand the structure of our Galaxy or probing its puzzling, but distant, center (see The Milky Way Galaxy).
+                  - heading "Interstellar Grains" [level=3] [ref=f309e188]
+                  - paragraph [ref=f309e189]:
+                    - text: Before we get to the details about interstellar dust, we should perhaps get one concern out of the way. Why couldn’t it be the interstellar
+                    - emphasis [ref=f309e190]: gas
+                    - text: that reddens distant stars and not the dust? We already know from everyday experience that atomic or molecular gas is almost transparent. Consider Earth’s atmosphere. Despite its very high density compared with that of interstellar gas, it is so transparent as to be practically invisible. (Gas does have a few specific spectral lines, but they absorb only a tiny fraction of the light as it passes through.)The quantity of
+                    - emphasis [ref=f309e191]: gas
+                    - text: required to produce the observed absorption of light in interstellar space would have to be enormous. The gravitational attraction of so great a mass of gas would affect the motions of stars in ways that could easily be detected. Such motions are not observed, and thus, the interstellar absorption cannot be the result of gases.
+                  - paragraph [ref=f309e192]:
+                    - text: Although gas does not absorb much light, we know from everyday experience that tiny solid or liquid particles can be very efficient absorbers. Water vapor in the air is quite invisible. When some of that vapor condenses into tiny water droplets, however, the resulting cloud is opaque. Dust storms, smoke, and smog offer familiar examples of the efficiency with which solid particles absorb light. On the basis of arguments like these, astronomers have concluded that widely scattered
+                    - emphasis [ref=f309e193]: solid
+                    - text: particles in interstellar space must be responsible for the observed dimming of starlight. What are these particles made of? And how did they form?
+                  - paragraph [ref=f309e194]: Observations like the pictures in this chapter show that a great deal of this dust exists; hence, it must be primarily composed of elements that are abundant in the universe (and in interstellar matter). After hydrogen and helium, the most abundant elements are oxygen, carbon, and nitrogen. These three elements, along with magnesium, silicon, iron—and perhaps hydrogen itself—turn out to be the most important components of interstellar dust.
+                  - paragraph [ref=f309e195]: Many of the dust particles can be characterized as sootlike (rich in carbon) or sandlike (containing silicon and oxygen). Grains of interstellar dust are found in meteorites and can be identified because the abundances of certain isotopes are different from what we see in other solar system material. Several different interstellar dust substances have been identified in this way in the laboratory, including graphite and diamonds. (Don’t get excited; these diamonds are only a billionth of a meter in size and would hardly make an impressive engagement ring!)
+                  - paragraph [ref=f309e196]:
+                    - text: The most widely accepted model pictures the grains with rocky cores that are either like soot (rich in carbon) or like sand (rich in silicates). In the dark clouds where molecules can form, these cores are covered by icy mantles (Figure 20.16). The most common ices in the grains are water (H
+                    - subscript [ref=f309e197]: "2"
+                    - text: O), methane (CH
+                    - subscript [ref=f309e198]: "4"
+                    - text: ), and ammonia (NH
+                    - subscript [ref=f309e199]: "3"
+                    - text: )—all built out of atoms that are especially abundant in the realm of the stars. The ice mantles, in turn, are sites for some of the chemical reactions that produce complex organic molecules.
+                  - figure [ref=f309e200]:
+                    - img "Model of an Interstellar Dust Grain. At the center of this illustration the core of the dust grain is drawn as an irregular white blob and labeled “Core”. Surrounding the core is a semi-transparent region representing an icy layer and labeled “Mantle”. Within the mantle are labeled some typical constituent molecules, “H2O”, “CH4” and “NH3”." [ref=f309e202]
+                    - generic [ref=f309e203]:
+                      - text: "Figure 20.16 : Model of an Interstellar Dust Grain. A typical interstellar grain is thought to consist of a core of rocky material (silicates) or graphite, surrounded by a mantle of ices. Typical grain sizes are 10"
+                      - superscript [ref=f309e204]: –8
+                      - text: to 10
+                      - superscript [ref=f309e205]: –7
+                      - text: meters. (This is from 1/100 to 1/10 of a micron; by contrast, human hair is about 10–200 microns wide.)
+                  - paragraph [ref=f309e206]: Typical individual grains must be just slightly smaller than the wavelength of visible light. If the grains were a lot smaller, they would not block the light efficiently, as Figure 20.13 and other images in this chapter show that it does.
+                  - paragraph [ref=f309e207]:
+                    - text: On the other hand, if the dust grains were much larger than the wavelength of light, then starlight would not be reddened. Things that are much larger than the wavelength of light would block both blue and red light with equal efficiency. In this way we can deduce that a characteristic interstellar dust grain contains 10
+                    - superscript [ref=f309e208]: "6"
+                    - text: to 10
+                    - superscript [ref=f309e209]: "9"
+                    - text: atoms and has a diameter of 10
+                    - superscript [ref=f309e210]: –8
+                    - text: to 10
+                    - superscript [ref=f309e211]: –7
+                    - text: meters (10 to 100 nanometers). This is actually more like the specks of solid matter in cigarette smoke than the larger grains of dust you might find under your desk when you are too busy studying astronomy to clean properly.
+                  - heading "Further Exploration" [level=2] [ref=f309e212]
+                  - paragraph [ref=f309e213]:
+                    - text: Interested in learning more about fullerenes, buckyballs, or buckminsterfullerenes (as they’re called)? Watch a brief video from
+                    - link "NASA’s Jet Propulsion Laboratory" [ref=f309e214]:
+                      - /url: https://openstax.org/l/30NASAjetprop
+                    - text: that explains what they are and illustrates how they were discovered in space.
+                  - paragraph [ref=f309e215]
+              - generic [ref=f307e324]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f307e326] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f307e104]:
+          - separator [ref=f307e105]
+          - paragraph [ref=f307e107]:
+            - text: This page titled
+            - 'link "10.2: Interstellar Gas and Dust" [ref=f307e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.02%3A_Interstellar_Gas_and_Dust
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f307e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f307e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f307e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f307e112]:
+        - list [ref=f307e113]:
+          - listitem [ref=f307e114]:
+            - link "Back to top" [ref=f307e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f307e116]:
+            - list [ref=f307e117]:
+              - listitem [ref=f307e118]:
+                - 'link " 10.1: The Interstellar Medium" [ref=f307e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.01%3A_The_Interstellar_Medium
+                  - text: 
+                  - generic [ref=f307e120]: "10.1: The Interstellar Medium"
+              - listitem [ref=f307e121]:
+                - 'link "10.3: Cosmic Materials " [ref=f307e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.03%3A_Cosmic_Materials
+                  - generic [ref=f307e123]: "10.3: Cosmic Materials"
+                  - text: 
+        - list [ref=f307e126]:
+          - listitem [ref=f307e127]: Was this article helpful?
+          - listitem [ref=f307e128]:
+            - button "Yes" [ref=f307e129] [cursor=pointer]
+          - listitem [ref=f307e130]:
+            - button "No" [ref=f307e131] [cursor=pointer]
+          - listitem [ref=f307e132]:
+            - button "Leave feedback" [ref=f307e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , , ,"
+        - generic [ref=f307e134]:
+          - heading "Attachments" [level=2] [ref=f307e135]
+          - generic:
+            - button "Attach a file" [ref=f307e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f307e138]:
+            - generic [ref=f307e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f307e142]
+            - generic [ref=f307e143]:
+              - grid [ref=f307e146]:
+                - rowgroup [ref=f307e147]:
+                  - row [ref=f307e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f307e149]':
+                      - generic:
+                        - generic [ref=f307e150]: File
+                        - generic [ref=f307e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f307e152]':
+                      - generic:
+                        - generic [ref=f307e153]: Last modified
+                        - generic [ref=f307e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f307e155]':
+                      - generic:
+                        - generic [ref=f307e156]: Size
+                        - generic [ref=f307e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f307e158]':
+                      - generic:
+                        - generic [ref=f307e159]: Added by
+                        - generic [ref=f307e160]: 
+              - grid [ref=f307e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f307e163]: File
+                          - generic [ref=f307e164]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f307e165]: Last modified
+                          - generic [ref=f307e166]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f307e167]: Size
+                          - generic [ref=f307e168]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f307e169]: Added by
+                          - generic [ref=f307e170]: 
+                - rowgroup [ref=f307e171]:
+                  - row [ref=f307e172]:
+                    - gridcell "No files attached." [ref=f307e173]
+    - generic [ref=f307e175]:
+      - button "Open support menu" [ref=f307e177] [cursor=pointer]: "?"
+      - navigation [ref=f307e179]:
+        - paragraph [ref=f307e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f307e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f307e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f307e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f307e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f307e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f307e187]:
+      - generic:
+        - generic [ref=f307e189]:
+          - button "Annotation sidebar" [ref=f307e190]
+          - generic [ref=f307e195]:
+            - button "Show highlights" [ref=f307e196]
+            - button "New page note" [ref=f307e201]
+          - status [ref=f307e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f307e207]:
+    - button "contents" [ref=f307e208] [cursor=pointer]
+    - button "readability" [ref=f307e210] [cursor=pointer]
+    - button "resources" [ref=f307e212] [cursor=pointer]
+    - button "tools" [ref=f307e214] [cursor=pointer]
+    - button "developers" [ref=f307e216] [cursor=pointer]
+  - text:  
+  - generic [ref=f307e327]:
+    - generic [ref=f307e328] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f307e331] [cursor=pointer]

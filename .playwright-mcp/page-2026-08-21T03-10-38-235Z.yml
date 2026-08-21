@@ -1,0 +1,386 @@
+- generic [ref=f600e1]:
+  - link "Skip to main content" [ref=f600e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f600e3]:
+    - text: 
+    - generic [ref=f600e4]:
+      - generic [ref=f600e5]:
+        - generic: ✕
+        - navigation [ref=f600e7]:
+          - generic [ref=f600e8]:
+            - link [ref=f600e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f600e11]
+            - button "Enter Reader Mode" [ref=f600e13] [cursor=pointer]:
+              - generic [ref=f600e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f600e16]:
+        - list [ref=f600e18]:
+          - listitem [ref=f600e19]:
+            - link [ref=f600e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f600e22]
+          - listitem [ref=f600e23]:
+            - text: 
+            - generic [ref=f600e25]:
+              - generic [ref=f600e26]: "Search :"
+              - searchbox "Search :" [ref=f600e27]
+              - button " Search" [ref=f600e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f600e29]:
+            - list [ref=f600e30]:
+              - listitem [ref=f600e31]:
+                - link "Edit" [ref=f600e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.14%3A_Lowell_Percival?action=edit
+              - text: 
+              - listitem [ref=f600e33]:
+                - link " Options" [ref=f600e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f600e35]:
+                - link " Rachel Mastrapa" [ref=f600e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f600e37]:
+        - generic:
+          - button " Contents" [ref=f600e210] [cursor=pointer]
+          - list [ref=f600e39]:
+            - listitem [ref=f600e40]:
+              - link " Home" [ref=f600e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f600e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f600e43]:
+              - link " Workbench" [ref=f600e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f600e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f600e46]:
+              - link " De Anza - ASTR10" [ref=f600e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f600e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f600e49]:
+              - 'link " 18: Appendices" [ref=f600e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices
+                - generic [ref=f600e51]: 
+                - text: "18: Appendices"
+              - text: »
+            - listitem [ref=f600e52]:
+              - 'link " 18.1: Alphabetical List of Scientists" [ref=f600e53] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists
+                - generic [ref=f600e54]: 
+                - text: "18.1: Alphabetical List of Scientists"
+              - text: »
+            - listitem [ref=f600e55]:
+              - generic [ref=f600e56]: 
+              - text: "18.1.14: Lowell, Percival"
+          - button " Expand/collapse global location" [ref=f600e57] [cursor=pointer]
+      - navigation:
+        - generic:                                                                   
+    - article [ref=f600e58]:
+      - generic [ref=f600e59]:
+        - generic [ref=f600e60]:
+          - button " Page settings" [ref=f600e61] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "18.1.14: Lowell, Percival" [level=1] [ref=f600e62]':
+          - generic [ref=f600e211]: "18.1.14: Lowell, Percival "
+        - list [ref=f600e65]:
+          - listitem [ref=f600e66]:
+            - link [ref=f600e68] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f600e69]:
+                - img "CC" [ref=f600e70]
+                - img "BY" [ref=f600e71]
+          - listitem [ref=f600e72]:
+            - generic [ref=f600e73]:
+              - term [ref=f600e74] [cursor=pointer]: "Last updated:"
+              - definition [ref=f600e75]: Dec 25, 2025, 10:10 PM by Rachel Mastrapa
+          - listitem [ref=f600e76]:
+            - generic [ref=f600e77]:
+              - term [ref=f600e78] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f600e79]: Private
+          - listitem [ref=f600e80]:
+            - generic [ref=f600e81]:
+              - term [ref=f600e82] [cursor=pointer]: "Page ID:"
+              - definition [ref=f600e83]: "140431"
+          - listitem [ref=f600e84]:
+            - list [ref=f600e85]:
+              - listitem [ref=f600e86]:
+                - button "Pin Page" [ref=f600e87] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f600e88]:
+                - list [ref=f600e89]:
+                  - listitem [ref=f600e90]:
+                    - 'link " 18.1.13: Kepler, Johannes" [ref=f600e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.13%3A_Kepler_Johannes
+                      - text: 
+                      - generic [ref=f600e92]: "18.1.13: Kepler, Johannes"
+                  - listitem [ref=f600e93]:
+                    - 'link "18.1.15: Maxwell, James Clerk " [ref=f600e94] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.15%3A_Maxwell_James_Clerk
+                      - generic [ref=f600e95]: "18.1.15: Maxwell, James Clerk"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f600e96]:
+        - group [ref=f600e215]:
+          - generic [ref=f600e216]:
+            - generic [ref=f600e217]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f600e218]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f600e219]:
+            - generic [ref=f600e222]:
+              - generic [ref=f600e223]:
+                - generic [ref=f600e224]:
+                  - link "Edit" [ref=f600e225]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f600e226]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f600e227]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f600e228]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f600e229]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f600e230]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f600e231]: "Words: 566, Chars: 3513"
+              - group "Editor toolbars" [ref=f600e233]:
+                - toolbar [ref=f600e234]:
+                  - button "Save" [ref=f600e235]:
+                    - generic [ref=f600e236]: 
+                  - button "Cancel" [ref=f600e238]:
+                    - generic [ref=f600e239]: 
+                - toolbar [ref=f600e242]:
+                  - button "Undo" [disabled] [ref=f600e243]:
+                    - generic [ref=f600e244]: 
+                  - button "Redo" [disabled] [ref=f600e245]:
+                    - generic [ref=f600e246]: 
+                - toolbar [ref=f600e248]:
+                  - button "Headings" [ref=f600e249]
+                - toolbar [ref=f600e254]:
+                  - button "Bold" [ref=f600e255]:
+                    - generic [ref=f600e256]: 
+                  - button "Italic" [ref=f600e257]:
+                    - generic [ref=f600e258]: 
+                  - button "Underline" [ref=f600e259]:
+                    - generic [ref=f600e260]: 
+                - toolbar [ref=f600e262]:
+                  - button "Text color" [ref=f600e263]:
+                    - generic [ref=f600e264]: 
+                  - button "Background color" [ref=f600e266]:
+                    - generic [ref=f600e267]: 
+                - toolbar [ref=f600e270]:
+                  - button "Remove format" [ref=f600e271]:
+                    - generic [ref=f600e272]: 
+                - toolbar [ref=f600e274]:
+                  - button "Insert/Remove numbered list" [ref=f600e275]:
+                    - generic [ref=f600e276]: 
+                  - button "Insert/Remove bulleted list" [ref=f600e277]:
+                    - generic [ref=f600e278]: 
+                - toolbar [ref=f600e280]:
+                  - button "Alignment" [ref=f600e281]:
+                    - generic [ref=f600e282]: 
+                - text: 
+                - toolbar [ref=f600e285]:
+                  - button "Link" [ref=f600e286]:
+                    - generic [ref=f600e287]: 
+                  - button "Image" [ref=f600e288]:
+                    - generic [ref=f600e289]: 
+                  - text: 
+                  - button "Boxes" [ref=f600e290]
+                - toolbar [ref=f600e295]:
+                  - button "Replace" [ref=f600e296]:
+                    - generic [ref=f600e297]: 
+                - toolbar [ref=f600e299]:
+                  - button "Enable Binder" [ref=f600e300]
+                  - button "Insert Adapt" [ref=f600e302]
+                  - button "Query" [ref=f600e304]
+                  - button "Accessibility Checker" [ref=f600e307]
+                - toolbar [ref=f600e310]:
+                  - button "HTML" [ref=f600e311]:
+                    - generic [ref=f600e312]: 
+            - application "Rich Text Editor, editarea" [ref=f600e314]:
+              - iframe [active] [ref=f600e315]:
+                - generic [active] [ref=f602e1]:
+                  - paragraph [ref=f602e2]: "Percival Lowell was born into the well-to-do Massachusetts family about whom John Bossidy made the famous toast:"
+                  - blockquote [ref=f602e3]:
+                    - paragraph [ref=f602e4]: And this is good old Boston,The home of the bean and the cod,Where the Lowells talk to the CabotsAnd the Cabots talk only to God.
+                  - paragraph [ref=f602e5]: "Percival’s brother Lawrence became president of Harvard University, and his sister, Amy, became a distinguished poet. Percival was already interested in astronomy as a boy: he made observations of Mars at age 13. His undergraduate thesis at Harvard dealt with the origin of the solar system, but he did not pursue this interest immediately. Instead, he entered the family business and traveled extensively in Asia. In 1892, however, he decided to dedicate himself to carrying on Schiaparelli’s work and solving the mysteries of the martian canals."
+                  - paragraph [ref=f602e6]:
+                    - text: In 1894, with the help of astronomers at Harvard but using his own funds, Lowell built an observatory on a high plateau in Flagstaff, Arizona, where he hoped the seeing would be clear enough to show him Mars in unprecedented detail. He and his assistants quickly accumulated a tremendous number of drawings and maps, purporting to show a vast network of martian canals (see Figure 10.4). He elaborated his ideas about the inhabitants of the red planet in several books, including
+                    - emphasis [ref=f602e7]: Mars
+                    - text: (1895) and
+                    - emphasis [ref=f602e8]: Mars and Its Canals
+                    - text: (1906), and in hundreds of articles and speeches.
+                  - paragraph [ref=f602e9]: As Lowell put it,
+                  - blockquote [ref=f602e10]:
+                    - paragraph [ref=f602e11]: A mind of no mean order would seem to have presided over the system we see—a mind certainly of considerably more comprehensiveness than that which presides over the various departments of our own public works. Party politics, at all events, have had no part in them; for the system is planet-wide. . . . Certainly what we see hints at the existence of beings who are in advance of, not behind us, in the journey of life.
+                  - paragraph [ref=f602e12]:
+                    - text: Lowell’s views captured the public imagination and inspired many novels and stories, the most famous of which was H. G. Wells’
+                    - emphasis [ref=f602e13]: War of the Worlds
+                    - text: (1897). In this famous “invasion” novel, the thirsty inhabitants of a dying planet Mars (based entirely on Lowell’s ideas) come to conquer Earth with advanced technology.
+                  - paragraph [ref=f602e14]: Although the Lowell Observatory first became famous for its work on the martian canals, both Lowell and the observatory eventually turned to other projects as well. He became interested in the search for a ninth (and then undiscovered) planet in the solar system. In 1930, Pluto was found at the Lowell Observatory, and it is not a coincidence that the name selected for the new planet starts with Lowell’s initials. It was also at the Lowell Observatory that the first measurements were made of the great speed at which galaxies are moving away from us, observations that would ultimately lead to our modern view of an expanding universe.
+                  - paragraph [ref=f602e15]: Lowell (Figure 10.5) continued to live at his observatory, marrying at age 53 and publishing extensively. He relished the debate his claims about Mars caused far more than the astronomers on the other side, who often complained that Lowell’s work was making planetary astronomy a less respectable field. At the same time, the public fascination with the planets fueled by Lowell’s work (and its interpreters) may, several generations later, have helped fan support for the space program and the many missions whose results grace the pages of our text.
+                  - 'figure "Figure 10.5 : Percival Lowell (1855–1916). This 1914 photograph shows Percival Lowell observing Venus with his 24-inch telescope at Flagstaff, Arizona." [ref=f602e16]':
+                    - img "This is a photograph of Percival Lowell seated at the eyepiece of the 24-inch refractor near Flagstaff, Arizona." [ref=f602e18]
+                  - heading "Attributions" [level=2] [ref=f602e20]
+                  - paragraph [ref=f602e21]:
+                    - link "https://phys.libretexts.org/Bookshel..._-_An_Overview" [ref=f602e22]:
+                      - /url: /Bookshelves/Astronomy__Cosmology/Astronomy_2e_(OpenStax)/10:_Earthlike_Planets_-_Venus_and_Mars/10.02:_The_Nearest_Planets_-_An_Overview
+              - generic [ref=f600e316]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f600e318] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f600e98]:
+          - separator [ref=f600e99]
+          - paragraph [ref=f600e101]:
+            - 'link "18.1.14: Lowell, Percival" [ref=f600e102] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.14%3A_Lowell_Percival
+            - text: is shared under a
+            - link "CC BY" [ref=f600e103] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f600e104]:
+        - list [ref=f600e105]:
+          - listitem [ref=f600e106]:
+            - link "Back to top" [ref=f600e107] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f600e108]:
+            - list [ref=f600e109]:
+              - listitem [ref=f600e110]:
+                - 'link " 18.1.13: Kepler, Johannes" [ref=f600e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.13%3A_Kepler_Johannes
+                  - text: 
+                  - generic [ref=f600e112]: "18.1.13: Kepler, Johannes"
+              - listitem [ref=f600e113]:
+                - 'link "18.1.15: Maxwell, James Clerk " [ref=f600e114] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.15%3A_Maxwell_James_Clerk
+                  - generic [ref=f600e115]: "18.1.15: Maxwell, James Clerk"
+                  - text: 
+        - list [ref=f600e118]:
+          - listitem [ref=f600e119]: Was this article helpful?
+          - listitem [ref=f600e120]:
+            - button "Yes" [ref=f600e121] [cursor=pointer]
+          - listitem [ref=f600e122]:
+            - button "No" [ref=f600e123] [cursor=pointer]
+          - listitem [ref=f600e124]:
+            - button "Leave feedback" [ref=f600e125] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f600e126]:
+          - heading "Attachments" [level=2] [ref=f600e127]
+          - generic:
+            - button "Attach a file" [ref=f600e128] [cursor=pointer]
+            - text: 
+          - generic [ref=f600e130]:
+            - generic [ref=f600e133]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f600e134]
+            - generic [ref=f600e135]:
+              - grid [ref=f600e138]:
+                - rowgroup [ref=f600e139]:
+                  - row [ref=f600e140]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f600e141]':
+                      - generic:
+                        - generic [ref=f600e142]: File
+                        - generic [ref=f600e143]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f600e144]':
+                      - generic:
+                        - generic [ref=f600e145]: Last modified
+                        - generic [ref=f600e146]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f600e147]':
+                      - generic:
+                        - generic [ref=f600e148]: Size
+                        - generic [ref=f600e149]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f600e150]':
+                      - generic:
+                        - generic [ref=f600e151]: Added by
+                        - generic [ref=f600e152]: 
+              - grid [ref=f600e154]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f600e319]: File
+                          - generic [ref=f600e320]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f600e321]: Last modified
+                          - generic [ref=f600e322]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f600e323]: Size
+                          - generic [ref=f600e324]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f600e325]: Added by
+                          - generic [ref=f600e326]: 
+                - rowgroup [ref=f600e163]:
+                  - row [ref=f600e327]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f600e328]:
+                      - generic [ref=f600e329]:
+                        - generic [ref=f600e330]:
+                          - generic [ref=f600e331]: 
+                          - link "mindtouch.page#thumbnail" [ref=f600e332] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/65462/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f600e333]:
+                          - generic [ref=f600e334]: (no description)
+                          - text: 
+                    - gridcell "Dec 25, 2025, 10:00 PM" [ref=f600e335]
+                    - gridcell "11 KiB" [ref=f600e337]
+                    - gridcell "Rachel Mastrapa" [ref=f600e338]
+    - generic [ref=f600e167]:
+      - button "Open support menu" [ref=f600e169] [cursor=pointer]: "?"
+      - navigation [ref=f600e171]:
+        - paragraph [ref=f600e173]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f600e174] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f600e175] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f600e176] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f600e177] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f600e178] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f600e179]:
+      - generic:
+        - generic [ref=f600e181]:
+          - button "Annotation sidebar" [ref=f600e182]
+          - generic [ref=f600e187]:
+            - button "Show highlights" [ref=f600e188]
+            - button "New page note" [ref=f600e193]
+          - status [ref=f600e198]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f600e199]:
+    - button "contents" [ref=f600e200] [cursor=pointer]
+    - button "readability" [ref=f600e202] [cursor=pointer]
+    - button "resources" [ref=f600e204] [cursor=pointer]
+    - button "tools" [ref=f600e206] [cursor=pointer]
+    - button "developers" [ref=f600e208] [cursor=pointer]
+  - text:  
+  - generic [ref=f600e339]:
+    - generic [ref=f600e340] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f600e343] [cursor=pointer]

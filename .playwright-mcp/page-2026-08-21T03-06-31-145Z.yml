@@ -1,0 +1,373 @@
+- generic [ref=f579e1]:
+  - link "Skip to main content" [ref=f579e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f579e3]:
+    - text: 
+    - generic [ref=f579e4]:
+      - generic [ref=f579e5]:
+        - generic: ✕
+        - navigation [ref=f579e7]:
+          - generic [ref=f579e8]:
+            - link [ref=f579e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f579e11]
+            - button "Enter Reader Mode" [ref=f579e13] [cursor=pointer]:
+              - generic [ref=f579e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f579e16]:
+        - list [ref=f579e18]:
+          - listitem [ref=f579e19]:
+            - link [ref=f579e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f579e22]
+          - listitem [ref=f579e23]:
+            - text: 
+            - generic [ref=f579e25]:
+              - generic [ref=f579e26]: "Search :"
+              - searchbox "Search :" [ref=f579e27]
+              - button " Search" [ref=f579e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f579e29]:
+            - list [ref=f579e30]:
+              - listitem [ref=f579e31]:
+                - link "Edit" [ref=f579e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.07%3A_Curie_Marie?action=edit
+              - text: 
+              - listitem [ref=f579e33]:
+                - link " Options" [ref=f579e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f579e35]:
+                - link " Rachel Mastrapa" [ref=f579e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f579e37]:
+        - generic:
+          - button " Contents" [ref=f579e210] [cursor=pointer]
+          - list [ref=f579e39]:
+            - listitem [ref=f579e40]:
+              - link " Home" [ref=f579e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f579e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f579e43]:
+              - link " Workbench" [ref=f579e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f579e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f579e46]:
+              - link " De Anza - ASTR10" [ref=f579e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f579e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f579e49]:
+              - 'link " 18: Appendices" [ref=f579e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices
+                - generic [ref=f579e51]: 
+                - text: "18: Appendices"
+              - text: »
+            - listitem [ref=f579e52]:
+              - 'link " 18.1: Alphabetical List of Scientists" [ref=f579e53] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists
+                - generic [ref=f579e54]: 
+                - text: "18.1: Alphabetical List of Scientists"
+              - text: »
+            - listitem [ref=f579e55]:
+              - generic [ref=f579e56]: 
+              - text: "18.1.7: Curie, Marie"
+          - button " Expand/collapse global location" [ref=f579e57] [cursor=pointer]
+      - navigation:
+        - generic:                                                                   
+    - article [ref=f579e58]:
+      - generic [ref=f579e59]:
+        - generic [ref=f579e60]:
+          - button " Page settings" [ref=f579e61] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "18.1.7: Curie, Marie" [level=1] [ref=f579e62]':
+          - generic [ref=f579e211]: "18.1.7: Curie, Marie "
+        - list [ref=f579e65]:
+          - listitem [ref=f579e66]:
+            - link [ref=f579e68] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f579e69]:
+                - img "CC" [ref=f579e70]
+                - img "BY" [ref=f579e71]
+          - listitem [ref=f579e72]:
+            - generic [ref=f579e73]:
+              - term [ref=f579e74] [cursor=pointer]: "Last updated:"
+              - definition [ref=f579e75]: Dec 25, 2025, 10:07 PM by Rachel Mastrapa
+          - listitem [ref=f579e76]:
+            - generic [ref=f579e77]:
+              - term [ref=f579e78] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f579e79]: Private
+          - listitem [ref=f579e80]:
+            - generic [ref=f579e81]:
+              - term [ref=f579e82] [cursor=pointer]: "Page ID:"
+              - definition [ref=f579e83]: "140428"
+          - listitem [ref=f579e84]:
+            - list [ref=f579e85]:
+              - listitem [ref=f579e86]:
+                - button "Pin Page" [ref=f579e87] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f579e88]:
+                - list [ref=f579e89]:
+                  - listitem [ref=f579e90]:
+                    - 'link " 18.1.6: Chandrasekhar, Subrahmanyan" [ref=f579e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.06%3A_Chandrasekhar_Subrahmanyan
+                      - text: 
+                      - generic [ref=f579e92]: "18.1.6: Chandrasekhar, Subrahmanyan"
+                  - listitem [ref=f579e93]:
+                    - 'link "18.1.8: Fleming, Williamina " [ref=f579e94] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.08%3A_Fleming_Williamina
+                      - generic [ref=f579e95]: "18.1.8: Fleming, Williamina"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f579e96]:
+        - group [ref=f579e215]:
+          - generic [ref=f579e216]:
+            - generic [ref=f579e217]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f579e218]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f579e219]:
+            - generic [ref=f579e222]:
+              - generic [ref=f579e223]:
+                - generic [ref=f579e224]:
+                  - link "Edit" [ref=f579e225]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f579e226]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f579e227]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f579e228]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f579e229]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f579e230]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f579e231]: "Words: 48, Chars: 384"
+              - group "Editor toolbars" [ref=f579e233]:
+                - toolbar [ref=f579e234]:
+                  - button "Save" [ref=f579e235]:
+                    - generic [ref=f579e236]: 
+                  - button "Cancel" [ref=f579e238]:
+                    - generic [ref=f579e239]: 
+                - toolbar [ref=f579e242]:
+                  - button "Undo" [disabled] [ref=f579e243]:
+                    - generic [ref=f579e244]: 
+                  - button "Redo" [disabled] [ref=f579e245]:
+                    - generic [ref=f579e246]: 
+                - toolbar [ref=f579e248]:
+                  - button "Headings" [ref=f579e249]
+                - toolbar [ref=f579e254]:
+                  - button "Bold" [ref=f579e255]:
+                    - generic [ref=f579e256]: 
+                  - button "Italic" [ref=f579e257]:
+                    - generic [ref=f579e258]: 
+                  - button "Underline" [ref=f579e259]:
+                    - generic [ref=f579e260]: 
+                - toolbar [ref=f579e262]:
+                  - button "Text color" [ref=f579e263]:
+                    - generic [ref=f579e264]: 
+                  - button "Background color" [ref=f579e266]:
+                    - generic [ref=f579e267]: 
+                - toolbar [ref=f579e270]:
+                  - button "Remove format" [ref=f579e271]:
+                    - generic [ref=f579e272]: 
+                - toolbar [ref=f579e274]:
+                  - button "Insert/Remove numbered list" [ref=f579e275]:
+                    - generic [ref=f579e276]: 
+                  - button "Insert/Remove bulleted list" [ref=f579e277]:
+                    - generic [ref=f579e278]: 
+                - toolbar [ref=f579e280]:
+                  - button "Alignment" [ref=f579e281]:
+                    - generic [ref=f579e282]: 
+                - text: 
+                - toolbar [ref=f579e285]:
+                  - button "Link" [ref=f579e286]:
+                    - generic [ref=f579e287]: 
+                  - button "Image" [ref=f579e288]:
+                    - generic [ref=f579e289]: 
+                  - text: 
+                  - button "Boxes" [ref=f579e290]
+                - toolbar [ref=f579e295]:
+                  - button "Replace" [ref=f579e296]:
+                    - generic [ref=f579e297]: 
+                - toolbar [ref=f579e299]:
+                  - button "Enable Binder" [ref=f579e300]
+                  - button "Insert Adapt" [ref=f579e302]
+                  - button "Query" [ref=f579e304]
+                  - button "Accessibility Checker" [ref=f579e307]
+                - toolbar [ref=f579e310]:
+                  - button "HTML" [ref=f579e311]:
+                    - generic [ref=f579e312]: 
+            - application "Rich Text Editor, editarea" [ref=f579e314]:
+              - iframe [active] [ref=f579e315]:
+                - generic [active] [ref=f581e1]:
+                  - figure [ref=f581e2]:
+                    - img "A photograph of Marie Curie" [ref=f581e4]
+                    - generic [ref=f581e5]:
+                      - strong [ref=f581e6]: Figure
+                      - text: "\\(\\PageIndex{8}\\):"
+                      - strong [ref=f581e7]: Marie Curie
+                      - text: "(1867–1934) sacrificed monetary assets to help finance her early research and damaged her physical well-being with radiation exposure. She is the only person to win Nobel prizes in both physics and chemistry. One of her daughters also won a Nobel Prize. (credit: Wikimedia Commons)"
+                  - heading "Attributions" [level=2] [ref=f581e8]
+                  - paragraph [ref=f581e9]:
+                    - link "https://phys.libretexts.org/Bookshel...n_Introduction" [ref=f581e10]:
+                      - /url: /Bookshelves/Conceptual_Physics/Introduction_to_Physics_(Park)/01:_Introduction/00:_Introduction/0.02:_Physics_-_An_Introduction
+                  - paragraph [ref=f581e11]
+              - generic [ref=f579e316]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f579e318] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f579e98]:
+          - separator [ref=f579e99]
+          - paragraph [ref=f579e101]:
+            - 'link "18.1.7: Curie, Marie" [ref=f579e102] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.07%3A_Curie_Marie
+            - text: is shared under a
+            - link "CC BY" [ref=f579e103] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f579e104]:
+        - list [ref=f579e105]:
+          - listitem [ref=f579e106]:
+            - link "Back to top" [ref=f579e107] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f579e108]:
+            - list [ref=f579e109]:
+              - listitem [ref=f579e110]:
+                - 'link " 18.1.6: Chandrasekhar, Subrahmanyan" [ref=f579e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.06%3A_Chandrasekhar_Subrahmanyan
+                  - text: 
+                  - generic [ref=f579e112]: "18.1.6: Chandrasekhar, Subrahmanyan"
+              - listitem [ref=f579e113]:
+                - 'link "18.1.8: Fleming, Williamina " [ref=f579e114] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.08%3A_Fleming_Williamina
+                  - generic [ref=f579e115]: "18.1.8: Fleming, Williamina"
+                  - text: 
+        - list [ref=f579e118]:
+          - listitem [ref=f579e119]: Was this article helpful?
+          - listitem [ref=f579e120]:
+            - button "Yes" [ref=f579e121] [cursor=pointer]
+          - listitem [ref=f579e122]:
+            - button "No" [ref=f579e123] [cursor=pointer]
+          - listitem [ref=f579e124]:
+            - button "Leave feedback" [ref=f579e125] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f579e126]:
+          - heading "Attachments" [level=2] [ref=f579e127]
+          - generic:
+            - button "Attach a file" [ref=f579e128] [cursor=pointer]
+            - text: 
+          - generic [ref=f579e130]:
+            - generic [ref=f579e133]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f579e134]
+            - generic [ref=f579e135]:
+              - grid [ref=f579e138]:
+                - rowgroup [ref=f579e139]:
+                  - row [ref=f579e140]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f579e141]':
+                      - generic:
+                        - generic [ref=f579e142]: File
+                        - generic [ref=f579e143]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f579e144]':
+                      - generic:
+                        - generic [ref=f579e145]: Last modified
+                        - generic [ref=f579e146]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f579e147]':
+                      - generic:
+                        - generic [ref=f579e148]: Size
+                        - generic [ref=f579e149]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f579e150]':
+                      - generic:
+                        - generic [ref=f579e151]: Added by
+                        - generic [ref=f579e152]: 
+              - grid [ref=f579e154]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f579e319]: File
+                          - generic [ref=f579e320]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f579e321]: Last modified
+                          - generic [ref=f579e322]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f579e323]: Size
+                          - generic [ref=f579e324]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f579e325]: Added by
+                          - generic [ref=f579e326]: 
+                - rowgroup [ref=f579e163]:
+                  - row [ref=f579e327]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f579e328]:
+                      - generic [ref=f579e329]:
+                        - generic [ref=f579e330]:
+                          - generic [ref=f579e331]: 
+                          - link "mindtouch.page#thumbnail" [ref=f579e332] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/65459/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f579e333]:
+                          - generic [ref=f579e334]: (no description)
+                          - text: 
+                    - gridcell "Dec 25, 2025, 10:00 PM" [ref=f579e335]
+                    - gridcell "11 KiB" [ref=f579e337]
+                    - gridcell "Rachel Mastrapa" [ref=f579e338]
+    - generic [ref=f579e167]:
+      - button "Open support menu" [ref=f579e169] [cursor=pointer]: "?"
+      - navigation [ref=f579e171]:
+        - paragraph [ref=f579e173]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f579e174] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f579e175] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f579e176] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f579e177] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f579e178] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f579e179]:
+      - generic:
+        - generic [ref=f579e181]:
+          - button "Annotation sidebar" [ref=f579e182]
+          - generic [ref=f579e187]:
+            - button "Show highlights" [ref=f579e188]
+            - button "New page note" [ref=f579e193]
+          - status [ref=f579e198]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f579e199]:
+    - button "contents" [ref=f579e200] [cursor=pointer]
+    - button "readability" [ref=f579e202] [cursor=pointer]
+    - button "resources" [ref=f579e204] [cursor=pointer]
+    - button "tools" [ref=f579e206] [cursor=pointer]
+    - button "developers" [ref=f579e208] [cursor=pointer]
+  - text:  
+  - generic [ref=f579e339]:
+    - generic [ref=f579e340] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f579e343] [cursor=pointer]

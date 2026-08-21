@@ -1,0 +1,319 @@
+- generic [ref=f271e1]:
+  - link "Skip to main content" [ref=f271e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f271e3]:
+    - text: 
+    - generic [ref=f271e4]:
+      - generic [ref=f271e5]:
+        - generic: ✕
+        - navigation [ref=f271e7]:
+          - generic [ref=f271e8]:
+            - link [ref=f271e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f271e11]
+            - button "Enter Reader Mode" [ref=f271e13] [cursor=pointer]:
+              - generic [ref=f271e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f271e16]:
+        - list [ref=f271e18]:
+          - listitem [ref=f271e19]:
+            - link [ref=f271e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f271e22]
+          - listitem [ref=f271e23]:
+            - text: 
+            - generic [ref=f271e25]:
+              - generic [ref=f271e26]: "Search :"
+              - searchbox "Search :" [ref=f271e27]
+              - button " Search" [ref=f271e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f271e29]:
+            - list [ref=f271e30]:
+              - listitem [ref=f271e31]:
+                - link "Edit" [ref=f271e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.01%3A_Stellar_Census?action=edit
+              - text: 
+              - listitem [ref=f271e33]:
+                - link " Options" [ref=f271e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f271e35]:
+                - link " Rachel Mastrapa" [ref=f271e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f271e37]:
+        - generic:
+          - button " Contents" [ref=f271e206] [cursor=pointer]
+          - list [ref=f271e39]:
+            - listitem [ref=f271e40]:
+              - link " Home" [ref=f271e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f271e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f271e43]:
+              - link " Workbench" [ref=f271e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f271e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f271e46]:
+              - link " De Anza - ASTR10" [ref=f271e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f271e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f271e49]:
+              - 'link " 9: Celestial Census" [ref=f271e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census
+                - generic [ref=f271e51]: 
+                - text: "9: Celestial Census"
+              - text: »
+            - listitem [ref=f271e52]:
+              - generic [ref=f271e53]: 
+              - text: "9.1: Stellar Census"
+          - text: 
+      - navigation:
+        - generic:                                                
+    - article [ref=f271e54]:
+      - generic [ref=f271e55]:
+        - generic [ref=f271e56]:
+          - button " Page settings" [ref=f271e57] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "9.1: Stellar Census" [level=1] [ref=f271e58]':
+          - generic [ref=f271e207]: "9.1: Stellar Census "
+        - list [ref=f271e61]:
+          - listitem [ref=f271e62]:
+            - link [ref=f271e64] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f271e65]:
+                - img "CC" [ref=f271e66]
+                - img "BY" [ref=f271e67]
+          - listitem [ref=f271e68]:
+            - generic [ref=f271e69]:
+              - term [ref=f271e70] [cursor=pointer]: "Last updated:"
+              - definition [ref=f271e71]: Dec 28, 2025, 5:31 PM by Rachel Mastrapa
+          - listitem [ref=f271e72]:
+            - generic [ref=f271e73]:
+              - term [ref=f271e74] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f271e75]: Private
+          - listitem [ref=f271e76]:
+            - generic [ref=f271e77]:
+              - term [ref=f271e78] [cursor=pointer]: "Page ID:"
+              - definition [ref=f271e79]: "132347"
+          - listitem [ref=f271e80]:
+            - list [ref=f271e81]:
+              - listitem [ref=f271e82]:
+                - button "Pin Page" [ref=f271e83] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f271e84]:
+                - list [ref=f271e85]:
+                  - listitem [ref=f271e86]:
+                    - 'link " 9: Celestial Census" [ref=f271e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census
+                      - text: 
+                      - generic [ref=f271e88]: "9: Celestial Census"
+                  - listitem [ref=f271e89]:
+                    - 'link "9.2: Colors of Stars " [ref=f271e90] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.02%3A_Colors_of_Stars
+                      - generic [ref=f271e91]: "9.2: Colors of Stars"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f271e92]:
+        - group [ref=f271e211]:
+          - generic [ref=f271e212]:
+            - generic [ref=f271e213]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f271e214]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f271e215]:
+            - generic [ref=f271e218]:
+              - generic [ref=f271e220]:
+                - link "Edit" [ref=f271e221]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f271e222]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f271e223]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f271e224]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f271e225]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f271e226]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f271e229]:
+                - toolbar [ref=f271e230]:
+                  - button "Save" [ref=f271e231]:
+                    - generic [ref=f271e232]: 
+                  - button "Cancel" [ref=f271e234]:
+                    - generic [ref=f271e235]: 
+                - text:          
+                - toolbar [ref=f271e276]:
+                  - button "Alignment" [ref=f271e277]:
+                    - generic [ref=f271e278]: 
+                - text:    
+                - toolbar [ref=f271e291]:
+                  - button "Replace" [ref=f271e292]:
+                    - generic [ref=f271e293]: 
+                - toolbar [ref=f271e295]:
+                  - button "Enable Binder" [disabled] [ref=f271e296]
+                  - button "Insert Adapt" [disabled] [ref=f271e298]
+                  - button "Query" [ref=f271e300]
+                  - button "Accessibility Checker" [disabled] [ref=f271e303]
+                - toolbar [ref=f271e306]:
+                  - button "Visual" [pressed] [ref=f271e342]:
+                    - generic [ref=f271e308]: 
+            - application "Rich Text Editor, editarea" [ref=f271e310]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f271e344]: "<p class=\"lt-phys-66843\">Before we can make our own survey, we need to agree on a unit of distance appropriate to the objects we are studying. The stars are all so far away that kilometers (and even astronomical units) would be very cumbersome to use; so—as discussed in Science and the Universe: A Brief Tour—astronomers use a much larger “measuring stick” called the <em data-effect=\"italics\">light-year</em>. A light-year is the distance that light (the fastest signal we know) travels in 1 year. Since light covers an astounding 300,000 kilometers per second, and since there are a lot of seconds in 1 year, a light-year is a very large quantity: 9.5 trillion <math display=\"inline\"><semantics><mrow><mrow><mo stretchy=\"false\">(</mo><mn>9.5</mn><mo>×</mo><msup><mn>10</mn><mn>12</mn></msup><mo stretchy=\"false\">)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo stretchy=\"false\">(</mo><mn>9.5</mn><mo>×</mo><msup><mn>10</mn><mn>12</mn></msup><mo stretchy=\"false\">)</mo></mrow></annotation-xml></semantics></math> kilometers to be exact. (Bear in mind that the light-year is a unit of <em data-effect=\"italics\">distance</em> even though the term <em data-effect=\"italics\">year</em> appears in it.) If you drove at the legal US speed limit without stopping for food or rest, you would not arrive at the end of a light-year in space until roughly 12 million years had passed. And the closest star is more than 4 light-years away.</p> <p class=\"lt-phys-66843\">Notice that we have not yet said much about how such enormous distances can be measured. That is a complicated question, to which we will return in Celestial Distances. For now, let us assume that distances have been measured for stars in our cosmic vicinity so that we can proceed with our census.</p> <h3 class=\"lt-phys-66843\">Small Is Beautiful—Or at Least More Common</h3> <p class=\"lt-phys-66843\">When we do a census of people in the United States, we count the inhabitants by neighborhood. We can try the same approach for our stellar census and begin with our own immediate neighborhood. As we shall see, we run into two problems—just as we do with a census of human beings. First, it is hard to be sure we have counted <em data-effect=\"italics\">all</em> the inhabitants; second, our local neighborhood may not contain all possible types of people.</p> <p class=\"has-noteref lt-phys-66843\">Table 18.1 shows an estimate of the number of stars of each spectral type, as described in<span class=\"mt-bgcolor-e74c3c\"> </span><span class=\"mt-bgcolor-e74c3c\">XXXX</span><span class=\"mt-bgcolor-e74c3c\"> </span>in our own local neighborhood—within 21 light-years of the Sun. (The Milky Way Galaxy, in which we live, is about 100,000 light-years in diameter, so this figure really applies to a <em data-effect=\"italics\">very</em> local neighborhood, one that contains a <em data-effect=\"italics\">tiny</em> fraction of all the billions of stars in the Milky Way.) You can see that there are many more low-luminosity (and hence low mass) stars than high-luminosity ones. Only three of the stars in our local neighborhood (one F type and two A types) are significantly more luminous and more massive than the Sun. This is truly a case where small triumphs over large—at least in terms of numbers. The Sun is more massive than the vast majority of stars in our vicinity.</p> <table class=\"mt-responsive-table\"> <caption>Table 18.1: Stars within 21 Light-Years of the Sun</caption> <thead> <tr valign=\"top\"> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Spectral Type</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Number of Stars</th> </tr> </thead> <tbody> <tr valign=\"top\"> <td class=\"lt-phys-66843\" data-align=\"left\" data-th=\"Spectral Type\" data-valign=\"top\">A</td> <td class=\"lt-phys-66843\" data-align=\"left\" data-th=\"Number of Stars\" data-valign=\"top\">2</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-66843\" data-align=\"left\" data-th=\"Spectral Type\" data-valign=\"top\">F</td> <td class=\"lt-phys-66843\" data-align=\"left\" data-th=\"Number of Stars\" data-valign=\"top\">1</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-66843\" data-align=\"left\" data-th=\"Spectral Type\" data-valign=\"top\">G</td> <td class=\"lt-phys-66843\" data-align=\"left\" data-th=\"Number of Stars\" data-valign=\"top\">7</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-66843\" data-align=\"left\" data-th=\"Spectral Type\" data-valign=\"top\">K</td> <td class=\"lt-phys-66843\" data-align=\"left\" data-th=\"Number of Stars\" data-valign=\"top\">17</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-66843\" data-align=\"left\" data-th=\"Spectral Type\" data-valign=\"top\">M</td> <td class=\"lt-phys-66843\" data-align=\"left\" data-th=\"Number of Stars\" data-valign=\"top\">94</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-66843\" data-align=\"left\" data-th=\"Spectral Type\" data-valign=\"top\">White dwarfs</td> <td class=\"lt-phys-66843\" data-align=\"left\" data-th=\"Number of Stars\" data-valign=\"top\">8</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-66843\" data-align=\"left\" data-th=\"Spectral Type\" data-valign=\"top\">Brown dwarfs</td> <td class=\"lt-phys-66843\" data-align=\"left\" data-th=\"Number of Stars\" data-valign=\"top\">33</td> </tr> </tbody> </table> <p class=\"lt-phys-66843\">This table is based on data published through 2015, and it is likely that more faint objects remain to be discovered (see Figure 18.2). Along with the L and T brown dwarfs already observed in our neighborhood, astronomers expect to find perhaps hundreds of additional T dwarfs and Y dwarfs. Many of these are likely to be even cooler than the coolest currently known T dwarf. The reason the lowest-mass dwarfs are so hard to find is that they put out very little light—ten thousand to a million times less light than the Sun. Only recently has our technology progressed to the point that we can detect these dim, cool objects.</p> <figure><span data-alt=\"Computer Simulation of the Solar Neighborhood out to 30 Light Years. The Sun is labeled and surrounded by a white circle in the center of this image. Very few bright stars like the Sun are seen. All the known brown dwarfs are circled; those found earlier are circled in blue, the ones found recently with the WISE infrared telescope are circled in red. The very common M type stars are made to look bright in this image so they can be visible.\" data-type=\"media\"><img alt=\"Computer Simulation of the Solar Neighborhood out to 30 Light Years. The Sun is labeled and surrounded by a white circle in the center of this image. Very few bright stars like the Sun are seen. All the known brown dwarfs are circled; those found earlier are circled in blue, the ones found recently with the WISE infrared telescope are circled in red. The very common M type stars are made to look bright in this image so they can be visible.\" data-media-type=\"image/jpeg\" src=\"/@api/deki/files/45721/698be913aef2033f53279e1b7d545655e6a59aaa\" /> </span> <figcaption>Figure 18.2 : Dwarf Simulation. This computer simulation shows the stars in our neighborhood as they would be seen from a distance of 30 light-years away. The Sun is in the center. All the brown dwarfs are circled; those found earlier are circled in blue, the ones found recently with the WISE infrared telescope in space (whose scientists put this diagram together) are circled in red. The common M stars, which are red and faint, are made to look brighter than they really would be so that you can see them in the simulation. Note that luminous hot stars like our Sun are very rare. (credit: modification of work by NASA/ JPL-Caltech)</figcaption> </figure> <p class=\"lt-phys-66843\">To put all this in perspective, we note that even though the stars counted in the table are our closest neighbors, you can’t just look up at the night sky and see them without a telescope; stars fainter than the Sun cannot be seen with the unaided eye unless they are <em data-effect=\"italics\">very</em> nearby. For example, stars with luminosities ranging from 1/100 to 1/10,000 the luminosity of the Sun (<em data-effect=\"italics\">L</em><sub>Sun</sub>) are very common, but a star with a luminosity of 1/100 <em data-effect=\"italics\">L</em><sub>Sun</sub> would have to be within 5 light-years to be visible to the naked eye—and only three stars (all in one system) are this close to us. The nearest of these three stars, <span class=\"no-emphasis\" data-type=\"term\" group-by=\"P\">Proxima Centauri</span>, still cannot be seen without a telescope because it has such a low luminosity.</p> <p class=\"lt-phys-66843\">Astronomers are working hard these days to complete the census of our local neighborhood by finding our faintest neighbors. Recent discoveries of nearby stars have relied heavily upon infrared telescopes that are able to find these many cool, low-mass stars. You should expect the number of known stars within 21 light-years of the Sun to keep increasing as more and better surveys are undertaken.</p> <h3 class=\"lt-phys-66843\">Bright Does Not Necessarily Mean Close</h3> <p class=\"lt-phys-66843\">If we confine our census to the local neighborhood, we will miss many of the most interesting kinds of stars. After all, the neighborhood in which you live does not contain all the types of people—distinguished according to age, education, income, race, and so on—that live in the entire country. For example, a few people do live to be over 100 years old, but there may be no such individual within several miles of where you live. In order to sample the full range of the human population, you would have to extend your census to a much larger area. Similarly, some types of stars simply are not found nearby.</p> <p class=\"lt-phys-66843\">A clue that we are missing something in our stellar census comes from the fact that only six of the 20 stars that appear brightest in our sky—<span class=\"no-emphasis\" data-type=\"term\" group-by=\"S\">Sirius</span>, <span class=\"no-emphasis\" data-type=\"term\" group-by=\"V\">Vega</span>, Altair, Alpha Centauri, Fomalhaut, and Procyon—are found within 26 light-years of the Sun (Figure 18.3). Why are we missing most of the brightest stars when we take our census of the local neighborhood?</p> <figure><span data-alt=\"The Closest Stars. Image (a) shows Alpha Centauri A and B as a single bright object against the background stars of the Milky Way. Panel (b) zooms in on Alpha Centauri A and B, with two small circles representing the individual stars superimposed on the image, larger Alpha Centauri A above and Alpha Centauri B below. Image (c) shows a close-up of the lower right portion of image (a). A white arrow points to what looks like one of the thousands of background stars. This is Proxima Centauri.\" data-type=\"media\"><img alt=\"The Closest Stars. Image (a) shows Alpha Centauri A and B as a single bright object against the background stars of the Milky Way. Panel (b) zooms in on Alpha Centauri A and B, with two small circles representing the individual stars superimposed on the image, larger Alpha Centauri A above and Alpha Centauri B below. Image (c) shows a close-up of the lower right portion of image (a). A white arrow points to what looks like one of the thousands of background stars. This is Proxima Centauri.\" data-media-type=\"image/jpeg\" src=\"/@api/deki/files/45723/636953ef101b00c14e7c1a5ba6ca8513978f017a\" /> </span> <figcaption>Figure 18.3 : The Closest Stars. (a) This image, taken with a wide-angle telescope at the European Southern Observatory in Chile, shows the system of three stars that is our nearest neighbor. (b) Two bright stars that are close to each other (<span class=\"no-emphasis\" data-type=\"term\" group-by=\"A\">Alpha Centauri</span> A and B) blend their light together. (c) Indicated with an arrow (since you’d hardly notice it otherwise) is the much fainter <span class=\"no-emphasis\" data-type=\"term\" group-by=\"P\">Proxima Centauri</span> star, which is spectral type M. (credit: modification of work by ESO)</figcaption> </figure> <p class=\"lt-phys-66843\">The answer, interestingly enough, is that the stars that appear brightest are <em data-effect=\"italics\">not</em> the ones closest to us. The brightest stars look the way they do because they emit a very large amount of energy—so much, in fact, that they do not have to be nearby to look brilliant. You can confirm this by looking at Appendix J, which gives distances for the 20 stars that appear brightest from Earth. The most distant of these stars is more than <em data-effect=\"italics\">1000 light-years</em> from us. In fact, it turns out that most of the stars visible without a telescope are hundreds of light-years away and many times more luminous than the Sun. Among the 9000 stars visible to the unaided eye, only about 50 are intrinsically fainter than the Sun. Note also that several of the stars in Appendix J are spectral type B, a type that is completely missing from Table 18.1.</p> <p class=\"lt-phys-66843\">The most luminous of the bright stars listed in Appendix J emit more than 50,000 times more energy than does the Sun. These highly luminous stars are missing from the solar neighborhood because they are very rare. None of them happens to be in the tiny volume of space immediately surrounding the Sun, and only this small volume was surveyed to get the data shown in Table 18.1.</p> <p class=\"lt-phys-66843\">For example, let’s consider the most luminous stars—those 100 or more times as luminous as the Sun. Although such stars are rare, they are visible to the unaided eye, even when hundreds to thousands of light-years away. A star with a luminosity 10,000 times greater than that of the Sun can be seen without a telescope out to a distance of 5000 light-years. The volume of space included within a distance of 5000 light-years, however, is enormous; so even though highly luminous stars are intrinsically rare, many of them are readily visible to our unaided eye.</p> <p class=\"lt-phys-66843\">The contrast between these two samples of stars, those that are close to us and those that can be seen with the unaided eye, is an example of a <span data-type=\"term\" group-by=\"s\">selection effect</span>. When a population of objects (stars in this example) includes a great variety of different types, we must be careful what conclusions we draw from an examination of any particular subgroup. Certainly we would be fooling ourselves if we assumed that the stars visible to the unaided eye are characteristic of the general stellar population; this subgroup is heavily weighted to the most luminous stars. It requires much more effort to assemble a complete data set for the nearest stars, since most are so faint that they can be observed only with a telescope. However, it is only by doing so that astronomers are able to know about the properties of the vast majority of the stars, which are actually much smaller and fainter than our own Sun. In the next section, we will look at how we measure some of these properties.</p>"
+              - generic [ref=f271e312]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f271e314] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f271e94]:
+          - separator [ref=f271e95]
+          - paragraph [ref=f271e97]:
+            - 'link "9.1: Stellar Census" [ref=f271e98] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.01%3A_Stellar_Census
+            - text: is shared under a
+            - link "CC BY" [ref=f271e99] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f271e100]:
+        - list [ref=f271e101]:
+          - listitem [ref=f271e102]:
+            - link "Back to top" [ref=f271e103] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f271e104]:
+            - list [ref=f271e105]:
+              - listitem [ref=f271e106]:
+                - 'link " 9: Celestial Census" [ref=f271e107] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census
+                  - text: 
+                  - generic [ref=f271e108]: "9: Celestial Census"
+              - listitem [ref=f271e109]:
+                - 'link "9.2: Colors of Stars " [ref=f271e110] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.02%3A_Colors_of_Stars
+                  - generic [ref=f271e111]: "9.2: Colors of Stars"
+                  - text: 
+        - list [ref=f271e114]:
+          - listitem [ref=f271e115]: Was this article helpful?
+          - listitem [ref=f271e116]:
+            - button "Yes" [ref=f271e117] [cursor=pointer]
+          - listitem [ref=f271e118]:
+            - button "No" [ref=f271e119] [cursor=pointer]
+          - listitem [ref=f271e120]:
+            - button "Leave feedback" [ref=f271e121] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f271e122]:
+          - heading "Attachments" [level=2] [ref=f271e123]
+          - generic:
+            - button "Attach a file" [ref=f271e124] [cursor=pointer]
+            - text: 
+          - generic [ref=f271e126]:
+            - generic [ref=f271e129]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f271e130]
+            - generic [ref=f271e131]:
+              - grid [ref=f271e134]:
+                - rowgroup [ref=f271e135]:
+                  - row [ref=f271e136]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f271e137]':
+                      - generic:
+                        - generic [ref=f271e138]: File
+                        - generic [ref=f271e139]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f271e140]':
+                      - generic:
+                        - generic [ref=f271e141]: Last modified
+                        - generic [ref=f271e142]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f271e143]':
+                      - generic:
+                        - generic [ref=f271e144]: Size
+                        - generic [ref=f271e145]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f271e146]':
+                      - generic:
+                        - generic [ref=f271e147]: Added by
+                        - generic [ref=f271e148]: 
+              - grid [ref=f271e150]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f271e315]: File
+                          - generic [ref=f271e316]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f271e317]: Last modified
+                          - generic [ref=f271e318]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f271e319]: Size
+                          - generic [ref=f271e320]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f271e321]: Added by
+                          - generic [ref=f271e322]: 
+                - rowgroup [ref=f271e159]:
+                  - row [ref=f271e323]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f271e324]:
+                      - generic [ref=f271e325]:
+                        - generic [ref=f271e326]:
+                          - generic [ref=f271e327]: 
+                          - link "mindtouch.page#thumbnail" [ref=f271e328] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63449/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f271e329]:
+                          - generic [ref=f271e330]: (no description)
+                          - text: 
+                    - gridcell "Dec 7, 2025, 7:20 PM" [ref=f271e331]
+                    - gridcell "11 KiB" [ref=f271e333]
+                    - gridcell "Rachel Mastrapa" [ref=f271e334]
+    - generic [ref=f271e163]:
+      - button "Open support menu" [ref=f271e165] [cursor=pointer]: "?"
+      - navigation [ref=f271e167]:
+        - paragraph [ref=f271e169]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f271e170] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f271e171] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f271e172] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f271e173] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f271e174] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f271e175]:
+      - generic:
+        - generic [ref=f271e177]:
+          - button "Annotation sidebar" [ref=f271e178]
+          - generic [ref=f271e183]:
+            - button "Show highlights" [ref=f271e184]
+            - button "New page note" [ref=f271e189]
+          - status [ref=f271e194]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f271e195]:
+    - button "contents" [ref=f271e196] [cursor=pointer]
+    - button "readability" [ref=f271e198] [cursor=pointer]
+    - button "resources" [ref=f271e200] [cursor=pointer]
+    - button "tools" [ref=f271e202] [cursor=pointer]
+    - button "developers" [ref=f271e204] [cursor=pointer]
+  - text:  
+  - generic [ref=f271e335]:
+    - generic [ref=f271e336] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f271e339] [cursor=pointer]

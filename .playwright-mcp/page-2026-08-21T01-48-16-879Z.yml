@@ -1,0 +1,489 @@
+- generic [ref=f122e1]:
+  - link "Skip to main content" [ref=f122e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f122e3]:
+    - text: 
+    - generic [ref=f122e4]:
+      - generic [ref=f122e5]:
+        - generic: ✕
+        - navigation [ref=f122e7]:
+          - generic [ref=f122e8]:
+            - link [ref=f122e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f122e11]
+            - button "Enter Reader Mode" [ref=f122e13] [cursor=pointer]:
+              - generic [ref=f122e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f122e16]:
+        - list [ref=f122e18]:
+          - listitem [ref=f122e19]:
+            - link [ref=f122e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f122e22]
+          - listitem [ref=f122e23]:
+            - text: 
+            - generic [ref=f122e25]:
+              - generic [ref=f122e26]: "Search :"
+              - searchbox "Search :" [ref=f122e27]
+              - button " Search" [ref=f122e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f122e29]:
+            - list [ref=f122e30]:
+              - listitem [ref=f122e31]:
+                - link "Edit" [ref=f122e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.07%3A_Accessibility_Through_Sonification?action=edit
+              - text: 
+              - listitem [ref=f122e33]:
+                - link " Options" [ref=f122e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f122e35]:
+                - link " Rachel Mastrapa" [ref=f122e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f122e37]:
+        - generic:
+          - button " Contents" [ref=f122e229] [cursor=pointer]
+          - list [ref=f122e39]:
+            - listitem [ref=f122e40]:
+              - link " Home" [ref=f122e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f122e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f122e43]:
+              - link " Workbench" [ref=f122e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f122e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f122e46]:
+              - link " De Anza - ASTR10" [ref=f122e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f122e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f122e49]:
+              - 'link " 4: Stellar Spectra" [ref=f122e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra
+                - generic [ref=f122e51]: 
+                - text: "4: Stellar Spectra"
+              - text: »
+            - listitem [ref=f122e52]:
+              - generic [ref=f122e53]: 
+              - text: "4.7: Accessibility Through Sonification"
+          - button " Expand/collapse global location" [ref=f122e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                 
+    - article [ref=f122e55]:
+      - generic [ref=f122e56]:
+        - generic [ref=f122e57]:
+          - button " Page settings" [ref=f122e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "4.7: Accessibility Through Sonification" [level=1] [ref=f122e59]':
+          - generic [ref=f122e60]: "4.7: Accessibility Through Sonification "
+        - list [ref=f122e62]:
+          - listitem [ref=f122e63]:
+            - link [ref=f122e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f122e66]:
+                - img "CC" [ref=f122e67]
+                - img "BY" [ref=f122e68]
+          - listitem [ref=f122e69]:
+            - generic [ref=f122e70]:
+              - term [ref=f122e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f122e72]: Jul 29, 2026, 12:23 PM by Jyothsna Viswanadha
+          - listitem [ref=f122e73]:
+            - generic [ref=f122e74]:
+              - term [ref=f122e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f122e76]: Private
+          - listitem [ref=f122e77]:
+            - generic [ref=f122e78]:
+              - term [ref=f122e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f122e80]: "119109"
+          - listitem [ref=f122e81]:
+            - list [ref=f122e82]:
+              - listitem [ref=f122e83]:
+                - button "Pin Page" [ref=f122e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f122e85]:
+                - list [ref=f122e86]:
+                  - listitem [ref=f122e87]:
+                    - 'link " 4.6: Stellar Characteristics" [ref=f122e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.06%3A_Stellar_Characteristics
+                      - text: 
+                      - generic [ref=f122e89]: "4.6: Stellar Characteristics"
+                  - listitem [ref=f122e90]:
+                    - 'link "4.8: Key Terms " [ref=f122e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.08%3A_Key_Terms
+                      - generic [ref=f122e92]: "4.8: Key Terms"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f122e93]:
+        - group [ref=f122e232]:
+          - generic [ref=f122e233]:
+            - generic [ref=f122e234]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f122e235]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f122e236]:
+            - generic [ref=f122e239]:
+              - generic [ref=f122e240]:
+                - generic [ref=f122e241]:
+                  - link "Edit" [ref=f122e242]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f122e243]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f122e244]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f122e245]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f122e246]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f122e247]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f122e248]: "Words: 934, Chars: 6122"
+              - group "Editor toolbars" [ref=f122e250]:
+                - toolbar [ref=f122e251]:
+                  - button "Save" [ref=f122e252]:
+                    - generic [ref=f122e253]: 
+                  - button "Cancel" [ref=f122e255]:
+                    - generic [ref=f122e256]: 
+                - toolbar [ref=f122e259]:
+                  - button "Undo" [disabled] [ref=f122e260]:
+                    - generic [ref=f122e261]: 
+                  - button "Redo" [disabled] [ref=f122e262]:
+                    - generic [ref=f122e263]: 
+                - toolbar [ref=f122e265]:
+                  - button "Headings" [ref=f122e266]
+                - toolbar [ref=f122e271]:
+                  - button "Bold" [ref=f122e272]:
+                    - generic [ref=f122e273]: 
+                  - button "Italic" [ref=f122e274]:
+                    - generic [ref=f122e275]: 
+                  - button "Underline" [ref=f122e276]:
+                    - generic [ref=f122e277]: 
+                - toolbar [ref=f122e279]:
+                  - button "Text color" [ref=f122e280]:
+                    - generic [ref=f122e281]: 
+                  - button "Background color" [ref=f122e283]:
+                    - generic [ref=f122e284]: 
+                - toolbar [ref=f122e287]:
+                  - button "Remove format" [ref=f122e288]:
+                    - generic [ref=f122e289]: 
+                - toolbar [ref=f122e291]:
+                  - button "Insert/Remove numbered list" [ref=f122e292]:
+                    - generic [ref=f122e293]: 
+                  - button "Insert/Remove bulleted list" [ref=f122e294]:
+                    - generic [ref=f122e295]: 
+                - toolbar [ref=f122e297]:
+                  - button "Alignment" [ref=f122e298]:
+                    - generic [ref=f122e299]: 
+                - text: 
+                - toolbar [ref=f122e302]:
+                  - button "Link" [ref=f122e303]:
+                    - generic [ref=f122e304]: 
+                  - button "Image" [ref=f122e305]:
+                    - generic [ref=f122e306]: 
+                  - text: 
+                  - button "Boxes" [ref=f122e307]
+                - toolbar [ref=f122e312]:
+                  - button "Replace" [ref=f122e313]:
+                    - generic [ref=f122e314]: 
+                - toolbar [ref=f122e316]:
+                  - button "Enable Binder" [ref=f122e317]
+                  - button "Insert Adapt" [ref=f122e319]
+                  - button "Query" [ref=f122e321]
+                  - button "Accessibility Checker" [ref=f122e324]
+                - toolbar [ref=f122e327]:
+                  - button "HTML" [ref=f122e328]:
+                    - generic [ref=f122e329]: 
+            - application "Rich Text Editor, editarea" [ref=f122e331]:
+              - iframe [active] [ref=f122e332]:
+                - generic [active] [ref=f124e1]:
+                  - heading "What is Sonification?" [level=2] [ref=f124e2]
+                  - paragraph [ref=f124e3]: Throughout this chapter we've focused on the visible aspects of spectra and their appearance using our eyes. Another important and rapidly emerging branch of astronomical research is through the use of sound, or Sonification. We can think of this research as "hearing" data collected from space.
+                  - paragraph [ref=f124e4]:
+                    - text: Before getting into the details, it's helpful to see/hear a few examples of Sonification. NASA has created a full repository of Sonifications, using data from James Webb and Hubble Space Telescopes, as well as Spitzer and Chandra X-ray observatories on a number of astronomical objects. You can view NASA's main
+                    - link "Sonifications Webpage" [ref=f124e5]:
+                      - /url: https://science.nasa.gov/mission/hubble/multimedia/sonifications/
+                    - text: to view some examples.
+                  - paragraph [ref=f124e6]: The linked YouTube video below is a composite image/sound from the center of the Milky Way galaxy. The data includes x-ray, optical, and infrared light both visually and using sound.
+                  - generic [ref=f124e7]:
+                    - heading "Sounds from Around the Milky Way" [level=2] [ref=f124e8]
+                    - paragraph [ref=f124e10]:
+                      - strong [ref=f124e11]: Video Length
+                      - text: ": 1 minute 4 seconds"
+                    - paragraph [ref=f124e12]:
+                      - strong [ref=f124e13]: Context
+                      - text: ": This video allows users to \"listen\" to the center of the Milky Way as observed in X-ray, optical, and infrared light."
+                    - region "Video widget" [ref=f124e14]:
+                      - iframe [ref=f124e17]:
+                        - generic [ref=f125e1]:
+                          - generic "YouTube Video Player" [ref=f125e3]
+                          - generic [ref=f125e5]:
+                            - generic:
+                              - generic:
+                                - generic [ref=f125e6] [cursor=pointer]
+                                - button "Play video" [ref=f125e10] [cursor=pointer]
+                                - button "Hide player controls" [ref=f125e12] [cursor=pointer]
+                                - generic [ref=f125e14]:
+                                  - generic [ref=f125e19]:
+                                    - generic [ref=f125e20]:
+                                      - link "Sounds from Around the Milky Way" [ref=f125e21] [cursor=pointer]:
+                                        - /url: https://www.youtube.com/watch?v=3N9RnmwIWbA
+                                      - link "NASA's Marshall Space Flight Center" [ref=f125e22] [cursor=pointer]:
+                                        - /url: /channel/UCYKfAzPEXMQsGtNfBCNa_BA
+                                    - generic [ref=f125e24]:
+                                      - button [ref=f125e25] [cursor=pointer]
+                                      - generic [ref=f125e27]:
+                                        - generic: NASA's Marshall Space Flight Center
+                                        - generic: 160K subscribers
+                                  - generic [ref=f125e28]:
+                                    - button "Copy link" [ref=f125e31] [cursor=pointer]
+                                    - link "Watch on YouTube" [ref=f125e42] [cursor=pointer]:
+                                      - /url: https://www.youtube.com/watch?v=3N9RnmwIWbA
+                                      - generic [ref=f125e43]: Watch on
+                    - paragraph [ref=f124e19]:
+                      - text: (
+                      - link "\"Sounds from Around the Milky Way" [ref=f124e20]:
+                        - /url: https://youtu.be/3N9RnmwIWbA
+                      - text: ",\""
+                      - link "NASA JPL Education" [ref=f124e21]:
+                        - /url: https://www.jpl.nasa.gov/edu/
+                      - text: ","
+                      - link "CC BY 4.0" [ref=f124e22]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ","
+                      - link "Youtube" [ref=f124e23]:
+                        - /url: https://www.youtube.com
+                      - text: )
+                  - paragraph [ref=f124e24]: Using visual data alone, we normally analyze data from images by peaks on a graph. In other words, a bright spot on an image is represented by a sharp peak on the graph. The NASA sonifications we see above also provide an audio representation of this data by "reading" the image from left to right. As the video plays, we see the peaks of the graph change as bright or dim objects pass by, matched by the audible sounds being played.
+                  - paragraph [ref=f124e25]: Sonification takes a visual signal and translates it into corresponding frequencies that can be heard by the human ear. To be clear, the sound you hear in the video is NOT one you would actually hear from space. Think of it like the difference between reading a physical book versus listening to an audiobook. An audiobook contains the same information as the printed words, but has been translated into sounds so that we no longer need to rely on our eyes to read.
+                  - paragraph [ref=f124e26]: To help understand the motivation for using sound instead of light, we turn to the many astronomers that currently perform this research. According to Zanella et al. (2022), there are several limitations of analyzing astronomical data using solely visual methods. In their Nature Astronomy article, the authors state, "datasets are becoming extremely large and complex, often containing many dimensions. This makes it difficult to effectively and comprehensively display the data using standard visualization techniques and it is often required to prioritize and filter the data to only visualize the information that is believed to be relevant."(p. 1241). This complexity can also be observed in the sonification examples from above. Composite images that contain multiple types of electromagnetic waves become nearly impossible to display all of the meaningful data at the same time (consider what it would look like seeing all of the peaks from the video displayed on a single graph. Yikes, that's a lot!).
+                  - paragraph [ref=f124e27]: The authors also point out several benefits to using sound for data analysis, "Sound is inherently multidimensional because it is characterized by various parameters (for example, pitch, volume, tempo, location in a stereo field, timbre). We can also perceive several sounds simultaneously, meaning that we can listen to different sonified streams in parallel and our hearing can focus on one of many audio streams" (p. 1241). Returning to the audiobook analogy, one extra dimension you might consider is how the audiobookreader uses their voice to convey extra dimensions of tone, volume, and pace in their reading to add additional meaning than if you were silently reading the words on the page.
+                  - heading "Sonification and Accessibility" [level=2] [ref=f124e28]
+                  - paragraph [ref=f124e29]: Dr. Wanda Díaz-Merced, pictured below, has played a major role in the advancement of sonification research in Astronomy, calling particular attention to elements of accessibility and access to Astronomy data for the visually impaired. She began her journey into sonification during college, having lost her sight, but still maintained her desire to pursue astronomy as a career. Since then, her work has been a major source of advancement in analyzing large data sets in the form of auditory sound.
+                  - 'figure "Figure \\(\\PageIndex{1}\\): Wanda Díaz-Merced. Wanda Díaz-Merced at the inauguration of the the Inspiring Stars exhibition at the IAU General Assembly in Vienna, Austria. (\"Wanda Díaz-Merced\", IAU/M. Zamani, IAU identifier KH9A1942-180822-CC. CC BY 4.0, via Wikimedia Commons)." [ref=f124e30]':
+                    - img "Dr. Wanda Diaz-Merced shown smiling and dressed in a business casual style of dress" [ref=f124e31]
+                    - generic [ref=f124e32]:
+                      - text: "Figure \\(\\PageIndex{1}\\):"
+                      - generic [ref=f124e33]: Wanda Díaz-Merced. Wanda Díaz-Merced at the inauguration of the the Inspiring Stars exhibition at the IAU General Assembly in Vienna, Austria
+                      - text: . ("
+                      - link "Wanda Díaz-" [ref=f124e34]:
+                        - /url: https://commons.wikimedia.org/w/index.php?curid=136315090
+                        - generic [ref=f124e35]:
+                          - text: Wanda
+                          - generic [ref=f124e36]: Díaz
+                          - text: "-"
+                      - generic [ref=f124e37]:
+                        - link "Merced" [ref=f124e38]:
+                          - /url: https://commons.wikimedia.org/w/index.php?curid=136315090
+                        - text: "\","
+                      - generic [ref=f124e39]: IAU
+                      - text: /M.
+                      - generic [ref=f124e40]: Zamani
+                      - text: ","
+                      - link "IAU identifier KH9A1942-180822-CC" [ref=f124e41]:
+                        - /url: https://www.iau.org/public_press/images/detail/KH9A1942-180822-CC
+                        - generic [ref=f124e42]: IAU
+                        - text: identifier
+                        - generic [ref=f124e43]: KH9A1942
+                        - text: "-180822-CC"
+                      - text: .
+                      - link "CC BY 4.0" [ref=f124e44]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ", via"
+                      - link "Wikimedia Commons" [ref=f124e45]:
+                        - /url: https://commons.wikimedia.org/wiki/Main_Page
+                        - generic [ref=f124e46]: Wikimedia
+                        - text: Commons
+                      - text: ).
+                  - paragraph [ref=f124e47]:
+                    - text: Throughout her career, Dr. Díaz-Merced has collaborated with other astronomers on numerous applications of sonification in astronomy, particularly with accessibility in mind. Some of her most notable research has involved the development of advanced sonification software, making the process easier and more useful for modern research applications (Díaz-Merced et al., 2011). In one application, her team analyzed data from the Chandra X-Ray telescope, identifying frequencies of a
+                    - link "cataclysmic variable star" [ref=f124e48]:
+                      - /url: https://en.wikipedia.org/wiki/Cataclysmic_variable_star
+                    - text: . (Change to link in textbook when ready) She has also studied solar phenomena such as major solar flares, coronal mass ejections (CMEs), and solar wind plasma using this technique. In short, all of this work has significantly advanced the field of sonification and the software required to utilize this technique.
+                  - generic [ref=f124e49]:
+                    - 'heading "Futher Exploration: Interactive Activity" [level=5] [ref=f124e50]'
+                    - list [ref=f124e52]:
+                      - listitem [ref=f124e53]:
+                        - text: Watch the TED Talk
+                        - link "How a Blind Astronomer Found a Way to Hear the Stars" [ref=f124e54]:
+                          - /url: https://www.ted.com/talks/wanda_diaz_merced_how_a_blind_astronomer_found_a_way_to_hear_the_stars?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare
+                        - text: to learn how Dr. Wanda Díaz-Merced uses sonification to analyze astronomical data and advance accessibility in astronomy research.
+                  - heading "References" [level=2] [ref=f124e55]
+                  - paragraph [ref=f124e56]:
+                    - text: Diaz-Merced, W. L., Candey, R. M., Brickhouse, N., Schneps, M., Mannone, J. C., Brewster, S., & Kolenberg, K. (2011). Sonification of Astronomical Data. Proceedings of the International Astronomical Union, 7(S285), 133–136.
+                    - link "https://doi.org/10.1017/S1743921312000440" [ref=f124e57]:
+                      - /url: https://doi.org/10.1017/S1743921312000440
+                  - paragraph [ref=f124e58]:
+                    - text: Zanella, A., Harrison, C. M., Lenzi, S., Cooke, J., Damsma, P., & Fleming, S. W. (2022). Sonification and sound design for astronomy research, education and public engagement. Nature Astronomy, 6(11), 1241-1248.
+                    - link "https://doi.org/10.1038/s41550-022-01721-z" [ref=f124e59]:
+                      - /url: https://doi.org/10.1038/s41550-022-01721-z
+              - generic [ref=f122e333]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f122e335] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f122e95]:
+          - separator [ref=f122e96]
+          - paragraph [ref=f122e98]:
+            - 'link "4.7: Accessibility Through Sonification" [ref=f122e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.07%3A_Accessibility_Through_Sonification
+            - text: is shared under a
+            - link "CC BY" [ref=f122e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f122e101]:
+        - list [ref=f122e102]:
+          - listitem [ref=f122e103]:
+            - link "Back to top" [ref=f122e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f122e105]:
+            - list [ref=f122e106]:
+              - listitem [ref=f122e107]:
+                - 'link " 4.6: Stellar Characteristics" [ref=f122e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.06%3A_Stellar_Characteristics
+                  - text: 
+                  - generic [ref=f122e109]: "4.6: Stellar Characteristics"
+              - listitem [ref=f122e110]:
+                - 'link "4.8: Key Terms " [ref=f122e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.08%3A_Key_Terms
+                  - generic [ref=f122e112]: "4.8: Key Terms"
+                  - text: 
+        - list [ref=f122e115]:
+          - listitem [ref=f122e116]: Was this article helpful?
+          - listitem [ref=f122e117]:
+            - button "Yes" [ref=f122e118] [cursor=pointer]
+          - listitem [ref=f122e119]:
+            - button "No" [ref=f122e120] [cursor=pointer]
+          - listitem [ref=f122e121]:
+            - button "Leave feedback" [ref=f122e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f122e123]:
+          - heading "Attachments" [level=2] [ref=f122e124]
+          - generic:
+            - button "Attach a file" [ref=f122e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f122e127]:
+            - generic [ref=f122e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f122e131]
+            - generic [ref=f122e132]:
+              - grid [ref=f122e135]:
+                - rowgroup [ref=f122e136]:
+                  - row [ref=f122e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f122e138]':
+                      - generic:
+                        - generic [ref=f122e139]: File
+                        - generic [ref=f122e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f122e141]':
+                      - generic:
+                        - generic [ref=f122e142]: Last modified
+                        - generic [ref=f122e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f122e144]':
+                      - generic:
+                        - generic [ref=f122e145]: Size
+                        - generic [ref=f122e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f122e147]':
+                      - generic:
+                        - generic [ref=f122e148]: Added by
+                        - generic [ref=f122e149]: 
+              - grid [ref=f122e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f122e152]: File
+                          - generic [ref=f122e153]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f122e154]: Last modified
+                          - generic [ref=f122e155]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f122e156]: Size
+                          - generic [ref=f122e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f122e158]: Added by
+                          - generic [ref=f122e159]: 
+                - rowgroup [ref=f122e160]:
+                  - row [ref=f122e161]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f122e162]:
+                      - generic [ref=f122e163]:
+                        - generic [ref=f122e164]:
+                          - generic [ref=f122e165]: 
+                          - link "mindtouch.page#thumbnail" [ref=f122e166] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/60400/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f122e167]:
+                          - generic [ref=f122e168]: (no description)
+                          - text: 
+                    - gridcell "Aug 4, 2025, 10:47 AM" [ref=f122e169]
+                    - gridcell "11 KiB" [ref=f122e171]
+                    - gridcell "Caitlin Kepple" [ref=f122e172]
+                  - row [ref=f122e173]:
+                    - gridcell " Wanda_Díaz-Merced_(KH9A1942-180822-CC).jpg (no description)" [ref=f122e174]:
+                      - generic [ref=f122e175]:
+                        - generic [ref=f122e176]:
+                          - generic [ref=f122e177]: 
+                          - link "Wanda_Díaz-Merced_(KH9A1942-180822-CC).jpg" [ref=f122e178] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/61809/Wanda_Di%CC%81az-Merced_(KH9A1942-180822-CC).jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f122e179]:
+                          - generic [ref=f122e180]: (no description)
+                          - text: 
+                    - gridcell "Sep 5, 2025, 1:31 PM" [ref=f122e181]
+                    - gridcell "7.3 MiB" [ref=f122e183]
+                    - gridcell "Caitlin Kepple" [ref=f122e184]
+    - generic [ref=f122e186]:
+      - button "Open support menu" [ref=f122e188] [cursor=pointer]: "?"
+      - navigation [ref=f122e190]:
+        - paragraph [ref=f122e192]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f122e193] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f122e194] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f122e195] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f122e196] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f122e197] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f122e198]:
+      - generic:
+        - generic [ref=f122e200]:
+          - button "Annotation sidebar" [ref=f122e201]
+          - generic [ref=f122e206]:
+            - button "Show highlights" [ref=f122e207]
+            - button "New page note" [ref=f122e212]
+          - status [ref=f122e217]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f122e218]:
+    - button "contents" [ref=f122e219] [cursor=pointer]
+    - button "readability" [ref=f122e221] [cursor=pointer]
+    - button "resources" [ref=f122e223] [cursor=pointer]
+    - button "tools" [ref=f122e225] [cursor=pointer]
+    - button "developers" [ref=f122e227] [cursor=pointer]
+  - text:  
+  - generic [ref=f122e336]:
+    - generic [ref=f122e337] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f122e340] [cursor=pointer]

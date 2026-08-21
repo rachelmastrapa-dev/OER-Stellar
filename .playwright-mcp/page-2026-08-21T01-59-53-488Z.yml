@@ -1,0 +1,238 @@
+- generic [active] [ref=f198e1]:
+  - link "Skip to main content" [ref=f198e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f198e3]:
+    - text: 
+    - generic [ref=f198e4]:
+      - generic [ref=f198e5]:
+        - generic: ✕
+        - navigation [ref=f198e7]:
+          - generic [ref=f198e8]:
+            - link [ref=f198e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f198e11]
+            - button "Enter Reader Mode" [ref=f198e13] [cursor=pointer]:
+              - generic [ref=f198e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f198e16]:
+        - list [ref=f198e18]:
+          - listitem [ref=f198e19]:
+            - link [ref=f198e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f198e22]
+          - listitem [ref=f198e23]:
+            - text: 
+            - generic [ref=f198e25]:
+              - generic [ref=f198e26]: "Search :"
+              - searchbox "Search :" [ref=f198e27]
+              - button " Search" [ref=f198e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f198e29]:
+            - list [ref=f198e30]:
+              - listitem [ref=f198e31]:
+                - link "Edit" [ref=f198e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars?action=edit
+              - text: 
+              - listitem [ref=f198e33]:
+                - link " Options" [ref=f198e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f198e35]:
+                - link " Rachel Mastrapa" [ref=f198e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f198e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f198e38] [cursor=pointer]
+          - list [ref=f198e39]:
+            - listitem [ref=f198e40]:
+              - link " Home" [ref=f198e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f198e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f198e43]:
+              - link " Workbench" [ref=f198e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f198e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f198e46]:
+              - link " De Anza - ASTR10" [ref=f198e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f198e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f198e49]:
+              - generic [ref=f198e50]: 
+              - text: "7: Powering the Stars"
+          - text: 
+      - navigation
+    - article [ref=f198e51]:
+      - generic [ref=f198e52]:
+        - generic [ref=f198e53]:
+          - button " Page settings" [ref=f198e54] [cursor=pointer]
+          - text: ": :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "7: Powering the Stars" [level=1] [ref=f198e55]'
+        - list [ref=f198e58]:
+          - listitem [ref=f198e59]:
+            - link [ref=f198e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f198e62]:
+                - img "CC" [ref=f198e63]
+                - img "BY" [ref=f198e64]
+          - listitem [ref=f198e65]:
+            - generic [ref=f198e66]:
+              - term [ref=f198e67]: "Last updated:"
+              - definition [ref=f198e68]: Jul 21, 2025, 9:12 AM by Caitlin Kepple
+          - listitem [ref=f198e69]:
+            - generic [ref=f198e70]:
+              - term [ref=f198e71]: "Page restriction:"
+              - definition [ref=f198e72]: Private
+          - listitem [ref=f198e73]:
+            - generic [ref=f198e74]:
+              - term [ref=f198e75]: "Page ID:"
+              - definition [ref=f198e76]: "115281"
+          - listitem [ref=f198e77]:
+            - list [ref=f198e78]:
+              - listitem [ref=f198e79]:
+                - button "Pin Page" [ref=f198e80] [cursor=pointer]: 
+              - listitem [ref=f198e81]:
+                - generic [ref=f198e82]:
+                  - link " Page notifications Off" [ref=f198e84] [cursor=pointer]:
+                    - /url: "#"
+                  - text: 
+              - text: 
+              - listitem [ref=f198e85]:
+                - list [ref=f198e86]:
+                  - listitem [ref=f198e87]:
+                    - 'link " 6.7: Accessible Descriptions" [ref=f198e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.07%3A_Accessible_Descriptions
+                      - text: 
+                      - generic [ref=f198e89]: "6.7: Accessible Descriptions"
+                  - listitem [ref=f198e90]:
+                    - 'link "7.1: Thermal and Gravitational Energy " [ref=f198e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.01%3A_Thermal_and_Gravitational_Energy
+                      - generic [ref=f198e92]: "7.1: Thermal and Gravitational Energy"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f198e93]:
+        - generic [ref=f198e94]:
+          - paragraph
+          - list [ref=f198e97]:
+            - listitem [ref=f198e98]:
+              - generic [ref=f198e99]:
+                - term [ref=f198e100]:
+                  - 'link " 7.1: Thermal and Gravitational Energy" [ref=f198e101] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.01%3A_Thermal_and_Gravitational_Energy
+                    - generic [ref=f198e102]: 
+                    - text: "7.1: Thermal and Gravitational Energy"
+                - definition
+            - listitem [ref=f198e103]:
+              - generic [ref=f198e104]:
+                - term [ref=f198e105]:
+                  - 'link " 7.2: Mass, Energy, and the Theory of Relativity" [ref=f198e106] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.02%3A_Mass_Energy_and_the_Theory_of_Relativity
+                    - generic [ref=f198e107]: 
+                    - text: "7.2: Mass, Energy, and the Theory of Relativity"
+                - definition
+            - listitem [ref=f198e108]:
+              - generic [ref=f198e109]:
+                - term [ref=f198e110]:
+                  - 'link " 7.3: The Solar Interior" [ref=f198e111] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.03%3A_The_Solar_Interior
+                    - generic [ref=f198e112]: 
+                    - text: "7.3: The Solar Interior"
+                - definition
+            - listitem [ref=f198e113]:
+              - generic [ref=f198e114]:
+                - term [ref=f198e115]:
+                  - 'link " 7.4: Story of the Solar Neutrino Problem" [ref=f198e116] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.04%3A_Story_of_the_Solar_Neutrino_Problem
+                    - generic [ref=f198e117]: 
+                    - text: "7.4: Story of the Solar Neutrino Problem"
+                - definition
+            - listitem [ref=f198e118]:
+              - generic [ref=f198e119]:
+                - term [ref=f198e120]:
+                  - 'link " 7.5: Key Terms" [ref=f198e121] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.05%3A_Key_Terms
+                    - generic [ref=f198e122]: 
+                    - text: "7.5: Key Terms"
+                - definition
+            - listitem [ref=f198e123]:
+              - generic [ref=f198e124]:
+                - term [ref=f198e125]:
+                  - 'link " 7.6: Accessible Descriptions" [ref=f198e126] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.06%3A_Accessible_Descriptions
+                    - generic [ref=f198e127]: 
+                    - text: "7.6: Accessible Descriptions"
+                - definition
+          - paragraph
+        - generic [ref=f198e128]:
+          - separator [ref=f198e129]
+          - paragraph [ref=f198e131]:
+            - 'link "7: Powering the Stars" [ref=f198e132] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars
+            - text: is shared under a
+            - link "CC BY" [ref=f198e133] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f198e134]:
+        - list [ref=f198e135]:
+          - listitem: 
+          - listitem [ref=f198e136]:
+            - list [ref=f198e137]:
+              - listitem [ref=f198e138]:
+                - 'link " 6.7: Accessible Descriptions" [ref=f198e139] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.07%3A_Accessible_Descriptions
+                  - text: 
+                  - generic [ref=f198e140]: "6.7: Accessible Descriptions"
+              - listitem [ref=f198e141]:
+                - 'link "7.1: Thermal and Gravitational Energy " [ref=f198e142] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.01%3A_Thermal_and_Gravitational_Energy
+                  - generic [ref=f198e143]: "7.1: Thermal and Gravitational Energy"
+                  - text: 
+        - generic:   
+        - text: "     : : : :         "
+    - generic [ref=f198e145]:
+      - button "Open support menu" [ref=f198e147] [cursor=pointer]: "?"
+      - navigation [ref=f198e149]:
+        - paragraph [ref=f198e151]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f198e152] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f198e153] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f198e154] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f198e155] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f198e156] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f198e157]:
+      - generic:
+        - generic [ref=f198e159]:
+          - button "Annotation sidebar" [ref=f198e160]
+          - generic [ref=f198e165]:
+            - button "Show highlights" [ref=f198e166]
+            - button "New page note" [ref=f198e171]
+          - status [ref=f198e176]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f198e177]:
+    - button "contents" [ref=f198e178] [cursor=pointer]
+    - button "readability" [ref=f198e180] [cursor=pointer]
+    - button "resources" [ref=f198e182] [cursor=pointer]
+    - button "tools" [ref=f198e184] [cursor=pointer]
+    - button "developers" [ref=f198e186] [cursor=pointer]

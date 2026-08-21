@@ -1,0 +1,272 @@
+- generic [active] [ref=f297e1]:
+  - link "Skip to main content" [ref=f297e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f297e3]:
+    - text: 
+    - generic [ref=f297e4]:
+      - generic [ref=f297e5]:
+        - generic: ✕
+        - navigation [ref=f297e7]:
+          - generic [ref=f297e8]:
+            - link [ref=f297e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f297e11]
+            - button "Enter Reader Mode" [ref=f297e13] [cursor=pointer]:
+              - generic [ref=f297e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f297e16]:
+        - list [ref=f297e18]:
+          - listitem [ref=f297e19]:
+            - link [ref=f297e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f297e22]
+          - listitem [ref=f297e23]:
+            - text: 
+            - generic [ref=f297e25]:
+              - generic [ref=f297e26]: "Search :"
+              - searchbox "Search :" [ref=f297e27]
+              - button " Search" [ref=f297e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f297e29]:
+            - list [ref=f297e30]:
+              - listitem [ref=f297e31]:
+                - link "Edit" [ref=f297e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media?action=edit
+              - text: 
+              - listitem [ref=f297e33]:
+                - link " Options" [ref=f297e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f297e35]:
+                - link " Rachel Mastrapa" [ref=f297e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f297e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f297e38] [cursor=pointer]
+          - list [ref=f297e39]:
+            - listitem [ref=f297e40]:
+              - link " Home" [ref=f297e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f297e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f297e43]:
+              - link " Workbench" [ref=f297e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f297e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f297e46]:
+              - link " De Anza - ASTR10" [ref=f297e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f297e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f297e49]:
+              - generic [ref=f297e50]: 
+              - text: "10: Interstellar Media"
+          - text: 
+      - navigation
+    - article [ref=f297e51]:
+      - generic [ref=f297e52]:
+        - generic [ref=f297e53]:
+          - button " Page settings" [ref=f297e54] [cursor=pointer]
+          - text: ": :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "10: Interstellar Media" [level=1] [ref=f297e55]'
+        - list [ref=f297e58]:
+          - listitem [ref=f297e59]:
+            - link [ref=f297e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f297e62]:
+                - img "CC" [ref=f297e63]
+                - img "BY" [ref=f297e64]
+          - listitem [ref=f297e65]:
+            - generic [ref=f297e66]:
+              - term [ref=f297e67]: "Last updated:"
+              - definition [ref=f297e68]: Dec 28, 2025, 8:31 PM by Rachel Mastrapa
+          - listitem [ref=f297e69]:
+            - generic [ref=f297e70]:
+              - term [ref=f297e71]: "Page restriction:"
+              - definition [ref=f297e72]: Private
+          - listitem [ref=f297e73]:
+            - generic [ref=f297e74]:
+              - term [ref=f297e75]: "Page ID:"
+              - definition [ref=f297e76]: "115284"
+          - listitem [ref=f297e77]:
+            - list [ref=f297e78]:
+              - listitem [ref=f297e79]:
+                - button "Pin Page" [ref=f297e80] [cursor=pointer]: 
+              - listitem [ref=f297e81]:
+                - generic [ref=f297e82]:
+                  - link " Page notifications Off" [ref=f297e84] [cursor=pointer]:
+                    - /url: "#"
+                  - text: 
+              - text: 
+              - listitem [ref=f297e85]:
+                - list [ref=f297e86]:
+                  - listitem [ref=f297e87]:
+                    - 'link " 9.8: Accessible Descriptions" [ref=f297e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.08%3A_Accessible_Descriptions
+                      - text: 
+                      - generic [ref=f297e89]: "9.8: Accessible Descriptions"
+                  - listitem [ref=f297e90]:
+                    - 'link "10.1: The Interstellar Medium " [ref=f297e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.01%3A_The_Interstellar_Medium
+                      - generic [ref=f297e92]: "10.1: The Interstellar Medium"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f297e93]:
+        - generic [ref=f297e94]:
+          - generic [ref=f297e96]:
+            - heading " Learning Objectives" [level=5] [ref=f297e97]
+            - list [ref=f297e99]:
+              - listitem [ref=f297e100]: Explain how much interstellar matter there is in the Milky Way, and what its typical density is
+              - listitem [ref=f297e101]: Describe how the interstellar medium is divided into gaseous and solid components
+              - listitem [ref=f297e102]: Name the major types of interstellar gas
+              - listitem [ref=f297e103]: Discuss how we can observe each type
+              - listitem [ref=f297e104]: Describe the temperature and other major properties of each type
+              - listitem [ref=f297e105]: Describe how we can detect interstellar dust
+              - listitem [ref=f297e106]: Understand the role and importance of infrared observations in studying dust
+              - listitem [ref=f297e107]: Explain the terms extinction and interstellar reddening
+              - listitem [ref=f297e108]: Define cosmic rays and describe their composition
+              - listitem [ref=f297e109]: Explain why it is hard to study the origin of cosmic rays, and the current leading hypotheses about where they might come from
+              - listitem [ref=f297e110]: Explain how interstellar matter flows into and out of our Galaxy and transforms from one phase to another, and understand how star formation and evolution affects the properties of the interstellar medium
+              - listitem [ref=f297e111]: Explain how the heavy elements and dust grains found in interstellar space got there and describe how dust grains help produce molecules that eventually find their way into planetary systems
+              - listitem [ref=f297e112]: Describe how interstellar matter is arranged around our solar system
+              - listitem [ref=f297e113]: Explain why scientists think that the Sun is located in a hot bubble
+          - paragraph
+          - list [ref=f297e116]:
+            - listitem [ref=f297e117]:
+              - generic [ref=f297e118]:
+                - term [ref=f297e119]:
+                  - 'link " 10.1: The Interstellar Medium" [ref=f297e120] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.01%3A_The_Interstellar_Medium
+                    - generic [ref=f297e121]: 
+                    - text: "10.1: The Interstellar Medium"
+                - definition [ref=f297e122]: About 15% of the visible matter in the Galaxy is in the form of gas and dust, serving as the raw material for new stars. About 99% of this interstellar matter is in the form of gas—individual atoms or molecules. The most abundant elements in the interstellar gas are hydrogen and helium. About 1% of the interstellar matter is in the form of solid interstellar dust grains.
+            - listitem [ref=f297e123]:
+              - generic [ref=f297e124]:
+                - term [ref=f297e125]:
+                  - 'link " 10.2: Interstellar Gas and Dust" [ref=f297e126] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.02%3A_Interstellar_Gas_and_Dust
+                    - generic [ref=f297e127]: 
+                    - text: "10.2: Interstellar Gas and Dust"
+                - definition [ref=f297e128]: Interstellar gas may be hot or cold. Gas found near hot stars emits light by fluorescence, that is, light is emitted when an electron is captured by an ion and cascades down to lower-energy levels. Most hydrogen in interstellar space is not ionized and can best be studied by radio measurements of the 21-centimeter line. Some of the gas in interstellar space is at a temperature of a million degrees, even though it is far away in hot stars.
+            - listitem [ref=f297e129]:
+              - generic [ref=f297e130]:
+                - term [ref=f297e131]:
+                  - 'link " 10.3: Cosmic Materials" [ref=f297e132] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.03%3A_Cosmic_Materials
+                    - generic [ref=f297e133]: 
+                    - text: "10.3: Cosmic Materials"
+                - definition [ref=f297e134]: Cosmic rays are particles that travel through interstellar space at a typical speed of 90% of the speed of light. The most abundant elements in cosmic rays are the nuclei of hydrogen and helium, but electrons and positrons are also found. It is likely that many cosmic rays are produced in supernova shocks.
+            - listitem [ref=f297e135]:
+              - generic [ref=f297e136]:
+                - term [ref=f297e137]:
+                  - 'link " 10.4: Delete" [ref=f297e138] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.04%3A_Delete
+                    - generic [ref=f297e139]: 
+                    - text: "10.4: Delete"
+                - definition [ref=f297e140]: Interstellar matter is constantly flowing through the Galaxy and changing from one phase to another. At the same time, gas is constantly being added to the Galaxy by accretion from extragalactic space, while mass is removed from the interstellar medium by being locked in stars. Some of the mass in stars is, in turn, returned to the interstellar medium when those stars evolve and die.
+            - listitem [ref=f297e141]:
+              - generic [ref=f297e142]:
+                - term [ref=f297e143]:
+                  - 'link " 10.5: Interstellar Matter around the Sun" [ref=f297e144] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.05%3A_Interstellar_Matter_around_the_Sun
+                    - generic [ref=f297e145]: 
+                    - text: "10.5: Interstellar Matter around the Sun"
+                - definition [ref=f297e146]: The Sun is located at the edge of a low-density cloud called the Local Fluff. The Sun and this cloud are located within the Local Bubble, a region extending to at least 300 light-years from the Sun, within which the density of interstellar material is extremely low. Astronomers think this bubble was blown by some nearby stars that experienced a strong wind and some supernova explosions.
+            - listitem [ref=f297e147]:
+              - generic [ref=f297e148]:
+                - term [ref=f297e149]:
+                  - 'link " 10.6: Science and Society" [ref=f297e150] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.06%3A_Science_and_Society
+                    - generic [ref=f297e151]: 
+                    - text: "10.6: Science and Society"
+                - definition
+            - listitem [ref=f297e152]:
+              - generic [ref=f297e153]:
+                - term [ref=f297e154]:
+                  - 'link " 10.7: Key Terms" [ref=f297e155] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.07%3A_Key_Terms
+                    - generic [ref=f297e156]: 
+                    - text: "10.7: Key Terms"
+                - definition
+            - listitem [ref=f297e157]:
+              - generic [ref=f297e158]:
+                - term [ref=f297e159]:
+                  - 'link " 10.8: Accessible Descriptions" [ref=f297e160] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.08%3A_Accessible_Descriptions
+                    - generic [ref=f297e161]: 
+                    - text: "10.8: Accessible Descriptions"
+                - definition
+          - paragraph
+          - paragraph [ref=f297e162]: Thumbnail
+        - generic [ref=f297e163]:
+          - separator [ref=f297e164]
+          - paragraph [ref=f297e166]:
+            - 'link "10: Interstellar Media" [ref=f297e167] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media
+            - text: is shared under a
+            - link "CC BY" [ref=f297e168] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f297e169]:
+        - list [ref=f297e170]:
+          - listitem: 
+          - listitem [ref=f297e171]:
+            - list [ref=f297e172]:
+              - listitem [ref=f297e173]:
+                - 'link " 9.8: Accessible Descriptions" [ref=f297e174] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.08%3A_Accessible_Descriptions
+                  - text: 
+                  - generic [ref=f297e175]: "9.8: Accessible Descriptions"
+              - listitem [ref=f297e176]:
+                - 'link "10.1: The Interstellar Medium " [ref=f297e177] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.01%3A_The_Interstellar_Medium
+                  - generic [ref=f297e178]: "10.1: The Interstellar Medium"
+                  - text: 
+        - generic:   
+        - text: "     : : : :         "
+    - generic [ref=f297e180]:
+      - button "Open support menu" [ref=f297e182] [cursor=pointer]: "?"
+      - navigation [ref=f297e184]:
+        - paragraph [ref=f297e186]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f297e187] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f297e188] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f297e189] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f297e190] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f297e191] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f297e192]:
+      - generic:
+        - generic [ref=f297e194]:
+          - button "Annotation sidebar" [ref=f297e195]
+          - generic [ref=f297e200]:
+            - button "Show highlights" [ref=f297e201]
+            - button "New page note" [ref=f297e206]
+          - status [ref=f297e211]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f297e212]:
+    - button "contents" [ref=f297e213] [cursor=pointer]
+    - button "readability" [ref=f297e215] [cursor=pointer]
+    - button "resources" [ref=f297e217] [cursor=pointer]
+    - button "tools" [ref=f297e219] [cursor=pointer]
+    - button "developers" [ref=f297e221] [cursor=pointer]

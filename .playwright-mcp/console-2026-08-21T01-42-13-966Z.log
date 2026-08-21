@@ -1,0 +1,6 @@
+[    1198ms] [LOG] CKEditor Query Plugin Release: 1.1.2 - Date: 2023-01-06 @ https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js:0
+[    1198ms] [LOG] CKEditor LibreFormat Plugin @ https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js:0
+[    1199ms] [LOG] CKEditor LibreBoxes Plugin @ https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js:0
+[    1199ms] [LOG] CKEditor LibreQuery Plugin @ https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js:0
+[    1440ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://stats.g.doubleclick.net/g/collect?v=2&tid=G-YNNYBFB9RM&cid=1904619504.1787269352&gtm=45je68j1h2v9125907141za20g&rcb=0&aip=1&dma=0&gcd=13l3l3l3l2l1&npa=0&frm=0&tag_exp=115616986~115938465~115938469~118897920~118897930~119367802~119367810~120315470~120385422:0
+[    2819ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://commons.libretexts.org/api/v1/commons/book/phys-108155:0

@@ -1,0 +1,323 @@
+- generic [ref=f343e1]:
+  - link "Skip to main content" [ref=f343e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f343e3]:
+    - text: 
+    - generic [ref=f343e4]:
+      - generic [ref=f343e5]:
+        - generic: ✕
+        - navigation [ref=f343e7]:
+          - generic [ref=f343e8]:
+            - link [ref=f343e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f343e11]
+            - button "Enter Reader Mode" [ref=f343e13] [cursor=pointer]:
+              - generic [ref=f343e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f343e16]:
+        - list [ref=f343e18]:
+          - listitem [ref=f343e19]:
+            - link [ref=f343e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f343e22]
+          - listitem [ref=f343e23]:
+            - text: 
+            - generic [ref=f343e25]:
+              - generic [ref=f343e26]: "Search :"
+              - searchbox "Search :" [ref=f343e27]
+              - button " Search" [ref=f343e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f343e29]:
+            - list [ref=f343e30]:
+              - listitem [ref=f343e31]:
+                - link "Edit" [ref=f343e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.03%3A_Evidence_of_Exoplanets?action=edit
+              - text: 
+              - listitem [ref=f343e33]:
+                - link " Options" [ref=f343e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f343e35]:
+                - link " Rachel Mastrapa" [ref=f343e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f343e37]:
+        - generic:
+          - button " Contents" [ref=f343e218] [cursor=pointer]
+          - list [ref=f343e39]:
+            - listitem [ref=f343e40]:
+              - link " Home" [ref=f343e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f343e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f343e43]:
+              - link " Workbench" [ref=f343e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f343e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f343e46]:
+              - link " De Anza - ASTR10" [ref=f343e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f343e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f343e49]:
+              - 'link " 11: Star Formation" [ref=f343e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation
+                - generic [ref=f343e51]: 
+                - text: "11: Star Formation"
+              - text: »
+            - listitem [ref=f343e52]:
+              - generic [ref=f343e53]: 
+              - text: "11.3: Evidence of Exoplanets"
+          - button " Expand/collapse global location" [ref=f343e54] [cursor=pointer]
+      - navigation:
+        - generic:                                              
+    - article [ref=f343e55]:
+      - generic [ref=f343e56]:
+        - generic [ref=f343e57]:
+          - button " Page settings" [ref=f343e58] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :     "
+        - 'heading "11.3: Evidence of Exoplanets" [level=1] [ref=f343e59]':
+          - generic [ref=f343e219]: "11.3: Evidence of Exoplanets "
+        - list [ref=f343e62]:
+          - listitem [ref=f343e63]:
+            - link [ref=f343e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f343e66]:
+                - img "CC" [ref=f343e67]
+                - img "BY" [ref=f343e68]
+          - listitem [ref=f343e69]:
+            - generic [ref=f343e70]:
+              - term [ref=f343e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f343e72]: Aug 5, 2026, 3:36 PM by Rachel Mastrapa
+          - listitem [ref=f343e73]:
+            - generic [ref=f343e74]:
+              - term [ref=f343e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f343e76]: Private
+          - listitem [ref=f343e77]:
+            - generic [ref=f343e78]:
+              - term [ref=f343e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f343e80]: "133436"
+          - listitem [ref=f343e81]:
+            - list [ref=f343e82]:
+              - listitem [ref=f343e83]:
+                - button "Pin Page" [ref=f343e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f343e85]:
+                - list [ref=f343e86]:
+                  - listitem [ref=f343e87]:
+                    - 'link " 11.2: The H-R and Star Formation" [ref=f343e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.02%3A_The_H-R_and_Star_Formation
+                      - text: 
+                      - generic [ref=f343e89]: "11.2: The H-R and Star Formation"
+                  - listitem [ref=f343e90]:
+                    - 'link "11.4: Naming the Stars " [ref=f343e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.04%3A_Naming_the_Stars
+                      - generic [ref=f343e92]: "11.4: Naming the Stars"
+                      - text: 
+              - text:  
+      - list [ref=f343e95]:
+        - listitem [ref=f343e96]:
+          - img "OpenStax" [ref=f343e97]
+        - listitem [ref=f343e98]:
+          - link "OpenStax" [ref=f343e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f343e100]:
+          - link "OpenStax" [ref=f343e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f343e102]:
+        - group [ref=f343e223]:
+          - generic [ref=f343e224]:
+            - generic [ref=f343e225]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f343e226]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f343e227]:
+            - generic [ref=f343e230]:
+              - generic [ref=f343e232]:
+                - link "Edit" [ref=f343e233]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f343e234]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f343e235]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f343e236]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f343e237]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f343e238]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f343e241]:
+                - toolbar [ref=f343e242]:
+                  - button "Save" [ref=f343e243]:
+                    - generic [ref=f343e244]: 
+                  - button "Cancel" [ref=f343e246]:
+                    - generic [ref=f343e247]: 
+                - text:          
+                - toolbar [ref=f343e288]:
+                  - button "Alignment" [ref=f343e289]:
+                    - generic [ref=f343e290]: 
+                - text:    
+                - toolbar [ref=f343e303]:
+                  - button "Replace" [ref=f343e304]:
+                    - generic [ref=f343e305]: 
+                - toolbar [ref=f343e307]:
+                  - button "Enable Binder" [disabled] [ref=f343e308]
+                  - button "Insert Adapt" [disabled] [ref=f343e310]
+                  - button "Query" [ref=f343e312]
+                  - button "Accessibility Checker" [disabled] [ref=f343e315]
+                - toolbar [ref=f343e318]:
+                  - button "Visual" [pressed] [ref=f343e334]:
+                    - generic [ref=f343e320]: 
+            - application "Rich Text Editor, editarea" [ref=f343e322]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f343e336]: "<h2>Planetary Systems in Formation</h2> <p class=\"lt-phys-64785\">Having developed on a planet and finding it essential to our existence, we have a special interest in how planets fit into the story of star formation. Yet <strong><a href=\"/Workbench/De_Anza_-_ASTR10/11:_Star_Formation/11.05:_Key_Terms#exoplanet\" target=\"_blank\" title=\"exoplanets\">exoplanet</a></strong> are extremely difficult to detect. Recall that we see planets in our own system only because they reflect sunlight and are close by. When we look to the other stars, we find that the amount of light a planet reflects is a tiny fraction of the light its star gives off. Furthermore, from a distance, planets are lost in the glare of their much-brighter parent stars.</p> <p class=\"lt-phys-64785\">It is a lot easier to detect the spread-out raw material from which planets might be assembled than to detect planets after they are fully formed. From our study of the&nbsp;Solar System, we understand that planets form by the gathering together of gas and dust particles in orbit around a newly created star. Each dust particle is heated by the young protostar and radiates in the infrared region of the spectrum. Before any planets form, we can detect such radiation from all of the spread-out individual dust particles that are destined to become parts of planets. We can also detect the silhouette of the disk if it blocks bright light coming from a source behind it. Figure \\(\\PageIndex{1}\\)&nbsp;includes four disks around young stars in the Orion Nebula. The dark, dusty disks are dark against the bright backdrop of the glowing gas in the nebula. The size of each image is about 30 times the diameter of the Solar System. The red glow at the center of each disk is a young star, no more than a million years old.</p> <figure><img alt=\"Four disks around protostars in the Orion Nebula. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/45803/6626b80f949e1ccc651d4e958975400be23d4699\" /> <figcaption>Figure \\(\\PageIndex{1}\\): Planet Forming Disks. These Hubble Space Telescope images show four disks around young stars in the Orion Nebula. The dark, dusty disks are from two to eight times the orbit of Pluto in size. The red glow at the center of each disk is a young star. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY\">CC BY</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>). <a href=\"/Workbench/De_Anza_-_ASTR10/11:_Star_Formation/11.06:_Accessible_Descriptions#Figure_11.3.1_Planet_Forming_Disks\" title=\"11.6: Accessible Descriptions\">Accessible description of Figure \\(\\PageIndex{1}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64785\">Once the dust particles gather together and form a few planets, the space between the planets is mostly dust-free. All we can now detect is the radiation from the outside surfaces of the planets, which cover a significantly smaller area than the huge, dusty disk from which they formed. The amount of infrared radiation is therefore greatest before the dust particles combine into planets. For this reason, our search for planets begins with a search for infrared radiation from the material required to make them.</p> <p class=\"lt-phys-64785\">A disk of gas and dust appears to be an essential part of star formation. Observations show that nearly all very young protostars have disks and that the disks range in size from 10 to 1000 AU. For comparison, the Solar System&nbsp;including&nbsp;the Kuiper&nbsp;Belt, is about 100 AU in diameter.&nbsp;The mass contained in these disks is typically 1–10% of the mass of the Sun, which is more than the mass of all the planets in the Solar System put together. Such observations already demonstrate that a large fraction of stars begin their lives with enough material in the right place to form a planetary system.</p> <h2 class=\"lt-phys-64785\">Planet Formation and Growth</h2> <p class=\"lt-phys-64785\">We can use observations of how the disks change with time to estimate how long it takes for planets to form. If we measure the temperature and luminosity of a protostar, then, as we saw, we can place it on&nbsp;an H–R diagram like the one shown in Figure 11.2.1. By comparing the real star with our models of how protostars should evolve with time, we can estimate its age. We can then look at how the disks we observe change with the ages of the stars that they surround.</p> <p class=\"lt-phys-64785\">What such observations show is that if a protostar is less than about 1 to 3 million years old, its disk extends all the way from very close to the surface of the star out to tens or hundreds of AU away. In older protostars, we find disks with outer parts that still contain large amounts of dust, but the inner regions have lost most of their dust. In these objects, the disk looks like a donut, with the protostar centered in its hole. The inner, dense parts of most disks have disappeared by the time the stars are 10 million years old. In&nbsp;Figure \\(\\PageIndex{2}\\), each star has an image of the observations on the left&nbsp;and a model simulation based on that observation on the right.&nbsp;The central star is much brighter than the surrounding disk, so the instrument includes a coronagraph, which has a small shield that blocks the light of the central star but allows the surrounding disk to be imaged. The star HD 141943 has an age of about 17 million years, while HD 191089 is about 12 million years old.&nbsp;</p> <figure><img alt=\"Protoplanetary Disks of HD 141943 and HD 191089. Details in text.\" class=\"internal default\" src=\"/@api/deki/files/45804/f873ffb4a22da2d1bff07339b68e2ac144045505\" /> <figcaption>Figure \\(\\PageIndex{2}\\):&nbsp;Observations of two stars with models based on the observations. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY\">CC BY</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>).&nbsp;<a href=\"/Workbench/De_Anza_-_ASTR10/11:_Star_Formation/11.06:_Accessible_Descriptions#Figure_11.3.2_Protoplanetary_Disks\" title=\"11.6: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{2}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64785\">Calculations show that the formation of one or more planets could produce such a donut-like distribution of dust. Suppose a planet forms a few AU away from the protostar, due to the gathering together of matter from the disk. As the planet grows in mass, the process clears out a dust-free region in its immediate neighborhood. Calculations also show that any small dust particles and gas that were initially located in the region between the protostar and the planet, and that are not swept up by the planet, will then fall onto the star very quickly in about 50,000 years.</p> <p class=\"lt-phys-64785\">Matter lying outside the planet’s orbit, in contrast, is prevented from moving into the hole by the gravitational forces exerted by the planet. If the formation of a planet is indeed what produces and sustains holes in the disks that surround very young stars, then planets must form in 3 to 30 million years. This is a short period compared with the lifetimes of most stars and shows that the formation of planets may be a quick byproduct of the birth of stars.</p> <p class=\"lt-phys-64785\">Dust-grain-size particles orbiting in the disk collide and stick together, with the larger collections growing more rapidly as they attract and capture smaller ones. Once these clumps grow to about 10 centimeters in size or so, they enter a perilous stage in their development. At that size, unless they can grow to larger than about 100 meters in diameter, they are subject to drag forces produced by friction with the gas in the disk—and their orbits can rapidly decay, plunging them into the host star. Therefore, these bodies must rapidly grow to nearly 1 kilometer in diameter to avoid a fiery fate. Ultimately, this process results in a few large planets.</p> <p class=\"lt-phys-64785\">If the growing planets reach a mass bigger than about 10 times the mass of Earth, their gravity is strong enough to capture and hold on to hydrogen gas that remains in the disk. At that point, they will grow in mass and radius rapidly, reaching giant planet dimensions. However, to do so requires that the rapidly evolving central star hasn’t yet driven away the gas in the disk with its stellar wind. From observations, we know that the disk can be blown away within 10 million years, so growth of a giant planet must also be a very fast process, astronomically speaking.</p> <h2 class=\"lt-phys-64785\">Debris Disks and Shepherd Planets</h2> <p class=\"lt-phys-64785\">The dust around newly formed stars is gradually either incorporated into the growing planets in the newly forming planetary system or ejected through gravitational interactions with the planets into space. The dust will disappear after about 30 million years unless the disk is continually supplied with new material. Local comets and asteroids are the most likely sources of new dust. As the planet-size bodies grow, they stir up the orbits of smaller objects in the area. These small bodies collide at high speeds, shatter, and produce tiny particles of silicate dust and ices that can keep the disk supplied with the debris from these collisions.</p> <p class=\"lt-phys-64785\">Over several hundred million years, the comets and asteroids will gradually be reduced in number, the frequency of collisions will go down, and the supply of fresh dust will diminish. Remember that the heavy bombardment in the early Solar System ended when the Sun was only about 500 million years old. Observations show that the dusty debris disks&nbsp;around stars also become mostly undetectable by the time the stars reach an age of 400 to 500 million years. It is likely, however, that some small amount of cometary material will remain in orbit, much like our Kuiper&nbsp;Belt, a flattened disk of comets outside the orbit of Neptune.</p> <p class=\"lt-phys-64785\">In a young planetary system, even if we cannot see the planets directly, the planets can concentrate the dust particles into clumps and arcs that are much larger than the planets themselves and therefore easier to image. This is similar to how the tiny moons of Saturn shepherd the particles in the rings and produce large arcs and structures in Saturn’s rings.</p> <p class=\"lt-phys-64785\">Protoplanetary and debris disks, many with such clumps and arcs, have now been found around numerous stars. One famous example is&nbsp;<span class=\"no-emphasis\" data-type=\"term\" group-by=\"H\">HL Tau</span>, located about 450 light-years from Earth in the constellation Taurus, Figure \\(\\PageIndex{3}\\). This image was made by ALMA (the Atacama Large Millimeter/Submillimeter Array) at a wavelength of 1.3 millimeters and shows the young star HL Tau and its protoplanetary disk with rings that indicate the presence of forming planets. In some stars, the brightness of the rings varies with position; around other stars, there are bright arcs and gaps in the rings. The brightness indicates the relative concentration of dust, since what we are seeing is infrared from the dust particles in the rings. More dust means more infrared light.&nbsp;</p> <figure><img alt=\"HL Tauri dust disk with gaps that may mark forming planets. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/45802/f2219020f6b431e91a1b48b415b281107f534c1b\" /> <figcaption>Figure \\(\\PageIndex{3}\\): Dust Ring around a Young Star. This image of&nbsp;young star HL Tau and its protoplanetary disk reveals multiple rings and gaps that indicate the presence of emerging planets. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY\">CC BY</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>).&nbsp;<a href=\"/Workbench/De_Anza_-_ASTR10/11:_Star_Formation/11.06:_Accessible_Descriptions#Figure_11.3.3_Dust_Ring_around_a_Young_Star\" title=\"11.6: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{3}\\)</a>.</figcaption> </figure> <section class=\"box-note\"> <h5 class=\"box-legend\"><span class=\"lt-icon-default\">Further Exploration: Interactive Activity</span></h5> <p>To see a real example of a proto planetary disk and ongoing planet formation, watch the National Radio Astronomy Observatory (NRAO) <a href=\"https://www.youtube.com/watch?v=Z4xiQvge3TI\" rel=\"noopener noreferrer\" target=\"_blank\"> HL Tau Video Webcast</a>. The video discusses observations of HL Tau, a young star surrounded by a disk of gas and dust in which planets may be forming.</p> </section>"
+              - generic [ref=f343e324]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f343e326] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f343e104]:
+          - separator [ref=f343e105]
+          - paragraph [ref=f343e107]:
+            - text: This page titled
+            - 'link "11.3: Evidence of Exoplanets" [ref=f343e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.03%3A_Evidence_of_Exoplanets
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f343e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f343e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f343e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f343e112]:
+        - list [ref=f343e113]:
+          - listitem [ref=f343e114]:
+            - link "Back to top" [ref=f343e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f343e116]:
+            - list [ref=f343e117]:
+              - listitem [ref=f343e118]:
+                - 'link " 11.2: The H-R and Star Formation" [ref=f343e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.02%3A_The_H-R_and_Star_Formation
+                  - text: 
+                  - generic [ref=f343e120]: "11.2: The H-R and Star Formation"
+              - listitem [ref=f343e121]:
+                - 'link "11.4: Naming the Stars " [ref=f343e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.04%3A_Naming_the_Stars
+                  - generic [ref=f343e123]: "11.4: Naming the Stars"
+                  - text: 
+        - list [ref=f343e126]:
+          - listitem [ref=f343e127]: Was this article helpful?
+          - listitem [ref=f343e128]:
+            - button "Yes" [ref=f343e129] [cursor=pointer]
+          - listitem [ref=f343e130]:
+            - button "No" [ref=f343e131] [cursor=pointer]
+          - listitem [ref=f343e132]:
+            - button "Leave feedback" [ref=f343e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , ,"
+        - generic [ref=f343e134]:
+          - heading "Attachments" [level=2] [ref=f343e135]
+          - generic:
+            - button "Attach a file" [ref=f343e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f343e138]:
+            - generic [ref=f343e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f343e142]
+            - generic [ref=f343e143]:
+              - grid [ref=f343e146]:
+                - rowgroup [ref=f343e147]:
+                  - row [ref=f343e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f343e149]':
+                      - generic:
+                        - generic [ref=f343e150]: File
+                        - generic [ref=f343e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f343e152]':
+                      - generic:
+                        - generic [ref=f343e153]: Last modified
+                        - generic [ref=f343e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f343e155]':
+                      - generic:
+                        - generic [ref=f343e156]: Size
+                        - generic [ref=f343e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f343e158]':
+                      - generic:
+                        - generic [ref=f343e159]: Added by
+                        - generic [ref=f343e160]: 
+              - grid [ref=f343e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f343e163]: File
+                          - generic [ref=f343e164]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f343e165]: Last modified
+                          - generic [ref=f343e166]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f343e167]: Size
+                          - generic [ref=f343e168]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f343e169]: Added by
+                          - generic [ref=f343e170]: 
+                - rowgroup [ref=f343e171]:
+                  - row [ref=f343e172]:
+                    - gridcell "No files attached." [ref=f343e173]
+    - generic [ref=f343e175]:
+      - button "Open support menu" [ref=f343e177] [cursor=pointer]: "?"
+      - navigation [ref=f343e179]:
+        - paragraph [ref=f343e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f343e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f343e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f343e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f343e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f343e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f343e187]:
+      - generic:
+        - generic [ref=f343e189]:
+          - button "Annotation sidebar" [ref=f343e190]
+          - generic [ref=f343e195]:
+            - button "Show highlights" [ref=f343e196]
+            - button "New page note" [ref=f343e201]
+          - status [ref=f343e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f343e207]:
+    - button "contents" [ref=f343e208] [cursor=pointer]
+    - button "readability" [ref=f343e210] [cursor=pointer]
+    - button "resources" [ref=f343e212] [cursor=pointer]
+    - button "tools" [ref=f343e214] [cursor=pointer]
+    - button "developers" [ref=f343e216] [cursor=pointer]
+  - text:  
+  - generic [ref=f343e327]:
+    - generic [ref=f343e328] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f343e331] [cursor=pointer]

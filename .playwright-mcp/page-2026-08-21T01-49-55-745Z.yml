@@ -1,0 +1,283 @@
+- generic [active] [ref=f135e1]:
+  - link "Skip to main content" [ref=f135e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f135e3]:
+    - text: 
+    - generic [ref=f135e4]:
+      - generic [ref=f135e5]:
+        - generic: ✕
+        - navigation [ref=f135e7]:
+          - generic [ref=f135e8]:
+            - link [ref=f135e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f135e11]
+            - button "Enter Reader Mode" [ref=f135e13] [cursor=pointer]:
+              - generic [ref=f135e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f135e16]:
+        - list [ref=f135e18]:
+          - listitem [ref=f135e19]:
+            - link [ref=f135e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f135e22]
+          - listitem [ref=f135e23]:
+            - text: 
+            - generic [ref=f135e25]:
+              - generic [ref=f135e26]: "Search :"
+              - searchbox "Search :" [ref=f135e27]
+              - button " Search" [ref=f135e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f135e29]:
+            - list [ref=f135e30]:
+              - listitem [ref=f135e31]:
+                - link "Edit" [ref=f135e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments?action=edit
+              - text: 
+              - listitem [ref=f135e33]:
+                - link " Options" [ref=f135e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f135e35]:
+                - link " Rachel Mastrapa" [ref=f135e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f135e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f135e38] [cursor=pointer]
+          - list [ref=f135e39]:
+            - listitem [ref=f135e40]:
+              - link " Home" [ref=f135e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f135e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f135e43]:
+              - link " Workbench" [ref=f135e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f135e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f135e46]:
+              - link " De Anza - ASTR10" [ref=f135e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f135e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f135e49]:
+              - generic [ref=f135e50]: 
+              - text: "5: Astronomical Instruments"
+          - text: 
+      - navigation
+    - article [ref=f135e51]:
+      - generic [ref=f135e52]:
+        - generic [ref=f135e53]:
+          - button " Page settings" [ref=f135e54] [cursor=pointer]
+          - text: "    : :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "5: Astronomical Instruments" [level=1] [ref=f135e55]':
+          - generic [ref=f135e56]: "5: Astronomical Instruments "
+        - list [ref=f135e58]:
+          - listitem [ref=f135e59]:
+            - link [ref=f135e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f135e62]:
+                - img "CC" [ref=f135e63]
+                - img "BY" [ref=f135e64]
+          - listitem [ref=f135e65]:
+            - generic [ref=f135e66]:
+              - term [ref=f135e67]: "Last updated:"
+              - definition [ref=f135e68]: Jul 29, 2026, 10:15 AM by Jyothsna Viswanadha
+          - listitem [ref=f135e69]:
+            - generic [ref=f135e70]:
+              - term [ref=f135e71]: "Page restriction:"
+              - definition [ref=f135e72]: Private
+          - listitem [ref=f135e73]:
+            - generic [ref=f135e74]:
+              - term [ref=f135e75]: "Page ID:"
+              - definition [ref=f135e76]: "115279"
+          - listitem [ref=f135e77]:
+            - list [ref=f135e78]:
+              - listitem [ref=f135e79]:
+                - button "Pin Page" [ref=f135e80] [cursor=pointer]: 
+              - listitem [ref=f135e81]:
+                - generic [ref=f135e82]:
+                  - link " Page notifications Off" [ref=f135e84] [cursor=pointer]:
+                    - /url: "#"
+                  - text: 
+              - text: 
+              - listitem [ref=f135e85]:
+                - list [ref=f135e86]:
+                  - listitem [ref=f135e87]:
+                    - 'link " 4.9: Accessible Descriptions" [ref=f135e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.09%3A_Accessible_Descriptions
+                      - text: 
+                      - generic [ref=f135e89]: "4.9: Accessible Descriptions"
+                  - listitem [ref=f135e90]:
+                    - 'link "5.1: Telescopes " [ref=f135e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.01%3A_Telescopes
+                      - generic [ref=f135e92]: "5.1: Telescopes"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f135e93]:
+        - generic [ref=f135e95]:
+          - heading "Introduction" [level=2] [ref=f135e96]
+          - paragraph [ref=f135e97]: To study the stars, astronomers need to be able collect data. The main tool that astronomers use is the telescope. This chapter will describe how telescopes work and the various instruments that astronomers use to collect data. It is understandable if the word instrument makes you think of a piano or a guitar. Scientific instruments are devices that are used by astronomers to collect data, including telescopes, detectors, and spectrometers.
+          - generic [ref=f135e99]:
+            - heading " Learning Objectives" [level=5] [ref=f135e100]
+            - paragraph [ref=f135e102]: "By the end of this section, you will be able to:"
+            - list [ref=f135e103]:
+              - listitem [ref=f135e104]: Describe the main parts of a telescope and how it collects light.
+              - listitem [ref=f135e105]: List the differences between refracting and reflecting telescopes.
+              - listitem [ref=f135e106]: Describe the progression in telescope design.
+              - listitem [ref=f135e107]: Review the factors relevant to choosing an appropriate telescope site.
+              - listitem [ref=f135e108]: List the different types of detectors and describe why the charge-coupled device (CCD) is preferred.
+              - listitem [ref=f135e109]: Review the difference between visible and infrared observations.
+              - listitem [ref=f135e110]: Describe how radio waves from space are detected.
+              - listitem [ref=f135e111]: Define radar and list how it has been used to explore space.
+              - listitem [ref=f135e112]: List the advantages of making astronomical observations from space.
+              - listitem [ref=f135e113]: Describe some of the space-based observatories astronomers use.
+          - paragraph
+          - list [ref=f135e116]:
+            - listitem [ref=f135e117]:
+              - generic [ref=f135e118]:
+                - term [ref=f135e119]:
+                  - 'link " 5.1: Telescopes" [ref=f135e120] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.01%3A_Telescopes
+                    - generic [ref=f135e121]: 
+                    - text: "5.1: Telescopes"
+                - definition
+            - listitem [ref=f135e122]:
+              - generic [ref=f135e123]:
+                - term [ref=f135e124]:
+                  - 'link " 5.2: Modern Telescopes" [ref=f135e125] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.02%3A_Modern_Telescopes
+                    - generic [ref=f135e126]: 
+                    - text: "5.2: Modern Telescopes"
+                - definition
+            - listitem [ref=f135e127]:
+              - generic [ref=f135e128]:
+                - term [ref=f135e129]:
+                  - 'link " 5.3: Capturing Light" [ref=f135e130] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.03%3A_Capturing_Light
+                    - generic [ref=f135e131]: 
+                    - text: "5.3: Capturing Light"
+                - definition
+            - listitem [ref=f135e132]:
+              - generic [ref=f135e133]:
+                - term [ref=f135e134]:
+                  - 'link " 5.4: Radio Telescopes" [ref=f135e135] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.04%3A_Radio_Telescopes
+                    - generic [ref=f135e136]: 
+                    - text: "5.4: Radio Telescopes"
+                - definition
+            - listitem [ref=f135e137]:
+              - generic [ref=f135e138]:
+                - term [ref=f135e139]:
+                  - 'link " 5.5: Spacecraft" [ref=f135e140] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.05%3A_Spacecraft
+                    - generic [ref=f135e141]: 
+                    - text: "5.5: Spacecraft"
+                - definition
+            - listitem [ref=f135e142]:
+              - generic [ref=f135e143]:
+                - term [ref=f135e144]:
+                  - 'link " 5.6: Ethics of Building Telescopes" [ref=f135e145] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.06%3A_Ethics_of_Building_Telescopes
+                    - generic [ref=f135e146]: 
+                    - text: "5.6: Ethics of Building Telescopes"
+                - definition
+            - listitem [ref=f135e147]:
+              - generic [ref=f135e148]:
+                - term [ref=f135e149]:
+                  - 'link " 5.7: Key Terms" [ref=f135e150] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.07%3A_Key_Terms
+                    - generic [ref=f135e151]: 
+                    - text: "5.7: Key Terms"
+                - definition
+            - listitem [ref=f135e152]:
+              - generic [ref=f135e153]:
+                - term [ref=f135e154]:
+                  - 'link " 5.8: Accessible Descriptions" [ref=f135e155] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.08%3A_Accessible_Descriptions
+                    - generic [ref=f135e156]: 
+                    - text: "5.8: Accessible Descriptions"
+                - definition
+          - paragraph
+          - paragraph [ref=f135e157]:
+            - strong [ref=f135e158]: Thumbnail
+            - text: ": The James Lick telescope at Lick Observatory, Mt. Hamilton, California. It is a 36 inch refractor. ("
+            - link "CC BY 2.0" [ref=f135e159] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/2.0/deed.en
+            - text: ;
+            - link "myyorgda" [ref=f135e160] [cursor=pointer]:
+              - /url: https://www.flickr.com/people/23369083@N05
+            - text: via
+            - link "Wikimedia Commons" [ref=f135e161] [cursor=pointer]:
+              - /url: https://commons.wikimedia.org/wiki/File:Lick_Observatory_Refractor.jpg
+            - text: )
+        - generic [ref=f135e162]:
+          - separator [ref=f135e163]
+          - paragraph [ref=f135e165]:
+            - 'link "5: Astronomical Instruments" [ref=f135e166] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments
+            - text: is shared under a
+            - link "CC BY" [ref=f135e167] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f135e168]:
+        - list [ref=f135e169]:
+          - listitem: 
+          - listitem [ref=f135e170]:
+            - list [ref=f135e171]:
+              - listitem [ref=f135e172]:
+                - 'link " 4.9: Accessible Descriptions" [ref=f135e173] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.09%3A_Accessible_Descriptions
+                  - text: 
+                  - generic [ref=f135e174]: "4.9: Accessible Descriptions"
+              - listitem [ref=f135e175]:
+                - 'link "5.1: Telescopes " [ref=f135e176] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.01%3A_Telescopes
+                  - generic [ref=f135e177]: "5.1: Telescopes"
+                  - text: 
+        - generic:   
+        - text: "     : : : :              "
+    - generic [ref=f135e179]:
+      - button "Open support menu" [ref=f135e181] [cursor=pointer]: "?"
+      - navigation [ref=f135e183]:
+        - paragraph [ref=f135e185]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f135e186] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f135e187] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f135e188] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f135e189] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f135e190] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f135e191]:
+      - generic:
+        - generic [ref=f135e193]:
+          - button "Annotation sidebar" [ref=f135e194]
+          - generic [ref=f135e199]:
+            - button "Show highlights" [ref=f135e200]
+            - button "New page note" [ref=f135e205]
+          - status [ref=f135e210]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f135e211]:
+    - button "contents" [ref=f135e212] [cursor=pointer]
+    - button "readability" [ref=f135e214] [cursor=pointer]
+    - button "resources" [ref=f135e216] [cursor=pointer]
+    - button "tools" [ref=f135e218] [cursor=pointer]
+    - button "developers" [ref=f135e220] [cursor=pointer]

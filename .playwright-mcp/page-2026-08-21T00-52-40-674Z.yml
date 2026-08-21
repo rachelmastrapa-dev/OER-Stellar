@@ -1,0 +1,266 @@
+- generic [active] [ref=f65e1]:
+  - link "Skip to main content" [ref=f65e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f65e3]:
+    - text: 
+    - generic [ref=f65e4]:
+      - generic [ref=f65e5]:
+        - generic: ✕
+        - navigation [ref=f65e7]:
+          - generic [ref=f65e8]:
+            - link [ref=f65e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f65e11]
+            - button "Enter Reader Mode" [ref=f65e13] [cursor=pointer]:
+              - generic [ref=f65e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f65e16]:
+        - list [ref=f65e18]:
+          - listitem [ref=f65e19]:
+            - link [ref=f65e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f65e22]
+          - listitem [ref=f65e23]:
+            - text: 
+            - generic [ref=f65e25]:
+              - generic [ref=f65e26]: "Search :"
+              - searchbox "Search :" [ref=f65e27]
+              - button " Search" [ref=f65e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f65e29]:
+            - list [ref=f65e30]:
+              - listitem [ref=f65e31]:
+                - link "Edit" [ref=f65e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light?action=edit
+              - text: 
+              - listitem [ref=f65e33]:
+                - link " Options" [ref=f65e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f65e35]:
+                - link " Rachel Mastrapa" [ref=f65e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f65e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f65e38] [cursor=pointer]
+          - list [ref=f65e39]:
+            - listitem [ref=f65e40]:
+              - link " Home" [ref=f65e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f65e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f65e43]:
+              - link " Workbench" [ref=f65e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f65e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f65e46]:
+              - link " De Anza - ASTR10" [ref=f65e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f65e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f65e49]:
+              - generic [ref=f65e50]: 
+              - text: "3: Stars and Light"
+          - text: 
+      - navigation
+    - article [ref=f65e51]:
+      - generic [ref=f65e52]:
+        - generic [ref=f65e53]:
+          - button " Page settings" [ref=f65e54] [cursor=pointer]
+          - text: ": :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "3: Stars and Light" [level=1] [ref=f65e55]'
+        - list [ref=f65e58]:
+          - listitem [ref=f65e59]:
+            - link [ref=f65e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f65e62]:
+                - img "CC" [ref=f65e63]
+                - img "BY" [ref=f65e64]
+          - listitem [ref=f65e65]:
+            - generic [ref=f65e66]:
+              - term [ref=f65e67]: "Last updated:"
+              - definition [ref=f65e68]: Jan 26, 2026, 5:43 PM by Rachel Mastrapa
+          - listitem [ref=f65e69]:
+            - generic [ref=f65e70]:
+              - term [ref=f65e71]: "Page restriction:"
+              - definition [ref=f65e72]: Private
+          - listitem [ref=f65e73]:
+            - generic [ref=f65e74]:
+              - term [ref=f65e75]: "Page ID:"
+              - definition [ref=f65e76]: "115276"
+          - listitem [ref=f65e77]:
+            - list [ref=f65e78]:
+              - listitem [ref=f65e79]:
+                - button "Pin Page" [ref=f65e80] [cursor=pointer]: 
+              - listitem [ref=f65e81]:
+                - generic [ref=f65e82]:
+                  - link " Page notifications Off" [ref=f65e84] [cursor=pointer]:
+                    - /url: "#"
+                  - text: 
+              - text: 
+              - listitem [ref=f65e85]:
+                - list [ref=f65e86]:
+                  - listitem [ref=f65e87]:
+                    - 'link " 2.10: Accessible Descriptions" [ref=f65e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.10%3A_Accessible_Descriptions
+                      - text: 
+                      - generic [ref=f65e89]: "2.10: Accessible Descriptions"
+                  - listitem [ref=f65e90]:
+                    - 'link "3.1: Properties of Light " [ref=f65e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.01%3A_Properties_of_Light
+                      - generic [ref=f65e92]: "3.1: Properties of Light"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f65e93]:
+        - generic [ref=f65e95]:
+          - heading "Page Title" [level=2] [ref=f65e96]
+          - paragraph [ref=f65e97]: Coded into the light is a wide range of information about what stars are like and how they work. If we can decipher this code and read the messages it contains, we can learn an enormous amount about the cosmos without ever having to leave Earth.
+          - generic [ref=f65e99]:
+            - heading " Learning Objectives" [level=5] [ref=f65e100]
+            - paragraph [ref=f65e102]: "By the end of this section, you will be able to:"
+            - list [ref=f65e103]:
+              - listitem [ref=f65e104]: Explain the evidence for Maxwell’s electromagnetic model of light
+              - listitem [ref=f65e105]: Describe the relationship between wavelength, frequency, and speed of light
+              - listitem [ref=f65e106]: Discuss the particle model of light and the definition of photon
+              - listitem [ref=f65e107]: Explain how and why the amount of light we see from an object depends upon its distance
+              - listitem [ref=f65e108]: Explain the difference between luminosity and apparent brightness
+              - listitem [ref=f65e109]: Understand how astronomers specify brightness with magnitudes
+              - listitem [ref=f65e110]: Understand the bands of the electromagnetic spectrum and how they differ from one another
+              - listitem [ref=f65e111]: Understand how each part of the spectrum interacts with Earth’s atmosphere
+              - listitem [ref=f65e112]: Explain how and why the light emitted by an object depends on its temperature
+              - listitem [ref=f65e113]: Compare the relative temperatures of stars based on their colors
+              - listitem [ref=f65e114]: Understand how astronomers use color indexes to measure the temperatures of stars
+          - paragraph [ref=f65e115]: Reduce Number of learning objectives
+          - paragraph [ref=f65e116]
+          - paragraph
+          - list [ref=f65e119]:
+            - listitem [ref=f65e120]:
+              - generic [ref=f65e121]:
+                - term [ref=f65e122]:
+                  - 'link " 3.1: Properties of Light" [ref=f65e123] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.01%3A_Properties_of_Light
+                    - generic [ref=f65e124]: 
+                    - text: "3.1: Properties of Light"
+                - definition
+            - listitem [ref=f65e125]:
+              - generic [ref=f65e126]:
+                - term [ref=f65e127]:
+                  - 'link " 3.2: The Brightness of Stars" [ref=f65e128] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.02%3A_The_Brightness_of_Stars
+                    - generic [ref=f65e129]: 
+                    - text: "3.2: The Brightness of Stars"
+                - definition
+            - listitem [ref=f65e130]:
+              - generic [ref=f65e131]:
+                - term [ref=f65e132]:
+                  - 'link " 3.3: The Electromagnetic Spectrum" [ref=f65e133] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.03%3A_The_Electromagnetic_Spectrum
+                    - generic [ref=f65e134]: 
+                    - text: "3.3: The Electromagnetic Spectrum"
+                - definition
+            - listitem [ref=f65e135]:
+              - generic [ref=f65e136]:
+                - term [ref=f65e137]:
+                  - 'link " 3.4: Color and Temperature" [ref=f65e138] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.04%3A_Color_and_Temperature
+                    - generic [ref=f65e139]: 
+                    - text: "3.4: Color and Temperature"
+                - definition
+            - listitem [ref=f65e140]:
+              - generic [ref=f65e141]:
+                - term [ref=f65e142]:
+                  - 'link " 3.5: Light Pollution and Satellite Constellations" [ref=f65e143] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.05%3A_Light_Pollution_and_Satellite_Constellations
+                    - generic [ref=f65e144]: 
+                    - text: "3.5: Light Pollution and Satellite Constellations"
+                - definition
+            - listitem [ref=f65e145]:
+              - generic [ref=f65e146]:
+                - term [ref=f65e147]:
+                  - 'link " 3.6: Key Terms" [ref=f65e148] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.06%3A_Key_Terms
+                    - generic [ref=f65e149]: 
+                    - text: "3.6: Key Terms"
+                - definition
+            - listitem [ref=f65e150]:
+              - generic [ref=f65e151]:
+                - term [ref=f65e152]:
+                  - 'link " 3.7: Alternative Text Descriptions for Stars and Light" [ref=f65e153] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.07%3A_Alternative_Text_Descriptions_for_Stars_and_Light
+                    - generic [ref=f65e154]: 
+                    - text: "3.7: Alternative Text Descriptions for Stars and Light"
+                - definition
+          - paragraph
+          - paragraph [ref=f65e155]: Thumbnail
+        - generic [ref=f65e156]:
+          - separator [ref=f65e157]
+          - paragraph [ref=f65e159]:
+            - 'link "3: Stars and Light" [ref=f65e160] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light
+            - text: is shared under a
+            - link "CC BY" [ref=f65e161] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f65e162]:
+        - list [ref=f65e163]:
+          - listitem: 
+          - listitem [ref=f65e164]:
+            - list [ref=f65e165]:
+              - listitem [ref=f65e166]:
+                - 'link " 2.10: Accessible Descriptions" [ref=f65e167] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.10%3A_Accessible_Descriptions
+                  - text: 
+                  - generic [ref=f65e168]: "2.10: Accessible Descriptions"
+              - listitem [ref=f65e169]:
+                - 'link "3.1: Properties of Light " [ref=f65e170] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.01%3A_Properties_of_Light
+                  - generic [ref=f65e171]: "3.1: Properties of Light"
+                  - text: 
+        - generic:   
+        - text: ": : : :              "
+    - generic [ref=f65e173]:
+      - button "Open support menu" [ref=f65e175] [cursor=pointer]: "?"
+      - navigation [ref=f65e177]:
+        - paragraph [ref=f65e179]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f65e180] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f65e181] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f65e182] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f65e183] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f65e184] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f65e185]:
+      - generic:
+        - generic [ref=f65e187]:
+          - button "Annotation sidebar" [ref=f65e188]
+          - generic [ref=f65e193]:
+            - button "Show highlights" [ref=f65e194]
+            - button "New page note" [ref=f65e199]
+          - status [ref=f65e204]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f65e205]:
+    - button "contents" [ref=f65e206] [cursor=pointer]
+    - button "readability" [ref=f65e208] [cursor=pointer]
+    - button "resources" [ref=f65e210] [cursor=pointer]
+    - button "tools" [ref=f65e212] [cursor=pointer]
+    - button "developers" [ref=f65e214] [cursor=pointer]

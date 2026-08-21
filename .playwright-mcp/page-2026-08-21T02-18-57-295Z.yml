@@ -1,0 +1,323 @@
+- generic [ref=f310e1]:
+  - link "Skip to main content" [ref=f310e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f310e3]:
+    - text: 
+    - generic [ref=f310e4]:
+      - generic [ref=f310e5]:
+        - generic: ✕
+        - navigation [ref=f310e7]:
+          - generic [ref=f310e8]:
+            - link [ref=f310e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f310e11]
+            - button "Enter Reader Mode" [ref=f310e13] [cursor=pointer]:
+              - generic [ref=f310e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f310e16]:
+        - list [ref=f310e18]:
+          - listitem [ref=f310e19]:
+            - link [ref=f310e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f310e22]
+          - listitem [ref=f310e23]:
+            - text: 
+            - generic [ref=f310e25]:
+              - generic [ref=f310e26]: "Search :"
+              - searchbox "Search :" [ref=f310e27]
+              - button " Search" [ref=f310e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f310e29]:
+            - list [ref=f310e30]:
+              - listitem [ref=f310e31]:
+                - link "Edit" [ref=f310e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.03%3A_Cosmic_Materials?action=edit
+              - text: 
+              - listitem [ref=f310e33]:
+                - link " Options" [ref=f310e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f310e35]:
+                - link " Rachel Mastrapa" [ref=f310e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f310e37]:
+        - generic:
+          - button " Contents" [ref=f310e218] [cursor=pointer]
+          - list [ref=f310e39]:
+            - listitem [ref=f310e40]:
+              - link " Home" [ref=f310e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f310e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f310e43]:
+              - link " Workbench" [ref=f310e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f310e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f310e46]:
+              - link " De Anza - ASTR10" [ref=f310e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f310e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f310e49]:
+              - 'link " 10: Interstellar Media" [ref=f310e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media
+                - generic [ref=f310e51]: 
+                - text: "10: Interstellar Media"
+              - text: »
+            - listitem [ref=f310e52]:
+              - generic [ref=f310e53]: 
+              - text: "10.3: Cosmic Materials"
+          - button " Expand/collapse global location" [ref=f310e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                
+    - article [ref=f310e55]:
+      - generic [ref=f310e56]:
+        - generic [ref=f310e57]:
+          - button " Page settings" [ref=f310e58] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :      "
+        - 'heading "10.3: Cosmic Materials" [level=1] [ref=f310e59]':
+          - generic [ref=f310e219]: "10.3: Cosmic Materials "
+        - list [ref=f310e62]:
+          - listitem [ref=f310e63]:
+            - link [ref=f310e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f310e66]:
+                - img "CC" [ref=f310e67]
+                - img "BY" [ref=f310e68]
+          - listitem [ref=f310e69]:
+            - generic [ref=f310e70]:
+              - term [ref=f310e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f310e72]: Dec 28, 2025, 8:33 PM by Rachel Mastrapa
+          - listitem [ref=f310e73]:
+            - generic [ref=f310e74]:
+              - term [ref=f310e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f310e76]: Private
+          - listitem [ref=f310e77]:
+            - generic [ref=f310e78]:
+              - term [ref=f310e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f310e80]: "139498"
+          - listitem [ref=f310e81]:
+            - list [ref=f310e82]:
+              - listitem [ref=f310e83]:
+                - button "Pin Page" [ref=f310e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f310e85]:
+                - list [ref=f310e86]:
+                  - listitem [ref=f310e87]:
+                    - 'link " 10.2: Interstellar Gas and Dust" [ref=f310e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.02%3A_Interstellar_Gas_and_Dust
+                      - text: 
+                      - generic [ref=f310e89]: "10.2: Interstellar Gas and Dust"
+                  - listitem [ref=f310e90]:
+                    - 'link "10.4: Delete " [ref=f310e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.04%3A_Delete
+                      - generic [ref=f310e92]: "10.4: Delete"
+                      - text: 
+              - text:  
+      - list [ref=f310e95]:
+        - listitem [ref=f310e96]:
+          - img "OpenStax" [ref=f310e97]
+        - listitem [ref=f310e98]:
+          - link "OpenStax" [ref=f310e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f310e100]:
+          - link "OpenStax" [ref=f310e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f310e102]:
+        - group [ref=f310e223]:
+          - generic [ref=f310e224]:
+            - generic [ref=f310e225]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f310e226]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f310e227]:
+            - generic [ref=f310e230]:
+              - generic [ref=f310e232]:
+                - link "Edit" [ref=f310e233]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f310e234]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f310e235]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f310e236]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f310e237]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f310e238]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f310e241]:
+                - toolbar [ref=f310e242]:
+                  - button "Save" [ref=f310e243]:
+                    - generic [ref=f310e244]: 
+                  - button "Cancel" [ref=f310e246]:
+                    - generic [ref=f310e247]: 
+                - text:          
+                - toolbar [ref=f310e288]:
+                  - button "Alignment" [ref=f310e289]:
+                    - generic [ref=f310e290]: 
+                - text:    
+                - toolbar [ref=f310e303]:
+                  - button "Replace" [ref=f310e304]:
+                    - generic [ref=f310e305]: 
+                - toolbar [ref=f310e307]:
+                  - button "Enable Binder" [disabled] [ref=f310e308]
+                  - button "Insert Adapt" [disabled] [ref=f310e310]
+                  - button "Query" [ref=f310e312]
+                  - button "Accessibility Checker" [disabled] [ref=f310e315]
+                - toolbar [ref=f310e318]:
+                  - button "Visual" [pressed] [ref=f310e334]:
+                    - generic [ref=f310e320]: 
+            - application "Rich Text Editor, editarea" [ref=f310e322]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f310e336]: "<h2>Cosmic Rays</h2> <p class=\"lt-phys-64778\">In addition to gas and dust, a third class of particles, noteworthy for the high speeds with which they travel, is found in interstellar space. <span data-type=\"term\" group-by=\"C\">Cosmic rays</span> were discovered in 1911 by an Austrian physicist, Victor Hess, who flew simple instruments aboard balloons and showed that high-speed particles arrive at Earth from space (Figure 20.17). The term “cosmic ray” is misleading, implying it might be like a ray of light, but we are stuck with the name. They are definitely particles and have nearly the same composition as ordinary interstellar gas. Their behavior, however, is radically different from the gas we have discussed so far.</p> <figure><span data-alt=\"Photograph of Victor Hess standing in the gondola of his research balloon.\" data-type=\"media\"><img alt=\"Photograph of Victor Hess standing in the gondola of his research balloon.\" data-media-type=\"image/jpeg\" src=\"/@api/deki/files/45876/4a7c8b97e0ca2df9e3a90c03ac51d4c3dc13d2b2\" /> </span> <figcaption>Figure 20.17 : Victor Hess (1883–1964). Cosmic-ray pioneer Victor Hess returns from a 1912 balloon flight that reached an altitude of 5.3 kilometers. It was on such balloon flights that Hess discovered cosmic rays.</figcaption> </figure> <h3 class=\"lt-phys-64778\">The Nature of Cosmic Rays</h3> <p class=\"lt-phys-64778\">Cosmic rays are mostly high-speed atomic nuclei and electrons. Speeds equal to 90% of the speed of light are typical. Almost 90% of the cosmic rays are hydrogen nuclei (protons) stripped of their accompanying electron. Helium and heavier nuclei constitute about 9% more. About 1% of cosmic rays have masses equal to the mass of the electron, and 10–20% of these carry positive charge rather than the negative charge that characterizes electrons. A positively charged particle with the mass of an electron is called a <em data-effect=\"italics\">positron</em> and is a form of <em data-effect=\"italics\">antimatter</em> (we discussed antimatter in The Sun: A Nuclear Powerhouse).</p> <p class=\"lt-phys-64778\">The abundances of various atomic nuclei in cosmic rays mirror the abundances in stars and interstellar gas, with one important exception. The light elements lithium, beryllium, and boron are far more abundant in cosmic rays than in the Sun and stars. These light elements are formed when high-speed, cosmic-ray nuclei of carbon, nitrogen, and oxygen collide with protons in interstellar space and break apart. (By the way, if you, like most readers, have not memorized all the elements and want to see how any of those we mention fit into the sequence of elements, you will find them all listed in Appendix K in order of the number of protons they contain.)</p> <p class=\"lt-phys-64778\">Cosmic rays reach Earth in substantial numbers, and we can determine their properties either by capturing them directly or by observing the reactions that occur when they collide with atoms in our atmosphere. The total energy deposited by cosmic rays in Earth’s atmosphere is only about one-billionth the energy received from the Sun, but it is comparable to the energy received in the form of starlight. Some of the cosmic rays come to Earth from the surface of the Sun, but most come from outside the solar system.</p> <h3 class=\"lt-phys-64778\">Where Do They Come From?</h3> <p class=\"lt-phys-64778\">There is a serious problem in identifying the source of cosmic rays. Since light travels in straight lines, we can tell where it comes from simply by looking. Cosmic rays are charged particles, and their direction of motion can be changed by magnetic fields. The paths of cosmic rays are curved both by magnetic fields in interstellar space and by Earth’s own field. Calculations show that low-energy cosmic rays may spiral many times around Earth before entering the atmosphere where we can detect them. If an airplane circles an airport many times before landing, it is difficult for an observer to determine the direction from which it originated. So, too, after a cosmic ray circles Earth several times, it is impossible to know where its journey began.</p> <p class=\"lt-phys-64778\">There are a few clues, however, about where cosmic rays might be generated. We know, for example, that magnetic fields in interstellar space are strong enough to keep all but the most energetic cosmic rays from escaping the Galaxy. It therefore seems likely that they are produced somewhere inside the Galaxy. The only likely exceptions are those with the very highest energy. Such cosmic rays move so rapidly that they are not significantly influenced by interstellar magnetic fields, and thus, they could escape our Galaxy. By analogy, they could escape other galaxies as well, so some of the highest-energy cosmic rays that we detect may have been created in some distant galaxy. Still, most cosmic rays must have their source inside the <span class=\"no-emphasis\" data-type=\"term\" group-by=\"M\">Milky Way Galaxy</span>.</p> <p class=\"lt-phys-64778\">We can also estimate how far typical cosmic rays travel before striking Earth. The light elements lithium, beryllium, and boron hold the key. Since these elements are formed when carbon, nitrogen, and oxygen strike interstellar protons, we can calculate how long, on average, cosmic rays must travel through space in order to experience enough collisions to account for the amount of lithium and the other light elements that they contain. It turns out that the required distance is about 30 times around the Galaxy. At speeds near the speed of light, it takes perhaps 3–10 million years for the average cosmic ray to travel this distance. This is only a small fraction of the age of the Galaxy or the universe, so cosmic rays must have been created fairly recently on a cosmic timescale.</p> <p class=\"lt-phys-64778\">The best candidates for a source of cosmic rays are the <span class=\"no-emphasis\" data-type=\"term\" group-by=\"s\">supernova</span> explosions, which mark the violent deaths of some stars (and which we will discuss in The Death of Stars). The material ejected by the explosion produces a shock wave, which travels through the interstellar medium. Charged particles can become trapped, bouncing back and forth across the front of the shock wave many times. With each pass through the shock, the magnetic fields inside it accelerate the particles more and more. Eventually, they are traveling at close to the speed of light and can escape from the shock to become cosmic rays. Some collapsed stars (including star remnants left over from supernova explosions) may, under the right circumstances, also serve as accelerators of particles. In any case, we again find that the raw material of the Galaxy is enriched by the life cycle of stars. In the next section, we will look at this enrichment process in more detail.</p> <h2>Flows of Interstellar Gas</h2> <p class=\"lt-phys-64779\">The most important thing to understand about the <span class=\"no-emphasis\" data-type=\"term\" group-by=\"i\">interstellar medium</span> is that it is not static. Interstellar gas orbits through the Galaxy, and as it does so, it can become more or less dense, hotter and colder, and change its state of ionization. A particular parcel of gas may be neutral hydrogen at some point, then find itself near a young, hot star and become part of an H II region. The star may then explode as a supernova, heating the nearby gas up to temperatures of millions of degrees. Over millions of years, the gas may cool back down and become neutral again, before it collects into a dense region that gravity gathers into a giant molecular cloud (Figure 20.18)</p> <figure><span data-alt=\"Computer Rendering of the Large-Scale Distribution of Interstellar Matter in the Milky Way. In this image, the Milky Way is seen from above and resembles the spiral shape of a strong hurricane. However, instead of water vapor, the arms of our galaxy consist of neutral hydrogen and molecular clouds, interspersed with gaps and open areas due to supernova explosions.\" data-type=\"media\"><img alt=\"Computer Rendering of the Large-Scale Distribution of Interstellar Matter in the Milky Way. In this image, the Milky Way is seen from above and resembles the spiral shape of a strong hurricane. However, instead of water vapor, the arms of our galaxy consist of neutral hydrogen and molecular clouds, interspersed with gaps and open areas due to supernova explosions.\" data-media-type=\"image/jpeg\" src=\"/@api/deki/files/45877/b78b8c79c6755c9c6b5a0affb6eb735e4ba0098b\" /> </span> <figcaption>Figure 20.18 : Large-Scale Distribution of Interstellar Matter. This image is from a computer simulation of the <span class=\"no-emphasis\" data-type=\"term\" group-by=\"M\">Milky Way Galaxy</span>’s <span class=\"no-emphasis\" data-type=\"term\" group-by=\"i\">interstellar medium</span> as a whole. The majority of gas, visible in greenish colors, is neutral hydrogen. In the densest regions in the spiral arms, shown in yellow, the gas is collected into giant molecular clouds. Low-density holes in the spiral arms, shown in blue, are the result of supernova explosions. (credit: modification of work by Mark Krumholz)</figcaption> </figure> <p class=\"lt-phys-64779\">At any given time in the Milky Way, the majority of the interstellar gas by mass and volume is in the form of atomic hydrogen. The much-denser molecular clouds occupy a tiny fraction of the volume of interstellar space but add roughly 30% to the total mass of gas between the stars. Conversely, the hot gas produced by supernova explosions contributes a negligible mass but occupies a significant fraction of the volume of interstellar space. H II regions, though they are visually spectacular, constitute only a very small fraction of either the mass or volume of interstellar material.</p> <p class=\"lt-phys-64779\">However, the <span class=\"no-emphasis\" data-type=\"term\" group-by=\"i\">interstellar medium</span> is not a closed system. Gas from intergalactic space constantly falls onto the Milky Way due to its gravity, adding new gas to the interstellar medium. Conversely, in giant molecular clouds where gas collects together due to gravity, the gas can collapse to form new stars, as discussed in The Birth of Stars and the Discovery of Planets outside the Solar System. This process locks interstellar matter into stars. As the stars age, evolve, and eventually die, massive stars lose a large fraction of their mass, and low-mass stars lose very little. On average, roughly one-third of the matter incorporated into stars goes back into interstellar space. Supernova explosions have so much energy that they can drive interstellar mass out of the Galaxy and back into intergalactic space. Thus, the total amount of mass of the interstellar medium is set by a competition between the gain of mass from intergalactic space, the conversion of interstellar mass into stars, and the loss of interstellar mass back into intergalactic space due to supernovae. This entire process is known as the <span data-type=\"term\" group-by=\"b\">baryon cycle</span>—baryon is from the Greek word for “heavy,” and the cycle has this name because it is the repeating process that the heavier components of the universe—the atoms—undergo.</p> <h3 class=\"lt-phys-64779\">The Cycle of Dust and Heavy Elements</h3> <p class=\"lt-phys-64779\">While much of the mass of the interstellar medium is material accreted during the last few billion years from intergalactic space, this is not true of the elements heavier than hydrogen and helium, or of the dust. Instead, these components of the interstellar medium were made inside stars in the Milky Way, which returned them to the interstellar medium at the end of their lives. We will talk more about this process in later chapters, but for now just bear in mind what we learned in The Sun: A Nuclear Powerhouse. What stars “do for a living” is fuse heavier elements from lighter ones, producing energy in the process. As stars mature, they begin to lose some of the newly made elements to the reservoir of interstellar matter.</p> <p class=\"lt-phys-64779\">The same is true of dust grains. Dust forms when grains can condense in regions where gas is dense and cool. One place where the right conditions are found is the winds from luminous cool stars (the red giants and supergiants we discussed in The Stars: A Celestial Census). Grains can also condense in the matter thrown off by a supernova explosion as the ejected gases begin to cool.</p> <p class=\"lt-phys-64779\">The dust grains produced by stars may grow even further when they spend time in the dense parts of the interstellar medium, inside molecular clouds. In these environments, grains can stick together or gather additional atoms from the gas around them, growing larger. They also facilitate the production of other compounds, including some of the more complex molecules we discussed earlier.</p> <p class=\"lt-phys-64779\">The surfaces of the dust grains (see Cosmic Dust)—which would seem very large if you were an atom—provide “nooks and crannies” where these atoms can stick long enough to find partners and form molecules. (Think of the dust grains as “interstellar social clubs” where lonely atoms can meet and form meaningful relationships.) Eventually, the dust grains become coated with ices. The presence of the dust shields the molecules inside the clouds from ultraviolet radiation and cosmic rays that would break them up.</p> <p class=\"lt-phys-64779\">When stars finally begin to form within the cloud, they heat the grains and evaporate the ices. The gravitational attraction of the newly forming stars also increases the density of the surrounding cloud material. Many more chemical reactions take place on the surfaces of grains in the gas surrounding the newly forming stars, and these areas are where organic molecules are formed. These molecules can be incorporated into newly formed planetary systems, and the early Earth may have been seeded in just such a way.</p> <p class=\"lt-phys-64779\">Indeed, scientists speculate that some of the water on Earth may have come from interstellar grains. Recent observations from space have shown that water is abundant in dense interstellar clouds. Since stars are formed from this material, water must be present when solar systems, including our own, come into existence. The water in our oceans and lakes may have come initially from water locked into the rocky material that accreted to form Earth. Alternatively, the water may have been brought to Earth when asteroids and comets (formed from the same cloud that made the planets) later impacted it. Scientists estimate that one comet impact every thousand years during Earth’s first billion years would have been enough to account for the water we see today. Of course, both sources may have contributed to the water we now enjoy drinking and swimming in.</p> <p class=\"lt-phys-64779\">Any interstellar grains that are incorporated into newly forming stars (instead of the colder planets and smaller bodies around them) will be destroyed by their high temperatures. But eventually, each new generation of stars will evolve to become red giants, with stellar winds of their own. Some of these stars will also become supernovae and explode. Thus, the process of recycling cosmic material can start all over again.</p> <h2 class=\"lt-phys-64778\">Further Exploration</h2> <p class=\"lt-phys-64778\">You can watch a <a href=\"https://openstax.org/l/30CALETvid\" rel=\"noopener nofollow\" target=\"_blank\">brief video about the Calorimetric Electron Telescope (CALET)</a> mission, a cosmic ray detector at the International Space Station. The link takes you to NASA Johnson’s “Space Station Live: Cosmic Ray Detector for ISS.”&nbsp;</p>"
+              - generic [ref=f310e324]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f310e326] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f310e104]:
+          - separator [ref=f310e105]
+          - paragraph [ref=f310e107]:
+            - text: This page titled
+            - 'link "10.3: Cosmic Materials" [ref=f310e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.03%3A_Cosmic_Materials
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f310e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f310e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f310e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f310e112]:
+        - list [ref=f310e113]:
+          - listitem [ref=f310e114]:
+            - link "Back to top" [ref=f310e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f310e116]:
+            - list [ref=f310e117]:
+              - listitem [ref=f310e118]:
+                - 'link " 10.2: Interstellar Gas and Dust" [ref=f310e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.02%3A_Interstellar_Gas_and_Dust
+                  - text: 
+                  - generic [ref=f310e120]: "10.2: Interstellar Gas and Dust"
+              - listitem [ref=f310e121]:
+                - 'link "10.4: Delete " [ref=f310e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.04%3A_Delete
+                  - generic [ref=f310e123]: "10.4: Delete"
+                  - text: 
+        - list [ref=f310e126]:
+          - listitem [ref=f310e127]: Was this article helpful?
+          - listitem [ref=f310e128]:
+            - button "Yes" [ref=f310e129] [cursor=pointer]
+          - listitem [ref=f310e130]:
+            - button "No" [ref=f310e131] [cursor=pointer]
+          - listitem [ref=f310e132]:
+            - button "Leave feedback" [ref=f310e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , ,"
+        - generic [ref=f310e134]:
+          - heading "Attachments" [level=2] [ref=f310e135]
+          - generic:
+            - button "Attach a file" [ref=f310e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f310e138]:
+            - generic [ref=f310e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f310e142]
+            - generic [ref=f310e143]:
+              - grid [ref=f310e146]:
+                - rowgroup [ref=f310e147]:
+                  - row [ref=f310e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f310e149]':
+                      - generic:
+                        - generic [ref=f310e150]: File
+                        - generic [ref=f310e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f310e152]':
+                      - generic:
+                        - generic [ref=f310e153]: Last modified
+                        - generic [ref=f310e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f310e155]':
+                      - generic:
+                        - generic [ref=f310e156]: Size
+                        - generic [ref=f310e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f310e158]':
+                      - generic:
+                        - generic [ref=f310e159]: Added by
+                        - generic [ref=f310e160]: 
+              - grid [ref=f310e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f310e163]: File
+                          - generic [ref=f310e164]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f310e165]: Last modified
+                          - generic [ref=f310e166]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f310e167]: Size
+                          - generic [ref=f310e168]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f310e169]: Added by
+                          - generic [ref=f310e170]: 
+                - rowgroup [ref=f310e171]:
+                  - row [ref=f310e172]:
+                    - gridcell "No files attached." [ref=f310e173]
+    - generic [ref=f310e175]:
+      - button "Open support menu" [ref=f310e177] [cursor=pointer]: "?"
+      - navigation [ref=f310e179]:
+        - paragraph [ref=f310e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f310e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f310e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f310e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f310e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f310e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f310e187]:
+      - generic:
+        - generic [ref=f310e189]:
+          - button "Annotation sidebar" [ref=f310e190]
+          - generic [ref=f310e195]:
+            - button "Show highlights" [ref=f310e196]
+            - button "New page note" [ref=f310e201]
+          - status [ref=f310e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f310e207]:
+    - button "contents" [ref=f310e208] [cursor=pointer]
+    - button "readability" [ref=f310e210] [cursor=pointer]
+    - button "resources" [ref=f310e212] [cursor=pointer]
+    - button "tools" [ref=f310e214] [cursor=pointer]
+    - button "developers" [ref=f310e216] [cursor=pointer]
+  - text:  
+  - generic [ref=f310e327]:
+    - generic [ref=f310e328] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f310e331] [cursor=pointer]

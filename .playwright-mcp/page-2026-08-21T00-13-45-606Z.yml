@@ -1,0 +1,266 @@
+- generic [active] [ref=f15e1]:
+  - link "Skip to main content" [ref=f15e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f15e3]:
+    - text: 
+    - generic [ref=f15e4]:
+      - generic [ref=f15e5]:
+        - generic: ✕
+        - navigation [ref=f15e7]:
+          - generic [ref=f15e8]:
+            - link [ref=f15e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f15e11]
+            - button "Enter Reader Mode" [ref=f15e13] [cursor=pointer]:
+              - generic [ref=f15e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f15e16]:
+        - list [ref=f15e18]:
+          - listitem [ref=f15e19]:
+            - link [ref=f15e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f15e22]
+          - listitem [ref=f15e23]:
+            - text: 
+            - generic [ref=f15e25]:
+              - generic [ref=f15e26]: "Search :"
+              - searchbox "Search :" [ref=f15e27]
+              - button " Search" [ref=f15e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f15e29]:
+            - list [ref=f15e30]:
+              - listitem [ref=f15e31]:
+                - link "Edit" [ref=f15e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.05%3A_Astronomy_and_You?action=edit
+              - text: 
+              - listitem [ref=f15e33]:
+                - link " Options" [ref=f15e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f15e35]:
+                - link " Rachel Mastrapa" [ref=f15e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f15e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f15e38] [cursor=pointer]
+          - list [ref=f15e39]:
+            - listitem [ref=f15e40]:
+              - link " Home" [ref=f15e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f15e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f15e43]:
+              - link " Workbench" [ref=f15e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f15e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f15e46]:
+              - link " De Anza - ASTR10" [ref=f15e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f15e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f15e49]:
+              - 'link " 1: Introduction to Astronomy" [ref=f15e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy
+                - generic [ref=f15e51]: 
+                - text: "1: Introduction to Astronomy"
+              - text: »
+            - listitem [ref=f15e52]:
+              - generic [ref=f15e53]: 
+              - text: "1.5: Astronomy and You"
+          - button " Expand/collapse global location" [ref=f15e54] [cursor=pointer]
+      - navigation
+    - article [ref=f15e55]:
+      - generic [ref=f15e56]:
+        - generic [ref=f15e57]:
+          - button " Page settings" [ref=f15e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "1.5: Astronomy and You" [level=1] [ref=f15e59]':
+          - generic [ref=f15e60]: "1.5: Astronomy and You "
+        - list [ref=f15e62]:
+          - listitem:
+            - generic:
+              - link:
+                - /url: "#"
+          - listitem [ref=f15e63]:
+            - generic [ref=f15e64]:
+              - term [ref=f15e65] [cursor=pointer]: "Last updated:"
+              - definition [ref=f15e66]: Aug 7, 2026, 9:36 AM by Caitlin Kepple
+          - listitem [ref=f15e67]:
+            - generic [ref=f15e68]:
+              - term [ref=f15e69] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f15e70]: Private
+          - listitem [ref=f15e71]:
+            - generic [ref=f15e72]:
+              - term [ref=f15e73] [cursor=pointer]: "Page ID:"
+              - definition [ref=f15e74]: "134511"
+          - listitem [ref=f15e75]:
+            - list [ref=f15e76]:
+              - listitem [ref=f15e77]:
+                - button "Pin Page" [ref=f15e78] [cursor=pointer]: 
+              - listitem
+              - text: 
+              - listitem [ref=f15e79]:
+                - list [ref=f15e80]:
+                  - listitem [ref=f15e81]:
+                    - 'link " 1.4: Astronomy Toolkit" [ref=f15e82] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.04%3A_Astronomy_Toolkit
+                      - text: 
+                      - generic [ref=f15e83]: "1.4: Astronomy Toolkit"
+                  - listitem [ref=f15e84]:
+                    - 'link "1.6: Key Terms " [ref=f15e85] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.06%3A_Key_Terms
+                      - generic [ref=f15e86]: "1.6: Key Terms"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f15e87]:
+        - paragraph [ref=f15e88]
+        - generic [ref=f15e89]:
+          - separator [ref=f15e90]
+          - paragraph [ref=f15e92]:
+            - 'link "1.5: Astronomy and You" [ref=f15e93] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.05%3A_Astronomy_and_You
+            - text: is shared under a
+            - link "not declared" [ref=f15e94] [cursor=pointer]:
+              - /url: ""
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f15e95]:
+        - list [ref=f15e96]:
+          - listitem [ref=f15e97]:
+            - link "Back to top" [ref=f15e98] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f15e99]:
+            - list [ref=f15e100]:
+              - listitem [ref=f15e101]:
+                - 'link " 1.4: Astronomy Toolkit" [ref=f15e102] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.04%3A_Astronomy_Toolkit
+                  - text: 
+                  - generic [ref=f15e103]: "1.4: Astronomy Toolkit"
+              - listitem [ref=f15e104]:
+                - 'link "1.6: Key Terms " [ref=f15e105] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.06%3A_Key_Terms
+                  - generic [ref=f15e106]: "1.6: Key Terms"
+                  - text: 
+        - list [ref=f15e109]:
+          - listitem [ref=f15e110]: Was this article helpful?
+          - listitem [ref=f15e111]:
+            - button "Yes" [ref=f15e112] [cursor=pointer]
+          - listitem [ref=f15e113]:
+            - button "No" [ref=f15e114] [cursor=pointer]
+          - listitem [ref=f15e115]:
+            - button "Leave feedback" [ref=f15e116] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : :"
+        - generic [ref=f15e117]:
+          - heading "Attachments" [level=2] [ref=f15e118]
+          - generic:
+            - button "Attach a file" [ref=f15e119] [cursor=pointer]
+            - text: 
+          - generic [ref=f15e121]:
+            - generic [ref=f15e124]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f15e125]
+            - generic [ref=f15e126]:
+              - grid [ref=f15e129]:
+                - rowgroup [ref=f15e130]:
+                  - row [ref=f15e131]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f15e132]':
+                      - generic:
+                        - generic [ref=f15e133]: File
+                        - generic [ref=f15e134]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f15e135]':
+                      - generic:
+                        - generic [ref=f15e136]: Last modified
+                        - generic [ref=f15e137]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f15e138]':
+                      - generic:
+                        - generic [ref=f15e139]: Size
+                        - generic [ref=f15e140]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f15e141]':
+                      - generic:
+                        - generic [ref=f15e142]: Added by
+                        - generic [ref=f15e143]: 
+              - grid [ref=f15e145]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f15e146]: File
+                          - generic [ref=f15e147]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f15e148]: Last modified
+                          - generic [ref=f15e149]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f15e150]: Size
+                          - generic [ref=f15e151]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f15e152]: Added by
+                          - generic [ref=f15e153]: 
+                - rowgroup [ref=f15e154]:
+                  - row [ref=f15e155]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f15e156]:
+                      - generic [ref=f15e157]:
+                        - generic [ref=f15e158]:
+                          - generic [ref=f15e159]: 
+                          - link "mindtouch.page#thumbnail" [ref=f15e160] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63565/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f15e161]:
+                          - generic [ref=f15e162]: (no description)
+                          - text: 
+                    - gridcell "Dec 12, 2025, 8:51 AM" [ref=f15e163]
+                    - gridcell "11 KiB" [ref=f15e165]
+                    - gridcell "Rachel Mastrapa" [ref=f15e166]
+    - generic [ref=f15e168]:
+      - button "Open support menu" [ref=f15e170] [cursor=pointer]: "?"
+      - navigation [ref=f15e172]:
+        - paragraph [ref=f15e174]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f15e175] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f15e176] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f15e177] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f15e178] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f15e179] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f15e180]:
+      - generic:
+        - generic [ref=f15e182]:
+          - button "Annotation sidebar" [ref=f15e183]
+          - generic [ref=f15e188]:
+            - button "Show highlights" [ref=f15e189]
+            - button "New page note" [ref=f15e194]
+          - status [ref=f15e199]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f15e200]:
+    - button "contents" [ref=f15e201] [cursor=pointer]
+    - button "readability" [ref=f15e203] [cursor=pointer]
+    - button "resources" [ref=f15e205] [cursor=pointer]
+    - button "tools" [ref=f15e207] [cursor=pointer]
+    - button "developers" [ref=f15e209] [cursor=pointer]

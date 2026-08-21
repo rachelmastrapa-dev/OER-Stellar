@@ -1,0 +1,507 @@
+- generic [ref=f232e1]:
+  - link "Skip to main content" [ref=f232e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f232e3]:
+    - text: 
+    - generic [ref=f232e4]:
+      - generic [ref=f232e5]:
+        - generic: ✕
+        - navigation [ref=f232e7]:
+          - generic [ref=f232e8]:
+            - link [ref=f232e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f232e11]
+            - button "Enter Reader Mode" [ref=f232e13] [cursor=pointer]:
+              - generic [ref=f232e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f232e16]:
+        - list [ref=f232e18]:
+          - listitem [ref=f232e19]:
+            - link [ref=f232e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f232e22]
+          - listitem [ref=f232e23]:
+            - text: 
+            - generic [ref=f232e25]:
+              - generic [ref=f232e26]: "Search :"
+              - searchbox "Search :" [ref=f232e27]
+              - button " Search" [ref=f232e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f232e29]:
+            - list [ref=f232e30]:
+              - listitem [ref=f232e31]:
+                - link "Edit" [ref=f232e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.01%3A_Celestial_Coordinates?action=edit
+              - text: 
+              - listitem [ref=f232e33]:
+                - link " Options" [ref=f232e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f232e35]:
+                - link " Rachel Mastrapa" [ref=f232e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f232e37]:
+        - generic:
+          - button " Contents" [ref=f232e217] [cursor=pointer]
+          - list [ref=f232e39]:
+            - listitem [ref=f232e40]:
+              - link " Home" [ref=f232e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f232e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f232e43]:
+              - link " Workbench" [ref=f232e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f232e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f232e46]:
+              - link " De Anza - ASTR10" [ref=f232e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f232e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f232e49]:
+              - 'link " 8: Stellar Tracking" [ref=f232e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking
+                - generic [ref=f232e51]: 
+                - text: "8: Stellar Tracking"
+              - text: »
+            - listitem [ref=f232e52]:
+              - generic [ref=f232e53]: 
+              - text: "8.1: Celestial Coordinates"
+          - button " Expand/collapse global location" [ref=f232e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                  
+    - article [ref=f232e55]:
+      - generic [ref=f232e56]:
+        - generic [ref=f232e57]:
+          - button " Page settings" [ref=f232e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "8.1: Celestial Coordinates" [level=1] [ref=f232e59]':
+          - generic [ref=f232e218]: "8.1: Celestial Coordinates "
+        - list [ref=f232e62]:
+          - listitem [ref=f232e63]:
+            - link [ref=f232e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f232e66]:
+                - img "CC" [ref=f232e67]
+                - img "BY" [ref=f232e68]
+          - listitem [ref=f232e69]:
+            - generic [ref=f232e70]:
+              - term [ref=f232e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f232e72]: Dec 28, 2025, 10:01 AM by Rachel Mastrapa
+          - listitem [ref=f232e73]:
+            - generic [ref=f232e74]:
+              - term [ref=f232e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f232e76]: Private
+          - listitem [ref=f232e77]:
+            - generic [ref=f232e78]:
+              - term [ref=f232e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f232e80]: "132323"
+          - listitem [ref=f232e81]:
+            - list [ref=f232e82]:
+              - listitem [ref=f232e83]:
+                - button "Pin Page" [ref=f232e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f232e85]:
+                - list [ref=f232e86]:
+                  - listitem [ref=f232e87]:
+                    - 'link " 8: Stellar Tracking" [ref=f232e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking
+                      - text: 
+                      - generic [ref=f232e89]: "8: Stellar Tracking"
+                  - listitem [ref=f232e90]:
+                    - 'link "8.2: Doppler Effect " [ref=f232e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.02%3A_Doppler_Effect
+                      - generic [ref=f232e92]: "8.2: Doppler Effect"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f232e93]:
+        - group [ref=f232e222]:
+          - generic [ref=f232e223]:
+            - generic [ref=f232e224]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f232e225]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f232e226]:
+            - generic [ref=f232e229]:
+              - generic [ref=f232e230]:
+                - generic [ref=f232e231]:
+                  - link "Edit" [ref=f232e232]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f232e233]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f232e234]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f232e235]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f232e236]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f232e237]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f232e238]: "Words: 2462, Chars: 14702"
+              - group "Editor toolbars" [ref=f232e240]:
+                - toolbar [ref=f232e241]:
+                  - button "Save" [ref=f232e242]:
+                    - generic [ref=f232e243]: 
+                  - button "Cancel" [ref=f232e245]:
+                    - generic [ref=f232e246]: 
+                - toolbar [ref=f232e249]:
+                  - button "Undo" [disabled] [ref=f232e250]:
+                    - generic [ref=f232e251]: 
+                  - button "Redo" [disabled] [ref=f232e252]:
+                    - generic [ref=f232e253]: 
+                - toolbar [ref=f232e255]:
+                  - button "Headings" [ref=f232e256]
+                - toolbar [ref=f232e261]:
+                  - button "Bold" [ref=f232e262]:
+                    - generic [ref=f232e263]: 
+                  - button "Italic" [ref=f232e264]:
+                    - generic [ref=f232e265]: 
+                  - button "Underline" [ref=f232e266]:
+                    - generic [ref=f232e267]: 
+                - toolbar [ref=f232e269]:
+                  - button "Text color" [ref=f232e270]:
+                    - generic [ref=f232e271]: 
+                  - button "Background color" [ref=f232e273]:
+                    - generic [ref=f232e274]: 
+                - toolbar [ref=f232e277]:
+                  - button "Remove format" [ref=f232e278]:
+                    - generic [ref=f232e279]: 
+                - toolbar [ref=f232e281]:
+                  - button "Insert/Remove numbered list" [ref=f232e282]:
+                    - generic [ref=f232e283]: 
+                  - button "Insert/Remove bulleted list" [ref=f232e284]:
+                    - generic [ref=f232e285]: 
+                - toolbar [ref=f232e287]:
+                  - button "Alignment" [ref=f232e288]:
+                    - generic [ref=f232e289]: 
+                - text: 
+                - toolbar [ref=f232e292]:
+                  - button "Link" [ref=f232e293]:
+                    - generic [ref=f232e294]: 
+                  - button "Image" [ref=f232e295]:
+                    - generic [ref=f232e296]: 
+                  - text: 
+                  - button "Boxes" [ref=f232e297]
+                - toolbar [ref=f232e302]:
+                  - button "Replace" [ref=f232e303]:
+                    - generic [ref=f232e304]: 
+                - toolbar [ref=f232e306]:
+                  - button "Enable Binder" [ref=f232e307]
+                  - button "Insert Adapt" [ref=f232e309]
+                  - button "Query" [ref=f232e311]
+                  - button "Accessibility Checker" [ref=f232e314]
+                - toolbar [ref=f232e317]:
+                  - button "HTML" [ref=f232e318]:
+                    - generic [ref=f232e319]: 
+            - application "Rich Text Editor, editarea" [ref=f232e321]:
+              - iframe [active] [ref=f232e322]:
+                - generic [active] [ref=f234e1]:
+                  - paragraph [ref=f234e2]:
+                    - text: In order to create an accurate map, a mapmaker needs a way to uniquely and simply identify the location of all the major features on the map, such as cities or natural landmarks. Similarly, astronomical mapmakers need a way to uniquely and simply identify the location of stars, galaxies, and other celestial objects. On Earth maps, we divide the surface of Earth into a grid, and each location on that grid can easily be found using its
+                    - emphasis [ref=f234e3]: latitude
+                    - text: and
+                    - emphasis [ref=f234e4]: longitude
+                    - text: coordinate. Astronomers have a similar system for objects on the sky. Learning about these can help us understand the apparent motion of objects in the sky from various places on Earth.
+                  - heading "Locating Places on Earth" [level=3] [ref=f234e5]
+                  - paragraph [ref=f234e6]: "Let’s begin by fixing our position on the surface of planet Earth. As we discussed in Observing the Sky: The Birth of Astronomy, Earth’s axis of rotation defines the locations of its North and South Poles and of its equator, halfway between. Two other directions are also defined by Earth’s motions: east is the direction toward which Earth rotates, and west is its opposite. At almost any point on Earth, the four directions—north, south, east, and west—are well defined, despite the fact that our planet is round rather than flat. The only exceptions are exactly at the North and South Poles, where the directions east and west are ambiguous (because points exactly at the poles do not turn)."
+                  - paragraph [ref=f234e7]: We can use these ideas to define a system of coordinates attached to our planet. Such a system, like the layout of streets and avenues in Manhattan or Salt Lake City, helps us find where we are or want to go. Coordinates on a sphere, however, are a little more complicated than those on a flat surface. We must define circles on the sphere that play the same role as the rectangular grid that you see on city maps.
+                  - paragraph [ref=f234e8]: A great circle is any circle on the surface of a sphere whose center is at the center of the sphere. For example, Earth’s equator is a great circle on Earth’s surface, halfway between the North and South Poles. We can also imagine a series of great circles that pass through both the North and South Poles. Each of the circles is called a meridian; they are each perpendicular to the equator, crossing it at right angles.
+                  - paragraph [ref=f234e9]: Any point on the surface of Earth will have a meridian passing through it (Figure 4.2). The meridian specifies the east-west location, or longitude, of the place. By international agreement (and it took many meetings for the world’s countries to agree), longitude is defined as the number of degrees of arc along the equator between your meridian and the one passing through Greenwich, England, which has been designated as the Prime Meridian. The longitude of the Prime Meridian is defined as 0°.
+                  - 'figure "Figure 4.2 : Latitude and Longitude of Washington, DC. We use latitude and longitude to find cities like Washington, DC, on a globe. Latitude is the number of degrees north or south of the equator, and longitude is the number of degrees east or west of the Prime Meridian. Washington, DC’s coordinates are 38° N and 77° W." [ref=f234e10]':
+                    - img "On this illustration of the Earth, roughly centered on the North Atlantic, lines of latitude and longitude are drawn in white. The lines of longitude are parallel with the equator, which is indicated with an arrow at lower right. The “Prime Meridian of longitude” is indicated with an arrow at upper right. A grey arrow, labeled “Latitude”, is drawn northward from the equator in South America to intersect with a grey arrow, labeled “Longitude”, that is drawn westward from the prime meridian. At the intersection of these arrows, “Washington D.C.” is labeled." [ref=f234e12]
+                  - paragraph [ref=f234e14]: Why Greenwich, you might ask? Every country wanted 0° longitude to pass through its own capital. Greenwich, the site of the old Royal Observatory (Figure 4.3), was selected because it was between continental Europe and the United States, and because it was the site for much of the development of the method to measure longitude at sea. Longitudes are measured either to the east or to the west of the Greenwich meridian from 0° to 180°. As an example, the longitude of the clock-house benchmark of the U.S. Naval Observatory in Washington, DC, is 77.066° W.
+                  - 'figure "Figure 4.3 : Royal Observatory in Greenwich, England. At the internationally agreed-upon zero point of longitude at the Royal Observatory Greenwich, tourists can stand and straddle the exact line where longitude “begins.”(credit left: modification of work by “pdbreen”/Flickr; credit right: modification of work by Ben Sutherland)" [ref=f234e15]':
+                    - img "Royal Greenwich Observatory in England. Two images of tourists walking on and near the prime meridian marker in England." [ref=f234e17]
+                  - paragraph [ref=f234e19]: Your latitude (or north-south location) is the number of degrees of arc you are away from the equator along your meridian. Latitudes are measured either north or south of the equator from 0° to 90°. (The latitude of the equator is 0°.) As an example, the latitude of the previously mentioned Naval Observatory benchmark is 38.921° N. The latitude of the South Pole is 90° S, and the latitude of the North Pole is 90° N.
+                  - heading "Locating Places in the Sky" [level=3] [ref=f234e20]
+                  - paragraph [ref=f234e21]:
+                    - text: "Positions in the sky are measured in a way that is very similar to the way we measure positions on the surface of Earth. Instead of latitude and longitude, however, astronomers use coordinates called declination and right ascension. To denote positions of objects in the sky, it is often convenient to make use of the fictitious celestial sphere. We saw in Observing the Sky: The Birth of Astronomy that the sky appears to rotate about points above the North and South Poles of Earth—points in the sky called the north celestial pole and the south celestial pole. Halfway between the celestial poles, and thus 90° from each pole, is the"
+                    - emphasis [ref=f234e22]: celestial equator,
+                    - text: a great circle on the celestial sphere that is in the same plane as Earth’s equator. We can use these markers in the sky to set up a system of celestial coordinates.
+                  - paragraph [ref=f234e23]: "Declination on the celestial sphere is measured the same way that latitude is measured on the sphere of Earth: from the celestial equator toward the north (positive) or south (negative). So Polaris, the star near the north celestial pole, has a declination of almost +90°."
+                  - paragraph [ref=f234e24]:
+                    - text: Right ascension (RA) is like longitude, except that instead of Greenwich, the arbitrarily chosen point where we start counting is the
+                    - emphasis [ref=f234e25]: vernal equinox
+                    - text: ", a point in the sky where the"
+                    - emphasis [ref=f234e26]: ecliptic
+                    - text: (the Sun’s path) crosses the celestial equator. RA can be expressed either in units of angle (degrees) or in units of time. This is because the celestial sphere appears to turn around Earth once a day as our planet turns on its axis. Thus the 360° of RA that it takes to go once around the celestial sphere can just as well be set equal to 24 hours. Then each 15° of arc is equal to 1 hour of time. For example, the approximate celestial coordinates of the bright star Capella are RA
+                    - math [ref=f234e27]:
+                      - generic [ref=f234e30]:
+                        - generic [ref=f234e31]: "5"
+                        - generic [ref=f234e32]: h
+                        - generic [ref=f234e33]: =
+                        - generic [ref=f234e34]: "75"
+                        - generic [ref=f234e35]: °
+                    - text: and declination
+                    - math [ref=f234e36]:
+                      - generic [ref=f234e38]:
+                        - generic [ref=f234e39]: +
+                        - generic [ref=f234e40]: "50"
+                        - generic [ref=f234e41]: °
+                    - text: .
+                  - paragraph [ref=f234e42]: One way to visualize these circles in the sky is to imagine Earth as a transparent sphere with the terrestrial coordinates (latitude and longitude) painted on it with dark paint. Imagine the celestial sphere around us as a giant ball, painted white on the inside. Then imagine yourself at the center of Earth, with a bright light bulb in the middle, looking out through its transparent surface to the sky. The terrestrial poles, equator, and meridians will be projected as dark shadows on the celestial sphere, giving us the system of coordinates in the sky.
+                  - heading "The Turning Earth" [level=3] [ref=f234e43]
+                  - paragraph [ref=f234e44]: Why do many stars rise and set each night? Why, in other words, does the night sky seem to turn? We have seen that the apparent rotation of the celestial sphere could be accounted for either by a daily rotation of the sky around a stationary Earth or by the rotation of Earth itself. Since the seventeenth century, it has been generally accepted that it is Earth that turns, but not until the nineteenth century did the French physicist Jean Foucault provide an unambiguous demonstration of this rotation. In 1851, he suspended a 60-meter pendulum with a mass of about 25 kilograms from the dome of the Pantheon in Paris and started the pendulum swinging evenly. If Earth had not been turning, there would have been no alteration of the pendulum’s plane of oscillation, and so it would have continued tracing the same path. Yet after a few minutes Foucault could see that the pendulum’s plane of motion was turning. Foucault explained that it was not the pendulum that was shifting, but rather Earth that was turning beneath it (Figure 4.4). You can now find such pendulums in many science centers and planetariums around the world.
+                  - 'figure "Figure 4.4 : Foucault’s Pendulum. As Earth turns, the plane of oscillation of the Foucault pendulum shifts gradually so that over the course of 12 hours, all the targets in the circle at the edge of the wooden platform are knocked over in sequence. (credit: Manuel M. Vicente)" [ref=f234e45]':
+                    - img "Photograph of Foucault’s Pendulum. Several viewers watch the pendulum bob (silver sphere at center) as it swings over the circular wooden platform containing the targets it will knock over in the course of a day." [ref=f234e47]
+                  - paragraph [ref=f234e49]: Can you think of other pieces of evidence that indicate that it is Earth and not the sky that is turning? (See Collaborative Group Activity A at the end of this chapter.)
+                  - heading "Locating Places in the Sky" [level=3] [ref=f234e50]
+                  - paragraph [ref=f234e51]:
+                    - strong [ref=f234e52]: Celestial cartography
+                    - text: ", also known as"
+                    - strong [ref=f234e53]: uranography
+                    - text: or
+                    - strong [ref=f234e54]: star cartography
+                    - text: ", is the area of astronomy that produces star maps. Most are aware of cartographers who made early and more recent maps of Earth. Both types of cartography were difficult in early history; we were not certain of the exact sizes and shapes of land masses, and there are many, many stars to chart correctly. Many early Earth and star maps were very artistic in nature and truly took not only a scientific mind, but the skills of an amazing artist."
+                  - figure "Public Domain" [ref=f234e55]:
+                    - img "Image of the paining The constellation of Aquarius in the 1603 star map Uranometria By Johann Bayer." [ref=f234e56]
+                  - paragraph [ref=f234e58]
+                  - 'figure "CC BY-SA 3. 0 | Image courtesy of Wikimedia Author: Rursus / kstars." [ref=f234e59]':
+                    - img "A star map of the Aquarius constellation." [ref=f234e60]
+                  - paragraph [ref=f234e62]: Celestial objects are shown on planispheres, star charts and maps, and star atlases, as well as computer and tablet applications and programs. The printed planispheres and charts use different size “dots” to represent the object’s brightness. Many of the new star chart computer and tablet applications and programs are able to show star brightness without using a larger or smaller dot.
+                  - paragraph [ref=f234e63]:
+                    - text: "The charts, maps, and applications show the object’s apparent magnitude. The apparent magnitude scale is based on what we see, and does not truly compare a star’s true brightness to other stars. So astronomers devised a second scale:"
+                    - strong [ref=f234e64]: Absolute Magnitude, M
+                    - text: . This scale defines brightness as if we moved all the stars to the same distance; 10 parsecs. These measurements, albeit hypothetical since we cannot move objects to a distance of 10 pc, are the measure of a celestial object’s intrinsic brightness. This allows astronomers and astrophysicists to directly compare star brightness’;
+                    - emphasis [ref=f234e65]: comparing apples to apples
+                    - text: .
+                  - paragraph [ref=f234e66]: Take our Sun, for example. It is so close, relative to the other stars and celestial objects, that it appears to be very bright, with an apparent magnitude -26. 74 Mv. Yet move the Sun to the hypothetical distance of 10 pc, and the Sun becomes a relatively faint 4. 83 M absolute magnitude object.
+                  - heading "Comparing Some Apparent versus Absolute Magnitudes" [level=3] [ref=f234e67]
+                  - paragraph [ref=f234e68]
+                  - table [ref=f234e69]:
+                    - caption [ref=f234e70]: "Table xxx: Apparent vs. Absolute Magnitudes adapted from Lumen, updated with wikipedia -get all websites?"
+                    - rowgroup [ref=f234e71]:
+                      - row [ref=f234e72]:
+                        - columnheader "Object" [ref=f234e73]
+                        - columnheader "Apparent Magnitude (V)" [ref=f234e74]
+                        - columnheader "Absolute Magnitude (V)" [ref=f234e75]
+                    - rowgroup [ref=f234e76]:
+                      - row [ref=f234e77]:
+                        - cell "Rigel (variable)" [ref=f234e78]
+                        - cell "0.05-0.18" [ref=f234e79]
+                        - cell "-7.84" [ref=f234e80]
+                      - row [ref=f234e81]:
+                        - cell "Polaris (variable)" [ref=f234e82]
+                        - cell "1.86-2.13" [ref=f234e83]
+                        - cell "-3.6" [ref=f234e84]
+                      - row [ref=f234e85]:
+                        - cell "Betelgeuse (variable)" [ref=f234e86]
+                        - cell "0.0-1.6" [ref=f234e87]
+                        - cell "-5.85" [ref=f234e88]
+                      - row [ref=f234e89]:
+                        - cell "Vega" [ref=f234e90]
+                        - cell "-0.02-0.07" [ref=f234e91]
+                        - cell "0.582" [ref=f234e92]
+                      - row [ref=f234e93]:
+                        - cell "Sirius" [ref=f234e94]
+                        - cell "-1.46" [ref=f234e95]
+                        - cell "1.43" [ref=f234e96]
+                      - row [ref=f234e97]:
+                        - cell "Alpha Centauri A (Rigil Kentaurus)" [ref=f234e98]
+                        - cell "0.01" [ref=f234e99]
+                        - cell "4.38" [ref=f234e100]
+                      - row [ref=f234e101]:
+                        - cell "Sun" [ref=f234e102]
+                        - cell "-26.832" [ref=f234e103]
+                        - cell "4.83" [ref=f234e104]
+                      - row [ref=f234e105]:
+                        - cell "Andromeda Galaxy, M31" [ref=f234e106]
+                        - cell "3.44" [ref=f234e107]
+                        - cell "-21.5" [ref=f234e108]
+                      - row [ref=f234e109]:
+                        - cell "Black Eye Galaxy, M64" [ref=f234e110]
+                        - cell "8.52" [ref=f234e111]
+                        - cell "-21.07" [ref=f234e112]
+                  - paragraph [ref=f234e113]
+                  - paragraph [ref=f234e114]:
+                    - text: "Positions in the sky are measured in a way that is very similar to the way we measure positions on the surface of Earth. Instead of latitude and longitude, however, astronomers use coordinates called declination and right ascension. To denote positions of objects in the sky, it is often convenient to make use of the fictitious celestial sphere. We saw in Observing the Sky: The Birth of Astronomy that the sky appears to rotate about points above the North and South Poles of Earth—points in the sky called the north celestial pole and the south celestial pole. Halfway between the celestial poles, and thus 90° from each pole, is the"
+                    - emphasis [ref=f234e115]: celestial equator,
+                    - text: a great circle on the celestial sphere that is in the same plane as Earth’s equator. We can use these markers in the sky to set up a system of celestial coordinates.
+                  - paragraph [ref=f234e116]: "Declination on the celestial sphere is measured the same way that latitude is measured on the sphere of Earth: from the celestial equator toward the north (positive) or south (negative). So Polaris, the star near the north celestial pole, has a declination of almost +90°."
+                  - paragraph [ref=f234e117]:
+                    - text: Right ascension (RA) is like longitude, except that instead of Greenwich, the arbitrarily chosen point where we start counting is the
+                    - emphasis [ref=f234e118]: vernal equinox
+                    - text: ", a point in the sky where the"
+                    - emphasis [ref=f234e119]: ecliptic
+                    - text: (the Sun’s path) crosses the celestial equator. RA can be expressed either in units of angle (degrees) or in units of time. This is because the celestial sphere appears to turn around Earth once a day as our planet turns on its axis. Thus the 360° of RA that it takes to go once around the celestial sphere can just as well be set equal to 24 hours. Then each 15° of arc is equal to 1 hour of time. For example, the approximate celestial coordinates of the bright star Capella are RA
+                    - math [ref=f234e120]:
+                      - generic [ref=f234e123]:
+                        - generic [ref=f234e124]: "5"
+                        - generic [ref=f234e125]: h
+                        - generic [ref=f234e126]: =
+                        - generic [ref=f234e127]: "75"
+                        - generic [ref=f234e128]: °
+                    - text: and declination
+                    - math [ref=f234e129]:
+                      - generic [ref=f234e131]:
+                        - generic [ref=f234e132]: +
+                        - generic [ref=f234e133]: "50"
+                        - generic [ref=f234e134]: °
+                    - text: .
+                  - paragraph [ref=f234e135]: One way to visualize these circles in the sky is to imagine Earth as a transparent sphere with the terrestrial coordinates (latitude and longitude) painted on it with dark paint. Imagine the celestial sphere around us as a giant ball, painted white on the inside. Then imagine yourself at the center of Earth, with a bright light bulb in the middle, looking out through its transparent surface to the sky. The terrestrial poles, equator, and meridians will be projected as dark shadows on the celestial sphere, giving us the system of coordinates in the sky.
+                  - heading "The Turning Earth" [level=3] [ref=f234e136]
+                  - paragraph [ref=f234e137]: Why do many stars rise and set each night? Why, in other words, does the night sky seem to turn? We have seen that the apparent rotation of the celestial sphere could be accounted for either by a daily rotation of the sky around a stationary Earth or by the rotation of Earth itself. Since the seventeenth century, it has been generally accepted that it is Earth that turns, but not until the nineteenth century did the French physicist Jean Foucault provide an unambiguous demonstration of this rotation. In 1851, he suspended a 60-meter pendulum with a mass of about 25 kilograms from the dome of the Pantheon in Paris and started the pendulum swinging evenly. If Earth had not been turning, there would have been no alteration of the pendulum’s plane of oscillation, and so it would have continued tracing the same path. Yet after a few minutes Foucault could see that the pendulum’s plane of motion was turning. Foucault explained that it was not the pendulum that was shifting, but rather Earth that was turning beneath it (Figure 4.4). You can now find such pendulums in many science centers and planetariums around the world.
+                  - 'figure "Figure 4.4 : Foucault’s Pendulum. As Earth turns, the plane of oscillation of the Foucault pendulum shifts gradually so that over the course of 12 hours, all the targets in the circle at the edge of the wooden platform are knocked over in sequence. (credit: Manuel M. Vicente)" [ref=f234e138]':
+                    - img "Photograph of Foucault’s Pendulum. Several viewers watch the pendulum bob (silver sphere at center) as it swings over the circular wooden platform containing the targets it will knock over in the course of a day." [ref=f234e140]
+                  - paragraph [ref=f234e142]: Can you think of other pieces of evidence that indicate that it is Earth and not the sky that is turning? (See Collaborative Group Activity A at the end of this chapter.)
+                  - heading "Attributions" [level=2] [ref=f234e143]
+                  - paragraph [ref=f234e144]:
+                    - link "https://phys.libretexts.org/Workbenc...al_cartography" [ref=f234e145]:
+                      - /url: /Workbench/Solar_System_Sources/02:_Introduction_to_Astronomy_(Lumen)/2.11:_Stellar_Properties/2.11.17:_Celestial_cartography
+              - generic [ref=f232e323]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f232e325] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f232e95]:
+          - separator [ref=f232e96]
+          - paragraph [ref=f232e98]:
+            - 'link "8.1: Celestial Coordinates" [ref=f232e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.01%3A_Celestial_Coordinates
+            - text: is shared under a
+            - link "CC BY" [ref=f232e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f232e101]:
+        - list [ref=f232e102]:
+          - listitem [ref=f232e103]:
+            - link "Back to top" [ref=f232e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f232e105]:
+            - list [ref=f232e106]:
+              - listitem [ref=f232e107]:
+                - 'link " 8: Stellar Tracking" [ref=f232e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking
+                  - text: 
+                  - generic [ref=f232e109]: "8: Stellar Tracking"
+              - listitem [ref=f232e110]:
+                - 'link "8.2: Doppler Effect " [ref=f232e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.02%3A_Doppler_Effect
+                  - generic [ref=f232e112]: "8.2: Doppler Effect"
+                  - text: 
+        - list [ref=f232e115]:
+          - listitem [ref=f232e116]: Was this article helpful?
+          - listitem [ref=f232e117]:
+            - button "Yes" [ref=f232e118] [cursor=pointer]
+          - listitem [ref=f232e119]:
+            - button "No" [ref=f232e120] [cursor=pointer]
+          - listitem [ref=f232e121]:
+            - button "Leave feedback" [ref=f232e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f232e123]:
+          - heading "Attachments" [level=2] [ref=f232e124]
+          - generic:
+            - button "Attach a file" [ref=f232e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f232e127]:
+            - generic [ref=f232e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f232e131]
+            - generic [ref=f232e132]:
+              - grid [ref=f232e135]:
+                - rowgroup [ref=f232e136]:
+                  - row [ref=f232e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f232e138]':
+                      - generic:
+                        - generic [ref=f232e139]: File
+                        - generic [ref=f232e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f232e141]':
+                      - generic:
+                        - generic [ref=f232e142]: Last modified
+                        - generic [ref=f232e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f232e144]':
+                      - generic:
+                        - generic [ref=f232e145]: Size
+                        - generic [ref=f232e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f232e147]':
+                      - generic:
+                        - generic [ref=f232e148]: Added by
+                        - generic [ref=f232e149]: 
+              - grid [ref=f232e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f232e152]: File
+                          - generic [ref=f232e153]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f232e154]: Last modified
+                          - generic [ref=f232e155]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f232e156]: Size
+                          - generic [ref=f232e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f232e158]: Added by
+                          - generic [ref=f232e159]: 
+                - rowgroup [ref=f232e160]:
+                  - row [ref=f232e161]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f232e162]:
+                      - generic [ref=f232e163]:
+                        - generic [ref=f232e164]:
+                          - generic [ref=f232e165]: 
+                          - link "mindtouch.page#thumbnail" [ref=f232e166] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63443/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f232e167]:
+                          - generic [ref=f232e168]: (no description)
+                          - text: 
+                    - gridcell "Dec 7, 2025, 7:20 PM" [ref=f232e169]
+                    - gridcell "11 KiB" [ref=f232e171]
+                    - gridcell "Rachel Mastrapa" [ref=f232e172]
+    - generic [ref=f232e174]:
+      - button "Open support menu" [ref=f232e176] [cursor=pointer]: "?"
+      - navigation [ref=f232e178]:
+        - paragraph [ref=f232e180]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f232e181] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f232e182] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f232e183] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f232e184] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f232e185] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f232e186]:
+      - generic:
+        - generic [ref=f232e188]:
+          - button "Annotation sidebar" [ref=f232e189]
+          - generic [ref=f232e194]:
+            - button "Show highlights" [ref=f232e195]
+            - button "New page note" [ref=f232e200]
+          - status [ref=f232e205]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f232e206]:
+    - button "contents" [ref=f232e207] [cursor=pointer]
+    - button "readability" [ref=f232e209] [cursor=pointer]
+    - button "resources" [ref=f232e211] [cursor=pointer]
+    - button "tools" [ref=f232e213] [cursor=pointer]
+    - button "developers" [ref=f232e215] [cursor=pointer]
+  - text:  
+  - generic [ref=f232e326]:
+    - generic [ref=f232e327] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f232e330] [cursor=pointer]

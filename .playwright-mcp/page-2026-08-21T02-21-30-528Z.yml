@@ -1,0 +1,319 @@
+- generic [ref=f322e1]:
+  - link "Skip to main content" [ref=f322e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f322e3]:
+    - text: 
+    - generic [ref=f322e4]:
+      - generic [ref=f322e5]:
+        - generic: ✕
+        - navigation [ref=f322e7]:
+          - generic [ref=f322e8]:
+            - link [ref=f322e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f322e11]
+            - button "Enter Reader Mode" [ref=f322e13] [cursor=pointer]:
+              - generic [ref=f322e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f322e16]:
+        - list [ref=f322e18]:
+          - listitem [ref=f322e19]:
+            - link [ref=f322e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f322e22]
+          - listitem [ref=f322e23]:
+            - text: 
+            - generic [ref=f322e25]:
+              - generic [ref=f322e26]: "Search :"
+              - searchbox "Search :" [ref=f322e27]
+              - button " Search" [ref=f322e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f322e29]:
+            - list [ref=f322e30]:
+              - listitem [ref=f322e31]:
+                - link "Edit" [ref=f322e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.07%3A_Key_Terms?action=edit
+              - text: 
+              - listitem [ref=f322e33]:
+                - link " Options" [ref=f322e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f322e35]:
+                - link " Rachel Mastrapa" [ref=f322e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f322e37]:
+        - generic:
+          - button " Contents" [ref=f322e216] [cursor=pointer]
+          - list [ref=f322e39]:
+            - listitem [ref=f322e40]:
+              - link " Home" [ref=f322e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f322e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f322e43]:
+              - link " Workbench" [ref=f322e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f322e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f322e46]:
+              - link " De Anza - ASTR10" [ref=f322e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f322e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f322e49]:
+              - 'link " 10: Interstellar Media" [ref=f322e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media
+                - generic [ref=f322e51]: 
+                - text: "10: Interstellar Media"
+              - text: »
+            - listitem [ref=f322e52]:
+              - generic [ref=f322e53]: 
+              - text: "10.7: Key Terms"
+          - text: 
+      - navigation:
+        - generic:                                                
+    - article [ref=f322e54]:
+      - generic [ref=f322e55]:
+        - generic [ref=f322e56]:
+          - button " Page settings" [ref=f322e57] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "10.7: Key Terms" [level=1] [ref=f322e58]':
+          - generic [ref=f322e59]: "10.7: Key Terms "
+        - list [ref=f322e61]:
+          - listitem [ref=f322e62]:
+            - link [ref=f322e64] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f322e65]:
+                - img "CC" [ref=f322e66]
+                - img "BY" [ref=f322e67]
+          - listitem [ref=f322e68]:
+            - generic [ref=f322e69]:
+              - term [ref=f322e70] [cursor=pointer]: "Last updated:"
+              - definition [ref=f322e71]: Dec 3, 2025, 3:20 PM by Rachel Mastrapa
+          - listitem [ref=f322e72]:
+            - generic [ref=f322e73]:
+              - term [ref=f322e74] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f322e75]: Private
+          - listitem [ref=f322e76]:
+            - generic [ref=f322e77]:
+              - term [ref=f322e78] [cursor=pointer]: "Page ID:"
+              - definition [ref=f322e79]: "131102"
+          - listitem [ref=f322e80]:
+            - list [ref=f322e81]:
+              - listitem [ref=f322e82]:
+                - button "Pin Page" [ref=f322e83] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f322e84]:
+                - list [ref=f322e85]:
+                  - listitem [ref=f322e86]:
+                    - 'link " 10.6: Science and Society" [ref=f322e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.06%3A_Science_and_Society
+                      - text: 
+                      - generic [ref=f322e88]: "10.6: Science and Society"
+                  - listitem [ref=f322e89]:
+                    - 'link "10.8: Accessible Descriptions " [ref=f322e90] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.08%3A_Accessible_Descriptions
+                      - generic [ref=f322e91]: "10.8: Accessible Descriptions"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f322e92]:
+        - group [ref=f322e219]:
+          - generic [ref=f322e220]:
+            - generic [ref=f322e221]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f322e222]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f322e223]:
+            - generic [ref=f322e226]:
+              - generic [ref=f322e228]:
+                - link "Edit" [ref=f322e229]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f322e230]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f322e231]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f322e232]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f322e233]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f322e234]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f322e237]:
+                - toolbar [ref=f322e238]:
+                  - button "Save" [ref=f322e239]:
+                    - generic [ref=f322e240]: 
+                  - button "Cancel" [ref=f322e242]:
+                    - generic [ref=f322e243]: 
+                - text:          
+                - toolbar [ref=f322e284]:
+                  - button "Alignment" [ref=f322e285]:
+                    - generic [ref=f322e286]: 
+                - text:    
+                - toolbar [ref=f322e299]:
+                  - button "Replace" [ref=f322e300]:
+                    - generic [ref=f322e301]: 
+                - toolbar [ref=f322e303]:
+                  - button "Enable Binder" [disabled] [ref=f322e304]
+                  - button "Insert Adapt" [disabled] [ref=f322e306]
+                  - button "Query" [ref=f322e308]
+                  - button "Accessibility Checker" [disabled] [ref=f322e311]
+                - toolbar [ref=f322e314]:
+                  - button "Visual" [pressed] [ref=f322e330]:
+                    - generic [ref=f322e316]: 
+            - application "Rich Text Editor, editarea" [ref=f322e318]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f322e332]
+              - generic [ref=f322e320]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f322e322] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f322e94]:
+          - separator [ref=f322e95]
+          - paragraph [ref=f322e97]:
+            - 'link "10.7: Key Terms" [ref=f322e98] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.07%3A_Key_Terms
+            - text: is shared under a
+            - link "CC BY" [ref=f322e99] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f322e100]:
+        - list [ref=f322e101]:
+          - listitem [ref=f322e102]:
+            - link "Back to top" [ref=f322e103] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f322e104]:
+            - list [ref=f322e105]:
+              - listitem [ref=f322e106]:
+                - 'link " 10.6: Science and Society" [ref=f322e107] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.06%3A_Science_and_Society
+                  - text: 
+                  - generic [ref=f322e108]: "10.6: Science and Society"
+              - listitem [ref=f322e109]:
+                - 'link "10.8: Accessible Descriptions " [ref=f322e110] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.08%3A_Accessible_Descriptions
+                  - generic [ref=f322e111]: "10.8: Accessible Descriptions"
+                  - text: 
+        - list [ref=f322e114]:
+          - listitem [ref=f322e115]: Was this article helpful?
+          - listitem [ref=f322e116]:
+            - button "Yes" [ref=f322e117] [cursor=pointer]
+          - listitem [ref=f322e118]:
+            - button "No" [ref=f322e119] [cursor=pointer]
+          - listitem [ref=f322e120]:
+            - button "Leave feedback" [ref=f322e121] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f322e122]:
+          - heading "Attachments" [level=2] [ref=f322e123]
+          - generic:
+            - button "Attach a file" [ref=f322e124] [cursor=pointer]
+            - text: 
+          - generic [ref=f322e126]:
+            - generic [ref=f322e129]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f322e130]
+            - generic [ref=f322e131]:
+              - grid [ref=f322e134]:
+                - rowgroup [ref=f322e135]:
+                  - row [ref=f322e136]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f322e137]':
+                      - generic:
+                        - generic [ref=f322e138]: File
+                        - generic [ref=f322e139]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f322e140]':
+                      - generic:
+                        - generic [ref=f322e141]: Last modified
+                        - generic [ref=f322e142]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f322e143]':
+                      - generic:
+                        - generic [ref=f322e144]: Size
+                        - generic [ref=f322e145]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f322e146]':
+                      - generic:
+                        - generic [ref=f322e147]: Added by
+                        - generic [ref=f322e148]: 
+              - grid [ref=f322e150]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f322e151]: File
+                          - generic [ref=f322e152]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f322e153]: Last modified
+                          - generic [ref=f322e154]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f322e155]: Size
+                          - generic [ref=f322e156]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f322e157]: Added by
+                          - generic [ref=f322e158]: 
+                - rowgroup [ref=f322e159]:
+                  - row [ref=f322e160]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f322e161]:
+                      - generic [ref=f322e162]:
+                        - generic [ref=f322e163]:
+                          - generic [ref=f322e164]: 
+                          - link "mindtouch.page#thumbnail" [ref=f322e165] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63082/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f322e166]:
+                          - generic [ref=f322e167]: (no description)
+                          - text: 
+                    - gridcell "Dec 3, 2025, 3:20 PM" [ref=f322e168]
+                    - gridcell "11 KiB" [ref=f322e170]
+                    - gridcell "Rachel Mastrapa" [ref=f322e171]
+    - generic [ref=f322e173]:
+      - button "Open support menu" [ref=f322e175] [cursor=pointer]: "?"
+      - navigation [ref=f322e177]:
+        - paragraph [ref=f322e179]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f322e180] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f322e181] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f322e182] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f322e183] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f322e184] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f322e185]:
+      - generic:
+        - generic [ref=f322e187]:
+          - button "Annotation sidebar" [ref=f322e188]
+          - generic [ref=f322e193]:
+            - button "Show highlights" [ref=f322e194]
+            - button "New page note" [ref=f322e199]
+          - status [ref=f322e204]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f322e205]:
+    - button "contents" [ref=f322e206] [cursor=pointer]
+    - button "readability" [ref=f322e208] [cursor=pointer]
+    - button "resources" [ref=f322e210] [cursor=pointer]
+    - button "tools" [ref=f322e212] [cursor=pointer]
+    - button "developers" [ref=f322e214] [cursor=pointer]
+  - text:  
+  - generic [ref=f322e323]:
+    - generic [ref=f322e324] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f322e327] [cursor=pointer]

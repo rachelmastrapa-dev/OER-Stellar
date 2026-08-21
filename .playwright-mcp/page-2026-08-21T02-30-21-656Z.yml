@@ -1,0 +1,334 @@
+- generic [ref=f376e1]:
+  - link "Skip to main content" [ref=f376e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f376e3]:
+    - text: 
+    - generic [ref=f376e4]:
+      - generic [ref=f376e5]:
+        - generic: ✕
+        - navigation [ref=f376e7]:
+          - generic [ref=f376e8]:
+            - link [ref=f376e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f376e11]
+            - button "Enter Reader Mode" [ref=f376e13] [cursor=pointer]:
+              - generic [ref=f376e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f376e16]:
+        - list [ref=f376e18]:
+          - listitem [ref=f376e19]:
+            - link [ref=f376e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f376e22]
+          - listitem [ref=f376e23]:
+            - text: 
+            - generic [ref=f376e25]:
+              - generic [ref=f376e26]: "Search :"
+              - searchbox "Search :" [ref=f376e27]
+              - button " Search" [ref=f376e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f376e29]:
+            - list [ref=f376e30]:
+              - listitem [ref=f376e31]:
+                - link "Edit" [ref=f376e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.05%3A_Stories_of_the_Pleiades?action=edit
+              - text: 
+              - listitem [ref=f376e33]:
+                - link " Options" [ref=f376e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f376e35]:
+                - link " Rachel Mastrapa" [ref=f376e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f376e37]:
+        - generic:
+          - button " Contents" [ref=f376e208] [cursor=pointer]
+          - list [ref=f376e39]:
+            - listitem [ref=f376e40]:
+              - link " Home" [ref=f376e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f376e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f376e43]:
+              - link " Workbench" [ref=f376e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f376e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f376e46]:
+              - link " De Anza - ASTR10" [ref=f376e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f376e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f376e49]:
+              - 'link " 12: Aging Stars" [ref=f376e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars
+                - generic [ref=f376e51]: 
+                - text: "12: Aging Stars"
+              - text: »
+            - listitem [ref=f376e52]:
+              - generic [ref=f376e53]: 
+              - text: "12.5: Stories of the Pleiades"
+          - button " Expand/collapse global location" [ref=f376e54] [cursor=pointer]
+      - navigation:
+        - generic:                                               
+    - article [ref=f376e55]:
+      - generic [ref=f376e56]:
+        - generic [ref=f376e57]:
+          - button " Page settings" [ref=f376e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "12.5: Stories of the Pleiades" [level=1] [ref=f376e59]':
+          - generic [ref=f376e209]: "12.5: Stories of the Pleiades "
+        - list [ref=f376e62]:
+          - listitem [ref=f376e63]:
+            - link [ref=f376e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by-nc/4.0/
+              - generic [ref=f376e66]:
+                - img "CC" [ref=f376e67]
+                - img "BY" [ref=f376e68]
+                - img "NC" [ref=f376e69]
+          - listitem [ref=f376e70]:
+            - generic [ref=f376e71]:
+              - term [ref=f376e72] [cursor=pointer]: "Last updated:"
+              - definition [ref=f376e73]: Aug 4, 2026, 4:49 PM by Jyothsna Viswanadha
+          - listitem [ref=f376e74]:
+            - generic [ref=f376e75]:
+              - term [ref=f376e76] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f376e77]: Private
+          - listitem [ref=f376e78]:
+            - generic [ref=f376e79]:
+              - term [ref=f376e80] [cursor=pointer]: "Page ID:"
+              - definition [ref=f376e81]: "128550"
+          - listitem [ref=f376e82]:
+            - list [ref=f376e83]:
+              - listitem [ref=f376e84]:
+                - button "Pin Page" [ref=f376e85] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f376e86]:
+                - list [ref=f376e87]:
+                  - listitem [ref=f376e88]:
+                    - 'link " 12.4: Further Evolution of Stars" [ref=f376e89] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.04%3A_Further_Evolution_of_Stars
+                      - text: 
+                      - generic [ref=f376e90]: "12.4: Further Evolution of Stars"
+                  - listitem [ref=f376e91]:
+                    - 'link "12.6: Key Terms " [ref=f376e92] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.06%3A_Key_Terms
+                      - generic [ref=f376e93]: "12.6: Key Terms"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f376e94]:
+        - group [ref=f376e213]:
+          - generic [ref=f376e214]:
+            - generic [ref=f376e215]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f376e216]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f376e217]:
+            - generic [ref=f376e220]:
+              - generic [ref=f376e222]:
+                - link "Edit" [ref=f376e223]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f376e224]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f376e225]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f376e226]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f376e227]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f376e228]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f376e231]:
+                - toolbar [ref=f376e232]:
+                  - button "Save" [ref=f376e233]:
+                    - generic [ref=f376e234]: 
+                  - button "Cancel" [ref=f376e236]:
+                    - generic [ref=f376e237]: 
+                - text:          
+                - toolbar [ref=f376e278]:
+                  - button "Alignment" [ref=f376e279]:
+                    - generic [ref=f376e280]: 
+                - text:    
+                - toolbar [ref=f376e293]:
+                  - button "Replace" [ref=f376e294]:
+                    - generic [ref=f376e295]: 
+                - toolbar [ref=f376e297]:
+                  - button "Enable Binder" [disabled] [ref=f376e298]
+                  - button "Insert Adapt" [disabled] [ref=f376e300]
+                  - button "Query" [ref=f376e302]
+                  - button "Accessibility Checker" [disabled] [ref=f376e305]
+                - toolbar [ref=f376e308]:
+                  - button "Visual" [pressed] [ref=f376e356]:
+                    - generic [ref=f376e310]: 
+            - application "Rich Text Editor, editarea" [ref=f376e312]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f376e358]: "<h2>Science and Society - Indigenous African Astronomy</h2> <p>This Science and Society is inspired by Dr. Jarita Holbrook's Astrobites article from 2020, which focuses on one of her publications about Indigenous African astronomy, exploring the relationship between women and the night sky in African cultures.</p> <p>Dr. Jarita Holbrook is an astronomer. However, she studies more than just the sky in her research. After earning her PhD in Astronomy &amp; Astrophysics from University of California, Santa Cruz, her interests shifted towards something more interdisciplinary: cultural astronomy, particularly indigenous African astronomy. Her work has centered on&nbsp;how humans relate to space, whether that’s in her award-winning movie Black Suns: An Astrophysics Adventure, the AAS Oral History project that serves to record generations of astronomers and their stories, or in her research on cultural astronomy.</p> <p>According to Dr. Holbrook, stories and beliefs surrounding the night sky are reflections of the culture that creates them and their ideals; accordingly, the goal of one of her projects, \"Celestial Women in Africa,\" is to look at feminine celestial bodies to understand “how the idealized role of women gets projected onto the sky and how the behavior of celestial bodies gets projected onto women” in various cultures. It is important to note that Africa is a large continent, with no singular “African culture.\" In reality, it holds over 50 nations, and many more languages. Here, we focus on just one example from her research and it is by no means representative of the entirety of Africa and its many different cultures. You can explore more of Dr. Holbrook's work in the full Astrobites article or on her website, both linked at the end of this page.</p> <h3>“Girls of the Night”</h3> <p>The Pleiades are a tight cluster of stars, brightly visible in the night sky. There are six&nbsp;main stars and they are often considered a group of sisters or sometimes a clutch of eggs. There are many myths across the world connected to this astronomical object, such as the Greek myth from which its commonly used name arises. The Tuareg of the Sahara have their own myth for the Pleiades, calling them the six “girls of the night” with individual names for each bright star (Mâteredjrê, Erredjeàot, Mâteseksek, Essekâot, Màtelarhlarh and Ellerhâot). The seventh&nbsp;“star” is considered to be the eye of a boy from a different legend, and is thought to correspond to Venus (Figure \\(\\PageIndex{1}\\))&nbsp;includes five simulated images of Venus passing through the Pleiades during April 1 to April 5 in 2020.</p> <figure><img alt=\"A simulation of the night sky showing the Pleiades and Venus. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/67084/Pleiades_Venus_Dance_Simulation.png\" /> <figcaption> <p>Figure \\(\\PageIndex{1}\\): The Pleiades and Venus. Simulations of the night sky around the Pleiades at various dates, showing the movement of the interloping “seventh star” of the group, often found in various cultural stories. The interloper is actually the planet Venus. (<a href=\"https://creativecommons.org/licenses/by-nc/4.0/\" target=\"_blank\" title=\"CC BY-NC 4.0\">CC BY-NC 4.0</a>; <a href=\"http://www.briley-lewis.com/\" target=\"_blank\" title=\"Briley Lewis\">Briley Lewis</a> via <a href=\"https://astrobites.org/2020/08/28/african-cultural-astronomy/\" target=\"_blank\" title=\"Astrobites\">Astrobites</a>).</p> </figcaption> </figure> <p>Other groups had different names for this celestial object. The Arimi of Tanzania named the Pleiades “Kiimia” and considered her to be the supreme wife and mother, with her return in September marking the end of the dry season. Her characteristics signaled the ideals for women in their culture, such as caring for people and offering water to those in need. Many other cultures used the heliacal rise (that is, the first time a celestial object reappears in the sky in a given year) of the Pleiades to mark the start of cultivation or the new year. The KhoiKhoi people of Southern Africa also have a legend for the Pleiades: a group of women in a polygamous marriage sent their husband out to hunt, and told him not to return without meat. He was unsuccessful in his hunt, and thus unable to return home. This again is a reflection of societal gender roles, and the expectations of behavior for both men and women.</p> <h3>Other Celestial Bodies</h3> <p>Most of Africa considers the Sun male, such as the famous Egyptian Sun god Ra. However, a few cultures consider the Sun female, either permanently (such as with the G/Wikhwena San of Botswana) or as it changes position on the sky. The Sandawe of Tanzania consider the Sun less masculine when it is lower in the sky and less harsh, and it becomes more masculine as it reaches its zenith. In Hausa and a few other Berber languages, the word for the Moon is masculine (a young boy) and the Sun is its mother, chasing it around the sky.</p> <p>Venus is another celestial body that is almost universally considered female, possibly because its brightness and beauty are qualities that some cultures associate with femininity.. Its “evening star” and “morning star” phases (when Venus is visible at sunset or sunrise) are each 263 days, astoundingly close to the period for pregnancy/human gestation of 255-256 days, giving another coincidental link between the cycles of the sky and the cycles of the body. There are also many cultures where Venus is considered the wife of the Moon in some way, such as the Tabwe and Zande people of the Democratic Republic of Congo.</p> <p>There are many other celestial bodies that are somehow related to femininity. The Arimi of Tanzania consider the Small Magellanic Cloud female, and it helps to bring the heaviest rains of the season. Female animals appear in constellations, such as female giraffes in Crux and a female steenbok as the brightest star in Pavo in G/Wikhwena San culture. The Tuareg of the Sahara consider Polaris (the pole star, which appears stationary in the sky) to be a Black woman, who keeps still for fear that the other stars will kill or enslave her. For the |Xam people of South Africa, a girl creates the Milky Way by throwing ashes and roots into the sky. In Ancient Egypt, the sky goddess Nut “swallows the Sun (Re) every night and gives birth to him in the East every morning” and her daughter Isis (the star Sirius) follows her husband Osiris (the constellation Orion) across the sky to put him back together after he was killed. Isis (and earlier Hathor) were both associated with the star Sirius and served as mother/female goddesses. Lastly, among&nbsp;the Akan of Ghana, many important ancestral women are said to have come down from the sky, giving them authority as they are “of the land that they now occupy.”</p> <p>Although this is not a comprehensive study of all African sky lore, this gendered study provides an intriguing insight into the cultural importance of celestial bodies and how they align with expectations and ideals of women. Some results were expected and in alignment with other cultures around the world, but others (such as female suns and male moons) were unexpected and unique. Women of Africa’s sky are magical goddesses of creation, and also women who have suffered or been punished, showcasing the breadth of human experience.</p> <p>As astronomers, we too often neglect the history of the field of astronomy and the rich cultural heritage of the sky, especially from a non-Western perspective. All of this information preserves a snapshot of people and their cultures through connections to the sky. Studies such as this highlight the richness of humanity’s history of looking up, which is far more expansive than the modern research field.</p> <section class=\"box-note\"> <h5 class=\"box-legend\"><span class=\"lt-icon-default\">Further Exploration: Interactive Activity</span></h5> <p>To learn more about contemporary astronomy education, cultural astronomy, and public engagement with science, see the professional profile of <a href=\"https://www.durham.ac.uk/research/institutes-and-centres/advanced-study/about-us/staff/2026-27-fellows/dr-jarita-holbrook/\" rel=\"noopener noreferrer\" target=\"_blank\"> Dr. Jarita Holbrook </a> at Durham University.</p> </section> <h3>Attributions</h3> <p>This page was adapted from \"<a href=\"https://astrobites.org/2020/08/28/african-cultural-astronomy/\" title=\"A Glimpse Into African Cultural Astronomy\">A Glimpse Into African Cultural Astronomy</a>\" in <a href=\"https://astrobites.org/\" title=\"Astrobites\">Astrobites</a> originally written by <a href=\"http://www.briley-lewis.com/\" title=\"Briley Lewis\">Briley Lewis</a>, and published under <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\" title=\"CC BY-NC 4.0\">CC BY-NC 4.0</a>.</p> <h3>References</h3> <p>Holbrook, J. C. (2020). <em>Celestial Women of Africa</em>. Academia. <a href=\"https://www.academia.edu/87492224/Celestial_Women_of_Africa\" rel=\"freelink\" title=\"https://www.academia.edu/87492224/Celestial_Women_of_Africa\">https://www.academia.edu/87492224/Ce...omen_of_Africa</a></p>"
+              - generic [ref=f376e314]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f376e316] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f376e96]:
+          - separator [ref=f376e97]
+          - paragraph [ref=f376e99]:
+            - 'link "12.5: Stories of the Pleiades" [ref=f376e100] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.05%3A_Stories_of_the_Pleiades
+            - text: is shared under a
+            - link "CC BY-NC" [ref=f376e101] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by-nc/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f376e102]:
+        - list [ref=f376e103]:
+          - listitem [ref=f376e104]:
+            - link "Back to top" [ref=f376e105] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f376e106]:
+            - list [ref=f376e107]:
+              - listitem [ref=f376e108]:
+                - 'link " 12.4: Further Evolution of Stars" [ref=f376e109] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.04%3A_Further_Evolution_of_Stars
+                  - text: 
+                  - generic [ref=f376e110]: "12.4: Further Evolution of Stars"
+              - listitem [ref=f376e111]:
+                - 'link "12.6: Key Terms " [ref=f376e112] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.06%3A_Key_Terms
+                  - generic [ref=f376e113]: "12.6: Key Terms"
+                  - text: 
+        - list [ref=f376e116]:
+          - listitem [ref=f376e117]: Was this article helpful?
+          - listitem [ref=f376e118]:
+            - button "Yes" [ref=f376e119] [cursor=pointer]
+          - listitem [ref=f376e120]:
+            - button "No" [ref=f376e121] [cursor=pointer]
+          - listitem [ref=f376e122]:
+            - button "Leave feedback" [ref=f376e123] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f376e124]:
+          - heading "Attachments" [level=2] [ref=f376e125]
+          - generic:
+            - button "Attach a file" [ref=f376e126] [cursor=pointer]
+            - text: 
+          - generic [ref=f376e128]:
+            - generic [ref=f376e131]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f376e132]
+            - generic [ref=f376e133]:
+              - grid [ref=f376e136]:
+                - rowgroup [ref=f376e137]:
+                  - row [ref=f376e138]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f376e139]':
+                      - generic:
+                        - generic [ref=f376e140]: File
+                        - generic [ref=f376e141]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f376e142]':
+                      - generic:
+                        - generic [ref=f376e143]: Last modified
+                        - generic [ref=f376e144]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f376e145]':
+                      - generic:
+                        - generic [ref=f376e146]: Size
+                        - generic [ref=f376e147]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f376e148]':
+                      - generic:
+                        - generic [ref=f376e149]: Added by
+                        - generic [ref=f376e150]: 
+              - grid [ref=f376e152]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f376e317]: File
+                          - generic [ref=f376e318]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f376e319]: Last modified
+                          - generic [ref=f376e320]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f376e321]: Size
+                          - generic [ref=f376e322]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f376e323]: Added by
+                          - generic [ref=f376e324]: 
+                - rowgroup [ref=f376e161]:
+                  - row [ref=f376e325]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f376e326]:
+                      - generic [ref=f376e327]:
+                        - generic [ref=f376e328]:
+                          - generic [ref=f376e329]: 
+                          - link "mindtouch.page#thumbnail" [ref=f376e330] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63011/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f376e331]:
+                          - generic [ref=f376e332]: (no description)
+                          - text: 
+                    - gridcell "Nov 30, 2025, 12:53 PM" [ref=f376e333]
+                    - gridcell "11 KiB" [ref=f376e335]
+                    - gridcell "Caitlin Kepple" [ref=f376e336]
+                  - row [ref=f376e337]:
+                    - gridcell " Pleiades Venus Dance Simulation.png (no description)" [ref=f376e338]:
+                      - generic [ref=f376e339]:
+                        - generic [ref=f376e340]:
+                          - generic [ref=f376e341]: 
+                          - link "Pleiades Venus Dance Simulation.png" [ref=f376e342] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/67084/Pleiades_Venus_Dance_Simulation.png?origin=mt-web
+                          - text:   
+                        - generic [ref=f376e343]:
+                          - generic [ref=f376e344]: (no description)
+                          - text: 
+                    - gridcell "Apr 20, 2026, 1:21 PM" [ref=f376e345]
+                    - gridcell "170 KiB" [ref=f376e347]
+                    - gridcell "Caitlin Kepple" [ref=f376e348]
+    - generic [ref=f376e165]:
+      - button "Open support menu" [ref=f376e167] [cursor=pointer]: "?"
+      - navigation [ref=f376e169]:
+        - paragraph [ref=f376e171]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f376e172] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f376e173] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f376e174] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f376e175] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f376e176] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f376e177]:
+      - generic:
+        - generic [ref=f376e179]:
+          - button "Annotation sidebar" [ref=f376e180]
+          - generic [ref=f376e185]:
+            - button "Show highlights" [ref=f376e186]
+            - button "New page note" [ref=f376e191]
+          - status [ref=f376e196]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f376e197]:
+    - button "contents" [ref=f376e198] [cursor=pointer]
+    - button "readability" [ref=f376e200] [cursor=pointer]
+    - button "resources" [ref=f376e202] [cursor=pointer]
+    - button "tools" [ref=f376e204] [cursor=pointer]
+    - button "developers" [ref=f376e206] [cursor=pointer]
+  - text:  
+  - generic [ref=f376e349]:
+    - generic [ref=f376e350] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f376e353] [cursor=pointer]

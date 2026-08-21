@@ -1,0 +1,394 @@
+- generic [ref=f316e1]:
+  - link "Skip to main content" [ref=f316e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f316e3]:
+    - text: 
+    - generic [ref=f316e4]:
+      - generic [ref=f316e5]:
+        - generic: ✕
+        - navigation [ref=f316e7]:
+          - generic [ref=f316e8]:
+            - link [ref=f316e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f316e11]
+            - button "Enter Reader Mode" [ref=f316e13] [cursor=pointer]:
+              - generic [ref=f316e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f316e16]:
+        - list [ref=f316e18]:
+          - listitem [ref=f316e19]:
+            - link [ref=f316e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f316e22]
+          - listitem [ref=f316e23]:
+            - text: 
+            - generic [ref=f316e25]:
+              - generic [ref=f316e26]: "Search :"
+              - searchbox "Search :" [ref=f316e27]
+              - button " Search" [ref=f316e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f316e29]:
+            - list [ref=f316e30]:
+              - listitem [ref=f316e31]:
+                - link "Edit" [ref=f316e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.05%3A_Interstellar_Matter_around_the_Sun?action=edit
+              - text: 
+              - listitem [ref=f316e33]:
+                - link " Options" [ref=f316e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f316e35]:
+                - link " Rachel Mastrapa" [ref=f316e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f316e37]:
+        - generic:
+          - button " Contents" [ref=f316e218] [cursor=pointer]
+          - list [ref=f316e39]:
+            - listitem [ref=f316e40]:
+              - link " Home" [ref=f316e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f316e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f316e43]:
+              - link " Workbench" [ref=f316e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f316e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f316e46]:
+              - link " De Anza - ASTR10" [ref=f316e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f316e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f316e49]:
+              - 'link " 10: Interstellar Media" [ref=f316e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media
+                - generic [ref=f316e51]: 
+                - text: "10: Interstellar Media"
+              - text: »
+            - listitem [ref=f316e52]:
+              - generic [ref=f316e53]: 
+              - text: "10.5: Interstellar Matter around the Sun"
+          - button " Expand/collapse global location" [ref=f316e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                
+    - article [ref=f316e55]:
+      - generic [ref=f316e56]:
+        - generic [ref=f316e57]:
+          - button " Page settings" [ref=f316e58] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :       "
+        - 'heading "10.5: Interstellar Matter around the Sun" [level=1] [ref=f316e59]':
+          - generic [ref=f316e219]: "10.5: Interstellar Matter around the Sun "
+        - list [ref=f316e62]:
+          - listitem [ref=f316e63]:
+            - link [ref=f316e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f316e66]:
+                - img "CC" [ref=f316e67]
+                - img "BY" [ref=f316e68]
+          - listitem [ref=f316e69]:
+            - generic [ref=f316e70]:
+              - term [ref=f316e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f316e72]: Dec 28, 2025, 8:30 PM by Rachel Mastrapa
+          - listitem [ref=f316e73]:
+            - generic [ref=f316e74]:
+              - term [ref=f316e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f316e76]: Private
+          - listitem [ref=f316e77]:
+            - generic [ref=f316e78]:
+              - term [ref=f316e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f316e80]: "139500"
+          - listitem [ref=f316e81]:
+            - list [ref=f316e82]:
+              - listitem [ref=f316e83]:
+                - button "Pin Page" [ref=f316e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f316e85]:
+                - list [ref=f316e86]:
+                  - listitem [ref=f316e87]:
+                    - 'link " 10.4: Delete" [ref=f316e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.04%3A_Delete
+                      - text: 
+                      - generic [ref=f316e89]: "10.4: Delete"
+                  - listitem [ref=f316e90]:
+                    - 'link "10.6: Science and Society " [ref=f316e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.06%3A_Science_and_Society
+                      - generic [ref=f316e92]: "10.6: Science and Society"
+                      - text: 
+              - text:  
+      - list [ref=f316e95]:
+        - listitem [ref=f316e96]:
+          - img "OpenStax" [ref=f316e97]
+        - listitem [ref=f316e98]:
+          - link "OpenStax" [ref=f316e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f316e100]:
+          - link "OpenStax" [ref=f316e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f316e102]:
+        - group [ref=f316e223]:
+          - generic [ref=f316e224]:
+            - generic [ref=f316e225]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f316e226]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f316e227]:
+            - generic [ref=f316e230]:
+              - generic [ref=f316e231]:
+                - generic [ref=f316e232]:
+                  - link "Edit" [ref=f316e233]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f316e234]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f316e235]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f316e236]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f316e237]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f316e238]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f316e239]: "Words: 754, Chars: 4522"
+              - group "Editor toolbars" [ref=f316e241]:
+                - toolbar [ref=f316e242]:
+                  - button "Save" [ref=f316e243]:
+                    - generic [ref=f316e244]: 
+                  - button "Cancel" [ref=f316e246]:
+                    - generic [ref=f316e247]: 
+                - toolbar [ref=f316e250]:
+                  - button "Undo" [disabled] [ref=f316e251]:
+                    - generic [ref=f316e252]: 
+                  - button "Redo" [disabled] [ref=f316e253]:
+                    - generic [ref=f316e254]: 
+                - toolbar [ref=f316e256]:
+                  - button "Headings" [ref=f316e257]
+                - toolbar [ref=f316e262]:
+                  - button "Bold" [ref=f316e263]:
+                    - generic [ref=f316e264]: 
+                  - button "Italic" [ref=f316e265]:
+                    - generic [ref=f316e266]: 
+                  - button "Underline" [ref=f316e267]:
+                    - generic [ref=f316e268]: 
+                - toolbar [ref=f316e270]:
+                  - button "Text color" [ref=f316e271]:
+                    - generic [ref=f316e272]: 
+                  - button "Background color" [ref=f316e274]:
+                    - generic [ref=f316e275]: 
+                - toolbar [ref=f316e278]:
+                  - button "Remove format" [ref=f316e279]:
+                    - generic [ref=f316e280]: 
+                - toolbar [ref=f316e282]:
+                  - button "Insert/Remove numbered list" [ref=f316e283]:
+                    - generic [ref=f316e284]: 
+                  - button "Insert/Remove bulleted list" [ref=f316e285]:
+                    - generic [ref=f316e286]: 
+                - toolbar [ref=f316e288]:
+                  - button "Alignment" [ref=f316e289]:
+                    - generic [ref=f316e290]: 
+                - text: 
+                - toolbar [ref=f316e293]:
+                  - button "Link" [ref=f316e294]:
+                    - generic [ref=f316e295]: 
+                  - button "Image" [ref=f316e296]:
+                    - generic [ref=f316e297]: 
+                  - text: 
+                  - button "Boxes" [ref=f316e298]
+                - toolbar [ref=f316e303]:
+                  - button "Replace" [ref=f316e304]:
+                    - generic [ref=f316e305]: 
+                - toolbar [ref=f316e307]:
+                  - button "Enable Binder" [ref=f316e308]
+                  - button "Insert Adapt" [ref=f316e310]
+                  - button "Query" [ref=f316e312]
+                  - button "Accessibility Checker" [ref=f316e315]
+                - toolbar [ref=f316e318]:
+                  - button "HTML" [ref=f316e319]:
+                    - generic [ref=f316e320]: 
+            - application "Rich Text Editor, editarea" [ref=f316e322]:
+              - iframe [active] [ref=f316e323]:
+                - generic [active] [ref=f318e1]:
+                  - heading "The Sun and ISM" [level=2] [ref=f318e2]
+                  - paragraph [ref=f318e3]:
+                    - text: We want to conclude our discussion of interstellar matter by asking how this material is organized in our immediate neighborhood. As we discussed above, orbiting X-ray observatories have shown that the Galaxy is full of bubbles of hot, X-ray-emitting gas. They also revealed a diffuse background of X-rays that appears to fill the entire sky from our perspective (Figure 20.19). While some of this emission comes from the interaction of the solar wind with the interstellar medium, a majority of it comes from beyond the solar system. The natural explanation for why there is X-ray-emitting gas all around us is that the Sun is itself inside one of the bubbles. We therefore call our “neighborhood” the Local Hot Bubble, or Local Bubble for short. The Local Bubble is much less dense—an average of approximately 0.01 atoms per
+                    - generic [ref=f318e4]:
+                      - text: cm
+                      - superscript [ref=f318e5]: "3"
+                    - text: —than the average interstellar density of about 1 atom per
+                    - generic [ref=f318e6]:
+                      - text: cm
+                      - superscript [ref=f318e7]: "3"
+                    - text: . This local gas has a temperature of about a million degrees, just like the gas in the other superbubbles that spread throughout our Galaxy, but because there is so little hot material, this high temperature does not affect the stars or planets in the area in any way.
+                  - paragraph [ref=f318e8]: What caused the Local Bubble to form? Scientists are not entirely sure, but the leading candidate is winds from stars and supernova explosions. In a nearby region in the direction of the constellations Scorpius and Centaurus, a lot of star formation took place about 15 million years ago. The most massive of these stars evolved very quickly until they produced strong winds, and some ended their lives by exploding. These processes filled the region around the Sun with hot gas, driving away cooler, denser gas. The rim of this expanding superbubble reached the Sun about 7.6 million years ago and now lies more than 200 light-years past the Sun in the general direction of the constellations of Orion, Perseus, and Auriga.
+                  - 'figure "Figure 20.19 : Sky in X-Rays. This image, made by the ROSAT satellite, shows the whole sky in X-rays as seen from Earth. Different colors indicate different X-ray energies: red is 0.25 kiloelectron volts, green is 0.75 kiloelectron volts, and blue is 1.5 kiloelectron volts. The image is oriented so the plane of the Galaxy runs across the middle of the image. The ubiquitous red color, which does not disappear completely even in the galactic plane, is evidence for a source of X-rays all around the Sun. (credit: modification of work by NASA)" [ref=f318e9]':
+                    - img "In this image of the X-ray sky the dark, dusty plane of the Milky Way runs from left to right across the center of the picture. Blue light (1.5 keV) is scattered all along the lower portion of the dark band of the Milky Way. At center, extending above and below the dark band is a circular region of green (0.75 keV), and covering the entire image is the red glow of 0.25 keV X-rays." [ref=f318e11]
+                  - paragraph [ref=f318e13]:
+                    - text: A few clouds of interstellar matter do exist within the Local Bubble. The Sun itself seems to have entered a cloud about 10,000 years ago. This cloud is warm (with a temperature of about 7000 K) and has a density of 0.3 hydrogen atom per
+                    - generic [ref=f318e14]:
+                      - text: cm
+                      - superscript [ref=f318e15]: "3"
+                    - text: —higher than most of the Local Bubble but still so tenuous that it is also referred to as Local Fluff (Figure 20.20). (Aren’t these astronomical names fun sometimes?)
+                  - paragraph [ref=f318e16]: While this is a pretty thin cloud, we estimate that it contributes 50 to 100 times more particles than the solar wind to the diffuse material between the planets in our solar system. These interstellar particles have been detected and their numbers counted by the spacecraft traveling between the planets. Perhaps someday, scientists will devise a way to collect them without destroying them and to return them to Earth, so that we can touch—or at least study in our laboratories—these messengers from distant stars.
+                  - figure [ref=f318e17]:
+                    - img [ref=f318e19]
+                    - generic [ref=f318e20]:
+                      - text: "Figure 20.20 : Local Fluff. The Sun and planets are currently moving through the Local Interstellar Cloud, which is also called the Local Fluff. Fluff is an appropriate description because the density of this cloud is only about 0.3 atom per"
+                      - generic [ref=f318e21]:
+                        - text: cm
+                        - superscript [ref=f318e22]: "3"
+                      - text: . In comparison, Earth’s atmosphere at the edge of space has around 1.2 × 10
+                      - superscript [ref=f318e23]: "13"
+                      - text: molecules per
+                      - generic [ref=f318e24]:
+                        - text: cm
+                        - superscript [ref=f318e25]: "3"
+                      - text: ". This image shows the patches of interstellar matter (mostly hydrogen gas) within about 20 light-years of the Sun. The temperature of the Local Interstellar Cloud is about 7000 K. The arrows point toward the directions that different parts of the cloud are moving. The names associated with each arrow indicate the constellations located on the sky toward which the parts of the cloud are headed. The solar system is thought to have entered the Local Interstellar Cloud, which is a small cloud located within a much larger superbubble that is expanding outward from the Scorpius-Centaurus region of the sky, at some point between 44,000 and 150,000 years ago and is expected to remain within it for another 10,000 to 20,000 years. (credit: modification of work by NASA/Goddard/Adler/University Chicago/Wesleyan)"
+              - generic [ref=f316e324]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f316e326] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f316e104]:
+          - separator [ref=f316e105]
+          - paragraph [ref=f316e107]:
+            - text: This page titled
+            - 'link "10.5: Interstellar Matter around the Sun" [ref=f316e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.05%3A_Interstellar_Matter_around_the_Sun
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f316e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f316e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f316e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f316e112]:
+        - list [ref=f316e113]:
+          - listitem [ref=f316e114]:
+            - link "Back to top" [ref=f316e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f316e116]:
+            - list [ref=f316e117]:
+              - listitem [ref=f316e118]:
+                - 'link " 10.4: Delete" [ref=f316e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.04%3A_Delete
+                  - text: 
+                  - generic [ref=f316e120]: "10.4: Delete"
+              - listitem [ref=f316e121]:
+                - 'link "10.6: Science and Society " [ref=f316e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.06%3A_Science_and_Society
+                  - generic [ref=f316e123]: "10.6: Science and Society"
+                  - text: 
+        - list [ref=f316e126]:
+          - listitem [ref=f316e127]: Was this article helpful?
+          - listitem [ref=f316e128]:
+            - button "Yes" [ref=f316e129] [cursor=pointer]
+          - listitem [ref=f316e130]:
+            - button "No" [ref=f316e131] [cursor=pointer]
+          - listitem [ref=f316e132]:
+            - button "Leave feedback" [ref=f316e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , , ,"
+        - generic [ref=f316e134]:
+          - heading "Attachments" [level=2] [ref=f316e135]
+          - generic:
+            - button "Attach a file" [ref=f316e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f316e138]:
+            - generic [ref=f316e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f316e142]
+            - generic [ref=f316e143]:
+              - grid [ref=f316e146]:
+                - rowgroup [ref=f316e147]:
+                  - row [ref=f316e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f316e149]':
+                      - generic:
+                        - generic [ref=f316e150]: File
+                        - generic [ref=f316e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f316e152]':
+                      - generic:
+                        - generic [ref=f316e153]: Last modified
+                        - generic [ref=f316e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f316e155]':
+                      - generic:
+                        - generic [ref=f316e156]: Size
+                        - generic [ref=f316e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f316e158]':
+                      - generic:
+                        - generic [ref=f316e159]: Added by
+                        - generic [ref=f316e160]: 
+              - grid [ref=f316e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f316e163]: File
+                          - generic [ref=f316e164]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f316e165]: Last modified
+                          - generic [ref=f316e166]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f316e167]: Size
+                          - generic [ref=f316e168]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f316e169]: Added by
+                          - generic [ref=f316e170]: 
+                - rowgroup [ref=f316e171]:
+                  - row [ref=f316e172]:
+                    - gridcell "No files attached." [ref=f316e173]
+    - generic [ref=f316e175]:
+      - button "Open support menu" [ref=f316e177] [cursor=pointer]: "?"
+      - navigation [ref=f316e179]:
+        - paragraph [ref=f316e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f316e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f316e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f316e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f316e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f316e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f316e187]:
+      - generic:
+        - generic [ref=f316e189]:
+          - button "Annotation sidebar" [ref=f316e190]
+          - generic [ref=f316e195]:
+            - button "Show highlights" [ref=f316e196]
+            - button "New page note" [ref=f316e201]
+          - status [ref=f316e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f316e207]:
+    - button "contents" [ref=f316e208] [cursor=pointer]
+    - button "readability" [ref=f316e210] [cursor=pointer]
+    - button "resources" [ref=f316e212] [cursor=pointer]
+    - button "tools" [ref=f316e214] [cursor=pointer]
+    - button "developers" [ref=f316e216] [cursor=pointer]
+  - text:  
+  - generic [ref=f316e327]:
+    - generic [ref=f316e328] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f316e331] [cursor=pointer]

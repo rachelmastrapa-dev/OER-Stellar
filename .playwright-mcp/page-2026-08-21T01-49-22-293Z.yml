@@ -1,0 +1,948 @@
+- generic [ref=f130e1]:
+  - link "Skip to main content" [ref=f130e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f130e3]:
+    - text: 
+    - generic [ref=f130e4]:
+      - generic [ref=f130e5]:
+        - generic: ✕
+        - navigation [ref=f130e7]:
+          - generic [ref=f130e8]:
+            - link [ref=f130e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f130e11]
+            - button "Enter Reader Mode" [ref=f130e13] [cursor=pointer]:
+              - generic [ref=f130e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f130e16]:
+        - list [ref=f130e18]:
+          - listitem [ref=f130e19]:
+            - link [ref=f130e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f130e22]
+          - listitem [ref=f130e23]:
+            - text: 
+            - generic [ref=f130e25]:
+              - generic [ref=f130e26]: "Search :"
+              - searchbox "Search :" [ref=f130e27]
+              - button " Search" [ref=f130e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f130e29]:
+            - list [ref=f130e30]:
+              - listitem [ref=f130e31]:
+                - link "Edit" [ref=f130e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.09%3A_Accessible_Descriptions?action=edit
+              - text: 
+              - listitem [ref=f130e33]:
+                - link " Options" [ref=f130e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f130e35]:
+                - link " Rachel Mastrapa" [ref=f130e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f130e37]:
+        - generic:
+          - button " Contents" [ref=f130e217] [cursor=pointer]
+          - list [ref=f130e39]:
+            - listitem [ref=f130e40]:
+              - link " Home" [ref=f130e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f130e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f130e43]:
+              - link " Workbench" [ref=f130e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f130e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f130e46]:
+              - link " De Anza - ASTR10" [ref=f130e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f130e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f130e49]:
+              - 'link " 4: Stellar Spectra" [ref=f130e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra
+                - generic [ref=f130e51]: 
+                - text: "4: Stellar Spectra"
+              - text: »
+            - listitem [ref=f130e52]:
+              - generic [ref=f130e53]: 
+              - text: "4.9: Accessible Descriptions"
+          - button " Expand/collapse global location" [ref=f130e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                 
+    - article [ref=f130e55]:
+      - generic [ref=f130e56]:
+        - generic [ref=f130e57]:
+          - button " Page settings" [ref=f130e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "4.9: Accessible Descriptions" [level=1] [ref=f130e59]':
+          - generic [ref=f130e60]: "4.9: Accessible Descriptions "
+        - list [ref=f130e62]:
+          - listitem [ref=f130e63]:
+            - link [ref=f130e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f130e66]:
+                - img "CC" [ref=f130e67]
+                - img "BY" [ref=f130e68]
+          - listitem [ref=f130e69]:
+            - generic [ref=f130e70]:
+              - term [ref=f130e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f130e72]: Aug 5, 2026, 12:51 PM by Rachel Mastrapa
+          - listitem [ref=f130e73]:
+            - generic [ref=f130e74]:
+              - term [ref=f130e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f130e76]: Private
+          - listitem [ref=f130e77]:
+            - generic [ref=f130e78]:
+              - term [ref=f130e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f130e80]: "130929"
+          - listitem [ref=f130e81]:
+            - list [ref=f130e82]:
+              - listitem [ref=f130e83]:
+                - button "Pin Page" [ref=f130e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f130e85]:
+                - list [ref=f130e86]:
+                  - listitem [ref=f130e87]:
+                    - 'link " 4.8: Key Terms" [ref=f130e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.08%3A_Key_Terms
+                      - text: 
+                      - generic [ref=f130e89]: "4.8: Key Terms"
+                  - listitem [ref=f130e90]:
+                    - 'link "5: Astronomical Instruments " [ref=f130e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments
+                      - generic [ref=f130e92]: "5: Astronomical Instruments"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f130e93]:
+        - group [ref=f130e220]:
+          - generic [ref=f130e221]:
+            - generic [ref=f130e222]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f130e223]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f130e224]:
+            - generic [ref=f130e227]:
+              - generic [ref=f130e228]:
+                - generic [ref=f130e229]:
+                  - link "Edit" [ref=f130e230]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f130e231]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f130e232]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f130e233]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f130e234]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f130e235]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f130e236]: "Words: 4825, Chars: 29019"
+              - group "Editor toolbars" [ref=f130e238]:
+                - toolbar [ref=f130e239]:
+                  - button "Save" [ref=f130e240]:
+                    - generic [ref=f130e241]: 
+                  - button "Cancel" [ref=f130e243]:
+                    - generic [ref=f130e244]: 
+                - toolbar [ref=f130e247]:
+                  - button "Undo" [disabled] [ref=f130e248]:
+                    - generic [ref=f130e249]: 
+                  - button "Redo" [disabled] [ref=f130e250]:
+                    - generic [ref=f130e251]: 
+                - toolbar [ref=f130e253]:
+                  - button "Headings" [ref=f130e254]
+                - toolbar [ref=f130e259]:
+                  - button "Bold" [ref=f130e260]:
+                    - generic [ref=f130e261]: 
+                  - button "Italic" [ref=f130e262]:
+                    - generic [ref=f130e263]: 
+                  - button "Underline" [ref=f130e264]:
+                    - generic [ref=f130e265]: 
+                - toolbar [ref=f130e267]:
+                  - button "Text color" [ref=f130e268]:
+                    - generic [ref=f130e269]: 
+                  - button "Background color" [ref=f130e271]:
+                    - generic [ref=f130e272]: 
+                - toolbar [ref=f130e275]:
+                  - button "Remove format" [ref=f130e276]:
+                    - generic [ref=f130e277]: 
+                - toolbar [ref=f130e279]:
+                  - button "Insert/Remove numbered list" [ref=f130e280]:
+                    - generic [ref=f130e281]: 
+                  - button "Insert/Remove bulleted list" [ref=f130e282]:
+                    - generic [ref=f130e283]: 
+                - toolbar [ref=f130e285]:
+                  - button "Alignment" [ref=f130e286]:
+                    - generic [ref=f130e287]: 
+                - text: 
+                - toolbar [ref=f130e290]:
+                  - button "Link" [ref=f130e291]:
+                    - generic [ref=f130e292]: 
+                  - button "Image" [ref=f130e293]:
+                    - generic [ref=f130e294]: 
+                  - text: 
+                  - button "Boxes" [ref=f130e295]
+                - toolbar [ref=f130e300]:
+                  - button "Replace" [ref=f130e301]:
+                    - generic [ref=f130e302]: 
+                - toolbar [ref=f130e304]:
+                  - button "Enable Binder" [ref=f130e305]
+                  - button "Insert Adapt" [ref=f130e307]
+                  - button "Query" [ref=f130e309]
+                  - button "Accessibility Checker" [ref=f130e312]
+                - toolbar [ref=f130e315]:
+                  - button "HTML" [ref=f130e316]:
+                    - generic [ref=f130e317]: 
+            - application "Rich Text Editor, editarea" [ref=f130e319]:
+              - iframe [active] [ref=f130e320]:
+                - generic [active] [ref=f132e1]:
+                  - heading "Figure 4.1.1 Reflection" [level=2] [ref=f132e2]
+                  - paragraph [ref=f132e3]: A diagram illustrating the law of reflection.
+                  - heading "Diagram Elements" [level=3] [ref=f132e4]
+                  - list [ref=f132e5]:
+                    - listitem [ref=f132e6]: A flat, reflective surface is depicted as a shaded horizontal plane, labeled Surface, extending toward the bottom of the image.
+                    - listitem [ref=f132e7]: A dashed vertical line labeled Perpendicular to surface extends upward from a single point on the surface, marking the normal line used to measure the angles of the rays.
+                    - listitem [ref=f132e8]: An Incident ray, shown as a solid blue arrow, travels from the upper left down toward the point on the surface where the dashed perpendicular line meets it.
+                    - listitem [ref=f132e9]: A Reflected ray, shown as a solid light blue arrow, travels from that same point on the surface upward to the right.
+                    - listitem [ref=f132e10]:
+                      - text: The incident ray and the perpendicular line form an angle labeled
+                      - generic [ref=f132e11]:
+                        - text: θ
+                        - subscript [ref=f132e12]: i
+                      - text: ", marking the angle of incidence."
+                    - listitem [ref=f132e13]:
+                      - text: The reflected ray and the perpendicular line form an angle labeled
+                      - generic [ref=f132e14]:
+                        - text: θ
+                        - subscript [ref=f132e15]: r
+                      - text: ", marking the angle of reflection."
+                    - listitem [ref=f132e16]: A shaded triangular wedge, bounded by the incident ray, the reflected ray, and the surface, highlights the region between the two rays and the perpendicular line.
+                    - listitem [ref=f132e17]:
+                      - text: Curved double-headed arrows mark both
+                      - generic [ref=f132e18]:
+                        - text: θ
+                        - subscript [ref=f132e19]: i
+                      - text: and
+                      - generic [ref=f132e20]:
+                        - text: θ
+                        - subscript [ref=f132e21]: r
+                      - text: ", indicating that the two angles are shown as equal in size."
+                  - heading "Figure 4.1.2 Refraction" [level=2] [ref=f132e22]
+                  - paragraph [ref=f132e23]: A diagram showing how refraction causes an observer to see a duplicated, distorted image of a fish.
+                  - heading "Main Scene" [level=3] [ref=f132e24]
+                  - list [ref=f132e25]:
+                    - listitem [ref=f132e26]: A person, shown from behind and below the shoulders, looks up toward a rectangular glass tank filled with blue water.
+                    - listitem [ref=f132e27]: Inside the tank, two identical yellow and black striped fish are depicted side by side, facing toward the viewer.
+                    - listitem [ref=f132e28]: A gray, oval-shaped object with a fin-like structure and two small circular eyes is positioned above and between the two fish, appearing to represent a single fish viewed from a different angle.
+                  - heading "Inset Diagram" [level=3] [ref=f132e29]
+                  - list [ref=f132e30]:
+                    - listitem [ref=f132e31]: A separate, smaller panel is positioned at the upper right, connected conceptually to the main scene, except that the it is in map view - oriented above the tank instead of by its side.
+                    - listitem [ref=f132e32]: A single yellow and black striped fish from the main scene is depicted at the top of the inset. It is oriented tail up and nose down.
+                    - listitem [ref=f132e33]: There are two greyed fish shapes to the lower right and lower left of the fish, representing the illusory fish produced by refraction.
+                    - listitem [ref=f132e34]: Two light blue lines extend downward and outward from the fish, pass through the illusory fish, and are bent downward, or refracted, when passing through the boundary of the tank.
+                    - listitem [ref=f132e35]: The two light blue lines continue further downward, converging toward a single point where it contacts an illustration of an eye pointed upward.
+                    - listitem [ref=f132e36]: This diagram illustrates that light rays from the single fish bend as they pass from water to air, causing the observer's eye to perceive two separate images along straight-line extensions of the bent rays.
+                  - heading "Figure 4.1.3 Rainbow Refraction" [level=2] [ref=f132e37]
+                  - paragraph [ref=f132e38]: Three panels demonstrating how a rainbow forms.
+                  - heading "Image (a)" [level=3] [ref=f132e39]
+                  - list [ref=f132e40]:
+                    - listitem [ref=f132e41]: On the left
+                    - listitem [ref=f132e42]: A diagram showing an observer standing at the bottom, viewing a rainbow arc. Each end of the arc ends in a bush.
+                    - listitem [ref=f132e43]: Several parallel blue arrows enter from the upper left, representing incoming sunlight.
+                    - listitem [ref=f132e44]: Each incoming ray is redirected downward toward the observer's eye as a red ray.
+                    - listitem [ref=f132e45]: At each droplet, the angle between the incoming and outgoing rays is labeled θ.
+                    - listitem [ref=f132e46]: The rainbow itself is depicted as a multicolored arc, with red on the outer edge and blue/violet on the inner edge, spanning from the upper left to the bottom right bush.
+                  - heading "Image (b)" [level=3] [ref=f132e47]
+                  - list [ref=f132e48]:
+                    - listitem [ref=f132e49]: In the middle
+                    - listitem [ref=f132e50]: An image of a double rainbow arching over a landscape with a lake, trees, and distant hills under a partly cloudy sky.
+                    - listitem [ref=f132e51]: The brighter, primary rainbow is only a half arch, beginning in the upper right and curving toward the ground near the center of the image in the trees behind a lake.
+                    - listitem [ref=f132e52]: The fainter, secondary rainbow, also a half arch, is to the right of the primary rainbow.
+                  - heading "Image (c)" [level=3] [ref=f132e53]
+                  - list [ref=f132e54]:
+                    - listitem [ref=f132e55]: On the right
+                    - listitem [ref=f132e56]: A close-up diagram of a single spherical water droplet, tracing the path of a single ray of light through it.
+                    - listitem [ref=f132e57]: A blue arrow labeled Sunlight enters the droplet from the left.
+                    - listitem [ref=f132e58]: Inside the droplet, the ray is broken into two separate rays, one red and one violet.
+                    - listitem [ref=f132e59]: Both rays reflect off the back inner surface and exits toward the lower left.
+                    - listitem [ref=f132e60]: The red ray interacts with the back of the droplet a little higher than the violet droplet, and exits the bottom of the droplet a little to the right of the violet ray.
+                    - listitem [ref=f132e61]: As the two rays exit the droplet, they become a fan of rainbow colors.
+                    - listitem [ref=f132e62]: The emerging colors are labeled at each end, with Violet marking the left side of the fan, corresponding to where the violet ray exited the droplet. The right side of the fan is marked Red and corresponds to the red ray.
+                  - heading "Figure 4.1.4 Prism Refraction" [level=2] [ref=f132e63]
+                  - paragraph [ref=f132e64]: A diagram demonstrating how white light is converted to a rainbow with a prism.
+                  - heading "Diagram Elements" [level=3] [ref=f132e65]
+                  - list [ref=f132e66]:
+                    - listitem [ref=f132e67]: A large triangular prism, with equal lengths on all sides, is depicted at the center, point upward and shaded light blue. The boundary of the triangle is drawn with blue lines.
+                    - listitem [ref=f132e68]: A light orange line labeled Incident white light extends downward and to the left of the left side of the prism. An arrowhead in the middle of the line indicates that the light is traveling from the downward and to the left towards the left side of the prism.
+                    - listitem [ref=f132e69]:
+                      - text: At the point where the line contacts the side of the the prism, inside the prism the line splits into two lines.
+                      - list [ref=f132e70]:
+                        - listitem [ref=f132e71]: An arrow in both lines indicates that the light is moving from left to right.
+                        - listitem [ref=f132e72]: Both lines bend downward as they move across the prism.
+                        - listitem [ref=f132e73]: The top line bends slightly downward, while the bottom line is bent downward more than the top ray.
+                        - listitem [ref=f132e74]: Both lines reach the right side of the prism. The top line contacts the right side of the prism above where the bottom line contacts the right side.
+                        - listitem [ref=f132e75]: Both lines are bent after exiting the prism, bending slightly downward. They each have an arrow indicating that the light is traveling down and to the right.
+                    - listitem [ref=f132e76]: To the right of the prism, there is a fan of rainbow colors bounded by the top and bottom lines.
+                    - listitem [ref=f132e77]: The rainbow is labeled Red (760 nm) at the upper edge of the fan and Violet (380 nm) at the lower edge, with orange, yellow, green, and blue included between them in order.
+                  - heading "Figure 4.1.5 Continuous Spectrum" [level=2] [ref=f132e78]
+                  - paragraph [ref=f132e79]: An example of a continuous spectrum with wavelength labels.
+                  - heading "Diagram Elements" [level=3] [ref=f132e80]
+                  - list [ref=f132e81]:
+                    - listitem [ref=f132e82]: A horizontal bar spans the width of the image, shaded as a continuous gradient of color from violet on the left through blue, green, yellow, orange, and red on the right, fading to black at both ends. This is the continuous spectrum.
+                    - listitem [ref=f132e83]: Tick marks above the bar are labeled with wavelength values of 400, 500, 600, and 700, positioned from left to right.
+                    - listitem [ref=f132e84]: The label Wavelength (nm) is included to the right of the bar.
+                    - listitem [ref=f132e85]: Below the main bar, a short horizontal line extends the full width of the image, with a small black segment near its center.
+                    - listitem [ref=f132e86]: The black segment is labeled Ultraviolet on its left side and Infrared on its right side, indicating that the small black box represents the visible wavelength range of light.
+                    - listitem [ref=f132e87]: A black line extends from the lower left corner of the spectrum to the upper left corner of the black box, while another line extends from the lower right corner of spectrum to the upper right corner of the black box. This indicates that the continuous spectrum is contained within the black box, or the visible range of light.
+                    - listitem [ref=f132e88]: The label Continuous spectrum is included below the black box.
+                  - heading "Figure 4.1.6 Visible Spectrum of the Sun" [level=2] [ref=f132e89]
+                  - paragraph [ref=f132e90]: The Sun's visible spectrum as a continuous rainbow of color with dark vertical lines.
+                  - heading "Diagram Elements" [level=3] [ref=f132e91]
+                  - list [ref=f132e92]:
+                    - listitem [ref=f132e93]: A horizontal band spans the width of the image, shaded as a continuous gradient from violet on the left through blue, green, yellow, orange, and red on the right.
+                    - listitem [ref=f132e94]: Numerous thin, dark vertical lines are distributed across the band at irregular intervals, appearing most densely spaced in the violet and blue regions on the left.
+                    - listitem [ref=f132e95]: These dark lines represent absorption lines, where specific wavelengths of light have been absorbed, interrupting the otherwise continuous spread of visible light.
+                  - heading "Figure 4.2.1 The Scale of the Atom" [level=2] [ref=f132e96]
+                  - heading "Figure Summary" [level=3] [ref=f132e97]
+                  - paragraph [ref=f132e98]: "This image has three sections - from left to right: an illustration of an atom, an image of the inside of an outside sports stadium, and an image of a hand holding blueberries. The last two images are an analogy for the scale of the nucleus of the atom compared to the overall size of the atom, which is similar to a single blueberry inside a a stadium."
+                  - heading "Atom Illustration" [level=3] [ref=f132e99]
+                  - paragraph [ref=f132e100]:
+                    - text: The atom is represented as a yellow circle. The nucleus is a red dot at the center of the circle. The diameter of the atom is labeled 10
+                    - superscript [ref=f132e101]: "-10"
+                    - text: m and the diameter of the nucleus is labeled 10
+                    - superscript [ref=f132e102]: "-15"
+                    - text: m.
+                  - paragraph [ref=f132e103]: /body>
+                  - heading "Figure 4.2.1 The Scale of the Atom" [level=2] [ref=f132e104]
+                  - heading "Figure Summary" [level=3] [ref=f132e105]
+                  - paragraph [ref=f132e106]: "This image has three sections - from left to right: an illustration of an atom, an image of the inside of an outside sports stadium, and an image of a hand holding blueberries. The last two images are an analogy for the scale of the nucleus of the atom compared to the overall size of the atom, which is similar to a single blueberry inside a a stadium."
+                  - heading "Atom Illustration" [level=3] [ref=f132e107]
+                  - paragraph [ref=f132e108]:
+                    - text: The atom is represented as a yellow circle. The nucleus is a red dot at the center of the circle. The diameter of the atom is labeled 10
+                    - superscript [ref=f132e109]: "-10"
+                    - text: m and the diameter of the nucleus is labeled 10
+                    - superscript [ref=f132e110]: "-15"
+                    - text: m.
+                  - paragraph [ref=f132e111]: /body>
+                  - heading "Figure 4.2.3 Helium Atom" [level=2] [ref=f132e112]
+                  - heading "Symbols and Labels" [level=3] [ref=f132e113]
+                  - list [ref=f132e114]:
+                    - listitem [ref=f132e115]: The atom is a light blue circle with a slightly darker blue line as the border of the circle.
+                    - listitem [ref=f132e116]: Neutrons are red dots.
+                    - listitem [ref=f132e117]: Protons are dark blue dots with white plus signs.
+                    - listitem [ref=f132e118]: Electrons are light blue dots with minus signs.
+                    - listitem [ref=f132e119]:
+                      - text: The radius of the atom is labeled as 10
+                      - superscript [ref=f132e120]: "-10 m"
+                      - text: .
+                  - heading "Summary" [level=3] [ref=f132e121]
+                  - list [ref=f132e122]:
+                    - listitem [ref=f132e123]: This figure is an illustration of a helium atom.
+                    - listitem [ref=f132e124]: The two protons and 2 neutrons are in the center of the atom, in the nucleus.
+                    - listitem [ref=f132e125]: The electrons are located on the boundary of the circle.
+                    - listitem [ref=f132e126]: The two electrons are as far apart from each other as they can be, one located on the top right of the atom and the other on the bottom left.
+                  - heading "Figure 4.24 Isotopes of Hydrogen" [level=2] [ref=f132e127]
+                  - heading "Symbols and Labels" [level=3] [ref=f132e128]
+                  - list [ref=f132e129]:
+                    - listitem [ref=f132e130]: The atom is a light blue circle with a slightly darker blue line as the border of the circle.
+                    - listitem [ref=f132e131]: Neutrons are red dots.
+                    - listitem [ref=f132e132]: Protons are dark blue dots with white plus signs.
+                    - listitem [ref=f132e133]: Electrons are light blue dots with minus signs.
+                  - heading "Summary" [level=3] [ref=f132e134]
+                  - list [ref=f132e135]:
+                    - listitem [ref=f132e136]:
+                      - text: This figure includes three illustration of the hydrogen isotopes - from left to right,
+                      - superscript [ref=f132e137]: "1"
+                      - text: H (hydrogen),
+                      - superscript [ref=f132e138]: "2"
+                      - text: H(deuterium), and
+                      - superscript [ref=f132e139]: "3"
+                      - text: H(tritium).
+                    - listitem [ref=f132e140]: The protons and neutrons are always in the center of the atom and the single electron is at the radius of the atom on the upper left.
+                    - listitem [ref=f132e141]: "The difference between the isotopes is the number of neutrons: hydrogen has zero neutrons, deuterium has 1 neutron, and tritium has two neutrons."
+                  - heading "Figure 4.2.5 The Periodic Table" [level=2] [ref=f132e142]
+                  - list [ref=f132e143]:
+                    - listitem [ref=f132e144]:
+                      - link "NIH Online Periodic Table" [ref=f132e145]:
+                        - /url: https://pubchem.ncbi.nlm.nih.gov/ptable/#view=table&property=GroupBlock
+                    - listitem [ref=f132e146]:
+                      - link "Accessible PDF" [ref=f132e147]:
+                        - /url: https://www.mheducation.com/unitas/school/explore/free-resources/accessible-periodic-table.pdf
+                    - listitem [ref=f132e148]:
+                      - text: Perkins School for the Blind
+                      - link "Guide for Accessing the Periodic Table" [ref=f132e149]:
+                        - /url: https://www.perkins.org/resource/accessing-periodic-table/
+                  - heading "Figure 4.3.3 Spectra of Elements" [level=2] [ref=f132e150]
+                  - heading "Chart Properties" [level=3] [ref=f132e151]
+                  - list [ref=f132e152]:
+                    - listitem [ref=f132e153]:
+                      - text: The x-axis represents wavelength of light from roughly 3800 to 7500 Angstroms. 1 meter = 10
+                      - superscript [ref=f132e154]: "10"
+                      - text: Angstroms.
+                    - listitem [ref=f132e155]: There is no y-axis, instead 5 spectra are stacked on top of each other.
+                    - listitem [ref=f132e156]: The spectra, from top to bottom are a continuous spectrum, sodium, hydrogen, calcium, and mercury.
+                  - heading "Spectra" [level=3] [ref=f132e157]
+                  - list [ref=f132e158]:
+                    - listitem [ref=f132e159]:
+                      - text: The continuous spectrum represents the entire visible spectrum from violet to red.
+                      - list [ref=f132e160]:
+                        - listitem [ref=f132e161]: "The wavelength ranges of the colors are listed in Table \\(\\PageIndex{1}\\)."
+                        - listitem [ref=f132e162]: The colors of the spectrum do not appear to have clear boundaries, but slowly blend into each other.
+                  - table [ref=f132e163]:
+                    - caption [ref=f132e164]: "Table \\(\\PageIndex{1}\\): Wavelength of Visible Colors"
+                    - rowgroup [ref=f132e165]:
+                      - row [ref=f132e166]:
+                        - columnheader "Color" [ref=f132e167]
+                        - columnheader "Wavelength Range (Angstroms)" [ref=f132e168]
+                    - rowgroup [ref=f132e169]:
+                      - row [ref=f132e170]:
+                        - cell "violet" [ref=f132e171]
+                        - cell "3800 to 4500" [ref=f132e172]
+                      - row [ref=f132e173]:
+                        - cell "blue" [ref=f132e174]
+                        - cell "4500 to 4850" [ref=f132e175]
+                      - row [ref=f132e176]:
+                        - cell "cyan" [ref=f132e177]
+                        - cell "4850 to 5000" [ref=f132e178]
+                      - row [ref=f132e179]:
+                        - cell "green" [ref=f132e180]
+                        - cell "5000 to 5650" [ref=f132e181]
+                      - row [ref=f132e182]:
+                        - cell "yellow" [ref=f132e183]
+                        - cell "5650 to 5900" [ref=f132e184]
+                      - row [ref=f132e185]:
+                        - cell "orange" [ref=f132e186]
+                        - cell "5900 to 6250" [ref=f132e187]
+                      - row [ref=f132e188]:
+                        - cell "red" [ref=f132e189]
+                        - cell "6250 to 7500" [ref=f132e190]
+                  - list [ref=f132e191]:
+                    - listitem [ref=f132e192]: The spectra of the elements are mostly black with individual lines of different colors at their corresponding wavelengths.
+                    - listitem [ref=f132e193]: "Table \\(\\PageIndex{2}\\) lists the number of lines for each color in each spectrum of an element."
+                    - listitem [ref=f132e194]: The spectrum of each element is unique in appearance in number and distribution of lines.
+                  - table [ref=f132e195]:
+                    - caption [ref=f132e196]: "Table \\(\\PageIndex{2}\\): Number of Spectral Lines in Spectra of Elements"
+                    - rowgroup [ref=f132e197]:
+                      - row [ref=f132e198]:
+                        - columnheader "Element" [ref=f132e199]
+                        - columnheader "Number of Violet Lines" [ref=f132e200]
+                        - columnheader "Number of Blue Lines" [ref=f132e201]
+                        - columnheader "Number of Cyan Lines" [ref=f132e202]
+                        - columnheader "Number of Green Lines" [ref=f132e203]
+                        - columnheader "Number of Yellow Lines" [ref=f132e204]
+                        - columnheader "Number of Orange Lines" [ref=f132e205]
+                        - columnheader "Number of Red Lines" [ref=f132e206]
+                    - rowgroup [ref=f132e207]:
+                      - row [ref=f132e208]:
+                        - cell "sodium" [ref=f132e209]
+                        - cell "0" [ref=f132e210]
+                        - cell "0" [ref=f132e211]
+                        - cell "2" [ref=f132e212]
+                        - cell "0" [ref=f132e213]
+                        - cell "4" [ref=f132e214]
+                        - cell "1" [ref=f132e215]
+                        - cell "0" [ref=f132e216]
+                      - row [ref=f132e217]:
+                        - cell "hydrogen" [ref=f132e218]
+                        - cell "1" [ref=f132e219]
+                        - cell "1" [ref=f132e220]
+                        - cell "1" [ref=f132e221]
+                        - cell "0" [ref=f132e222]
+                        - cell "0" [ref=f132e223]
+                        - cell "0" [ref=f132e224]
+                        - cell "1" [ref=f132e225]
+                      - row [ref=f132e226]:
+                        - cell "calcium" [ref=f132e227]
+                        - cell "2" [ref=f132e228]
+                        - cell "4" [ref=f132e229]
+                        - cell "1" [ref=f132e230]
+                        - cell "2" [ref=f132e231]
+                        - cell "3" [ref=f132e232]
+                        - cell "2" [ref=f132e233]
+                        - cell "2" [ref=f132e234]
+                      - row [ref=f132e235]:
+                        - cell "mercury" [ref=f132e236]
+                        - cell "2" [ref=f132e237]
+                        - cell "1" [ref=f132e238]
+                        - cell "2" [ref=f132e239]
+                        - cell "1" [ref=f132e240]
+                        - cell "2" [ref=f132e241]
+                        - cell "2" [ref=f132e242]
+                        - cell "1" [ref=f132e243]
+                  - heading "Figure 4.3.4 Types of Spectra" [level=2] [ref=f132e244]
+                  - paragraph [ref=f132e245]: A diagram of the different types of spectra.
+                  - list [ref=f132e246]:
+                    - listitem [ref=f132e247]: The objects in the diagram are arranged similar to a 3 x 3 table, where the top row is sources of light , the middle row is examples of the spectra those sources produce, and the bottom row is a chart of brightness vs. wavelength for each spectrum.
+                    - listitem [ref=f132e248]:
+                      - text: Illustrations of Spectral Sources
+                      - list [ref=f132e249]:
+                        - listitem [ref=f132e250]: On the left there is an illustration of a star labeled Continuous light source. There is a cyan arrow point downward toward the continuous spectrum and a wavy white line labeled Light extending to the right.
+                        - listitem [ref=f132e251]: The wavy line of light passes through an illustration of a cloud labeled Cloud of gas where it changes from a solid line to a dashed line. Several short, wavy, white lines come out of the bottom of the cloud, and a cyan arrow points toward the emission spectrum.
+                        - listitem [ref=f132e252]: The wavy, dashed, white line continues to the right. A cyan arrow points downward to the absorption spectrum.
+                    - listitem [ref=f132e253]:
+                      - text: Spectra
+                      - list [ref=f132e254]:
+                        - listitem [ref=f132e255]: A continuous spectrum includes the full range of light and is produced by a light source.
+                        - listitem [ref=f132e256]: An emissions spectrum has only a few bright lines, while an absorption spectrum is similar to a continuous spectrum, but has a few small, dark gaps where the light is absent.
+                        - listitem [ref=f132e257]: Emission spectra are observed from clouds of gas, while absorption spectra can be collected when a light source passes through a cloud of gas.
+                    - listitem [ref=f132e258]:
+                      - text: "Charts of spectral brightness:"
+                      - list [ref=f132e259]:
+                        - listitem [ref=f132e260]:
+                          - text: "Chart properties:"
+                          - list [ref=f132e261]:
+                            - listitem [ref=f132e262]: The vertical axis is labeled Brightness with an arrow indicating that brightness increases upward on the axis. There are no numbers on the vertical axis.
+                            - listitem [ref=f132e263]: The horizontal axis is labeled Wavelength with an arrow indicating that wavelength increases to the right. There are no numbers on the horizontal axis.
+                        - listitem [ref=f132e264]:
+                          - text: Continuous spectrum
+                          - list [ref=f132e265]:
+                            - listitem [ref=f132e266]: The brightness begins at the left of the chart, in the violet range of the spectrum, about a third of the way up the axis.
+                            - listitem [ref=f132e267]: The line increases slowly reaching a broad peak in the blue range.
+                            - listitem [ref=f132e268]: The line then curves downward until it reaches the horizontal axis in the red range of the spectrum.
+                        - listitem [ref=f132e269]:
+                          - text: Emission Spectrum
+                          - list [ref=f132e270]:
+                            - listitem [ref=f132e271]: Most of the emission spectrum has no brightness value.
+                            - listitem [ref=f132e272]: There are five narrow peaks that align with the lines in the emission spectrum.
+                            - listitem [ref=f132e273]: The top of the peaks are about one quarter up the vertical axis.
+                        - listitem [ref=f132e274]:
+                          - text: Absorption Spectrum
+                          - list [ref=f132e275]:
+                            - listitem [ref=f132e276]: The overall structure of the line is the same as the line for the continuous spectrum.
+                            - listitem [ref=f132e277]: The difference is that there are 5 narrow dips where aligned with the absorption lines.
+                  - heading "Figure 4.4.1 Star Classification Table" [level=2] [ref=f132e278]
+                  - paragraph [ref=f132e279]: A table of stellar classification featuring images of all of the various stars, including brown dwarfs.
+                  - list [ref=f132e280]:
+                    - listitem [ref=f132e281]:
+                      - text: "Class (from top to bottom):"
+                      - list [ref=f132e282]:
+                        - listitem [ref=f132e283]: O, B, A, F, G, K, M, L, T, Y
+                    - listitem [ref=f132e284]:
+                      - text: "Subclass (from left to right):"
+                      - list [ref=f132e285]:
+                        - listitem [ref=f132e286]: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+                    - listitem [ref=f132e287]: The colors of the stars change slowly from blue at the top to red at the bottom
+                  - heading "Figure 4.4.2 Spectra of Different Classes" [level=2] [ref=f132e288]
+                  - list [ref=f132e289]:
+                    - listitem [ref=f132e290]: Composite image of the spectra of 13 stars of different spectral classes.
+                    - listitem [ref=f132e291]: The spectra are stacked, starting from O6.5 at the top and then B0, B6, A1, A5, F0, F5, G0, G5, K0, K5, M0 and finally M5 at the bottom.
+                    - listitem [ref=f132e292]: Each spectrum is a band of color from blue on the left, through green, yellow and red at far right.
+                    - listitem [ref=f132e293]: Each spectrum has dark vertical lines which correspond to various chemical elements in each star’s atmosphere.
+                  - heading "Figure 4.4.3 Temperature Effect on Absorption" [level=2] [ref=f132e294]
+                  - paragraph [ref=f132e295]: This graph demonstrates which spectral lines are strongest as a function of temperature.
+                  - paragraph [ref=f132e296]: Graph Axes and Symbols
+                  - list [ref=f132e297]:
+                    - listitem [ref=f132e298]: The x-axis starts with the highest temperature stars, >30,000 K and ends with the lowest temperature stars, 2400-3700 K. T
+                    - listitem [ref=f132e299]: The same x-axis range is covered by stellar classes O through M.
+                    - listitem [ref=f132e300]: The y-axis is unitless and is labeled Relative Strengths of Absorption Lines.
+                    - listitem [ref=f132e301]: "The 6 categories of spectral features, from high to low temperature, are: Ionized helium, Neutral helium, Hydrogen, Ionized metals, Neutral metals, Molecules (TiO - Titanium Oxide)"
+                    - listitem [ref=f132e302]: Each category of spectral lines is represented by a light blue line that increases to a peak and then decreases forming a hill-like shape. The peak of that shape is the temperature where the given lines are strongest.
+                    - listitem [ref=f132e303]: "The spectral classes where each category is strongest is listed in Table \\(\\PageIndex{3}\\)."
+                  - table [ref=f132e304]:
+                    - caption [ref=f132e305]: "Table \\(\\PageIndex{3}\\) : Spectral Line Strength and Temperature"
+                    - rowgroup [ref=f132e306]:
+                      - row [ref=f132e307]:
+                        - columnheader "Spectral Class" [ref=f132e308]
+                        - columnheader "Approximate Temperature (K)" [ref=f132e309]
+                        - columnheader "Principal Features" [ref=f132e310]
+                    - rowgroup [ref=f132e311]:
+                      - row [ref=f132e312]:
+                        - cell "O" [ref=f132e313]
+                        - cell "> 30,000" [ref=f132e314]
+                        - cell "Strong ionized helium lines, neutral helium lines" [ref=f132e315]
+                      - row [ref=f132e316]:
+                        - cell "B" [ref=f132e317]
+                        - cell "10,000–30,000" [ref=f132e318]
+                        - cell "Strong neutral helium lines, hydrogen lines" [ref=f132e319]
+                      - row [ref=f132e320]:
+                        - cell "A" [ref=f132e321]
+                        - cell "7500–10,000" [ref=f132e322]
+                        - cell "Strong hydrogen lines, weak ionized metal (e.g., iron, magnesium) lines" [ref=f132e323]
+                      - row [ref=f132e324]:
+                        - cell "F" [ref=f132e325]
+                        - cell "6000–7500" [ref=f132e326]
+                        - cell "Hydrogen lines, ionized metal lines" [ref=f132e327]
+                      - row [ref=f132e328]:
+                        - cell "G" [ref=f132e329]
+                        - cell "5200–6000" [ref=f132e330]
+                        - cell "Strong ionized metal lines, weak neutral metal and hydrogen lines" [ref=f132e331]
+                      - row [ref=f132e332]:
+                        - cell "K" [ref=f132e333]
+                        - cell "3700–5200" [ref=f132e334]
+                        - cell "Strong neutral metal lines, weak ionized metallines, very weak hydrogen lines" [ref=f132e335]
+                      - row [ref=f132e336]:
+                        - cell "M" [ref=f132e337]
+                        - cell "2400–3700" [ref=f132e338]
+                        - cell "Neutral metal lines and TiO (molecules) lines" [ref=f132e339]
+                  - heading "Figure 4.5.1 Brown Dwarfs" [level=2] [ref=f132e340]
+                  - list [ref=f132e341]:
+                    - listitem [ref=f132e342]: "This illustration compares 6 objects: the Sun, Gliese 229A, Teide 1, Gliese 229B, WISE 1828, and Jupiter."
+                    - listitem [ref=f132e343]:
+                      - text: The illustration includes real or simulated images of each object for size and color comparison.
+                      - list [ref=f132e344]:
+                        - listitem [ref=f132e345]: The Sun is the largest object. It is in the top left corner of the figure, and is so large that only a small part of the Sun can be seen.
+                        - listitem [ref=f132e346]: Gliese 229A is the second largest object and it is roughly half the size of the Sun. Unlike the yellow Sun, Gliese 229A is dark red.
+                        - listitem [ref=f132e347]: Teide 1 is the second largest and is roughly a fifth the size of Gliese 229 A. Like Gliese 229A, Teide 1 is also dark red.
+                        - listitem [ref=f132e348]: Gliese 229B, WISE 1828, and Jupiter are all roughly the same size. Gliese is red, but is not as bright as Gliese 229A and Teide 1.
+                        - listitem [ref=f132e349]: WISE 1828 and Jupiter both have horizontal stripes of orange of white clouds.
+                    - listitem [ref=f132e350]: "The properties of spectral class and temperature for each object are listed in Table \\(\\PageIndex{4}\\)."
+                  - table [ref=f132e351]:
+                    - caption [ref=f132e352]: "Table \\(\\PageIndex{4}\\) : Spectral Class and Temperature"
+                    - rowgroup [ref=f132e353]:
+                      - row [ref=f132e354]:
+                        - columnheader "Object" [ref=f132e355]
+                        - columnheader "Temperature (K)" [ref=f132e356]
+                        - columnheader "Stellar Classification" [ref=f132e357]
+                    - rowgroup [ref=f132e358]:
+                      - row [ref=f132e359]:
+                        - cell "Sun" [ref=f132e360]
+                        - cell "5800" [ref=f132e361]
+                        - cell "G2" [ref=f132e362]
+                      - row [ref=f132e363]:
+                        - cell "Gliese 229A" [ref=f132e364]
+                        - cell "3600" [ref=f132e365]
+                        - cell "M1" [ref=f132e366]
+                      - row [ref=f132e367]:
+                        - cell "Teide 1" [ref=f132e368]
+                        - cell "2600" [ref=f132e369]
+                        - cell "M8" [ref=f132e370]
+                      - row [ref=f132e371]:
+                        - cell "Gliese 229B" [ref=f132e372]
+                        - cell "950" [ref=f132e373]
+                        - cell "T7" [ref=f132e374]
+                      - row [ref=f132e375]:
+                        - cell "WISE 1828" [ref=f132e376]
+                        - cell "300-500" [ref=f132e377]
+                        - cell ">Y2" [ref=f132e378]
+                      - row [ref=f132e379]:
+                        - cell "Jupiter" [ref=f132e380]
+                        - cell "125" [ref=f132e381]
+                        - cell "Planet" [ref=f132e382]
+                  - heading "Figure 4.6.1 Pressure Effect on Spectral Lines" [level=2] [ref=f132e383]
+                  - paragraph [ref=f132e384]: This figure is an illustration of a blue giant and white dwarf star along with an example spectra of each star.
+                  - heading "Star Illustrations" [level=3] [ref=f132e385]
+                  - list [ref=f132e386]:
+                    - listitem [ref=f132e387]: The blue giant star is light blue in color and so large that only the top third is in the bottom left corner.
+                    - listitem [ref=f132e388]: The white dwarf is a tiny dot above the blue giant. There is a label next to it that states "comparable in mass to our Sun, yet the size of Earth."
+                  - heading "Spectra" [level=3] [ref=f132e389]
+                  - list [ref=f132e390]:
+                    - listitem [ref=f132e391]: Each spectrum is positioned to the right of their star.
+                    - listitem [ref=f132e392]: The spectra are absorption spectra, so they look have the visible colors from violet to red, displayed from left to right. There are dark black lines where the absorptions are.
+                  - heading "Wavelength" [level=4] [ref=f132e393]
+                  - list [ref=f132e394]:
+                    - listitem [ref=f132e395]: Wavelength is in nanometers (nm) over the range from 300 to 800 nm.
+                    - listitem [ref=f132e396]: The region from 300 to 400 nm is labeled UV.
+                    - listitem [ref=f132e397]: The region from 400 to 700 nm is labeled Visible.
+                    - listitem [ref=f132e398]: The region from 700 to 800 nm is labeled Near IR.
+                  - heading "Spectral lines" [level=4] [ref=f132e399]
+                  - list [ref=f132e400]:
+                    - listitem [ref=f132e401]: Both spectra have the same number of lines in the same positions.
+                    - listitem [ref=f132e402]: There are 3 UV lines, 4 visible lines, and 0 near IR lines.
+                    - listitem [ref=f132e403]: The lines in the blue giant star's spectrum are all narrow with sharp boundaries.
+                    - listitem [ref=f132e404]: The lines in the white dwarf's spectrum are all much broader and they have diffuse boundaries that blend into the surrounding colors.
+                  - heading "Figure 4.6.2 Stellar Rotation and Spectroscopy" [level=2] [ref=f132e405]
+                  - paragraph [ref=f132e406]: The illustration compares the spectra of a non-rotating and rotating star.
+                  - heading "Layout of Figure" [level=3] [ref=f132e407]
+                  - list [ref=f132e408]:
+                    - listitem [ref=f132e409]: The images are organized into two columns.
+                    - listitem [ref=f132e410]: At the top of the columns, the non rotating star is on the left with the rotating star on the right. It is a top view of the star and there arrows on the right star indicating that it is rotating counter-clockwise.
+                    - listitem [ref=f132e411]: In the row below the stars there are wavy yellow lines representing the light traveling away from each star.
+                    - listitem [ref=f132e412]: In the same row as the light, there is an arrow indicating that the light is traveling in the direction of Earth, which would be located beyond the bottom of the figure.
+                    - listitem [ref=f132e413]: In the row below the light, there is a visible absorption spectrum for each star with a single absorption line.
+                    - listitem [ref=f132e414]: In the final row, there is a graph of the luminosity of each star's spectrum vs wavelength.
+                  - heading "Comparison of Stars" [level=3] [ref=f132e415]
+                  - list [ref=f132e416]:
+                    - listitem [ref=f132e417]: The stars are the same in size and color except that the right one is rotating counter-clockwise.
+                    - listitem [ref=f132e418]:
+                      - text: The light traveling form the star is represented by three wavy arrows pointing downwards for each star.
+                      - list [ref=f132e419]:
+                        - listitem [ref=f132e420]: For the non-rotating star all three arrows are identical. There are roughly 6 waves over the length of each of the arrows.
+                        - listitem [ref=f132e421]: For the rotating star, the three arrows look different from each other regarding the waves on the arrows.
+                        - listitem [ref=f132e422]: The first arrow for the rotating star has roughly 6 waves, similar to the non-rotating star. This arrow is coming from the side of the star that is rotating towards the bottom of the figure, towards the Earth.
+                        - listitem [ref=f132e423]: The next arrow has roughly 4 waves, while the last arrow has 3 waves. The arrow with the waves is coming from the side of the star that is rotating away from Earth.
+                    - listitem [ref=f132e424]: The spectra are identical except that the single line is wider in the spectrum for the rotating star.
+                    - listitem [ref=f132e425]:
+                      - text: Both graphs have a similar pattern.
+                      - list [ref=f132e426]:
+                        - listitem [ref=f132e427]: On the left of the chart, the luminosity at low wavelength is constant until it reaches the point where the spectral line is located.
+                        - listitem [ref=f132e428]: Where the spectral line is, the luminosity dips down to a lower value, then increases to the same value it was before the spectral line.
+                        - listitem [ref=f132e429]: The luminosity stays at a constant value for the rest of chart.
+                    - listitem [ref=f132e430]:
+                      - text: The shape of the dip is different between the two stars.
+                      - list [ref=f132e431]:
+                        - listitem [ref=f132e432]: The size of the dip is larger while the width of the dip is smaller.
+                        - listitem [ref=f132e433]: For the rotating star, the size of the dip is smaller and the width of the dip is larger.
+                  - heading "Figure 4.6.3 Comparison of Rotating Stars" [level=2] [ref=f132e434]
+                  - heading "Layout" [level=3] [ref=f132e435]
+                  - list [ref=f132e436]:
+                    - listitem [ref=f132e437]: Altair is on the left while the Sun is on the right.
+                    - listitem [ref=f132e438]: Both stars have a white, vertical line passing through them representing their spin axis.
+                    - listitem [ref=f132e439]: Above each star, there is a circular arrow indicating that that both stars are spinning counter clockwise.
+                  - heading "Comparison" [level=3] [ref=f132e440]
+                  - list [ref=f132e441]:
+                    - listitem [ref=f132e442]: The color, shape, and rotation rate are different for Altair and the Sun.
+                    - listitem [ref=f132e443]: Altair is light blue while the Sun is yellow.
+                    - listitem [ref=f132e444]: Altair has a rotation period of 6.5 hours while the Sun has a rotation period of 24 to 30 days.
+                    - listitem [ref=f132e445]: The Sun looks like it is spherical, while Altair looks squished. Its horizontal diameter is larger than its vertical diameter.
+                  - heading "Figure 4.6.4 Doppler Shifted Stars" [level=2] [ref=f132e446]
+                  - paragraph [ref=f132e447]: This figure has three visible absorption spectra stacked in a column, labeled from top to bottom Red-shifted, Stationary, and Blue-shifted.
+                  - heading "Chart Properties" [level=3] [ref=f132e448]
+                  - list [ref=f132e449]:
+                    - listitem [ref=f132e450]: At the bottom of the figure there is an x-axis measuring wavelength from 400 to 800 nm (nanometers).
+                    - listitem [ref=f132e451]: There is no y-axis.
+                    - listitem [ref=f132e452]:
+                      - text: All three spectra are absorption spectra.
+                      - list [ref=f132e453]:
+                        - listitem [ref=f132e454]: They show the visible colors from violet to red from left to right.
+                        - listitem [ref=f132e455]: The spectra have black lines representing the absorption of photons, also called spectral lines.
+                  - heading "Comparison" [level=3] [ref=f132e456]
+                  - list [ref=f132e457]:
+                    - listitem [ref=f132e458]: All three spectra have 5 spectral lines.
+                    - listitem [ref=f132e459]: The stationary spectrum has 2 violet, 1 blue, 1 cyan, and one red spectral lines.
+                    - listitem [ref=f132e460]:
+                      - text: Red-shifted spectrum.
+                      - list [ref=f132e461]:
+                        - listitem [ref=f132e462]: The spectral lines are spaced similarly to the stationary spectrum but are all shifted towards longer wavelength, which is also towards the red, or right, side of the spectrum.
+                        - listitem [ref=f132e463]: There is only one violet spectral line. There are two blue spectral lines. There is one cyan line, but it is closer to green that the one in the stationary spectrum. There is one red line, but it is also farther into the red, or right side, than in the stationary spectrum.
+                    - listitem [ref=f132e464]:
+                      - text: Blue-shifted spectrum.
+                      - list [ref=f132e465]:
+                        - listitem [ref=f132e466]: The spectral lines are spaced similarly to the stationary spectrum but are all shifted towards shorter wavelength, which is also towards the violet, or left, side of the spectrum.
+                        - listitem [ref=f132e467]: There are two violet spectral line. There is one blue, cyan, and red spectral line. All lines are shifted to shorter wavelength, or the left, compared to the stationary spectrum. The red line is closer to orange than in the stationary spectrum.
+                  - heading "Figure 4.6.5 Proper Motion" [level=2] [ref=f132e468]
+                  - paragraph [ref=f132e469]: 3 photographs of Barnard’s Star demonstrating its large proper motion labeled a, b, and c from left to right.
+                  - heading "Image (a)" [level=3] [ref=f132e470]
+                  - list [ref=f132e471]:
+                    - listitem [ref=f132e472]: A photograph of stars in a small section of the night sky.
+                    - listitem [ref=f132e473]: Barnard's star is in the center of the photo, labeled 1985. It is one of the brightest stars in the image.
+                    - listitem [ref=f132e474]:
+                      - text: All of the other stars in the image are considered background stars since they are not the most important part of the image, but they are important to use as a reference for the movement of Barnard's star.
+                      - list [ref=f132e475]:
+                        - listitem [ref=f132e476]: In the upper left corner there is a collection of stars forming a shape similar to an hourglass.
+                        - listitem [ref=f132e477]: There are several, dimmer stars scattered across the image.
+                  - heading "Image (b)" [level=3] [ref=f132e478]
+                  - list [ref=f132e479]:
+                    - listitem [ref=f132e480]: The background stars are in the same positions as in Image a.
+                    - listitem [ref=f132e481]: Barnard's star is labeled 1995.
+                    - listitem [ref=f132e482]: Compared to Image a, Barnard’s Star has moved downward from the center of the image compared to its position in 1985, indicating its movement over 10 years.
+                  - heading "Image (c)" [level=3] [ref=f132e483]
+                  - list [ref=f132e484]:
+                    - listitem [ref=f132e485]: The background stars are in the same positions as in Image a and b.
+                    - listitem [ref=f132e486]: Barnard's star is labeled 2005.
+                    - listitem [ref=f132e487]: Compared to Image b, Barnard’s Star has moved downward compared to its position in 1995 and is closer to the bottom of the image.
+                  - heading "Figure 4.6.6 Changes in the Big Dipper" [level=2] [ref=f132e488]
+                  - paragraph [ref=f132e489]: 3 illustrations of changes in the asterism called the Big Dipper as a result of proper motion, stacked in a column.
+                  - 'heading "Top Illustration: 50,000 years ago" [level=3] [ref=f132e490]'
+                  - list [ref=f132e491]:
+                    - listitem [ref=f132e492]: This illustration is labeled 50,000 years ago.
+                    - listitem [ref=f132e493]: The seven stars of the Big Dipper are represented by white dots on a black background.
+                    - listitem [ref=f132e494]: The dots are connected by light blue lines to form the rough shape of a cup with a long handle.
+                    - listitem [ref=f132e495]:
+                      - text: The overall shape of the asterism is different compared to the asterism's shape today, Center Illustration.
+                      - list [ref=f132e496]:
+                        - listitem [ref=f132e497]: "Refer to the next section, Center Illustration: Today for a detailed description of the position of the stars as we see them today."
+                        - listitem [ref=f132e498]: The cup shape is distorted because star farthest to the right has moved up to the left compared to the position today.
+                        - listitem [ref=f132e499]: The star farthest to the right has also moved to the left, making the handle of the dipper much longer.
+                  - 'heading "Center Illustration: Today" [level=3] [ref=f132e500]'
+                  - list [ref=f132e501]:
+                    - listitem [ref=f132e502]: This illustration is labeled Today.
+                    - listitem [ref=f132e503]:
+                      - text: The Big Dipper today.
+                      - list [ref=f132e504]:
+                        - listitem [ref=f132e505]: The Big Dipper is a collection of seven stars that form the shape of a cup with a long handle.
+                        - listitem [ref=f132e506]:
+                          - text: The cup is on the right side.
+                          - list [ref=f132e507]:
+                            - listitem [ref=f132e508]: The cup is made of 4 stars positioned in a square, with the top two stars a little farther apart than the bottom two.
+                            - listitem [ref=f132e509]: The shape of the cup is made with light blue lines connecting the leftmost star to the star below it, then the star to the right, then the star above it.
+                            - listitem [ref=f132e510]: The cup shape is tipped slightly counter-clockwise.
+                        - listitem [ref=f132e511]:
+                          - text: The handle is on the left and it has a slight, downward bend at the left end.
+                          - list [ref=f132e512]:
+                            - listitem [ref=f132e513]: The handle is made of three stars.
+                            - listitem [ref=f132e514]: Two of the stars are connected by an almost straight line with the leftmost star in the cup. The line is angled slightly upward from the left side of the up.
+                            - listitem [ref=f132e515]: The third star is farthest to the left and positioned to the left and slightly below the next star in the handle.
+                            - listitem [ref=f132e516]: The line connecting the left most star with the rest of the handle, gives the end of the handle a slight downward bend.
+                    - listitem [ref=f132e517]:
+                      - text: An arrow attached to each star pointing in the direction of its proper motion across the sky.
+                      - list [ref=f132e518]:
+                        - listitem [ref=f132e519]: The six stars in the center of the asterism are all moving up and to the right.
+                        - listitem [ref=f132e520]: The star farthest on the left and the star farthest on the right are moving down and to the right.
+                        - listitem [ref=f132e521]: Reversing the indicated motion results in the shape of the Big Dipper 50,000 years ago.
+                  - 'heading "Bottom Illustration: 50,000 years from now" [level=3] [ref=f132e522]'
+                  - list [ref=f132e523]:
+                    - listitem [ref=f132e524]: This illustration is labeled 50,000 years from now.
+                    - listitem [ref=f132e525]: The center 5 stars are in roughly the same position as in the other two illustrations.
+                    - listitem [ref=f132e526]: The star all the way on the left has moved to the right and a little bit down, making the end of the handle bent to an almost 90 degree angle.
+                    - listitem [ref=f132e527]: The star all the way on the right has moved to down and to the right, opening up the cup shape.
+                  - heading "Figure 4.6.7 Space Velocity and Proper Motion" [level=2] [ref=f132e528]
+                  - paragraph [ref=f132e529]: Diagram illustrating the radial velocity, proper motion, and space velocity of a star.
+                  - list [ref=f132e530]:
+                    - listitem [ref=f132e531]: At bottom left is a yellow disk representing the Sun.
+                    - listitem [ref=f132e532]: On the upper right is a smaller orange disk representing a distant star.
+                    - listitem [ref=f132e533]: A dashed, straight line connects the centers of the Sun and the star.
+                    - listitem [ref=f132e534]: Above, to the left and parallel to this dashed line is a solid line with arrows at each end terminating at what would be the centers of both stars. This line is the total distance, d, separating the Sun and the star.
+                    - listitem [ref=f132e535]: Another dashed, straight line is drawn from the Sun, below and at an angle labeled \(\mu\), from the dashed line that connects the Sun and star.
+                    - listitem [ref=f132e536]: The angle, \(\mu\), between these dashed lines is the measured proper motion of the star as seen from the Sun.
+                    - listitem [ref=f132e537]: In this case the star is moving to the upper left in the diagram.
+                    - listitem [ref=f132e538]: Three arrows are drawn from the center of the distant star. Each arrow represents the components of the star’s motion through space that contributes to its measured proper motion.
+                    - listitem [ref=f132e539]: The first arrow points directly away from the Sun toward the right, along the projected path of the dashed line connecting the Sun and star, representing the radial velocity, or the velocity the star is moving away from the Sun.
+                    - listitem [ref=f132e540]: At a right angle to the radial velocity arrow, and pointing up and to the left from the star, is the arrow for the transverse velocity. The transverse velocity is what we see as proper motion.
+                    - listitem [ref=f132e541]: Between the two arrows is a third pointing straight up in the diagram, that represents the total space velocity of the star. It is the combination of the transverse and radial velocities.
+              - generic [ref=f130e321]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f130e323] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f130e95]:
+          - separator [ref=f130e96]
+          - paragraph [ref=f130e98]:
+            - 'link "4.9: Accessible Descriptions" [ref=f130e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.09%3A_Accessible_Descriptions
+            - text: is shared under a
+            - link "CC BY" [ref=f130e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f130e101]:
+        - list [ref=f130e102]:
+          - listitem [ref=f130e103]:
+            - link "Back to top" [ref=f130e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f130e105]:
+            - list [ref=f130e106]:
+              - listitem [ref=f130e107]:
+                - 'link " 4.8: Key Terms" [ref=f130e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.08%3A_Key_Terms
+                  - text: 
+                  - generic [ref=f130e109]: "4.8: Key Terms"
+              - listitem [ref=f130e110]:
+                - 'link "5: Astronomical Instruments " [ref=f130e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments
+                  - generic [ref=f130e112]: "5: Astronomical Instruments"
+                  - text: 
+        - list [ref=f130e115]:
+          - listitem [ref=f130e116]: Was this article helpful?
+          - listitem [ref=f130e117]:
+            - button "Yes" [ref=f130e118] [cursor=pointer]
+          - listitem [ref=f130e119]:
+            - button "No" [ref=f130e120] [cursor=pointer]
+          - listitem [ref=f130e121]:
+            - button "Leave feedback" [ref=f130e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f130e123]:
+          - heading "Attachments" [level=2] [ref=f130e124]
+          - generic:
+            - button "Attach a file" [ref=f130e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f130e127]:
+            - generic [ref=f130e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f130e131]
+            - generic [ref=f130e132]:
+              - grid [ref=f130e135]:
+                - rowgroup [ref=f130e136]:
+                  - row [ref=f130e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f130e138]':
+                      - generic:
+                        - generic [ref=f130e139]: File
+                        - generic [ref=f130e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f130e141]':
+                      - generic:
+                        - generic [ref=f130e142]: Last modified
+                        - generic [ref=f130e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f130e144]':
+                      - generic:
+                        - generic [ref=f130e145]: Size
+                        - generic [ref=f130e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f130e147]':
+                      - generic:
+                        - generic [ref=f130e148]: Added by
+                        - generic [ref=f130e149]: 
+              - grid [ref=f130e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f130e152]: File
+                          - generic [ref=f130e153]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f130e154]: Last modified
+                          - generic [ref=f130e155]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f130e156]: Size
+                          - generic [ref=f130e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f130e158]: Added by
+                          - generic [ref=f130e159]: 
+                - rowgroup [ref=f130e160]:
+                  - row [ref=f130e161]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f130e162]:
+                      - generic [ref=f130e163]:
+                        - generic [ref=f130e164]:
+                          - generic [ref=f130e165]: 
+                          - link "mindtouch.page#thumbnail" [ref=f130e166] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63070/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f130e167]:
+                          - generic [ref=f130e168]: (no description)
+                          - text: 
+                    - gridcell "Dec 3, 2025, 3:04 PM" [ref=f130e169]
+                    - gridcell "11 KiB" [ref=f130e171]
+                    - gridcell "Rachel Mastrapa" [ref=f130e172]
+    - generic [ref=f130e174]:
+      - button "Open support menu" [ref=f130e176] [cursor=pointer]: "?"
+      - navigation [ref=f130e178]:
+        - paragraph [ref=f130e180]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f130e181] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f130e182] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f130e183] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f130e184] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f130e185] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f130e186]:
+      - generic:
+        - generic [ref=f130e188]:
+          - button "Annotation sidebar" [ref=f130e189]
+          - generic [ref=f130e194]:
+            - button "Show highlights" [ref=f130e195]
+            - button "New page note" [ref=f130e200]
+          - status [ref=f130e205]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f130e206]:
+    - button "contents" [ref=f130e207] [cursor=pointer]
+    - button "readability" [ref=f130e209] [cursor=pointer]
+    - button "resources" [ref=f130e211] [cursor=pointer]
+    - button "tools" [ref=f130e213] [cursor=pointer]
+    - button "developers" [ref=f130e215] [cursor=pointer]
+  - text:  
+  - generic [ref=f130e324]:
+    - generic [ref=f130e325] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f130e328] [cursor=pointer]

@@ -1,0 +1,487 @@
+- generic [active] [ref=f445e1]:
+  - link "Skip to main content" [ref=f445e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f445e3]:
+    - text: 
+    - generic [ref=f445e4]:
+      - generic [ref=f445e5]:
+        - generic: ✕
+        - navigation [ref=f445e7]:
+          - generic [ref=f445e8]:
+            - link [ref=f445e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f445e11]
+            - button "Enter Reader Mode" [ref=f445e13] [cursor=pointer]:
+              - generic [ref=f445e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f445e16]:
+        - list [ref=f445e18]:
+          - listitem [ref=f445e19]:
+            - link [ref=f445e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f445e22]
+          - listitem [ref=f445e23]:
+            - text: 
+            - generic [ref=f445e25]:
+              - generic [ref=f445e26]: "Search :"
+              - searchbox "Search :" [ref=f445e27]
+              - button " Search" [ref=f445e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f445e29]:
+            - list [ref=f445e30]:
+              - listitem [ref=f445e31]:
+                - link "Edit" [ref=f445e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.06%3A_Accessible_Descriptions?action=edit
+              - text: 
+              - listitem [ref=f445e33]:
+                - link " Options" [ref=f445e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f445e35]:
+                - link " Rachel Mastrapa" [ref=f445e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f445e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f445e38] [cursor=pointer]
+          - list [ref=f445e39]:
+            - listitem [ref=f445e40]:
+              - link " Home" [ref=f445e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f445e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f445e43]:
+              - link " Workbench" [ref=f445e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f445e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f445e46]:
+              - link " De Anza - ASTR10" [ref=f445e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f445e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f445e49]:
+              - 'link " 14: Black Holes" [ref=f445e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes
+                - generic [ref=f445e51]: 
+                - text: "14: Black Holes"
+              - text: »
+            - listitem [ref=f445e52]:
+              - generic [ref=f445e53]: 
+              - text: "14.6: Accessible Descriptions"
+          - button " Expand/collapse global location" [ref=f445e54] [cursor=pointer]
+      - navigation
+    - article [ref=f445e55]:
+      - generic [ref=f445e56]:
+        - generic [ref=f445e57]:
+          - button " Page settings" [ref=f445e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "14.6: Accessible Descriptions" [level=1] [ref=f445e59]':
+          - generic [ref=f445e60]: "14.6: Accessible Descriptions "
+        - list [ref=f445e62]:
+          - listitem [ref=f445e63]:
+            - link [ref=f445e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f445e66]:
+                - img "CC" [ref=f445e67]
+                - img "BY" [ref=f445e68]
+          - listitem [ref=f445e69]:
+            - generic [ref=f445e70]:
+              - term [ref=f445e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f445e72]: Aug 11, 2026, 10:15 PM by Rachel Mastrapa
+          - listitem [ref=f445e73]:
+            - generic [ref=f445e74]:
+              - term [ref=f445e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f445e76]: Private
+          - listitem [ref=f445e77]:
+            - generic [ref=f445e78]:
+              - term [ref=f445e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f445e80]: "132513"
+          - listitem [ref=f445e81]:
+            - list [ref=f445e82]:
+              - listitem [ref=f445e83]:
+                - button "Pin Page" [ref=f445e84] [cursor=pointer]: 
+              - listitem [ref=f445e85]:
+                - generic [ref=f445e86]:
+                  - link " Page notifications Off" [ref=f445e88] [cursor=pointer]:
+                    - /url: "#"
+                  - text: 
+              - text: 
+              - listitem [ref=f445e89]:
+                - list [ref=f445e90]:
+                  - listitem [ref=f445e91]:
+                    - 'link " 14.5: Key Terms" [ref=f445e92] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.05%3A_Key_Terms
+                      - text: 
+                      - generic [ref=f445e93]: "14.5: Key Terms"
+                  - listitem [ref=f445e94]:
+                    - 'link "15: Milky Way Galaxy " [ref=f445e95] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy
+                      - generic [ref=f445e96]: "15: Milky Way Galaxy"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f445e97]:
+        - generic [ref=f445e98]:
+          - generic [ref=f445e99]:
+            - heading "Figure 14.1.1 Classical Collapse" [level=2] [ref=f445e100]
+            - paragraph [ref=f445e101]: An illustration of a collapsing star forming a black hole.
+            - generic [ref=f445e102]:
+              - heading "Left Panel" [level=3] [ref=f445e103]
+              - list [ref=f445e104]:
+                - listitem [ref=f445e105]: An astronaut floats near the surface of a large, blue sphere representing a massive star.
+            - generic [ref=f445e106]:
+              - heading "Center Panel" [level=3] [ref=f445e107]
+              - list [ref=f445e108]:
+                - listitem [ref=f445e109]: The star has contracted into a smaller, white sphere.
+                - listitem [ref=f445e110]: The astronaut floats near the surface, appearing about the same size as before.
+                - listitem [ref=f445e111]: Blue arrows point inward toward the sphere from all directions, representing the star's collapse and increasing surface gravity.
+            - generic [ref=f445e112]:
+              - heading "Right Panel" [level=3] [ref=f445e113]
+              - list [ref=f445e114]:
+                - listitem [ref=f445e115]: The star has collapsed into a tiny black dot surrounded by a white, diffuse ring, representing a black hole.
+                - listitem [ref=f445e116]: The astronaut is stretched into a long, thin shape while hovering just above the dot, illustrating the extreme gravitational pull.
+                - listitem [ref=f445e117]: The text No escape appears below the black dot.
+          - generic [ref=f445e118]:
+            - heading "Figure 14.1.2 Curved Spacetime" [level=2] [ref=f445e119]
+            - paragraph [ref=f445e120]: Two diagrams comparing light paths near a normal star and a collapsed star.
+            - generic [ref=f445e121]:
+              - heading "Diagram (a)" [level=3] [ref=f445e122]
+              - list [ref=f445e123]:
+                - listitem [ref=f445e124]: A person stands on the surface of a large blue sphere, representing star, holding a flashlight outward.
+                - listitem [ref=f445e125]: Seven yellow arrows radiate outward from the flashlight in straight lines, spreading away from the flashlight in a fan shape.
+            - generic [ref=f445e126]:
+              - heading "Diagram (b)" [level=3] [ref=f445e127]
+              - list [ref=f445e128]:
+                - listitem [ref=f445e129]: The same person stands on a much smaller blue sphere, representing a collapsed star, holding the flashlight the same way.
+                - listitem [ref=f445e130]: Seven yellow arrows again originate from the flashlight, but only the center arrow points straight up and away from the sphere.
+                - listitem [ref=f445e131]: The remaining six arrows curve sharply back downward, looping around and returning to the sphere's surface.
+          - generic [ref=f445e132]:
+            - heading "Figure 14.2.1 Binary Black Hole" [level=2] [ref=f445e133]
+            - paragraph [ref=f445e134]: An illustration of a black hole pulling material from a companion star.
+            - list [ref=f445e135]:
+              - listitem [ref=f445e136]: A large, bright, orange star is at the upper right.
+              - listitem [ref=f445e137]: A white stream of material flows from the lower left of the star, curving toward the black hole to the left.
+              - listitem [ref=f445e138]: The stream joins a large, swirling white disk of material surrounding a black hole at the bottom left of the image.
+              - listitem [ref=f445e139]: A small dark circle at the center of the disk marks the black hole itself.
+              - listitem [ref=f445e140]: Two thin, narrow jets of material extend outward perpendicular to the disk, one angled up and to the right and one angled down and to the left.
+              - listitem [ref=f445e141]: The background is dark space filled with scattered stars.
+            - paragraph [ref=f445e142]: "Credit: ESO/L. Calçada"
+          - generic [ref=f445e143]:
+            - heading "Figure 14.3.1 Gravitational Wave Observatory" [level=2] [ref=f445e144]
+            - paragraph [ref=f445e145]: Aerial image of the LIGO gravitational wave observatory facility.
+            - generic [ref=f445e146]:
+              - heading "Image Elements" [level=3] [ref=f445e147]
+              - list [ref=f445e148]:
+                - listitem [ref=f445e149]: A central complex of white and dark blue buildings sits at the intersection of two large, long, straight pipes.
+                - listitem [ref=f445e150]: One pipe extends from the central building toward the upper left of the image, running through cleared land toward a distant tree-lined horizon.
+                - listitem [ref=f445e151]: A second pipe extends from the central building toward the right side of the image, with only a short portion visible before it is cut off by the edge of the frame.
+                - listitem [ref=f445e152]: Each pipe is 4 kilometers long.
+                - listitem [ref=f445e153]: Dense green trees surrounds the facility on all sides.
+                - listitem [ref=f445e154]: A paved road and parking area with several small vehicles are on the lower left side of the central building.
+                - listitem [ref=f445e155]: Additional smaller structures are on the right side of the image near the visible portion of the second arm.
+                - listitem [ref=f445e156]: The sky above the horizon is blue with a few scattered clouds.
+                - listitem [ref=f445e157]: "Credit: Caltech/MIT/LIGO Laboratory."
+          - generic [ref=f445e158]:
+            - heading "Figure 14.3.2 Gravitational Wave" [level=2] [ref=f445e159]
+            - paragraph [ref=f445e160]: Three charts of gravitational wave data and an illustration of merging black holes.
+            - generic [ref=f445e161]:
+              - heading "Chart (a)" [level=3] [ref=f445e162]
+              - list [ref=f445e163]:
+                - listitem [ref=f445e164]: Three stacked line charts compare gravitational wave signals measured at two observatories.
+                - listitem [ref=f445e165]:
+                  - text: The vertical axis for each chart is labeled Strain (10
+                  - superscript [ref=f445e166]: "-21"
+                  - text: ), ranging from -1.0 at the bottom to 1.0 at the top, in increments of 0.5.
+                - listitem [ref=f445e167]: The horizontal axis is labeled Time (seconds), ranging from 0.25 on the left to 0.45 on the right, in increments of 0.05.
+                - listitem [ref=f445e168]: "Top chart: LIGO Hanford Data, shown in orange, with a thin yellow Predicted curve overlaid reasonably matching it."
+                - listitem [ref=f445e169]: "Middle chart: LIGO Livingston Data, shown in blue, with a thin light blue Predicted curve overlaid reasonably matching it."
+                - listitem [ref=f445e170]: "Bottom chart: LIGO Hanford Data, shifted in time, shown in orange, superimposed with LIGO Livingston Data, shown in blue, demonstrating reasonable similarity between the two signals."
+                - listitem [ref=f445e171]: In all three charts, the signal begins as a small, irregular oscillation, or variation moving up and down, creating waves, between about -0.05 and 0.05.
+                - listitem [ref=f445e172]: Around T = 0.35 seconds, the oscillations increase sharply in amplitude and frequency, the peaks are larger and closer together, reaching between -1.0 and 1.0.
+                - listitem [ref=f445e173]: The oscillations reach their fastest, largest amplitude and frequency near T = 0.42 seconds.
+                - listitem [ref=f445e174]: After about T = 0.425 seconds, the oscillations diminish back to their original small amplitude.
+                - listitem [ref=f445e175]: "Key Trend: The measured strain at both observatories closely matches the predicted waveform, and the two independent signals align closely with each other once shifted, confirming the detection of a gravitational wave from a black hole merger."
+            - generic [ref=f445e176]:
+              - heading "Illustration (b)" [level=3] [ref=f445e177]
+              - list [ref=f445e178]:
+                - listitem [ref=f445e179]: An illustration of two black holes orbiting each other shortly before merging.
+                - listitem [ref=f445e180]: The black holes two dark circular regions near the center of the image, one slightly larger than the other, positioned close together.
+                - listitem [ref=f445e181]: A faint ring of glowing gas and light surrounds the pair, swept into a swirling, lens-like pattern by their combined gravity.
+                - listitem [ref=f445e182]: The background is filled with a dense field of stars in shades of white, blue, and orange, resembling a star cluster.
+                - listitem [ref=f445e183]: Light from stars behind the black holes is bent into warped, arc-like streaks near the black holes, illustrating gravitational lensing.
+          - generic [ref=f445e184]:
+            - heading "Figure 14.3.3 Black Hole Mergers" [level=2] [ref=f445e185]
+            - paragraph [ref=f445e186]: A scatter chart comparing the masses of known black holes and neutron stars.
+            - generic [ref=f445e187]:
+              - heading "Chart Elements" [level=3] [ref=f445e188]
+              - list [ref=f445e189]:
+                - listitem [ref=f445e190]: The chart is titled Masses in the Stellar Graveyard.
+                - listitem [ref=f445e191]: The vertical axis is labeled Solar Masses and is logarithmic, with gridlines at 1, 2, 5, 10, 20, 40, 80, and 160.
+                - listitem [ref=f445e192]: The horizontal axis has no scale or label. Each position along it represents a separate observed black hole or neutron star, or merger event, rather than a measured quantity.
+                - listitem [ref=f445e193]: Data points are grouped into four categories, from highest mass to lowest.
+            - generic [ref=f445e194]:
+              - heading "Data Categories" [level=3] [ref=f445e195]
+              - list [ref=f445e196]:
+                - listitem [ref=f445e197]:
+                  - text: LIGO-Virgo Black Holes
+                  - list [ref=f445e198]:
+                    - listitem [ref=f445e199]: Shown as light blue dots across the top of the chart, ranging from about 20 to over 80 solar masses.
+                    - listitem [ref=f445e200]: Most points are grouped in pairs connected by a curved arrow leading downward to a third dot, representing two individual black holes merging into a single, more massive black hole.
+                    - listitem [ref=f445e201]: Several of the merged black holes near the center and right of the chart have masses above 80 solar masses, approaching or exceeding 160.
+                - listitem [ref=f445e202]:
+                  - text: EM Black Holes
+                  - list [ref=f445e203]:
+                    - listitem [ref=f445e204]: Shown as purple dots scattered in the middle of the chart, mostly between about 5 and 20 solar masses.
+                    - listitem [ref=f445e205]: These masses are noticeably smaller than the LIGO-Virgo black holes above them.
+                - listitem [ref=f445e206]:
+                  - text: LIGO-Virgo Neutron Stars
+                  - list [ref=f445e207]:
+                    - listitem [ref=f445e208]: Shown as a small number of orange dots near the bottom of the chart, clustered around 1 to 2 solar masses.
+                - listitem [ref=f445e209]:
+                  - text: EM Neutron Stars
+                  - list [ref=f445e210]:
+                    - listitem [ref=f445e211]: Shown as numerous yellow dots along the bottom of the chart, also clustered between about 1 and 2 solar masses.
+              - paragraph [ref=f445e212]: "Key Trend: Black holes detected through gravitational waves by LIGO-Virgo have consistently higher masses than black holes detected through electromagnetic radiation, including some merged black holes massive enough to challenge existing models, while neutron star masses detected by both methods cluster tightly around 1 to 2 solar masses."
+          - generic [ref=f445e213]:
+            - heading "Figure 14.4.1 Black Hole M87" [level=2] [ref=f445e214]
+            - paragraph [ref=f445e215]: Composite image of the M87 black hole across wavelengths.
+            - generic [ref=f445e216]:
+              - heading "Overview" [level=3] [ref=f445e217]
+              - list [ref=f445e218]:
+                - listitem [ref=f445e219]: Thirteen images of the M87 galaxy's central black hole and jet, each taken by a different telescope or combination of telescopes, are arranged to show how the view changes decreasing wavelength, from radio waves to gamma rays.
+                - listitem [ref=f445e220]: "The images are grouped in three columns: radio and millimeter images on the left, ultraviolet and visible images in the middle, and X-ray and gamma-ray images on the right."
+                - listitem [ref=f445e221]: Within each column, a white box on one image marks the region shown in the next, more zoomed-in image.
+                - listitem [ref=f445e222]: A bright knot in the jet, labeled Knot A, is marked with an arrow in several of the images.
+                - listitem [ref=f445e223]: A horizontal electromagnetic spectrum scale at the bottom of the figure shows where each telescope's wavelength falls, from radio waves to cosmic rays.
+            - generic [ref=f445e224]:
+              - heading "Radio and Millimeter Images" [level=3] [ref=f445e225]
+              - list [ref=f445e226]:
+                - listitem [ref=f445e227]: Six images, shown in orange and yellow, trace the jet from a wide view down to the black hole itself.
+                - listitem [ref=f445e228]: The panel labeled ALMA 1.3 mm covers 5 arcseconds, or 1320 light-years, and shows a diffuse, elongated jet extending diagonally from a bright compact core at the lower left up toward the knot labeled Knot A at the upper right.
+                - listitem [ref=f445e229]: The panel labeled EVN 170 mm covers 100 milliarcseconds, or 26.4 light-years, and zooms into the compact core seen in the ALMA image, appearing as a small bright orange patch.
+                - listitem [ref=f445e230]: The panel labeled EAVN 13 mm covers 10 milliarcseconds, or 2.6 light-years, and shows the core as a larger, brighter patch with a short extension beginning to emerge toward the upper right.
+                - listitem [ref=f445e231]: The panel labeled VLBA 7 mm covers 5 milliarcseconds, or 1.3 light-years, and shows the core as a bright, elongated oval with a faint extension of jet structure.
+                - listitem [ref=f445e232]: The panel labeled GMVA 3.5 mm covers 1 milliarcsecond, or 0.26 light-years, and shows the core as a bright oval with faint striped structure suggesting the base of the jet.
+                - listitem [ref=f445e233]: "The panel labeled EHT 1.3 mm covers 50 microarcseconds, or 0.013 light-years, and shows the iconic ring-shaped image of the black hole: a bright orange ring, brighter along its lower edge, surrounding a dark central shadow cast by the event horizon."
+            - generic [ref=f445e234]:
+              - heading "Ultraviolet and Visible Images" [level=3] [ref=f445e235]
+              - list [ref=f445e236]:
+                - listitem [ref=f445e237]: Three images, shown in blue, cover progressively smaller fields of view of the galaxy's core and jet.
+                - listitem [ref=f445e238]: "The panel labeled Swift 251 nm covers 10 arcseconds, or 2640 light-years, and shows two separate glowing blue regions: the galaxy's core near the bottom and the knot labeled Knot A near the top."
+                - listitem [ref=f445e239]: The panel labeled Swift 439 nm covers the same field of view and shows the same two glowing regions, with a box marking the area around the core shown in the next image.
+                - listitem [ref=f445e240]: The panel labeled HST 588 nm covers 5 arcseconds, or 1320 light-years, and shows a large glowing blue sphere representing the galaxy's central bulge, dotted with faint white points representing individual stars, with a thin blue jet extending diagonally from the bright core toward the upper right.
+            - generic [ref=f445e241]:
+              - heading "X-ray and Gamma-ray Images" [level=3] [ref=f445e242]
+              - list [ref=f445e243]:
+                - listitem [ref=f445e244]: Four images show the jet and core at progressively lower resolution and higher photon energy, connected by thin white lines indicating their relative fields of view.
+                - listitem [ref=f445e245]: The panel labeled Chandra 0.2-10 keV covers 5 arcseconds, or 1320 light-years, and shows the jet in blue, red, and yellow, with a bright yellow-white core at the left connected by a red and blue diffuse jet to a red knot at the upper right, labeled Knot A.
+                - listitem [ref=f445e246]: The panel labeled NuSTAR 3-79 keV covers 10 arcminutes, or 160 light-years, and shows the source as a small, unresolved blob with concentric rings of purple, blue, green, and yellow.
+                - listitem [ref=f445e247]: The panel labeled HESS+MAGIC+VERITAS 100 GeV-10 TeV covers 0.5 degrees, or 475 light-years, and shows the source as a small, unresolved green and yellow blob.
+                - listitem [ref=f445e248]: The panel labeled Fermi-LAT 3-1000 GeV covers 2 degrees, or 1900 light-years, and shows the source as a small, unresolved, pixelated blob in pink, purple, and green.
+            - generic [ref=f445e249]:
+              - heading "Electromagnetic Spectrum Scale" [level=3] [ref=f445e250]
+              - list [ref=f445e251]:
+                - listitem [ref=f445e252]: A horizontal bar diagram across the bottom of the figure represents the electromagnetic spectrum.
+                - listitem [ref=f445e253]:
+                  - text: The top axis is labeled wavelength in meters and ranges from 10
+                  - superscript [ref=f445e254]: "2"
+                  - text: on the left to 10
+                  - superscript [ref=f445e255]: "-16"
+                  - text: on the right, decreasing logarithmically by factors of 10.
+                - listitem [ref=f445e256]:
+                  - text: The bottom axis is labeled frequency in hertz and ranges from 10
+                  - superscript [ref=f445e257]: "6"
+                  - text: on the left to 10
+                  - superscript [ref=f445e258]: "24"
+                  - text: on the right, increasing logarithmically by factors of 10.
+                - listitem [ref=f445e259]: "The bar is divided into labeled bands, from left to right: Radio Waves, Microwaves, Infra-red, Visible, Ultraviolet, X-rays, gamma-rays, and Cosmic rays."
+                - listitem [ref=f445e260]: "Small triangular markers above the bar show where each telescope's wavelength falls, in order from left to right: EAVN 13 mm, VLBA 7 mm, GMVA 3.5 mm, EVN 170 mm, EHT and ALMA 1.3 mm, HST 578 nm, Swift 430 nm, Swift 251 nm, Chandra X-rays, NuSTAR, Fermi-LAT, and HESS+MAGIC+VERITAS."
+              - paragraph [ref=f445e261]: "Credit: The EHT Multi-wavelength Science Working Group; the EHT Collaboration; ALMA (ESO/NAOJ/NRAO); the EVN; the EAVN Collaboration; VLBA (NRAO); the GMVA; the Hubble Space Telescope; the Neil Gehrels Swift Observatory; the Chandra X-ray Observatory; the Nuclear Spectroscopic Telescope Array; the Fermi-LAT Collaboration; the H.E.S.S collaboration; the MAGIC collaboration; the VERITAS collaboration; NASA and ESA. Composition by J. C. Algaba."
+          - generic [ref=f445e262]:
+            - heading "Figure 14.4.2 Gravitational Microlensing" [level=2] [ref=f445e263]
+            - paragraph [ref=f445e264]: A diagram of a black hole causing gravitational microlensing of a background star's light.
+            - generic [ref=f445e265]:
+              - heading "Overview" [level=3] [ref=f445e266]
+              - list [ref=f445e267]:
+                - listitem [ref=f445e268]: "Three side-by-side panels show the same star-black hole-Earth system at three points in time: before, during, and after a microlensing event."
+                - listitem [ref=f445e269]: Each panel includes a star at the top, a black hole below it, an Earth icon below that, and a square inset showing what a ground-based observatory would see.
+                - listitem [ref=f445e270]: A small illustration of a satellite and a ground-based observatory appear at the bottom of the figure, beneath the during panel.
+            - generic [ref=f445e271]:
+              - 'heading "Panel: Before" [level=3] [ref=f445e272]'
+              - list [ref=f445e273]:
+                - listitem [ref=f445e274]: On the left
+                - listitem [ref=f445e275]: A white star is labeled Star at the top of the panel.
+                - listitem [ref=f445e276]: Five yellow arrows point outward and downward from the star, representing light traveling away from it in multiple directions.
+                - listitem [ref=f445e277]: An orange ring labeled Black hole sits below the star, off to one side, with a small blue arrow indicating it is moving to the right.
+                - listitem [ref=f445e278]: A small Earth icon labeled Earth [before] appears below the black hole.
+                - listitem [ref=f445e279]: A square inset labeled Star shows a single steady point of orange light, representing the star as normally seen from Earth.
+            - generic [ref=f445e280]:
+              - 'heading "Panel: During" [level=3] [ref=f445e281]'
+              - list [ref=f445e282]:
+                - listitem [ref=f445e283]: In the middle
+                - listitem [ref=f445e284]: A star labeled Star sits at the top, with the label Light from star pointing to the rays traveling from it.
+                - listitem [ref=f445e285]: The black hole, labeled Black hole with a blue arrow showing its motion to the right, has moved directly beneath the star.
+                - listitem [ref=f445e286]: The light rays from the star bend around the black hole along curved yellow paths labeled Gravitational lensing before converging toward Earth.
+                - listitem [ref=f445e287]: An Earth icon labeled Earth [during] sits below the black hole, directly in line with the bent light paths.
+                - listitem [ref=f445e288]: A square inset labeled Microlensed image shows a bright, radiating point of white and orange light, much brighter than the point shown in the before panel, representing the brightened and distorted appearance of the star during the lensing event.
+            - generic [ref=f445e289]:
+              - 'heading "Panel: After" [level=3] [ref=f445e290]'
+              - list [ref=f445e291]:
+                - listitem [ref=f445e292]: On the right
+                - listitem [ref=f445e293]: "The layout matches the before panel: a star labeled Star at the top, five yellow arrows showing light traveling outward, a black hole labeled Black hole that has now moved past and beyond the star's light path, with a blue arrow showing continued motion to the right."
+                - listitem [ref=f445e294]: An Earth icon labeled Earth [after] sits below the black hole.
+                - listitem [ref=f445e295]: A square inset labeled Star shows a single steady point of orange light, the same as in the before panel, indicating the star has returned to its normal brightness.
+            - generic [ref=f445e296]:
+              - heading "Observatory Illustration" [level=3] [ref=f445e297]
+              - list [ref=f445e298]:
+                - listitem [ref=f445e299]: Below the during panel, a small satellite illustration is shown to the left and a ground-based telescope dome is shown to the right, both labeled together as Ground-based observatory.
+              - paragraph [ref=f445e300]: "Credit: NASA/ESA via ESAHubble."
+        - generic [ref=f445e301]:
+          - separator [ref=f445e302]
+          - paragraph [ref=f445e304]:
+            - 'link "14.6: Accessible Descriptions" [ref=f445e305] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.06%3A_Accessible_Descriptions
+            - text: is shared under a
+            - link "CC BY" [ref=f445e306] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f445e307]:
+        - list [ref=f445e308]:
+          - listitem [ref=f445e309]:
+            - link "Back to top" [ref=f445e310] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f445e311]:
+            - list [ref=f445e312]:
+              - listitem [ref=f445e313]:
+                - 'link " 14.5: Key Terms" [ref=f445e314] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.05%3A_Key_Terms
+                  - text: 
+                  - generic [ref=f445e315]: "14.5: Key Terms"
+              - listitem [ref=f445e316]:
+                - 'link "15: Milky Way Galaxy " [ref=f445e317] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy
+                  - generic [ref=f445e318]: "15: Milky Way Galaxy"
+                  - text: 
+        - list [ref=f445e321]:
+          - listitem [ref=f445e322]: Was this article helpful?
+          - listitem [ref=f445e323]:
+            - button "Yes" [ref=f445e324] [cursor=pointer]
+          - listitem [ref=f445e325]:
+            - button "No" [ref=f445e326] [cursor=pointer]
+          - listitem [ref=f445e327]:
+            - button "Leave feedback" [ref=f445e328] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f445e329]:
+          - heading "Attachments" [level=2] [ref=f445e330]
+          - generic:
+            - button "Attach a file" [ref=f445e331] [cursor=pointer]
+            - text: 
+          - generic [ref=f445e333]:
+            - generic [ref=f445e336]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f445e337]
+            - generic [ref=f445e338]:
+              - grid [ref=f445e341]:
+                - rowgroup [ref=f445e342]:
+                  - row [ref=f445e343]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f445e344]':
+                      - generic:
+                        - generic [ref=f445e345]: File
+                        - generic [ref=f445e346]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f445e347]':
+                      - generic:
+                        - generic [ref=f445e348]: Last modified
+                        - generic [ref=f445e349]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f445e350]':
+                      - generic:
+                        - generic [ref=f445e351]: Size
+                        - generic [ref=f445e352]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f445e353]':
+                      - generic:
+                        - generic [ref=f445e354]: Added by
+                        - generic [ref=f445e355]: 
+              - grid [ref=f445e357]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f445e358]: File
+                          - generic [ref=f445e359]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f445e360]: Last modified
+                          - generic [ref=f445e361]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f445e362]: Size
+                          - generic [ref=f445e363]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f445e364]: Added by
+                          - generic [ref=f445e365]: 
+                - rowgroup [ref=f445e366]:
+                  - row [ref=f445e367]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f445e368]:
+                      - generic [ref=f445e369]:
+                        - generic [ref=f445e370]:
+                          - generic [ref=f445e371]: 
+                          - link "mindtouch.page#thumbnail" [ref=f445e372] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63478/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f445e373]:
+                          - generic [ref=f445e374]: (no description)
+                          - text: 
+                    - gridcell "Dec 7, 2025, 8:29 PM" [ref=f445e375]
+                    - gridcell "11 KiB" [ref=f445e377]
+                    - gridcell "Rachel Mastrapa" [ref=f445e378]
+    - generic [ref=f445e380]:
+      - button "Open support menu" [ref=f445e382] [cursor=pointer]: "?"
+      - navigation [ref=f445e384]:
+        - paragraph [ref=f445e386]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f445e387] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f445e388] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f445e389] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f445e390] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f445e391] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f445e392]:
+      - generic:
+        - generic [ref=f445e394]:
+          - button "Annotation sidebar" [ref=f445e395]
+          - generic [ref=f445e400]:
+            - button "Show highlights" [ref=f445e401]
+            - button "New page note" [ref=f445e406]
+          - status [ref=f445e411]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f445e412]:
+    - button "contents" [ref=f445e413] [cursor=pointer]
+    - button "readability" [ref=f445e415] [cursor=pointer]
+    - button "resources" [ref=f445e417] [cursor=pointer]
+    - button "tools" [ref=f445e419] [cursor=pointer]
+    - button "developers" [ref=f445e421] [cursor=pointer]
+  - text:  

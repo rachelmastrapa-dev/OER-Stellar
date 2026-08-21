@@ -1,0 +1,319 @@
+- generic [ref=f42e1]:
+  - link "Skip to main content" [ref=f42e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f42e3]:
+    - text: 
+    - generic [ref=f42e4]:
+      - generic [ref=f42e5]:
+        - generic: ✕
+        - navigation [ref=f42e7]:
+          - generic [ref=f42e8]:
+            - link [ref=f42e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f42e11]
+            - button "Enter Reader Mode" [ref=f42e13] [cursor=pointer]:
+              - generic [ref=f42e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f42e16]:
+        - list [ref=f42e18]:
+          - listitem [ref=f42e19]:
+            - link [ref=f42e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f42e22]
+          - listitem [ref=f42e23]:
+            - text: 
+            - generic [ref=f42e25]:
+              - generic [ref=f42e26]: "Search :"
+              - searchbox "Search :" [ref=f42e27]
+              - button " Search" [ref=f42e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f42e29]:
+            - list [ref=f42e30]:
+              - listitem [ref=f42e31]:
+                - link "Edit" [ref=f42e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.04%3A_The_Sun?action=edit
+              - text: 
+              - listitem [ref=f42e33]:
+                - link " Options" [ref=f42e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f42e35]:
+                - link " Rachel Mastrapa" [ref=f42e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f42e37]:
+        - generic:
+          - button " Contents" [ref=f42e206] [cursor=pointer]
+          - list [ref=f42e39]:
+            - listitem [ref=f42e40]:
+              - link " Home" [ref=f42e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f42e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f42e43]:
+              - link " Workbench" [ref=f42e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f42e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f42e46]:
+              - link " De Anza - ASTR10" [ref=f42e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f42e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f42e49]:
+              - 'link " 2: Night Sky Navigation" [ref=f42e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation
+                - generic [ref=f42e51]: 
+                - text: "2: Night Sky Navigation"
+              - text: »
+            - listitem [ref=f42e52]:
+              - generic [ref=f42e53]: 
+              - text: "2.4: The Sun"
+          - text: 
+      - navigation:
+        - generic:                                                  
+    - article [ref=f42e54]:
+      - generic [ref=f42e55]:
+        - generic [ref=f42e56]:
+          - button " Page settings" [ref=f42e57] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "2.4: The Sun" [level=1] [ref=f42e58]':
+          - generic [ref=f42e207]: "2.4: The Sun "
+        - list [ref=f42e61]:
+          - listitem [ref=f42e62]:
+            - link [ref=f42e64] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f42e65]:
+                - img "CC" [ref=f42e66]
+                - img "BY" [ref=f42e67]
+          - listitem [ref=f42e68]:
+            - generic [ref=f42e69]:
+              - term [ref=f42e70] [cursor=pointer]: "Last updated:"
+              - definition [ref=f42e71]: Aug 19, 2026, 3:10 PM by Rachel Mastrapa
+          - listitem [ref=f42e72]:
+            - generic [ref=f42e73]:
+              - term [ref=f42e74] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f42e75]: Private
+          - listitem [ref=f42e76]:
+            - generic [ref=f42e77]:
+              - term [ref=f42e78] [cursor=pointer]: "Page ID:"
+              - definition [ref=f42e79]: "124348"
+          - listitem [ref=f42e80]:
+            - list [ref=f42e81]:
+              - listitem [ref=f42e82]:
+                - button "Pin Page" [ref=f42e83] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f42e84]:
+                - list [ref=f42e85]:
+                  - listitem [ref=f42e86]:
+                    - 'link " 2.3: Earth" [ref=f42e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.03%3A_Earth
+                      - text: 
+                      - generic [ref=f42e88]: "2.3: Earth"
+                  - listitem [ref=f42e89]:
+                    - 'link "2.5: The Moon " [ref=f42e90] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.05%3A_The_Moon
+                      - generic [ref=f42e91]: "2.5: The Moon"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f42e92]:
+        - group [ref=f42e211]:
+          - generic [ref=f42e212]:
+            - generic [ref=f42e213]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f42e214]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f42e215]:
+            - generic [ref=f42e218]:
+              - generic [ref=f42e220]:
+                - link "Edit" [ref=f42e221]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f42e222]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f42e223]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f42e224]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f42e225]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f42e226]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f42e229]:
+                - toolbar [ref=f42e230]:
+                  - button "Save" [ref=f42e231]:
+                    - generic [ref=f42e232]: 
+                  - button "Cancel" [ref=f42e234]:
+                    - generic [ref=f42e235]: 
+                - text:          
+                - toolbar [ref=f42e276]:
+                  - button "Alignment" [ref=f42e277]:
+                    - generic [ref=f42e278]: 
+                - text:    
+                - toolbar [ref=f42e291]:
+                  - button "Replace" [ref=f42e292]:
+                    - generic [ref=f42e293]: 
+                - toolbar [ref=f42e295]:
+                  - button "Enable Binder" [disabled] [ref=f42e296]
+                  - button "Insert Adapt" [disabled] [ref=f42e298]
+                  - button "Query" [ref=f42e300]
+                  - button "Accessibility Checker" [disabled] [ref=f42e303]
+                - toolbar [ref=f42e306]:
+                  - button "Visual" [pressed] [ref=f42e342]:
+                    - generic [ref=f42e308]: 
+            - application "Rich Text Editor, editarea" [ref=f42e310]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f42e344]: "<h2>Sunrise, Sunset</h2> <h3>Daytime, Nighttime</h3> <p>One of the obvious motions of the heavens is our day and night cycle. Earth turns on its axis in approximately 24 hours. This brings our planet into continuous day and night cycles, where half of Earth is always exposed to sunlight and the other half of Earth is in nighttime, with no sunlight. Note that there are other luminous objects in the heavens, such as the Moon. Yet, by far, the vast majority of our natural lighting comes from the Sun. Even when it is cloudy, we know when it is daytime and likewise nighttime.</p> <div class=\"bc-figure figure\"><img alt=\"Dayside of Earth, including North America.\" src=\"/@api/deki/files/20000/fig1-1-2.jpg\" /> <div class=\"bc-figcaption figcaption\">Dayside of Earth, including North America. [” <a href=\"https://www.nasa.gov/sites/default/files/1-bluemarble_west.jpg\" rel=\"noopener noreferrer\" target=\"_blank\">Dayside Earth </a>” by <a href=\"https://nssdc.gsfc.nasa.gov\" rel=\"noopener noreferrer\" target=\"_blank\">NASA </a>is in the <a href=\"https://wiki.creativecommons.org/Public_domain\" rel=\"noopener noreferrer\" target=\"_blank\">Public Domain </a>]</div> </div> <div class=\"bc-figure figure\"><img alt=\"A view of Earth shows part of it is in daylight, part in nighttime.\" src=\"/@api/deki/files/19949/fig1-1-1.jpg\" /> <div class=\"bc-figcaption figcaption\">A view of Earth shows part of it is in daylight, part in nighttime; Apollo 8. NASA. [” <a href=\"https://nssdc.gsfc.nasa.gov/imgcat/html/object_page/a08_h_15_2561.html\" rel=\"noopener noreferrer\" target=\"_blank\">Half-full Earth </a>” by NASA is in the <a href=\"https://wiki.creativecommons.org/Public_domain\" rel=\"noopener noreferrer\" target=\"_blank\">Public Domain </a>]</div> </div> <p>Understanding the day-night cycle was essential to ancient civilizations as well as indirectly our modern society. The planting of crops or best time to hunt – survival with plenty to eat – was foremost. Today, we take this for granted since the vast majority of us go to a grocery store to choose the already-cultivated food we want, or go to a restaurant to enjoy an already-prepared meal. <sup>(1)</sup></p> <div class=\"bc-section section\"> <h3>Earth’s Motions</h3> <div class=\"bc-figure figure\"><img alt=\"Earth is shown in four different places in its orbit around the sun, with a red line indicating the orbit path.\" src=\"/@api/deki/files/20033/fig1-2-1.jpg\" /> <div class=\"bc-figcaption figcaption\">Earth’s orbit or revolution around the Sun. [” <a href=\"https://commons.wikimedia.org/wiki/File:North_season.jpg\" rel=\"noopener noreferrer\" target=\"_blank\">North season </a>” by Tauʻolunga , Wikimedia Commons is in the<a href=\"http://creativecommons.org/publicdomain/zero/1.0\" rel=\"noopener noreferrer\" target=\"_blank\">Public</a><a href=\"http://creativecommons.org/publicdomain/zero/1.0\" rel=\"noopener noreferrer\" target=\"_blank\"> Domain, CC0 </a>]</div> </div> <p>Our Universe is a Universe of motion. We see and experience evidence of some of the motions, from sunrise to sunset, moonrise and moonset, the seasons, bright planets moving against the background of stars, and even shooting stars — meteors. Earth spins, or rotates, on its axis and it orbits or revolves around the Sun.</p> <p>Other bodies in our Solar System and other stellar systems undergo such motions. Earth rotates once every 24 hours and revolves around the Sun once every 365.24 days. Mars rotates once every 24 hours 39.5 minutes and revolves around the Sun once every 687 earth days. Jupiter rotates once every 9 hours 48 minutes and revolves around the Sun once every 11.86 earth years.</p> <p>The Sun is also moving along with the rotating Milky Way galaxy. What is more, the Milky Way is not static; besides rotating, it is also moving through space. It all seems to be a dizzying dance. <sup>(1)</sup></p> <div class=\"bc-figure figure\"><img alt=\"This detailed annotated artist’s impression shows the structure of the Milky Way, including the location of the spiral arms and other components such as the bulge. An arrow points towards our sun.\" src=\"/@api/deki/files/20056/fig1-2-2.jpg\" /> <div class=\"bc-figcaption figcaption\">An artist’s concept of our Milky Way Galaxy, from a bird’s-eye view. Note the location of the Sun. [” Milky Way ” by NASA/JPL-Caltech/ESO/R. Hurt, Wikimedia Commons is in the <a href=\"https://wiki.creativecommons.org/Public_domain\" rel=\"noopener noreferrer\" target=\"_blank\">Public Domain </a>]</div> </div> </div> <div class=\"licensing\"> <div class=\"license-attribution-dropdown-subheading\">CC licensed content, Original</div> <ul class=\"citation-list\"> <li><strong>Authored by</strong>: Florida State College at Jacksonville. <strong>License</strong>: <em><a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"license\" target=\"_blank\">CC BY: Attribution</a></em></li> </ul> </div> <h2>Seasons and the Sun’s Location</h2> <p>Seasons occur on a planet or moon because the axis of rotation remains tilted in one direction during its orbit about its star; Earth about the Sun. The tilt is relative to the planet’s or satellite’s orbit. This tilt results in a planet or moon having Seasons. Earth’s axis is tilted about 23 <sup>1 </sup><sub>2 </sub>°. And for comparison, the axis of Mars is tilted about 25°. Not all planets are tilted on their axis, for example Mercury’s tilt is 0°.</p> <p>One of the results of Earth undergoing seasons is changes in day and night lengths. In the summer the days are longer and nights shorter. In the winter it is just the opposite.</p> <p><strong>Day and Night Lengths for Jacksonville, Florida; 2018</strong></p> <table class=\"mt-responsive-table\"> <thead> <tr> <th>Date</th> <th>Season</th> <th>Day Length <em>Night Length</em></th> </tr> </thead> <tbody> <tr> <td data-th=\"Date\">March 20</td> <td data-th=\"Season\">Vernal Equinox Start of Spring</td> <td data-th=\"Day Length Night Length\">12 hours 8 minutes <em>11 hours 52 minutes</em></td> </tr> <tr> <td data-th=\"Date\">June 21</td> <td data-th=\"Season\">Summer Solstice Start of Summer</td> <td data-th=\"Day Length Night Length\">14 hours 7 minutes <em>9 hours 53 minutes</em></td> </tr> <tr> <td data-th=\"Date\">September 22</td> <td data-th=\"Season\">Autumnal Equinox Start of Fall</td> <td data-th=\"Day Length Night Length\">12 hours 8 minutes <em>11 hours 52 minutes</em></td> </tr> <tr> <td data-th=\"Date\">December 21</td> <td data-th=\"Season\">Winter Solstice Start of Winter</td> <td data-th=\"Day Length Night Length\">10 hours 11 minutes <em>13 hours 49 minutes</em></td> </tr> </tbody> </table> <p><strong>Seasonal Position of Sunrise and Sunsets</strong></p> <table class=\"mt-responsive-table\"> <thead> <tr> <th>Season</th> <th>Position of Sunrise</th> <th>Position of Sunset</th> </tr> </thead> <tbody> <tr> <td data-th=\"Season\">Winter</td> <td data-th=\"Position of Sunrise\">Southeast</td> <td data-th=\"Position of Sunset\">Southwest</td> </tr> <tr> <td data-th=\"Season\">Spring</td> <td data-th=\"Position of Sunrise\">East</td> <td data-th=\"Position of Sunset\">West</td> </tr> <tr> <td data-th=\"Season\">Summer</td> <td data-th=\"Position of Sunrise\">Northeast</td> <td data-th=\"Position of Sunset\">Northwest</td> </tr> <tr> <td data-th=\"Season\">Autumn</td> <td data-th=\"Position of Sunrise\">East</td> <td data-th=\"Position of Sunset\">West</td> </tr> </tbody> </table> <p>If you watch sunrise and sunset locations over a year, you will also note that the location of where the Sun rises and sets changes. As we orbit the Sun, the rising and setting points are further north in the summer and further south in the winter. There is a variable here: your location on Earth. For example, if you are at far northern or southern latitudes, you will experience extreme day and night lengths, depending on the seasons. And, for those north of the Arctic Circle or south of the Antarctic Circle, you will experience some days with no nights, or some nights with no days.</p> <figure><img alt=\"The location of the sunset through the seasons is shown. The sun appears at the furthest left, or Southwest, on December 21. Next, the sunset is to the right, or further north; then in the center of the image on March 21 and September 21. It continues to the right, or Northwest, and finally is to the furthest right on June 21.\" src=\"/@api/deki/files/19950/fig1-3-1.jpg\" /> <figcaption> <div class=\"bc-section section\"> <div class=\"bc-figure figure\"> <div class=\"bc-figcaption figcaption\">The sunset position changes throughout the year, as does the sunrise position. Note: change “W” (west) to “E” (east) for sunrise position. [“Sunset Cycle”, Florida State College at Jacksonville is licensed under <a href=\"http://creativecommons.org/licenses/by-sa/4.0\" rel=\"noopener noreferrer\" target=\"_blank\">CC BY-SA 4.0 </a>/ A derivative from the <a href=\"https://upload.wikimedia.org/Wikipedia/commons/0/0d/Sunrise_at_ocean.JPG\" rel=\"noopener noreferrer\" target=\"_blank\">original work </a>]</div> </div> </div> <div class=\"licensing\"> <div class=\"license-attribution-dropdown-subheading\">CC licensed content, Original</div> </div> </figcaption> </figure> <h2>Seasons and Seasonal Changes</h2> <figure><img alt=\"Illustration shows the relative positions and timing of solstice, equinox and seasons in relation to the Earth's orbit around the sun, with equinox falling in the months of March and September while solstice is under June and December. \" src=\"/@api/deki/files/42779/figure-24-seasonalChanges. jpg\" style=\"width: 839px; height: 400px;\" /> <figcaption>Season of the Year IllustratedPublic Domain | Image courtesy of NASA.</figcaption> </figure> <p class=\"lt-phys-64093\">The Seasons are the divisions of a year, which are marked by changes in weather and hours of daylight, and hours of darkness. Seasons occur on a planet or moon because the axis of rotation remains tilted in one direction during its orbit about its star; Earth about the Sun. The tilt is relative to the planet’s or satellite’s orbit. This tilt results in a planet or moon having Seasons. Earth’s axis is tilted about 23 ½o, whereas Uranus’ axis is tilted about 98o. Seasons have nothing to do with the distance to the star; for example Earth to the Sun. The distance to the Sun is often incorrectly given as the reason Earth experiences seasons. In fact, Earth is closest to the Sun in January, not June.</p> <p class=\"lt-phys-64093\">Seasonal Terminology include:</p> <ul> <li class=\"lt-phys-64093\"><strong>Summer Solstice </strong>– Sun’s rays are most direct</li> <li class=\"lt-phys-64093\"><strong>Winter’s Solstice </strong>– Sun’s rays are least direct</li> <li class=\"lt-phys-64093\"><strong>Spring or Vernal Equinox </strong>– Equal day and night, going from shorter to longer days</li> <li class=\"lt-phys-64093\"><strong>Fall or Autumnal Equinox </strong>– Equal day and night, going from longer to shorter days</li> </ul> <p class=\"lt-phys-64093\">At the Equinoxes, the Sun rises due east and sets due west – only at the Equinoxes. An egg will not stand on end because it’s the 1st day of spring (or autumn). At the time of summer solstice the day is longer and the night is shorter. This is extreme at far latitudes and creates what is called the midnight Sun. At the time of winter solstice the day is shorter and the night is longer; E=extreme at far latitudes and results in no Sun during part of the winter season!</p> <h3 class=\"lt-phys-64093\">Will the Seasons always remain the same?</h3> <p class=\"lt-phys-64093\">No, because the orientation of Earth’s axis changes over time. This is called Precession, which is the circular motion of a planet’s tilted axis and similar to a top’s wobble as it slows down. For astronomical bodies, it is a slow process. Earth takes 26,000 years to complete one precession. What are the effects of precession? The effects are the timing of the Seasons and changes in the Celestial poles. Precession is not a perfect path; a wobble in the precessional motion called Nutation causes a small irregularity in the precession.</p> <figure><img alt=\"image description that is not close to the same\" src=\"/@api/deki/files/42897/figure-25-celestialPoles. jpg\" style=\"width: 758px; height: 569px;\" /> <figcaption>Image courtesy Mike Reynolds, Ph. D. of Florida State College of Jacksonville.</figcaption> </figure> <div class=\"licensing\"> <p class=\"license-attribution-dropdown-subheading\">&nbsp;</p> <h2 class=\"license-attribution-dropdown-subheading\">Attributions</h2> <p><strong>Authored by</strong>: Florida State College at Jacksonville. <strong>License</strong>: <em><a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"license\" target=\"_blank\">CC BY: Attribution</a></em></p> </div> <p>&nbsp;</p> <h3 class=\"lt-phys-64653\">Rising and Setting of the Sun</h3> <p class=\"lt-phys-64653\">We described the movement of stars in the night sky, but what about during the daytime? The stars continue to circle during the day, but the brilliance of the Sun makes them difficult to see. (The Moon can often be seen in the daylight, however.) On any given day, we can think of the Sun as being located at some position on the hypothetical celestial sphere. When the Sun rises—that is, when the rotation of Earth carries the Sun above the horizon—sunlight is scattered by the molecules of our atmosphere, filling our sky with light and hiding the stars above the horizon.</p> <p class=\"lt-phys-64653\">For thousands of years, astronomers have been aware that the Sun does more than just rise and set. It changes position gradually on the celestial sphere, moving each day about 1° to the east relative to the stars. Very reasonably, the ancients thought this meant the Sun was slowly moving around Earth, taking a period of time we call 1 <span data-type=\"term\" group-by=\"y\">year</span> to make a full circle. Today, of course, we know it is Earth that is going around the Sun, but the effect is the same: the Sun’s position in our sky changes day to day. We have a similar experience when we walk around a campfire at night; we see the flames appear in front of each person seated about the fire in turn.</p> <p class=\"lt-phys-64653\">The path the Sun appears to take around the celestial sphere each year is called the <span data-type=\"term\" group-by=\"e\">ecliptic</span> (Figure 2.6). Because of its motion on the ecliptic, the Sun rises about 4 minutes later each day with respect to the stars. Earth must make just a bit more than one complete rotation (with respect to the stars) to bring the Sun up again.</p> <figure><span data-alt=\"The Apparent Motion of Stars at Different Latitudes. Panel (a) depicts the Earth with the North and South Poles vertically aligned. The Earth is embedded in a sphere representing the sky. An observer is drawn standing on the North Pole. Both the zenith and North celestial pole are labeled on the sky directly above the observer. The horizon of this observer, drawn in red, is also projected onto the sky. White circular arrows are dawn counter-clockwise around the zenith/North celestial pole indicating the apparent motion of stars from the observer’s vantage point. In this case stars circle the North celestial pole and never set below the horizon. Panel (b) depicts the Earth with the North and South Poles horizontally aligned. The Earth is embedded in a sphere representing the sky. An observer is drawn standing on the Equator. The zenith is labeled on the sky directly above the observer. The horizon of this observer, drawn in red, is projected onto the sky. The North celestial pole is labeled and lies on the observer’s horizon. White circular arrows are dawn counter-clockwise around the North celestial pole indicating the apparent motion of stars from the observer’s vantage point. In this case all stars rise in the East and set in the West. Panel (c) depicts the Earth with the North and South Poles aligned at a 45-degree angle from horizontal. The Earth is embedded in a sphere representing the sky. An observer is drawn standing in the Northern Hemisphere. The zenith is labeled on the sky directly above the observer. The horizon of this observer, drawn in red, is projected onto the sky. White circular arrows are dawn counter-clockwise around the North celestial pole indicating the apparent motion of stars from the observer’s vantage point. In this case stars close to the celestial poles do not set, those farther from the celestial poles rise in the East and set in the West.\" data-type=\"media\"><img alt=\"The Apparent Motion of Stars at Different Latitudes. Panel (a) depicts the Earth with the North and South Poles vertically aligned. The Earth is embedded in a sphere representing the sky. An observer is drawn standing on the North Pole. Both the zenith and North celestial pole are labeled on the sky directly above the observer. The horizon of this observer, drawn in red, is also projected onto the sky. White circular arrows are dawn counter-clockwise around the zenith/North celestial pole indicating the apparent motion of stars from the observer’s vantage point. In this case stars circle the North celestial pole and never set below the horizon. Panel (b) depicts the Earth with the North and South Poles horizontally aligned. The Earth is embedded in a sphere representing the sky. An observer is drawn standing on the Equator. The zenith is labeled on the sky directly above the observer. The horizon of this observer, drawn in red, is projected onto the sky. The North celestial pole is labeled and lies on the observer’s horizon. White circular arrows are dawn counter-clockwise around the North celestial pole indicating the apparent motion of stars from the observer’s vantage point. In this case all stars rise in the East and set in the West. Panel (c) depicts the Earth with the North and South Poles aligned at a 45-degree angle from horizontal. The Earth is embedded in a sphere representing the sky. An observer is drawn standing in the Northern Hemisphere. The zenith is labeled on the sky directly above the observer. The horizon of this observer, drawn in red, is projected onto the sky. White circular arrows are dawn counter-clockwise around the North celestial pole indicating the apparent motion of stars from the observer’s vantage point. In this case stars close to the celestial poles do not set, those farther from the celestial poles rise in the East and set in the West.\" data-media-type=\"image/jpeg\" src=\"/@api/deki/files/46170/a18b28f8eb9645e4001381ae390371e3279f6d98\" /> </span> <figcaption>Figure 2.5 : Star Circles at Different Latitudes. The turning of the sky looks different depending on your latitude on Earth. The red circle in each case is your horizon. Your zenith is the point above your head. (a) At the North Pole, the stars circle the zenith and do not rise and set. (b) At the equator, the celestial poles are on the horizon, and the stars rise straight up and set straight down. (c) At intermediate latitudes, the north celestial pole is at some position between overhead and the horizon. Its angle above the horizon turns out to be equal to the observer’s latitude. Stars rise and set at an angle to the horizon.</figcaption> </figure> <p class=\"lt-phys-64653\">As the months go by and we look at the Sun from different places in our orbit, we see it projected against different places in our orbit, and thus against different stars in the background (Figure 2.6 and Table 2.1)—or we would, at least, if we could see the stars in the daytime. In practice, we must deduce which stars lie behind and beyond the Sun by observing the stars visible in the opposite direction at night. After a year, when Earth has completed one trip around the Sun, the Sun will appear to have completed one circuit of the sky along the ecliptic.</p> <figure><span data-alt=\"Constellations on the Ecliptic. The Sun is drawn at the center of this figure. Surrounding the Sun is a blue circular arrow indicating the path of the Earth around the Sun. The Earth is drawn in two positions along this arrow, representing where is it located in June and August. Surrounding the circle of the Earth the constellations of the ecliptic are drawn. Moving counter-clockwise from top center are: Gemini, Cancer, Leo, Virgo, Libra, Scorpius, Ophiuchus, Sagittarius, Capricorn, Aquarius, Pisces, Aries, Taurus, and back to Gemini. As the Earth moves around the Sun throughout the year, our vantage point changes. This is illustrated with an arrow drawn from the Earth through the center of the Sun to the constellation behind the Sun as seen from Earth. In June the arrow points to Taurus, meaning that the Sun is “in” Taurus in June and is not visible in the night sky. In August the arrow points to Cancer, meaning that the Sun is “in” Cancer in June and is not visible in the night sky.\" data-type=\"media\"><img alt=\"Constellations on the Ecliptic. The Sun is drawn at the center of this figure. Surrounding the Sun is a blue circular arrow indicating the path of the Earth around the Sun. The Earth is drawn in two positions along this arrow, representing where is it located in June and August. Surrounding the circle of the Earth the constellations of the ecliptic are drawn. Moving counter-clockwise from top center are: Gemini, Cancer, Leo, Virgo, Libra, Scorpius, Ophiuchus, Sagittarius, Capricorn, Aquarius, Pisces, Aries, Taurus, and back to Gemini. As the Earth moves around the Sun throughout the year, our vantage point changes. This is illustrated with an arrow drawn from the Earth through the center of the Sun to the constellation behind the Sun as seen from Earth. In June the arrow points to Taurus, meaning that the Sun is “in” Taurus in June and is not visible in the night sky. In August the arrow points to Cancer, meaning that the Sun is “in” Cancer in June and is not visible in the night sky.\" data-media-type=\"image/jpeg\" src=\"/@api/deki/files/46169/79746ea0ad1a95f4e160420542393268ab49c764\" /> </span> <figcaption>Figure 2.6 : Constellations on the Ecliptic. As Earth revolves around the Sun, we sit on “platform Earth” and see the Sun moving around the sky. The circle in the sky that the Sun appears to make around us in the course of a year is called the <em data-effect=\"italics\">ecliptic</em>. This circle (like all circles in the sky) goes through a set of <span class=\"no-emphasis\" data-type=\"term\" group-by=\"c\">constellation</span>s. The ancients thought these constellations, which the Sun (and the Moon and planets) visited, must be special and incorporated them into their system of astrology. Note that at any given time of the year, some of the constellations crossed by the ecliptic are visible in the night sky; others are in the day sky and are thus hidden by the brilliance of the Sun. (The term constellation will be defined more precisely in the next subsection.)</figcaption> </figure> <table class=\"mt-responsive-table\"> <caption>Table 2.1: Constellations on the Ecliptic</caption> <thead> <tr valign=\"top\"> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Constellation on the Ecliptic</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Dates When the Sun Crosses It</th> </tr> </thead> <tbody> <tr valign=\"top\"> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Constellation on the Ecliptic\" data-valign=\"top\">Capricornus</td> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Dates When the Sun Crosses It\" data-valign=\"top\">January 21–February 16</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Constellation on the Ecliptic\" data-valign=\"top\">Aquarius</td> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Dates When the Sun Crosses It\" data-valign=\"top\">February 16–March 11</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Constellation on the Ecliptic\" data-valign=\"top\">Pisces</td> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Dates When the Sun Crosses It\" data-valign=\"top\">March 11–April 18</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Constellation on the Ecliptic\" data-valign=\"top\">Aries</td> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Dates When the Sun Crosses It\" data-valign=\"top\">April 18–May 13</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Constellation on the Ecliptic\" data-valign=\"top\">Taurus</td> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Dates When the Sun Crosses It\" data-valign=\"top\">May 13–June 22</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Constellation on the Ecliptic\" data-valign=\"top\">Gemini</td> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Dates When the Sun Crosses It\" data-valign=\"top\">June 22–July 21</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Constellation on the Ecliptic\" data-valign=\"top\">Cancer</td> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Dates When the Sun Crosses It\" data-valign=\"top\">July 21–August 10</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Constellation on the Ecliptic\" data-valign=\"top\">Leo</td> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Dates When the Sun Crosses It\" data-valign=\"top\">August 10–September 16</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Constellation on the Ecliptic\" data-valign=\"top\">Virgo</td> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Dates When the Sun Crosses It\" data-valign=\"top\">September 16–October 31</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Constellation on the Ecliptic\" data-valign=\"top\">Libra</td> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Dates When the Sun Crosses It\" data-valign=\"top\">October 31–November 23</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Constellation on the Ecliptic\" data-valign=\"top\">Scorpius</td> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Dates When the Sun Crosses It\" data-valign=\"top\">November 23–November 29</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Constellation on the Ecliptic\" data-valign=\"top\">Ophiuchus</td> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Dates When the Sun Crosses It\" data-valign=\"top\">November 29–December 18</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Constellation on the Ecliptic\" data-valign=\"top\">Sagittarius</td> <td class=\"lt-phys-64653\" data-align=\"left\" data-th=\"Dates When the Sun Crosses It\" data-valign=\"top\">December 18–January 21</td> </tr> </tbody> </table> <p class=\"lt-phys-64653\">The ecliptic does not lie along the celestial equator but is inclined to it at an angle of about 23.5°. In other words, the Sun’s annual path in the sky is not linked with Earth’s equator. This is because our planet’s axis of rotation is tilted by about 23.5° from a vertical line sticking out of the plane of the <span class=\"no-emphasis\" data-type=\"term\" group-by=\"e\">ecliptic</span> (Figure 2.7). Being tilted from “straight up” is not at all unusual among celestial bodies; Uranus and Pluto are actually tilted so much that they orbit the Sun “on their side.”</p> <figure><span data-alt=\"The Tilt of the Celestial Equator. At the center of the figure the Earth is drawn with the North and South poles labeled and the Equator drawn as a black line. An observer is shown standing in the Northern Hemisphere. The Earth is embedded in a sphere representing the sky. A line is drawn vertically upward from the observer to the sphere, and is labeled “Line perpendicular to ecliptic”. Another line is drawn projecting from the North Pole to the sphere. An angle is drawn between the “Line perpendicular to ecliptic” and the projected North Pole line and labeled “23 ½ degrees”. The Earth’s equator is projected onto the sky and drawn as a white dashed circle and labeled “Celestial equator”. The ecliptic is drawn on the sphere as red circle. Another angle is drawn between the ecliptic and the celestial equator and labeled “23 ½ degrees”. Finally, the Sun is drawn in four locations throughout the year on the ecliptic circle. Two are in June and December when the Sun is farthest from the celestial equator (the solstices), and two are in March and September when the Sun is on the points where the ecliptic and celestial equator meet (the equinoxes).\" data-type=\"media\"><img alt=\"The Tilt of the Celestial Equator. At the center of the figure the Earth is drawn with the North and South poles labeled and the Equator drawn as a black line. An observer is shown standing in the Northern Hemisphere. The Earth is embedded in a sphere representing the sky. A line is drawn vertically upward from the observer to the sphere, and is labeled “Line perpendicular to ecliptic”. Another line is drawn projecting from the North Pole to the sphere. An angle is drawn between the “Line perpendicular to ecliptic” and the projected North Pole line and labeled “23 ½ degrees”. The Earth’s equator is projected onto the sky and drawn as a white dashed circle and labeled “Celestial equator”. The ecliptic is drawn on the sphere as red circle. Another angle is drawn between the ecliptic and the celestial equator and labeled “23 ½ degrees”. Finally, the Sun is drawn in four locations throughout the year on the ecliptic circle. Two are in June and December when the Sun is farthest from the celestial equator (the solstices), and two are in March and September when the Sun is on the points where the ecliptic and celestial equator meet (the equinoxes).\" data-media-type=\"image/jpeg\" src=\"/@api/deki/files/46175/0a043078eb9cc3a638b57d033a6cf9378fcebdca\" /> </span> <figcaption>Figure 2.7 : The Celestial Tilt. The celestial equator is tilted by 23.5° to the ecliptic. As a result, North Americans and Europeans see the Sun north of the celestial equator and high in our sky in June, and south of the celestial equator and low in the sky in December.</figcaption> </figure> <p class=\"lt-phys-64653\">The inclination of the ecliptic is the reason the Sun moves north and south in the sky as the seasons change. In Earth, Moon, and Sky, we discuss the progression of the seasons in more detail.</p>"
+              - generic [ref=f42e312]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f42e314] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f42e94]:
+          - separator [ref=f42e95]
+          - paragraph [ref=f42e97]:
+            - 'link "2.4: The Sun" [ref=f42e98] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.04%3A_The_Sun
+            - text: is shared under a
+            - link "CC BY" [ref=f42e99] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f42e100]:
+        - list [ref=f42e101]:
+          - listitem [ref=f42e102]:
+            - link "Back to top" [ref=f42e103] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f42e104]:
+            - list [ref=f42e105]:
+              - listitem [ref=f42e106]:
+                - 'link " 2.3: Earth" [ref=f42e107] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.03%3A_Earth
+                  - text: 
+                  - generic [ref=f42e108]: "2.3: Earth"
+              - listitem [ref=f42e109]:
+                - 'link "2.5: The Moon " [ref=f42e110] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.05%3A_The_Moon
+                  - generic [ref=f42e111]: "2.5: The Moon"
+                  - text: 
+        - list [ref=f42e114]:
+          - listitem [ref=f42e115]: Was this article helpful?
+          - listitem [ref=f42e116]:
+            - button "Yes" [ref=f42e117] [cursor=pointer]
+          - listitem [ref=f42e118]:
+            - button "No" [ref=f42e119] [cursor=pointer]
+          - listitem [ref=f42e120]:
+            - button "Leave feedback" [ref=f42e121] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f42e122]:
+          - heading "Attachments" [level=2] [ref=f42e123]
+          - generic:
+            - button "Attach a file" [ref=f42e124] [cursor=pointer]
+            - text: 
+          - generic [ref=f42e126]:
+            - generic [ref=f42e129]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f42e130]
+            - generic [ref=f42e131]:
+              - grid [ref=f42e134]:
+                - rowgroup [ref=f42e135]:
+                  - row [ref=f42e136]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f42e137]':
+                      - generic:
+                        - generic [ref=f42e138]: File
+                        - generic [ref=f42e139]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f42e140]':
+                      - generic:
+                        - generic [ref=f42e141]: Last modified
+                        - generic [ref=f42e142]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f42e143]':
+                      - generic:
+                        - generic [ref=f42e144]: Size
+                        - generic [ref=f42e145]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f42e146]':
+                      - generic:
+                        - generic [ref=f42e147]: Added by
+                        - generic [ref=f42e148]: 
+              - grid [ref=f42e150]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f42e315]: File
+                          - generic [ref=f42e316]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f42e317]: Last modified
+                          - generic [ref=f42e318]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f42e319]: Size
+                          - generic [ref=f42e320]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f42e321]: Added by
+                          - generic [ref=f42e322]: 
+                - rowgroup [ref=f42e159]:
+                  - row [ref=f42e323]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f42e324]:
+                      - generic [ref=f42e325]:
+                        - generic [ref=f42e326]:
+                          - generic [ref=f42e327]: 
+                          - link "mindtouch.page#thumbnail" [ref=f42e328] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/61774/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f42e329]:
+                          - generic [ref=f42e330]: (no description)
+                          - text: 
+                    - gridcell "Aug 24, 2025, 6:01 PM" [ref=f42e331]
+                    - gridcell "11 KiB" [ref=f42e333]
+                    - gridcell "Rachel Mastrapa" [ref=f42e334]
+    - generic [ref=f42e163]:
+      - button "Open support menu" [ref=f42e165] [cursor=pointer]: "?"
+      - navigation [ref=f42e167]:
+        - paragraph [ref=f42e169]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f42e170] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f42e171] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f42e172] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f42e173] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f42e174] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f42e175]:
+      - generic:
+        - generic [ref=f42e177]:
+          - button "Annotation sidebar" [ref=f42e178]
+          - generic [ref=f42e183]:
+            - button "Show highlights" [ref=f42e184]
+            - button "New page note" [ref=f42e189]
+          - status [ref=f42e194]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f42e195]:
+    - button "contents" [ref=f42e196] [cursor=pointer]
+    - button "readability" [ref=f42e198] [cursor=pointer]
+    - button "resources" [ref=f42e200] [cursor=pointer]
+    - button "tools" [ref=f42e202] [cursor=pointer]
+    - button "developers" [ref=f42e204] [cursor=pointer]
+  - text:  
+  - generic [ref=f42e335]:
+    - generic [ref=f42e336] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f42e339] [cursor=pointer]

@@ -1,0 +1,262 @@
+- generic [active] [ref=f335e1]:
+  - link "Skip to main content" [ref=f335e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f335e3]:
+    - text: 
+    - generic [ref=f335e4]:
+      - generic [ref=f335e5]:
+        - generic: ✕
+        - navigation [ref=f335e7]:
+          - generic [ref=f335e8]:
+            - link [ref=f335e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f335e11]
+            - button "Enter Reader Mode" [ref=f335e13] [cursor=pointer]:
+              - generic [ref=f335e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f335e16]:
+        - list [ref=f335e18]:
+          - listitem [ref=f335e19]:
+            - link [ref=f335e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f335e22]
+          - listitem [ref=f335e23]:
+            - text: 
+            - generic [ref=f335e25]:
+              - generic [ref=f335e26]: "Search :"
+              - searchbox "Search :" [ref=f335e27]
+              - button " Search" [ref=f335e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f335e29]:
+            - list [ref=f335e30]:
+              - listitem [ref=f335e31]:
+                - link "Edit" [ref=f335e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation?action=edit
+              - text: 
+              - listitem [ref=f335e33]:
+                - link " Options" [ref=f335e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f335e35]:
+                - link " Rachel Mastrapa" [ref=f335e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f335e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f335e38] [cursor=pointer]
+          - list [ref=f335e39]:
+            - listitem [ref=f335e40]:
+              - link " Home" [ref=f335e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f335e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f335e43]:
+              - link " Workbench" [ref=f335e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f335e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f335e46]:
+              - link " De Anza - ASTR10" [ref=f335e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f335e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f335e49]:
+              - generic [ref=f335e50]: 
+              - text: "11: Star Formation"
+          - text: 
+      - navigation
+    - article [ref=f335e51]:
+      - generic [ref=f335e52]:
+        - generic [ref=f335e53]:
+          - button " Page settings" [ref=f335e54] [cursor=pointer]
+          - text: "    : :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "11: Star Formation" [level=1] [ref=f335e55]':
+          - generic [ref=f335e56]: "11: Star Formation "
+        - list [ref=f335e58]:
+          - listitem [ref=f335e59]:
+            - link [ref=f335e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f335e62]:
+                - img "CC" [ref=f335e63]
+                - img "BY" [ref=f335e64]
+          - listitem [ref=f335e65]:
+            - generic [ref=f335e66]:
+              - term [ref=f335e67]: "Last updated:"
+              - definition [ref=f335e68]: Aug 5, 2026, 1:06 PM by Rachel Mastrapa
+          - listitem [ref=f335e69]:
+            - generic [ref=f335e70]:
+              - term [ref=f335e71]: "Page restriction:"
+              - definition [ref=f335e72]: Private
+          - listitem [ref=f335e73]:
+            - generic [ref=f335e74]:
+              - term [ref=f335e75]: "Page ID:"
+              - definition [ref=f335e76]: "115285"
+          - listitem [ref=f335e77]:
+            - list [ref=f335e78]:
+              - listitem [ref=f335e79]:
+                - button "Pin Page" [ref=f335e80] [cursor=pointer]: 
+              - listitem [ref=f335e81]:
+                - generic [ref=f335e82]:
+                  - link " Page notifications Off" [ref=f335e84] [cursor=pointer]:
+                    - /url: "#"
+                  - text: 
+              - text: 
+              - listitem [ref=f335e85]:
+                - list [ref=f335e86]:
+                  - listitem [ref=f335e87]:
+                    - 'link " 10.8: Accessible Descriptions" [ref=f335e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.08%3A_Accessible_Descriptions
+                      - text: 
+                      - generic [ref=f335e89]: "10.8: Accessible Descriptions"
+                  - listitem [ref=f335e90]:
+                    - 'link "11.1: Stellar Origins " [ref=f335e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.01%3A_Stellar_Origins
+                      - generic [ref=f335e92]: "11.1: Stellar Origins"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f335e93]:
+        - generic [ref=f335e95]:
+          - heading "Introduction" [level=2] [ref=f335e96]
+          - paragraph [ref=f335e97]: Where do stars come from? We know that they are made of mostly hydrogen, and there is plenty of gas and dust in space. What brings hydrogen together? If it is gravity, there needs to be a large amount of material because hydrogen is the lightest element and able to easily escape gravity's pull. This chapter will explore the starting conditions and events that trigger star formation.
+          - generic [ref=f335e99]:
+            - heading " Learning Objectives" [level=5] [ref=f335e100]
+            - list [ref=f335e102]:
+              - listitem [ref=f335e103]: Identify the processes by which parts of a molecular cloud collapse to produce stars
+              - listitem [ref=f335e104]: Describe how advancing waves of star formation cause a molecular cloud to change
+              - listitem [ref=f335e105]: Describe a Herbig-Haro object, identifying the jets, disk, and protostar
+              - listitem [ref=f335e106]: Determine the age of a protostar using an H–R diagram and the protostar’s luminosity and temperature
+              - listitem [ref=f335e107]: Explain how astronomers interpreted observations of disks around young stars to create a model of planet formation
+          - paragraph
+          - list [ref=f335e110]:
+            - listitem [ref=f335e111]:
+              - generic [ref=f335e112]:
+                - term [ref=f335e113]:
+                  - 'link " 11.1: Stellar Origins" [ref=f335e114] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.01%3A_Stellar_Origins
+                    - generic [ref=f335e115]: 
+                    - text: "11.1: Stellar Origins"
+                - definition
+            - listitem [ref=f335e116]:
+              - generic [ref=f335e117]:
+                - term [ref=f335e118]:
+                  - 'link " 11.2: The H-R and Star Formation" [ref=f335e119] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.02%3A_The_H-R_and_Star_Formation
+                    - generic [ref=f335e120]: 
+                    - text: "11.2: The H-R and Star Formation"
+                - definition
+            - listitem [ref=f335e121]:
+              - generic [ref=f335e122]:
+                - term [ref=f335e123]:
+                  - 'link " 11.3: Evidence of Exoplanets" [ref=f335e124] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.03%3A_Evidence_of_Exoplanets
+                    - generic [ref=f335e125]: 
+                    - text: "11.3: Evidence of Exoplanets"
+                - definition
+            - listitem [ref=f335e126]:
+              - generic [ref=f335e127]:
+                - term [ref=f335e128]:
+                  - 'link " 11.4: Naming the Stars" [ref=f335e129] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.04%3A_Naming_the_Stars
+                    - generic [ref=f335e130]: 
+                    - text: "11.4: Naming the Stars"
+                - definition
+            - listitem [ref=f335e131]:
+              - generic [ref=f335e132]:
+                - term [ref=f335e133]:
+                  - 'link " 11.5: Key Terms" [ref=f335e134] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.05%3A_Key_Terms
+                    - generic [ref=f335e135]: 
+                    - text: "11.5: Key Terms"
+                - definition
+            - listitem [ref=f335e136]:
+              - generic [ref=f335e137]:
+                - term [ref=f335e138]:
+                  - 'link " 11.6: Accessible Descriptions" [ref=f335e139] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.06%3A_Accessible_Descriptions
+                    - generic [ref=f335e140]: 
+                    - text: "11.6: Accessible Descriptions"
+                - definition
+          - paragraph
+          - paragraph [ref=f335e141]:
+            - strong [ref=f335e142]: Thumbnail
+            - text: ": The protostar L1527 inside its formative nebula, as captured by the James Webb Space Telescope ("
+            - link "CC BY 4.0" [ref=f335e143] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+            - text: ;
+            - link "NASA, ESA, CSA, and STScI, J. DePasquale (STScI)" [ref=f335e144] [cursor=pointer]:
+              - /url: https://www.nasa.gov/
+            - text: via
+            - link "Wikimedia Commons" [ref=f335e145] [cursor=pointer]:
+              - /url: https://commons.wikimedia.org/w/index.php?curid=125787843
+            - text: )
+        - generic [ref=f335e146]:
+          - separator [ref=f335e147]
+          - paragraph [ref=f335e149]:
+            - 'link "11: Star Formation" [ref=f335e150] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation
+            - text: is shared under a
+            - link "CC BY" [ref=f335e151] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f335e152]:
+        - list [ref=f335e153]:
+          - listitem: 
+          - listitem [ref=f335e154]:
+            - list [ref=f335e155]:
+              - listitem [ref=f335e156]:
+                - 'link " 10.8: Accessible Descriptions" [ref=f335e157] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/10%3A_Interstellar_Media/10.08%3A_Accessible_Descriptions
+                  - text: 
+                  - generic [ref=f335e158]: "10.8: Accessible Descriptions"
+              - listitem [ref=f335e159]:
+                - 'link "11.1: Stellar Origins " [ref=f335e160] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.01%3A_Stellar_Origins
+                  - generic [ref=f335e161]: "11.1: Stellar Origins"
+                  - text: 
+        - generic:   
+        - text: "     : : : :              "
+    - generic [ref=f335e163]:
+      - button "Open support menu" [ref=f335e165] [cursor=pointer]: "?"
+      - navigation [ref=f335e167]:
+        - paragraph [ref=f335e169]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f335e170] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f335e171] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f335e172] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f335e173] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f335e174] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f335e175]:
+      - generic:
+        - generic [ref=f335e177]:
+          - button "Annotation sidebar" [ref=f335e178]
+          - generic [ref=f335e183]:
+            - button "Show highlights" [ref=f335e184]
+            - button "New page note" [ref=f335e189]
+          - status [ref=f335e194]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f335e195]:
+    - button "contents" [ref=f335e196] [cursor=pointer]
+    - button "readability" [ref=f335e198] [cursor=pointer]
+    - button "resources" [ref=f335e200] [cursor=pointer]
+    - button "tools" [ref=f335e202] [cursor=pointer]
+    - button "developers" [ref=f335e204] [cursor=pointer]
+  - text:  

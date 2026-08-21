@@ -1,0 +1,285 @@
+- generic [active] [ref=f26e1]:
+  - link "Skip to main content" [ref=f26e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f26e3]:
+    - text: 
+    - generic [ref=f26e4]:
+      - generic [ref=f26e5]:
+        - generic: ✕
+        - navigation [ref=f26e7]:
+          - generic [ref=f26e8]:
+            - link [ref=f26e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f26e11]
+            - button "Enter Reader Mode" [ref=f26e13] [cursor=pointer]:
+              - generic [ref=f26e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f26e16]:
+        - list [ref=f26e18]:
+          - listitem [ref=f26e19]:
+            - link [ref=f26e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f26e22]
+          - listitem [ref=f26e23]:
+            - text: 
+            - generic [ref=f26e25]:
+              - generic [ref=f26e26]: "Search :"
+              - searchbox "Search :" [ref=f26e27]
+              - button " Search" [ref=f26e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f26e29]:
+            - list [ref=f26e30]:
+              - listitem [ref=f26e31]:
+                - link "Edit" [ref=f26e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation?action=edit
+              - text: 
+              - listitem [ref=f26e33]:
+                - link " Options" [ref=f26e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f26e35]:
+                - link " Rachel Mastrapa" [ref=f26e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f26e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f26e38] [cursor=pointer]
+          - list [ref=f26e39]:
+            - listitem [ref=f26e40]:
+              - link " Home" [ref=f26e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f26e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f26e43]:
+              - link " Workbench" [ref=f26e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f26e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f26e46]:
+              - link " De Anza - ASTR10" [ref=f26e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f26e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f26e49]:
+              - generic [ref=f26e50]: 
+              - text: "2: Night Sky Navigation"
+          - text: 
+      - navigation
+    - article [ref=f26e51]:
+      - generic [ref=f26e52]:
+        - generic [ref=f26e53]:
+          - button " Page settings" [ref=f26e54] [cursor=pointer]
+          - text: "    : :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "2: Night Sky Navigation" [level=1] [ref=f26e55]':
+          - generic [ref=f26e56]: "2: Night Sky Navigation "
+        - list [ref=f26e58]:
+          - listitem [ref=f26e59]:
+            - link [ref=f26e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f26e62]:
+                - img "CC" [ref=f26e63]
+                - img "BY" [ref=f26e64]
+          - listitem [ref=f26e65]:
+            - generic [ref=f26e66]:
+              - term [ref=f26e67]: "Last updated:"
+              - definition [ref=f26e68]: Aug 20, 2026, 5:24 PM by Rachel Mastrapa
+          - listitem [ref=f26e69]:
+            - generic [ref=f26e70]:
+              - term [ref=f26e71]: "Page restriction:"
+              - definition [ref=f26e72]: Private
+          - listitem [ref=f26e73]:
+            - generic [ref=f26e74]:
+              - term [ref=f26e75]: "Page ID:"
+              - definition [ref=f26e76]: "115275"
+          - listitem [ref=f26e77]:
+            - list [ref=f26e78]:
+              - listitem [ref=f26e79]:
+                - button "Pin Page" [ref=f26e80] [cursor=pointer]: 
+              - listitem [ref=f26e81]:
+                - generic [ref=f26e82]:
+                  - link " Page notifications Off" [ref=f26e84] [cursor=pointer]:
+                    - /url: "#"
+                  - text: 
+              - text: 
+              - listitem [ref=f26e85]:
+                - list [ref=f26e86]:
+                  - listitem [ref=f26e87]:
+                    - 'link " 1.7: Accessible Description" [ref=f26e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.07%3A_Accessible_Description
+                      - text: 
+                      - generic [ref=f26e89]: "1.7: Accessible Description"
+                  - listitem [ref=f26e90]:
+                    - 'link "2.1: A Tour of the Universe " [ref=f26e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.01%3A_A_Tour_of_the_Universe
+                      - generic [ref=f26e92]: "2.1: A Tour of the Universe"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f26e93]:
+        - generic [ref=f26e95]:
+          - heading "Introduction" [level=2] [ref=f26e96]
+          - paragraph [ref=f26e97]: search for text
+          - paragraph
+          - list [ref=f26e100]:
+            - listitem [ref=f26e101]:
+              - generic [ref=f26e102]:
+                - term [ref=f26e103]:
+                  - 'link " 2.1: A Tour of the Universe" [ref=f26e104] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.01%3A_A_Tour_of_the_Universe
+                    - generic [ref=f26e105]: 
+                    - text: "2.1: A Tour of the Universe"
+                - definition [ref=f26e106]: We can now take a brief introductory tour of the universe as astronomers understand it today to get acquainted with the types of objects and distances you will encounter throughout the text.
+            - listitem [ref=f26e107]:
+              - generic [ref=f26e108]:
+                - term [ref=f26e109]:
+                  - 'link " 2.2: The Sky Above" [ref=f26e110] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.02%3A_The_Sky_Above
+                    - generic [ref=f26e111]: 
+                    - text: "2.2: The Sky Above"
+                - definition [ref=f26e112]: The direct evidence of our senses supports a geocentric perspective, with the celestial sphere pivoting on the celestial poles and rotating about a stationary Earth. We see only half of this sphere at one time, limited by the horizon; the point directly overhead is our zenith. The Sun’s annual path on the celestial sphere is the ecliptic—a line that runs through the center of the zodiac, which is the 18-degree-wide strip of the sky within which we always find the Moon and planets.
+            - listitem [ref=f26e113]:
+              - generic [ref=f26e114]:
+                - term [ref=f26e115]:
+                  - 'link " 2.3: Earth" [ref=f26e116] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.03%3A_Earth
+                    - generic [ref=f26e117]: 
+                    - text: "2.3: Earth"
+                - definition
+            - listitem [ref=f26e118]:
+              - generic [ref=f26e119]:
+                - term [ref=f26e120]:
+                  - 'link " 2.4: The Sun" [ref=f26e121] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.04%3A_The_Sun
+                    - generic [ref=f26e122]: 
+                    - text: "2.4: The Sun"
+                - definition
+            - listitem [ref=f26e123]:
+              - generic [ref=f26e124]:
+                - term [ref=f26e125]:
+                  - 'link " 2.5: The Moon" [ref=f26e126] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.05%3A_The_Moon
+                    - generic [ref=f26e127]: 
+                    - text: "2.5: The Moon"
+                - definition
+            - listitem [ref=f26e128]:
+              - generic [ref=f26e129]:
+                - term [ref=f26e130]:
+                  - 'link " 2.6: The Wanderers" [ref=f26e131] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.06%3A_The_Wanderers
+                    - generic [ref=f26e132]: 
+                    - text: "2.6: The Wanderers"
+                - definition
+            - listitem [ref=f26e133]:
+              - generic [ref=f26e134]:
+                - term [ref=f26e135]:
+                  - 'link " 2.7: Constellations" [ref=f26e136] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.07%3A_Constellations
+                    - generic [ref=f26e137]: 
+                    - text: "2.7: Constellations"
+                - definition
+            - listitem [ref=f26e138]:
+              - generic [ref=f26e139]:
+                - term [ref=f26e140]:
+                  - 'link " 2.8: Science and Society - First Astronomers" [ref=f26e141] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.08%3A_Science_and_Society_-_First_Astronomers
+                    - generic [ref=f26e142]: 
+                    - text: "2.8: Science and Society - First Astronomers"
+                - definition
+            - listitem [ref=f26e143]:
+              - generic [ref=f26e144]:
+                - term [ref=f26e145]:
+                  - 'link " 2.9: Key Terms" [ref=f26e146] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.09%3A_Key_Terms
+                    - generic [ref=f26e147]: 
+                    - text: "2.9: Key Terms"
+                - definition
+            - listitem [ref=f26e148]:
+              - generic [ref=f26e149]:
+                - term [ref=f26e150]:
+                  - 'link " 2.10: Accessible Descriptions" [ref=f26e151] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.10%3A_Accessible_Descriptions
+                    - generic [ref=f26e152]: 
+                    - text: "2.10: Accessible Descriptions"
+                - definition
+          - paragraph
+          - paragraph [ref=f26e153]:
+            - strong [ref=f26e154]: Thumbnail
+            - text: ": This star chart, created by Huang Shang in 1193 and carved into stone by Wang Zhiyuan in 1247, includes 1434 stars grouped into 280 asterisms. (\""
+            - link "Suzhou star cartography" [ref=f26e155] [cursor=pointer]:
+              - /url: https://commons.wikimedia.org/w/index.php?curid=38305831
+            - text: ",\" Wang Zhiyuan and Huang Shang,"
+            - link "Public domain" [ref=f26e156] [cursor=pointer]:
+              - /url: https://en.wikipedia.org/wiki/Public_domain
+            - text: via
+            - link "Wikimedia Commons" [ref=f26e157] [cursor=pointer]:
+              - /url: https://commons.wikimedia.org/wiki/Main_Page
+            - text: )
+        - generic [ref=f26e158]:
+          - separator [ref=f26e159]
+          - paragraph [ref=f26e161]:
+            - 'link "2: Night Sky Navigation" [ref=f26e162] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation
+            - text: is shared under a
+            - link "CC BY" [ref=f26e163] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f26e164]:
+        - list [ref=f26e165]:
+          - listitem: 
+          - listitem [ref=f26e166]:
+            - list [ref=f26e167]:
+              - listitem [ref=f26e168]:
+                - 'link " 1.7: Accessible Description" [ref=f26e169] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.07%3A_Accessible_Description
+                  - text: 
+                  - generic [ref=f26e170]: "1.7: Accessible Description"
+              - listitem [ref=f26e171]:
+                - 'link "2.1: A Tour of the Universe " [ref=f26e172] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.01%3A_A_Tour_of_the_Universe
+                  - generic [ref=f26e173]: "2.1: A Tour of the Universe"
+                  - text: 
+        - generic:   
+        - text: "     : : : :              "
+    - generic [ref=f26e175]:
+      - button "Open support menu" [ref=f26e177] [cursor=pointer]: "?"
+      - navigation [ref=f26e179]:
+        - paragraph [ref=f26e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f26e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f26e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f26e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f26e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f26e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f26e187]:
+      - generic:
+        - generic [ref=f26e189]:
+          - button "Annotation sidebar" [ref=f26e190]
+          - generic [ref=f26e195]:
+            - button "Show highlights" [ref=f26e196]
+            - button "New page note" [ref=f26e201]
+          - status [ref=f26e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f26e207]:
+    - button "contents" [ref=f26e208] [cursor=pointer]
+    - button "readability" [ref=f26e210] [cursor=pointer]
+    - button "resources" [ref=f26e212] [cursor=pointer]
+    - button "tools" [ref=f26e214] [cursor=pointer]
+    - button "developers" [ref=f26e216] [cursor=pointer]

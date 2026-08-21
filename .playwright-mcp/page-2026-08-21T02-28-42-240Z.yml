@@ -1,0 +1,323 @@
+- generic [ref=f367e1]:
+  - link "Skip to main content" [ref=f367e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f367e3]:
+    - text: 
+    - generic [ref=f367e4]:
+      - generic [ref=f367e5]:
+        - generic: ✕
+        - navigation [ref=f367e7]:
+          - generic [ref=f367e8]:
+            - link [ref=f367e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f367e11]
+            - button "Enter Reader Mode" [ref=f367e13] [cursor=pointer]:
+              - generic [ref=f367e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f367e16]:
+        - list [ref=f367e18]:
+          - listitem [ref=f367e19]:
+            - link [ref=f367e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f367e22]
+          - listitem [ref=f367e23]:
+            - text: 
+            - generic [ref=f367e25]:
+              - generic [ref=f367e26]: "Search :"
+              - searchbox "Search :" [ref=f367e27]
+              - button " Search" [ref=f367e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f367e29]:
+            - list [ref=f367e30]:
+              - listitem [ref=f367e31]:
+                - link "Edit" [ref=f367e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.02%3A_Star_Clusters?action=edit
+              - text: 
+              - listitem [ref=f367e33]:
+                - link " Options" [ref=f367e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f367e35]:
+                - link " Rachel Mastrapa" [ref=f367e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f367e37]:
+        - generic:
+          - button " Contents" [ref=f367e217] [cursor=pointer]
+          - list [ref=f367e39]:
+            - listitem [ref=f367e40]:
+              - link " Home" [ref=f367e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f367e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f367e43]:
+              - link " Workbench" [ref=f367e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f367e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f367e46]:
+              - link " De Anza - ASTR10" [ref=f367e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f367e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f367e49]:
+              - 'link " 12: Aging Stars" [ref=f367e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars
+                - generic [ref=f367e51]: 
+                - text: "12: Aging Stars"
+              - text: »
+            - listitem [ref=f367e52]:
+              - generic [ref=f367e53]: 
+              - text: "12.2: Star Clusters"
+          - text: 
+      - navigation:
+        - generic:                                               
+    - article [ref=f367e54]:
+      - generic [ref=f367e55]:
+        - generic [ref=f367e56]:
+          - button " Page settings" [ref=f367e57] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :        "
+        - 'heading "12.2: Star Clusters" [level=1] [ref=f367e58]':
+          - generic [ref=f367e59]: "12.2: Star Clusters "
+        - list [ref=f367e61]:
+          - listitem [ref=f367e62]:
+            - link [ref=f367e64] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f367e65]:
+                - img "CC" [ref=f367e66]
+                - img "BY" [ref=f367e67]
+          - listitem [ref=f367e68]:
+            - generic [ref=f367e69]:
+              - term [ref=f367e70] [cursor=pointer]: "Last updated:"
+              - definition [ref=f367e71]: Aug 4, 2026, 4:00 PM by Jyothsna Viswanadha
+          - listitem [ref=f367e72]:
+            - generic [ref=f367e73]:
+              - term [ref=f367e74] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f367e75]: Private
+          - listitem [ref=f367e76]:
+            - generic [ref=f367e77]:
+              - term [ref=f367e78] [cursor=pointer]: "Page ID:"
+              - definition [ref=f367e79]: "133498"
+          - listitem [ref=f367e80]:
+            - list [ref=f367e81]:
+              - listitem [ref=f367e82]:
+                - button "Pin Page" [ref=f367e83] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f367e84]:
+                - list [ref=f367e85]:
+                  - listitem [ref=f367e86]:
+                    - 'link " 12.1: From Main Sequence to Red Giants" [ref=f367e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.01%3A_From_Main_Sequence_to_Red_Giants
+                      - text: 
+                      - generic [ref=f367e88]: "12.1: From Main Sequence to Red Giants"
+                  - listitem [ref=f367e89]:
+                    - 'link "12.3: Clusters on the H-R Diagram " [ref=f367e90] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.03%3A_Clusters_on_the_H-R_Diagram
+                      - generic [ref=f367e91]: "12.3: Clusters on the H-R Diagram"
+                      - text: 
+              - text:  
+      - list [ref=f367e94]:
+        - listitem [ref=f367e95]:
+          - img "OpenStax" [ref=f367e96]
+        - listitem [ref=f367e97]:
+          - link "OpenStax" [ref=f367e98] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f367e99]:
+          - link "OpenStax" [ref=f367e100] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f367e101]:
+        - group [ref=f367e220]:
+          - generic [ref=f367e221]:
+            - generic [ref=f367e222]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f367e223]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f367e224]:
+            - generic [ref=f367e227]:
+              - generic [ref=f367e229]:
+                - link "Edit" [ref=f367e230]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f367e231]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f367e232]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f367e233]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f367e234]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f367e235]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f367e238]:
+                - toolbar [ref=f367e239]:
+                  - button "Save" [ref=f367e240]:
+                    - generic [ref=f367e241]: 
+                  - button "Cancel" [ref=f367e243]:
+                    - generic [ref=f367e244]: 
+                - text:          
+                - toolbar [ref=f367e285]:
+                  - button "Alignment" [ref=f367e286]:
+                    - generic [ref=f367e287]: 
+                - text:    
+                - toolbar [ref=f367e300]:
+                  - button "Replace" [ref=f367e301]:
+                    - generic [ref=f367e302]: 
+                - toolbar [ref=f367e304]:
+                  - button "Enable Binder" [disabled] [ref=f367e305]
+                  - button "Insert Adapt" [disabled] [ref=f367e307]
+                  - button "Query" [ref=f367e309]
+                  - button "Accessibility Checker" [disabled] [ref=f367e312]
+                - toolbar [ref=f367e315]:
+                  - button "Visual" [pressed] [ref=f367e331]:
+                    - generic [ref=f367e317]: 
+            - application "Rich Text Editor, editarea" [ref=f367e319]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f367e333]: "<h2>Stellar Evolution in&nbsp;Star Clusters</h2> <p class=\"lt-phys-64199\">The preceding description of stellar evolution is based on calculations. However, no star completes its main-sequence lifetime or its evolution to a red giant quickly enough for us to observe these structural changes as they happen. Fortunately, nature has provided us with an indirect way to test our calculations. Instead of observing the evolution of a single star, we can look at a group or cluster of stars. Star clusters are gravitationally bound groups of stars. In clusters, stars are usually very close together in space, held together by gravity, and often moving around a common center. It is reasonable to assume that the individual stars in the group all formed at nearly the same time, from the same cloud, and with the same composition. We expect that these stars will differ only in mass and that their masses determine how quickly they go through each stage of their lives.</p> <p class=\"lt-phys-64792\">Since stars with higher masses evolve more quickly, we can find clusters in which massive stars have already completed their main-sequence phase of evolution and become red giants, while stars of lower mass in the same cluster are still on the main sequence, or even undergoing pre-main-sequence gravitational contraction. We can see many stages of stellar evolution among the members of a single cluster, and we can see whether our models can explain why the H–R diagrams of clusters of different ages look the way they do.</p> <p class=\"lt-phys-64792\">The three basic types of clusters astronomers have discovered are <strong><a href=\"/Workbench/De_Anza_-_ASTR10/12:_Aging_Stars/12.06:_Key_Terms#globular cluster\" target=\"_blank\" title=\"globular cluster\">globular clusters</a></strong>, <strong><a href=\"/Workbench/De_Anza_-_ASTR10/12:_Aging_Stars/12.06:_Key_Terms#open cluster\" target=\"_blank\" title=\"open cluster\">open clusters</a></strong>, and <strong><a href=\"/Workbench/De_Anza_-_ASTR10/12:_Aging_Stars/12.06:_Key_Terms#stellar association\" target=\"_blank\" title=\"stellar association\">stellar associations</a></strong>. Open clusters are groups of 50 to 1000 stars, many of which are&nbsp;young and hot. They are irregular&nbsp;in shape and the stars are relatively far apart. Stellar associations have 100-10,000, including many young, massive&nbsp;blue stars. Globular clusters have 10,000-1,000,000 tightly packed stars. They are symmetrical and spherical in shape. The properties of different types of stellar groupings are summarized in Table \\(\\PageIndex{1}\\).</p> <table class=\"mt-responsive-table\"> <caption>Table \\(\\PageIndex{1}\\): Characteristics of Star Clusters</caption> <thead> <tr valign=\"top\"> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Characteristic</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Globular Clusters</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Open Clusters</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Associations</th> </tr> </thead> <tbody> <tr valign=\"top\"> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Characteristic\" data-valign=\"top\">Number in the Galaxy</td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Globular Clusters\" data-valign=\"top\">150</td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Open Clusters\" data-valign=\"top\">Thousands</td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Associations\" data-valign=\"top\">Thousands</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Characteristic\" data-valign=\"top\">Location in the Galaxy</td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Globular Clusters\" data-valign=\"top\">Halo and central bulge</td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Open Clusters\" data-valign=\"top\">Disk (and spiral arms)</td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Associations\" data-valign=\"top\">Spiral arms</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Characteristic\" data-valign=\"top\">Diameter (in light-years)</td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Globular Clusters\" data-valign=\"top\">50–450</td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Open Clusters\" data-valign=\"top\">&lt;30</td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Associations\" data-valign=\"top\">100–500</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Characteristic\" data-valign=\"top\">Mass <em data-effect=\"italics\">M</em><sub>Sun</sub></td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Globular Clusters\" data-valign=\"top\">10<sup>4</sup>–10<sup>6</sup></td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Open Clusters\" data-valign=\"top\">10<sup>2</sup>–10<sup>3</sup></td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Associations\" data-valign=\"top\">10<sup>2</sup>–10<sup>3</sup></td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Characteristic\" data-valign=\"top\">Number of stars</td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Globular Clusters\" data-valign=\"top\">10<sup>4</sup>–10<sup>6</sup></td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Open Clusters\" data-valign=\"top\">50–1000</td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Associations\" data-valign=\"top\">10<sup>2</sup>–10<sup>4</sup></td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Characteristic\" data-valign=\"top\">Color of brightest stars</td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Globular Clusters\" data-valign=\"top\">Red</td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Open Clusters\" data-valign=\"top\">Red or blue</td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Associations\" data-valign=\"top\">Blue</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Characteristic\" data-valign=\"top\">Luminosity of cluster (<em data-effect=\"italics\">L</em><sub>Sun</sub>)</td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Globular Clusters\" data-valign=\"top\">10<sup>4</sup>–10<sup>6</sup></td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Open Clusters\" data-valign=\"top\">10<sup>2</sup>–10<sup>6</sup></td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Associations\" data-valign=\"top\">10<sup>4</sup>–10<sup>7</sup></td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Characteristic\" data-valign=\"top\">Typical ages</td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Globular Clusters\" data-valign=\"top\">Billions of years</td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Open Clusters\" data-valign=\"top\">A few hundred million years to, in the case of unusually large clusters, more than a billion years</td> <td class=\"lt-phys-64792\" data-align=\"left\" data-th=\"Associations\" data-valign=\"top\">Up to about 10<sup>7</sup> years (10 million)</td> </tr> </tbody> </table> <h2 class=\"lt-phys-64792\">Globular Clusters</h2> <p class=\"lt-phys-64792\">The most massive globular cluster in our own Galaxy is Omega Centauri, which is about 16,000 light-years away and contains several million stars. Image (a) of Figure \\(\\PageIndex{1}\\), collected by the Hubble Space Telescope, includes the entire cluster, while Image (b) is a zoom in of the central region. Image (b) is about 6.3 light-years wide. Most of the stars in the image are yellow-white in color and are main-sequence stars similar to our Sun. The brightest stars are red giants that have already completed the main-sequence phase of their evolution and have expanded to about 100 times the diameter of our Sun. These stars have typical surface temperatures around 4000 K. The blue stars have started helium fusion. Globular clusters are some of the oldest parts of the Milky Way Galaxy.</p> <figure><img alt=\"Hubble image of Omega Centauri. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/46282/bc9546ff46dcd5026b64fd063e7568775723286f\" /> <figcaption>Figure \\(\\PageIndex{1}\\):&nbsp;Image (a) This Hubble image of Omega Centauri contains millions of stars. Image (b) An enlargement of the center of Image (a) includes many bright red giant stars. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY\">CC BY</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>). <a href=\"/Workbench/De_Anza_-_ASTR10/12:_Aging_Stars/12.07:_Accessible_Descriptions#Figure_12.2.1_Omega_Centauri\" title=\"12.7: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{1}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64792\">What would it be like to live inside a globular cluster? In the dense central regions, the stars would be roughly a million times closer together than in our own neighborhood. If Earth orbited one of the inner stars in a globular cluster, the nearest stars would be light-months, not light-years, away. They would still appear as points of light, but would be brighter than any of the stars we see in our own sky. The Milky Way would probably be difficult to see through the bright haze of starlight produced by the cluster.</p> <p class=\"lt-phys-64792\">About 150 globular clusters are known in our Galaxy. Most of them are in a spherical halo, or cloud, surrounding the central part of the galaxy. All of the globular clusters are very far from the Sun, and some are found at distances of 60,000 light-years or more from the main disk of the Milky Way. The diameters of globular star clusters range from 50 light-years to more than 450 light-years.</p> <h2 class=\"lt-phys-64792\">Open Clusters</h2> <p class=\"lt-phys-64792\">Open clusters are found in the disk of the Galaxy. They have a range of ages, some as old as, or even older than, our Sun. The youngest open clusters are still associated with the interstellar matter from which they formed. Open clusters are smaller than globular clusters, usually having diameters of less than 30 light-years, and they typically contain only several dozen to several hundreds of stars. The stars in open clusters usually appear well separated from one another, even in the central regions, which explains why they are called “open.” Our Galaxy contains thousands of open clusters, but we can see only a small fraction of them. Interstellar dust, which is also concentrated in the disk of the Galaxy, dims the light of more distant clusters so much that they are undetectable. In Figure \\(\\PageIndex{2}\\), the open cluster NGC 4755, known as the Jewel Box, has young, bright stars and is about 6400 light-years away from the Sun. At the center of the cluster, there is one bright yellow supergiant while the other bright stars are hot blue main-sequence stars. The name comes from John Herschel’s nineteenth-century description of it as “a casket of variously colored precious stones.”</p> <figure><img alt=\"Open Cluster NGC 4755. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/46277/3958572c5cad522892054628259c3a26c0848d27\" /> <figcaption>Figure \\(\\PageIndex{2}\\): Jewel Box (NGC 4755). Open clusters like the Jewel Box have fewer stars than a globular cluster and the stars are separated from each other. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY\">CC BY</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>). <a href=\"/Workbench/De_Anza_-_ASTR10/12:_Aging_Stars/12.07:_Accessible_Descriptions#Figure_12.2.2_Jewel_Box_(NGC_4755)\" title=\"12.7: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{2}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64792\">Although the individual stars in an open cluster can survive for billions of years, they typically remain together as a cluster for only a few hundred million years. In small open clusters, the average speed of the member stars within the cluster may be higher than the cluster’s escape velocity, or the&nbsp;speed needed to overcome the gravity of an object or group of objects. The rockets we send up from Earth, for example, must travel faster than the escape velocity of our planet to be able to get to other worlds. Over time, the stars will gradually move away and leave the cluster. Close encounters of member stars may also increase the velocity of one of the members beyond the escape velocity. Every few hundred million years or so, the cluster may have a close encounter with a giant molecular cloud, and the gravitational force exerted by the cloud may tear the cluster apart.</p> <p class=\"lt-phys-64792\">Several open clusters are visible to the unaided eye. The most famous among them is the Pleiades, which appears as a tiny group of six stars. This cluster is arranged like a small dipping spoon and is seen in the constellation of Taurus, the bull. A good pair of binoculars shows dozens of stars in the cluster, and a telescope reveals hundreds. A car company, Subaru, takes its name from the Japanese term for this cluster and you can see the star group on the Subaru logo. The Hyades is another famous open cluster in the constellation of Taurus, the bull. To the naked eye, it appears as a V-shaped group of faint stars marking the face of the bull. Telescopes show that the Hyades actually contains more than 200 stars.</p> <h2 class=\"lt-phys-64792\">Stellar Associations</h2> <p class=\"lt-phys-64792\">A stellar association is a group of extremely young stars, typically containing 5 to 50 hot, bright O and B stars scattered over a region of space some 100–500 light-years in diameter. As an example, most of the stars in the constellation Orion form one of the nearest stellar associations. Associations also contain hundreds to thousands of low-mass stars, but these are much fainter and less conspicuous. The presence of really hot, luminous stars indicates that star formation in the association has occurred in the last million years or so. Since O stars go through their entire lives in only about a million years, they would not still be around unless star formation has occurred recently. It is therefore not surprising that associations are found in regions rich in the gas and dust required to form new stars. Since associations, like ordinary open clusters, lie in regions occupied by dusty interstellar matter, many are hidden from our view.</p>"
+              - generic [ref=f367e321]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f367e323] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f367e103]:
+          - separator [ref=f367e104]
+          - paragraph [ref=f367e106]:
+            - text: This page titled
+            - 'link "12.2: Star Clusters" [ref=f367e107] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.02%3A_Star_Clusters
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f367e108] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f367e109] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f367e110] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f367e111]:
+        - list [ref=f367e112]:
+          - listitem [ref=f367e113]:
+            - link "Back to top" [ref=f367e114] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f367e115]:
+            - list [ref=f367e116]:
+              - listitem [ref=f367e117]:
+                - 'link " 12.1: From Main Sequence to Red Giants" [ref=f367e118] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.01%3A_From_Main_Sequence_to_Red_Giants
+                  - text: 
+                  - generic [ref=f367e119]: "12.1: From Main Sequence to Red Giants"
+              - listitem [ref=f367e120]:
+                - 'link "12.3: Clusters on the H-R Diagram " [ref=f367e121] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.03%3A_Clusters_on_the_H-R_Diagram
+                  - generic [ref=f367e122]: "12.3: Clusters on the H-R Diagram"
+                  - text: 
+        - list [ref=f367e125]:
+          - listitem [ref=f367e126]: Was this article helpful?
+          - listitem [ref=f367e127]:
+            - button "Yes" [ref=f367e128] [cursor=pointer]
+          - listitem [ref=f367e129]:
+            - button "No" [ref=f367e130] [cursor=pointer]
+          - listitem [ref=f367e131]:
+            - button "Leave feedback" [ref=f367e132] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , , , ,"
+        - generic [ref=f367e133]:
+          - heading "Attachments" [level=2] [ref=f367e134]
+          - generic:
+            - button "Attach a file" [ref=f367e135] [cursor=pointer]
+            - text: 
+          - generic [ref=f367e137]:
+            - generic [ref=f367e140]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f367e141]
+            - generic [ref=f367e142]:
+              - grid [ref=f367e145]:
+                - rowgroup [ref=f367e146]:
+                  - row [ref=f367e147]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f367e148]':
+                      - generic:
+                        - generic [ref=f367e149]: File
+                        - generic [ref=f367e150]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f367e151]':
+                      - generic:
+                        - generic [ref=f367e152]: Last modified
+                        - generic [ref=f367e153]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f367e154]':
+                      - generic:
+                        - generic [ref=f367e155]: Size
+                        - generic [ref=f367e156]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f367e157]':
+                      - generic:
+                        - generic [ref=f367e158]: Added by
+                        - generic [ref=f367e159]: 
+              - grid [ref=f367e161]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f367e162]: File
+                          - generic [ref=f367e163]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f367e164]: Last modified
+                          - generic [ref=f367e165]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f367e166]: Size
+                          - generic [ref=f367e167]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f367e168]: Added by
+                          - generic [ref=f367e169]: 
+                - rowgroup [ref=f367e170]:
+                  - row [ref=f367e171]:
+                    - gridcell "No files attached." [ref=f367e172]
+    - generic [ref=f367e174]:
+      - button "Open support menu" [ref=f367e176] [cursor=pointer]: "?"
+      - navigation [ref=f367e178]:
+        - paragraph [ref=f367e180]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f367e181] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f367e182] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f367e183] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f367e184] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f367e185] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f367e186]:
+      - generic:
+        - generic [ref=f367e188]:
+          - button "Annotation sidebar" [ref=f367e189]
+          - generic [ref=f367e194]:
+            - button "Show highlights" [ref=f367e195]
+            - button "New page note" [ref=f367e200]
+          - status [ref=f367e205]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f367e206]:
+    - button "contents" [ref=f367e207] [cursor=pointer]
+    - button "readability" [ref=f367e209] [cursor=pointer]
+    - button "resources" [ref=f367e211] [cursor=pointer]
+    - button "tools" [ref=f367e213] [cursor=pointer]
+    - button "developers" [ref=f367e215] [cursor=pointer]
+  - text:  
+  - generic [ref=f367e324]:
+    - generic [ref=f367e325] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f367e328] [cursor=pointer]

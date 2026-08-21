@@ -1,0 +1,361 @@
+- generic [ref=f609e1]:
+  - link "Skip to main content" [ref=f609e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f609e3]:
+    - text: 
+    - generic [ref=f609e4]:
+      - generic [ref=f609e5]:
+        - generic: ✕
+        - navigation [ref=f609e7]:
+          - generic [ref=f609e8]:
+            - link [ref=f609e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f609e11]
+            - button "Enter Reader Mode" [ref=f609e13] [cursor=pointer]:
+              - generic [ref=f609e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f609e16]:
+        - list [ref=f609e18]:
+          - listitem [ref=f609e19]:
+            - link [ref=f609e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f609e22]
+          - listitem [ref=f609e23]:
+            - text: 
+            - generic [ref=f609e25]:
+              - generic [ref=f609e26]: "Search :"
+              - searchbox "Search :" [ref=f609e27]
+              - button " Search" [ref=f609e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f609e29]:
+            - list [ref=f609e30]:
+              - listitem [ref=f609e31]:
+                - link "Edit" [ref=f609e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.17%3A_Pickering_Edward_C.?action=edit
+              - text: 
+              - listitem [ref=f609e33]:
+                - link " Options" [ref=f609e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f609e35]:
+                - link " Rachel Mastrapa" [ref=f609e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f609e37]:
+        - generic:
+          - button " Contents" [ref=f609e204] [cursor=pointer]
+          - list [ref=f609e39]:
+            - listitem [ref=f609e40]:
+              - link " Home" [ref=f609e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f609e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f609e43]:
+              - link " Workbench" [ref=f609e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f609e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f609e46]:
+              - link " De Anza - ASTR10" [ref=f609e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f609e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f609e49]:
+              - 'link " 18: Appendices" [ref=f609e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices
+                - generic [ref=f609e51]: 
+                - text: "18: Appendices"
+              - text: »
+            - listitem [ref=f609e52]:
+              - 'link " 18.1: Alphabetical List of Scientists" [ref=f609e53] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists
+                - generic [ref=f609e54]: 
+                - text: "18.1: Alphabetical List of Scientists"
+              - text: »
+            - listitem [ref=f609e55]:
+              - generic [ref=f609e56]: 
+              - text: "18.1.17: Pickering, Edward C."
+          - button " Expand/collapse global location" [ref=f609e57] [cursor=pointer]
+      - navigation:
+        - generic:                                                                   
+    - article [ref=f609e58]:
+      - generic [ref=f609e59]:
+        - generic [ref=f609e60]:
+          - button " Page settings" [ref=f609e61] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "18.1.17: Pickering, Edward C." [level=1] [ref=f609e62]':
+          - generic [ref=f609e205]: "18.1.17: Pickering, Edward C. "
+        - list [ref=f609e65]:
+          - listitem:
+            - generic:
+              - link:
+                - /url: "#"
+          - listitem [ref=f609e66]:
+            - generic [ref=f609e67]:
+              - term [ref=f609e68] [cursor=pointer]: "Last updated:"
+              - definition [ref=f609e69]: Jul 28, 2026, 3:22 PM by Rachel Mastrapa
+          - listitem [ref=f609e70]:
+            - generic [ref=f609e71]:
+              - term [ref=f609e72] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f609e73]: Private
+          - listitem [ref=f609e74]:
+            - generic [ref=f609e75]:
+              - term [ref=f609e76] [cursor=pointer]: "Page ID:"
+              - definition [ref=f609e77]: "140521"
+          - listitem [ref=f609e78]:
+            - list [ref=f609e79]:
+              - listitem [ref=f609e80]:
+                - button "Pin Page" [ref=f609e81] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f609e82]:
+                - list [ref=f609e83]:
+                  - listitem [ref=f609e84]:
+                    - 'link " 18.1.16: Newton, Isaac" [ref=f609e85] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.16%3A_Newton_Isaac
+                      - text: 
+                      - generic [ref=f609e86]: "18.1.16: Newton, Isaac"
+                  - listitem [ref=f609e87]:
+                    - 'link "18.1.18: Ptolemy, Claudius " [ref=f609e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.18%3A_Ptolemy_Claudius
+                      - generic [ref=f609e89]: "18.1.18: Ptolemy, Claudius"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f609e90]:
+        - group [ref=f609e209]:
+          - generic [ref=f609e210]:
+            - generic [ref=f609e211]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f609e212]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f609e213]:
+            - generic [ref=f609e216]:
+              - generic [ref=f609e217]:
+                - generic [ref=f609e218]:
+                  - link "Edit" [ref=f609e219]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f609e220]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f609e221]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f609e222]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f609e223]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f609e224]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f609e225]: "Words: 166, Chars: 1060"
+              - group "Editor toolbars" [ref=f609e227]:
+                - toolbar [ref=f609e228]:
+                  - button "Save" [ref=f609e229]:
+                    - generic [ref=f609e230]: 
+                  - button "Cancel" [ref=f609e232]:
+                    - generic [ref=f609e233]: 
+                - toolbar [ref=f609e236]:
+                  - button "Undo" [disabled] [ref=f609e237]:
+                    - generic [ref=f609e238]: 
+                  - button "Redo" [disabled] [ref=f609e239]:
+                    - generic [ref=f609e240]: 
+                - toolbar [ref=f609e242]:
+                  - button "Headings" [ref=f609e243]
+                - toolbar [ref=f609e248]:
+                  - button "Bold" [ref=f609e249]:
+                    - generic [ref=f609e250]: 
+                  - button "Italic" [ref=f609e251]:
+                    - generic [ref=f609e252]: 
+                  - button "Underline" [ref=f609e253]:
+                    - generic [ref=f609e254]: 
+                - toolbar [ref=f609e256]:
+                  - button "Text color" [ref=f609e257]:
+                    - generic [ref=f609e258]: 
+                  - button "Background color" [ref=f609e260]:
+                    - generic [ref=f609e261]: 
+                - toolbar [ref=f609e264]:
+                  - button "Remove format" [ref=f609e265]:
+                    - generic [ref=f609e266]: 
+                - toolbar [ref=f609e268]:
+                  - button "Insert/Remove numbered list" [ref=f609e269]:
+                    - generic [ref=f609e270]: 
+                  - button "Insert/Remove bulleted list" [ref=f609e271]:
+                    - generic [ref=f609e272]: 
+                - toolbar [ref=f609e274]:
+                  - button "Alignment" [ref=f609e275]:
+                    - generic [ref=f609e276]: 
+                - text: 
+                - toolbar [ref=f609e279]:
+                  - button "Link" [ref=f609e280]:
+                    - generic [ref=f609e281]: 
+                  - button "Image" [ref=f609e282]:
+                    - generic [ref=f609e283]: 
+                  - text: 
+                  - button "Boxes" [ref=f609e284]
+                - toolbar [ref=f609e289]:
+                  - button "Replace" [ref=f609e290]:
+                    - generic [ref=f609e291]: 
+                - toolbar [ref=f609e293]:
+                  - button "Enable Binder" [ref=f609e294]
+                  - button "Insert Adapt" [ref=f609e296]
+                  - button "Query" [ref=f609e298]
+                  - button "Accessibility Checker" [ref=f609e301]
+                - toolbar [ref=f609e304]:
+                  - button "HTML" [ref=f609e305]:
+                    - generic [ref=f609e306]: 
+            - application "Rich Text Editor, editarea" [ref=f609e308]:
+              - iframe [active] [ref=f609e309]:
+                - generic [active] [ref=f611e1]:
+                  - heading "Edward Pickering" [level=2] [ref=f611e2]
+                  - paragraph [ref=f611e3]: "In the late 1800s, the director of the Harvard Observatory, Edward C. Pickering, needed lots of help with his ambitious program of classifying stellar spectra. The basis for these studies was a monumental collection of nearly a million photographic spectra of stars, obtained from many years of observations made at Harvard College Observatory in Massachusetts as well as at its remote observing stations in South America and South Africa. Pickering quickly discovered that educated young women could be hired as assistants for one-third or one-fourth the salary paid to men, and they would often put up with working conditions and repetitive tasks that men with the same education would not tolerate. These women became known as the Harvard Computers. (We should emphasize that astronomers were not alone in reaching such conclusions about the relatively new idea of upper-class, educated women working outside the home: women were exploited and undervalued in many fields. This is a legacy from which our society is just beginning to emerge.)"
+              - generic [ref=f609e310]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f609e312] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f609e92]:
+          - separator [ref=f609e93]
+          - paragraph [ref=f609e95]:
+            - 'link "18.1.17: Pickering, Edward C." [ref=f609e96] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.17%3A_Pickering_Edward_C.
+            - text: is shared under a
+            - link "not declared" [ref=f609e97] [cursor=pointer]:
+              - /url: ""
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f609e98]:
+        - list [ref=f609e99]:
+          - listitem [ref=f609e100]:
+            - link "Back to top" [ref=f609e101] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f609e102]:
+            - list [ref=f609e103]:
+              - listitem [ref=f609e104]:
+                - 'link " 18.1.16: Newton, Isaac" [ref=f609e105] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.16%3A_Newton_Isaac
+                  - text: 
+                  - generic [ref=f609e106]: "18.1.16: Newton, Isaac"
+              - listitem [ref=f609e107]:
+                - 'link "18.1.18: Ptolemy, Claudius " [ref=f609e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.18%3A_Ptolemy_Claudius
+                  - generic [ref=f609e109]: "18.1.18: Ptolemy, Claudius"
+                  - text: 
+        - list [ref=f609e112]:
+          - listitem [ref=f609e113]: Was this article helpful?
+          - listitem [ref=f609e114]:
+            - button "Yes" [ref=f609e115] [cursor=pointer]
+          - listitem [ref=f609e116]:
+            - button "No" [ref=f609e117] [cursor=pointer]
+          - listitem [ref=f609e118]:
+            - button "Leave feedback" [ref=f609e119] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : :"
+        - generic [ref=f609e120]:
+          - heading "Attachments" [level=2] [ref=f609e121]
+          - generic:
+            - button "Attach a file" [ref=f609e122] [cursor=pointer]
+            - text: 
+          - generic [ref=f609e124]:
+            - generic [ref=f609e127]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f609e128]
+            - generic [ref=f609e129]:
+              - grid [ref=f609e132]:
+                - rowgroup [ref=f609e133]:
+                  - row [ref=f609e134]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f609e135]':
+                      - generic:
+                        - generic [ref=f609e136]: File
+                        - generic [ref=f609e137]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f609e138]':
+                      - generic:
+                        - generic [ref=f609e139]: Last modified
+                        - generic [ref=f609e140]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f609e141]':
+                      - generic:
+                        - generic [ref=f609e142]: Size
+                        - generic [ref=f609e143]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f609e144]':
+                      - generic:
+                        - generic [ref=f609e145]: Added by
+                        - generic [ref=f609e146]: 
+              - grid [ref=f609e148]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f609e313]: File
+                          - generic [ref=f609e314]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f609e315]: Last modified
+                          - generic [ref=f609e316]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f609e317]: Size
+                          - generic [ref=f609e318]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f609e319]: Added by
+                          - generic [ref=f609e320]: 
+                - rowgroup [ref=f609e157]:
+                  - row [ref=f609e321]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f609e322]:
+                      - generic [ref=f609e323]:
+                        - generic [ref=f609e324]:
+                          - generic [ref=f609e325]: 
+                          - link "mindtouch.page#thumbnail" [ref=f609e326] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/65488/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f609e327]:
+                          - generic [ref=f609e328]: (no description)
+                          - text: 
+                    - gridcell "Dec 29, 2025, 6:45 PM" [ref=f609e329]
+                    - gridcell "11 KiB" [ref=f609e331]
+                    - gridcell "Rachel Mastrapa" [ref=f609e332]
+    - generic [ref=f609e161]:
+      - button "Open support menu" [ref=f609e163] [cursor=pointer]: "?"
+      - navigation [ref=f609e165]:
+        - paragraph [ref=f609e167]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f609e168] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f609e169] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f609e170] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f609e171] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f609e172] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f609e173]:
+      - generic:
+        - generic [ref=f609e175]:
+          - button "Annotation sidebar" [ref=f609e176]
+          - generic [ref=f609e181]:
+            - button "Show highlights" [ref=f609e182]
+            - button "New page note" [ref=f609e187]
+          - status [ref=f609e192]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f609e193]:
+    - button "contents" [ref=f609e194] [cursor=pointer]
+    - button "readability" [ref=f609e196] [cursor=pointer]
+    - button "resources" [ref=f609e198] [cursor=pointer]
+    - button "tools" [ref=f609e200] [cursor=pointer]
+    - button "developers" [ref=f609e202] [cursor=pointer]
+  - text:  
+  - generic [ref=f609e333]:
+    - generic [ref=f609e334] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f609e337] [cursor=pointer]

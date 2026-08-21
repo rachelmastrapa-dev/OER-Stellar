@@ -1,0 +1,501 @@
+- generic [ref=f430e1]:
+  - link "Skip to main content" [ref=f430e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f430e3]:
+    - text: 
+    - generic [ref=f430e4]:
+      - generic [ref=f430e5]:
+        - generic: ✕
+        - navigation [ref=f430e7]:
+          - generic [ref=f430e8]:
+            - link [ref=f430e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f430e11]
+            - button "Enter Reader Mode" [ref=f430e13] [cursor=pointer]:
+              - generic [ref=f430e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f430e16]:
+        - list [ref=f430e18]:
+          - listitem [ref=f430e19]:
+            - link [ref=f430e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f430e22]
+          - listitem [ref=f430e23]:
+            - text: 
+            - generic [ref=f430e25]:
+              - generic [ref=f430e26]: "Search :"
+              - searchbox "Search :" [ref=f430e27]
+              - button " Search" [ref=f430e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f430e29]:
+            - list [ref=f430e30]:
+              - listitem [ref=f430e31]:
+                - link "Edit" [ref=f430e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.02%3A_Evidence_for_Black_Holes?action=edit
+              - text: 
+              - listitem [ref=f430e33]:
+                - link " Options" [ref=f430e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f430e35]:
+                - link " Rachel Mastrapa" [ref=f430e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f430e37]:
+        - generic:
+          - button " Contents" [ref=f430e218] [cursor=pointer]
+          - list [ref=f430e39]:
+            - listitem [ref=f430e40]:
+              - link " Home" [ref=f430e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f430e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f430e43]:
+              - link " Workbench" [ref=f430e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f430e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f430e46]:
+              - link " De Anza - ASTR10" [ref=f430e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f430e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f430e49]:
+              - 'link " 14: Black Holes" [ref=f430e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes
+                - generic [ref=f430e51]: 
+                - text: "14: Black Holes"
+              - text: »
+            - listitem [ref=f430e52]:
+              - generic [ref=f430e53]: 
+              - text: "14.2: Evidence for Black Holes"
+          - button " Expand/collapse global location" [ref=f430e54] [cursor=pointer]
+      - navigation:
+        - generic:                                              
+    - article [ref=f430e55]:
+      - generic [ref=f430e56]:
+        - generic [ref=f430e57]:
+          - button " Page settings" [ref=f430e58] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :      "
+        - 'heading "14.2: Evidence for Black Holes" [level=1] [ref=f430e59]':
+          - generic [ref=f430e219]: "14.2: Evidence for Black Holes "
+        - list [ref=f430e62]:
+          - listitem [ref=f430e63]:
+            - link [ref=f430e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f430e66]:
+                - img "CC" [ref=f430e67]
+                - img "BY" [ref=f430e68]
+          - listitem [ref=f430e69]:
+            - generic [ref=f430e70]:
+              - term [ref=f430e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f430e72]: Aug 12, 2026, 4:57 PM by Jyothsna Viswanadha
+          - listitem [ref=f430e73]:
+            - generic [ref=f430e74]:
+              - term [ref=f430e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f430e76]: Private
+          - listitem [ref=f430e77]:
+            - generic [ref=f430e78]:
+              - term [ref=f430e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f430e80]: "139190"
+          - listitem [ref=f430e81]:
+            - list [ref=f430e82]:
+              - listitem [ref=f430e83]:
+                - button "Pin Page" [ref=f430e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f430e85]:
+                - list [ref=f430e86]:
+                  - listitem [ref=f430e87]:
+                    - 'link " 14.1: Properties of Black Holes" [ref=f430e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.01%3A_Properties_of_Black_Holes
+                      - text: 
+                      - generic [ref=f430e89]: "14.1: Properties of Black Holes"
+                  - listitem [ref=f430e90]:
+                    - 'link "14.3: Gravitational Wave Astronomy " [ref=f430e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.03%3A_Gravitational_Wave_Astronomy
+                      - generic [ref=f430e92]: "14.3: Gravitational Wave Astronomy"
+                      - text: 
+              - text:  
+      - list [ref=f430e95]:
+        - listitem [ref=f430e96]:
+          - img "OpenStax" [ref=f430e97]
+        - listitem [ref=f430e98]:
+          - link "OpenStax" [ref=f430e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f430e100]:
+          - link "OpenStax" [ref=f430e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f430e102]:
+        - group [ref=f430e223]:
+          - generic [ref=f430e224]:
+            - generic [ref=f430e225]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f430e226]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f430e227]:
+            - generic [ref=f430e230]:
+              - generic [ref=f430e231]:
+                - generic [ref=f430e232]:
+                  - link "Edit" [ref=f430e233]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f430e234]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f430e235]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f430e236]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f430e237]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f430e238]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f430e239]: "Words: 1458, Chars: 8753"
+              - group "Editor toolbars" [ref=f430e241]:
+                - toolbar [ref=f430e242]:
+                  - button "Save" [ref=f430e243]:
+                    - generic [ref=f430e244]: 
+                  - button "Cancel" [ref=f430e246]:
+                    - generic [ref=f430e247]: 
+                - toolbar [ref=f430e250]:
+                  - button "Undo" [disabled] [ref=f430e251]:
+                    - generic [ref=f430e252]: 
+                  - button "Redo" [disabled] [ref=f430e253]:
+                    - generic [ref=f430e254]: 
+                - toolbar [ref=f430e256]:
+                  - button "Headings" [ref=f430e257]
+                - toolbar [ref=f430e262]:
+                  - button "Bold" [ref=f430e263]:
+                    - generic [ref=f430e264]: 
+                  - button "Italic" [ref=f430e265]:
+                    - generic [ref=f430e266]: 
+                  - button "Underline" [ref=f430e267]:
+                    - generic [ref=f430e268]: 
+                - toolbar [ref=f430e270]:
+                  - button "Text color" [ref=f430e271]:
+                    - generic [ref=f430e272]: 
+                  - button "Background color" [ref=f430e274]:
+                    - generic [ref=f430e275]: 
+                - toolbar [ref=f430e278]:
+                  - button "Remove format" [ref=f430e279]:
+                    - generic [ref=f430e280]: 
+                - toolbar [ref=f430e282]:
+                  - button "Insert/Remove numbered list" [ref=f430e283]:
+                    - generic [ref=f430e284]: 
+                  - button "Insert/Remove bulleted list" [ref=f430e285]:
+                    - generic [ref=f430e286]: 
+                - toolbar [ref=f430e288]:
+                  - button "Alignment" [ref=f430e289]:
+                    - generic [ref=f430e290]: 
+                - text: 
+                - toolbar [ref=f430e293]:
+                  - button "Link" [ref=f430e294]:
+                    - generic [ref=f430e295]: 
+                  - button "Image" [ref=f430e296]:
+                    - generic [ref=f430e297]: 
+                  - text: 
+                  - button "Boxes" [ref=f430e298]
+                - toolbar [ref=f430e303]:
+                  - button "Replace" [ref=f430e304]:
+                    - generic [ref=f430e305]: 
+                - toolbar [ref=f430e307]:
+                  - button "Enable Binder" [ref=f430e308]
+                  - button "Insert Adapt" [ref=f430e310]
+                  - button "Query" [ref=f430e312]
+                  - button "Accessibility Checker" [ref=f430e315]
+                - toolbar [ref=f430e318]:
+                  - button "HTML" [ref=f430e319]:
+                    - generic [ref=f430e320]: 
+            - application "Rich Text Editor, editarea" [ref=f430e322]:
+              - iframe [active] [ref=f430e323]:
+                - generic [active] [ref=f432e1]:
+                  - heading "Observing Black Holes" [level=2] [ref=f432e2]
+                  - paragraph [ref=f432e3]: Theory tells us what black holes are like. But do they actually exist? And how do we go about looking for something that is many light-years away, only a few dozen kilometers across, if a stellar black hole, and completely black? It turns out that the trick is not to look for the black hole itself but instead to look for what it does to a nearby companion star. As we saw, when very massive stars collapse, they leave behind their gravitational influence. What if a member of a double-star system becomes a black hole, and its companion manages to survive the death of the massive star? While the black hole disappears from our view, we may be able to deduce its presence from its effects on its companion.
+                  - heading "How to Find a Black Hole" [level=3] [ref=f432e4]
+                  - paragraph [ref=f432e5]: To find a black hole, astronomers search for a star whose motion, determined from the Doppler shift of its spectral lines, shows that it is a member of a binary star system. If both stars are visible, neither can be a black hole. The next step is to examine systems where only one star of the pair is detectable. Being invisible is not enough, however, because a relatively faint star might be hard to observe next to the glare of a brilliant companion or if it is shrouded by dust. It could also be a neutron star. Therefore, we must find evidence that the unseen star has a mass too high to be a neutron star and that it is an extremely small stellar remnant.
+                  - paragraph [ref=f432e6]:
+                    - text: We can use Kepler's law and our knowledge of the visible star to measure the mass of the invisible member of the pair. If the mass is greater than about 3
+                    - generic [ref=f432e7]:
+                      - text: M
+                      - subscript [ref=f432e8]: Sun
+                    - text: ", then we have possibly found a black hole. To confirm the discovery, we need to prove that it is a collapsed star."
+                  - paragraph [ref=f432e9]: If matter falls toward a compact object of high gravity, the material is accelerated to high speed. Near the event horizon of a black hole, matter is moving at velocities that approach the speed of light. As the atoms speed toward the event horizon, they rub against each other. Internal friction can heat the atoms to temperatures of over 100 million K. Such hot matter emits radiation in the form of X-rays. Since X-rays do not penetrate Earth's atmosphere, such sources must be found using X-ray telescopes in space.
+                  - paragraph [ref=f432e10]: "In our example, the infalling gas that produces the X-ray emission comes from the black hole's companion star. Stars in close binary systems can exchange mass, especially as one of the members expands into a red giant. Suppose that one star in a double-star system has evolved to a black hole and that the second star begins to expand. If the two stars are close enough, the black hole can exert enough gravitational force on the outer layers of the star, that some of the material moves toward the black hole. In Figure \\(\\PageIndex{1}\\), material in the star is flowing toward the black hole."
+                  - paragraph [ref=f432e11]: The mutual revolution of the giant star and the black hole causes the material falling toward the black hole to spiral around it rather than flow directly into it. The infalling gas whirls around the black hole and forms an accretion disk. It is within the inner part of this disk that matter is revolving about the black hole so fast that internal friction heats it up to X-ray–emitting temperatures.
+                  - paragraph [ref=f432e12]: Another way to form an accretion disk in a binary star system is to have a powerful stellar wind come from the black hole's companion. Such winds are a characteristic of several stages in a star's life. Some of the ejected gas in the wind will then flow close enough to the black hole to be captured by it into the disk.
+                  - figure [ref=f432e13]:
+                    - img "Black hole with a disk and jets fed by companion star. Details in caption." [ref=f432e14]
+                    - generic [ref=f432e15]:
+                      - text: "Figure \\(\\PageIndex{1}\\) : Binary Black Hole. In this illustration, gravity from the black hole strips material from its companion star, funneling it into a disk. Near the black hole, some of the material is launched outward as narrow jets perpendicular to the disk. ("
+                      - link "CC BY 4.0" [ref=f432e16]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f432e17]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f432e18]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: )
+                      - 'link "Accessible description of Figure \\(\\PageIndex{1}\\)" [ref=f432e19]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/14:_Black_Holes/14.06:_Accessible_Descriptions#Figure_14.2.1_Binary_Black_Hole
+                      - text: .
+                  - paragraph [ref=f432e20]: The actual calculations astronomers make are a bit more complicated. Kepler's law allows us to calculate only the combined mass of the two stars in the binary system. We must learn more about the visible star of the pair and its history to ascertain the distance to the binary pair, the true size of the visible star's orbit, and how the orbit of the two stars are tilted toward Earth. Also, neutron stars can have accretion disks that produce X-rays, so astronomers must study the properties of these X-rays carefully when trying to determine what kind of object is at the center of the disk. Nevertheless, several black holes have been identified using this method.
+                  - heading "Stellar-Mass Black Holes" [level=3] [ref=f432e21]
+                  - paragraph [ref=f432e22]: Because X-rays are such important tracers of black holes that are consuming their stellar companions, the search for black holes had to await the launch of sophisticated X-ray telescopes into space. These instruments must have the resolution to locate the X-ray sources accurately and thereby enable us to match them to the positions of binary star systems.
+                  - paragraph [ref=f432e23]: The first black hole binary system to be discovered is called Cygnus X-1. The visible star in this binary system is spectral type O. Measurements of the Doppler shifts of the O star's spectral lines show that it has an unseen companion. The X-rays from it strongly indicate that the companion is a small collapsed object. The mass of the invisible collapsed companion is about 15 times that of the Sun. The companion is therefore too massive to be either a white dwarf or a neutron star.
+                  - paragraph [ref=f432e24]:
+                    - text: "A number of other binary systems also meet all the conditions for containing a black hole. Table \\(\\PageIndex{1}\\) lists the characteristics of some of the best examples. In the chapter"
+                    - link "Naming the Stars" [ref=f432e25]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/11:_Star_Formation/11.04:_Naming_the_Stars
+                    - text: ", we reviewed how objects in space are named, including how the International Astronomical Union sets standards for naming conventions. At the moment, there is no standard way of naming black hole candidates. Many of these names reflect different types of information. The chain of numbers is the location of the source in right ascension and declination. Some of the letters preceding the numbers refer to objects such as LMC, and constellations like Cygnus. Other objects use letters to refer to the satellite that discovered the candidate: A for Ariel, G for Ginga, and so on. The notations in parentheses are those used by astronomers who study binary star system or novae."
+                  - table [ref=f432e26]:
+                    - caption [ref=f432e27]: "Table \\(\\PageIndex{1}\\): Black Hole Candidates"
+                    - rowgroup [ref=f432e28]:
+                      - row [ref=f432e29]:
+                        - columnheader "Name/Catalog Designation" [ref=f432e30]
+                        - columnheader "Companion Star Spectral Type" [ref=f432e31]
+                        - columnheader "Orbital Period (days)" [ref=f432e32]
+                        - columnheader [ref=f432e33]:
+                          - text: Black Hole Mass Estimates (
+                          - generic [ref=f432e34]:
+                            - text: M
+                            - subscript [ref=f432e35]: Sun
+                          - text: )
+                    - rowgroup [ref=f432e36]:
+                      - row [ref=f432e37]:
+                        - cell "LMC X-1" [ref=f432e38]
+                        - cell "O giant" [ref=f432e39]
+                        - cell "3.9" [ref=f432e40]
+                        - cell "10.9" [ref=f432e41]
+                      - row [ref=f432e42]:
+                        - cell "Cygnus X-1" [ref=f432e43]
+                        - cell "O supergiant" [ref=f432e44]
+                        - cell "5.6" [ref=f432e45]
+                        - cell "15" [ref=f432e46]
+                      - row [ref=f432e47]:
+                        - cell "XTE J1819.3-254 (V4641 Sgr)" [ref=f432e48]
+                        - cell "B giant" [ref=f432e49]
+                        - cell "2.8" [ref=f432e50]
+                        - cell "6–7" [ref=f432e51]
+                      - row [ref=f432e52]:
+                        - cell "LMC X-3" [ref=f432e53]
+                        - cell "B main sequence" [ref=f432e54]
+                        - cell "1.7" [ref=f432e55]
+                        - cell "7" [ref=f432e56]
+                      - row [ref=f432e57]:
+                        - cell "4U1543-475 (IL Lup)" [ref=f432e58]
+                        - cell "A main sequence" [ref=f432e59]
+                        - cell "1.1" [ref=f432e60]
+                        - cell "9" [ref=f432e61]
+                      - row [ref=f432e62]:
+                        - cell "GRO J1655-40 (V1033 Sco)" [ref=f432e63]
+                        - cell "F subgiant" [ref=f432e64]
+                        - cell "2.6" [ref=f432e65]
+                        - cell "7" [ref=f432e66]
+                      - row [ref=f432e67]:
+                        - cell "GRS 1915+105" [ref=f432e68]
+                        - cell "K giant" [ref=f432e69]
+                        - cell "33.5" [ref=f432e70]
+                        - cell "14" [ref=f432e71]
+                      - row [ref=f432e72]:
+                        - cell "GS202+1338 (V404 Cyg)" [ref=f432e73]
+                        - cell "K giant" [ref=f432e74]
+                        - cell "6.5" [ref=f432e75]
+                        - cell "12" [ref=f432e76]
+                      - row [ref=f432e77]:
+                        - cell "XTE J1550-564" [ref=f432e78]
+                        - cell "K giant" [ref=f432e79]
+                        - cell "1.5" [ref=f432e80]
+                        - cell "11" [ref=f432e81]
+                      - row [ref=f432e82]:
+                        - cell "A0620-00 (V616 Mon)" [ref=f432e83]
+                        - cell "K main sequence" [ref=f432e84]
+                        - cell "0.33" [ref=f432e85]
+                        - cell "9–13" [ref=f432e86]
+                      - row [ref=f432e87]:
+                        - cell "H1705-250 (Nova Oph 1977)" [ref=f432e88]
+                        - cell "K main sequence" [ref=f432e89]
+                        - cell "0.52" [ref=f432e90]
+                        - cell "5–7" [ref=f432e91]
+                      - row [ref=f432e92]:
+                        - cell "GRS1124-683 (Nova Mus 1991)" [ref=f432e93]
+                        - cell "K main sequence" [ref=f432e94]
+                        - cell "0.43" [ref=f432e95]
+                        - cell "7" [ref=f432e96]
+                      - row [ref=f432e97]:
+                        - cell "GS2000+25 (QZ Vul)" [ref=f432e98]
+                        - cell "K main sequence" [ref=f432e99]
+                        - cell "0.35" [ref=f432e100]
+                        - cell "5–10" [ref=f432e101]
+                      - row [ref=f432e102]:
+                        - cell "GRS1009-45 (Nova Vel 1993)" [ref=f432e103]
+                        - cell "K dwarf" [ref=f432e104]
+                        - cell "0.29" [ref=f432e105]
+                        - cell "8–9" [ref=f432e106]
+                      - row [ref=f432e107]:
+                        - cell "XTE J1118+480" [ref=f432e108]
+                        - cell "K dwarf" [ref=f432e109]
+                        - cell "0.17" [ref=f432e110]
+                        - cell "7" [ref=f432e111]
+                      - row [ref=f432e112]:
+                        - cell "XTE J1859+226" [ref=f432e113]
+                        - cell "K dwarf" [ref=f432e114]
+                        - cell "0.38" [ref=f432e115]
+                        - cell "5.4" [ref=f432e116]
+                      - row [ref=f432e117]:
+                        - cell "GRO J0422+32" [ref=f432e118]
+                        - cell "M dwarf" [ref=f432e119]
+                        - cell "0.21" [ref=f432e120]
+                        - cell "4" [ref=f432e121]
+                  - heading "How Black Holes Grow" [level=3] [ref=f432e122]
+                  - paragraph [ref=f432e123]: After a star becomes a black hole, it probably won't be able to grow much larger. Out in the arms of the Milky Way Galaxy where we live, stars and star systems are much too far apart for other stars to provide material for a black hole. After all, material must approach very close to the event horizon before the gravity is any different from that of the star before it became the black hole.
+                  - paragraph [ref=f432e124]: In the central regions of galaxies, stars and raw material can be quite crowded together, and they can interact much more frequently with each other. Therefore, black holes in the centers of galaxies may have a much better opportunity to find mass close enough to their event horizons to pull in. Black holes are able to consume other stars, asteroids, gas, dust, and even other black holes. If two black holes merge, the result is a black hole with more mass and a larger event horizon.
+                  - paragraph [ref=f432e125]: As a result, black holes in crowded regions can grow, eventually swallowing thousands or even millions of times the mass of the Sun. Ground-based observations have provided compelling evidence that there is a black hole in the center of our own Galaxy with a mass of about 4 million times the mass of the Sun. Observations with the Hubble Space Telescope have shown dramatic evidence for the existence of black holes in the centers of many other galaxies. These black holes can have masses exceeding one billion solar masses. Evidence from more recent X-ray observations is also starting to indicate the existence of medium-sized black holes, whose masses are dozens to thousands of times the mass of the Sun. The crowded inner regions of globular clusters may be just the right location for intermediate-mass black holes.
+              - generic [ref=f430e324]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f430e326] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f430e104]:
+          - separator [ref=f430e105]
+          - paragraph [ref=f430e107]:
+            - text: This page titled
+            - 'link "14.2: Evidence for Black Holes" [ref=f430e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.02%3A_Evidence_for_Black_Holes
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f430e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f430e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f430e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f430e112]:
+        - list [ref=f430e113]:
+          - listitem [ref=f430e114]:
+            - link "Back to top" [ref=f430e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f430e116]:
+            - list [ref=f430e117]:
+              - listitem [ref=f430e118]:
+                - 'link " 14.1: Properties of Black Holes" [ref=f430e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.01%3A_Properties_of_Black_Holes
+                  - text: 
+                  - generic [ref=f430e120]: "14.1: Properties of Black Holes"
+              - listitem [ref=f430e121]:
+                - 'link "14.3: Gravitational Wave Astronomy " [ref=f430e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.03%3A_Gravitational_Wave_Astronomy
+                  - generic [ref=f430e123]: "14.3: Gravitational Wave Astronomy"
+                  - text: 
+        - list [ref=f430e126]:
+          - listitem [ref=f430e127]: Was this article helpful?
+          - listitem [ref=f430e128]:
+            - button "Yes" [ref=f430e129] [cursor=pointer]
+          - listitem [ref=f430e130]:
+            - button "No" [ref=f430e131] [cursor=pointer]
+          - listitem [ref=f430e132]:
+            - button "Leave feedback" [ref=f430e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , ,"
+        - generic [ref=f430e134]:
+          - heading "Attachments" [level=2] [ref=f430e135]
+          - generic:
+            - button "Attach a file" [ref=f430e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f430e138]:
+            - generic [ref=f430e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f430e142]
+            - generic [ref=f430e143]:
+              - grid [ref=f430e146]:
+                - rowgroup [ref=f430e147]:
+                  - row [ref=f430e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f430e149]':
+                      - generic:
+                        - generic [ref=f430e150]: File
+                        - generic [ref=f430e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f430e152]':
+                      - generic:
+                        - generic [ref=f430e153]: Last modified
+                        - generic [ref=f430e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f430e155]':
+                      - generic:
+                        - generic [ref=f430e156]: Size
+                        - generic [ref=f430e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f430e158]':
+                      - generic:
+                        - generic [ref=f430e159]: Added by
+                        - generic [ref=f430e160]: 
+              - grid [ref=f430e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f430e163]: File
+                          - generic [ref=f430e164]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f430e165]: Last modified
+                          - generic [ref=f430e166]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f430e167]: Size
+                          - generic [ref=f430e168]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f430e169]: Added by
+                          - generic [ref=f430e170]: 
+                - rowgroup [ref=f430e171]:
+                  - row [ref=f430e172]:
+                    - gridcell "No files attached." [ref=f430e173]
+    - generic [ref=f430e175]:
+      - button "Open support menu" [ref=f430e177] [cursor=pointer]: "?"
+      - navigation [ref=f430e179]:
+        - paragraph [ref=f430e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f430e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f430e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f430e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f430e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f430e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f430e187]:
+      - generic:
+        - generic [ref=f430e189]:
+          - button "Annotation sidebar" [ref=f430e190]
+          - generic [ref=f430e195]:
+            - button "Show highlights" [ref=f430e196]
+            - button "New page note" [ref=f430e201]
+          - status [ref=f430e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f430e207]:
+    - button "contents" [ref=f430e208] [cursor=pointer]
+    - button "readability" [ref=f430e210] [cursor=pointer]
+    - button "resources" [ref=f430e212] [cursor=pointer]
+    - button "tools" [ref=f430e214] [cursor=pointer]
+    - button "developers" [ref=f430e216] [cursor=pointer]
+  - text:  
+  - generic [ref=f430e327]:
+    - generic [ref=f430e328] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f430e331] [cursor=pointer]
