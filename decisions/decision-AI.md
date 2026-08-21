@@ -3,3 +3,5 @@
 I am on a very compressed deadline. I know that building these tools will take time, but
 1. The majority of my tasks are repetitive, formatting, and do not need content expertise
 2. I am already using multiple tools, but the steps to using them, copying and pasting, are time consuming. Hopefully the agent will speed that up.
+8/21/26
+On advice from Claude, I am building a file structure with guidelines/style, and smaller skills. This keeps the skills small and ergnomic? I assume this helps with speed, but I would also like to minimize my environment footprint.
