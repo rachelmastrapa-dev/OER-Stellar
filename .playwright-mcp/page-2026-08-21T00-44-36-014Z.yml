@@ -1,0 +1,271 @@
+- generic [active] [ref=f36e1]:
+  - link "Skip to main content" [ref=f36e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f36e3]:
+    - text: 
+    - generic [ref=f36e4]:
+      - generic [ref=f36e5]:
+        - generic: ✕
+        - navigation [ref=f36e7]:
+          - generic [ref=f36e8]:
+            - link [ref=f36e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f36e11]
+            - button "Enter Reader Mode" [ref=f36e13] [cursor=pointer]:
+              - generic [ref=f36e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f36e16]:
+        - list [ref=f36e18]:
+          - listitem [ref=f36e19]:
+            - link [ref=f36e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f36e22]
+          - listitem [ref=f36e23]:
+            - text: 
+            - generic [ref=f36e25]:
+              - generic [ref=f36e26]: "Search :"
+              - searchbox "Search :" [ref=f36e27]
+              - button " Search" [ref=f36e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f36e29]:
+            - list [ref=f36e30]:
+              - listitem [ref=f36e31]:
+                - link "Edit" [ref=f36e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.02%3A_The_Sky_Above?action=edit
+              - text: 
+              - listitem [ref=f36e33]:
+                - link " Options" [ref=f36e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f36e35]:
+                - link " Rachel Mastrapa" [ref=f36e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f36e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f36e38] [cursor=pointer]
+          - list [ref=f36e39]:
+            - listitem [ref=f36e40]:
+              - link " Home" [ref=f36e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f36e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f36e43]:
+              - link " Workbench" [ref=f36e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f36e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f36e46]:
+              - link " De Anza - ASTR10" [ref=f36e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f36e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f36e49]:
+              - 'link " 2: Night Sky Navigation" [ref=f36e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation
+                - generic [ref=f36e51]: 
+                - text: "2: Night Sky Navigation"
+              - text: »
+            - listitem [ref=f36e52]:
+              - generic [ref=f36e53]: 
+              - text: "2.2: The Sky Above"
+          - text: 
+      - navigation
+    - article [ref=f36e54]:
+      - generic [ref=f36e55]:
+        - generic [ref=f36e56]:
+          - button " Page settings" [ref=f36e57] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :               "
+        - 'heading "2.2: The Sky Above" [level=1] [ref=f36e58]'
+        - list [ref=f36e61]:
+          - listitem [ref=f36e62]:
+            - link [ref=f36e64] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f36e65]:
+                - img "CC" [ref=f36e66]
+                - img "BY" [ref=f36e67]
+          - listitem [ref=f36e68]:
+            - generic [ref=f36e69]:
+              - term [ref=f36e70] [cursor=pointer]: "Last updated:"
+              - definition [ref=f36e71]: Aug 19, 2026, 3:06 PM by Rachel Mastrapa
+          - listitem [ref=f36e72]:
+            - generic [ref=f36e73]:
+              - term [ref=f36e74] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f36e75]: Private
+          - listitem [ref=f36e76]:
+            - generic [ref=f36e77]:
+              - term [ref=f36e78] [cursor=pointer]: "Page ID:"
+              - definition [ref=f36e79]: "152347"
+          - listitem [ref=f36e80]:
+            - list [ref=f36e81]:
+              - listitem [ref=f36e82]:
+                - button "Pin Page" [ref=f36e83] [cursor=pointer]: 
+              - listitem
+              - text: 
+              - listitem [ref=f36e84]:
+                - list [ref=f36e85]:
+                  - listitem [ref=f36e86]:
+                    - 'link " 2.1: A Tour of the Universe" [ref=f36e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.01%3A_A_Tour_of_the_Universe
+                      - text: 
+                      - generic [ref=f36e88]: "2.1: A Tour of the Universe"
+                  - listitem [ref=f36e89]:
+                    - 'link "2.3: Earth " [ref=f36e90] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.03%3A_Earth
+                      - generic [ref=f36e91]: "2.3: Earth"
+                      - text: 
+              - listitem
+      - list [ref=f36e94]:
+        - listitem [ref=f36e95]:
+          - img "OpenStax" [ref=f36e96]
+        - listitem [ref=f36e97]:
+          - link "OpenStax" [ref=f36e98] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f36e99]:
+          - link "OpenStax" [ref=f36e100] [cursor=pointer]:
+            - /url: https://openstax.org
+      - complementary
+      - text: 
+      - generic [ref=f36e101]:
+        - paragraph [ref=f36e102]
+        - generic [ref=f36e103]:
+          - separator [ref=f36e104]
+          - paragraph [ref=f36e106]:
+            - text: This page titled
+            - 'link "2.2: The Sky Above" [ref=f36e107] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.02%3A_The_Sky_Above
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f36e108] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f36e109] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f36e110] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f36e111]:
+        - list [ref=f36e112]:
+          - listitem [ref=f36e113]:
+            - link "Back to top" [ref=f36e114] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f36e115]:
+            - list [ref=f36e116]:
+              - listitem [ref=f36e117]:
+                - 'link " 2.1: A Tour of the Universe" [ref=f36e118] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.01%3A_A_Tour_of_the_Universe
+                  - text: 
+                  - generic [ref=f36e119]: "2.1: A Tour of the Universe"
+              - listitem [ref=f36e120]:
+                - 'link "2.3: Earth " [ref=f36e121] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.03%3A_Earth
+                  - generic [ref=f36e122]: "2.3: Earth"
+                  - text: 
+        - list [ref=f36e125]:
+          - listitem [ref=f36e126]: Was this article helpful?
+          - listitem [ref=f36e127]:
+            - button "Yes" [ref=f36e128] [cursor=pointer]
+          - listitem [ref=f36e129]:
+            - button "No" [ref=f36e130] [cursor=pointer]
+          - listitem [ref=f36e131]:
+            - button "Leave feedback" [ref=f36e132] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , , , , , , , , , , ,"
+        - generic [ref=f36e133]:
+          - heading "Attachments" [level=2] [ref=f36e134]
+          - generic:
+            - button "Attach a file" [ref=f36e135] [cursor=pointer]
+            - text: 
+          - generic [ref=f36e137]:
+            - generic [ref=f36e140]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f36e141]
+            - generic [ref=f36e142]:
+              - grid [ref=f36e145]:
+                - rowgroup [ref=f36e146]:
+                  - row [ref=f36e147]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f36e148]':
+                      - generic:
+                        - generic [ref=f36e149]: File
+                        - generic [ref=f36e150]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f36e151]':
+                      - generic:
+                        - generic [ref=f36e152]: Last modified
+                        - generic [ref=f36e153]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f36e154]':
+                      - generic:
+                        - generic [ref=f36e155]: Size
+                        - generic [ref=f36e156]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f36e157]':
+                      - generic:
+                        - generic [ref=f36e158]: Added by
+                        - generic [ref=f36e159]: 
+              - grid [ref=f36e161]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f36e162]: File
+                          - generic [ref=f36e163]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f36e164]: Last modified
+                          - generic [ref=f36e165]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f36e166]: Size
+                          - generic [ref=f36e167]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f36e168]: Added by
+                          - generic [ref=f36e169]: 
+                - rowgroup [ref=f36e170]:
+                  - row [ref=f36e171]:
+                    - gridcell "No files attached." [ref=f36e172]
+    - generic [ref=f36e174]:
+      - button "Open support menu" [ref=f36e176] [cursor=pointer]: "?"
+      - navigation [ref=f36e178]:
+        - paragraph [ref=f36e180]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f36e181] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f36e182] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f36e183] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f36e184] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f36e185] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f36e186]:
+      - generic:
+        - generic [ref=f36e188]:
+          - button "Annotation sidebar" [ref=f36e189]
+          - generic [ref=f36e194]:
+            - button "Show highlights" [ref=f36e195]
+            - button "New page note" [ref=f36e200]
+          - status [ref=f36e205]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f36e206]:
+    - button "contents" [ref=f36e207] [cursor=pointer]
+    - button "readability" [ref=f36e209] [cursor=pointer]
+    - button "resources" [ref=f36e211] [cursor=pointer]
+    - button "tools" [ref=f36e213] [cursor=pointer]
+    - button "developers" [ref=f36e215] [cursor=pointer]

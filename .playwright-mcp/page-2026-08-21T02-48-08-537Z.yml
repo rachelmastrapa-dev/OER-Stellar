@@ -1,0 +1,649 @@
+- generic [ref=f478e1]:
+  - link "Skip to main content" [ref=f478e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f478e3]:
+    - text: 
+    - generic [ref=f478e4]:
+      - generic [ref=f478e5]:
+        - generic: ✕
+        - navigation [ref=f478e7]:
+          - generic [ref=f478e8]:
+            - link [ref=f478e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f478e11]
+            - button "Enter Reader Mode" [ref=f478e13] [cursor=pointer]:
+              - generic [ref=f478e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f478e16]:
+        - list [ref=f478e18]:
+          - listitem [ref=f478e19]:
+            - link [ref=f478e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f478e22]
+          - listitem [ref=f478e23]:
+            - text: 
+            - generic [ref=f478e25]:
+              - generic [ref=f478e26]: "Search :"
+              - searchbox "Search :" [ref=f478e27]
+              - button " Search" [ref=f478e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f478e29]:
+            - list [ref=f478e30]:
+              - listitem [ref=f478e31]:
+                - link "Edit" [ref=f478e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.09%3A_Accessible_Descriptions?action=edit
+              - text: 
+              - listitem [ref=f478e33]:
+                - link " Options" [ref=f478e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f478e35]:
+                - link " Rachel Mastrapa" [ref=f478e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f478e37]:
+        - generic:
+          - button " Contents" [ref=f478e217] [cursor=pointer]
+          - list [ref=f478e39]:
+            - listitem [ref=f478e40]:
+              - link " Home" [ref=f478e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f478e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f478e43]:
+              - link " Workbench" [ref=f478e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f478e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f478e46]:
+              - link " De Anza - ASTR10" [ref=f478e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f478e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f478e49]:
+              - 'link " 15: Milky Way Galaxy" [ref=f478e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy
+                - generic [ref=f478e51]: 
+                - text: "15: Milky Way Galaxy"
+              - text: »
+            - listitem [ref=f478e52]:
+              - generic [ref=f478e53]: 
+              - text: "15.9: Accessible Descriptions"
+          - button " Expand/collapse global location" [ref=f478e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                 
+    - article [ref=f478e55]:
+      - generic [ref=f478e56]:
+        - generic [ref=f478e57]:
+          - button " Page settings" [ref=f478e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "15.9: Accessible Descriptions" [level=1] [ref=f478e59]':
+          - generic [ref=f478e60]: "15.9: Accessible Descriptions "
+        - list [ref=f478e62]:
+          - listitem [ref=f478e63]:
+            - link [ref=f478e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f478e66]:
+                - img "CC" [ref=f478e67]
+                - img "BY" [ref=f478e68]
+          - listitem [ref=f478e69]:
+            - generic [ref=f478e70]:
+              - term [ref=f478e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f478e72]: Aug 15, 2026, 10:46 AM by Rachel Mastrapa
+          - listitem [ref=f478e73]:
+            - generic [ref=f478e74]:
+              - term [ref=f478e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f478e76]: Private
+          - listitem [ref=f478e77]:
+            - generic [ref=f478e78]:
+              - term [ref=f478e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f478e80]: "140405"
+          - listitem [ref=f478e81]:
+            - list [ref=f478e82]:
+              - listitem [ref=f478e83]:
+                - button "Pin Page" [ref=f478e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f478e85]:
+                - list [ref=f478e86]:
+                  - listitem [ref=f478e87]:
+                    - 'link " 15.8: Key Terms" [ref=f478e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.08%3A_Key_Terms
+                      - text: 
+                      - generic [ref=f478e89]: "15.8: Key Terms"
+                  - listitem [ref=f478e90]:
+                    - 'link "16: Galaxies " [ref=f478e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies
+                      - generic [ref=f478e92]: "16: Galaxies"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f478e93]:
+        - group [ref=f478e220]:
+          - generic [ref=f478e221]:
+            - generic [ref=f478e222]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f478e223]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f478e224]:
+            - generic [ref=f478e227]:
+              - generic [ref=f478e228]:
+                - generic [ref=f478e229]:
+                  - link "Edit" [ref=f478e230]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f478e231]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f478e232]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f478e233]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f478e234]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f478e235]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f478e236]: "Words: 3597, Chars: 22482"
+              - group "Editor toolbars" [ref=f478e238]:
+                - toolbar [ref=f478e239]:
+                  - button "Save" [ref=f478e240]:
+                    - generic [ref=f478e241]: 
+                  - button "Cancel" [ref=f478e243]:
+                    - generic [ref=f478e244]: 
+                - toolbar [ref=f478e247]:
+                  - button "Undo" [disabled] [ref=f478e248]:
+                    - generic [ref=f478e249]: 
+                  - button "Redo" [disabled] [ref=f478e250]:
+                    - generic [ref=f478e251]: 
+                - toolbar [ref=f478e253]:
+                  - button "Headings" [ref=f478e254]
+                - toolbar [ref=f478e259]:
+                  - button "Bold" [ref=f478e260]:
+                    - generic [ref=f478e261]: 
+                  - button "Italic" [ref=f478e262]:
+                    - generic [ref=f478e263]: 
+                  - button "Underline" [ref=f478e264]:
+                    - generic [ref=f478e265]: 
+                - toolbar [ref=f478e267]:
+                  - button "Text color" [ref=f478e268]:
+                    - generic [ref=f478e269]: 
+                  - button "Background color" [ref=f478e271]:
+                    - generic [ref=f478e272]: 
+                - toolbar [ref=f478e275]:
+                  - button "Remove format" [ref=f478e276]:
+                    - generic [ref=f478e277]: 
+                - toolbar [ref=f478e279]:
+                  - button "Insert/Remove numbered list" [ref=f478e280]:
+                    - generic [ref=f478e281]: 
+                  - button "Insert/Remove bulleted list" [ref=f478e282]:
+                    - generic [ref=f478e283]: 
+                - toolbar [ref=f478e285]:
+                  - button "Alignment" [ref=f478e286]:
+                    - generic [ref=f478e287]: 
+                - text: 
+                - toolbar [ref=f478e290]:
+                  - button "Link" [ref=f478e291]:
+                    - generic [ref=f478e292]: 
+                  - button "Image" [ref=f478e293]:
+                    - generic [ref=f478e294]: 
+                  - text: 
+                  - button "Boxes" [ref=f478e295]
+                - toolbar [ref=f478e300]:
+                  - button "Replace" [ref=f478e301]:
+                    - generic [ref=f478e302]: 
+                - toolbar [ref=f478e304]:
+                  - button "Enable Binder" [ref=f478e305]
+                  - button "Insert Adapt" [ref=f478e307]
+                  - button "Query" [ref=f478e309]
+                  - button "Accessibility Checker" [ref=f478e312]
+                - toolbar [ref=f478e315]:
+                  - button "HTML" [ref=f478e316]:
+                    - generic [ref=f478e317]: 
+            - application "Rich Text Editor, editarea" [ref=f478e319]:
+              - iframe [active] [ref=f478e320]:
+                - generic [active] [ref=f480e1]:
+                  - heading "Figure 15.1.1 Herschel's Diagram of the Milky Way" [level=2] [ref=f480e2]
+                  - paragraph [ref=f480e3]: An illustration of Herschel's star-count model of the Milky Way's shape.
+                  - heading "Illustration Elements" [level=3] [ref=f480e4]
+                  - list [ref=f480e5]:
+                    - listitem [ref=f480e6]: The overall shape is a wide, irregular outline extending horizontally across the image, thicker through the middle and tapering toward both ends.
+                    - listitem [ref=f480e7]: At the left end, the shape splits into two narrow branches, one extending toward the upper left and one toward the lower left.
+                    - listitem [ref=f480e8]: Small white dots represent individual stars scattered throughout the shape, with larger and more densely packed dots near the center and fewer, smaller dots near the edges and along the two branches.
+                    - listitem [ref=f480e9]: A single yellow dot labeled Sun is placed right of center.
+                    - listitem [ref=f480e10]: The area surrounding the star-filled shape is plain dark blue, representing space beyond the region where Herschel counted stars.
+                  - heading "Figure 15.1.2 Diagram of the Galaxy" [level=2] [ref=f480e11]
+                  - paragraph [ref=f480e12]: Two schematic illustrations comparing the face-on and edge-on views of the Milky Way's spiral disk.
+                  - 'heading "Illustration (a): Face-on View" [level=3] [ref=f480e13]'
+                  - list [ref=f480e14]:
+                    - listitem [ref=f480e15]: On the left
+                    - listitem [ref=f480e16]: A blue spiral disk viewed from above, with a bright yellow-white Nuclear bulge at the center.
+                    - listitem [ref=f480e17]: A Central bar extends through the nuclear bulge, with the ends pointing toward the upper right and lower left.
+                    - listitem [ref=f480e18]:
+                      - text: "Four spiral arms wind outward from the center, each labeled:"
+                      - list [ref=f480e19]:
+                        - listitem [ref=f480e20]: Cygnus, connects to the nuclear bulge on the lower left side and curves counter clockwise around, ending on the lower left.
+                        - listitem [ref=f480e21]: Perseus, extends from the upper right side of the nuclear bulge and curves counter clockwise around and ending to the right.
+                        - listitem [ref=f480e22]: Orion, a shorter spur separates from the Perseus arm to the lower left of the nuclear bulge and extends a short distance to the right.
+                        - listitem [ref=f480e23]: One unlabeled arm exits the nuclear bulge a little to the left of the Cygnus arm. It curves counter clockwise and ends toward the left.
+                        - listitem [ref=f480e24]: The other unlabeled arm extends from the upper left of the nuclear bulge and end to the upper right.
+                    - listitem [ref=f480e25]: The Sun is marked with a line pointing to a position on the inner edge of the Orion spur.
+                  - 'heading "Illustration (b): Edge-on View" [level=3] [ref=f480e26]'
+                  - list [ref=f480e27]:
+                    - listitem [ref=f480e28]: On the right
+                    - listitem [ref=f480e29]: The spiral disk viewed from the side, or edge, appearing as two thin, bright vertical bands delimiting the outer edge of the thick disk. The dark region between the lines is the thin disk. The bright yellow-white Nuclear bulge is at the center of the bands.
+                    - listitem [ref=f480e30]: "Two horizontal arrows near the top mark the thickness of the band at different points: 2000 LY for the thick disk, and 400 LY within the thinner disk."
+                    - listitem [ref=f480e31]: Scattered white dots along either side of the disk are labeled Globular clusters.
+                    - listitem [ref=f480e32]: A vertical double-headed arrow on the right measures the distance from the bulge to the position of the Sun, labeled 26,000 LY.
+                    - listitem [ref=f480e33]: The Sun is marked with a line pointing to a position on the disk, level with the Sun's position in Illustration (a).
+                  - heading "Figure 15.1.3 Unbarred and Barred Spiral Galaxies" [level=2] [ref=f480e34]
+                  - paragraph [ref=f480e35]: Two images comparing an unbarred spiral galaxy and a barred spiral galaxy.
+                  - heading "Image (a)" [level=3] [ref=f480e36]
+                  - list [ref=f480e37]:
+                    - listitem [ref=f480e38]: On the left
+                    - listitem [ref=f480e39]: An image of the unbarred spiral galaxy M74, acquired in visible light.
+                    - listitem [ref=f480e40]: The galaxy is nearly symmetric, with tightly wound blue spiral arms curving smoothly into a small, bright, whitish nucleus at the center.
+                    - listitem [ref=f480e41]: Dark dust lanes trace along the inner edges of the spiral arms.
+                    - listitem [ref=f480e42]: Reddish-pink patches are scattered throughout the arms, marking regions of glowing gas.
+                    - listitem [ref=f480e43]: "Credit: modification of work by ESO/PESSTO/S. Smartt"
+                  - heading "Image (b)" [level=3] [ref=f480e44]
+                  - list [ref=f480e45]:
+                    - listitem [ref=f480e46]: On the right
+                    - listitem [ref=f480e47]: An image of the barred spiral galaxy NGC 1365, acquired in visible light.
+                    - listitem [ref=f480e48]: A yellowish bar of stars extends outward from both sides of the nucleus at the center.
+                    - listitem [ref=f480e49]: Two main spiral arms project from the ends of the bar, curving outward and populated with blue stars and reddish patches of glowing gas.
+                    - listitem [ref=f480e50]: Dark dust lanes trace along the bar and inner edges of the spiral arms.
+                    - listitem [ref=f480e51]: "Credit: modification of work by ESO"
+                  - heading "Figure 15.1.4 Components of the Milky Way" [level=2] [ref=f480e52]
+                  - paragraph [ref=f480e53]: A labeled diagram of the Milky Way's major components, seen edge-on.
+                  - heading "Diagram Elements" [level=3] [ref=f480e54]
+                  - list [ref=f480e55]:
+                    - listitem [ref=f480e56]: A large, semi-transparent gray sphere labeled Halo surrounds the entire structure, filled with scattered white dots representing stars and globular clusters.
+                    - listitem [ref=f480e57]: A thin, flattened pink ellipse labeled Thick disk extends horizontally through the middle of the halo.
+                    - listitem [ref=f480e58]: A thinner white line labeled Thin disk runs along the middle of the thick disk.
+                    - listitem [ref=f480e59]: A light blue sphere labeled Bulge sits at the center, surrounding the point where the disk is thickest.
+                    - listitem [ref=f480e60]: A white dot at the very center of the bulge is labeled Galactic center.
+                    - listitem [ref=f480e61]: A smaller yellow dot, far away from the galactic center to the left edge of the disk, is labeled Sun.
+                  - heading "Figure 15.1.5 Galactic Center" [level=2] [ref=f480e62]
+                  - paragraph [ref=f480e63]: An infrared image of the central bulge and thin disk of the Milky Way, acquired by 2MASS.
+                  - heading "Image Elements" [level=3] [ref=f480e64]
+                  - list [ref=f480e65]:
+                    - listitem [ref=f480e66]: A wide, thin horizontal band of stars stretches across the full width of the image, brightest and widest near the center.
+                    - listitem [ref=f480e67]: The central region glows brightly white, showing the dense bulge of old stars surrounding the galactic center.
+                    - listitem [ref=f480e68]: Thin patches of orange and brown dust trace along the band.
+                    - listitem [ref=f480e69]: Many small white and blue points of light are densely scattered above and below the band, representing individual stars and filling the entire background.
+                    - listitem [ref=f480e70]: The band narrows and dims toward both the left and right edges of the image, showing how thin and flat the disk is compared to its width.
+                    - listitem [ref=f480e71]: "Credit: modification of work by 2MASS/J. Carpenter, T. H. Jarrett, and R. Hurt"
+                  - heading "Figure 15.2.1 Milky Way Bar and Arms" [level=2] [ref=f480e72]
+                  - paragraph [ref=f480e73]: A map of the Milky Way viewed from above, with a polar coordinate grid centered on the Sun.
+                  - heading "Grid Elements" [level=3] [ref=f480e74]
+                  - list [ref=f480e75]:
+                    - listitem [ref=f480e76]: A polar coordinate system is centered on the Sun, located about halfway between the galactic center and the bottom of the image.
+                    - listitem [ref=f480e77]: Galactic Longitude is labeled around the outer edge, with 0 degrees straight up from the Sun, 90 degrees to the left, 180 degrees straight down, and 270 degrees to the right, marked in increments of 30 degrees.
+                    - listitem [ref=f480e78]: Concentric circles centered on the Sun mark distance from the Sun, labeled from 15,000 ly near the Sun to 75,000 ly near the far, outer edge, in increments of 15,000 ly.
+                  - heading "Galaxy Structure" [level=3] [ref=f480e79]
+                  - list [ref=f480e80]:
+                    - listitem [ref=f480e81]: A bright yellow-white central bulge sits at the middle of the image, elongated diagonally, with the end pointed to the upper right and lower left, and labeled Galactic Bar.
+                    - listitem [ref=f480e82]:
+                      - text: Two ellipses mark different sections of the bar.
+                      - list [ref=f480e83]:
+                        - listitem [ref=f480e84]: A long, flattened ellipse, labelled Long Bar is aligned with the brightest part of the bar. The to left end of the long bar is connected to the origin of the Perseus Arm.
+                        - listitem [ref=f480e85]: A slightly broader and shorter ellipse than that of the Long Bar is labeled Galactic Bar and is slightly rotated counter clockwise compared to the Long Bar.
+                    - listitem [ref=f480e86]:
+                      - text: Spiral arms, shown as light blue bands dotted with reddish-pink patches of star formation, wind outward from the bar and bulge across the rest of the disk.
+                      - list [ref=f480e87]:
+                        - listitem [ref=f480e88]: The Scutum-Centaurus Arm originates at the lower left end of the bar and curves counter clockwise, ending near the top left, near the 60 degree line.
+                        - listitem [ref=f480e89]: The Perseus Arm originates at the top right of the bar and curves counter clockwise. The brightest part ends to the left near the 270 degree line, but there are faint extensions through the 300 degree line.
+                        - listitem [ref=f480e90]: Two short arms surround the bar on the top left labelled Far 3kpc Arm, and on the bottom right labeled Near 3kpc Arm.
+                        - listitem [ref=f480e91]: The Sagittarius Arm is in between the Perseus arm and Far 3kpc arm, the Norma Arm is between Near 3kpc arm and the Scutum-Centaurus arm, and the Outer Arm is out side of the Perseus arm, relative to the galactic center.
+                    - listitem [ref=f480e92]: The Sun is at the inner side of the Orion Spur.
+                  - heading "Figure 15.2.2 Orion Spur" [level=2] [ref=f480e93]
+                  - paragraph [ref=f480e94]: An illustration of the Milky Way's spiral arms, marking the Sun's location and nearby objects of interest.
+                  - heading "Illustration Elements" [level=3] [ref=f480e95]
+                  - list [ref=f480e96]:
+                    - listitem [ref=f480e97]: "Three spiral arms of the Milky Way run diagonally across the image, each labeled in yellow: the Cygnus arm at the top, the Perseus arm through the middle, and the Sagittarius arm at the bottom."
+                    - listitem [ref=f480e98]: The Orion Spur is a fainter stream of stars and gas that runs from the Cygnus arm diagonally down through the Perseus arm and into the Sagittarius arm, labeled in yellow near its midpoint.
+                    - listitem [ref=f480e99]: The Sun is on the Orion Spur between the Perseus and Sagittarius arms, on the side closer to the Sagittarius arm.
+                    - listitem [ref=f480e100]: "White lines point from above the image to four labeled objects along the top: Sn2 289 in the Cygnus arm, Perseus Transit and Rosetta Nebula in the Perseus Arm, and Orion Nebula in the Orion Spur, each appearing as a small reddish-pink patch within the spiral arms."
+                    - listitem [ref=f480e101]: "White lines point from below the image to five labeled objects along the bottom, from left to right: Turner S, Vela Molecular Ridge, Gum Nebula, Cygnus X, and W51, each appearing as a small reddish-pink patch within the spiral arms in the Orion Spur."
+                  - heading "Figure 15.2.3 Differential Galactic Rotation" [level=2] [ref=f480e102]
+                  - paragraph [ref=f480e103]: A four-panel diagram modeling how spiral arms could form from galactic rotation.
+                  - heading "Panel 1" [level=3] [ref=f480e104]
+                  - list [ref=f480e105]:
+                    - listitem [ref=f480e106]: Two separate, irregular blue blobs of gas, one above the other, within a dark circle.
+                    - listitem [ref=f480e107]: A short curved arrow at the top points to the right, indicating the direction of rotation as clockwise.
+                  - heading "Panel 2" [level=3] [ref=f480e108]
+                  - list [ref=f480e109]:
+                    - listitem [ref=f480e110]: The gas clouds have begun to stretch, with the inner portions moving further around the circle than the outer portions, giving each blob the appearance of a small comet.
+                    - listitem [ref=f480e111]: A longer curved arrow, covering roughly 90 degrees, indicates the clockwise rotation.
+                    - listitem [ref=f480e112]: The parts of the gas clouds near the center have moved the full 90 degrees and are are located to the right of panel center. The outer parts of the clouds have remained in their original position.
+                  - heading "Panel 3" [level=3] [ref=f480e113]
+                  - list [ref=f480e114]:
+                    - listitem [ref=f480e115]: The clouds are further curved and elongated, beginning to wrap around the center of the circle.
+                    - listitem [ref=f480e116]: The curved arrow now covers about 180 degrees.
+                  - heading "Panel 4" [level=3] [ref=f480e117]
+                  - list [ref=f480e118]:
+                    - listitem [ref=f480e119]: The elongated blobs have wound into a classic two-armed spiral shape filling most of the circle.
+                    - listitem [ref=f480e120]: The curved arrow now covers about 270 degrees.
+                  - heading "Figure 15.3.1 Rotation Curve of the Galaxy" [level=2] [ref=f480e121]
+                  - paragraph [ref=f480e122]: A chart of the Milky Way's rotation curve compared to a predicted curve for enclosed mass.
+                  - heading "Chart Elements" [level=3] [ref=f480e123]
+                  - list [ref=f480e124]:
+                    - listitem [ref=f480e125]: The vertical axis is labeled Orbital Velocity (km/s) and ranges from 0 at the bottom to 300 at the top, in increments of 100 km/s.
+                    - listitem [ref=f480e126]: The horizontal axis is labeled Distance from Center of Galaxy (kpc or kiloparsecs) and ranges from 0 at the left to 35 at the right, in increments of 5 kpc.
+                  - heading "Observed Rotation Curve" [level=3] [ref=f480e127]
+                  - list [ref=f480e128]:
+                    - listitem [ref=f480e129]: Drawn in red.
+                    - listitem [ref=f480e130]: Starts at the origin at the lower left and rises quickly to about 250 km/s at about 2 kpc.
+                    - listitem [ref=f480e131]: Drops to about 200 km/s at 5 kpc, then rises again to near 250 km/s at about 7.5 kpc.
+                    - listitem [ref=f480e132]: Drops slightly again to near 200 km/s at 10 kpc, then begins a slow, steady rise to almost 300 km/s at 35 kpc.
+                  - heading "Predicted Curve for Enclosed Mass" [level=3] [ref=f480e133]
+                  - list [ref=f480e134]:
+                    - listitem [ref=f480e135]: Drawn in blue.
+                    - listitem [ref=f480e136]: Shows what the rotation curve would look like if all matter in the Galaxy were located inside a radius of 10 kpc.
+                    - listitem [ref=f480e137]: Begins near 250 km/s at 15 kpc and steadily drops to about 100 km/s at 35 kpc.
+                  - paragraph [ref=f480e138]: "Key Trend: Instead of declining with distance as expected if most of the Galaxy's mass were concentrated near the center, the observed orbital speed of gas clouds stays high or even increases at large distances, indicating substantial unseen mass beyond the Sun's orbit."
+                  - heading "Figure 15.4.1 Galactic Center in Radio" [level=2] [ref=f480e139]
+                  - paragraph [ref=f480e140]: A radio image of the galactic center region, acquired at 90 centimeter wavelength by the Very Large Array (VLA), with many labeled features.
+                  - heading "Image Elements" [level=3] [ref=f480e141]
+                  - list [ref=f480e142]:
+                    - listitem [ref=f480e143]: Against a dark reddish-brown background, bright orange and white patches and filaments trace the radio-bright structures near the galactic center. They are roughly arranged in a diagonal line from the upper left to the bottom right, with Sgr A* in the center.
+                    - listitem [ref=f480e144]: A very bright, compact white region near the center is labeled Sgr A*, for Sagittarius A*, marking the galactic center.
+                    - listitem [ref=f480e145]: A bright, elongated feature just above and left of Sgr A* is labeled Arc.
+                    - listitem [ref=f480e146]: "Several thin, thread-like filaments extend from the bright central region toward the upper right, labeled Threads, with additional nearby features labeled New SNR 0.3+0.0, above the Arc, New feature: The Cane a faint filament some distance to the right of Sgr A*, and Background galaxy a tiny bright dot to the right of SgrA*."
+                    - listitem [ref=f480e147]: In the upper left, a chain of bright patches is labeled, from top to bottom, Sgr D HII, Sgr D SNR, SNR 0.9+0.1, Sgr B2, and Sgr B1.
+                    - listitem [ref=f480e148]: "Below and right of Sgr A*, additional labeled features include New thread: The Pelican, a faint filament of to the right, Sgr C, and a cluster of faint filaments labeled Coherent structure?."
+                    - listitem [ref=f480e149]: Further down, the features become fainter and include a curved filament is labeled Snake, near a labeled region Sgr E.
+                    - listitem [ref=f480e150]: Near the bottom and to the left, two ring-shaped shell structures are labeled SNR 359.1-00.5 and Mouse, with SNR 359.0-00.9 labeled nearby.
+                    - listitem [ref=f480e151]: A scale bar in the lower left, shown as a double-headed horizontal arrow, is labeled approximately 0.5 degrees, approximately 75 pc, approximately 240 LY.
+                    - listitem [ref=f480e152]: "Credit: modification of work by N. E. Kassim, D. S. Briggs, T. J. W. Lazio, T. N. LaRosa, and J. Imamura (NRL/RSD)"
+                  - heading "Figure 15.4.2 Galactic Center in X-Rays" [level=2] [ref=f480e153]
+                  - paragraph [ref=f480e154]: A false-color X-ray image of the galactic center region, acquired by the Chandra X-ray Observatory.
+                  - heading "Image Elements" [level=3] [ref=f480e155]
+                  - list [ref=f480e156]:
+                    - listitem [ref=f480e157]: An irregular white source at the center of the image marks Sagittarius A*, surrounded by diffuse orange and purple clouds of hot gas.
+                    - listitem [ref=f480e158]: Bright blue-green blobs to the left of center and at the far right mark supernova remnants.
+                    - listitem [ref=f480e159]: Countless small point sources of white, blue, and red light are scattered across the image, representing white dwarfs, neutron stars, and stellar black holes.
+                    - listitem [ref=f480e160]: "The colors represent different X-ray energy bands: red for low energy, green for medium energy, and blue for high energy."
+                    - listitem [ref=f480e161]: "Credit: modification of work by NASA/CXC/UMass/D. Wang et al."
+                  - heading "Figure 15.4.3 Sagittarius A*" [level=2] [ref=f480e162]
+                  - paragraph [ref=f480e163]: A radio image of the central 10 light-years of the Milky Way, acquired by the Very Large Array (VLA).
+                  - heading "Image Elements" [level=3] [ref=f480e164]
+                  - list [ref=f480e165]:
+                    - listitem [ref=f480e166]: A bright, compact white and red glowing region in the lower right marks Sagittarius A*, the galactic center.
+                    - listitem [ref=f480e167]: A set of long, straight, thread-like filaments, collectively known as The Arc, runs diagonally from the lower left to the upper right of the image.
+                    - listitem [ref=f480e168]: Fainter, wispy red filaments and streamers of ionized gas in the upper right of the arc curve downward toward Sgr*.
+                    - listitem [ref=f480e169]: Scattered small bright red points appear throughout the gas streamers, marking denser knots of emission.
+                    - listitem [ref=f480e170]: "Credit: modification of work by Farhad Zadeh et al. (Northwestern), VLA, NRAO"
+                  - heading "Figure 15.4.4 Galactic Center in Near Infrared" [level=2] [ref=f480e171]
+                  - paragraph [ref=f480e172]: A near-infrared image of the galactic center with the measured orbits of eight stars plotted as ellipses.
+                  - heading "Image Elements" [level=3] [ref=f480e173]
+                  - list [ref=f480e174]:
+                    - listitem [ref=f480e175]: The background is a near-infrared image, acquired with the Keck Telescope, showing scattered blue, green, yellow, and orange-red patches of light against a dark blue field.
+                    - listitem [ref=f480e176]: Eight colored ellipses of different colors, are plotted over the image, each representing the orbit of a single star around the galactic center.
+                    - listitem [ref=f480e177]: Small dots of matching color lie along each ellipse, marking the individual observed data points along that star's orbit.
+                    - listitem [ref=f480e178]: All eight orbits converge around a common point near the center of the image, marking the location of the massive object they orbit.
+                    - listitem [ref=f480e179]: A scale bar in the upper left, shown as a short double-headed arrow, is labeled 0.1 arcseconds.
+                    - listitem [ref=f480e180]: An orientation indicator in the upper right shows North pointing up and East pointing left.
+                    - listitem [ref=f480e181]: "Credit: modification of work by Andrea Ghez, UCLA Galactic Center Group, W.M. Keck Observatory Laser Team"
+                  - heading "Figure 15.5.1 Thin Disk vs. Halo Orbits" [level=2] [ref=f480e182]
+                  - paragraph [ref=f480e183]: Two diagrams comparing the orbital paths of stars in the Galaxy's thin disk and halo.
+                  - 'heading "Diagram (a): Thin Disk" [level=3] [ref=f480e184]'
+                  - list [ref=f480e185]:
+                    - listitem [ref=f480e186]: On the left, labeled Thin disk.
+                    - listitem [ref=f480e187]: A flat, translucent blue plane labeled Galactic plane represents the galactic plane.
+                    - listitem [ref=f480e188]: Several concentric blue elliptical orbits lie flat within the plane, centered on a plus sign marking the galactic center.
+                  - 'heading "Diagram (b): Halo" [level=3] [ref=f480e189]'
+                  - list [ref=f480e190]:
+                    - listitem [ref=f480e191]: On the right, labeled Halo.
+                    - listitem [ref=f480e192]: The same flat, translucent blue plane labeled Galactic plane represents the galactic plane.
+                    - listitem [ref=f480e193]: Numerous blue elliptical orbits of varying sizes and orientations surround the plane, tilted at many different angles and extending well above and below it, all centered on a plus sign marking the galactic center.
+                  - heading "Figure 15.5.2 Andromeda Galaxy" [level=2] [ref=f480e194]
+                  - paragraph [ref=f480e195]: A visible light image of the spiral galaxy Andromeda (M31), seen slightly tilted from edge-on.
+                  - heading "Image Elements" [level=3] [ref=f480e196]
+                  - list [ref=f480e197]:
+                    - listitem [ref=f480e198]: A large, elongated spiral galaxy stretches diagonally across the image, tilted nearly edge-on.
+                    - listitem [ref=f480e199]: A bright, glowing yellowish-white central bulge sits at the middle of the galaxy, populated by older stars.
+                    - listitem [ref=f480e200]: Bluer, younger stars trace the outer spiral arms extending outward from the bulge.
+                    - listitem [ref=f480e201]: Dark brownish dust lanes run through the disk, partially blocking light from the central bulge.
+                    - listitem [ref=f480e202]: Two smaller, fuzzy companion galaxies appear near the bottom of the main galaxy, one closer and brighter, one fainter and more distant.
+                    - listitem [ref=f480e203]: The surrounding background is filled with countless foreground stars of the Milky Way, appearing as small white, blue, and orange points of light.
+                    - listitem [ref=f480e204]: "Credit: Adam Evans"
+                  - heading "Figure 15.6.1 Monolithic Collapse Model" [level=2] [ref=f480e205]
+                  - paragraph [ref=f480e206]: A four-panel diagram of the monolithic collapse model for the formation of the Milky Way.
+                  - heading "Panel 1" [level=3] [ref=f480e207]
+                  - list [ref=f480e208]:
+                    - listitem [ref=f480e209]: In the upper left
+                    - listitem [ref=f480e210]: A rotating gas cloud, drawn as a blue blob, at the start of its collapse.
+                    - listitem [ref=f480e211]: A vertical line above the cloud's center, with a counterclockwise arrow around it, marks the axis of rotation.
+                    - listitem [ref=f480e212]: White arrows around the edge of the cloud point inward toward the center, illustrating gravitational collapse.
+                  - heading "Panel 2" [level=3] [ref=f480e213]
+                  - list [ref=f480e214]:
+                    - listitem [ref=f480e215]: In the upper right
+                    - listitem [ref=f480e216]: The gas cloud has flattened somewhat at the edges and grown thicker near the axis of rotation.
+                    - listitem [ref=f480e217]: Small white dots outside the cloud are labeled Globular clusters.
+                    - listitem [ref=f480e218]: A few white arrows near the cloud's edge continue to point inward, indicating ongoing collapse and rotation around its axis.
+                  - heading "Panel 3" [level=3] [ref=f480e219]
+                  - list [ref=f480e220]:
+                    - listitem [ref=f480e221]: In the lower left
+                    - listitem [ref=f480e222]: The cloud has flattened further, continuing to collapse into a disk shape.
+                    - listitem [ref=f480e223]: White arrows point inside the top of the disk point downward and arrows inside the bottom of the disk point downward, indicating that material from the cloud is concentrating in the disk.
+                    - listitem [ref=f480e224]: Globular clusters are in a similar scattered pattern around the galaxy.
+                  - heading "Panel 4" [level=3] [ref=f480e225]
+                  - list [ref=f480e226]:
+                    - listitem [ref=f480e227]: In the lower right
+                    - listitem [ref=f480e228]: The galaxy has become a thin, bright white disk with a glowing central bulge, indicating that stars have now formed.
+                    - listitem [ref=f480e229]: Globular clusters are in a similar scattered pattern around the galaxy.
+                  - heading "Figure 15.6.2 Sagittarius Dwarf" [level=2] [ref=f480e230]
+                  - paragraph [ref=f480e231]: A greyscale image of the galactic center overlaid with a contour map of the Sagittarius Dwarf galaxy.
+                  - heading "Image Elements" [level=3] [ref=f480e232]
+                  - list [ref=f480e233]:
+                    - listitem [ref=f480e234]: The background is a greyscale image of the Milky Way's disk, showing dense star fields and dark dust lanes.
+                    - listitem [ref=f480e235]: A red contour map, positioned above and slightly to the right of center, marks the brightness of the Sagittarius Dwarf galaxy, which is located on the far side of the galactic center.
+                    - listitem [ref=f480e236]: Small white star symbols within the red region mark the locations of several globular clusters belonging to the Sagittarius Dwarf galaxy.
+                    - listitem [ref=f480e237]: A cross near the center of the image marks the galactic center.
+                    - listitem [ref=f480e238]: A horizontal line running across the image marks the galactic plane.
+                    - listitem [ref=f480e239]: A blue outline tracing above and below the galactic plane corresponds to Herschel's diagram of the Milky Way.
+                    - listitem [ref=f480e240]: Several small yellow boxes are scattered across the image, marking regions where detailed studies of individual stars led to the discovery of this galaxy.
+                    - listitem [ref=f480e241]: "Credit: modification of work by R. Ibata (UBC), R. Wyse (JHU), R. Sword (IoA)"
+                  - heading "Figure 15.6.3 Streams in the Galactic Halo" [level=2] [ref=f480e242]
+                  - paragraph [ref=f480e243]: An illustration of the Milky Way with tidal stellar streams orbiting through its halo.
+                  - heading "Illustration Elements" [level=3] [ref=f480e244]
+                  - list [ref=f480e245]:
+                    - listitem [ref=f480e246]: The Milky Way's spiral disk sits at the bottom of the image, tilted about 45 degrees from edge-on, with blue spiral arms and a bright yellow-white central bulge.
+                    - listitem [ref=f480e247]: Three streams of stars, each shown as a thin trail of small white points, trace looping elliptical orbits around the galactic center.
+                    - listitem [ref=f480e248]: Two of the streams loop close enough to the center that their stars pass through the plane of the disk.
+                    - listitem [ref=f480e249]: One stream forms a much larger loop that orbits the entire galaxy without touching the disk at all.
+                    - listitem [ref=f480e250]: A small companion galaxy, a faint bluish-white blob, appears near the top of the image, connected to the largest of the streams.
+                    - listitem [ref=f480e251]: "Credit: modification of work by NASA/JPL-Caltech/R. Hurt (SSC/Caltech)"
+                  - heading "Figure 15.6.4 Globular Cluster M54" [level=2] [ref=f480e252]
+                  - paragraph [ref=f480e253]: A Hubble Space Telescope image of the globular cluster M54.
+                  - heading "Image Elements" [level=3] [ref=f480e254]
+                  - list [ref=f480e255]:
+                    - listitem [ref=f480e256]: A nearly perfectly spherical cluster of stars fills the center of the image, so densely packed that the central core appears as a bright, glowing patch of light rather than individual stars.
+                    - listitem [ref=f480e257]: Countless individual white, blue, and orange stars surround the dense core, becoming more sparsely distributed toward the edges of the image.
+                  - heading "Figure 15.6.5 Collision with Andromeda" [level=2] [ref=f480e258]
+                  - paragraph [ref=f480e259]: A six-panel illustration sequence showing the future collision between the Milky Way and Andromeda galaxies, as seen from a point 25,000 light-years from the Milky Way's center, similar to the Sun's current position. Each panel has a unique, imagined horizon of mountains from the surface of a planet.
+                  - heading "Panel 1" [level=3] [ref=f480e260]
+                  - list [ref=f480e261]:
+                    - listitem [ref=f480e262]: 3.75 billion years from now.
+                    - listitem [ref=f480e263]: The Andromeda galaxy looms large in the night sky, its spiral disk and bright core filling most of the sky, on a similar sky to the arm of the Milky Way.
+                    - listitem [ref=f480e264]: The Milky Way's arm stretches across the rest of the sky, overlapping with part of Andromeda's disk.
+                    - listitem [ref=f480e265]: Most of the sky is filled with scattered background stars.
+                  - heading "Panel 2" [level=3] [ref=f480e266]
+                  - list [ref=f480e267]:
+                    - listitem [ref=f480e268]: 3.85 billion years from now.
+                    - listitem [ref=f480e269]: The clear structure of the arm of the Milky Way and the disk of Andromeda are gone.
+                    - listitem [ref=f480e270]: The interaction has begun. Both galaxies appear visibly distorted, with orange dust lanes and reddish-pink patches of new star formation spreading across the sky as Andromeda draws closer.
+                    - listitem [ref=f480e271]: The clear structure of the arm of the Milky Way and the disk of Andromeda are gone.
+                    - listitem [ref=f480e272]: There is a patch of background stars in the upper right corner and left edge of the illustration.
+                  - heading "Panel 3" [level=3] [ref=f480e273]
+                  - list [ref=f480e274]:
+                    - listitem [ref=f480e275]: 3.9 billion years from now.
+                    - listitem [ref=f480e276]: Star formation continues intensifying. The sky is filled with bright clusters, dust clouds, and reddish-pink star-forming regions covering nearly the entire view.
+                    - listitem [ref=f480e277]: There are very few background stars.
+                  - heading "Panel 4" [level=3] [ref=f480e278]
+                  - list [ref=f480e279]:
+                    - listitem [ref=f480e280]: About 4 billion years from now.
+                    - listitem [ref=f480e281]: The galaxy shapes are back but they are distorted compared to how they appeared in Panel 1. Andromeda appears stretched, and the Milky Way's own structure warped, with sweeping arcs of stars and dust.
+                    - listitem [ref=f480e282]: Background stars once again fill most of the sky.
+                  - heading "Panel 5" [level=3] [ref=f480e283]
+                  - list [ref=f480e284]:
+                    - listitem [ref=f480e285]: 5.1 billion years from now.
+                    - listitem [ref=f480e286]: The cores of the two galaxies have become two large, bright, glowing lobes that fill much of the sky, with fainter surrounding structure and scattered star clusters.
+                    - listitem [ref=f480e287]: The background stars are in the top right and bottom left of the illustration, but are dimmer due to the bright cores.
+                  - heading "Panel 6" [level=3] [ref=f480e288]
+                  - list [ref=f480e289]:
+                    - listitem [ref=f480e290]: 7 billion years from now.
+                    - listitem [ref=f480e291]: The merged galaxies now form a single, huge, glowing elliptical mass of stars whose brightness dominates the entire night sky.
+                    - listitem [ref=f480e292]: Very dim background stars are on the edges of the illustration.
+              - generic [ref=f478e321]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f478e323] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f478e95]:
+          - separator [ref=f478e96]
+          - paragraph [ref=f478e98]:
+            - 'link "15.9: Accessible Descriptions" [ref=f478e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.09%3A_Accessible_Descriptions
+            - text: is shared under a
+            - link "CC BY" [ref=f478e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f478e101]:
+        - list [ref=f478e102]:
+          - listitem [ref=f478e103]:
+            - link "Back to top" [ref=f478e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f478e105]:
+            - list [ref=f478e106]:
+              - listitem [ref=f478e107]:
+                - 'link " 15.8: Key Terms" [ref=f478e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.08%3A_Key_Terms
+                  - text: 
+                  - generic [ref=f478e109]: "15.8: Key Terms"
+              - listitem [ref=f478e110]:
+                - 'link "16: Galaxies " [ref=f478e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies
+                  - generic [ref=f478e112]: "16: Galaxies"
+                  - text: 
+        - list [ref=f478e115]:
+          - listitem [ref=f478e116]: Was this article helpful?
+          - listitem [ref=f478e117]:
+            - button "Yes" [ref=f478e118] [cursor=pointer]
+          - listitem [ref=f478e119]:
+            - button "No" [ref=f478e120] [cursor=pointer]
+          - listitem [ref=f478e121]:
+            - button "Leave feedback" [ref=f478e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f478e123]:
+          - heading "Attachments" [level=2] [ref=f478e124]
+          - generic:
+            - button "Attach a file" [ref=f478e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f478e127]:
+            - generic [ref=f478e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f478e131]
+            - generic [ref=f478e132]:
+              - grid [ref=f478e135]:
+                - rowgroup [ref=f478e136]:
+                  - row [ref=f478e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f478e138]':
+                      - generic:
+                        - generic [ref=f478e139]: File
+                        - generic [ref=f478e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f478e141]':
+                      - generic:
+                        - generic [ref=f478e142]: Last modified
+                        - generic [ref=f478e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f478e144]':
+                      - generic:
+                        - generic [ref=f478e145]: Size
+                        - generic [ref=f478e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f478e147]':
+                      - generic:
+                        - generic [ref=f478e148]: Added by
+                        - generic [ref=f478e149]: 
+              - grid [ref=f478e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f478e152]: File
+                          - generic [ref=f478e153]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f478e154]: Last modified
+                          - generic [ref=f478e155]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f478e156]: Size
+                          - generic [ref=f478e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f478e158]: Added by
+                          - generic [ref=f478e159]: 
+                - rowgroup [ref=f478e160]:
+                  - row [ref=f478e161]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f478e162]:
+                      - generic [ref=f478e163]:
+                        - generic [ref=f478e164]:
+                          - generic [ref=f478e165]: 
+                          - link "mindtouch.page#thumbnail" [ref=f478e166] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/65446/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f478e167]:
+                          - generic [ref=f478e168]: (no description)
+                          - text: 
+                    - gridcell "Dec 25, 2025, 9:52 PM" [ref=f478e169]
+                    - gridcell "11 KiB" [ref=f478e171]
+                    - gridcell "Rachel Mastrapa" [ref=f478e172]
+    - generic [ref=f478e174]:
+      - button "Open support menu" [ref=f478e176] [cursor=pointer]: "?"
+      - navigation [ref=f478e178]:
+        - paragraph [ref=f478e180]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f478e181] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f478e182] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f478e183] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f478e184] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f478e185] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f478e186]:
+      - generic:
+        - generic [ref=f478e188]:
+          - button "Annotation sidebar" [ref=f478e189]
+          - generic [ref=f478e194]:
+            - button "Show highlights" [ref=f478e195]
+            - button "New page note" [ref=f478e200]
+          - status [ref=f478e205]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f478e206]:
+    - button "contents" [ref=f478e207] [cursor=pointer]
+    - button "readability" [ref=f478e209] [cursor=pointer]
+    - button "resources" [ref=f478e211] [cursor=pointer]
+    - button "tools" [ref=f478e213] [cursor=pointer]
+    - button "developers" [ref=f478e215] [cursor=pointer]
+  - text:  
+  - generic [ref=f478e324]:
+    - generic [ref=f478e325] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f478e328] [cursor=pointer]

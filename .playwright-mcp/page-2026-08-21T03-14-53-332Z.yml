@@ -1,0 +1,325 @@
+- generic [ref=f621e1]:
+  - link "Skip to main content" [ref=f621e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f621e3]:
+    - text: 
+    - generic [ref=f621e4]:
+      - generic [ref=f621e5]:
+        - generic: ✕
+        - navigation [ref=f621e7]:
+          - generic [ref=f621e8]:
+            - link [ref=f621e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f621e11]
+            - button "Enter Reader Mode" [ref=f621e13] [cursor=pointer]:
+              - generic [ref=f621e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f621e16]:
+        - list [ref=f621e18]:
+          - listitem [ref=f621e19]:
+            - link [ref=f621e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f621e22]
+          - listitem [ref=f621e23]:
+            - text: 
+            - generic [ref=f621e25]:
+              - generic [ref=f621e26]: "Search :"
+              - searchbox "Search :" [ref=f621e27]
+              - button " Search" [ref=f621e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f621e29]:
+            - list [ref=f621e30]:
+              - listitem [ref=f621e31]:
+                - link "Edit" [ref=f621e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.21%3A_Shapley_Harlow?action=edit
+              - text: 
+              - listitem [ref=f621e33]:
+                - link " Options" [ref=f621e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f621e35]:
+                - link " Rachel Mastrapa" [ref=f621e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f621e37]:
+        - generic:
+          - button " Contents" [ref=f621e220] [cursor=pointer]
+          - list [ref=f621e39]:
+            - listitem [ref=f621e40]:
+              - link " Home" [ref=f621e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f621e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f621e43]:
+              - link " Workbench" [ref=f621e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f621e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f621e46]:
+              - link " De Anza - ASTR10" [ref=f621e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f621e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f621e49]:
+              - 'link " 18: Appendices" [ref=f621e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices
+                - generic [ref=f621e51]: 
+                - text: "18: Appendices"
+              - text: »
+            - listitem [ref=f621e52]:
+              - 'link " 18.1: Alphabetical List of Scientists" [ref=f621e53] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists
+                - generic [ref=f621e54]: 
+                - text: "18.1: Alphabetical List of Scientists"
+              - text: »
+            - listitem [ref=f621e55]:
+              - generic [ref=f621e56]: 
+              - text: "18.1.21: Shapley, Harlow"
+          - button " Expand/collapse global location" [ref=f621e57] [cursor=pointer]
+      - navigation:
+        - generic:                                                                   
+    - article [ref=f621e58]:
+      - generic [ref=f621e59]:
+        - generic [ref=f621e60]:
+          - button " Page settings" [ref=f621e61] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "18.1.21: Shapley, Harlow" [level=1] [ref=f621e62]':
+          - generic [ref=f621e63]: "18.1.21: Shapley, Harlow "
+        - list [ref=f621e65]:
+          - listitem [ref=f621e66]:
+            - link [ref=f621e68] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f621e69]:
+                - img "CC" [ref=f621e70]
+                - img "BY" [ref=f621e71]
+          - listitem [ref=f621e72]:
+            - generic [ref=f621e73]:
+              - term [ref=f621e74] [cursor=pointer]: "Last updated:"
+              - definition [ref=f621e75]: Jul 30, 2026, 2:55 PM by Rachel Mastrapa
+          - listitem [ref=f621e76]:
+            - generic [ref=f621e77]:
+              - term [ref=f621e78] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f621e79]: Private
+          - listitem [ref=f621e80]:
+            - generic [ref=f621e81]:
+              - term [ref=f621e82] [cursor=pointer]: "Page ID:"
+              - definition [ref=f621e83]: "140514"
+          - listitem [ref=f621e84]:
+            - list [ref=f621e85]:
+              - listitem [ref=f621e86]:
+                - button "Pin Page" [ref=f621e87] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f621e88]:
+                - list [ref=f621e89]:
+                  - listitem [ref=f621e90]:
+                    - 'link " 18.1.20: Russell, Henry Norris" [ref=f621e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.20%3A_Russell_Henry_Norris
+                      - text: 
+                      - generic [ref=f621e92]: "18.1.20: Russell, Henry Norris"
+                  - listitem [ref=f621e93]:
+                    - 'link "18.1.22: van Fraunhofer, Josef " [ref=f621e94] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.22%3A_van_Fraunhofer_Josef
+                      - generic [ref=f621e95]: "18.1.22: van Fraunhofer, Josef"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f621e96]:
+        - group [ref=f621e223]:
+          - generic [ref=f621e224]:
+            - generic [ref=f621e225]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f621e226]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f621e227]:
+            - generic [ref=f621e230]:
+              - generic [ref=f621e232]:
+                - link "Edit" [ref=f621e233]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f621e234]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f621e235]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f621e236]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f621e237]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f621e238]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f621e241]:
+                - toolbar [ref=f621e242]:
+                  - button "Save" [ref=f621e243]:
+                    - generic [ref=f621e244]: 
+                  - button "Cancel" [ref=f621e246]:
+                    - generic [ref=f621e247]: 
+                - text:          
+                - toolbar [ref=f621e288]:
+                  - button "Alignment" [ref=f621e289]:
+                    - generic [ref=f621e290]: 
+                - text:    
+                - toolbar [ref=f621e303]:
+                  - button "Replace" [ref=f621e304]:
+                    - generic [ref=f621e305]: 
+                - toolbar [ref=f621e307]:
+                  - button "Enable Binder" [disabled] [ref=f621e308]
+                  - button "Insert Adapt" [disabled] [ref=f621e310]
+                  - button "Query" [ref=f621e312]
+                  - button "Accessibility Checker" [disabled] [ref=f621e315]
+                - toolbar [ref=f621e318]:
+                  - button "Visual" [pressed] [ref=f621e334]:
+                    - generic [ref=f621e320]: 
+            - application "Rich Text Editor, editarea" [ref=f621e322]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f621e336]: "<h2 class=\"lt-phys-64816\">Harlow Shapley: Mapmaker to the Stars</h2> <p class=\"lt-phys-64816\">Until the early 1900s, astronomers generally accepted Herschel’s conclusion that the Sun is near the center of the Galaxy. The discovery of the Galaxy’s true size and our actual location came about largely through the efforts of Harlow <span class=\"no-emphasis\" data-type=\"term\" group-by=\"S\">Shapley</span>. In 1917, he was studying RR Lyrae variable stars in globular clusters. By comparing the known intrinsic luminosity of these stars to how bright they appeared, Shapley could calculate how far away they are. (Recall that it is distance that makes the stars look dimmer than they would be “up close,” and that the brightness fades as the distance squared.) Knowing the distance to any star in a cluster then tells us the distance to the cluster itself.</p> <p class=\"lt-phys-64816\">Globular clusters can be found in regions that are free of interstellar dust and so can be seen at very large distances. When Shapley used the distances and directions of 93 globular clusters to map out their positions in space, he found that the clusters are distributed in a spherical volume, which has its center not at the Sun but at a distant point along the Milky Way in the direction of Sagittarius. Shapley then made the bold assumption, verified by many other observations since then, that the point on which the system of globular clusters is centered is also the center of the entire Galaxy (Figure 25.4).</p> <figure><span data-alt=\"Panel (a), at left: Photograph of Harlow Shapley. Panel (b), at right: Shapley’s diagram of the Milky Way. The Sun is labeled left of center, within parallel dashed lines representing the disk of the galaxy. White dots represent the location of globular clusters, which are not centered on the Sun but at a point near the center of the diagram.\" data-type=\"media\"><img alt=\"Panel (a), at left: Photograph of Harlow Shapley. Panel (b), at right: Shapley’s diagram of the Milky Way. The Sun is labeled left of center, within parallel dashed lines representing the disk of the galaxy. White dots represent the location of globular clusters, which are not centered on the Sun but at a point near the center of the diagram.\" data-media-type=\"image/jpeg\" src=\"/@api/deki/files/46191/4656df2aecfb324165c7805097852224e5663039\" /> </span> <figcaption>Figure 25.4 : Harlow Shapley and His Diagram of the Milky Way. (a) Shapley poses for a formal portrait. (b) His diagram shows the location of globular clusters, with the position of the Sun also marked. The black area shows Herschel’s old diagram, centered on the Sun, approximately to scale.</figcaption> </figure> <p class=\"lt-phys-64816\">Shapley’s work showed once and for all that our star has no special place in the Galaxy. We are in a nondescript region of the Milky Way, only one of 200 to 400 billion stars that circle the distant center of our Galaxy.</p> <p class=\"lt-phys-64816\">Born in 1885 on a farm in Missouri, Harlow Shapley at first dropped out of school with the equivalent of only a fifth-grade education. He studied at home and at age 16 got a job as a newspaper reporter covering crime stories. Frustrated by the lack of opportunities for someone who had not finished high school, Shapley went back and completed a six-year high-school program in only two years, graduating as class valedictorian.</p> <p class=\"lt-phys-64816\">In 1907, at age 22, he went to the University of Missouri, intent on studying journalism, but found that the school of journalism would not open for a year. Leafing through the college catalog (or so he told the story later), he chanced to see “Astronomy” among the subjects beginning with “A.” Recalling his boyhood interest in the stars, he decided to study astronomy for the next year (and the rest, as the saying goes, is history).</p> <p class=\"lt-phys-64816\">Upon graduation Shapley received a fellowship for graduate study at Princeton and began to work with the brilliant Henry Norris Russell (see the Henry Norris Russell feature box). For his PhD thesis, Shapley made major contributions to the methods of analyzing the behavior of eclipsing binary stars. He was also able to show that cepheid variable stars are not binary systems, as some people thought at the time, but individual stars that pulsate with striking regularity.</p> <p class=\"lt-phys-64816\">Impressed with Shapley’s work, George Ellery Hale offered him a position at the Mount Wilson Observatory, where the young man took advantage of the clear mountain air and the 60-inch reflector to do his pioneering study of variable stars in globular clusters.</p> <p class=\"lt-phys-64816\">Shapley subsequently accepted the directorship of the Harvard College Observatory, and over the next 30 years, he and his collaborators made contributions to many fields of astronomy, including the study of neighboring galaxies, the discovery of dwarf galaxies, a survey of the distribution of galaxies in the universe, and much more. He wrote a series of nontechnical books and articles and became known as one of the most effective popularizers of astronomy. Shapley enjoyed giving lectures around the country, including at many smaller colleges where students and faculty rarely got to interact with scientists of his caliber.</p> <p class=\"lt-phys-64816\">During World War II, Shapley helped rescue many scientists and their families from Eastern Europe; later, he helped found UNESCO, the United Nations Educational, Scientific, and Cultural Organization. He wrote a pamphlet called <em data-effect=\"italics\">Science from Shipboard</em> for men and women in the armed services who had to spend many weeks on board transport ships to Europe. And during the difficult period of the 1950s, when congressional committees began their “witch hunts” for communist sympathizers (including such liberal leaders as Shapley), he spoke out forcefully and fearlessly in defense of the freedom of thought and expression. A man of many interests, he was fascinated by the behavior of ants, and wrote scientific papers about them as well as about galaxies.</p> <p class=\"lt-phys-64816\">By the time he died in 1972, Shapley was acknowledged as one of the pivotal figures of modern astronomy, a “twentieth-century Copernicus” who mapped the Milky Way and showed us our place in the Galaxy.</p> <ul> <li>To find more information about <a href=\"https://openstax.org/l/30shapbrumed\" rel=\"noopener nofollow\" target=\"_blank\">Shapley’s life and work</a>, see the entry for him on the Bruce Medalists website. (This site features the winners of the Bruce Medal of the Astronomical Society of the Pacific, one of the highest honors in astronomy; the list is a who’s who of some of the greatest astronomers of the last twelve decades.) <span class=\"mt-bgcolor-e74c3c\">&nbsp;Move to appendix????</span></li> </ul>"
+              - generic [ref=f621e324]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f621e326] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f621e98]:
+          - separator [ref=f621e99]
+          - paragraph [ref=f621e101]:
+            - 'link "18.1.21: Shapley, Harlow" [ref=f621e102] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.21%3A_Shapley_Harlow
+            - text: is shared under a
+            - link "CC BY" [ref=f621e103] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f621e104]:
+        - list [ref=f621e105]:
+          - listitem [ref=f621e106]:
+            - link "Back to top" [ref=f621e107] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f621e108]:
+            - list [ref=f621e109]:
+              - listitem [ref=f621e110]:
+                - 'link " 18.1.20: Russell, Henry Norris" [ref=f621e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.20%3A_Russell_Henry_Norris
+                  - text: 
+                  - generic [ref=f621e112]: "18.1.20: Russell, Henry Norris"
+              - listitem [ref=f621e113]:
+                - 'link "18.1.22: van Fraunhofer, Josef " [ref=f621e114] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.22%3A_van_Fraunhofer_Josef
+                  - generic [ref=f621e115]: "18.1.22: van Fraunhofer, Josef"
+                  - text: 
+        - list [ref=f621e118]:
+          - listitem [ref=f621e119]: Was this article helpful?
+          - listitem [ref=f621e120]:
+            - button "Yes" [ref=f621e121] [cursor=pointer]
+          - listitem [ref=f621e122]:
+            - button "No" [ref=f621e123] [cursor=pointer]
+          - listitem [ref=f621e124]:
+            - button "Leave feedback" [ref=f621e125] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f621e126]:
+          - heading "Attachments" [level=2] [ref=f621e127]
+          - generic:
+            - button "Attach a file" [ref=f621e128] [cursor=pointer]
+            - text: 
+          - generic [ref=f621e130]:
+            - generic [ref=f621e133]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f621e134]
+            - generic [ref=f621e135]:
+              - grid [ref=f621e138]:
+                - rowgroup [ref=f621e139]:
+                  - row [ref=f621e140]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f621e141]':
+                      - generic:
+                        - generic [ref=f621e142]: File
+                        - generic [ref=f621e143]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f621e144]':
+                      - generic:
+                        - generic [ref=f621e145]: Last modified
+                        - generic [ref=f621e146]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f621e147]':
+                      - generic:
+                        - generic [ref=f621e148]: Size
+                        - generic [ref=f621e149]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f621e150]':
+                      - generic:
+                        - generic [ref=f621e151]: Added by
+                        - generic [ref=f621e152]: 
+              - grid [ref=f621e154]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f621e155]: File
+                          - generic [ref=f621e156]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f621e157]: Last modified
+                          - generic [ref=f621e158]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f621e159]: Size
+                          - generic [ref=f621e160]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f621e161]: Added by
+                          - generic [ref=f621e162]: 
+                - rowgroup [ref=f621e163]:
+                  - row [ref=f621e164]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f621e165]:
+                      - generic [ref=f621e166]:
+                        - generic [ref=f621e167]:
+                          - generic [ref=f621e168]: 
+                          - link "mindtouch.page#thumbnail" [ref=f621e169] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/65481/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f621e170]:
+                          - generic [ref=f621e171]: (no description)
+                          - text: 
+                    - gridcell "Dec 29, 2025, 6:45 PM" [ref=f621e172]
+                    - gridcell "11 KiB" [ref=f621e174]
+                    - gridcell "Rachel Mastrapa" [ref=f621e175]
+    - generic [ref=f621e177]:
+      - button "Open support menu" [ref=f621e179] [cursor=pointer]: "?"
+      - navigation [ref=f621e181]:
+        - paragraph [ref=f621e183]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f621e184] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f621e185] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f621e186] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f621e187] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f621e188] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f621e189]:
+      - generic:
+        - generic [ref=f621e191]:
+          - button "Annotation sidebar" [ref=f621e192]
+          - generic [ref=f621e197]:
+            - button "Show highlights" [ref=f621e198]
+            - button "New page note" [ref=f621e203]
+          - status [ref=f621e208]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f621e209]:
+    - button "contents" [ref=f621e210] [cursor=pointer]
+    - button "readability" [ref=f621e212] [cursor=pointer]
+    - button "resources" [ref=f621e214] [cursor=pointer]
+    - button "tools" [ref=f621e216] [cursor=pointer]
+    - button "developers" [ref=f621e218] [cursor=pointer]
+  - text:  
+  - generic [ref=f621e327]:
+    - generic [ref=f621e328] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f621e331] [cursor=pointer]

@@ -1,0 +1,319 @@
+- generic [ref=f382e1]:
+  - link "Skip to main content" [ref=f382e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f382e3]:
+    - text: 
+    - generic [ref=f382e4]:
+      - generic [ref=f382e5]:
+        - generic: ✕
+        - navigation [ref=f382e7]:
+          - generic [ref=f382e8]:
+            - link [ref=f382e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f382e11]
+            - button "Enter Reader Mode" [ref=f382e13] [cursor=pointer]:
+              - generic [ref=f382e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f382e16]:
+        - list [ref=f382e18]:
+          - listitem [ref=f382e19]:
+            - link [ref=f382e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f382e22]
+          - listitem [ref=f382e23]:
+            - text: 
+            - generic [ref=f382e25]:
+              - generic [ref=f382e26]: "Search :"
+              - searchbox "Search :" [ref=f382e27]
+              - button " Search" [ref=f382e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f382e29]:
+            - list [ref=f382e30]:
+              - listitem [ref=f382e31]:
+                - link "Edit" [ref=f382e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.07%3A_Accessible_Descriptions?action=edit
+              - text: 
+              - listitem [ref=f382e33]:
+                - link " Options" [ref=f382e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f382e35]:
+                - link " Rachel Mastrapa" [ref=f382e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f382e37]:
+        - generic:
+          - button " Contents" [ref=f382e207] [cursor=pointer]
+          - list [ref=f382e39]:
+            - listitem [ref=f382e40]:
+              - link " Home" [ref=f382e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f382e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f382e43]:
+              - link " Workbench" [ref=f382e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f382e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f382e46]:
+              - link " De Anza - ASTR10" [ref=f382e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f382e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f382e49]:
+              - 'link " 12: Aging Stars" [ref=f382e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars
+                - generic [ref=f382e51]: 
+                - text: "12: Aging Stars"
+              - text: »
+            - listitem [ref=f382e52]:
+              - generic [ref=f382e53]: 
+              - text: "12.7: Accessible Descriptions"
+          - button " Expand/collapse global location" [ref=f382e54] [cursor=pointer]
+      - navigation:
+        - generic:                                               
+    - article [ref=f382e55]:
+      - generic [ref=f382e56]:
+        - generic [ref=f382e57]:
+          - button " Page settings" [ref=f382e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "12.7: Accessible Descriptions" [level=1] [ref=f382e59]':
+          - generic [ref=f382e208]: "12.7: Accessible Descriptions "
+        - list [ref=f382e62]:
+          - listitem [ref=f382e63]:
+            - link [ref=f382e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f382e66]:
+                - img "CC" [ref=f382e67]
+                - img "BY" [ref=f382e68]
+          - listitem [ref=f382e69]:
+            - generic [ref=f382e70]:
+              - term [ref=f382e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f382e72]: Aug 5, 2026, 3:31 PM by Rachel Mastrapa
+          - listitem [ref=f382e73]:
+            - generic [ref=f382e74]:
+              - term [ref=f382e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f382e76]: Private
+          - listitem [ref=f382e77]:
+            - generic [ref=f382e78]:
+              - term [ref=f382e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f382e80]: "131129"
+          - listitem [ref=f382e81]:
+            - list [ref=f382e82]:
+              - listitem [ref=f382e83]:
+                - button "Pin Page" [ref=f382e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f382e85]:
+                - list [ref=f382e86]:
+                  - listitem [ref=f382e87]:
+                    - 'link " 12.6: Key Terms" [ref=f382e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.06%3A_Key_Terms
+                      - text: 
+                      - generic [ref=f382e89]: "12.6: Key Terms"
+                  - listitem [ref=f382e90]:
+                    - 'link "13: Stellar Finale " [ref=f382e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale
+                      - generic [ref=f382e92]: "13: Stellar Finale"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f382e93]:
+        - group [ref=f382e212]:
+          - generic [ref=f382e213]:
+            - generic [ref=f382e214]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f382e215]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f382e216]:
+            - generic [ref=f382e219]:
+              - generic [ref=f382e221]:
+                - link "Edit" [ref=f382e222]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f382e223]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f382e224]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f382e225]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f382e226]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f382e227]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f382e230]:
+                - toolbar [ref=f382e231]:
+                  - button "Save" [ref=f382e232]:
+                    - generic [ref=f382e233]: 
+                  - button "Cancel" [ref=f382e235]:
+                    - generic [ref=f382e236]: 
+                - text:          
+                - toolbar [ref=f382e277]:
+                  - button "Alignment" [ref=f382e278]:
+                    - generic [ref=f382e279]: 
+                - text:    
+                - toolbar [ref=f382e292]:
+                  - button "Replace" [ref=f382e293]:
+                    - generic [ref=f382e294]: 
+                - toolbar [ref=f382e296]:
+                  - button "Enable Binder" [disabled] [ref=f382e297]
+                  - button "Insert Adapt" [disabled] [ref=f382e299]
+                  - button "Query" [ref=f382e301]
+                  - button "Accessibility Checker" [disabled] [ref=f382e304]
+                - toolbar [ref=f382e307]:
+                  - button "Visual" [pressed] [ref=f382e343]:
+                    - generic [ref=f382e309]: 
+            - application "Rich Text Editor, editarea" [ref=f382e311]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f382e345]: "<h2>Figure 12.1.1 H-R Diagram with ZAMS</h2> <p>An H-R diagram with the zero age main sequence line in blue.</p> <h3>Chart Elements</h3> <ul> <li>In this graph the vertical axis is labeled Luminosity (LSun),&nbsp;from 10<sup>-4</sup> to 10<sup>6</sup> in increments of 10<sup>2</sup>.</li> <li>The horizontal axis is labeled Spectral class, and is divided into seven equal length units. From left to right they are labeled O, B, A, F, G, K&nbsp;and M.</li> <li>The horizontal axis is also labeled Temperature (K), running from 25,000 on the left to 3,000 on the right.</li> </ul> <h3>Locations of Star Types</h3> <ul> <li>Beginning at lower left is an isolated group of stars labeled White Dwarfs.</li> <li>The majority of stars lie on the Main Sequence, which runs diagonally from upper left to lower right.</li> <li>The left side of the group of stars making up the main sequence has a blue line, running along its entire length, labeled ZAMS for zero-age main sequence.</li> <li>The lower right part of the main sequence is labeled Red dwarfs.</li> <li>Running horizontally from the center of the graph to the right is the narrow band of Red giants.</li> <li>A small number of stars running horizontally across the entire top of the graph are the Supergiants.</li> </ul> <h2>Figure 12.1.2 Hydrogen Shell</h2> <p>Two diagrams of a star's interior before and agter it leaves the main sequience.</p> <h3>Diagram (a)</h3> <ul> <li>On the left&nbsp;</li> <li>The Hydrogen burning core&nbsp;is shown as a small disk within a larger, yellow disk depicting the non-fusion Stellar envelope.&nbsp;</li> </ul> <h3>Diagram&nbsp;(b)</h3> <ul> <li>On the right&nbsp;</li> <li>The Helium core&nbsp;is drawn as a smaller disk within a larger disk labeled, Hydrogen burning shell.&nbsp;</li> <li>These are within a larger Stellar envelope&nbsp;which is drawn in yellow.</li> </ul> <h2>Figure 12.1.3 The Size of Red Giants</h2> <p>An illustration of the Sun, Delta Delta Boötis, an Xi Cygni.</p> <ul> <li>The Sun is represented at center-left with a yellow disk labeled Sun.&nbsp;</li> <li>The giant star labeled Delta Boötis&nbsp;is drawn at right with an orange disk about 10 times the size of the Sun’s disk.</li> <li>At the top of this image, covering the entire upper portion of the figure, a small part of the supergiant labeled Xi Cygni&nbsp;is shown in red.</li> </ul> <h2>Figure 12.1.4 Betelgeuse</h2> <p>An image of the constellation and an image of Betelgeuse with scale bars.</p> <ul> <li>The Hubble Space Telescope image of Betelgeuse is presented in the inset in the upper left of this image where the reddish, extended atmosphere surrounds the brighter, yellow core.</li> <li>Below the inset is a list of relative scales based on the image. <ul> <li>At the top the Size of Star&nbsp;is indicated with a bar the width of Betelgeuse in the image.</li> <li>At the center the Size of Earth’s Orbit&nbsp;is shown with a much smaller bar.</li> <li>At the bottom, the Size of Jupiter’s Orbit&nbsp;is also shown with a bar. Jupiter's orbit is a over little half the size of Betelgeuse.</li> </ul> </li> <li>The right hand panel includes the full constellation of Orion, with Betelgeuse marked with a large X at the upper left of the image.</li> <li>Credit:&nbsp;Andrea Dupree (Harvard-Smithsonian CfA), Ronald Gilliland (STScI), NASA and ESA)</li> </ul> <h2>Figure 12.1.5 Stellar Mass and Evolution</h2> <p>AN H-R Diagram with model evolutionary tracks of stars with a range of masses.</p> <h3>Chart Elements</h3> <ul> <li>The vertical axis is labeled Luminosity (L<sub>Sun</sub>)&nbsp;and goes from 10<sup>-2</sup> at the bottom to over 10<sup>4</sup> at the top with increments of 10<sup>2</sup>.</li> <li>The horizontal axis is labeled Surface Temperature (K)&nbsp;and goes from 25,000 on the left to 4,000 on the right.</li> <li>The horizontal axis is non-linear. There are two increments of equal size, the first is from 25,000 to 10,000 and the second is from 10,000 to 4000.</li> <li>The Zero-age main sequence&nbsp;is drawn as a diagonal red line beginning above L = 10<sup>4</sup> at the upper left of the image down to T ~ 4000 at the lower right.</li> </ul> <h3>Evolutionary Tracks</h3> <ul> <li>Six total</li> <li>Beginning at the top</li> <li>All tracks have points marking the age of the star.</li> <li>15 solar masses <ul> <li>It leaves the main sequence above L ~ 3 x 10<sup>4</sup> and T ~ 25,000.</li> <li>The track moves mostly rightward across the top of the plot.</li> <li>Overall, the star maintains a relatively constant luminosity, but its surface temperature decreases with time.</li> <li>At 1.01 × 10<sup>7</sup>&nbsp;years its temperature is about 20,000 K.</li> <li>As the track leaves the last point, it increases in temperature to just about 23,000 K and then makes a sharp turn to the right to meet the next point.&nbsp;</li> <li>At 1.11 × 10<sup>7</sup>&nbsp;years it has decreased in temperature and moved right on the chart to about 15,000 K.</li> <li>At 1.19 × 10<sup>7</sup>&nbsp;years T is about 9000 K&nbsp;</li> <li>The track ends at 1.2 × 10<sup>7</sup>&nbsp;years near 4000 K.</li> </ul> </li> <li>5 solar masses <ul> <li>Begins near L ~ 10<sup>3</sup>, where it leaves the main sequence.</li> <li>Overall, the star maintains a relatively constant luminosity, and its surface temperature decreases with time.</li> <li>At 6.55 × 10<sup>7</sup>&nbsp;years its temperature is about 15,000 K. The star's luminosity has increased to roughly 3 x 10<sup>3</sup>.</li> <li>There is a very small increase in temperature after the last time point.</li> <li>At 6.98 x 10<sup>7</sup>&nbsp;years the surface temperature is about 5000 K.</li> <li>The track ends at 7.02 x 10<sup>7</sup> years at a temperature of about 4500 K. The luminosity has increased to roughly 4 x 10<sup>3</sup>.</li> </ul> </li> <li>3 solar masses <ul> <li>Leaves the main sequence near L&nbsp;~ 10<sup>2</sup>&nbsp;</li> <li>Overall, the star is&nbsp;relatively constant luminosity until the end of last time point.&nbsp;The surface decreases the most during the first two sections of the track and then decreases a small amount at the end of the track. During the same section, the luminosity increases.</li> <li>At 2.21&nbsp;× 10<sup>8</sup>&nbsp;years its temperature is about 12,000 K. The star's luminosity has increased to roughly 2&nbsp;x 10<sup>2</sup>.</li> <li>There is a very small increase in temperature after the last time point.</li> <li>At 2.46&nbsp;x 10<sup>8</sup> years the surface temperature is about 5500 K. The luminosity has decreased back to 10<sup>2</sup>.</li> <li>The track ends at 2.51 x 10<sup>8</sup> years at a temperature of about 4500 K. The luminosity has increased to roughly 6&nbsp;x 10<sup>2</sup>.</li> </ul> </li> <li>1.5 solar masses <ul> <li>Leaves the main sequence near L&nbsp;~ 10.</li> <li>Overall, the star decreases in temperature with time.&nbsp; At first the luminosity is mostly constant, but it increases by a large amount in the last section of the track.</li> <li>At 1.55&nbsp;× 10<sup>9</sup>&nbsp;years its temperature is about 7000 K. The star's luminosity has increased to roughly 30.</li> <li>There is a very small increase in temperature after the last time point.</li> <li>At 2.09 × 10<sup>9</sup>&nbsp;years its temperature is about 6000 K. The star's luminosity stays near&nbsp;30.</li> <li>At 2.39 × 10<sup>9</sup>&nbsp;years it's temperatures&nbsp;has decreased to about 5000 K. Its luminosity increases to 3&nbsp;x 10<sup>2</sup>.</li> </ul> </li> <li>1 solar mass <ul> <li>&nbsp;Leaves the main sequence at L = 1 and 5700 K.</li> <li>After 7 × 10<sup>9</sup>&nbsp;years its temperature is nearly the same, but its luminosity has increased slightly.</li> <li>After 10.4 × 10<sup>9</sup>&nbsp;years, its temperature has dropped to near 5000 K, and its luminosity has increased to 10.</li> <li>Its luminosity steadily increases to where the&nbsp;curve ends at 11.4 × 10<sup>9</sup>&nbsp;years, L ~ 10<sup>3</sup> and T ~ 4000 K.</li> </ul> </li> <li>0.5 solar mass <ul> <li>Begins at L ~ 10-1 near T ~ 5000.</li> <li>Its curve is a short arrow pointing upward as its evolutionary timescale is too large for this diagram.</li> </ul> </li> </ul> <h2>Figure 12.2.1 Omega Centauri</h2> <p>Two Images of the Globular Cluster Omega Centauri.</p> <h3>Image (a)</h3> <ul> <li>On the left</li> <li>Ground-based image of Omega Centauri as a large sphere of thousands of stars that is so dense that the central region appears as an indistinct patch of light.</li> <li>Credit: NASA, ESA and the Hubble Heritage Team (STScI/AURA)</li> </ul> <h3>Image (b)</h3> <ul> <li>On the right</li> <li>A high-resolution Hubble Space Telescope image of the central region, showing dozens of bright red and blue stars amidst a background of thousands of fainter yellow stars.</li> <li>Credit: NASA, ESA, and the Hubble SM4 ERO Team</li> </ul> <h2>Figure 12.2.2 Jewel Box (NGC 4755)</h2> <ul> <li>Image of Open Cluster NGC 4755.</li> <li>This open cluster, known as the “Jewel Box,” contains many bright white and blue stars as well as a bright yellow supergiant near the center.</li> <li>Credit: ESO/Y. Beletsky</li> </ul> <h2>Figure 12.3.1 Clusters on the H-R Diagram</h2> <p>H-R Diagram of a model young Cluster.</p> <h3>Chart Elements</h3> <ul> <li>The title is&nbsp;M 2001 Age: 3 million years&nbsp;</li> <li>The vertical axis is labeled Luminosity (L<sub>Sun</sub>), and goes from 0.1 at the bottom to 100,000 at the top. The scale is logarithmic. This means that each increment is the same length on the axis, but the value increases by a factor of 10.&nbsp;</li> <li>The horizontal axis is labeled Surface Temperature (K), and goes from 40,000 on the left to 3,000 on the right.</li> <li>The zero-age main sequence is drawn as a red diagonal line starting just above 100,000 L<sub>Sun</sub> at the top of the graph down to about 4000 K at the bottom. The “Present position of Sun” is indicated at 5500 K and 1 L<sub>Sun</sub>.</li> </ul> <h3>Stars</h3> <ul> <li>There are&nbsp;black dots representing the individual stars in the cluster.</li> <li>About half of the dots lie along the red line until about 10000 K and 100 L<sub>Sun</sub>. These dots represent the higher temperature, higher luminosity, and higher mass stars.</li> <li>The remainder of the dots lie above the red line, meaning these stars have yet to reach the main sequence.&nbsp;These dots represent the lower temperature, lower luminosity, and lower mass stars.</li> </ul> <h2>Figure 12.3.2 NGC 2264</h2> <p>Image of the&nbsp;NGC 2264.</p> <ul> <li>This youthful cluster derives its name from the shape outlined by its brightest stars.</li> <li>The “Christmas Tree” is upside down in this image.</li> <li>The brightest star at the top of the frame is the base of the tree. T</li> <li>The top of the tree is the star above the dark v-shaped lane in the nebula just left of the center at the bottom of the image.</li> <li>Credit: ESO</li> </ul> <h2>Figure 12.3.3 NGC 2264 H–R Diagram</h2> <p>An H-R diagram of the young star cluster NGC 2264, plotting observed stars against the zero-age main sequence.</p> <h3>Chart Elements</h3> <ul> <li>The vertical axis is labeled Luminosity (L<sub>Sun</sub>) and goes from 0.1 at the bottom to 100,000 at the top.</li> <li>The scale on the vertical axis is logarithmic. In this case, each increment is the same length on the axis, but the value increases by a factor of 10.</li> <li>The horizontal axis is labeled Surface Temperature (K) and are labeled, from left to right, 40,000, 20,000, 10,000, 5000 and 3000. The size of the increments are the same, indicating that this axis is non-linear.</li> <li>The zero-age main sequence is drawn as a red diagonal line, starting just above 100,000 L<sub>Sun</sub> at the top of the graph and extending down to about 4,000 K at the bottom.</li> </ul> <h3>Stars</h3> <ul> <li>Numerous black dots are scattered across the chart, representing the observed values of stars in NGC 2264, in a pattern similar to the model predictions for a star cluster of similar age.</li> <li>The high-luminosity stars lie along the red line down to about 10,000 K and 10 L<sub>Sun</sub>.</li> <li>Below that point, the stars are positioned to the right of the main sequence line, rather than along it, indicating that they have not yet started fusing hydrogen.</li> </ul> <h3>Key trend:</h3> <p>The diagram shows that in the young cluster NGC 2264, the most massive stars have already reached the main sequence, while many lower-mass stars are still in the pre-main-sequence stage of evolution</p> <h2>Figure 12.3.4 NGC 3293</h2> <p>Image of NGC 3293.</p> <ul> <li>This compact cluster of bright, blue stars is located near the center of this image surrounded by the red wisps of ionized hydrogen left over after the cluster’s formation.</li> <li>Credit: ESO/G. Beccari</li> </ul> <h2>Figure 12.3.5 Cluster M41</h2> <p>HR Diagram and image of Cluster M41</p> <h3>Chart&nbsp;(a)&nbsp;</h3> <ul> <li>On the left&nbsp;</li> <li>The vertical axis is labeled Luminosity (L<sup>Sun</sup>)&nbsp;and goes from 0.1 at the bottom to 100,000 at the top. The scale is logarithmic, increase by a factor of 10 for each increment.</li> <li>The horizontal axis is labeled Surface Temperature (K)&nbsp;and goes from 40,000 on the left to 3000 on the right.</li> <li>The zero-age main sequence is drawn as a red diagonal line starting just above 100,000 L<sub>Sun</sub> at the top of the graph down to about 4000 K at the bottom.</li> <li>The black dots are&nbsp;the observed values of the stars in M 41.</li> <li>Approximately half of the stars lie to the right of the main sequence until around 9000 K and 50 L<sub>Sun</sub>, below which the stars all lie on the main sequence.</li> <li>On the right side of the diagram, a small grouping of giant stars are centered around 4000 K and 50 L<sub>Sun</sub>.</li> </ul> <h3>Image (b)&nbsp;</h3> <ul> <li>On the right</li> <li>A photograph of the open cluster M 41.</li> <li>Credit b: NOAO/AURA/NSF</li> </ul> <h2>Figure 12.4.1 Evolutionary Path of the Sun</h2> <p>Evolutionary track of the Sun on an H–R Diagram.</p> <h3>Chart Elements</h3> <ul> <li>The vertical axis is labeled Luminosity ( L<sub>Sun</sub>),&nbsp;and goes from 1.0 near the bottom to 10,000 near the top. The scale is logarithmic, each increment increases by a factor of 10.</li> <li>The horizontal axis is labeled Surface Temperature (K),&nbsp;and goes from 9000 on the left to 3000 on the right.</li> <li>The main sequence is drawn as a diagonal red line beginning at L ~ 40 on the left down to T ~ 4000 at the bottom.</li> <li>The evolutionary path of the star is drawn as a black line.</li> </ul> <h3>Evolutionary Track</h3> <ul> <li>In the section of the track labelled (a), it begins at L = 1 and T = 5500.&nbsp;&nbsp;</li> <li>The line moves upward away from the main sequence.</li> <li>The line continues upward to L ~ 1000 and T ~ 3000 to point (b)&nbsp;labeled “Core helium flash.”</li> <li>From point (b), the line is dashed. This section of the track is labeled (c)&nbsp;and moves downward to L ~ 100 and T ~ 5000.</li> <li>From (c), the line moves upward again. This portion of the line is labeled (d).&nbsp;</li> <li>The line ends in a series of waves near L = 5000 and T ~ 3500 and is labeled “Helium shell flashes.”&nbsp;</li> </ul> <h2>Figure 12.4.2 Layers in an Old Low-Mass Star</h2> <p>Diagram of layers inside a low-mass star before death.</p> <ul> <li>The layers within the core are shown as concentric circles of various colors.</li> <li>Starting at the center they are labeled: <ul> <li>Carbon-oxygen core&nbsp;in purple</li> <li>Helium fusion&nbsp;in green</li> <li>Helium core&nbsp;in yellow</li> <li>Hydrogen shell fusion&nbsp;layer in teal.</li> <li>The cooler Hydrogen envelope&nbsp;is&nbsp;orange.&nbsp;</li> </ul> </li> </ul> <h2>Figure 12.4.3 Planetary Nebulae</h2> <p>Four images of planetary nebulae.</p> <h3>Image (a)</h3> <ul> <li>At the upper left corner of the figure.</li> <li>M57 is&nbsp;a mostly symmetrical ring of glowing gas surrounding the faint central star.</li> <li>Credit: NASA, ESA, and the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration</li> </ul> <h3>Image (b)&nbsp;</h3> <ul> <li>At the upper right corner of the figure</li> <li>M2-9&nbsp; appears like an elongated butterfly.</li> <li>The central star being the body and the gaseous “wings” to the left and right of the star.</li> <li>Credit:&nbsp;Bruce Balick (University of Washington), Vincent Icke (Leiden University, The Netherlands), Garrelt Mellema (Stockholm University), and NASA</li> </ul> <h3>Image (c)</h3> <ul> <li>At the lower left corner of the figure.</li> <li>NGC 6751 has streams and clumps of bright gas superimposed over a symmetric ring structure surrounding the central star.</li> <li>Credit:&nbsp;NASA, The Hubble Heritage Team (STScI/AURA)</li> </ul> <h3>Image (d)</h3> <ul> <li>At the lower right corner of the figure.</li> <li>NGC 7027&nbsp;&nbsp;appears as an indistinct, mottled blob of gas surrounded by multiple faint shells of material.&nbsp;</li> <li>Credit: H. Bond (STScI) and NASA)</li> </ul> <h2>Figure 12.4.4 Observation of Planetary Nebulae</h2> <p>Diagram to explain the different shapes of planetary nebulae.</p> <ul> <li>In the lower left-hand portion of this figure there is a schematic representation of a planetary nebula.</li> <li>A yellow ellipse, labeled Torus&nbsp;is drawn with a white dot labeled Star&nbsp;at its center.</li> <li>The long axis of the ellipse is oriented vertically.</li> <li>Several yellow arrows are drawn horizontally pointing away from the star. These are labeled Stellar wind.&nbsp;</li> <li>A faint figure-eight encloses the stellar wind on each side of the star and torus.&nbsp;</li> <li>A large, faint Outer halo&nbsp;surrounds the figure-eight and torus, centered on the star.</li> <li>At top left, directly above the star, the profile of a human eye is shown looking in the direction of the star.</li> <li>The line of sight is marked with a double-headed dashed arrow.</li> <li>What a planetary nebula would look like along this line of sight is illustrated with an image of Hubble 5 to the right of the eye.</li> <li>Another eye is drawn at lower right looking through the figure-eight toward the star.</li> <li>The line of sight is marked with a double-headed dashed arrow.</li> <li>What a planetary nebula would look like along this line of sight is illustrated with an image of the Helix Nebula above the eye.</li> <li>Hubble 5 credit: Bruce Balick (University of Washington), Vincent Icke (Leiden University, The Netherlands), Garrelt Mellema (Stockholm University), and NASA/ESA&nbsp;</li> <li>Helix credit: NASA, ESA, C.R. O’Dell (Vanderbilt University), and M. Meixner, P. McCullough) &nbsp;</li> </ul>"
+              - generic [ref=f382e313]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f382e315] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f382e95]:
+          - separator [ref=f382e96]
+          - paragraph [ref=f382e98]:
+            - 'link "12.7: Accessible Descriptions" [ref=f382e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.07%3A_Accessible_Descriptions
+            - text: is shared under a
+            - link "CC BY" [ref=f382e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f382e101]:
+        - list [ref=f382e102]:
+          - listitem [ref=f382e103]:
+            - link "Back to top" [ref=f382e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f382e105]:
+            - list [ref=f382e106]:
+              - listitem [ref=f382e107]:
+                - 'link " 12.6: Key Terms" [ref=f382e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.06%3A_Key_Terms
+                  - text: 
+                  - generic [ref=f382e109]: "12.6: Key Terms"
+              - listitem [ref=f382e110]:
+                - 'link "13: Stellar Finale " [ref=f382e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale
+                  - generic [ref=f382e112]: "13: Stellar Finale"
+                  - text: 
+        - list [ref=f382e115]:
+          - listitem [ref=f382e116]: Was this article helpful?
+          - listitem [ref=f382e117]:
+            - button "Yes" [ref=f382e118] [cursor=pointer]
+          - listitem [ref=f382e119]:
+            - button "No" [ref=f382e120] [cursor=pointer]
+          - listitem [ref=f382e121]:
+            - button "Leave feedback" [ref=f382e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f382e123]:
+          - heading "Attachments" [level=2] [ref=f382e124]
+          - generic:
+            - button "Attach a file" [ref=f382e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f382e127]:
+            - generic [ref=f382e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f382e131]
+            - generic [ref=f382e132]:
+              - grid [ref=f382e135]:
+                - rowgroup [ref=f382e136]:
+                  - row [ref=f382e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f382e138]':
+                      - generic:
+                        - generic [ref=f382e139]: File
+                        - generic [ref=f382e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f382e141]':
+                      - generic:
+                        - generic [ref=f382e142]: Last modified
+                        - generic [ref=f382e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f382e144]':
+                      - generic:
+                        - generic [ref=f382e145]: Size
+                        - generic [ref=f382e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f382e147]':
+                      - generic:
+                        - generic [ref=f382e148]: Added by
+                        - generic [ref=f382e149]: 
+              - grid [ref=f382e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f382e316]: File
+                          - generic [ref=f382e317]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f382e318]: Last modified
+                          - generic [ref=f382e319]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f382e320]: Size
+                          - generic [ref=f382e321]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f382e322]: Added by
+                          - generic [ref=f382e323]: 
+                - rowgroup [ref=f382e160]:
+                  - row [ref=f382e324]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f382e325]:
+                      - generic [ref=f382e326]:
+                        - generic [ref=f382e327]:
+                          - generic [ref=f382e328]: 
+                          - link "mindtouch.page#thumbnail" [ref=f382e329] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63087/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f382e330]:
+                          - generic [ref=f382e331]: (no description)
+                          - text: 
+                    - gridcell "Dec 3, 2025, 3:20 PM" [ref=f382e332]
+                    - gridcell "11 KiB" [ref=f382e334]
+                    - gridcell "Rachel Mastrapa" [ref=f382e335]
+    - generic [ref=f382e164]:
+      - button "Open support menu" [ref=f382e166] [cursor=pointer]: "?"
+      - navigation [ref=f382e168]:
+        - paragraph [ref=f382e170]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f382e171] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f382e172] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f382e173] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f382e174] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f382e175] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f382e176]:
+      - generic:
+        - generic [ref=f382e178]:
+          - button "Annotation sidebar" [ref=f382e179]
+          - generic [ref=f382e184]:
+            - button "Show highlights" [ref=f382e185]
+            - button "New page note" [ref=f382e190]
+          - status [ref=f382e195]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f382e196]:
+    - button "contents" [ref=f382e197] [cursor=pointer]
+    - button "readability" [ref=f382e199] [cursor=pointer]
+    - button "resources" [ref=f382e201] [cursor=pointer]
+    - button "tools" [ref=f382e203] [cursor=pointer]
+    - button "developers" [ref=f382e205] [cursor=pointer]
+  - text:  
+  - generic [ref=f382e336]:
+    - generic [ref=f382e337] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f382e340] [cursor=pointer]

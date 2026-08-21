@@ -1,0 +1,539 @@
+- generic [active] [ref=f514e1]:
+  - link "Skip to main content" [ref=f514e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f514e3]:
+    - text: 
+    - generic [ref=f514e4]:
+      - generic [ref=f514e5]:
+        - generic: ✕
+        - navigation [ref=f514e7]:
+          - generic [ref=f514e8]:
+            - link [ref=f514e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f514e11]
+            - button "Enter Reader Mode" [ref=f514e13] [cursor=pointer]:
+              - generic [ref=f514e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f514e16]:
+        - list [ref=f514e18]:
+          - listitem [ref=f514e19]:
+            - link [ref=f514e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f514e22]
+          - listitem [ref=f514e23]:
+            - text: 
+            - generic [ref=f514e25]:
+              - generic [ref=f514e26]: "Search :"
+              - searchbox "Search :" [ref=f514e27]
+              - button " Search" [ref=f514e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f514e29]:
+            - list [ref=f514e30]:
+              - listitem [ref=f514e31]:
+                - link "Edit" [ref=f514e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions?action=edit
+              - text: 
+              - listitem [ref=f514e33]:
+                - link " Options" [ref=f514e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f514e35]:
+                - link " Rachel Mastrapa" [ref=f514e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f514e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f514e38] [cursor=pointer]
+          - list [ref=f514e39]:
+            - listitem [ref=f514e40]:
+              - link " Home" [ref=f514e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f514e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f514e43]:
+              - link " Workbench" [ref=f514e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f514e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f514e46]:
+              - link " De Anza - ASTR10" [ref=f514e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f514e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f514e49]:
+              - 'link " 16: Galaxies" [ref=f514e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies
+                - generic [ref=f514e51]: 
+                - text: "16: Galaxies"
+              - text: »
+            - listitem [ref=f514e52]:
+              - generic [ref=f514e53]: 
+              - text: "16.8: Accessible Descriptions"
+          - text: 
+      - navigation
+    - article [ref=f514e54]:
+      - generic [ref=f514e55]:
+        - generic [ref=f514e56]:
+          - button " Page settings" [ref=f514e57] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "16.8: Accessible Descriptions" [level=1] [ref=f514e58]':
+          - generic [ref=f514e59]: "16.8: Accessible Descriptions "
+        - list [ref=f514e61]:
+          - listitem [ref=f514e62]:
+            - link [ref=f514e64] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f514e65]:
+                - img "CC" [ref=f514e66]
+                - img "BY" [ref=f514e67]
+          - listitem [ref=f514e68]:
+            - generic [ref=f514e69]:
+              - term [ref=f514e70] [cursor=pointer]: "Last updated:"
+              - definition [ref=f514e71]: Aug 15, 2026, 10:13 PM by Rachel Mastrapa
+          - listitem [ref=f514e72]:
+            - generic [ref=f514e73]:
+              - term [ref=f514e74] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f514e75]: Private
+          - listitem [ref=f514e76]:
+            - generic [ref=f514e77]:
+              - term [ref=f514e78] [cursor=pointer]: "Page ID:"
+              - definition [ref=f514e79]: "140407"
+          - listitem [ref=f514e80]:
+            - list [ref=f514e81]:
+              - listitem [ref=f514e82]:
+                - button "Pin Page" [ref=f514e83] [cursor=pointer]: 
+              - listitem [ref=f514e84]:
+                - generic [ref=f514e85]:
+                  - link " Page notifications Off" [ref=f514e87] [cursor=pointer]:
+                    - /url: "#"
+                  - text: 
+              - text: 
+              - listitem [ref=f514e88]:
+                - list [ref=f514e89]:
+                  - listitem [ref=f514e90]:
+                    - 'link " 16.7: Key Terms" [ref=f514e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.07%3A_Key_Terms
+                      - text: 
+                      - generic [ref=f514e92]: "16.7: Key Terms"
+                  - listitem [ref=f514e93]:
+                    - 'link "17: Evolution of Galaxies " [ref=f514e94] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies
+                      - generic [ref=f514e95]: "17: Evolution of Galaxies"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f514e96]:
+        - generic [ref=f514e97]:
+          - generic [ref=f514e98]:
+            - heading "Figure 16.1.1 Whirlpool Galaxy" [level=2] [ref=f514e99]
+            - paragraph [ref=f514e100]: An illustration of the Whirlpool Galaxy, drawn by Lord Rosse.
+            - generic [ref=f514e101]:
+              - heading "Illustration Elements" [level=3] [ref=f514e102]
+              - list [ref=f514e103]:
+                - listitem [ref=f514e104]: Rendered in black and white using shading to represent the brightness of different regions.
+                - listitem [ref=f514e105]: A dense, tightly wound spiral structure is in the center of the drawing, with the darkest shading at the core.
+                - listitem [ref=f514e106]: Several spiral arms wind outward from the core, gradually becoming fainter toward the outer edges.
+                - listitem [ref=f514e107]: A smaller, separate patch of shading appears near the upper right, corresponding to a companion galaxy detached from the main spiral structure.
+                - listitem [ref=f514e108]: Small numbers are scattered across the drawing, marking specific points of reference within the structure.
+          - generic [ref=f514e109]:
+            - heading "Figure 16.1.2 Messier 51" [level=2] [ref=f514e110]
+            - paragraph [ref=f514e111]: A Hubble Space Telescope image of the Whirlpool Galaxy.
+            - generic [ref=f514e112]:
+              - heading "Image Elements" [level=3] [ref=f514e113]
+              - list [ref=f514e114]:
+                - listitem [ref=f514e115]: The Whirlpool Galaxy, a spiral galaxy, occupies most of the image, with a bright, yellow-white core at its center.
+                - listitem [ref=f514e116]: Two prominent spiral arms wind outward from the core, traced by dark, reddish-brown lanes of dust.
+                - listitem [ref=f514e117]: Bright pink patches are scattered along the spiral arms, marking regions of active star formation.
+                - listitem [ref=f514e118]: Clusters of blue stars line the spiral arms, representing groups of young, hot stars.
+                - listitem [ref=f514e119]: A smaller, yellow companion galaxy, NGC 5195, is located to the right, joined to the Whirlpool Galaxy by a faint arm of stars and dust.
+          - generic [ref=f514e120]:
+            - heading "Figure 16.1.3 Andromeda Galaxy" [level=2] [ref=f514e121]
+            - paragraph [ref=f514e122]: Visible light image of the Andromeda Galaxy and two satellite galaxies.
+            - generic [ref=f514e123]:
+              - heading "Image Elements" [level=3] [ref=f514e124]
+              - list [ref=f514e125]:
+                - listitem [ref=f514e126]: The Andromeda Galaxy, also known as M31, is a large spiral galaxy that fills most of the frame.
+                - listitem [ref=f514e127]: The galaxy's disk is tilted and appears elongated, stretching from the upper left to the lower right of the image.
+                - listitem [ref=f514e128]: A bright, glowing central bulge, or nucleus, marks the middle of the galaxy.
+                - listitem [ref=f514e129]: Reddish-brown dust lanes form a mottled, ring-like pattern around the central bulge.
+                - listitem [ref=f514e130]: Faint blue spiral arms extend outward from the center, dotted with clusters of stars.
+                - listitem [ref=f514e131]: Thousands of foreground stars from our own galaxy are scattered across the black background, appearing as small points of white, blue, and orange light.
+                - listitem [ref=f514e132]: A smaller, round satellite galaxy, M32, appears as a compact glowing patch above and to the right of the galaxy's center.
+                - listitem [ref=f514e133]: A second satellite galaxy, M110, appears as an elongated glowing patch below the main galaxy.
+              - paragraph [ref=f514e134]: "Credit: Adam Evans"
+          - generic [ref=f514e135]:
+            - heading "Figure 16.2.1 Classification of Galaxies" [level=2] [ref=f514e136]
+            - paragraph [ref=f514e137]: Diagram illustrating the tuning fork classification of galaxies.
+            - generic [ref=f514e138]:
+              - heading "Ellipticals" [level=3] [ref=f514e139]
+              - list [ref=f514e140]:
+                - listitem [ref=f514e141]: A row of five shapes runs along the left side of the diagram, connected by a blue line, labeled Ellipticals.
+                - listitem [ref=f514e142]: From left to right, the shapes progress from round to increasingly flattened ovals, labeled E0, E3, E5, E7, and S0.
+                - listitem [ref=f514e143]: E0 is a circular shape.
+                - listitem [ref=f514e144]: E3 and E5 are progressively flatter ovals.
+                - listitem [ref=f514e145]: E7 is a very elongated, thin oval.
+                - listitem [ref=f514e146]: S0 is a more circular shape with a bright core, marking the transition point where the line splits into two branches.
+                - listitem [ref=f514e147]: Below each labeled shape is an illustration of an elliptical galaxy of that type, shown as a fuzzy, glowing patch of light without spiral structure.
+            - generic [ref=f514e148]:
+              - heading "Spirals" [level=3] [ref=f514e149]
+              - list [ref=f514e150]:
+                - listitem [ref=f514e151]: From the S0 transition point, the upper branch of the line curves to the right and is labeled Spirals.
+                - listitem [ref=f514e152]: Three illustrated spiral shapes are spaced along this branch, labeled Sa, Sb, and Sc from left to right.
+                - listitem [ref=f514e153]: Sa has short, tightly wound spiral arms around a large central bulge.
+                - listitem [ref=f514e154]: Sb has longer arms and a smaller central bulge.
+                - listitem [ref=f514e155]: Sc has long, open, multiple spiral arms and a small central bulge.
+                - listitem [ref=f514e156]: Above each illustrated type is an illustration of a spiral galaxy of that type.
+            - generic [ref=f514e157]:
+              - heading "Barred Spirals" [level=3] [ref=f514e158]
+              - list [ref=f514e159]:
+                - listitem [ref=f514e160]: From the S0 transition point, the lower branch of the line curves downward and to the right, forming the second prong of the tuning fork.
+                - listitem [ref=f514e161]: Three illustrated barred spiral shapes are spaced along this branch, labeled SBa, SBb, and SBc from left to right.
+                - listitem [ref=f514e162]: SBa has a short central bar with tightly wound arms extending from its ends.
+                - listitem [ref=f514e163]: SBb has a longer bar with more open arms.
+                - listitem [ref=f514e164]: SBc has a long, prominent bar with long, open arms extending from its ends.
+                - listitem [ref=f514e165]: Below each illustrated type is an image of a real barred spiral galaxy of that type.
+              - paragraph [ref=f514e166]: "Credit: NASA, ESA"
+          - generic [ref=f514e167]:
+            - heading "Figure 16.2.2 Spiral Galaxies" [level=2] [ref=f514e168]
+            - paragraph [ref=f514e169]: Two images of spiral galaxies viewed from different angles, face-on and edge-on.
+            - generic [ref=f514e170]:
+              - heading "Image (a)" [level=3] [ref=f514e171]
+              - list [ref=f514e172]:
+                - listitem [ref=f514e173]: On the left
+                - listitem [ref=f514e174]: A face-on image of the spiral galaxy M100, with the bulge, spiral arms, disk, and halo labeled.
+                - listitem [ref=f514e175]: The Bulge label points to the bright, rounded region at the center of the galaxy.
+                - listitem [ref=f514e176]: The Spiral arms label points, with two lines, to the curving arm structures extending from the center.
+                - listitem [ref=f514e177]: The Disk label is in the lower part of the image indicating the rotating region that contains the spiral arms.
+                - listitem [ref=f514e178]: The Halo label marks the faint outer region surrounding the disk and bulge.
+                - listitem [ref=f514e179]: The spiral arms appear bluer than the rest of the galaxy, with red dust lanes trailing around them.
+                - listitem [ref=f514e180]: "Credit: modification of work by Hubble Legacy Archive, NASA, ESA, and Judy Schmidt"
+            - generic [ref=f514e181]:
+              - heading "Image (b)" [level=3] [ref=f514e182]
+              - list [ref=f514e183]:
+                - listitem [ref=f514e184]: On the right
+                - listitem [ref=f514e185]: An edge-on image of the spiral galaxy NGC 4565.
+                - listitem [ref=f514e186]: The galaxy appears as a diagonal line of light extending from the upper right to the lower left.
+                - listitem [ref=f514e187]: A thin, dark dust lane runs down the center of the galaxy along its entire length. Light glows around the dark dust.
+                - listitem [ref=f514e188]: The central bulge is thicker than the thin surrounding disk and significantly brighter.
+                - listitem [ref=f514e189]: "Credit: modification of work by \"Jschulman555\"/Wikimedia"
+          - generic [ref=f514e190]:
+            - heading "Figure 16.2.3 Barred Spiral Galaxy" [level=2] [ref=f514e191]
+            - paragraph [ref=f514e192]: An image of the barred spiral galaxy NGC 1300.
+            - generic [ref=f514e193]:
+              - heading "Image Elements" [level=3] [ref=f514e194]
+              - list [ref=f514e195]:
+                - listitem [ref=f514e196]: A large, bright spiral galaxy seen nearly face-on, filling most of the frame against a dark background of scattered stars.
+                - listitem [ref=f514e197]: A straight, elongated bar of stars and dust extends through the center of the galaxy, rather than a rounded central bulge.
+                - listitem [ref=f514e198]: Two spiral arms begin at the ends of the bar, curving outward and wrapping around the galaxy.
+                - listitem [ref=f514e199]: The arms are lined with reddish dust lanes near the bar and lighter blue clusters of young stars farther out.
+                - listitem [ref=f514e200]: A small, bright yellow-white nucleus sits at the center of the bar.
+              - paragraph [ref=f514e201]: "Credit: NASA, ESA, and the Hubble Heritage Team (STScI/AURA)"
+          - generic [ref=f514e202]:
+            - heading "Figure 16.2.4 Elliptical Galaxies" [level=2] [ref=f514e203]
+            - paragraph [ref=f514e204]: Two images of elliptical galaxies with different amounts of internal structure.
+            - generic [ref=f514e205]:
+              - heading "Image (a)" [level=3] [ref=f514e206]
+              - list [ref=f514e207]:
+                - listitem [ref=f514e208]: On the left
+                - listitem [ref=f514e209]: An image of the giant elliptical galaxy ESO 325-G004, appearing as a large, nearly featureless oval of light with a bright central nucleus.
+                - listitem [ref=f514e210]: The light of the galaxy is brightest at the center, and dims smoothly in all directions, revealing very little structure.
+                - listitem [ref=f514e211]: Several other elliptical galaxies and background stars are scattered around the edges of the image.
+                - listitem [ref=f514e212]: "Credit: NASA, ESA, and The Hubble Heritage Team (STScI/AURA)"
+            - generic [ref=f514e213]:
+              - heading "Image (b)" [level=3] [ref=f514e214]
+              - list [ref=f514e215]:
+                - listitem [ref=f514e216]: On the right
+                - listitem [ref=f514e217]: An image of an unnamed elliptical galaxy that shows more internal structure than a typical elliptical, including faint wisps and irregular patches of light within the oval.
+                - listitem [ref=f514e218]: This structure suggests the galaxy formed relatively recently from the collision of two spiral galaxies.
+                - listitem [ref=f514e219]: A bright foreground star appears in the lower right of the image along with tiny, scattered stars and galaxies.
+                - listitem [ref=f514e220]: "Credit: ESA/Hubble, NASA"
+          - generic [ref=f514e221]:
+            - heading "Figure 16.2.5 Dwarf Elliptical Galaxy" [level=2] [ref=f514e222]
+            - paragraph [ref=f514e223]: A black-and-white image of the dwarf elliptical galaxy M32.
+            - generic [ref=f514e224]:
+              - heading "Image Elements" [level=3] [ref=f514e225]
+              - list [ref=f514e226]:
+                - listitem [ref=f514e227]: A bright, featureless, oval-shaped glow of light fills the center of the image, brightest at its core and fading smoothly outward.
+                - listitem [ref=f514e228]: The galaxy has no visible spiral arms or internal structure.
+                - listitem [ref=f514e229]: Individual stars of the galaxy become visible as small points of light at the outer edges of the galaxy, where the density of stars declines.
+                - listitem [ref=f514e230]: The surrounding field is dark and scattered with faint background stars.
+                - listitem [ref=f514e231]: "Credit: NOAO/AURA/NSF"
+          - generic [ref=f514e232]:
+            - heading "Figure 16.2.6 Large Magellanic Cloud" [level=2] [ref=f514e233]
+            - paragraph [ref=f514e234]: A wide-field image of the irregular dwarf galaxy the Large Magellanic Cloud.
+            - generic [ref=f514e235]:
+              - heading "Image Elements" [level=3] [ref=f514e236]
+              - list [ref=f514e237]:
+                - listitem [ref=f514e238]: A large, elongated, hazy cloud of stars and gas stretches diagonally across the center of the image, brighter and denser toward the middle.
+                - listitem [ref=f514e239]: The central region glows with a soft pink and white haze, dotted with many individual stars.
+                - listitem [ref=f514e240]: Most of the stars are red, but there is a group of blue stars on its up right side.
+                - listitem [ref=f514e241]: A bright, colorful clustering of stars and glowing gas, the Tarantula Nebula, appears as a distinct bright patch to the upper left of the galaxy's center.
+                - listitem [ref=f514e242]: Numerous smaller clusters of blue and red stars are scattered throughout the galaxy, marking regions of active star formation.
+                - listitem [ref=f514e243]: The galaxy has no organized spiral or elliptical structure, giving it an irregular, patchy shape.
+                - listitem [ref=f514e244]: A dense field of foreground stars in various colors, blue, white, orange, and red, fills the surrounding dark background.
+          - generic [ref=f514e245]:
+            - heading "Figure 16.3.1 The Pinwheel Galaxy" [level=2] [ref=f514e246]
+            - paragraph [ref=f514e247]: A face-on image of a spiral galaxy taken by the Hubble Space Telescope.
+            - generic [ref=f514e248]:
+              - heading "Image Elements" [level=3] [ref=f514e249]
+              - paragraph [ref=f514e250]: "Credit: NASA, ESA, K. Kuntz (Johns Hopkins University), F. Bresolin (University of Hawaii), J. Trauger (Jet Propulsion Lab), J. Mould (NOAO), Y.-H. Chu (University of Illinois, Urbana), and STScI"
+              - list [ref=f514e251]:
+                - listitem [ref=f514e252]: The galaxy fills most of the frame, oriented face-on so its full spiral structure is visible.
+                - listitem [ref=f514e253]: A bright, compact, yellowish-white core sits near the center of the galaxy.
+                - listitem [ref=f514e254]: Multiple spiral arms wind outward from the core in a spiral pattern, tightly wound near the center and loosening toward the outer edge, similar to a pinwheel shape.
+                - listitem [ref=f514e255]: The spiral arms are traced by reddish-brown dust lanes and clusters of bright blue points marking regions of active star formation.
+                - listitem [ref=f514e256]: The outer regions of the galaxy fade into faint, diffuse blue light with wispy, irregular edges rather than a sharp boundary.
+                - listitem [ref=f514e257]: A patch of clumpy blue material extends from the upper left edge of the galaxy, appearing separate from the main spiral structure.
+                - listitem [ref=f514e258]: Numerous foreground stars are scattered across the black background, appearing as small white, blue, and orange points of light.
+          - generic [ref=f514e259]:
+            - heading "Figure 16.4.1 Cepheid Variable Star" [level=2] [ref=f514e260]
+            - paragraph [ref=f514e261]: A Hubble Space Telescope image of the galaxy M100 with three close-up insets tracking a variable star's brightness over time.
+            - generic [ref=f514e262]:
+              - heading "Background Image" [level=3] [ref=f514e263]
+              - list [ref=f514e264]:
+                - listitem [ref=f514e265]: A grayscale image shows part of the spiral galaxy M100, with part of the bright, dense nuclear bulge toward the lower left and fainter, thinner spiral arms curving to the right and down.
+                - listitem [ref=f514e266]: A small white square near the right of the image marks the location of the Cepheid variable star.
+                - listitem [ref=f514e267]: Two thin lines extend upward from the square, connecting it to the closest inset panels above.
+            - generic [ref=f514e268]:
+              - heading "May 4" [level=3] [ref=f514e269]
+              - list [ref=f514e270]:
+                - listitem [ref=f514e271]: Top left inset panel.
+                - listitem [ref=f514e272]: A close-up, grainy, black-and-white view of the marked region.
+                - listitem [ref=f514e273]: The target star is faint and difficult to distinguish from the surrounding scattered points of light.
+            - generic [ref=f514e274]:
+              - heading "May 9" [level=3] [ref=f514e275]
+              - list [ref=f514e276]:
+                - listitem [ref=f514e277]: Top center inset panel.
+                - listitem [ref=f514e278]: The same region as the May 4 panel, showing the target star slightly brighter and easier to distinguish near the center of the panel.
+            - generic [ref=f514e279]:
+              - heading "May 31" [level=3] [ref=f514e280]
+              - list [ref=f514e281]:
+                - listitem [ref=f514e282]: Top right inset panel.
+                - listitem [ref=f514e283]: The same region again, with the target star now clearly the brightest point in the panel, standing out against the surrounding fainter stars.
+              - paragraph [ref=f514e284]: "Credit: Wendy L. Freedman, Observatories of the Carnegie Institution of Washington, and NASA/ESA"
+          - generic [ref=f514e285]:
+            - heading "Figure 16.4.2 Type Ia Supernova" [level=2] [ref=f514e286]
+            - paragraph [ref=f514e287]: An image of a type Ia supernova outshining its host spiral galaxy.
+            - generic [ref=f514e288]:
+              - heading "Image Elements" [level=3] [ref=f514e289]
+              - list [ref=f514e290]:
+                - listitem [ref=f514e291]: A very bright, white star-like point of light with prominent spikes, sits left of center.
+                - listitem [ref=f514e292]: This bright point is the type Ia supernova, appearing far brighter than any individual star in the surrounding field.
+                - listitem [ref=f514e293]: A spiral galaxy that is not quite face-on is in the upper right of the image, with a bright central bulge and dusty, reddish-brown spiral arms winding outward.
+                - listitem [ref=f514e294]: A second, fainter bright star with is near the top of the galaxy, above and to the left of its center.
+                - listitem [ref=f514e295]: The supernova lies at the outer edge of the galaxy's spiral arms, appearing much brighter than the galaxy's own bright core despite being part of the same system.
+                - listitem [ref=f514e296]: The background is filled with numerous faint, distant galaxies of varying shapes, along with scattered foreground stars.
+              - paragraph [ref=f514e297]: "Credit: NASA, ESA, A. Riess (STScI)"
+          - generic [ref=f514e298]:
+            - heading "Figure 16.5.1 Hubble's Law" [level=2] [ref=f514e299]
+            - paragraph [ref=f514e300]: Two charts comparing Hubble's early velocity-distance data to a later, more extensive dataset.
+            - generic [ref=f514e301]:
+              - 'heading "Chart (a): Hubble''s Data (1929)" [level=3] [ref=f514e302]'
+              - list [ref=f514e303]:
+                - listitem [ref=f514e304]: The vertical axis is labeled Velocity (km/s) and goes from 0 at the bottom to 1500 at the top, in increments of 500 km/s.
+                - listitem [ref=f514e305]: The horizontal axis is labeled Distance (millions of LY) and goes from 0 on the left to 6 on the right, in increments of 3 million light-years.
+                - listitem [ref=f514e306]: Red dots show individual galaxy measurements, scattered broadly around a general upward trend, with substantial spread at any given distance.
+                - listitem [ref=f514e307]: A red line representing the average trend runs from about 0 million LY, 0 km/s at the lower left to about 6 million LY, 1000 km/s at the upper right.
+            - generic [ref=f514e308]:
+              - 'heading "Chart (b): Hubble and Humason (1931)" [level=3] [ref=f514e309]'
+              - list [ref=f514e310]:
+                - listitem [ref=f514e311]: The vertical axis is labeled Velocity (km/s) and goes from 0 at the bottom to 20,000 at the top, in increments of 5,000 km/s.
+                - listitem [ref=f514e312]: The horizontal axis is labeled Distance (millions of LY) and goes from 0 on the left to 120 on the right, in increments of 30 million light-years.
+                - listitem [ref=f514e313]: Black dots show individual galaxy measurements, following a tight, nearly straight upward trend extending out to about 100 million light-years and 19,000 km/s.
+                - listitem [ref=f514e314]: A black line representing the average trend runs from about 0 million LY, 0 km/s at the lower left to about 100 million LY, 19,000 km/s at the upper right.
+                - listitem [ref=f514e315]: The red data points from Chart (a) are also plotted here, clustered near the lower left corner, showing how limited the 1929 dataset was compared to the 1931 dataset.
+            - generic [ref=f514e316]:
+              - heading "Key Trend" [level=3] [ref=f514e317]
+              - list [ref=f514e318]:
+                - listitem [ref=f514e319]: Both charts show that galaxy velocity increases with distance, but the 1931 dataset extends to distances and velocities roughly 20 times greater than the 1929 dataset, with a much tighter, more clearly linear relationship.
+          - generic [ref=f514e320]:
+            - heading "Figure 16.5.2 Stretching a Ruler" [level=2] [ref=f514e321]
+            - paragraph [ref=f514e322]: A diagram of two rulers, one normal and one stretched, illustrating how ants on the stretched ruler move apart.
+            - generic [ref=f514e323]:
+              - heading "Top Ruler (Normal Length)" [level=3] [ref=f514e324]
+              - list [ref=f514e325]:
+                - listitem [ref=f514e326]: A short wooden ruler marked with tick marks labeled 0 through 12 in increments of 2.
+                - listitem [ref=f514e327]: Four ants sit on the ruler, positioned above the marks at 2, 4, 7, and 12.
+            - generic [ref=f514e328]:
+              - heading "Bottom Ruler (Stretched)" [level=3] [ref=f514e329]
+              - list [ref=f514e330]:
+                - listitem [ref=f514e331]: A longer wooden ruler, stretched to about twice the length of the top ruler, with arrows at both ends indicating the stretching.
+                - listitem [ref=f514e332]: The same tick marks, labeled 0 through 12, are now spaced twice as far apart as on the top ruler.
+                - listitem [ref=f514e333]: The four ants remain positioned above the same numbers, 2, 4, 7, and 12, but are now spread farther apart in physical space because the ruler has stretched.
+                - listitem [ref=f514e334]: The assumption is that it took 1 minute for the ruler to stretch.
+                - listitem [ref=f514e335]:
+                  - text: "Three labeled arrows beneath the ruler show the speed at which each pair of neighboring ants moves apart, as seen by the ant at position 2:"
+                  - list [ref=f514e336]:
+                    - listitem [ref=f514e337]: "Between 2 and 4: 2 cm/min."
+                    - listitem [ref=f514e338]: "Between 4 and 7: 5 cm/min."
+                    - listitem [ref=f514e339]: "Between 7 and 12: 10 cm/min."
+            - generic [ref=f514e340]:
+              - heading "Key Takeaway" [level=3] [ref=f514e341]
+              - list [ref=f514e342]:
+                - listitem [ref=f514e343]: The farther apart two ants are on the ruler, the faster they appear to move away from each other as the ruler stretches, illustrating that recession speed is proportional to distance.
+          - generic [ref=f514e344]:
+            - heading "Figure 16.5.3 Expanding Raisin Bread" [level=2] [ref=f514e345]
+            - paragraph [ref=f514e346]: A diagram of two loaves of raisin bread, one unrisen and one expanded, showing the raisins inside the loves moving farther apart.
+            - generic [ref=f514e347]:
+              - heading "Unrisen Loaf (30 cm)" [level=3] [ref=f514e348]
+              - list [ref=f514e349]:
+                - listitem [ref=f514e350]: A smaller loaf of bread, 30 cm wide, with several raisins scattered through its right half.
+                - listitem [ref=f514e351]: A reference raisin near the upper left of the raisin-filled region has arrows pointing to four other raisins, each labeled with its distance from the reference.
+                - listitem [ref=f514e352]: Clockwise from upper left, the distances are 3 cm, 16 cm, 20 cm, and 7 cm.
+            - generic [ref=f514e353]:
+              - heading "Risen Loaf (60 cm)" [level=3] [ref=f514e354]
+              - list [ref=f514e355]:
+                - listitem [ref=f514e356]: A larger loaf of bread, 60 cm wide, twice the width of the unrisen loaf, with the same raisins now spread farther apart.
+                - listitem [ref=f514e357]: The same reference raisin has arrows to the same four raisins, with the distances increased proportionally.
+                - listitem [ref=f514e358]: Clockwise from upper left, the distances are now 6 cm, 32 cm, 40 cm, and 14 cm.
+            - generic [ref=f514e359]:
+              - heading "Key Takeaway" [level=3] [ref=f514e360]
+              - list [ref=f514e361]:
+                - listitem [ref=f514e362]: Every distance from the reference raisin has doubled as the loaf doubled in width, so raisins that started farther away end up moving away faster than raisins that started close by.
+        - generic [ref=f514e363]:
+          - separator [ref=f514e364]
+          - paragraph [ref=f514e366]:
+            - 'link "16.8: Accessible Descriptions" [ref=f514e367] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions
+            - text: is shared under a
+            - link "CC BY" [ref=f514e368] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f514e369]:
+        - list [ref=f514e370]:
+          - listitem [ref=f514e371]:
+            - link "Back to top" [ref=f514e372] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f514e373]:
+            - list [ref=f514e374]:
+              - listitem [ref=f514e375]:
+                - 'link " 16.7: Key Terms" [ref=f514e376] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.07%3A_Key_Terms
+                  - text: 
+                  - generic [ref=f514e377]: "16.7: Key Terms"
+              - listitem [ref=f514e378]:
+                - 'link "17: Evolution of Galaxies " [ref=f514e379] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies
+                  - generic [ref=f514e380]: "17: Evolution of Galaxies"
+                  - text: 
+        - list [ref=f514e383]:
+          - listitem [ref=f514e384]: Was this article helpful?
+          - listitem [ref=f514e385]:
+            - button "Yes" [ref=f514e386] [cursor=pointer]
+          - listitem [ref=f514e387]:
+            - button "No" [ref=f514e388] [cursor=pointer]
+          - listitem [ref=f514e389]:
+            - button "Leave feedback" [ref=f514e390] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f514e391]:
+          - heading "Attachments" [level=2] [ref=f514e392]
+          - generic:
+            - button "Attach a file" [ref=f514e393] [cursor=pointer]
+            - text: 
+          - generic [ref=f514e395]:
+            - generic [ref=f514e398]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f514e399]
+            - generic [ref=f514e400]:
+              - grid [ref=f514e403]:
+                - rowgroup [ref=f514e404]:
+                  - row [ref=f514e405]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f514e406]':
+                      - generic:
+                        - generic [ref=f514e407]: File
+                        - generic [ref=f514e408]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f514e409]':
+                      - generic:
+                        - generic [ref=f514e410]: Last modified
+                        - generic [ref=f514e411]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f514e412]':
+                      - generic:
+                        - generic [ref=f514e413]: Size
+                        - generic [ref=f514e414]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f514e415]':
+                      - generic:
+                        - generic [ref=f514e416]: Added by
+                        - generic [ref=f514e417]: 
+              - grid [ref=f514e419]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f514e420]: File
+                          - generic [ref=f514e421]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f514e422]: Last modified
+                          - generic [ref=f514e423]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f514e424]: Size
+                          - generic [ref=f514e425]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f514e426]: Added by
+                          - generic [ref=f514e427]: 
+                - rowgroup [ref=f514e428]:
+                  - row [ref=f514e429]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f514e430]:
+                      - generic [ref=f514e431]:
+                        - generic [ref=f514e432]:
+                          - generic [ref=f514e433]: 
+                          - link "mindtouch.page#thumbnail" [ref=f514e434] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/65448/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f514e435]:
+                          - generic [ref=f514e436]: (no description)
+                          - text: 
+                    - gridcell "Dec 25, 2025, 9:52 PM" [ref=f514e437]
+                    - gridcell "11 KiB" [ref=f514e439]
+                    - gridcell "Rachel Mastrapa" [ref=f514e440]
+    - generic [ref=f514e442]:
+      - button "Open support menu" [ref=f514e444] [cursor=pointer]: "?"
+      - navigation [ref=f514e446]:
+        - paragraph [ref=f514e448]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f514e449] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f514e450] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f514e451] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f514e452] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f514e453] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f514e454]:
+      - generic:
+        - generic [ref=f514e456]:
+          - button "Annotation sidebar" [ref=f514e457]
+          - generic [ref=f514e462]:
+            - button "Show highlights" [ref=f514e463]
+            - button "New page note" [ref=f514e468]
+          - status [ref=f514e473]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f514e474]:
+    - button "contents" [ref=f514e475] [cursor=pointer]
+    - button "readability" [ref=f514e477] [cursor=pointer]
+    - button "resources" [ref=f514e479] [cursor=pointer]
+    - button "tools" [ref=f514e481] [cursor=pointer]
+    - button "developers" [ref=f514e483] [cursor=pointer]
+  - text:  

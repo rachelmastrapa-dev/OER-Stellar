@@ -1,0 +1,725 @@
+- generic [ref=f75e1]:
+  - link "Skip to main content" [ref=f75e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f75e3]:
+    - text: 
+    - generic [ref=f75e4]:
+      - generic [ref=f75e5]:
+        - generic: ✕
+        - navigation [ref=f75e7]:
+          - generic [ref=f75e8]:
+            - link [ref=f75e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f75e11]
+            - button "Enter Reader Mode" [ref=f75e13] [cursor=pointer]:
+              - generic [ref=f75e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f75e16]:
+        - list [ref=f75e18]:
+          - listitem [ref=f75e19]:
+            - link [ref=f75e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f75e22]
+          - listitem [ref=f75e23]:
+            - text: 
+            - generic [ref=f75e25]:
+              - generic [ref=f75e26]: "Search :"
+              - searchbox "Search :" [ref=f75e27]
+              - button " Search" [ref=f75e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f75e29]:
+            - list [ref=f75e30]:
+              - listitem [ref=f75e31]:
+                - link "Edit" [ref=f75e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.02%3A_The_Brightness_of_Stars?action=edit
+              - text: 
+              - listitem [ref=f75e33]:
+                - link " Options" [ref=f75e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f75e35]:
+                - link " Rachel Mastrapa" [ref=f75e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f75e37]:
+        - generic:
+          - button " Contents" [ref=f75e217] [cursor=pointer]
+          - list [ref=f75e39]:
+            - listitem [ref=f75e40]:
+              - link " Home" [ref=f75e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f75e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f75e43]:
+              - link " Workbench" [ref=f75e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f75e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f75e46]:
+              - link " De Anza - ASTR10" [ref=f75e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f75e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f75e49]:
+              - 'link " 3: Stars and Light" [ref=f75e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light
+                - generic [ref=f75e51]: 
+                - text: "3: Stars and Light"
+              - text: »
+            - listitem [ref=f75e52]:
+              - generic [ref=f75e53]: 
+              - text: "3.2: The Brightness of Stars"
+          - button " Expand/collapse global location" [ref=f75e54] [cursor=pointer]
+      - navigation:
+        - generic:                                               
+    - article [ref=f75e55]:
+      - generic [ref=f75e56]:
+        - generic [ref=f75e57]:
+          - button " Page settings" [ref=f75e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "3.2: The Brightness of Stars" [level=1] [ref=f75e59]':
+          - generic [ref=f75e60]: "3.2: The Brightness of Stars "
+        - list [ref=f75e62]:
+          - listitem [ref=f75e63]:
+            - link [ref=f75e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f75e66]:
+                - img "CC" [ref=f75e67]
+                - img "BY" [ref=f75e68]
+          - listitem [ref=f75e69]:
+            - generic [ref=f75e70]:
+              - term [ref=f75e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f75e72]: Dec 26, 2025, 10:34 PM by Rachel Mastrapa
+          - listitem [ref=f75e73]:
+            - generic [ref=f75e74]:
+              - term [ref=f75e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f75e76]: Private
+          - listitem [ref=f75e77]:
+            - generic [ref=f75e78]:
+              - term [ref=f75e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f75e80]: "131903"
+          - listitem [ref=f75e81]:
+            - list [ref=f75e82]:
+              - listitem [ref=f75e83]:
+                - button "Pin Page" [ref=f75e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f75e85]:
+                - list [ref=f75e86]:
+                  - listitem [ref=f75e87]:
+                    - 'link " 3.1: Properties of Light" [ref=f75e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.01%3A_Properties_of_Light
+                      - text: 
+                      - generic [ref=f75e89]: "3.1: Properties of Light"
+                  - listitem [ref=f75e90]:
+                    - 'link "3.3: The Electromagnetic Spectrum " [ref=f75e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.03%3A_The_Electromagnetic_Spectrum
+                      - generic [ref=f75e92]: "3.3: The Electromagnetic Spectrum"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f75e93]:
+        - group [ref=f75e220]:
+          - generic [ref=f75e221]:
+            - generic [ref=f75e222]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f75e223]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f75e224]:
+            - generic [ref=f75e227]:
+              - generic [ref=f75e228]:
+                - generic [ref=f75e229]:
+                  - link "Edit" [ref=f75e230]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f75e231]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f75e232]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f75e233]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f75e234]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f75e235]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f75e236]: "Words: 3709, Chars: 22112"
+              - group "Editor toolbars" [ref=f75e238]:
+                - toolbar [ref=f75e239]:
+                  - button "Save" [ref=f75e240]:
+                    - generic [ref=f75e241]: 
+                  - button "Cancel" [ref=f75e243]:
+                    - generic [ref=f75e244]: 
+                - toolbar [ref=f75e247]:
+                  - button "Undo" [disabled] [ref=f75e248]:
+                    - generic [ref=f75e249]: 
+                  - button "Redo" [disabled] [ref=f75e250]:
+                    - generic [ref=f75e251]: 
+                - toolbar [ref=f75e253]:
+                  - button "Headings" [ref=f75e254]
+                - toolbar [ref=f75e259]:
+                  - button "Bold" [ref=f75e260]:
+                    - generic [ref=f75e261]: 
+                  - button "Italic" [ref=f75e262]:
+                    - generic [ref=f75e263]: 
+                  - button "Underline" [ref=f75e264]:
+                    - generic [ref=f75e265]: 
+                - toolbar [ref=f75e267]:
+                  - button "Text color" [ref=f75e268]:
+                    - generic [ref=f75e269]: 
+                  - button "Background color" [ref=f75e271]:
+                    - generic [ref=f75e272]: 
+                - toolbar [ref=f75e275]:
+                  - button "Remove format" [ref=f75e276]:
+                    - generic [ref=f75e277]: 
+                - toolbar [ref=f75e279]:
+                  - button "Insert/Remove numbered list" [ref=f75e280]:
+                    - generic [ref=f75e281]: 
+                  - button "Insert/Remove bulleted list" [ref=f75e282]:
+                    - generic [ref=f75e283]: 
+                - toolbar [ref=f75e285]:
+                  - button "Alignment" [ref=f75e286]:
+                    - generic [ref=f75e287]: 
+                - text: 
+                - toolbar [ref=f75e290]:
+                  - button "Link" [ref=f75e291]:
+                    - generic [ref=f75e292]: 
+                  - button "Image" [ref=f75e293]:
+                    - generic [ref=f75e294]: 
+                  - text: 
+                  - button "Boxes" [ref=f75e295]
+                - toolbar [ref=f75e300]:
+                  - button "Replace" [ref=f75e301]:
+                    - generic [ref=f75e302]: 
+                - toolbar [ref=f75e304]:
+                  - button "Enable Binder" [ref=f75e305]
+                  - button "Insert Adapt" [ref=f75e307]
+                  - button "Query" [ref=f75e309]
+                  - button "Accessibility Checker" [ref=f75e312]
+                - toolbar [ref=f75e315]:
+                  - button "HTML" [ref=f75e316]:
+                    - generic [ref=f75e317]: 
+            - application "Rich Text Editor, editarea" [ref=f75e319]:
+              - iframe [active] [ref=f75e320]:
+                - generic [active] [ref=f77e1]:
+                  - heading "Luminosity" [level=2] [ref=f77e2]
+                  - paragraph [ref=f77e3]:
+                    - text: There are a number of other stellar characteristics astronomers and astrophysicists consider.
+                    - strong [ref=f77e4]: Luminosity
+                    - text: is a star’s total amount of power radiated into space, measured in watts. Think about a light bulb in your home. The output is measured in watts. Most of us use 60 watts tungsten light bulbs or the new LED bulbs with an output of around 60 watts, yet using about 10 watts of power.
+                  - paragraph [ref=f77e5]:
+                    - text: How does a light bulb with a luminosity of 60 watts compare to the Sun’s output? The accepted luminosity of the Sun is 3. 846×10
+                    - superscript [ref=f77e6]: "26"
+                    - text: watts. With such large numbers, the Sun’s luminosity is often stated as 1 L
+                    - subscript [ref=f77e7]: ⊙
+                    - text: . The number 1 L
+                    - subscript [ref=f77e8]: ⊙
+                    - text: is easier to work with than 3. 846×10
+                    - superscript [ref=f77e9]: "26"
+                    - text: watts, yet they mean the same quantity.
+                  - paragraph [ref=f77e10]:
+                    - strong [ref=f77e11]: Apparent Brightness
+                    - text: is the amount of light reaching us per unit area, measured in flux. This incoming light varies by the
+                    - strong [ref=f77e12]: Inverse Square Law
+                    - text: ". Mathematically this is given as:"
+                  - paragraph [ref=f77e13]:
+                    - strong [ref=f77e14]:
+                      - text: Apparent Brightness is proportional to 1/d
+                      - superscript [ref=f77e15]: "2"
+                  - paragraph [ref=f77e16]: Let’s look at an example many have experienced. You see a light one mile away, and note its brightness. You move away from the light, and you again look at the light. You might think the light should be half as bright. Actually it is ¼ as bright, as given by the Inverse Square Law.
+                  - paragraph [ref=f77e17]:
+                    - strong [ref=f77e18]:
+                      - text: "Apparent brightness at 1 mile: 1/1"
+                      - superscript [ref=f77e19]: "2"
+                      - text: "= 1 Apparent brightness at 2 miles: 1/2"
+                      - superscript [ref=f77e20]: "2"
+                      - text: = ¼
+                  - paragraph [ref=f77e21]: We all experience the Inverse Square Law in real life, from driving a car at night to looking at lights on and in buildings and streetlights as we approach a light or move away from the light.
+                  - paragraph [ref=f77e22]:
+                    - text: Perhaps the most important characteristic of a star is its luminosity—the total amount of energy at all wavelengths that it emits per second. Earlier, we saw that the Sun puts out a tremendous amount of energy every second. (And there are stars far more luminous than the Sun out there.) To make the comparison among stars easy, astronomers express the luminosity of other stars in terms of the Sun’s luminosity. For example, the luminosity of Sirius is about 25 times that of the Sun. We use the symbol
+                    - generic [ref=f77e23]:
+                      - emphasis [ref=f77e24]: L
+                      - subscript [ref=f77e25]: Sun
+                    - text: to denote the Sun’s luminosity; hence, that of Sirius can be written as 25
+                    - generic [ref=f77e26]:
+                      - emphasis [ref=f77e27]: L
+                      - subscript [ref=f77e28]: Sun
+                    - text: . In a later chapter, we will see that if we can measure how much energy a star emits and we also know its mass, then we can calculate how long it can continue to shine before it exhausts its nuclear energy and begins to die.
+                  - heading "Variable Stars" [level=3] [ref=f77e29]
+                  - paragraph [ref=f77e30]:
+                    - text: Sometimes a star will change luminosity not due to an eclipse, but due to some sort of physical characteristic. These are called
+                    - strong [ref=f77e31]: variable stars
+                    - text: or
+                    - strong [ref=f77e32]: variables
+                    - text: . These changes in brightness can range from 1/1000 of a magnitude to 20 magnitudes over a period of a fraction of a second to many years. Over 150,000 variables are known, and many others are suspected to be variables.
+                  - paragraph [ref=f77e33]:
+                    - text: "There are two major classes of variable stars:"
+                    - strong [ref=f77e34]: Pulsating Variables
+                    - text: and
+                    - strong [ref=f77e35]: Cataclysmic Variables
+                    - text: .
+                    - strong [ref=f77e36]: Pulsating variable stars
+                    - text: swell and shrink, which affects the star’s brightness. One important class of pulsating variable stars is the
+                    - strong [ref=f77e37]: Cepheid Variables
+                    - text: .
+                  - figure "Public Domain | Image courtesy of NASA." [ref=f77e38]:
+                    - img "This Hubble image shows RS Puppis, a type of variable star known as a Cepheid variable. As variable stars go, Cepheids have comparatively long periods— RS Puppis, for example, varies in brightness by almost a factor of five every 40 or so days. RS Puppis is unusual; this variable star is shrouded by thick, dark clouds of dust enabling a phenomenon known as a light echo to be shown with stunning clarity. These Hubble observations show the ethereal object embedded in its dusty environment, set against a dark sky filled with background galaxies." [ref=f77e39]
+                  - paragraph [ref=f77e41]
+                  - heading "Apparent Brightness" [level=3] [ref=f77e42]
+                  - paragraph [ref=f77e43]: Astronomers are careful to distinguish between the luminosity of the star (the total energy output) and the amount of energy that happens to reach our eyes or a telescope on Earth. Stars are democratic in how they produce radiation; they emit the same amount of energy in every direction in space. Consequently, only a minuscule fraction of the energy given off by a star actually reaches an observer on Earth. We call the amount of a star’s energy that reaches a given area (say, one square meter) each second here on Earth its apparent brightness. If you look at the night sky, you see a wide range of apparent brightnesses among the stars. Most stars, in fact, are so dim that you need a telescope to detect them.
+                  - paragraph [ref=f77e44]:
+                    - text: "If all stars were the same luminosity—if they were like standard bulbs with the same light output—we could use the difference in their apparent brightnesses to tell us something we very much want to know: how far away they are. Imagine you are in a big concert hall or ballroom that is dark except for a few dozen 25-watt bulbs placed in fixtures around the walls. Since they are all 25-watt bulbs, their luminosity (energy output) is the same. But from where you are standing in one corner, they do"
+                    - emphasis [ref=f77e45]: not
+                    - text: have the same apparent brightness. Those close to you appear brighter (more of their light reaches your eye), whereas those far away appear dimmer (their light has spread out more before reaching you). In this way, you can tell which bulbs are closest to you. In the same way, if all the stars had the same luminosity, we could immediately infer that the brightest-appearing stars were close by and the dimmest-appearing ones were far away.
+                  - paragraph [ref=f77e46]: To pin down this idea more precisely, recall from the Radiation and Spectra chapter that we know exactly how light fades with increasing distance. The energy we receive is inversely proportional to the square of the distance. If, for example, we have two stars of the same luminosity and one is twice as far away as the other, it will look four times dimmer than the closer one. If it is three times farther away, it will look nine (three squared) times dimmer, and so forth.
+                  - paragraph [ref=f77e47]: Alas, the stars do not all have the same luminosity. (Actually, we are pretty glad about that because having many different types of stars makes the universe a much more interesting place.) But this means that if a star looks dim in the sky, we cannot tell whether it appears dim because it has a low luminosity but is relatively nearby, or because it has a high luminosity but is very far away. To measure the luminosities of stars, we must first compensate for the dimming effects of distance on light, and to do that, we must know how far away they are. Distance is among the most difficult of all astronomical measurements. We will return to how it is determined after we have learned more about the stars. For now, we will describe how astronomers specify the apparent brightness of stars.
+                  - heading "The Magnitude Scale" [level=3] [ref=f77e48]
+                  - paragraph [ref=f77e49]:
+                    - text: The
+                    - strong [ref=f77e50]: magnitude system
+                    - text: is a scale to show how bright stars appear. The initial magnitude system was developed by the Greek astronomer, geographer, and mathematician Hipparchus (190 BC to 120 BC). He ranked stars by their apparent brightness, with 1 being the brightest and 6 being barely visible, without the telescope or other optical aid.
+                  - paragraph [ref=f77e51]:
+                    - text: He also designed his original magnitude scale, such that the star Polaris, the northern hemisphere’s pole star, would have a magnitude of 2. Hipparchus’ initial magnitude scale was revised by Norman Pogson in 1856. Pogson specified a 1st magnitude star is 100 times brighter than a 6th magnitude star. Based on Pogson’s system, a 1st magnitude star is 2. 512 times as bright as a 2nd magnitude star. With this revision also came inclusion of brighter objects, such as the Sun and Moon, and fainter objects then visible through the telescope. What we see in our sky is called an object’s
+                    - strong [ref=f77e52]:
+                      - text: Apparent Magnitude, M
+                      - subscript [ref=f77e53]: v
+                    - text: .
+                  - paragraph [ref=f77e54]
+                  - heading [level=3] [ref=f77e55]:
+                    - text: Example Apparent Magnitudes, M
+                    - subscript [ref=f77e56]: v
+                  - paragraph [ref=f77e57]
+                  - heading "Object" [level=4] [ref=f77e58]
+                  - list [ref=f77e59]:
+                    - listitem [ref=f77e60]: Sun
+                    - listitem [ref=f77e61]: Moon
+                    - listitem [ref=f77e62]: Sirius (brightest star in the sky beyond the Sun)
+                    - listitem [ref=f77e63]: Polaris, the northern hemisphere’s pole star
+                    - listitem [ref=f77e64]: Andromeda Galaxy, M31
+                    - listitem [ref=f77e65]: Maximum brightness of dwarf planet Ceres
+                    - listitem [ref=f77e66]: Faintest objects visible using 7×50 binocular
+                    - listitem [ref=f77e67]: Pluto at maximum brightness
+                    - listitem [ref=f77e68]: Faintest objects observable in visible light with 8m Earth telescopes
+                    - listitem [ref=f77e69]: Faintest objects observable in visible light with the Hubble Space Telescope
+                  - paragraph [ref=f77e70]
+                  - heading "Apparent Magnitude – as seen from Earth" [level=4] [ref=f77e71]
+                  - list [ref=f77e72]:
+                    - listitem [ref=f77e73]: "-26. 74"
+                    - listitem [ref=f77e74]: "-12. 74"
+                    - listitem [ref=f77e75]: "-1. 4"
+                    - listitem [ref=f77e76]: 1. 98
+                    - listitem [ref=f77e77]: 3. 44
+                    - listitem [ref=f77e78]: 6. 64
+                    - listitem [ref=f77e79]: 9. 50
+                    - listitem [ref=f77e80]: 13. 65
+                    - listitem [ref=f77e81]: 27. 00
+                    - listitem [ref=f77e82]: 31. 50
+                  - paragraph [ref=f77e83]:
+                    - text: The process of measuring the apparent brightness of stars is called
+                    - emphasis [ref=f77e84]: photometry
+                    - text: (from the Greek
+                    - emphasis [ref=f77e85]: photo
+                    - text: meaning “light” and –
+                    - emphasis [ref=f77e86]: metry
+                    - text: "meaning “to measure”). As we saw Observing the Sky: The Birth of Astronomy, astronomical photometry began with Hipparchus. Around 150 B.C.E., he erected an observatory on the island of Rhodes in the Mediterranean. There he prepared a catalog of nearly 1000 stars that included not only their positions but also estimates of their apparent brightnesses."
+                  - paragraph [ref=f77e87]: Hipparchus did not have a telescope or any instrument that could measure apparent brightness accurately, so he simply made estimates with his eyes. He sorted the stars into six brightness categories, each of which he called a magnitude. He referred to the brightest stars in his catalog as first-magnitudes stars, whereas those so faint he could barely see them were sixth-magnitude stars. During the nineteenth century, astronomers attempted to make the scale more precise by establishing exactly how much the apparent brightness of a sixth-magnitude star differs from that of a first-magnitude star. Measurements showed that we receive about 100 times more light from a first-magnitude star than from a sixth-magnitude star. Based on this measurement, astronomers then defined an accurate magnitude system in which a difference of five magnitudes corresponds exactly to a brightness ratio of 100:1. In addition, the magnitudes of stars are decimalized; for example, a star isn’t just a “second-magnitude star,” it has a magnitude of 2.0 (or 2.1, 2.3, and so forth). So what number is it that, when multiplied together five times, gives you this factor of 100? Play on your calculator and see if you can get it. The answer turns out to be about 2.5, which is the fifth root of 100. This means that a magnitude 1.0 star and a magnitude 2.0 star differ in brightness by a factor of about 2.5. Likewise, we receive about 2.5 times as much light from a magnitude 2.0 star as from a magnitude 3.0 star. What about the difference between a magnitude 1.0 star and a magnitude 3.0 star? Since the difference is 2.5 times for each “step” of magnitude, the total difference in brightness is 2.5 × 2.5 = 6.25 times.
+                  - paragraph [ref=f77e88]: Here are a few rules of thumb that might help those new to this system. If two stars differ by 0.75 magnitudes, they differ by a factor of about 2 in brightness. If they are 2.5 magnitudes apart, they differ in brightness by a factor of 10, and a 4-magnitude difference corresponds to a difference in brightness of a factor of 40.You might be saying to yourself at this point, “Why do astronomers continue to use this complicated system from more than 2000 years ago?” That’s an excellent question and, as we shall discuss, astronomers today can use other ways of expressing how bright a star looks. But because this system is still used in many books, star charts, and computer apps, we felt we had to introduce students to it (even though we were very tempted to leave it out.)
+                  - paragraph [ref=f77e89]:
+                    - text: "The brightest stars, those that were traditionally referred to as first-magnitude stars, actually turned out (when measured accurately) not to be identical in brightness. For example, the brightest star in the sky, Sirius, sends us about 10 times as much light as the average first-magnitude star. On the modern magnitude scale, Sirius, the star with the brightest apparent magnitude, has been assigned a magnitude of −1.5. Other objects in the sky can appear even brighter. Venus at its brightest is of magnitude −4.4, while the Sun has a magnitude of −26.8. Figure 17.2 shows the range of observed magnitudes from the brightest to the faintest, along with the actual magnitudes of several well-known objects. The important fact to remember when using magnitude is that the system goes backward: the"
+                    - emphasis [ref=f77e90]: larger
+                    - text: the magnitude, the
+                    - emphasis [ref=f77e91]: fainter
+                    - text: the object you are observing.
+                  - heading "Luminosity" [level=3] [ref=f77e92]
+                  - paragraph [ref=f77e93]:
+                    - text: Perhaps the most important characteristic of a star is its luminosity—the total amount of energy at all wavelengths that it emits per second. Earlier, we saw that the Sun puts out a tremendous amount of energy every second. (And there are stars far more luminous than the Sun out there.) To make the comparison among stars easy, astronomers express the luminosity of other stars in terms of the Sun’s luminosity. For example, the luminosity of Sirius is about 25 times that of the Sun. We use the symbol
+                    - generic [ref=f77e94]:
+                      - emphasis [ref=f77e95]: L
+                      - subscript [ref=f77e96]: Sun
+                    - text: to denote the Sun’s luminosity; hence, that of Sirius can be written as 25
+                    - generic [ref=f77e97]:
+                      - emphasis [ref=f77e98]: L
+                      - subscript [ref=f77e99]: Sun
+                    - text: . In a later chapter, we will see that if we can measure how much energy a star emits and we also know its mass, then we can calculate how long it can continue to shine before it exhausts its nuclear energy and begins to die.
+                  - heading "Apparent Brightness" [level=3] [ref=f77e100]
+                  - paragraph [ref=f77e101]: Astronomers are careful to distinguish between the luminosity of the star (the total energy output) and the amount of energy that happens to reach our eyes or a telescope on Earth. Stars are democratic in how they produce radiation; they emit the same amount of energy in every direction in space. Consequently, only a minuscule fraction of the energy given off by a star actually reaches an observer on Earth. We call the amount of a star’s energy that reaches a given area (say, one square meter) each second here on Earth its apparent brightness. If you look at the night sky, you see a wide range of apparent brightnesses among the stars. Most stars, in fact, are so dim that you need a telescope to detect them.
+                  - paragraph [ref=f77e102]:
+                    - text: "If all stars were the same luminosity—if they were like standard bulbs with the same light output—we could use the difference in their apparent brightnesses to tell us something we very much want to know: how far away they are. Imagine you are in a big concert hall or ballroom that is dark except for a few dozen 25-watt bulbs placed in fixtures around the walls. Since they are all 25-watt bulbs, their luminosity (energy output) is the same. But from where you are standing in one corner, they do"
+                    - emphasis [ref=f77e103]: not
+                    - text: have the same apparent brightness. Those close to you appear brighter (more of their light reaches your eye), whereas those far away appear dimmer (their light has spread out more before reaching you). In this way, you can tell which bulbs are closest to you. In the same way, if all the stars had the same luminosity, we could immediately infer that the brightest-appearing stars were close by and the dimmest-appearing ones were far away.
+                  - paragraph [ref=f77e104]: To pin down this idea more precisely, recall from the Radiation and Spectra chapter that we know exactly how light fades with increasing distance. The energy we receive is inversely proportional to the square of the distance. If, for example, we have two stars of the same luminosity and one is twice as far away as the other, it will look four times dimmer than the closer one. If it is three times farther away, it will look nine (three squared) times dimmer, and so forth.
+                  - paragraph [ref=f77e105]: Alas, the stars do not all have the same luminosity. (Actually, we are pretty glad about that because having many different types of stars makes the universe a much more interesting place.) But this means that if a star looks dim in the sky, we cannot tell whether it appears dim because it has a low luminosity but is relatively nearby, or because it has a high luminosity but is very far away. To measure the luminosities of stars, we must first compensate for the dimming effects of distance on light, and to do that, we must know how far away they are. Distance is among the most difficult of all astronomical measurements. We will return to how it is determined after we have learned more about the stars. For now, we will describe how astronomers specify the apparent brightness of stars.
+                  - heading "The Magnitude Scale" [level=3] [ref=f77e106]
+                  - paragraph [ref=f77e107]:
+                    - text: The process of measuring the apparent brightness of stars is called
+                    - emphasis [ref=f77e108]: photometry
+                    - text: (from the Greek
+                    - emphasis [ref=f77e109]: photo
+                    - text: meaning “light” and –
+                    - emphasis [ref=f77e110]: metry
+                    - text: "meaning “to measure”). As we saw Observing the Sky: The Birth of Astronomy, astronomical photometry began with Hipparchus. Around 150 B.C.E., he erected an observatory on the island of Rhodes in the Mediterranean. There he prepared a catalog of nearly 1000 stars that included not only their positions but also estimates of their apparent brightnesses."
+                  - paragraph [ref=f77e111]: Hipparchus did not have a telescope or any instrument that could measure apparent brightness accurately, so he simply made estimates with his eyes. He sorted the stars into six brightness categories, each of which he called a magnitude. He referred to the brightest stars in his catalog as first-magnitudes stars, whereas those so faint he could barely see them were sixth-magnitude stars. During the nineteenth century, astronomers attempted to make the scale more precise by establishing exactly how much the apparent brightness of a sixth-magnitude star differs from that of a first-magnitude star. Measurements showed that we receive about 100 times more light from a first-magnitude star than from a sixth-magnitude star. Based on this measurement, astronomers then defined an accurate magnitude system in which a difference of five magnitudes corresponds exactly to a brightness ratio of 100:1. In addition, the magnitudes of stars are decimalized; for example, a star isn’t just a “second-magnitude star,” it has a magnitude of 2.0 (or 2.1, 2.3, and so forth). So what number is it that, when multiplied together five times, gives you this factor of 100? Play on your calculator and see if you can get it. The answer turns out to be about 2.5, which is the fifth root of 100. This means that a magnitude 1.0 star and a magnitude 2.0 star differ in brightness by a factor of about 2.5. Likewise, we receive about 2.5 times as much light from a magnitude 2.0 star as from a magnitude 3.0 star. What about the difference between a magnitude 1.0 star and a magnitude 3.0 star? Since the difference is 2.5 times for each “step” of magnitude, the total difference in brightness is 2.5 × 2.5 = 6.25 times.
+                  - paragraph [ref=f77e112]: Here are a few rules of thumb that might help those new to this system. If two stars differ by 0.75 magnitudes, they differ by a factor of about 2 in brightness. If they are 2.5 magnitudes apart, they differ in brightness by a factor of 10, and a 4-magnitude difference corresponds to a difference in brightness of a factor of 40.You might be saying to yourself at this point, “Why do astronomers continue to use this complicated system from more than 2000 years ago?” That’s an excellent question and, as we shall discuss, astronomers today can use other ways of expressing how bright a star looks. But because this system is still used in many books, star charts, and computer apps, we felt we had to introduce students to it (even though we were very tempted to leave it out.)
+                  - paragraph [ref=f77e113]:
+                    - text: "The brightest stars, those that were traditionally referred to as first-magnitude stars, actually turned out (when measured accurately) not to be identical in brightness. For example, the brightest star in the sky, Sirius, sends us about 10 times as much light as the average first-magnitude star. On the modern magnitude scale, Sirius, the star with the brightest apparent magnitude, has been assigned a magnitude of −1.5. Other objects in the sky can appear even brighter. Venus at its brightest is of magnitude −4.4, while the Sun has a magnitude of −26.8. Figure 17.2 shows the range of observed magnitudes from the brightest to the faintest, along with the actual magnitudes of several well-known objects. The important fact to remember when using magnitude is that the system goes backward: the"
+                    - emphasis [ref=f77e114]: larger
+                    - text: the magnitude, the
+                    - emphasis [ref=f77e115]: fainter
+                    - text: the object you are observing.
+                  - 'figure "Figure 17.2 : Apparent Magnitudes of Well-Known Objects. The faintest magnitudes that can be detected by the unaided eye, binoculars, and large telescopes are also shown." [ref=f77e116]':
+                    - img [ref=f77e118]
+                  - paragraph [ref=f77e120]
+                  - heading "Other Units of Brightness" [level=3] [ref=f77e121]
+                  - paragraph [ref=f77e122]: Although the magnitude scale is still used for visual astronomy, it is not used at all in newer branches of the field. In radio astronomy, for example, no equivalent of the magnitude system has been defined. Rather, radio astronomers measure the amount of energy being collected each second by each square meter of a radio telescope and express the brightness of each source in terms of, for example, watts per square meter.
+                  - paragraph [ref=f77e123]:
+                    - text: Similarly, most researchers in the fields of infrared, X-ray, and gamma-ray astronomy use energy per area per second rather than magnitudes to express the results of their measurements. Nevertheless, astronomers in all fields are careful to distinguish between the
+                    - emphasis [ref=f77e124]: luminosity
+                    - text: of the source (even when that luminosity is all in X-rays) and the amount of energy that happens to reach us on Earth. After all, the luminosity is a really important characteristic that tells us a lot about the object in question, whereas the energy that reaches Earth is an accident of cosmic geography.
+                  - paragraph [ref=f77e125]:
+                    - text: To make the comparison among stars easy, in this text, we avoid the use of magnitudes as much as possible and will express the luminosity of other stars in terms of the Sun’s luminosity. For example, the luminosity of Sirius is 25 times that of the Sun. We use the symbol
+                    - emphasis [ref=f77e126]: L
+                    - subscript [ref=f77e127]: Sun
+                    - text: to denote the Sun’s luminosity; hence, that of Sirius can be written as 25
+                    - emphasis [ref=f77e128]: L
+                    - subscript [ref=f77e129]: Sun
+                    - text: .
+                  - heading "Examples and Exercises" [level=2] [ref=f77e130]
+                  - paragraph [ref=f77e131]: "Example 17.1: The Magnitude Equation"
+                  - paragraph [ref=f77e132]:
+                    - text: Even scientists can’t calculate fifth roots in their heads, so astronomers have summarized the above discussion in an equation to help calculate the difference in brightness for stars with different magnitudes. If
+                    - emphasis [ref=f77e133]: m
+                    - subscript [ref=f77e134]: "1"
+                    - text: and
+                    - emphasis [ref=f77e135]: m
+                    - subscript [ref=f77e136]: "2"
+                    - text: are the magnitudes of two stars, then we can calculate the ratio of their brightness
+                    - math [ref=f77e137]:
+                      - generic [ref=f77e141]:
+                        - generic [ref=f77e142]: (
+                        - generic [ref=f77e144]:
+                          - generic [ref=f77e146]:
+                            - generic [ref=f77e147]: b
+                            - generic [ref=f77e148]: "2"
+                          - generic [ref=f77e150]:
+                            - generic [ref=f77e151]: b
+                            - generic [ref=f77e152]: "1"
+                        - generic [ref=f77e153]: )
+                    - text: "using this equation:"
+                  - paragraph [ref=f77e154]:
+                    - math [ref=f77e155]:
+                      - generic [ref=f77e158]:
+                        - generic [ref=f77e159]:
+                          - generic [ref=f77e160]: m
+                          - generic [ref=f77e161]: "1"
+                        - generic [ref=f77e162]: −
+                        - generic [ref=f77e163]:
+                          - generic [ref=f77e164]: m
+                          - generic [ref=f77e165]: "2"
+                        - generic [ref=f77e166]: =
+                        - generic [ref=f77e167]: "2.5"
+                        - generic [ref=f77e168]: log
+                        - generic [ref=f77e169]:
+                          - generic [ref=f77e170]: (
+                          - generic [ref=f77e172]:
+                            - generic [ref=f77e174]:
+                              - generic [ref=f77e175]: b
+                              - generic [ref=f77e176]: "2"
+                            - generic [ref=f77e178]:
+                              - generic [ref=f77e179]: b
+                              - generic [ref=f77e180]: "1"
+                          - generic [ref=f77e181]: )
+                        - generic [ref=f77e182]: or
+                        - generic [ref=f77e183]:
+                          - generic [ref=f77e185]:
+                            - generic [ref=f77e186]: b
+                            - generic [ref=f77e187]: "2"
+                          - generic [ref=f77e189]:
+                            - generic [ref=f77e190]: b
+                            - generic [ref=f77e191]: "1"
+                        - generic [ref=f77e192]: =
+                        - generic [ref=f77e193]:
+                          - generic [ref=f77e194]: "2.5"
+                          - generic [ref=f77e196]:
+                            - generic [ref=f77e197]:
+                              - generic [ref=f77e198]: m
+                              - generic [ref=f77e199]: "1"
+                            - generic [ref=f77e200]: −
+                  - paragraph [ref=f77e201]: "Here is another way to write this equation:"
+                  - paragraph [ref=f77e202]:
+                    - math [ref=f77e203]:
+                      - generic [ref=f77e206]:
+                        - generic [ref=f77e207]:
+                          - generic [ref=f77e209]:
+                            - generic [ref=f77e210]: b
+                            - generic [ref=f77e211]: "2"
+                          - generic [ref=f77e213]:
+                            - generic [ref=f77e214]: b
+                            - generic [ref=f77e215]: "1"
+                        - generic [ref=f77e216]: =
+                        - generic [ref=f77e217]:
+                          - generic [ref=f77e218]:
+                            - generic [ref=f77e219]: (
+                            - generic [ref=f77e220]:
+                              - generic [ref=f77e221]: "100"
+                              - generic [ref=f77e223]: "0.2"
+                            - generic [ref=f77e225]: )
+                          - generic [ref=f77e226]:
+                            - generic [ref=f77e227]:
+                              - generic [ref=f77e228]: m
+                              - generic [ref=f77e229]: "1"
+                            - generic [ref=f77e230]: −
+                  - paragraph [ref=f77e231]: Let’s do a real example, just to show how this works. Imagine that an astronomer has discovered something special about a dim star (magnitude 8.5), and she wants to tell her students how much dimmer the star is than Sirius. Star 1 in the equation will be our dim star and star 2 will be Sirius.
+                  - paragraph [ref=f77e232]: Solution
+                  - paragraph [ref=f77e233]:
+                    - text: Remember, Sirius has a magnitude of
+                    - math [ref=f77e234]:
+                      - generic [ref=f77e237]:
+                        - generic [ref=f77e238]: "-"
+                        - generic [ref=f77e239]: "1.5"
+                    - text: ". In that case:"
+                  - paragraph [ref=f77e240]:
+                    - math [ref=f77e241]:
+                      - generic [ref=f77e244]:
+                        - generic [ref=f77e245]:
+                          - generic [ref=f77e247]:
+                            - generic [ref=f77e249]:
+                              - generic [ref=f77e250]: b
+                              - generic [ref=f77e251]: "2"
+                            - generic [ref=f77e253]:
+                              - generic [ref=f77e254]: b
+                              - generic [ref=f77e255]: "1"
+                          - generic [ref=f77e256]:
+                            - generic [ref=f77e257]: =
+                            - generic [ref=f77e258]:
+                              - generic [ref=f77e259]:
+                                - generic [ref=f77e260]: (
+                                - generic [ref=f77e261]:
+                                  - generic [ref=f77e262]: "100"
+                                  - generic [ref=f77e263]: "0.2"
+                                - generic [ref=f77e264]: )
+                              - generic [ref=f77e265]:
+                                - generic [ref=f77e266]: "8.5"
+                                - generic [ref=f77e267]: −
+                                - generic [ref=f77e268]: (
+                                - generic [ref=f77e269]: −1.5
+                                - generic [ref=f77e270]: )
+                            - generic [ref=f77e271]: =
+                            - generic [ref=f77e272]:
+                              - generic [ref=f77e273]:
+                                - generic [ref=f77e274]: (
+                                - generic [ref=f77e275]:
+                                  - generic [ref=f77e276]: "100"
+                                  - generic [ref=f77e277]: "0.2"
+                                - generic [ref=f77e278]: )
+                              - generic [ref=f77e279]: "10"
+                        - generic [ref=f77e283]:
+                          - generic [ref=f77e284]: =
+                          - generic [ref=f77e285]:
+                            - generic [ref=f77e286]:
+                              - generic [ref=f77e287]: (
+                              - generic [ref=f77e288]: "100"
+                              - generic [ref=f77e289]: )
+                            - generic [ref=f77e290]: "2"
+                          - generic [ref=f77e291]: =
+                          - generic [ref=f77e292]: "100"
+                          - generic [ref=f77e293]: ×
+                          - generic [ref=f77e294]: "100"
+                          - generic [ref=f77e295]: =
+                          - generic [ref=f77e296]: 10,
+                  - paragraph [ref=f77e297]: Exercise
+                  - paragraph [ref=f77e298]: It is a common misconception that Polaris (magnitude 2.0) is the brightest star in the sky, but, as we saw, that distinction actually belongs to Sirius (magnitude −1.5). How does Sirius’ apparent brightness compare to that of Polaris?
+                  - generic [ref=f77e299]:
+                    - term [ref=f77e300]:
+                      - strong [ref=f77e301]: Answer
+                    - definition [ref=f77e302]:
+                      - paragraph [ref=f77e303]:
+                        - math [ref=f77e304]:
+                          - generic [ref=f77e307]:
+                            - generic [ref=f77e308]:
+                              - generic [ref=f77e310]:
+                                - generic [ref=f77e311]: b
+                                - generic [ref=f77e312]: Sirius
+                              - generic [ref=f77e315]:
+                                - generic [ref=f77e316]: b
+                                - generic [ref=f77e317]: Polaris
+                            - generic [ref=f77e319]: =
+                            - generic [ref=f77e320]:
+                              - generic [ref=f77e321]:
+                                - generic [ref=f77e322]: (
+                                - generic [ref=f77e323]:
+                                  - generic [ref=f77e324]: "100"
+                                  - generic [ref=f77e325]: "0.2"
+                                - generic [ref=f77e326]: )
+                              - generic [ref=f77e327]:
+                                - generic [ref=f77e328]: "2.0"
+                                - generic [ref=f77e329]: −
+                                - generic [ref=f77e330]: (
+                                - generic [ref=f77e331]: −1.5
+                                - generic [ref=f77e332]: )
+                            - generic [ref=f77e333]: =
+                            - generic [ref=f77e334]:
+                              - generic [ref=f77e335]:
+                                - generic [ref=f77e336]: (
+                                - generic [ref=f77e337]:
+                                  - generic [ref=f77e338]: "100"
+                                  - generic [ref=f77e339]: "0.2"
+                                - generic [ref=f77e340]: )
+                              - generic [ref=f77e341]: "3.5"
+                            - generic [ref=f77e343]: =
+                            - generic [ref=f77e344]:
+                              - generic [ref=f77e345]: "100"
+                              - generic [ref=f77e346]: "0.7"
+                            - generic [ref=f77e347]: =
+                      - paragraph [ref=f77e348]: "(Hint: If you only have a basic calculator, you may wonder how to take 100 to the 0.7th power. But this is something you can ask Google to do. Google now accepts mathematical questions and will answer them. So try it for yourself. Ask Google, “What is 100 to the 0.7th power?”)"
+                      - paragraph [ref=f77e349]: Our calculation shows that Sirius’ apparent brightness is 25 times greater than Polaris’ apparent brightness.
+              - generic [ref=f75e321]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f75e323] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f75e95]:
+          - separator [ref=f75e96]
+          - paragraph [ref=f75e98]:
+            - 'link "3.2: The Brightness of Stars" [ref=f75e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.02%3A_The_Brightness_of_Stars
+            - text: is shared under a
+            - link "CC BY" [ref=f75e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f75e101]:
+        - list [ref=f75e102]:
+          - listitem [ref=f75e103]:
+            - link "Back to top" [ref=f75e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f75e105]:
+            - list [ref=f75e106]:
+              - listitem [ref=f75e107]:
+                - 'link " 3.1: Properties of Light" [ref=f75e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.01%3A_Properties_of_Light
+                  - text: 
+                  - generic [ref=f75e109]: "3.1: Properties of Light"
+              - listitem [ref=f75e110]:
+                - 'link "3.3: The Electromagnetic Spectrum " [ref=f75e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.03%3A_The_Electromagnetic_Spectrum
+                  - generic [ref=f75e112]: "3.3: The Electromagnetic Spectrum"
+                  - text: 
+        - list [ref=f75e115]:
+          - listitem [ref=f75e116]: Was this article helpful?
+          - listitem [ref=f75e117]:
+            - button "Yes" [ref=f75e118] [cursor=pointer]
+          - listitem [ref=f75e119]:
+            - button "No" [ref=f75e120] [cursor=pointer]
+          - listitem [ref=f75e121]:
+            - button "Leave feedback" [ref=f75e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f75e123]:
+          - heading "Attachments" [level=2] [ref=f75e124]
+          - generic:
+            - button "Attach a file" [ref=f75e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f75e127]:
+            - generic [ref=f75e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f75e131]
+            - generic [ref=f75e132]:
+              - grid [ref=f75e135]:
+                - rowgroup [ref=f75e136]:
+                  - row [ref=f75e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f75e138]':
+                      - generic:
+                        - generic [ref=f75e139]: File
+                        - generic [ref=f75e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f75e141]':
+                      - generic:
+                        - generic [ref=f75e142]: Last modified
+                        - generic [ref=f75e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f75e144]':
+                      - generic:
+                        - generic [ref=f75e145]: Size
+                        - generic [ref=f75e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f75e147]':
+                      - generic:
+                        - generic [ref=f75e148]: Added by
+                        - generic [ref=f75e149]: 
+              - grid [ref=f75e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f75e152]: File
+                          - generic [ref=f75e153]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f75e154]: Last modified
+                          - generic [ref=f75e155]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f75e156]: Size
+                          - generic [ref=f75e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f75e158]: Added by
+                          - generic [ref=f75e159]: 
+                - rowgroup [ref=f75e160]:
+                  - row [ref=f75e161]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f75e162]:
+                      - generic [ref=f75e163]:
+                        - generic [ref=f75e164]:
+                          - generic [ref=f75e165]: 
+                          - link "mindtouch.page#thumbnail" [ref=f75e166] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63420/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f75e167]:
+                          - generic [ref=f75e168]: (no description)
+                          - text: 
+                    - gridcell "Dec 7, 2025, 6:55 PM" [ref=f75e169]
+                    - gridcell "11 KiB" [ref=f75e171]
+                    - gridcell "Rachel Mastrapa" [ref=f75e172]
+    - generic [ref=f75e174]:
+      - button "Open support menu" [ref=f75e176] [cursor=pointer]: "?"
+      - navigation [ref=f75e178]:
+        - paragraph [ref=f75e180]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f75e181] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f75e182] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f75e183] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f75e184] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f75e185] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f75e186]:
+      - generic:
+        - generic [ref=f75e188]:
+          - button "Annotation sidebar" [ref=f75e189]
+          - generic [ref=f75e194]:
+            - button "Show highlights" [ref=f75e195]
+            - button "New page note" [ref=f75e200]
+          - status [ref=f75e205]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f75e206]:
+    - button "contents" [ref=f75e207] [cursor=pointer]
+    - button "readability" [ref=f75e209] [cursor=pointer]
+    - button "resources" [ref=f75e211] [cursor=pointer]
+    - button "tools" [ref=f75e213] [cursor=pointer]
+    - button "developers" [ref=f75e215] [cursor=pointer]
+  - text:  
+  - generic [ref=f75e324]:
+    - generic [ref=f75e325] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f75e328] [cursor=pointer]

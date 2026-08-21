@@ -1,0 +1,272 @@
+- generic [active] [ref=f274e1]:
+  - link "Skip to main content" [ref=f274e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f274e3]:
+    - text: 
+    - generic [ref=f274e4]:
+      - generic [ref=f274e5]:
+        - generic: ✕
+        - navigation [ref=f274e7]:
+          - generic [ref=f274e8]:
+            - link [ref=f274e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f274e11]
+            - button "Enter Reader Mode" [ref=f274e13] [cursor=pointer]:
+              - generic [ref=f274e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f274e16]:
+        - list [ref=f274e18]:
+          - listitem [ref=f274e19]:
+            - link [ref=f274e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f274e22]
+          - listitem [ref=f274e23]:
+            - text: 
+            - generic [ref=f274e25]:
+              - generic [ref=f274e26]: "Search :"
+              - searchbox "Search :" [ref=f274e27]
+              - button " Search" [ref=f274e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f274e29]:
+            - list [ref=f274e30]:
+              - listitem [ref=f274e31]:
+                - link "Edit" [ref=f274e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.02%3A_Colors_of_Stars?action=edit
+              - text: 
+              - listitem [ref=f274e33]:
+                - link " Options" [ref=f274e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f274e35]:
+                - link " Rachel Mastrapa" [ref=f274e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f274e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f274e38] [cursor=pointer]
+          - list [ref=f274e39]:
+            - listitem [ref=f274e40]:
+              - link " Home" [ref=f274e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f274e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f274e43]:
+              - link " Workbench" [ref=f274e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f274e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f274e46]:
+              - link " De Anza - ASTR10" [ref=f274e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f274e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f274e49]:
+              - 'link " 9: Celestial Census" [ref=f274e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census
+                - generic [ref=f274e51]: 
+                - text: "9: Celestial Census"
+              - text: »
+            - listitem [ref=f274e52]:
+              - generic [ref=f274e53]: 
+              - text: "9.2: Colors of Stars"
+          - text: 
+      - navigation
+    - article [ref=f274e54]:
+      - generic [ref=f274e55]:
+        - generic [ref=f274e56]:
+          - button " Page settings" [ref=f274e57] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :      "
+        - 'heading "9.2: Colors of Stars" [level=1] [ref=f274e58]':
+          - generic [ref=f274e59]: "9.2: Colors of Stars "
+        - list [ref=f274e61]:
+          - listitem [ref=f274e62]:
+            - link [ref=f274e64] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f274e65]:
+                - img "CC" [ref=f274e66]
+                - img "BY" [ref=f274e67]
+          - listitem [ref=f274e68]:
+            - generic [ref=f274e69]:
+              - term [ref=f274e70] [cursor=pointer]: "Last updated:"
+              - definition [ref=f274e71]: Dec 28, 2025, 5:38 PM by Rachel Mastrapa
+          - listitem [ref=f274e72]:
+            - generic [ref=f274e73]:
+              - term [ref=f274e74] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f274e75]: Private
+          - listitem [ref=f274e76]:
+            - generic [ref=f274e77]:
+              - term [ref=f274e78] [cursor=pointer]: "Page ID:"
+              - definition [ref=f274e79]: "133571"
+          - listitem [ref=f274e80]:
+            - list [ref=f274e81]:
+              - listitem [ref=f274e82]:
+                - button "Pin Page" [ref=f274e83] [cursor=pointer]: 
+              - listitem
+              - text: 
+              - listitem [ref=f274e84]:
+                - list [ref=f274e85]:
+                  - listitem [ref=f274e86]:
+                    - 'link " 9.1: Stellar Census" [ref=f274e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.01%3A_Stellar_Census
+                      - text: 
+                      - generic [ref=f274e88]: "9.1: Stellar Census"
+                  - listitem [ref=f274e89]:
+                    - 'link "9.3: Measuring Stellar Masses, Binary Stars " [ref=f274e90] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.03%3A_Measuring_Stellar_Masses_Binary_Stars
+                      - generic [ref=f274e91]: "9.3: Measuring Stellar Masses, Binary Stars"
+                      - text: 
+              - listitem
+      - list [ref=f274e94]:
+        - listitem [ref=f274e95]:
+          - img "OpenStax" [ref=f274e96]
+        - listitem [ref=f274e97]:
+          - link "OpenStax" [ref=f274e98] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f274e99]:
+          - link "OpenStax" [ref=f274e100] [cursor=pointer]:
+            - /url: https://openstax.org
+      - complementary
+      - text: 
+      - generic [ref=f274e101]:
+        - paragraph [ref=f274e102]
+        - generic [ref=f274e103]:
+          - separator [ref=f274e104]
+          - paragraph [ref=f274e106]:
+            - text: This page titled
+            - 'link "9.2: Colors of Stars" [ref=f274e107] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.02%3A_Colors_of_Stars
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f274e108] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f274e109] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f274e110] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f274e111]:
+        - list [ref=f274e112]:
+          - listitem [ref=f274e113]:
+            - link "Back to top" [ref=f274e114] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f274e115]:
+            - list [ref=f274e116]:
+              - listitem [ref=f274e117]:
+                - 'link " 9.1: Stellar Census" [ref=f274e118] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.01%3A_Stellar_Census
+                  - text: 
+                  - generic [ref=f274e119]: "9.1: Stellar Census"
+              - listitem [ref=f274e120]:
+                - 'link "9.3: Measuring Stellar Masses, Binary Stars " [ref=f274e121] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.03%3A_Measuring_Stellar_Masses_Binary_Stars
+                  - generic [ref=f274e122]: "9.3: Measuring Stellar Masses, Binary Stars"
+                  - text: 
+        - list [ref=f274e125]:
+          - listitem [ref=f274e126]: Was this article helpful?
+          - listitem [ref=f274e127]:
+            - button "Yes" [ref=f274e128] [cursor=pointer]
+          - listitem [ref=f274e129]:
+            - button "No" [ref=f274e130] [cursor=pointer]
+          - listitem [ref=f274e131]:
+            - button "Leave feedback" [ref=f274e132] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , ,"
+        - generic [ref=f274e133]:
+          - heading "Attachments" [level=2] [ref=f274e134]
+          - generic:
+            - button "Attach a file" [ref=f274e135] [cursor=pointer]
+            - text: 
+          - generic [ref=f274e137]:
+            - generic [ref=f274e140]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f274e141]
+            - generic [ref=f274e142]:
+              - grid [ref=f274e145]:
+                - rowgroup [ref=f274e146]:
+                  - row [ref=f274e147]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f274e148]':
+                      - generic:
+                        - generic [ref=f274e149]: File
+                        - generic [ref=f274e150]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f274e151]':
+                      - generic:
+                        - generic [ref=f274e152]: Last modified
+                        - generic [ref=f274e153]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f274e154]':
+                      - generic:
+                        - generic [ref=f274e155]: Size
+                        - generic [ref=f274e156]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f274e157]':
+                      - generic:
+                        - generic [ref=f274e158]: Added by
+                        - generic [ref=f274e159]: 
+              - grid [ref=f274e161]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f274e162]: File
+                          - generic [ref=f274e163]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f274e164]: Last modified
+                          - generic [ref=f274e165]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f274e166]: Size
+                          - generic [ref=f274e167]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f274e168]: Added by
+                          - generic [ref=f274e169]: 
+                - rowgroup [ref=f274e170]:
+                  - row [ref=f274e171]:
+                    - gridcell "No files attached." [ref=f274e172]
+    - generic [ref=f274e174]:
+      - button "Open support menu" [ref=f274e176] [cursor=pointer]: "?"
+      - navigation [ref=f274e178]:
+        - paragraph [ref=f274e180]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f274e181] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f274e182] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f274e183] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f274e184] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f274e185] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f274e186]:
+      - generic:
+        - generic [ref=f274e188]:
+          - button "Annotation sidebar" [ref=f274e189]
+          - generic [ref=f274e194]:
+            - button "Show highlights" [ref=f274e195]
+            - button "New page note" [ref=f274e200]
+          - status [ref=f274e205]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f274e206]:
+    - button "contents" [ref=f274e207] [cursor=pointer]
+    - button "readability" [ref=f274e209] [cursor=pointer]
+    - button "resources" [ref=f274e211] [cursor=pointer]
+    - button "tools" [ref=f274e213] [cursor=pointer]
+    - button "developers" [ref=f274e215] [cursor=pointer]

@@ -1,0 +1,318 @@
+- generic [ref=f51e1]:
+  - link "Skip to main content" [ref=f51e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f51e3]:
+    - text: 
+    - generic [ref=f51e4]:
+      - generic [ref=f51e5]:
+        - generic: ✕
+        - navigation [ref=f51e7]:
+          - generic [ref=f51e8]:
+            - link [ref=f51e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f51e11]
+            - button "Enter Reader Mode" [ref=f51e13] [cursor=pointer]:
+              - generic [ref=f51e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f51e16]:
+        - list [ref=f51e18]:
+          - listitem [ref=f51e19]:
+            - link [ref=f51e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f51e22]
+          - listitem [ref=f51e23]:
+            - text: 
+            - generic [ref=f51e25]:
+              - generic [ref=f51e26]: "Search :"
+              - searchbox "Search :" [ref=f51e27]
+              - button " Search" [ref=f51e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f51e29]:
+            - list [ref=f51e30]:
+              - listitem [ref=f51e31]:
+                - link "Edit" [ref=f51e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.07%3A_Constellations?action=edit
+              - text: 
+              - listitem [ref=f51e33]:
+                - link " Options" [ref=f51e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f51e35]:
+                - link " Rachel Mastrapa" [ref=f51e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f51e37]:
+        - generic:
+          - button " Contents" [ref=f51e215] [cursor=pointer]
+          - list [ref=f51e39]:
+            - listitem [ref=f51e40]:
+              - link " Home" [ref=f51e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f51e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f51e43]:
+              - link " Workbench" [ref=f51e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f51e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f51e46]:
+              - link " De Anza - ASTR10" [ref=f51e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f51e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f51e49]:
+              - 'link " 2: Night Sky Navigation" [ref=f51e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation
+                - generic [ref=f51e51]: 
+                - text: "2: Night Sky Navigation"
+              - text: »
+            - listitem [ref=f51e52]:
+              - generic [ref=f51e53]: 
+              - text: "2.7: Constellations"
+          - text: 
+      - navigation:
+        - generic:                                                  
+    - article [ref=f51e54]:
+      - generic [ref=f51e55]:
+        - generic [ref=f51e56]:
+          - button " Page settings" [ref=f51e57] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :   "
+        - 'heading "2.7: Constellations" [level=1] [ref=f51e58]':
+          - generic [ref=f51e59]: "2.7: Constellations "
+        - list [ref=f51e61]:
+          - listitem [ref=f51e62]:
+            - link [ref=f51e64] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f51e65]:
+                - img "CC" [ref=f51e66]
+                - img "BY" [ref=f51e67]
+          - listitem [ref=f51e68]:
+            - generic [ref=f51e69]:
+              - term [ref=f51e70] [cursor=pointer]: "Last updated:"
+              - definition [ref=f51e71]: Aug 19, 2026, 3:57 PM by Rachel Mastrapa
+          - listitem [ref=f51e72]:
+            - generic [ref=f51e73]:
+              - term [ref=f51e74] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f51e75]: Private
+          - listitem [ref=f51e76]:
+            - generic [ref=f51e77]:
+              - term [ref=f51e78] [cursor=pointer]: "Page ID:"
+              - definition [ref=f51e79]: "115671"
+          - listitem [ref=f51e80]:
+            - list [ref=f51e81]:
+              - listitem [ref=f51e82]:
+                - button "Pin Page" [ref=f51e83] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f51e84]:
+                - list [ref=f51e85]:
+                  - listitem [ref=f51e86]:
+                    - 'link " 2.6: The Wanderers" [ref=f51e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.06%3A_The_Wanderers
+                      - text: 
+                      - generic [ref=f51e88]: "2.6: The Wanderers"
+                  - listitem [ref=f51e89]:
+                    - 'link "2.8: Science and Society - First Astronomers " [ref=f51e90] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.08%3A_Science_and_Society_-_First_Astronomers
+                      - generic [ref=f51e91]: "2.8: Science and Society - First Astronomers"
+                      - text: 
+              - text:  
+      - list [ref=f51e94]:
+        - listitem [ref=f51e95]:
+          - img "Lumen Learning" [ref=f51e96]
+        - listitem [ref=f51e97]: Lumen Learning
+        - listitem [ref=f51e98]:
+          - link "Lumen Learning" [ref=f51e99] [cursor=pointer]:
+            - /url: https://lumenlearning.com/
+      - text: 
+      - generic [ref=f51e100]:
+        - group [ref=f51e218]:
+          - generic [ref=f51e219]:
+            - generic [ref=f51e220]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f51e221]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f51e222]:
+            - generic [ref=f51e225]:
+              - generic [ref=f51e227]:
+                - link "Edit" [ref=f51e228]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f51e229]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f51e230]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f51e231]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f51e232]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f51e233]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f51e236]:
+                - toolbar [ref=f51e237]:
+                  - button "Save" [ref=f51e238]:
+                    - generic [ref=f51e239]: 
+                  - button "Cancel" [ref=f51e241]:
+                    - generic [ref=f51e242]: 
+                - text:          
+                - toolbar [ref=f51e283]:
+                  - button "Alignment" [ref=f51e284]:
+                    - generic [ref=f51e285]: 
+                - text:    
+                - toolbar [ref=f51e298]:
+                  - button "Replace" [ref=f51e299]:
+                    - generic [ref=f51e300]: 
+                - toolbar [ref=f51e302]:
+                  - button "Enable Binder" [disabled] [ref=f51e303]
+                  - button "Insert Adapt" [disabled] [ref=f51e305]
+                  - button "Query" [ref=f51e307]
+                  - button "Accessibility Checker" [disabled] [ref=f51e310]
+                - toolbar [ref=f51e313]:
+                  - button "Visual" [pressed] [ref=f51e329]:
+                    - generic [ref=f51e315]: 
+            - application "Rich Text Editor, editarea" [ref=f51e317]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f51e331]: "<h3 class=\"lt-phys-64653\">Constellations</h3> <p class=\"lt-phys-64653\">The backdrop for the motions of the “wanderers” in the sky is the canopy of stars. If there were no clouds in the sky and we were on a flat plain with nothing to obstruct our view, we could see about 3000 stars with the unaided eye. To find their way around such a multitude, the ancients found groupings of stars that made some familiar geometric pattern or (more rarely) resembled something they knew. Each civilization found its own patterns in the stars, much like a modern Rorschach test in which you are asked to discern patterns or pictures in a set of inkblots. The ancient Chinese, Egyptians, and Greeks, among others, found their own groupings—or constellations—of stars. These were helpful in navigating among the stars and in passing their star lore on to their children.</p> <p class=\"lt-phys-64653\">You may be familiar with some of the old star patterns we still use today, such as the Big Dipper, Little Dipper, and Orion the hunter, with his distinctive belt of three stars (Figure 2.8). However, many of the stars we see are not part of a distinctive star pattern at all, and a telescope reveals millions of stars too faint for the eye to see. Therefore, during the early decades of the 20th century, astronomers from many countries decided to establish a more formal system for organizing the sky.</p> <figure><span data-alt=\"The Constellation of Orion. At left, figure (a) is an illustration from the 17th century by Hevelius showing the mythical hunter fully rendered with helmet, shield and sword. Superimposed on this detailed drawing are the stars that make up the constellation. (These early star maps were not only scientific in nature, but works of art.) The stars that comprise Orion’s belt are circled in red and an arrow points from the circle to the same stars in the belt in the center of the image shown at right in figure (b). Figure (b) is a photograph of the constellation as it appears in the night sky.\" data-type=\"media\"><img alt=\"The Constellation of Orion. At left, figure (a) is an illustration from the 17th century by Hevelius showing the mythical hunter fully rendered with helmet, shield and sword. Superimposed on this detailed drawing are the stars that make up the constellation. (These early star maps were not only scientific in nature, but works of art.) The stars that comprise Orion’s belt are circled in red and an arrow points from the circle to the same stars in the belt in the center of the image shown at right in figure (b). Figure (b) is a photograph of the constellation as it appears in the night sky.\" data-media-type=\"image/jpeg\" src=\"/@api/deki/files/46176/356138a9ccbe47ca7a27cf0945a2c918f68ec3a9\" /> </span> <figcaption>Figure 2.8 : Orion. (a) The winter constellation of Orion, the hunter, is surrounded by neighboring constellations, as illustrated in the seventeenth-century atlas by Hevelius. (b) A photograph shows the Orion region in the sky. Note the three blue stars that make up the belt of the hunter. The bright red star above the belt denotes his armpit and is called <span class=\"no-emphasis\" data-type=\"term\" group-by=\"B\">Betelgeuse</span> (pronounced “Beetel-juice”). The bright blue star below the belt is his foot and is called Rigel. (credit a: modification of work by Johannes Hevelius; b: modification of work by Matthew Spinelli)</figcaption> </figure> <p class=\"lt-phys-64653\">Today, we use the term <em data-effect=\"italics\">constellation</em> to mean one of 88 sectors into which we divide the sky, much as the United States is divided into 50 states. The modern boundaries between the constellations are imaginary lines in the sky running north–south and east–west, so that each point in the sky falls in a specific constellation, although, like the states, not all constellations are the same size. All the constellations are listed in Appendix L. Whenever possible, we have named each modern <span class=\"no-emphasis\" data-type=\"term\" group-by=\"c\">constellation</span> after the Latin translations of one of the ancient Greek star patterns that lies within it. Thus, the modern constellation of Orion is a kind of box on the sky, which includes, among many other objects, the stars that made up the ancient picture of the hunter. Some people use the term <em data-effect=\"italics\">asterism</em> to denote an especially noticeable star pattern within a constellation (or sometimes spanning parts of several constellations). For example, the Big Dipper is an asterism within the constellation of Ursa Major, the Big Bear.</p> <p class=\"lt-phys-64653\">Students are sometimes puzzled because the constellations seldom resemble the people or animals for which they were named. In all likelihood, the Greeks themselves did not name groupings of stars because they looked like actual people or subjects (any more than the outline of Washington state resembles George Washington). Rather, they named sections of the sky in honor of the characters in their mythology and then fit the star configurations to the animals and people as best they could.</p> <div class=\"box-note\"> <h5 class=\"box-legend lt-phys-64653\"><span class=\"lt-icon-default\">Link to Learning</span></h5> <p class=\"lt-phys-64653\">This <a href=\"https://openstax.org/l/30heavensabove\" rel=\"noopener nofollow\" target=\"_blank\">website about objects in the sky</a> allows users to construct a detailed sky map showing the location and information about the Sun, Moon, planets, stars, constellations, and even satellites orbiting Earth. Begin by setting your observing location using the option in the menu in the upper right corner of the screen. An excellent website called <a href=\"https://openstax.org/l/30constel\" rel=\"noopener nofollow\" target=\"_blank\">Figures in the Sky</a> shows the constellation figures imagined by cultures around the world.</p> </div>"
+              - generic [ref=f51e319]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f51e321] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f51e102]:
+          - separator [ref=f51e103]
+          - paragraph [ref=f51e105]:
+            - text: This page titled
+            - 'link "2.7: Constellations" [ref=f51e106] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.07%3A_Constellations
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f51e107] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "Lumen Learning" [ref=f51e108] [cursor=pointer]:
+              - /url: ""
+            - text: .
+      - generic [ref=f51e109]:
+        - list [ref=f51e110]:
+          - listitem [ref=f51e111]:
+            - link "Back to top" [ref=f51e112] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f51e113]:
+            - list [ref=f51e114]:
+              - listitem [ref=f51e115]:
+                - 'link " 2.6: The Wanderers" [ref=f51e116] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.06%3A_The_Wanderers
+                  - text: 
+                  - generic [ref=f51e117]: "2.6: The Wanderers"
+              - listitem [ref=f51e118]:
+                - 'link "2.8: Science and Society - First Astronomers " [ref=f51e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.08%3A_Science_and_Society_-_First_Astronomers
+                  - generic [ref=f51e120]: "2.8: Science and Society - First Astronomers"
+                  - text: 
+        - list [ref=f51e123]:
+          - listitem [ref=f51e124]: Was this article helpful?
+          - listitem [ref=f51e125]:
+            - button "Yes" [ref=f51e126] [cursor=pointer]
+          - listitem [ref=f51e127]:
+            - button "No" [ref=f51e128] [cursor=pointer]
+          - listitem [ref=f51e129]:
+            - button "Leave feedback" [ref=f51e130] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : :"
+        - generic [ref=f51e131]:
+          - heading "Attachments" [level=2] [ref=f51e132]
+          - generic:
+            - button "Attach a file" [ref=f51e133] [cursor=pointer]
+            - text: 
+          - generic [ref=f51e135]:
+            - generic [ref=f51e138]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f51e139]
+            - generic [ref=f51e140]:
+              - grid [ref=f51e143]:
+                - rowgroup [ref=f51e144]:
+                  - row [ref=f51e145]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f51e146]':
+                      - generic:
+                        - generic [ref=f51e147]: File
+                        - generic [ref=f51e148]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f51e149]':
+                      - generic:
+                        - generic [ref=f51e150]: Last modified
+                        - generic [ref=f51e151]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f51e152]':
+                      - generic:
+                        - generic [ref=f51e153]: Size
+                        - generic [ref=f51e154]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f51e155]':
+                      - generic:
+                        - generic [ref=f51e156]: Added by
+                        - generic [ref=f51e157]: 
+              - grid [ref=f51e159]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f51e160]: File
+                          - generic [ref=f51e161]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f51e162]: Last modified
+                          - generic [ref=f51e163]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f51e164]: Size
+                          - generic [ref=f51e165]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f51e166]: Added by
+                          - generic [ref=f51e167]: 
+                - rowgroup [ref=f51e168]:
+                  - row [ref=f51e169]:
+                    - gridcell "No files attached." [ref=f51e170]
+    - generic [ref=f51e172]:
+      - button "Open support menu" [ref=f51e174] [cursor=pointer]: "?"
+      - navigation [ref=f51e176]:
+        - paragraph [ref=f51e178]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f51e179] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f51e180] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f51e181] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f51e182] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f51e183] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f51e184]:
+      - generic:
+        - generic [ref=f51e186]:
+          - button "Annotation sidebar" [ref=f51e187]
+          - generic [ref=f51e192]:
+            - button "Show highlights" [ref=f51e193]
+            - button "New page note" [ref=f51e198]
+          - status [ref=f51e203]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f51e204]:
+    - button "contents" [ref=f51e205] [cursor=pointer]
+    - button "readability" [ref=f51e207] [cursor=pointer]
+    - button "resources" [ref=f51e209] [cursor=pointer]
+    - button "tools" [ref=f51e211] [cursor=pointer]
+    - button "developers" [ref=f51e213] [cursor=pointer]
+  - text:  
+  - generic [ref=f51e322]:
+    - generic [ref=f51e323] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f51e326] [cursor=pointer]

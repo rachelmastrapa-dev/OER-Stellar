@@ -1,0 +1,281 @@
+- generic [active] [ref=f535e1]:
+  - link "Skip to main content" [ref=f535e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f535e3]:
+    - text: 
+    - generic [ref=f535e4]:
+      - generic [ref=f535e5]:
+        - generic: ✕
+        - navigation [ref=f535e7]:
+          - generic [ref=f535e8]:
+            - link [ref=f535e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f535e11]
+            - button "Enter Reader Mode" [ref=f535e13] [cursor=pointer]:
+              - generic [ref=f535e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f535e16]:
+        - list [ref=f535e18]:
+          - listitem [ref=f535e19]:
+            - link [ref=f535e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f535e22]
+          - listitem [ref=f535e23]:
+            - text: 
+            - generic [ref=f535e25]:
+              - generic [ref=f535e26]: "Search :"
+              - searchbox "Search :" [ref=f535e27]
+              - button " Search" [ref=f535e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f535e29]:
+            - list [ref=f535e30]:
+              - listitem [ref=f535e31]:
+                - link "Edit" [ref=f535e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.05%3A_The_Structure_of_the_Universe?action=edit
+              - text: 
+              - listitem [ref=f535e33]:
+                - link " Options" [ref=f535e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f535e35]:
+                - link " Rachel Mastrapa" [ref=f535e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f535e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f535e38] [cursor=pointer]
+          - list [ref=f535e39]:
+            - listitem [ref=f535e40]:
+              - link " Home" [ref=f535e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f535e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f535e43]:
+              - link " Workbench" [ref=f535e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f535e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f535e46]:
+              - link " De Anza - ASTR10" [ref=f535e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f535e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f535e49]:
+              - 'link " 17: Evolution of Galaxies" [ref=f535e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies
+                - generic [ref=f535e51]: 
+                - text: "17: Evolution of Galaxies"
+              - text: »
+            - listitem [ref=f535e52]:
+              - generic [ref=f535e53]: 
+              - text: "17.5: The Structure of the Universe"
+          - button " Expand/collapse global location" [ref=f535e54] [cursor=pointer]
+      - navigation
+    - article [ref=f535e55]:
+      - generic [ref=f535e56]:
+        - generic [ref=f535e57]:
+          - button " Page settings" [ref=f535e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :   "
+        - 'heading "17.5: The Structure of the Universe" [level=1] [ref=f535e59]':
+          - generic [ref=f535e60]: "17.5: The Structure of the Universe "
+        - list [ref=f535e62]:
+          - listitem [ref=f535e63]:
+            - link [ref=f535e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f535e66]:
+                - img "CC" [ref=f535e67]
+                - img "BY" [ref=f535e68]
+          - listitem [ref=f535e69]:
+            - generic [ref=f535e70]:
+              - term [ref=f535e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f535e72]: Aug 19, 2026, 12:06 PM by Rachel Mastrapa
+          - listitem [ref=f535e73]:
+            - generic [ref=f535e74]:
+              - term [ref=f535e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f535e76]: Private
+          - listitem [ref=f535e77]:
+            - generic [ref=f535e78]:
+              - term [ref=f535e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f535e80]: "140272"
+          - listitem [ref=f535e81]:
+            - list [ref=f535e82]:
+              - listitem [ref=f535e83]:
+                - button "Pin Page" [ref=f535e84] [cursor=pointer]: 
+              - listitem
+              - text: 
+              - listitem [ref=f535e85]:
+                - list [ref=f535e86]:
+                  - listitem [ref=f535e87]:
+                    - 'link " 17.4: The Challenge of Dark Matter" [ref=f535e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.04%3A_The_Challenge_of_Dark_Matter
+                      - text: 
+                      - generic [ref=f535e89]: "17.4: The Challenge of Dark Matter"
+                  - listitem [ref=f535e90]:
+                    - 'link "17.6: Art and Astronomy " [ref=f535e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.06%3A_Art_and_Astronomy
+                      - generic [ref=f535e92]: "17.6: Art and Astronomy"
+                      - text: 
+              - listitem
+      - list [ref=f535e95]:
+        - listitem [ref=f535e96]:
+          - img "OpenStax" [ref=f535e97]
+        - listitem [ref=f535e98]:
+          - link "OpenStax" [ref=f535e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f535e100]:
+          - link "OpenStax" [ref=f535e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - complementary
+      - text: 
+      - generic [ref=f535e102]:
+        - paragraph [ref=f535e103]
+        - generic [ref=f535e104]:
+          - separator [ref=f535e105]
+          - paragraph [ref=f535e107]:
+            - text: This page titled
+            - 'link "17.5: The Structure of the Universe" [ref=f535e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.05%3A_The_Structure_of_the_Universe
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f535e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f535e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: .
+      - generic [ref=f535e111]:
+        - list [ref=f535e112]:
+          - listitem [ref=f535e113]:
+            - link "Back to top" [ref=f535e114] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f535e115]:
+            - list [ref=f535e116]:
+              - listitem [ref=f535e117]:
+                - 'link " 17.4: The Challenge of Dark Matter" [ref=f535e118] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.04%3A_The_Challenge_of_Dark_Matter
+                  - text: 
+                  - generic [ref=f535e119]: "17.4: The Challenge of Dark Matter"
+              - listitem [ref=f535e120]:
+                - 'link "17.6: Art and Astronomy " [ref=f535e121] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.06%3A_Art_and_Astronomy
+                  - generic [ref=f535e122]: "17.6: Art and Astronomy"
+                  - text: 
+        - list [ref=f535e125]:
+          - listitem [ref=f535e126]: Was this article helpful?
+          - listitem [ref=f535e127]:
+            - button "Yes" [ref=f535e128] [cursor=pointer]
+          - listitem [ref=f535e129]:
+            - button "No" [ref=f535e130] [cursor=pointer]
+          - listitem [ref=f535e131]:
+            - button "Leave feedback" [ref=f535e132] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : :"
+        - generic [ref=f535e133]:
+          - heading "Attachments" [level=2] [ref=f535e134]
+          - generic:
+            - button "Attach a file" [ref=f535e135] [cursor=pointer]
+            - text: 
+          - generic [ref=f535e137]:
+            - generic [ref=f535e140]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f535e141]
+            - generic [ref=f535e142]:
+              - grid [ref=f535e145]:
+                - rowgroup [ref=f535e146]:
+                  - row [ref=f535e147]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f535e148]':
+                      - generic:
+                        - generic [ref=f535e149]: File
+                        - generic [ref=f535e150]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f535e151]':
+                      - generic:
+                        - generic [ref=f535e152]: Last modified
+                        - generic [ref=f535e153]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f535e154]':
+                      - generic:
+                        - generic [ref=f535e155]: Size
+                        - generic [ref=f535e156]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f535e157]':
+                      - generic:
+                        - generic [ref=f535e158]: Added by
+                        - generic [ref=f535e159]: 
+              - grid [ref=f535e161]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f535e162]: File
+                          - generic [ref=f535e163]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f535e164]: Last modified
+                          - generic [ref=f535e165]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f535e166]: Size
+                          - generic [ref=f535e167]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f535e168]: Added by
+                          - generic [ref=f535e169]: 
+                - rowgroup [ref=f535e170]:
+                  - row [ref=f535e171]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f535e172]:
+                      - generic [ref=f535e173]:
+                        - generic [ref=f535e174]:
+                          - generic [ref=f535e175]: 
+                          - link "mindtouch.page#thumbnail" [ref=f535e176] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/65437/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f535e177]:
+                          - generic [ref=f535e178]: (no description)
+                          - text: 
+                    - gridcell "Dec 25, 2025, 2:40 PM" [ref=f535e179]
+                    - gridcell "11 KiB" [ref=f535e181]
+                    - gridcell "Rachel Mastrapa" [ref=f535e182]
+    - generic [ref=f535e184]:
+      - button "Open support menu" [ref=f535e186] [cursor=pointer]: "?"
+      - navigation [ref=f535e188]:
+        - paragraph [ref=f535e190]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f535e191] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f535e192] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f535e193] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f535e194] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f535e195] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f535e196]:
+      - generic:
+        - generic [ref=f535e198]:
+          - button "Annotation sidebar" [ref=f535e199]
+          - generic [ref=f535e204]:
+            - button "Show highlights" [ref=f535e205]
+            - button "New page note" [ref=f535e210]
+          - status [ref=f535e215]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f535e216]:
+    - button "contents" [ref=f535e217] [cursor=pointer]
+    - button "readability" [ref=f535e219] [cursor=pointer]
+    - button "resources" [ref=f535e221] [cursor=pointer]
+    - button "tools" [ref=f535e223] [cursor=pointer]
+    - button "developers" [ref=f535e225] [cursor=pointer]

@@ -1,0 +1,510 @@
+- generic [ref=f394e1]:
+  - link "Skip to main content" [ref=f394e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f394e3]:
+    - text: 
+    - generic [ref=f394e4]:
+      - generic [ref=f394e5]:
+        - generic: ✕
+        - navigation [ref=f394e7]:
+          - generic [ref=f394e8]:
+            - link [ref=f394e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f394e11]
+            - button "Enter Reader Mode" [ref=f394e13] [cursor=pointer]:
+              - generic [ref=f394e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f394e16]:
+        - list [ref=f394e18]:
+          - listitem [ref=f394e19]:
+            - link [ref=f394e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f394e22]
+          - listitem [ref=f394e23]:
+            - text: 
+            - generic [ref=f394e25]:
+              - generic [ref=f394e26]: "Search :"
+              - searchbox "Search :" [ref=f394e27]
+              - button " Search" [ref=f394e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f394e29]:
+            - list [ref=f394e30]:
+              - listitem [ref=f394e31]:
+                - link "Edit" [ref=f394e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.01%3A_The_Death_of_Low-Mass_Stars?action=edit
+              - text: 
+              - listitem [ref=f394e33]:
+                - link " Options" [ref=f394e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f394e35]:
+                - link " Rachel Mastrapa" [ref=f394e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f394e37]:
+        - generic:
+          - button " Contents" [ref=f394e218] [cursor=pointer]
+          - list [ref=f394e39]:
+            - listitem [ref=f394e40]:
+              - link " Home" [ref=f394e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f394e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f394e43]:
+              - link " Workbench" [ref=f394e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f394e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f394e46]:
+              - link " De Anza - ASTR10" [ref=f394e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f394e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f394e49]:
+              - 'link " 13: Stellar Finale" [ref=f394e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale
+                - generic [ref=f394e51]: 
+                - text: "13: Stellar Finale"
+              - text: »
+            - listitem [ref=f394e52]:
+              - generic [ref=f394e53]: 
+              - text: "13.1: The Death of Low-Mass Stars"
+          - button " Expand/collapse global location" [ref=f394e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                
+    - article [ref=f394e55]:
+      - generic [ref=f394e56]:
+        - generic [ref=f394e57]:
+          - button " Page settings" [ref=f394e58] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :         "
+        - 'heading "13.1: The Death of Low-Mass Stars" [level=1] [ref=f394e59]':
+          - generic [ref=f394e219]: "13.1: The Death of Low-Mass Stars "
+        - list [ref=f394e62]:
+          - listitem [ref=f394e63]:
+            - link [ref=f394e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f394e66]:
+                - img "CC" [ref=f394e67]
+                - img "BY" [ref=f394e68]
+          - listitem [ref=f394e69]:
+            - generic [ref=f394e70]:
+              - term [ref=f394e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f394e72]: Aug 4, 2026, 2:50 PM by Rachel Mastrapa
+          - listitem [ref=f394e73]:
+            - generic [ref=f394e74]:
+              - term [ref=f394e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f394e76]: Private
+          - listitem [ref=f394e77]:
+            - generic [ref=f394e78]:
+              - term [ref=f394e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f394e80]: "133521"
+          - listitem [ref=f394e81]:
+            - list [ref=f394e82]:
+              - listitem [ref=f394e83]:
+                - button "Pin Page" [ref=f394e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f394e85]:
+                - list [ref=f394e86]:
+                  - listitem [ref=f394e87]:
+                    - 'link " 13: Stellar Finale" [ref=f394e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale
+                      - text: 
+                      - generic [ref=f394e89]: "13: Stellar Finale"
+                  - listitem [ref=f394e90]:
+                    - 'link "13.2: Evolution of Massive Stars " [ref=f394e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.02%3A_Evolution_of_Massive_Stars
+                      - generic [ref=f394e92]: "13.2: Evolution of Massive Stars"
+                      - text: 
+              - text:  
+      - list [ref=f394e95]:
+        - listitem [ref=f394e96]:
+          - img "OpenStax" [ref=f394e97]
+        - listitem [ref=f394e98]:
+          - link "OpenStax" [ref=f394e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f394e100]:
+          - link "OpenStax" [ref=f394e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f394e102]:
+        - group [ref=f394e223]:
+          - generic [ref=f394e224]:
+            - generic [ref=f394e225]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f394e226]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f394e227]:
+            - generic [ref=f394e230]:
+              - generic [ref=f394e231]:
+                - generic [ref=f394e232]:
+                  - link "Edit" [ref=f394e233]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f394e234]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f394e235]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f394e236]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f394e237]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f394e238]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f394e239]: "Words: 1794, Chars: 10463"
+              - group "Editor toolbars" [ref=f394e241]:
+                - toolbar [ref=f394e242]:
+                  - button "Save" [ref=f394e243]:
+                    - generic [ref=f394e244]: 
+                  - button "Cancel" [ref=f394e246]:
+                    - generic [ref=f394e247]: 
+                - toolbar [ref=f394e250]:
+                  - button "Undo" [disabled] [ref=f394e251]:
+                    - generic [ref=f394e252]: 
+                  - button "Redo" [disabled] [ref=f394e253]:
+                    - generic [ref=f394e254]: 
+                - toolbar [ref=f394e256]:
+                  - button "Headings" [ref=f394e257]
+                - toolbar [ref=f394e262]:
+                  - button "Bold" [ref=f394e263]:
+                    - generic [ref=f394e264]: 
+                  - button "Italic" [ref=f394e265]:
+                    - generic [ref=f394e266]: 
+                  - button "Underline" [ref=f394e267]:
+                    - generic [ref=f394e268]: 
+                - toolbar [ref=f394e270]:
+                  - button "Text color" [ref=f394e271]:
+                    - generic [ref=f394e272]: 
+                  - button "Background color" [ref=f394e274]:
+                    - generic [ref=f394e275]: 
+                - toolbar [ref=f394e278]:
+                  - button "Remove format" [ref=f394e279]:
+                    - generic [ref=f394e280]: 
+                - toolbar [ref=f394e282]:
+                  - button "Insert/Remove numbered list" [ref=f394e283]:
+                    - generic [ref=f394e284]: 
+                  - button "Insert/Remove bulleted list" [ref=f394e285]:
+                    - generic [ref=f394e286]: 
+                - toolbar [ref=f394e288]:
+                  - button "Alignment" [ref=f394e289]:
+                    - generic [ref=f394e290]: 
+                - text: 
+                - toolbar [ref=f394e293]:
+                  - button "Link" [ref=f394e294]:
+                    - generic [ref=f394e295]: 
+                  - button "Image" [ref=f394e296]:
+                    - generic [ref=f394e297]: 
+                  - text: 
+                  - button "Boxes" [ref=f394e298]
+                - toolbar [ref=f394e303]:
+                  - button "Replace" [ref=f394e304]:
+                    - generic [ref=f394e305]: 
+                - toolbar [ref=f394e307]:
+                  - button "Enable Binder" [ref=f394e308]
+                  - button "Insert Adapt" [ref=f394e310]
+                  - button "Query" [ref=f394e312]
+                  - button "Accessibility Checker" [ref=f394e315]
+                - toolbar [ref=f394e318]:
+                  - button "HTML" [ref=f394e319]:
+                    - generic [ref=f394e320]: 
+            - application "Rich Text Editor, editarea" [ref=f394e322]:
+              - iframe [active] [ref=f394e323]:
+                - generic [active] [ref=f396e1]:
+                  - heading "The Death of a Star" [level=2] [ref=f396e2]
+                  - paragraph [ref=f396e3]:
+                    - text: Let’s begin with those stars whose final mass just before death is less than about 1.4 times the mass of the Sun, or
+                    - generic [ref=f396e4]:
+                      - text: M
+                      - subscript [ref=f396e5]: Sun
+                    - text: . Note that most stars in the universe fall into this category. The number of stars decreases as mass increases, so very massive stars are rare. Furthermore, many stars with an initial mass much greater than 1.4
+                    - generic [ref=f396e6]:
+                      - text: M
+                      - subscript [ref=f396e7]: Sun
+                    - text: will lose enough mass to be close to 1.4
+                    - generic [ref=f396e8]:
+                      - text: M
+                      - subscript [ref=f396e9]: Sun
+                    - text: by the time they die. For example, we now know that stars that start out with masses of at least 8.0
+                    - generic [ref=f396e10]:
+                      - text: M
+                      - subscript [ref=f396e11]: Sun
+                    - text: manage to lose enough mass during their lives to fit into this category.
+                  - heading "No Fuel for Fusion" [level=3] [ref=f396e12]
+                  - paragraph [ref=f396e13]: In the last chapter, we left the life story of a star with a mass like the Sun’s just after it had climbed up to the red-giant region of the H–R diagram for a second time and had shed some of its outer layers to form a planetary nebula. Recall that during this time, the core of the star was had run out of available fuel. Earlier in its life, during a brief stable period, helium in the core had gotten hot enough to fuse into carbon and oxygen. But after this helium was exhausted, the star’s core could no longer produce energy and pressure to prevent gravity from causing it to contract.
+                  - paragraph [ref=f396e14]:
+                    - text: This collapse is the final event in the life of the core. Because the star’s mass is relatively low, it cannot push its core temperature high enough to begin another round of fusion. The core continues to shrink until it reaches a density equal to nearly a million times the density of water. That is 200,000 times greater than the average density of Earth. At this extreme density, a new and different way for matter to behave kicks in and helps the star achieve a final state of equilibrium. In the process, what remains of the star becomes a
+                    - strong [ref=f396e15]:
+                      - link "white dwarf" [ref=f396e16]:
+                        - /url: /Workbench/De_Anza_-_ASTR10/13:_Stellar_Finale/13.07:_Key_Terms#white+dwarf
+                    - text: .
+                  - heading "Degenerate Stars" [level=3] [ref=f396e17]
+                  - paragraph [ref=f396e18]: Because white dwarfs are far denser than any substance on Earth, the matter inside them behaves in a very unusual way. At this high density, gravity is incredibly strong and tries to shrink the star. In the core, where all atoms are so hot that they have lost all of their electrons, the electrons resist being pushed closer together. This pressure is the result of the quantum physics rules that govern the behavior of electrons. According to the Pauli exclusion principle, no two electrons can be in the same place at the same time doing the same thing. The energy level of an electron is defined by its position in space, its motion and, the way it is spinning. For most of a star's life, the electrons are able to exist in a wide range of energy levels. This means that no two of them will be in the same place moving in exactly the same way at the same time. But this all changes when a star exhausts its store of nuclear energy and begins its final collapse.
+                  - paragraph [ref=f396e19]:
+                    - text: "As the star's core contracts, electrons are squeezed closer and closer together. At higher pressure, the electrons are forced to move to higher and higher energy levels, limiting their possible range of energy levels. Eventually, the available energy levels are so limited that electrons end up occupying the same energy level: they are in the same place, doing the same thing, at the same time. Physicists call this state of restricted energy levels as degenerate, because there are fewer options for electron energy levels. The electrons in a"
+                    - strong [ref=f396e20]:
+                      - link "degenerate gas" [ref=f396e21]:
+                        - /url: /Workbench/De_Anza_-_ASTR10/13:_Stellar_Finale/13.07:_Key_Terms#degenerate+gas
+                    - text: resist further crowding with tremendous pressure. The degenerate electrons do not require an input of heat to maintain the pressure they exert, and so a star with this kind of structure is stable. The electrons in a degenerate gas can move, but their movements are restricted. A particular electron cannot change position or momentum until another nearby electron moves out of the way.
+                  - heading "White Dwarfs" [level=3] [ref=f396e22]
+                  - paragraph [ref=f396e23]: "White dwarfs are stable, compact objects with electron-degenerate cores that cannot contract any further. They have been observed by astronomers and appear on the H-R diagram. The globular cluster M4 was the target of a Hubble Space Telescope search for white dwarf stars. The nearest globular cluster to Earth at 6,000 light-years away, M4 contains more than 100,000 stars. It roughly 12 billion years old, so it should have many stars near the end of their life. In Figure \\(\\PageIndex{1}\\), the image on the left, collected by a ground-based telescope is 47 light-years across and contains many red giants. The image on the right is the small area that the Hubble telescope examined, with circles around 7 white dwarfs."
+                  - figure [ref=f396e24]:
+                    - img "Hubble Space Telescope images of M4 with white dwarfs." [ref=f396e25]
+                    - generic [ref=f396e26]:
+                      - text: "Figure \\(\\PageIndex{1}\\) : White Dwarfs in M4. Globular clusters, like M4, contain older stars such as red giants and white dwarfs. ("
+                      - link "Public Domain" [ref=f396e27]:
+                        - /url: https://en.wikipedia.org/wiki/Public_domain
+                      - text: ;
+                      - 'link "Kitt Peak National Observatory 0.9-meter telescope, National Optical Astronomy Observatories; courtesy M. Bolte (University of California, Santa Cruz); Right: Harvey Richer (University of British Columbia, Vancouver, Canada) and NASA" [ref=f396e28]':
+                        - /url: https://kpno.noirlab.edu/
+                      - text: via
+                      - link "Wikimedia Commons" [ref=f396e29]:
+                        - /url: https://commons.wikimedia.org/wiki/File:Hubble_Identifies_White_Dwarf_Population_in_Globular_Cluster_M4_(1995-32-325).jpg
+                      - text: )
+                      - 'link "Alternative description of Figure \\(\\PageIndex{1}\\)" [ref=f396e30]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/13:_Stellar_Finale/13.08:_Accessible_Descriptions#Figure_13.1.1_White_Dwarfs_in_M4
+                      - text: .
+                  - paragraph [ref=f396e31]:
+                    - text: Calculations showing that white dwarfs are the likely end state of low-mass stars were first carried out by the Indian-American astrophysicist
+                    - link "Subrahmanyan Chandrasekhar" [ref=f396e32]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/18:_Appendices/18.01:_Alphabetical_List_of_Scientists/18.1.06:_Chandrasekhar_Subrahmanyan
+                    - text: ". Chandrasekhar's calculations predicted that the radius of a white dwarf shrinks as the mass in the star increases. A higher mass white dwarf is able to compress its electrons more than a lower mass one, resulting in a smaller radius. In Figure \\(\\PageIndex{2}\\), a white dwarf with a mass of about 1.4"
+                    - generic [ref=f396e33]:
+                      - text: M
+                      - subscript [ref=f396e34]: Sun
+                    - text: or larger would have a radius of zero. The calculations are telling us that the force of degenerate electrons is not strong enough to prevent the collapse of a white dwarf with a mass > 1.4
+                    - generic [ref=f396e35]:
+                      - text: M
+                      - subscript [ref=f396e36]: Sun
+                    - text: . The Chandrasekhar limit is the maximum mass that a star can end its life with and still become a white dwarf. We will explore what happens to stars with end-of-life masses that exceed this limit in the next section,
+                    - link "Evolution of Massive Stars" [ref=f396e37]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/13:_Stellar_Finale/13.02:_Evolution_of_Massive_Stars
+                    - text: .
+                  - figure [ref=f396e38]:
+                    - img "Radius vs. mass of white dwarfs. Details in caption." [ref=f396e39]
+                    - generic [ref=f396e40]:
+                      - text: "Figure \\(\\PageIndex{2}\\) : White Dwarfs Radius vs. Mass. Models of white-dwarf structure predict that higher mass white dwarfs have a smaller radius than a lower mass white dwarf.("
+                      - link "CC BY" [ref=f396e41]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f396e42]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f396e43]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: )
+                      - 'link "Alternative description of Figure \\(\\PageIndex{2}\\)" [ref=f396e44]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/13:_Stellar_Finale/13.08:_Accessible_Descriptions#Figure_13.1.2_White_Dwarf_Radius_vs._Mass
+                      - text: .
+                  - heading "White Dwarf Structure" [level=3] [ref=f396e45]
+                  - paragraph [ref=f396e46]: "If the birth of a main-sequence star is defined by the onset of fusion reactions, then the end of all fusion reactions is the time of a star’s death. As the core is stabilized by degeneracy pressure, the fusion reactions occur in the outside of the star, consuming the little hydrogen still remaining. Now the star is a true white dwarf since nuclear fusion in its interior has ceased. Figure \\(\\PageIndex{3}\\) includes the evolutionary path of a star like the Sun on the H–R diagram during its final stages. At point A, the star becomes a giant again. After that, it will lose mass as its core begins to collapse. Theoretical models predict that Sun will lose between 46–50% of its mass during the giant stages. The mass loss will expose the hot inner core, which will appear at the center of a planetary nebula. In this stage, the star moves across the diagram to the left as it becomes hotter and hotter during its collapse, reaching point B. At first, the luminosity remains nearly constant, but as the star begins to cool off, the luminosity decreases to point C. It is now a white dwarf and will continue to cool slowly for billions of years until all of its remaining store of energy is radiated away."
+                  - figure [ref=f396e47]:
+                    - img "HR diagram of the dying Sun. Details in text." [ref=f396e48]
+                    - generic [ref=f396e49]:
+                      - text: "Figure \\(\\PageIndex{3}\\) : Evolutionary Track for the Sun. After the Sun' giant stage, its temperature will increase then its luminosity will decrease until it joins the white dwarfs in the bottom left hand corner of the H-R diagram. ("
+                      - link "CC BY" [ref=f396e50]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f396e51]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f396e52]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: )
+                      - 'link "Alternative description of Figure \\(\\PageIndex{3}\\)" [ref=f396e53]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/13:_Stellar_Finale/13.08:_Accessible_Descriptions#Figure_13.1.3_Evolutionary_Track_for_the_Sun
+                      - text: .
+                  - paragraph [ref=f396e54]: Since a stable white dwarf can no longer contract or produce energy through fusion, its only energy source is the heat represented by the motions of the atomic nuclei in its interior. The light it emits comes from this internal stored heat. Gradually, however, the white dwarf radiates away all its heat into space. After many billions of years, the nuclei will be moving much more slowly, and the white dwarf will no longer shine. It will then be a black dwarf, a cold stellar corpse with the mass of a star and the size of a planet. It will be composed mostly of carbon, oxygen, and neon, the products of the most advanced fusion reactions of which the star was capable. We have one final surprise as we leave our low-mass star in the stellar graveyard. Calculations show that as a degenerate star cools, the atoms inside it solidify into a giant, highly compact lattice, like in a crystal. When carbon is compressed and crystallized in this way, it becomes a giant diamond-like star.
+                  - heading "Stellar Mass Loss" [level=3] [ref=f396e55]
+                  - paragraph [ref=f396e56]: Whether or not a star will become a white dwarf depends on how much mass is lost in the red-giant and earlier phases of evolution. All stars that have masses below the Chandrasekhar limit when they run out of fuel will become white dwarfs, no matter what mass they were born with. But which stars shed enough mass to reach this limit?
+                  - paragraph [ref=f396e57]:
+                    - text: One strategy for answering this question is to look in young, open clusters. The idea is to search for young clusters that contain one or more white dwarf stars. Remember that more massive stars go through all stages of their evolution more rapidly than less massive ones. Suppose we find a cluster that has a white dwarf member and also contains stars on the main sequence that have 6 times the mass of the Sun. This means that only those stars with masses greater than 6
+                    - generic [ref=f396e58]:
+                      - text: M
+                      - subscript [ref=f396e59]: Sun
+                    - text: have had time to exhaust their supply of nuclear energy and complete their evolution to the white dwarf stage. The star that turned into the white dwarf must therefore have had a main-sequence mass of more than 6
+                    - generic [ref=f396e60]:
+                      - text: M
+                      - subscript [ref=f396e61]: Sun
+                    - text: ", since stars with lower masses have not yet had time to use up their stores of nuclear energy. The star that became the white dwarf must, therefore, have gotten rid of at least 4.6"
+                    - generic [ref=f396e62]:
+                      - text: M
+                      - subscript [ref=f396e63]: Sun
+                    - text: so that its mass at the time nuclear energy generation ceased could be less than 1.4
+                    - generic [ref=f396e64]:
+                      - text: M
+                      - subscript [ref=f396e65]: Sun
+                    - text: . Astronomers continue to search for suitable clusters to make this test, and the evidence so far suggests that stars with masses up to about 8
+                    - generic [ref=f396e66]:
+                      - text: M
+                      - subscript [ref=f396e67]: Sun
+                    - text: can shed enough mass to end their lives as white dwarfs.
+                  - heading "Attributions" [level=2] [ref=f396e68]
+                  - paragraph [ref=f396e69]:
+                    - text: This page was adapted from "
+                    - link "White Dwarf" [ref=f396e70]:
+                      - /url: /Bookshelves/Astronomy__Cosmology/Introduction_to_Astronomy_(Lumen)/12:_Stellar_Evolution/12.06:_White_Dwarf
+                    - text: "\" in"
+                    - link "Introduction to Astronomy (Lumen)" [ref=f396e71]:
+                      - /url: https://courses.lumenlearning.com/atd-fscj-introastronomy/
+                    - text: originally written by
+                    - link "Lumen Learning" [ref=f396e72]:
+                      - /url: https://lumenlearning.com/
+                    - text: ", and published under"
+                    - link "CC BY 4.0" [ref=f396e73]:
+                      - /url: https://creativecommons.org/licenses/by/4.0/
+                    - text: .
+                  - heading "Further Exploration" [level=2] [ref=f396e74]
+                  - generic [ref=f396e75]:
+                    - 'heading "Further Exploration: Diamond Star" [level=5] [ref=f396e76]'
+                    - paragraph [ref=f396e78]:
+                      - text: Read about a
+                      - link "discovery of a cold, dim white dwarf" [ref=f396e79]:
+                        - /url: https://public.nrao.edu/news/cold-white-dwarf/
+                      - text: in 2014 by the National Radio Astronomy Observatory.
+              - generic [ref=f394e324]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f394e326] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f394e104]:
+          - separator [ref=f394e105]
+          - paragraph [ref=f394e107]:
+            - text: This page titled
+            - 'link "13.1: The Death of Low-Mass Stars" [ref=f394e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.01%3A_The_Death_of_Low-Mass_Stars
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f394e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f394e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f394e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f394e112]:
+        - list [ref=f394e113]:
+          - listitem [ref=f394e114]:
+            - link "Back to top" [ref=f394e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f394e116]:
+            - list [ref=f394e117]:
+              - listitem [ref=f394e118]:
+                - 'link " 13: Stellar Finale" [ref=f394e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale
+                  - text: 
+                  - generic [ref=f394e120]: "13: Stellar Finale"
+              - listitem [ref=f394e121]:
+                - 'link "13.2: Evolution of Massive Stars " [ref=f394e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.02%3A_Evolution_of_Massive_Stars
+                  - generic [ref=f394e123]: "13.2: Evolution of Massive Stars"
+                  - text: 
+        - list [ref=f394e126]:
+          - listitem [ref=f394e127]: Was this article helpful?
+          - listitem [ref=f394e128]:
+            - button "Yes" [ref=f394e129] [cursor=pointer]
+          - listitem [ref=f394e130]:
+            - button "No" [ref=f394e131] [cursor=pointer]
+          - listitem [ref=f394e132]:
+            - button "Leave feedback" [ref=f394e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , , , , ,"
+        - generic [ref=f394e134]:
+          - heading "Attachments" [level=2] [ref=f394e135]
+          - generic:
+            - button "Attach a file" [ref=f394e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f394e138]:
+            - generic [ref=f394e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f394e142]
+            - generic [ref=f394e143]:
+              - grid [ref=f394e146]:
+                - rowgroup [ref=f394e147]:
+                  - row [ref=f394e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f394e149]':
+                      - generic:
+                        - generic [ref=f394e150]: File
+                        - generic [ref=f394e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f394e152]':
+                      - generic:
+                        - generic [ref=f394e153]: Last modified
+                        - generic [ref=f394e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f394e155]':
+                      - generic:
+                        - generic [ref=f394e156]: Size
+                        - generic [ref=f394e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f394e158]':
+                      - generic:
+                        - generic [ref=f394e159]: Added by
+                        - generic [ref=f394e160]: 
+              - grid [ref=f394e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f394e163]: File
+                          - generic [ref=f394e164]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f394e165]: Last modified
+                          - generic [ref=f394e166]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f394e167]: Size
+                          - generic [ref=f394e168]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f394e169]: Added by
+                          - generic [ref=f394e170]: 
+                - rowgroup [ref=f394e171]:
+                  - row [ref=f394e172]:
+                    - gridcell "No files attached." [ref=f394e173]
+    - generic [ref=f394e175]:
+      - button "Open support menu" [ref=f394e177] [cursor=pointer]: "?"
+      - navigation [ref=f394e179]:
+        - paragraph [ref=f394e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f394e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f394e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f394e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f394e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f394e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f394e187]:
+      - generic:
+        - generic [ref=f394e189]:
+          - button "Annotation sidebar" [ref=f394e190]
+          - generic [ref=f394e195]:
+            - button "Show highlights" [ref=f394e196]
+            - button "New page note" [ref=f394e201]
+          - status [ref=f394e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f394e207]:
+    - button "contents" [ref=f394e208] [cursor=pointer]
+    - button "readability" [ref=f394e210] [cursor=pointer]
+    - button "resources" [ref=f394e212] [cursor=pointer]
+    - button "tools" [ref=f394e214] [cursor=pointer]
+    - button "developers" [ref=f394e216] [cursor=pointer]
+  - text:  
+  - generic [ref=f394e327]:
+    - generic [ref=f394e328] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f394e331] [cursor=pointer]

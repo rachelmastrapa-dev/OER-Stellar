@@ -1,0 +1,255 @@
+- generic [active] [ref=f151e1]:
+  - link "Skip to main content" [ref=f151e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f151e3]:
+    - text: 
+    - generic [ref=f151e4]:
+      - generic [ref=f151e5]:
+        - generic: ✕
+        - navigation [ref=f151e7]:
+          - generic [ref=f151e8]:
+            - link [ref=f151e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f151e11]
+            - button "Enter Reader Mode" [ref=f151e13] [cursor=pointer]:
+              - generic [ref=f151e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f151e16]:
+        - list [ref=f151e18]:
+          - listitem [ref=f151e19]:
+            - link [ref=f151e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f151e22]
+          - listitem [ref=f151e23]:
+            - text: 
+            - generic [ref=f151e25]:
+              - generic [ref=f151e26]: "Search :"
+              - searchbox "Search :" [ref=f151e27]
+              - button " Search" [ref=f151e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f151e29]:
+            - list [ref=f151e30]:
+              - listitem [ref=f151e31]:
+                - link "Edit" [ref=f151e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.04%3A_Radio_Telescopes?action=edit
+              - text: 
+              - listitem [ref=f151e33]:
+                - link " Options" [ref=f151e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f151e35]:
+                - link " Rachel Mastrapa" [ref=f151e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f151e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f151e38] [cursor=pointer]
+          - list [ref=f151e39]:
+            - listitem [ref=f151e40]:
+              - link " Home" [ref=f151e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f151e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f151e43]:
+              - link " Workbench" [ref=f151e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f151e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f151e46]:
+              - link " De Anza - ASTR10" [ref=f151e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f151e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f151e49]:
+              - 'link " 5: Astronomical Instruments" [ref=f151e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments
+                - generic [ref=f151e51]: 
+                - text: "5: Astronomical Instruments"
+              - text: »
+            - listitem [ref=f151e52]:
+              - generic [ref=f151e53]: 
+              - text: "5.4: Radio Telescopes"
+          - button " Expand/collapse global location" [ref=f151e54] [cursor=pointer]
+      - navigation
+    - article [ref=f151e55]:
+      - generic [ref=f151e56]:
+        - generic [ref=f151e57]:
+          - button " Page settings" [ref=f151e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "5.4: Radio Telescopes" [level=1] [ref=f151e59]'
+        - list [ref=f151e62]:
+          - listitem [ref=f151e63]:
+            - link [ref=f151e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f151e66]:
+                - img "CC" [ref=f151e67]
+                - img "BY" [ref=f151e68]
+          - listitem [ref=f151e69]:
+            - generic [ref=f151e70]:
+              - term [ref=f151e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f151e72]: Aug 4, 2026, 3:13 PM by Jyothsna Viswanadha
+          - listitem [ref=f151e73]:
+            - generic [ref=f151e74]:
+              - term [ref=f151e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f151e76]: Private
+          - listitem [ref=f151e77]:
+            - generic [ref=f151e78]:
+              - term [ref=f151e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f151e80]: "132010"
+          - listitem [ref=f151e81]:
+            - list [ref=f151e82]:
+              - listitem [ref=f151e83]:
+                - button "Pin Page" [ref=f151e84] [cursor=pointer]: 
+              - listitem
+              - text: 
+              - listitem [ref=f151e85]:
+                - list [ref=f151e86]:
+                  - listitem [ref=f151e87]:
+                    - 'link " 5.3: Capturing Light" [ref=f151e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.03%3A_Capturing_Light
+                      - text: 
+                      - generic [ref=f151e89]: "5.3: Capturing Light"
+                  - listitem [ref=f151e90]:
+                    - 'link "5.5: Spacecraft " [ref=f151e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.05%3A_Spacecraft
+                      - generic [ref=f151e92]: "5.5: Spacecraft"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f151e93]:
+        - paragraph [ref=f151e94]
+        - generic [ref=f151e95]:
+          - separator [ref=f151e96]
+          - paragraph [ref=f151e98]:
+            - 'link "5.4: Radio Telescopes" [ref=f151e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.04%3A_Radio_Telescopes
+            - text: is shared under a
+            - link "CC BY" [ref=f151e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f151e101]:
+        - list [ref=f151e102]:
+          - listitem [ref=f151e103]:
+            - link "Back to top" [ref=f151e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f151e105]:
+            - list [ref=f151e106]:
+              - listitem [ref=f151e107]:
+                - 'link " 5.3: Capturing Light" [ref=f151e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.03%3A_Capturing_Light
+                  - text: 
+                  - generic [ref=f151e109]: "5.3: Capturing Light"
+              - listitem [ref=f151e110]:
+                - 'link "5.5: Spacecraft " [ref=f151e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.05%3A_Spacecraft
+                  - generic [ref=f151e112]: "5.5: Spacecraft"
+                  - text: 
+        - list [ref=f151e115]:
+          - listitem [ref=f151e116]: Was this article helpful?
+          - listitem [ref=f151e117]:
+            - button "Yes" [ref=f151e118] [cursor=pointer]
+          - listitem [ref=f151e119]:
+            - button "No" [ref=f151e120] [cursor=pointer]
+          - listitem [ref=f151e121]:
+            - button "Leave feedback" [ref=f151e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f151e123]:
+          - heading "Attachments" [level=2] [ref=f151e124]
+          - generic:
+            - button "Attach a file" [ref=f151e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f151e127]:
+            - generic [ref=f151e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f151e131]
+            - generic [ref=f151e132]:
+              - grid [ref=f151e135]:
+                - rowgroup [ref=f151e136]:
+                  - row [ref=f151e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f151e138]':
+                      - generic:
+                        - generic [ref=f151e139]: File
+                        - generic [ref=f151e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f151e141]':
+                      - generic:
+                        - generic [ref=f151e142]: Last modified
+                        - generic [ref=f151e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f151e144]':
+                      - generic:
+                        - generic [ref=f151e145]: Size
+                        - generic [ref=f151e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f151e147]':
+                      - generic:
+                        - generic [ref=f151e148]: Added by
+                        - generic [ref=f151e149]: 
+              - grid [ref=f151e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f151e152]: File
+                          - generic [ref=f151e153]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f151e154]: Last modified
+                          - generic [ref=f151e155]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f151e156]: Size
+                          - generic [ref=f151e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f151e158]: Added by
+                          - generic [ref=f151e159]: 
+                - rowgroup [ref=f151e160]:
+                  - row [ref=f151e161]:
+                    - gridcell "No files attached." [ref=f151e162]
+    - generic [ref=f151e164]:
+      - button "Open support menu" [ref=f151e166] [cursor=pointer]: "?"
+      - navigation [ref=f151e168]:
+        - paragraph [ref=f151e170]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f151e171] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f151e172] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f151e173] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f151e174] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f151e175] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f151e176]:
+      - generic:
+        - generic [ref=f151e178]:
+          - button "Annotation sidebar" [ref=f151e179]
+          - generic [ref=f151e184]:
+            - button "Show highlights" [ref=f151e185]
+            - button "New page note" [ref=f151e190]
+          - status [ref=f151e195]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f151e196]:
+    - button "contents" [ref=f151e197] [cursor=pointer]
+    - button "readability" [ref=f151e199] [cursor=pointer]
+    - button "resources" [ref=f151e201] [cursor=pointer]
+    - button "tools" [ref=f151e203] [cursor=pointer]
+    - button "developers" [ref=f151e205] [cursor=pointer]

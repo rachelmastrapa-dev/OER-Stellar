@@ -1,0 +1,270 @@
+- generic [active] [ref=f502e1]:
+  - link "Skip to main content" [ref=f502e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f502e3]:
+    - text: 
+    - generic [ref=f502e4]:
+      - generic [ref=f502e5]:
+        - generic: ✕
+        - navigation [ref=f502e7]:
+          - generic [ref=f502e8]:
+            - link [ref=f502e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f502e11]
+            - button "Enter Reader Mode" [ref=f502e13] [cursor=pointer]:
+              - generic [ref=f502e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f502e16]:
+        - list [ref=f502e18]:
+          - listitem [ref=f502e19]:
+            - link [ref=f502e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f502e22]
+          - listitem [ref=f502e23]:
+            - text: 
+            - generic [ref=f502e25]:
+              - generic [ref=f502e26]: "Search :"
+              - searchbox "Search :" [ref=f502e27]
+              - button " Search" [ref=f502e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f502e29]:
+            - list [ref=f502e30]:
+              - listitem [ref=f502e31]:
+                - link "Edit" [ref=f502e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.05%3A_The_Expanding_Universe?action=edit
+              - text: 
+              - listitem [ref=f502e33]:
+                - link " Options" [ref=f502e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f502e35]:
+                - link " Rachel Mastrapa" [ref=f502e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f502e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f502e38] [cursor=pointer]
+          - list [ref=f502e39]:
+            - listitem [ref=f502e40]:
+              - link " Home" [ref=f502e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f502e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f502e43]:
+              - link " Workbench" [ref=f502e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f502e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f502e46]:
+              - link " De Anza - ASTR10" [ref=f502e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f502e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f502e49]:
+              - 'link " 16: Galaxies" [ref=f502e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies
+                - generic [ref=f502e51]: 
+                - text: "16: Galaxies"
+              - text: »
+            - listitem [ref=f502e52]:
+              - generic [ref=f502e53]: 
+              - text: "16.5: The Expanding Universe"
+          - text: 
+      - navigation
+    - article [ref=f502e54]:
+      - generic [ref=f502e55]:
+        - generic [ref=f502e56]:
+          - button " Page settings" [ref=f502e57] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :        "
+        - 'heading "16.5: The Expanding Universe" [level=1] [ref=f502e58]'
+        - list [ref=f502e61]:
+          - listitem [ref=f502e62]:
+            - link [ref=f502e64] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f502e65]:
+                - img "CC" [ref=f502e66]
+                - img "BY" [ref=f502e67]
+          - listitem [ref=f502e68]:
+            - generic [ref=f502e69]:
+              - term [ref=f502e70] [cursor=pointer]: "Last updated:"
+              - definition [ref=f502e71]: Aug 16, 2026, 5:25 PM by Rachel Mastrapa
+          - listitem [ref=f502e72]:
+            - generic [ref=f502e73]:
+              - term [ref=f502e74] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f502e75]: Private
+          - listitem [ref=f502e76]:
+            - generic [ref=f502e77]:
+              - term [ref=f502e78] [cursor=pointer]: "Page ID:"
+              - definition [ref=f502e79]: "112938"
+          - listitem [ref=f502e80]:
+            - list [ref=f502e81]:
+              - listitem [ref=f502e82]:
+                - button "Pin Page" [ref=f502e83] [cursor=pointer]: 
+              - listitem
+              - text: 
+              - listitem [ref=f502e84]:
+                - list [ref=f502e85]:
+                  - listitem [ref=f502e86]:
+                    - 'link " 16.4: The Extragalactic Distance Scale" [ref=f502e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.04%3A_The_Extragalactic_Distance_Scale
+                      - text: 
+                      - generic [ref=f502e88]: "16.4: The Extragalactic Distance Scale"
+                  - listitem [ref=f502e89]:
+                    - 'link "16.6: Astronomical Architecture " [ref=f502e90] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.06%3A_Astronomical_Architecture
+                      - generic [ref=f502e91]: "16.6: Astronomical Architecture"
+                      - text: 
+              - listitem
+      - list [ref=f502e94]:
+        - listitem [ref=f502e95]:
+          - img "OpenStax" [ref=f502e96]
+        - listitem [ref=f502e97]:
+          - link "OpenStax" [ref=f502e98] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f502e99]:
+          - link "OpenStax" [ref=f502e100] [cursor=pointer]:
+            - /url: https://openstax.org
+      - complementary
+      - text: 
+      - generic [ref=f502e101]:
+        - paragraph [ref=f502e102]
+        - generic [ref=f502e103]:
+          - separator [ref=f502e104]
+          - paragraph [ref=f502e106]:
+            - text: This page titled
+            - 'link "16.5: The Expanding Universe" [ref=f502e107] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.05%3A_The_Expanding_Universe
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f502e108] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f502e109] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f502e110] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f502e111]:
+        - list [ref=f502e112]:
+          - listitem [ref=f502e113]:
+            - link "Back to top" [ref=f502e114] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f502e115]:
+            - list [ref=f502e116]:
+              - listitem [ref=f502e117]:
+                - 'link " 16.4: The Extragalactic Distance Scale" [ref=f502e118] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.04%3A_The_Extragalactic_Distance_Scale
+                  - text: 
+                  - generic [ref=f502e119]: "16.4: The Extragalactic Distance Scale"
+              - listitem [ref=f502e120]:
+                - 'link "16.6: Astronomical Architecture " [ref=f502e121] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.06%3A_Astronomical_Architecture
+                  - generic [ref=f502e122]: "16.6: Astronomical Architecture"
+                  - text: 
+        - list [ref=f502e125]:
+          - listitem [ref=f502e126]: Was this article helpful?
+          - listitem [ref=f502e127]:
+            - button "Yes" [ref=f502e128] [cursor=pointer]
+          - listitem [ref=f502e129]:
+            - button "No" [ref=f502e130] [cursor=pointer]
+          - listitem [ref=f502e131]:
+            - button "Leave feedback" [ref=f502e132] [cursor=pointer]
+          - listitem
+        - text: ": : : : : : : , , , , ,"
+        - generic [ref=f502e133]:
+          - heading "Attachments" [level=2] [ref=f502e134]
+          - generic:
+            - button "Attach a file" [ref=f502e135] [cursor=pointer]
+            - text: 
+          - generic [ref=f502e137]:
+            - generic [ref=f502e140]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f502e141]
+            - generic [ref=f502e142]:
+              - grid [ref=f502e145]:
+                - rowgroup [ref=f502e146]:
+                  - row [ref=f502e147]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f502e148]':
+                      - generic:
+                        - generic [ref=f502e149]: File
+                        - generic [ref=f502e150]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f502e151]':
+                      - generic:
+                        - generic [ref=f502e152]: Last modified
+                        - generic [ref=f502e153]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f502e154]':
+                      - generic:
+                        - generic [ref=f502e155]: Size
+                        - generic [ref=f502e156]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f502e157]':
+                      - generic:
+                        - generic [ref=f502e158]: Added by
+                        - generic [ref=f502e159]: 
+              - grid [ref=f502e161]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f502e162]: File
+                          - generic [ref=f502e163]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f502e164]: Last modified
+                          - generic [ref=f502e165]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f502e166]: Size
+                          - generic [ref=f502e167]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f502e168]: Added by
+                          - generic [ref=f502e169]: 
+                - rowgroup [ref=f502e170]:
+                  - row [ref=f502e171]:
+                    - gridcell "No files attached." [ref=f502e172]
+    - generic [ref=f502e174]:
+      - button "Open support menu" [ref=f502e176] [cursor=pointer]: "?"
+      - navigation [ref=f502e178]:
+        - paragraph [ref=f502e180]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f502e181] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f502e182] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f502e183] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f502e184] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f502e185] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f502e186]:
+      - generic:
+        - generic [ref=f502e188]:
+          - button "Annotation sidebar" [ref=f502e189]
+          - generic [ref=f502e194]:
+            - button "Show highlights" [ref=f502e195]
+            - button "New page note" [ref=f502e200]
+          - status [ref=f502e205]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f502e206]:
+    - button "contents" [ref=f502e207] [cursor=pointer]
+    - button "readability" [ref=f502e209] [cursor=pointer]
+    - button "resources" [ref=f502e211] [cursor=pointer]
+    - button "tools" [ref=f502e213] [cursor=pointer]
+    - button "developers" [ref=f502e215] [cursor=pointer]

@@ -1,0 +1,335 @@
+- generic [ref=f39e1]:
+  - link "Skip to main content" [ref=f39e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f39e3]:
+    - text: 
+    - generic [ref=f39e4]:
+      - generic [ref=f39e5]:
+        - generic: ✕
+        - navigation [ref=f39e7]:
+          - generic [ref=f39e8]:
+            - link [ref=f39e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f39e11]
+            - button "Enter Reader Mode" [ref=f39e13] [cursor=pointer]:
+              - generic [ref=f39e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f39e16]:
+        - list [ref=f39e18]:
+          - listitem [ref=f39e19]:
+            - link [ref=f39e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f39e22]
+          - listitem [ref=f39e23]:
+            - text: 
+            - generic [ref=f39e25]:
+              - generic [ref=f39e26]: "Search :"
+              - searchbox "Search :" [ref=f39e27]
+              - button " Search" [ref=f39e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f39e29]:
+            - list [ref=f39e30]:
+              - listitem [ref=f39e31]:
+                - link "Edit" [ref=f39e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.03%3A_Earth?action=edit
+              - text: 
+              - listitem [ref=f39e33]:
+                - link " Options" [ref=f39e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f39e35]:
+                - link " Rachel Mastrapa" [ref=f39e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f39e37]:
+        - generic:
+          - button " Contents" [ref=f39e217] [cursor=pointer]
+          - list [ref=f39e39]:
+            - listitem [ref=f39e40]:
+              - link " Home" [ref=f39e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f39e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f39e43]:
+              - link " Workbench" [ref=f39e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f39e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f39e46]:
+              - link " De Anza - ASTR10" [ref=f39e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f39e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f39e49]:
+              - 'link " 2: Night Sky Navigation" [ref=f39e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation
+                - generic [ref=f39e51]: 
+                - text: "2: Night Sky Navigation"
+              - text: »
+            - listitem [ref=f39e52]:
+              - generic [ref=f39e53]: 
+              - text: "2.3: Earth"
+          - text: 
+      - navigation:
+        - generic:                                                  
+    - article [ref=f39e54]:
+      - generic [ref=f39e55]:
+        - generic [ref=f39e56]:
+          - button " Page settings" [ref=f39e57] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :     "
+        - 'heading "2.3: Earth" [level=1] [ref=f39e58]':
+          - generic [ref=f39e218]: "2.3: Earth "
+        - list [ref=f39e61]:
+          - listitem [ref=f39e62]:
+            - link [ref=f39e64] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f39e65]:
+                - img "CC" [ref=f39e66]
+                - img "BY" [ref=f39e67]
+          - listitem [ref=f39e68]:
+            - generic [ref=f39e69]:
+              - term [ref=f39e70] [cursor=pointer]: "Last updated:"
+              - definition [ref=f39e71]: Aug 19, 2026, 6:12 PM by Rachel Mastrapa
+          - listitem [ref=f39e72]:
+            - generic [ref=f39e73]:
+              - term [ref=f39e74] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f39e75]: Private
+          - listitem [ref=f39e76]:
+            - generic [ref=f39e77]:
+              - term [ref=f39e78] [cursor=pointer]: "Page ID:"
+              - definition [ref=f39e79]: "112705"
+          - listitem [ref=f39e80]:
+            - list [ref=f39e81]:
+              - listitem [ref=f39e82]:
+                - button "Pin Page" [ref=f39e83] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f39e84]:
+                - list [ref=f39e85]:
+                  - listitem [ref=f39e86]:
+                    - 'link " 2.2: The Sky Above" [ref=f39e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.02%3A_The_Sky_Above
+                      - text: 
+                      - generic [ref=f39e88]: "2.2: The Sky Above"
+                  - listitem [ref=f39e89]:
+                    - 'link "2.4: The Sun " [ref=f39e90] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.04%3A_The_Sun
+                      - generic [ref=f39e91]: "2.4: The Sun"
+                      - text: 
+              - text:  
+      - list [ref=f39e94]:
+        - listitem [ref=f39e95]:
+          - img "OpenStax" [ref=f39e96]
+        - listitem [ref=f39e97]:
+          - link "OpenStax" [ref=f39e98] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f39e99]:
+          - link "OpenStax" [ref=f39e100] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f39e101]:
+        - group [ref=f39e222]:
+          - generic [ref=f39e223]:
+            - generic [ref=f39e224]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f39e225]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f39e226]:
+            - generic [ref=f39e229]:
+              - generic [ref=f39e231]:
+                - link "Edit" [ref=f39e232]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f39e233]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f39e234]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f39e235]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f39e236]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f39e237]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f39e240]:
+                - toolbar [ref=f39e241]:
+                  - button "Save" [ref=f39e242]:
+                    - generic [ref=f39e243]: 
+                  - button "Cancel" [ref=f39e245]:
+                    - generic [ref=f39e246]: 
+                - text:          
+                - toolbar [ref=f39e287]:
+                  - button "Alignment" [ref=f39e288]:
+                    - generic [ref=f39e289]: 
+                - text:    
+                - toolbar [ref=f39e302]:
+                  - button "Replace" [ref=f39e303]:
+                    - generic [ref=f39e304]: 
+                - toolbar [ref=f39e306]:
+                  - button "Enable Binder" [disabled] [ref=f39e307]
+                  - button "Insert Adapt" [disabled] [ref=f39e309]
+                  - button "Query" [ref=f39e311]
+                  - button "Accessibility Checker" [disabled] [ref=f39e314]
+                - toolbar [ref=f39e317]:
+                  - button "Visual" [pressed] [ref=f39e353]:
+                    - generic [ref=f39e319]: 
+            - application "Rich Text Editor, editarea" [ref=f39e321]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f39e355]: "<section class=\"box-objectives\"> <h5 class=\"box-legend lt-phys-64667\"><span class=\"lt-icon-default\">Learning Objectives</span></h5> <p class=\"lt-phys-64667\">By the end of this section, you will be able to:</p> <ul> <li class=\"lt-phys-64667\">Describe how latitude and longitude are used to map Earth</li> <li class=\"lt-phys-64667\">Explain how right ascension and declination are used to map the sky</li> </ul> </section> <p class=\"lt-phys-64667\">In order to create an accurate map, a mapmaker needs a way to uniquely and simply identify the location of all the major features on the map, such as cities or natural landmarks. Similarly, astronomical mapmakers need a way to uniquely and simply identify the location of stars, galaxies, and other celestial objects. On Earth maps, we divide the surface of Earth into a grid, and each location on that grid can easily be found using its <em data-effect=\"italics\">latitude</em> and <em data-effect=\"italics\">longitude</em> coordinate. Astronomers have a similar system for objects on the sky. Learning about these can help us understand the apparent motion of objects in the sky from various places on Earth.</p> <h3 class=\"lt-phys-64667\">Locating Places on Earth</h3> <p class=\"lt-phys-64667\">Let’s begin by fixing our position on the surface of planet <span class=\"no-emphasis\" data-type=\"term\" group-by=\"E\">Earth</span>. As we discussed in Observing the Sky: The Birth of Astronomy, Earth’s axis of rotation defines the locations of its North and South Poles and of its equator, halfway between. Two other directions are also defined by Earth’s motions: east is the direction toward which Earth rotates, and west is its opposite. At almost any point on Earth, the four directions—north, south, east, and west—are well defined, despite the fact that our planet is round rather than flat. The only exceptions are exactly at the North and South Poles, where the directions east and west are ambiguous (because points exactly at the poles do not turn).</p> <p class=\"lt-phys-64667\">We can use these ideas to define a system of <span class=\"no-emphasis\" data-type=\"term\" group-by=\"c\">coordinates</span> attached to our planet. Such a system, like the layout of streets and avenues in Manhattan or Salt Lake City, helps us find where we are or want to go. Coordinates on a sphere, however, are a little more complicated than those on a flat surface. We must define circles on the sphere that play the same role as the rectangular grid that you see on city maps.</p> <p class=\"lt-phys-64667\">A <span data-type=\"term\" group-by=\"g\">great circle</span> is any circle on the surface of a sphere whose center is at the center of the sphere. For example, Earth’s equator is a great circle on Earth’s surface, halfway between the North and South Poles. We can also imagine a series of great circles that pass through both the North and South Poles. Each of the circles is called a <span data-type=\"term\" group-by=\"m\">meridian</span>; they are each perpendicular to the equator, crossing it at right angles.</p> <p class=\"lt-phys-64667\">Any point on the surface of Earth will have a meridian passing through it (Figure 4.2). The meridian specifies the east-west location, or longitude, of the place. By international agreement (and it took many meetings for the world’s countries to agree), longitude is defined as the number of degrees of arc along the equator between your meridian and the one passing through Greenwich, England, which has been designated as the Prime Meridian. The longitude of the Prime Meridian is defined as 0°.</p> <figure><span data-alt=\"On this illustration of the Earth, roughly centered on the North Atlantic, lines of latitude and longitude are drawn in white. The lines of longitude are parallel with the equator, which is indicated with an arrow at lower right. The “Prime Meridian of longitude” is indicated with an arrow at upper right. A grey arrow, labeled “Latitude”, is drawn northward from the equator in South America to intersect with a grey arrow, labeled “Longitude”, that is drawn westward from the prime meridian. At the intersection of these arrows, “Washington D.C.” is labeled.\" data-type=\"media\"><img alt=\"On this illustration of the Earth, roughly centered on the North Atlantic, lines of latitude and longitude are drawn in white. The lines of longitude are parallel with the equator, which is indicated with an arrow at lower right. The “Prime Meridian of longitude” is indicated with an arrow at upper right. A grey arrow, labeled “Latitude”, is drawn northward from the equator in South America to intersect with a grey arrow, labeled “Longitude”, that is drawn westward from the prime meridian. At the intersection of these arrows, “Washington D.C.” is labeled.\" data-media-type=\"image/jpeg\" src=\"/@api/deki/files/45817/38d8088ff258ce5471f79258c212db58e99e0556\" /> </span> <figcaption>Figure 4.2 : Latitude and Longitude of Washington, DC. We use latitude and longitude to find cities like Washington, DC, on a globe. Latitude is the number of degrees north or south of the equator, and longitude is the number of degrees east or west of the Prime Meridian. Washington, DC’s coordinates are 38° N and 77° W.</figcaption> </figure> <p class=\"lt-phys-64667\">Why Greenwich, you might ask? Every country wanted 0° longitude to pass through its own capital. Greenwich, the site of the old Royal Observatory (Figure 4.3), was selected because it was between continental Europe and the United States, and because it was the site for much of the development of the method to measure longitude at sea. Longitudes are measured either to the east or to the west of the Greenwich meridian from 0° to 180°. As an example, the longitude of the clock-house benchmark of the U.S. Naval Observatory in Washington, DC, is 77.066° W.</p> <p>&nbsp;</p> <p class=\"lt-phys-64667\">Your latitude (or north-south location) is the number of degrees of arc you are away from the equator along your meridian. Latitudes are measured either north or south of the equator from 0° to 90°. (The latitude of the equator is 0°.) As an example, the latitude of the previously mentioned Naval Observatory benchmark is 38.921° N. The latitude of the South Pole is 90° S, and the latitude of the North Pole is 90° N.</p> <h3 class=\"lt-phys-64669\">The Length of the Day</h3> <p class=\"lt-phys-64669\">The most fundamental astronomical unit of time is the day, measured in terms of the rotation of Earth. There is, however, more than one way to define the day. Usually, we think of it as the rotation period of Earth with respect to the Sun, called the <span data-type=\"term\" group-by=\"s\">solar day</span>. After all, for most people sunrise is more important than the rising time of Arcturus or some other star, so we set our clocks to some version of Sun-time. However, astronomers also use a <span data-type=\"term\" group-by=\"s\">sidereal day</span>, which is defined in terms of the rotation period of Earth with respect to the stars.</p> <p class=\"lt-phys-64669\">A solar day is slightly longer than a sidereal day because (as you can see from Figure 4.10) Earth not only turns but also moves along its path around the Sun in a day. Suppose we start when Earth’s orbital position is at day 1, with both the Sun and some distant star (located in the direction indicated by the long white arrow pointing left), directly in line with the zenith for the observer on Earth. When Earth has completed one rotation with respect to the distant star and is at day 2, the long arrow again points to the same distant star. However, notice that because of the movement of Earth along its orbit from day 1 to 2, the Sun has not yet reached a position above the observer. To complete a solar day, Earth must rotate an additional amount, equal to 1/365 of a full turn. The time required for this extra rotation is 1/365 of a day, or about 4 minutes. So the solar day is about 4 minutes longer than the sidereal day.</p> <figure><span data-alt=\"The Sun is drawn at left as a yellow disc and the Earth is drawn at two positions at far right. The lower position labeled “Earth, day 1” shows an observer looking up at the Sun, whose line of sight indicated by a white arrow connecting the Earth to the Sun. A clockwise arrow is drawn circling the Earth. The upper position labeled “Earth, day 2” shows the observer looking up again one day later. (A short curved arrow pointing clockwise is drawn from the observer’s line of sight to indicate the direction of Earth’s rotation.) Due to the motion of Earth along its orbit, the observer’s line of sight no longer points to the Sun but now points “To remote point on celestial sphere”. A dashed line connects the observer’s position on day 2 to the Sun as seen on day 1. The angle between the new line of sight and the previous line of sight to the Sun is labeled '1°''\" data-type=\"media\"><img alt=\"The Sun is drawn at left as a yellow disc and the Earth is drawn at two positions at far right. The lower position labeled “Earth, day 1” shows an observer looking up at the Sun, whose line of sight indicated by a white arrow connecting the Earth to the Sun. A clockwise arrow is drawn circling the Earth. The upper position labeled “Earth, day 2” shows the observer looking up again one day later. (A short curved arrow pointing clockwise is drawn from the observer’s line of sight to indicate the direction of Earth’s rotation.) Due to the motion of Earth along its orbit, the observer’s line of sight no longer points to the Sun but now points “To remote point on celestial sphere”. A dashed line connects the observer’s position on day 2 to the Sun as seen on day 1. The angle between the new line of sight and the previous line of sight to the Sun is labeled '1°''\" data-media-type=\"image/jpeg\" src=\"/@api/deki/files/45825/b60ae0196a411e47ba7f57d09368b3956b7fed2b\" /> </span> <figcaption>Figure 4.10 : Difference Between a Sidereal Day and a Solar Day. This is a top view, looking down as Earth orbits the Sun. Because Earth moves around the Sun (roughly 1° per day), after one complete rotation of Earth relative to the stars, we do not see the Sun in the same position.</figcaption> </figure> <p class=\"lt-phys-64669\">Because our ordinary clocks are set to solar time, stars rise 4 minutes earlier each day. Astronomers prefer sidereal time for planning their observations because in that system, a star rises at the same time every day.</p> <div class=\"box-example\"> <h5 class=\"box-legend lt-phys-64669\"><span class=\"lt-icon-default\">Example 4.3: Sidereal Time and Solar Time</span></h5> <p class=\"lt-phys-64669\">The Sun makes a complete circle in the sky approximately every 24 hours, while the stars make a complete circle in the sky in 4 minutes less time, or 23 hours and 56 minutes. This causes the positions of the stars at a given time of day or night to change slightly each day. Since stars rise 4 minutes earlier each day, that works out to about 2 hours per month <math display=\"inline\"><semantics><mrow><mrow><mo>(</mo><mn>4</mn><mtext> minutes </mtext><mo>×</mo><mn>30</mn><mo>=</mo><mn>120</mn><mtext> minutes or </mtext><mn>2</mn><mtext> hours</mtext><mo>)</mo></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mo>(</mo><mn>4</mn><mtext> minutes </mtext><mo>×</mo><mn>30</mn><mo>=</mo><mn>120</mn><mtext> minutes or </mtext><mn>2</mn><mtext> hours</mtext><mo>)</mo></mrow></annotation-xml></semantics></math>. So, if a particular constellation rises at sunset during the winter, you can be sure that by the summer, it will rise about 12 hours earlier, with the sunrise, and it will not be so easily visible in the night sky. Let’s say that tonight the bright star <span class=\"no-emphasis\" data-type=\"term\" group-by=\"S\">Sirius</span> rises at 7:00 p.m. from a given location so that by midnight, it is very high in the sky. At what time will Sirius rise in three months?</p> <h6 class=\"lt-phys-64669\">Solution</h6> <p class=\"lt-phys-64669\">In three months’ time, Sirius will be rising earlier by:</p> <p class=\"lt-phys-64669\"><math display=\"block\"><semantics><mrow><mrow><mn>90</mn><mspace width=\"0.2em\"></mspace><mtext>days</mtext><mspace width=\"0.2em\"></mspace><mo>×</mo><mspace width=\"0.2em\"></mspace><mfrac><mrow><mn>4</mn><mspace width=\"0.2em\"></mspace><mtext>minutes</mtext></mrow><mrow><mtext>day</mtext></mrow></mfrac><mo>=</mo><mtext>360 minutes or 6 </mtext></mrow></mrow><mrow><mrow><mtext>hours</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>90</mn><mspace width=\"0.2em\"></mspace><mtext>days</mtext><mspace width=\"0.2em\"></mspace><mo>×</mo><mspace width=\"0.2em\"></mspace><mfrac><mrow><mn>4</mn><mspace width=\"0.2em\"></mspace><mtext>minutes</mtext></mrow><mrow><mtext>day</mtext></mrow></mfrac></mrow></annotation-xml><annotation-xml encoding=\"MathML-Content\"><mrow><mo>=</mo><mtext>360 minutes or 6 hours</mtext></mrow></annotation-xml></semantics></math></p> <p class=\"lt-phys-64669\">It will rise at about 1:00 p.m. and be high in the sky at around sunset instead of midnight. Sirius is the brightest star in the constellation of Canis Major (the big dog). So, some other constellation will be prominently visible high in the sky at this later date.</p> </div> <section class=\"box-exercise\"> <h5 class=\"box-legend lt-phys-64669\"><span class=\"lt-icon-default\">Exercise \\(\\PageIndex{1}\\)</span></h5> <p class=\"lt-phys-64669\">If a star rises at 8:30 p.m. tonight, approximately what time will it rise two months from now?</p> <dl> <dt><strong class=\"emphasis bold\">Answer</strong></dt> <dd> <p class=\"lt-phys-64669\">&nbsp;</p> <p class=\"lt-phys-64669\">In two months, the star will rise:<br /> <math display=\"inline\"><semantics><mrow><mrow><mn>60</mn><mspace width=\"0.2em\"></mspace><mtext>days</mtext><mspace width=\"0.2em\"></mspace><mo>×</mo><mspace width=\"0.2em\"></mspace><mfrac><mrow><mn>4</mn><mspace width=\"0.2em\"></mspace><mtext>minutes</mtext></mrow><mrow><mtext>day</mtext></mrow></mfrac><mo>=</mo><mn>24</mn><mtext>0 minutes or 4 hours earlier.</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>60</mn><mspace width=\"0.2em\"></mspace><mtext>days</mtext><mspace width=\"0.2em\"></mspace><mo>×</mo><mspace width=\"0.2em\"></mspace><mfrac><mrow><mn>4</mn><mspace width=\"0.2em\"></mspace><mtext>minutes</mtext></mrow><mrow><mtext>day</mtext></mrow></mfrac><mo>=</mo><mn>24</mn><mtext>0 minutes or 4 hours earlier.</mtext></mrow></annotation-xml></semantics></math><br /> This means it will rise at 4:30 p.m.</p> </dd> </dl> </section> <h3 class=\"lt-phys-64667\">Locating Places in the Sky</h3> <p class=\"lt-phys-64667\">Positions in the sky are measured in a way that is very similar to the way we measure positions on the surface of Earth. Instead of latitude and longitude, however, astronomers use coordinates called <span data-type=\"term\" group-by=\"d\">declination</span> and <span data-type=\"term\" group-by=\"r\">right ascension</span>. To denote positions of objects in the sky, it is often convenient to make use of the fictitious celestial sphere. We saw in Observing the Sky: The Birth of Astronomy that the sky appears to rotate about points above the North and South Poles of Earth—points in the sky called the north celestial pole and the south celestial pole. Halfway between the celestial poles, and thus 90° from each pole, is the <em data-effect=\"italics\">celestial equator,</em> a great circle on the celestial sphere that is in the same plane as Earth’s equator. We can use these markers in the sky to set up a system of celestial coordinates.</p> <p class=\"lt-phys-64667\">Declination on the celestial sphere is measured the same way that latitude is measured on the sphere of Earth: from the celestial equator toward the north (positive) or south (negative). So <span class=\"no-emphasis\" data-type=\"term\" group-by=\"P\">Polaris</span>, the star near the north celestial pole, has a declination of almost +90°.</p> <p class=\"lt-phys-64667\">Right ascension (RA) is like longitude, except that instead of Greenwich, the arbitrarily chosen point where we start counting is the <em data-effect=\"italics\">vernal equinox</em>, a point in the sky where the <em data-effect=\"italics\">ecliptic</em> (the Sun’s path) crosses the celestial equator. RA can be expressed either in units of angle (degrees) or in units of time. This is because the celestial sphere appears to turn around Earth once a day as our planet turns on its axis. Thus the 360° of RA that it takes to go once around the celestial sphere can just as well be set equal to 24 hours. Then each 15° of arc is equal to 1 hour of time. For example, the approximate celestial coordinates of the bright star Capella are RA <math display=\"inline\"><semantics><mrow><mrow><mn>5</mn><mi>h</mi><mo>=</mo><mn>75</mn><mtext>°</mtext></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>5</mn><mi>h</mi><mo>=</mo><mn>75</mn><mtext>°</mtext></mrow></annotation-xml></semantics></math> and declination <math display=\"inline\"><semantics><mrow><mo>+</mo><mn>50</mn><mtext>°</mtext></mrow><annotation-xml encoding=\"MathML-Content\"><mo>+</mo><mn>50</mn><mtext>°</mtext></annotation-xml></semantics></math>.</p> <p class=\"lt-phys-64667\">One way to visualize these circles in the sky is to imagine Earth as a transparent sphere with the terrestrial coordinates (latitude and longitude) painted on it with dark paint. Imagine the celestial sphere around us as a giant ball, painted white on the inside. Then imagine yourself at the center of Earth, with a bright light bulb in the middle, looking out through its transparent surface to the sky. The terrestrial poles, equator, and meridians will be projected as dark shadows on the celestial sphere, giving us the system of coordinates in the sky.</p> <h3 class=\"lt-phys-64667\">The Turning Earth</h3> <p class=\"lt-phys-64667\">Why do many stars rise and set each night? Why, in other words, does the night sky seem to turn? We have seen that the apparent rotation of the celestial sphere could be accounted for either by a daily rotation of the sky around a stationary Earth or by the rotation of Earth itself. Since the seventeenth century, it has been generally accepted that it is Earth that turns, but not until the nineteenth century did the French physicist Jean <span class=\"no-emphasis\" data-type=\"term\" group-by=\"F\">Foucault</span> provide an unambiguous demonstration of this rotation. In 1851, he suspended a 60-meter pendulum with a mass of about 25 kilograms from the dome of the Pantheon in Paris and started the pendulum swinging evenly. If Earth had not been turning, there would have been no alteration of the pendulum’s plane of oscillation, and so it would have continued tracing the same path. Yet after a few minutes Foucault could see that the pendulum’s plane of motion was turning. Foucault explained that it was not the pendulum that was shifting, but rather Earth that was turning beneath it (Figure 4.4). You can now find such pendulums in many science centers and planetariums around the world.</p> <figure><span data-alt=\"Photograph of Foucault’s Pendulum. Several viewers watch the pendulum bob (silver sphere at center) as it swings over the circular wooden platform containing the targets it will knock over in the course of a day.\" data-type=\"media\"><img alt=\"Photograph of Foucault’s Pendulum. Several viewers watch the pendulum bob (silver sphere at center) as it swings over the circular wooden platform containing the targets it will knock over in the course of a day.\" data-media-type=\"image/jpeg\" src=\"/@api/deki/files/45820/653d30e668d03359f8a7c38b42264c85b4a28afa\" /> </span> <figcaption>Figure 4.4 : Foucault’s Pendulum. As Earth turns, the plane of oscillation of the Foucault pendulum shifts gradually so that over the course of 12 hours, all the targets in the circle at the edge of the wooden platform are knocked over in sequence. (credit: Manuel M. Vicente)</figcaption> </figure> <p class=\"lt-phys-64667\">Can you think of other pieces of evidence that indicate that it is Earth and not the sky that is turning? (See Collaborative Group Activity A at the end of this chapter.)</p> <p>&nbsp;</p> <h2>The Seasons</h2> <section class=\"box-objectives\"> <h5 class=\"box-legend lt-phys-64668\"><span class=\"lt-icon-default\">Learning Objectives</span></h5> <p class=\"lt-phys-64668\">By the end of this section, you will be able to:</p> <ul> <li class=\"lt-phys-64668\">Describe how the tilt of Earth’s axis causes the <span class=\"no-emphasis\" data-type=\"term\" group-by=\"s\">seasons</span></li> <li class=\"lt-phys-64668\">Explain how seasonal differences on Earth vary with latitude</li> </ul> </section> <p class=\"lt-phys-64668\">One of the fundamental facts of life at Earth’s midlatitudes, where most of this book’s readers live, is that there are significant variations in the heat we receive from the Sun during the course of the year. We thus divide the year into <em data-effect=\"italics\">seasons</em>, each with its different amount of sunlight. The difference between seasons gets more pronounced the farther north or south from the equator we travel, and the seasons in the Southern Hemisphere are the opposite of what we find on the northern half of Earth. With these observed facts in mind, let us ask what causes the seasons.</p> <p class=\"lt-phys-64668\">Many people have believed that the seasons were the result of the changing distance between Earth and the Sun. This sounds reasonable at first: it should be colder when Earth is farther from the Sun. But the facts don’t bear out this hypothesis. Although Earth’s orbit around the Sun is an ellipse, its distance from the Sun varies by only about 3%. That’s not enough to cause significant variations in the Sun’s heating. To make matters worse for people in North America who hold this hypothesis, Earth is actually closest to the Sun in January, when the Northern Hemisphere is in the middle of winter. And if distance were the governing factor, why would the two hemispheres have opposite seasons? As we shall show, the seasons are actually caused by the 23.5° tilt of Earth’s axis.</p> <h3 class=\"lt-phys-64668\">The Seasons and Sunshine</h3> <p class=\"lt-phys-64668\">Figure 4.5 shows Earth’s annual path around the <span class=\"no-emphasis\" data-type=\"term\" group-by=\"S\">Sun</span>, with Earth’s axis tilted by 23.5°. Note that our axis continues to point the same direction in the sky throughout the year. As Earth travels around the Sun, in June the Northern Hemisphere “leans into” the Sun and is more directly illuminated. In December, the situation is reversed: the Southern Hemisphere leans into the Sun, and the Northern Hemisphere leans away. In September and March, Earth leans “sideways”—neither into the Sun nor away from it—so the two hemispheres are equally favored with sunshine.</p> <figure><span data-alt=\"Earth’s Seasons. This illustration shows the Earth at four positions along its orbit around the Sun, which is drawn in the center of the orbit indicated by circular arrows. At left, the Earth is shown at “Summer Solstice June 21”, and has its northern axis of rotation (tilted 23-degrees from vertical) pointing toward the Sun. At bottom center, the Earth is at “Autumnal Equinox September 21”, with the northern rotation axis pointing toward the right. At right, the Earth is shown at “Winter Solstice December 21”, with the northern axis of rotation pointing away from the Sun. Finally, at top, the Earth is shown at “Vernal Equinox March 21”, with the northern rotation axis pointing toward the right.\" data-type=\"media\"><img alt=\"Earth’s Seasons. This illustration shows the Earth at four positions along its orbit around the Sun, which is drawn in the center of the orbit indicated by circular arrows. At left, the Earth is shown at “Summer Solstice June 21”, and has its northern axis of rotation (tilted 23-degrees from vertical) pointing toward the Sun. At bottom center, the Earth is at “Autumnal Equinox September 21”, with the northern rotation axis pointing toward the right. At right, the Earth is shown at “Winter Solstice December 21”, with the northern axis of rotation pointing away from the Sun. Finally, at top, the Earth is shown at “Vernal Equinox March 21”, with the northern rotation axis pointing toward the right.\" data-media-type=\"image/jpeg\" src=\"/@api/deki/files/45823/8d93979d617a8c3a87d7fc5854a60f2e66628690\" /> </span> <figcaption>Figure 4.5 : Seasons. We see Earth at different seasons as it circles the Sun. In June, the Northern Hemisphere “leans into” the Sun, and those in the North experience summer and have longer days. In December, during winter in the Northern Hemisphere, the Southern Hemisphere “leans into” the Sun and is illuminated more directly. In spring and autumn, the two hemispheres receive more equal shares of sunlight.<sup data-type=\"footnote-number\">1</sup></figcaption> </figure> <p class=\"lt-phys-64668\">How does the Sun’s favoring one hemisphere translate into making it warmer for us down on the surface of Earth? There are two effects we need to consider. When we lean into the Sun, sunlight hits us at a more direct angle and is more effective at heating Earth’s surface (Figure 4.6). You can get a similar effect by shining a flashlight onto a wall. If you shine the flashlight straight on, you get an intense spot of light on the wall. But if you hold the flashlight at an angle (if the wall “leans out” of the beam), then the spot of light is more spread out. Like the straight-on light, the sunlight in June is more direct and intense in the Northern Hemisphere, and hence more effective at heating.</p> <figure><span data-alt=\"The Sun’s Rays in Summer and Winter. Panel (a), at left, illustrates how sunlight strikes the Earth’s surface in Summer. Five parallel yellow arrows, labeled “1 m2”, are drawn pointing downward at a 73-degree angle relative to the ground. Where the arrows strike the ground, a scale is drawn spanning the width of the arrows that reads “1.04 m2”. In panel (b), at right, illustrates how sunlight strikes the Earth’s surface in Winter. The five arrows are now drawn at 26-degrees relative to the ground. Where the arrows strike the ground, a scale is drawn spanning the width of the arrows that reads “2.24 m2”. Thus one square meter of sunlight falls on over twice the surface area in winter vs. summer.\" data-type=\"media\"><img alt=\"The Sun’s Rays in Summer and Winter. Panel (a), at left, illustrates how sunlight strikes the Earth’s surface in Summer. Five parallel yellow arrows, labeled “1 m2”, are drawn pointing downward at a 73-degree angle relative to the ground. Where the arrows strike the ground, a scale is drawn spanning the width of the arrows that reads “1.04 m2”. In panel (b), at right, illustrates how sunlight strikes the Earth’s surface in Winter. The five arrows are now drawn at 26-degrees relative to the ground. Where the arrows strike the ground, a scale is drawn spanning the width of the arrows that reads “2.24 m2”. Thus one square meter of sunlight falls on over twice the surface area in winter vs. summer.\" data-media-type=\"image/jpeg\" src=\"/@api/deki/files/45821/82086c68a6d6d1de74f70475123174fb62903671\" /> </span> <figcaption>Figure 4.6 : The Sun’s Rays in Summer and Winter. (a) In summer, the Sun appears high in the sky and its rays hit Earth more directly, spreading out less. (b) In winter, the Sun is low in the sky and its rays spread out over a much wider area, becoming less effective at heating the ground.</figcaption> </figure> <p class=\"lt-phys-64668\">The second effect has to do with the length of time the Sun spends above the horizon (Figure 4.7). Even if you’ve never thought about astronomy before, we’re sure you have observed that the hours of daylight increase in summer and decrease in winter. Let’s see why this happens.</p> <figure><span data-alt=\"The Sun’s Path in the Sky for Different Seasons. In each of these three illustrations, a beige ellipse represents the ground and horizon of an observer standing in the center, and is surrounded by a semi-transparent sphere representing the sky. North is to the left, and west is at the bottom of the horizon ellipse. A yellow line, labeled “North celestial pole”, is drawn from the feet of the observer toward the upper left. A yellow dashed ellipse, labeled “Celestial equator”, is drawn on the sky sphere so that it touches the horizon at the points labeled “W” (west) and “E” (east) and is tilted to be perpendicular to the celestial pole. The left-most illustration shows the “Sun’s path June 21”, indicated by a faint yellow ellipse. The Sun rises and sets above the celestial equator. The central illustration shows the “Sun’s path March 21 and Sept. 21”. The Sun rises and sets along the celestial equator. Finally, the right-most illustration shows the “Sun’s path Dec. 21”, indicated by a faint yellow ellipse. The Sun rises and sets below the celestial equator.\" data-type=\"media\"><img alt=\"The Sun’s Path in the Sky for Different Seasons. In each of these three illustrations, a beige ellipse represents the ground and horizon of an observer standing in the center, and is surrounded by a semi-transparent sphere representing the sky. North is to the left, and west is at the bottom of the horizon ellipse. A yellow line, labeled “North celestial pole”, is drawn from the feet of the observer toward the upper left. A yellow dashed ellipse, labeled “Celestial equator”, is drawn on the sky sphere so that it touches the horizon at the points labeled “W” (west) and “E” (east) and is tilted to be perpendicular to the celestial pole. The left-most illustration shows the “Sun’s path June 21”, indicated by a faint yellow ellipse. The Sun rises and sets above the celestial equator. The central illustration shows the “Sun’s path March 21 and Sept. 21”. The Sun rises and sets along the celestial equator. Finally, the right-most illustration shows the “Sun’s path Dec. 21”, indicated by a faint yellow ellipse. The Sun rises and sets below the celestial equator.\" data-media-type=\"image/jpeg\" src=\"/@api/deki/files/45822/b510f6f10dcfe0f0fee3494ce286e4d003186c51\" /> </span> <figcaption>Figure 4.7 : The Sun’s Path in the Sky for Different Seasons. On June 21, the Sun rises north of east and sets north of west. For observers in the Northern Hemisphere of Earth, the Sun spends about 15 hours above the horizon in the United States, meaning more hours of daylight. On December 21, the Sun rises south of east and sets south of west. It spends 9 hours above the horizon in the United States, which means fewer hours of daylight and more hours of night in northern lands (and a strong need for people to hold celebrations to cheer themselves up). On March 21 and September 21, the Sun spends equal amounts of time above and below the horizon in both hemispheres.</figcaption> </figure> <p class=\"lt-phys-64668\">As we saw in Observing the Sky: The Birth of Astronomy, an equivalent way to look at our path around the Sun each year is to pretend that the Sun moves around Earth (on a circle called the ecliptic). Because Earth’s axis is tilted, the ecliptic is tilted by about 23.5° relative to the celestial equator (review Figure 2.7). As a result, where we see the Sun in the sky changes as the year wears on.</p> <p class=\"lt-phys-64668\">In June, the Sun is north of the celestial equator and spends more time with those who live in the Northern Hemisphere. It rises high in the sky and is above the horizon in the United States for as long as 15 hours. Thus, the Sun not only heats us with more direct rays, but it also has more time to do it each day. (Notice in Figure 4.7 that the Northern Hemisphere’s gain is the Southern Hemisphere’s loss. There the June Sun is low in the sky, meaning fewer daylight hours. In Chile, for example, June is a colder, darker time of year.) In December, when the Sun is south of the celestial equator, the situation is reversed.</p> <div class=\"box-note\"> <h5 class=\"box-legend lt-phys-64668\"><span class=\"lt-icon-default\">Link to Learning</span></h5> <p class=\"lt-phys-64668\">The <a href=\"https://openstax.org/l/30motionsunsim\" rel=\"noopener nofollow\" target=\"_blank\">Motions of the Sun Simulator</a> from Columbia University's Center for Teaching and Learning provides a demonstration of the Sun's apparent motion in the sky as the Earth rotates each day, and its changing altitude with latitude and time of year.</p> </div> <p class=\"lt-phys-64668\">Let’s look at what the Sun’s illumination on Earth looks like at some specific dates of the year, when these effects are at their maximum. On or about June 21 (the date we who live in the Northern Hemisphere call the <em data-effect=\"italics\">summer solstice</em> or sometimes the first day of summer), the Sun shines down most directly upon the Northern Hemisphere of Earth. It appears about 23° north of the equator, and thus, on that date, it passes through the zenith of places on Earth that are at 23° N latitude. The situation is shown in detail in Figure 4.8. To a person at 23° N (near Hawaii, for example), the Sun is directly overhead at noon. This latitude, where the Sun can appear at the zenith at noon on the first day of summer, is called the <em data-effect=\"italics\">Tropic of Cancer</em>.</p> <p class=\"lt-phys-64668\">We also see in Figure 4.8 that the Sun’s rays shine down all around the North Pole at the <span class=\"no-emphasis\" data-type=\"term\" group-by=\"s\">solstice</span>. As Earth turns on its axis, the North Pole is continuously illuminated by the Sun; all places within 23° of the pole have sunshine for 24 hours. The Sun is as far north on this date as it can get; thus, 90° – 23° (or 67° N) is the southernmost latitude where the Sun can be seen for a full 24-hour period (sometimes called the “land of the midnight Sun”). That circle of latitude is called the <em data-effect=\"italics\">Arctic Circle</em>.</p> <figure><span data-alt=\"The Summer Solstice – June 21. The Earth is drawn with its axis of rotation, labeled “Earth axis”, pointing toward upper left. Sunlight is drawn as three red arrows coming from the left and striking the surface of the Earth. On the right-hand side of the figure, the five important circles of latitude are labeled. Starting from the bottom are: “Antarctic Circle”, “Tropic of Capricorn”, “Equator”, “Tropic of Cancer” and “Arctic Circle”.\" data-type=\"media\"><img alt=\"The Summer Solstice – June 21. The Earth is drawn with its axis of rotation, labeled “Earth axis”, pointing toward upper left. Sunlight is drawn as three red arrows coming from the left and striking the surface of the Earth. On the right-hand side of the figure, the five important circles of latitude are labeled. Starting from the bottom are: “Antarctic Circle”, “Tropic of Capricorn”, “Equator”, “Tropic of Cancer” and “Arctic Circle”.\" data-media-type=\"image/jpeg\" src=\"/@api/deki/files/45827/629502e96dd5f2f73e589c864f74456f8456e65e\" /> </span> <figcaption>Figure 4.8 : Earth on June 21. This is the date of the summer solstice in the Northern Hemisphere. Note that as Earth turns on its axis (the line connecting the North and South Poles), the North Pole is in constant sunlight while the South Pole is veiled in 24 hours of darkness. The Sun is at the zenith for observers on the Tropic of Cancer.</figcaption> </figure> <p class=\"lt-phys-64668\">Many early cultures scheduled special events around the summer solstice to celebrate the longest days and thank their gods for making the weather warm. This required people to keep track of the lengths of the days and the northward trek of the Sun in order to know the right day for the “party.” (You can do the same thing by watching for several weeks, from the same observation point, where the Sun rises or sets relative to a fixed landmark. In spring, the Sun will rise farther and farther north of east, and set farther and farther north of west, reaching the maximum around the summer solstice.)</p> <p class=\"lt-phys-64668\">Now look at the South Pole in Figure 4.8. On June 21, all places within 23° of the South Pole—that is, south of what we call the <em data-effect=\"italics\">Antarctic Circle</em>—do not see the Sun at all for 24 hours.</p> <p class=\"lt-phys-64668\">The situation is reversed 6 months later, about December 21 (the date of the <em data-effect=\"italics\">winter solstice</em>, or the first day of winter in the Northern Hemisphere), as shown in Figure 4.9. Now it is the Arctic Circle that has the 24-hour night and the Antarctic Circle that has the midnight Sun. At latitude 23° S, called the <em data-effect=\"italics\">Tropic of Capricorn</em>, the Sun passes through the zenith at noon. Days are longer in the Southern Hemisphere and shorter in the north. In the United States and Southern Europe, there may be only 9 or 10 hours of sunshine during the day. It is winter in the Northern Hemisphere and summer in the Southern Hemisphere.</p> <figure><span data-alt=\"The Winter Solstice – December 21. The Earth is drawn with its axis of rotation, labeled “Earth axis”, pointing toward upper right. Sunlight is drawn as three red arrows coming from the left and striking the surface of the Earth. On the right-hand side of the figure, the five important circles of latitude are labeled. Starting from the bottom are: “Antarctic Circle”, “Tropic of Capricorn”, “Equator”, “Tropic of Cancer” and “Arctic Circle”.\" data-type=\"media\"><img alt=\"The Winter Solstice – December 21. The Earth is drawn with its axis of rotation, labeled “Earth axis”, pointing toward upper right. Sunlight is drawn as three red arrows coming from the left and striking the surface of the Earth. On the right-hand side of the figure, the five important circles of latitude are labeled. Starting from the bottom are: “Antarctic Circle”, “Tropic of Capricorn”, “Equator”, “Tropic of Cancer” and “Arctic Circle”.\" data-media-type=\"image/jpeg\" src=\"/@api/deki/files/45824/1e15b1a1d7cc18381cd0b4202d7de68ecbfb20fa\" /> </span> <figcaption>Figure 4.9 : Earth on December 21. This is the date of the winter solstice in the Northern Hemisphere. Now the North Pole is in darkness for 24 hours and the South Pole is illuminated. The Sun is at the zenith for observers on the Tropic of Capricorn and thus is low in the sky for the residents of the Northern Hemisphere.</figcaption> </figure> <div class=\"box-example\"> <h5 class=\"box-legend lt-phys-64668\"><span class=\"lt-icon-default\">Example 4.1: Seasonal Variations</span></h5> <p class=\"lt-phys-64668\">As you can see in Figure 4.8, the Tropic of Cancer is the latitude for which the Sun is directly overhead on the summer solstice. At this time, the Sun is at a declination of 23° N of the celestial equator, and the corresponding latitude on Earth is 23° N of the equator. If Earth were tilted a bit less, then the Tropic of Cancer would be at a lower latitude, closer to the equator.</p> <p class=\"lt-phys-64668\">The Arctic Circle marks the southernmost latitude for which the day length is 24 hours on the day of the summer solstice. This is located at 90° – 23° = 67° N of Earth’s equator. If Earth were tilted a bit less, then the Arctic Circle would move farther North. In the limit at which Earth is not tilted at all (its axis is perpendicular to the ecliptic), the Tropic of Cancer would be right on Earth’s equator, and the Arctic Circle would simply be the North Pole. Suppose the tilt of Earth’s axis were tilted only 5°. What would be the effect on the seasons and the locations of the Tropic of Cancer and Arctic Circle?</p> <h6 class=\"lt-phys-64668\">Solution</h6> <p class=\"lt-phys-64668\">If Earth were tilted less, the seasons would be less extreme. The variation in day length and direct sunlight would be very small over the course of a year, and the Sun’s daily path in the sky would not vary much. If Earth were tilted by 5°, the Sun’s position on the day of the summer solstice would be 5° N of the celestial equator, so the Tropic of Cancer would be at the corresponding latitude on Earth of 5° N of the Equator. The Arctic Circle would be located at 90° – 5° = 85° N of the equator.</p> </div> <section class=\"box-exercise\"> <h5 class=\"box-legend lt-phys-64668\"><span class=\"lt-icon-default\">Exercise \\(\\PageIndex{1}\\)</span></h5> <p class=\"lt-phys-64668\">Suppose the tilt of Earth’s axis were 16°. What, then, would be the difference in latitude between the Arctic Circle and the Tropic of Cancer? What would be the effect on the seasons compared with that produced by the actual tilt of 23°?</p> <dl> <dt><strong class=\"emphasis bold\">Answer</strong></dt> <dd> <p class=\"lt-phys-64668\">&nbsp;</p> <p class=\"lt-phys-64668\">The Tropic of Cancer is at a latitude equal to Earth’s tilt, so in this case, it would be at 16° N latitude. The Arctic Circle is at a latitude equal to 90° minus Earth’s tilt, or 90° – 16° = 74°. The difference between these two latitudes is 74° – 16° = 58°. Since the tilt of Earth is less, there would be less variation in the tilt of Earth and less variation in the Sun’s paths throughout the year, so there would be milder seasonal changes.</p> </dd> </dl> </section> <div class=\"box-note\"> <h5 class=\"box-legend lt-phys-64668\"><span class=\"lt-icon-default\">Link to Learning</span></h5> <p class=\"lt-phys-64668\">The Columbia University’s Center for Teaching and Learning’s <a href=\"https://openstax.org/l/30motionsunsim\" rel=\"noopener nofollow\" target=\"_blank\">Motions of the Sun Simulator</a> allows you to see how the Sun’s changing altitude over the course of the year changes the intensity of lighting experienced on Earth. Select the “Step by day” option before running the animation to illustrate this effect.</p> </div> <p class=\"lt-phys-64668\">Many cultures that developed some distance north of the equator have a celebration around December 21 to help people deal with the depressing lack of sunlight and the often dangerously cold temperatures. Originally, this was often a time for huddling with family and friends, for sharing the reserves of food and drink, and for rituals asking the gods to return the light and heat and turn the cycle of the seasons around. Many cultures constructed elaborate devices for anticipating when the shortest day of the year was coming. Stonehenge in England, built long before the invention of writing, is probably one such device. In our own time, we continue the winter solstice tradition with various holiday celebrations around that December date.</p> <p class=\"lt-phys-64668\">Halfway between the solstices, on about March 21 and September 21, the Sun is on the celestial equator. From Earth, it appears above our planet’s equator and favors neither hemisphere. Every place on Earth then receives roughly 12 hours of sunshine and 12 hours of night. The points where the Sun crosses the celestial equator are called the <em data-effect=\"italics\">vernal</em> (spring) and <em data-effect=\"italics\">autumnal</em> (fall) <em data-effect=\"italics\">equinoxes</em>.</p> <h3 class=\"lt-phys-64668\">The Seasons at Different Latitudes</h3> <p class=\"lt-phys-64668\">The seasonal effects are different at different latitudes on Earth. Near the equator, for instance, all <span class=\"no-emphasis\" data-type=\"term\" group-by=\"s\">seasons</span> are much the same. Every day of the year, the Sun is up half the time, so there are approximately 12 hours of sunshine and 12 hours of night. Local residents define the seasons by the amount of rain (wet season and dry season) rather than by the amount of sunlight. As we travel north or south, the seasons become more pronounced, until we reach extreme cases in the Arctic and Antarctic.</p> <p class=\"lt-phys-64668\">At the North Pole, all celestial objects that are north of the celestial equator are always above the horizon and, as Earth turns, circle around parallel to it. The Sun is north of the celestial equator from about March 21 to September 21, so at the North Pole, the Sun rises when it reaches the vernal equinox and sets when it reaches the autumnal equinox. Each year there are 6 months of sunshine at each pole, followed by 6 months of darkness.</p> <div class=\"box-example\"> <h5 class=\"box-legend lt-phys-64668\"><span class=\"lt-icon-default\">Example 4.2: The Position of the Sun in the Sky</span></h5> <p class=\"lt-phys-64668\">The Sun’s coordinates on the celestial sphere range from a declination of 23° N of the celestial equator (or +23°) to a declination 23° S of the celestial equator (or –23°). So, the Sun’s altitude at noon, when it crosses the meridian, varies by a total of 46°. What is the altitude of the Sun at noon on March 21, as seen from a place on Earth’s equator? What is its altitude on June 21, as seen from a place on Earth’s equator?</p> <h6 class=\"lt-phys-64668\">Solution</h6> <p class=\"lt-phys-64668\">On Earth’s equator, the celestial equator passes through the zenith. On March 21, the Sun is crossing the celestial equator, so it should be found at the zenith (90°) at noon. On June 21, the Sun is 23° N of the celestial equator, so it will be 23° away from the zenith at noon. The altitude above the horizon will be 23° less than the altitude of the zenith (90°), so it is 90° – 23° = 67° above the horizon.</p> </div> <section class=\"box-exercise\"> <h5 class=\"box-legend lt-phys-64668\"><span class=\"lt-icon-default\">Exercise \\(\\PageIndex{1}\\)</span></h5> <p class=\"lt-phys-64668\">What is the altitude of the Sun at noon on December 21, as seen from a place on the Tropic of Cancer?</p> <dl> <dt><strong class=\"emphasis bold\">Answer</strong></dt> <dd> <p class=\"lt-phys-64668\">&nbsp;</p> <p class=\"lt-phys-64668\">On the day of the winter solstice, the Sun is located about 23° S of the celestial equator. From the Tropic of Cancer, a latitude of 23° N, the zenith would be a declination of 23° N. The difference in declination between zenith and the position of the Sun is 46°, so the Sun would be 46° away from the zenith. That means it would be at an altitude of 90° – 46° = 44°.</p> </dd> </dl> </section> <h3 class=\"lt-phys-64668\">Clarifications about the Real World</h3> <p class=\"lt-phys-64668\">In our discussions so far, we have been describing the rising and setting of the Sun and stars as they would appear if Earth had little or no atmosphere. In reality, however, the atmosphere has the curious effect of allowing us to see a little way “over the horizon.” This effect is a result of <em data-effect=\"italics\">refraction</em>, the bending of light passing through air or water, something we will discuss in Astronomical Instruments. Because of this atmospheric refraction (and the fact that the Sun is not a point of light but a disk), the Sun appears to rise earlier and to set later than it would if no atmosphere were present.</p> <p class=\"lt-phys-64668\">In addition, the atmosphere scatters light and provides some twilight illumination even when the Sun is below the horizon. Astronomers define morning twilight as beginning when the Sun is 18° below the horizon, and evening twilight extends until the Sun sinks more than 18° below the horizon.</p> <p class=\"lt-phys-64668\">These atmospheric effects require small corrections in many of our statements about the seasons. At the equinoxes, for example, the Sun appears to be above the horizon for a few minutes longer than 12 hours, and below the horizon for fewer than 12 hours. These effects are most dramatic at Earth’s poles, where the Sun actually can be seen more than a week before it reaches the celestial equator.</p> <p class=\"lt-phys-64668\">You probably know that the summer solstice (June 21) is not the warmest day of the year, even if it is the longest. The hottest months in the Northern Hemisphere are July and August. This is because our weather involves the air and water covering Earth’s surface, and these large reservoirs do not heat up instantaneously. You have probably observed this effect for yourself; for example, a pond does not get warm the moment the Sun rises but is warmest late in the afternoon, after it has had time to absorb the Sun’s heat. In the same way, Earth gets warmer after it has had a chance to absorb the extra sunlight that is the Sun’s summer gift to us. And the coldest times of winter are a month or more after the winter solstice.</p> <h3 class=\"lt-phys-64668\" data-type=\"footnote-refs-title\">Footnotes</h3> <ul data-bullet-style=\"none\" data-list-type=\"bulleted\"> <li class=\"lt-phys-64668\" data-type=\"footnote-ref\"><a href=\"/Bookshelves/Astronomy__Cosmology/Astronomy_2e_(OpenStax)/04:_Earth_Moon_and_Sky/4.03:_The_Seasons#footnote-ref1\" role=\"doc-backlink\">1</a><span data-type=\"footnote-ref-content\">Note</span><span data-type=\"footnote-ref-content\"> that the dates indicated for the solstices and equinoxes are approximate; depending on the year, they may occur a day or two earlier or later.</span></li> </ul>"
+              - generic [ref=f39e323]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f39e325] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f39e103]:
+          - separator [ref=f39e104]
+          - paragraph [ref=f39e106]:
+            - text: This page titled
+            - 'link "2.3: Earth" [ref=f39e107] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.03%3A_Earth
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f39e108] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f39e109] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f39e110] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f39e111]:
+        - list [ref=f39e112]:
+          - listitem [ref=f39e113]:
+            - link "Back to top" [ref=f39e114] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f39e115]:
+            - list [ref=f39e116]:
+              - listitem [ref=f39e117]:
+                - 'link " 2.2: The Sky Above" [ref=f39e118] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.02%3A_The_Sky_Above
+                  - text: 
+                  - generic [ref=f39e119]: "2.2: The Sky Above"
+              - listitem [ref=f39e120]:
+                - 'link "2.4: The Sun " [ref=f39e121] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.04%3A_The_Sun
+                  - generic [ref=f39e122]: "2.4: The Sun"
+                  - text: 
+        - list [ref=f39e125]:
+          - listitem [ref=f39e126]: Was this article helpful?
+          - listitem [ref=f39e127]:
+            - button "Yes" [ref=f39e128] [cursor=pointer]
+          - listitem [ref=f39e129]:
+            - button "No" [ref=f39e130] [cursor=pointer]
+          - listitem [ref=f39e131]:
+            - button "Leave feedback" [ref=f39e132] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , ,"
+        - generic [ref=f39e133]:
+          - heading "Attachments" [level=2] [ref=f39e134]
+          - generic:
+            - button "Attach a file" [ref=f39e135] [cursor=pointer]
+            - text: 
+          - generic [ref=f39e137]:
+            - generic [ref=f39e140]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f39e141]
+            - generic [ref=f39e142]:
+              - grid [ref=f39e145]:
+                - rowgroup [ref=f39e146]:
+                  - row [ref=f39e147]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f39e148]':
+                      - generic:
+                        - generic [ref=f39e149]: File
+                        - generic [ref=f39e150]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f39e151]':
+                      - generic:
+                        - generic [ref=f39e152]: Last modified
+                        - generic [ref=f39e153]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f39e154]':
+                      - generic:
+                        - generic [ref=f39e155]: Size
+                        - generic [ref=f39e156]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f39e157]':
+                      - generic:
+                        - generic [ref=f39e158]: Added by
+                        - generic [ref=f39e159]: 
+              - grid [ref=f39e161]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f39e326]: File
+                          - generic [ref=f39e327]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f39e328]: Last modified
+                          - generic [ref=f39e329]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f39e330]: Size
+                          - generic [ref=f39e331]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f39e332]: Added by
+                          - generic [ref=f39e333]: 
+                - rowgroup [ref=f39e170]:
+                  - row [ref=f39e334]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f39e335]:
+                      - generic [ref=f39e336]:
+                        - generic [ref=f39e337]:
+                          - generic [ref=f39e338]: 
+                          - link "mindtouch.page#thumbnail" [ref=f39e339] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/58560/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f39e340]:
+                          - generic [ref=f39e341]: (no description)
+                          - text: 
+                    - gridcell "Jun 26, 2025, 11:59 AM" [ref=f39e342]
+                    - gridcell "45 KiB" [ref=f39e344]
+                    - gridcell "Caitlin Kepple" [ref=f39e345]
+    - generic [ref=f39e174]:
+      - button "Open support menu" [ref=f39e176] [cursor=pointer]: "?"
+      - navigation [ref=f39e178]:
+        - paragraph [ref=f39e180]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f39e181] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f39e182] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f39e183] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f39e184] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f39e185] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f39e186]:
+      - generic:
+        - generic [ref=f39e188]:
+          - button "Annotation sidebar" [ref=f39e189]
+          - generic [ref=f39e194]:
+            - button "Show highlights" [ref=f39e195]
+            - button "New page note" [ref=f39e200]
+          - status [ref=f39e205]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f39e206]:
+    - button "contents" [ref=f39e207] [cursor=pointer]
+    - button "readability" [ref=f39e209] [cursor=pointer]
+    - button "resources" [ref=f39e211] [cursor=pointer]
+    - button "tools" [ref=f39e213] [cursor=pointer]
+    - button "developers" [ref=f39e215] [cursor=pointer]
+  - text:  
+  - generic [ref=f39e346]:
+    - generic [ref=f39e347] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f39e350] [cursor=pointer]

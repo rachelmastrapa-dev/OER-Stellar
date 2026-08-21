@@ -1,0 +1,323 @@
+- generic [ref=f340e1]:
+  - link "Skip to main content" [ref=f340e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f340e3]:
+    - text: 
+    - generic [ref=f340e4]:
+      - generic [ref=f340e5]:
+        - generic: ✕
+        - navigation [ref=f340e7]:
+          - generic [ref=f340e8]:
+            - link [ref=f340e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f340e11]
+            - button "Enter Reader Mode" [ref=f340e13] [cursor=pointer]:
+              - generic [ref=f340e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f340e16]:
+        - list [ref=f340e18]:
+          - listitem [ref=f340e19]:
+            - link [ref=f340e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f340e22]
+          - listitem [ref=f340e23]:
+            - text: 
+            - generic [ref=f340e25]:
+              - generic [ref=f340e26]: "Search :"
+              - searchbox "Search :" [ref=f340e27]
+              - button " Search" [ref=f340e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f340e29]:
+            - list [ref=f340e30]:
+              - listitem [ref=f340e31]:
+                - link "Edit" [ref=f340e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.02%3A_The_H-R_and_Star_Formation?action=edit
+              - text: 
+              - listitem [ref=f340e33]:
+                - link " Options" [ref=f340e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f340e35]:
+                - link " Rachel Mastrapa" [ref=f340e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f340e37]:
+        - generic:
+          - button " Contents" [ref=f340e218] [cursor=pointer]
+          - list [ref=f340e39]:
+            - listitem [ref=f340e40]:
+              - link " Home" [ref=f340e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f340e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f340e43]:
+              - link " Workbench" [ref=f340e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f340e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f340e46]:
+              - link " De Anza - ASTR10" [ref=f340e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f340e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f340e49]:
+              - 'link " 11: Star Formation" [ref=f340e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation
+                - generic [ref=f340e51]: 
+                - text: "11: Star Formation"
+              - text: »
+            - listitem [ref=f340e52]:
+              - generic [ref=f340e53]: 
+              - text: "11.2: The H-R and Star Formation"
+          - button " Expand/collapse global location" [ref=f340e54] [cursor=pointer]
+      - navigation:
+        - generic:                                              
+    - article [ref=f340e55]:
+      - generic [ref=f340e56]:
+        - generic [ref=f340e57]:
+          - button " Page settings" [ref=f340e58] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :     "
+        - 'heading "11.2: The H-R and Star Formation" [level=1] [ref=f340e59]':
+          - generic [ref=f340e219]: "11.2: The H-R and Star Formation "
+        - list [ref=f340e62]:
+          - listitem [ref=f340e63]:
+            - link [ref=f340e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f340e66]:
+                - img "CC" [ref=f340e67]
+                - img "BY" [ref=f340e68]
+          - listitem [ref=f340e69]:
+            - generic [ref=f340e70]:
+              - term [ref=f340e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f340e72]: Aug 4, 2026, 2:27 PM by Jyothsna Viswanadha
+          - listitem [ref=f340e73]:
+            - generic [ref=f340e74]:
+              - term [ref=f340e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f340e76]: Private
+          - listitem [ref=f340e77]:
+            - generic [ref=f340e78]:
+              - term [ref=f340e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f340e80]: "149008"
+          - listitem [ref=f340e81]:
+            - list [ref=f340e82]:
+              - listitem [ref=f340e83]:
+                - button "Pin Page" [ref=f340e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f340e85]:
+                - list [ref=f340e86]:
+                  - listitem [ref=f340e87]:
+                    - 'link " 11.1: Stellar Origins" [ref=f340e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.01%3A_Stellar_Origins
+                      - text: 
+                      - generic [ref=f340e89]: "11.1: Stellar Origins"
+                  - listitem [ref=f340e90]:
+                    - 'link "11.3: Evidence of Exoplanets " [ref=f340e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.03%3A_Evidence_of_Exoplanets
+                      - generic [ref=f340e92]: "11.3: Evidence of Exoplanets"
+                      - text: 
+              - text:  
+      - list [ref=f340e95]:
+        - listitem [ref=f340e96]:
+          - img "OpenStax" [ref=f340e97]
+        - listitem [ref=f340e98]:
+          - link "OpenStax" [ref=f340e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f340e100]:
+          - link "OpenStax" [ref=f340e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f340e102]:
+        - group [ref=f340e223]:
+          - generic [ref=f340e224]:
+            - generic [ref=f340e225]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f340e226]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f340e227]:
+            - generic [ref=f340e230]:
+              - generic [ref=f340e232]:
+                - link "Edit" [ref=f340e233]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f340e234]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f340e235]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f340e236]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f340e237]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f340e238]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f340e241]:
+                - toolbar [ref=f340e242]:
+                  - button "Save" [ref=f340e243]:
+                    - generic [ref=f340e244]: 
+                  - button "Cancel" [ref=f340e246]:
+                    - generic [ref=f340e247]: 
+                - text:          
+                - toolbar [ref=f340e288]:
+                  - button "Alignment" [ref=f340e289]:
+                    - generic [ref=f340e290]: 
+                - text:    
+                - toolbar [ref=f340e303]:
+                  - button "Replace" [ref=f340e304]:
+                    - generic [ref=f340e305]: 
+                - toolbar [ref=f340e307]:
+                  - button "Enable Binder" [disabled] [ref=f340e308]
+                  - button "Insert Adapt" [disabled] [ref=f340e310]
+                  - button "Query" [ref=f340e312]
+                  - button "Accessibility Checker" [disabled] [ref=f340e315]
+                - toolbar [ref=f340e318]:
+                  - button "Visual" [pressed] [ref=f340e334]:
+                    - generic [ref=f340e320]: 
+            - application "Rich Text Editor, editarea" [ref=f340e322]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f340e336]: "<h2>The H-R Diagram</h2> <p class=\"lt-phys-64784\">One of the best ways to summarize all of these details about how a star or protostar changes with time is to use a Hertzsprung-Russell (H–R) diagram. When looking at an H–R diagram, the x-axis measures temperature and is plotted increasing toward the left. As a star goes through the stages of its life, its luminosity and temperature change. Thus, its position on the H–R diagram, in which luminosity is plotted against temperature, also changes. As a star ages, we must replot it in different places on the diagram. Therefore, astronomers often speak of a star moving on the H–R diagram, or of its evolution tracing out a path on the diagram. In this context, “tracing out a path” has nothing to do with the star’s motion through space; this is just a shorthand way of saying that its temperature and luminosity change as it evolves.</p> <p class=\"lt-phys-64784\">To estimate just how much the luminosity and temperature of a star change as it ages, we must resort to calculations. Theorists compute a series of models for a star, with each successive model representing a later point in time. Stars may change for a variety of reasons. Protostars, for example, change in size because they are contracting, and their temperature and luminosity change as they do so. After nuclear fusion begins in the star’s core, main-sequence stars change because they are using up their nuclear fuel.</p> <p class=\"lt-phys-64784\">Given a model that represents a star at one stage of its evolution, we can calculate what it will be like at a slightly later time. At each step, the model predicts the luminosity and size of the star, and from these values, we can figure out its surface temperature. A series of points on an H–R diagram, calculated in this way, allows us to follow the life changes of a star and hence is called its evolutionary track.</p> <h2 class=\"lt-phys-64784\">Evolutionary Tracks</h2> <p class=\"lt-phys-64784\">Let’s now use these ideas to follow the evolution of protostars that are on their way to becoming main-sequence stars. Note that, in astronomy,&nbsp;the term evolution means the change over time of an individual star, unlike the biological term for how species change over generations. The evolutionary tracks of newly forming stars with a range of stellar masses are shown in Figure \\(\\PageIndex{1}\\). These young stellar objects are not yet producing energy by nuclear reactions, but they derive energy from gravitational contraction.&nbsp;Remember that the surface temperature on the horizontal axis increases toward the left. Tracks are plotted on the H–R diagram to show how stars of different masses change during the early parts of their lives. The number next to each dark point on a track is the rough number of years, predicted by computer models,&nbsp;it takes an embryo star to reach that stage. The more mass a star has, the shorter time it takes to go through each stage. Stars above the dashed line are typically still surrounded by infalling material and are hidden by it.</p> <figure><img alt=\"Hertzsprung-Russell diagram with protostars of different mass. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/45796/3f0a2ec9e1177cafc917261830736d061621cf51\" /> <figcaption>Figure \\(\\PageIndex{1}\\): Evolutionary Tracks of Protostars. The tracks traced&nbsp;on the H–R diagram by developing protostars demonstrate how the length of time they take to form decreases with mass. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY\">CC BY</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>).&nbsp;<a href=\"/Workbench/De_Anza_-_ASTR10/11:_Star_Formation/11.06:_Accessible_Descriptions#Figure_11.2.1_Evolutionary_Tracks_of_Protostars\" title=\"11.6: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{1}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64784\">Initially, a protostar remains fairly cool with a very large radius and a very low density. It is transparent to infrared radiation, and the heat generated by gravitational contraction can be radiated away freely into space. Because heat builds up slowly inside the protostar, the gas pressure remains low, and the outer layers fall almost unhindered toward the center. Thus, the protostar undergoes very rapid collapse, a stage that corresponds to the roughly vertical lines at the right of Figure \\(\\PageIndex{1}\\). As the star shrinks, its surface area gets smaller, and so its total luminosity decreases. The rapid contraction stops only when the protostar becomes dense and opaque enough to trap the heat released by gravitational contraction.</p> <p class=\"lt-phys-64784\">When the star begins to retain its heat, the contraction becomes much slower, and changes inside the contracting star keep the luminosity of stars like our Sun roughly constant. The surface temperatures start to build up, and the star “moves” to the left in the H–R diagram. Stars first become visible only after the stellar wind described earlier clears away the surrounding dust and gas. This can happen during the rapid-contraction phase for low-mass stars, but high-mass stars remain shrouded in dust until they end their early phase of gravitational contraction, depicted by&nbsp;the dashed line in Figure \\(\\PageIndex{1}\\).</p> <p class=\"lt-phys-64784\">When the star’s central temperature reaches about 12 million K, it is able&nbsp;to fuse hydrogen into helium.&nbsp;&nbsp;At this point, the star has reached the main sequence. It is now a full-fledged star, more or less in equilibrium, and its rate of change slows dramatically. Only the gradual depletion of hydrogen as it is transformed into helium in the core slowly changes the star’s properties. The mass of a star determines exactly where it falls on the main sequence. In Figure \\(\\PageIndex{1}\\), massive stars on the main sequence have high temperatures and high luminosities. Low-mass stars have low temperatures and low luminosities.</p> <p class=\"lt-phys-64784\">Objects of extremely low mass never achieve high-enough central temperatures to ignite nuclear reactions. The lower end of the main sequence stops where stars have a mass just barely great enough to sustain nuclear reactions at a sufficient rate to stop gravitational contraction. This critical mass is calculated to be about 0.075 times the mass of the Sun. Objects below this critical mass are called either brown dwarfs or planets. At the other extreme, the upper end of the main sequence terminates at the point where the energy radiated by the newly forming massive star becomes so great that it halts the accretion of additional matter. The upper limit of stellar mass is between 100 and 200 solar masses.</p> <h2 class=\"lt-phys-64784\">Evolutionary Timescales</h2> <p class=\"lt-phys-64784\">How long it takes a star to form depends on its mass. The numbers that label the points on each track in Figure \\(\\PageIndex{1}\\) are the times, in years, required for the embryo stars to reach the stages we have been discussing. Stars of masses much higher than the Sun’s reach the main sequence in a few thousand to a million years. The Sun required millions of years before it was born. Tens of millions of years are required for stars of lower mass to evolve to the lower main sequence. Massive stars go through all stages of evolution faster than low-mass stars do.</p> <section class=\"box-note\"> <h5 class=\"box-legend\"><span class=\"lt-icon-default\">Further Exploratoin: Interactive Activity</span></h5> <p>Watch this short animation from the European Space Agency (ESA) for a visual explanation of how stars are organized on the Hertzsprung-Russell diagram and how stellar properties such as temperature, luminosity, and size are related: <a href=\"https://www.youtube.com/watch?v=mY2edzGYWyU\" rel=\"noopener noreferrer\" target=\"_blank\"> Hertzsprung-Russell Diagram Animation (ESA) </a>.</p> </section>"
+              - generic [ref=f340e324]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f340e326] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f340e104]:
+          - separator [ref=f340e105]
+          - paragraph [ref=f340e107]:
+            - text: This page titled
+            - 'link "11.2: The H-R and Star Formation" [ref=f340e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.02%3A_The_H-R_and_Star_Formation
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f340e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f340e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f340e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f340e112]:
+        - list [ref=f340e113]:
+          - listitem [ref=f340e114]:
+            - link "Back to top" [ref=f340e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f340e116]:
+            - list [ref=f340e117]:
+              - listitem [ref=f340e118]:
+                - 'link " 11.1: Stellar Origins" [ref=f340e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.01%3A_Stellar_Origins
+                  - text: 
+                  - generic [ref=f340e120]: "11.1: Stellar Origins"
+              - listitem [ref=f340e121]:
+                - 'link "11.3: Evidence of Exoplanets " [ref=f340e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.03%3A_Evidence_of_Exoplanets
+                  - generic [ref=f340e123]: "11.3: Evidence of Exoplanets"
+                  - text: 
+        - list [ref=f340e126]:
+          - listitem [ref=f340e127]: Was this article helpful?
+          - listitem [ref=f340e128]:
+            - button "Yes" [ref=f340e129] [cursor=pointer]
+          - listitem [ref=f340e130]:
+            - button "No" [ref=f340e131] [cursor=pointer]
+          - listitem [ref=f340e132]:
+            - button "Leave feedback" [ref=f340e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , ,"
+        - generic [ref=f340e134]:
+          - heading "Attachments" [level=2] [ref=f340e135]
+          - generic:
+            - button "Attach a file" [ref=f340e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f340e138]:
+            - generic [ref=f340e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f340e142]
+            - generic [ref=f340e143]:
+              - grid [ref=f340e146]:
+                - rowgroup [ref=f340e147]:
+                  - row [ref=f340e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f340e149]':
+                      - generic:
+                        - generic [ref=f340e150]: File
+                        - generic [ref=f340e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f340e152]':
+                      - generic:
+                        - generic [ref=f340e153]: Last modified
+                        - generic [ref=f340e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f340e155]':
+                      - generic:
+                        - generic [ref=f340e156]: Size
+                        - generic [ref=f340e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f340e158]':
+                      - generic:
+                        - generic [ref=f340e159]: Added by
+                        - generic [ref=f340e160]: 
+              - grid [ref=f340e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f340e163]: File
+                          - generic [ref=f340e164]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f340e165]: Last modified
+                          - generic [ref=f340e166]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f340e167]: Size
+                          - generic [ref=f340e168]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f340e169]: Added by
+                          - generic [ref=f340e170]: 
+                - rowgroup [ref=f340e171]:
+                  - row [ref=f340e172]:
+                    - gridcell "No files attached." [ref=f340e173]
+    - generic [ref=f340e175]:
+      - button "Open support menu" [ref=f340e177] [cursor=pointer]: "?"
+      - navigation [ref=f340e179]:
+        - paragraph [ref=f340e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f340e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f340e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f340e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f340e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f340e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f340e187]:
+      - generic:
+        - generic [ref=f340e189]:
+          - button "Annotation sidebar" [ref=f340e190]
+          - generic [ref=f340e195]:
+            - button "Show highlights" [ref=f340e196]
+            - button "New page note" [ref=f340e201]
+          - status [ref=f340e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f340e207]:
+    - button "contents" [ref=f340e208] [cursor=pointer]
+    - button "readability" [ref=f340e210] [cursor=pointer]
+    - button "resources" [ref=f340e212] [cursor=pointer]
+    - button "tools" [ref=f340e214] [cursor=pointer]
+    - button "developers" [ref=f340e216] [cursor=pointer]
+  - text:  
+  - generic [ref=f340e327]:
+    - generic [ref=f340e328] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f340e331] [cursor=pointer]

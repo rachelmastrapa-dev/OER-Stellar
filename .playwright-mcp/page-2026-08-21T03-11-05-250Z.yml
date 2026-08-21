@@ -1,0 +1,260 @@
+- generic [active] [ref=f603e1]:
+  - link "Skip to main content" [ref=f603e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f603e3]:
+    - text: 
+    - generic [ref=f603e4]:
+      - generic [ref=f603e5]:
+        - generic: ✕
+        - navigation [ref=f603e7]:
+          - generic [ref=f603e8]:
+            - link [ref=f603e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f603e11]
+            - button "Enter Reader Mode" [ref=f603e13] [cursor=pointer]:
+              - generic [ref=f603e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f603e16]:
+        - list [ref=f603e18]:
+          - listitem [ref=f603e19]:
+            - link [ref=f603e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f603e22]
+          - listitem [ref=f603e23]:
+            - text: 
+            - generic [ref=f603e25]:
+              - generic [ref=f603e26]: "Search :"
+              - searchbox "Search :" [ref=f603e27]
+              - button " Search" [ref=f603e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f603e29]:
+            - list [ref=f603e30]:
+              - listitem [ref=f603e31]:
+                - link "Edit" [ref=f603e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.15%3A_Maxwell_James_Clerk?action=edit
+              - text: 
+              - listitem [ref=f603e33]:
+                - link " Options" [ref=f603e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f603e35]:
+                - link " Rachel Mastrapa" [ref=f603e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f603e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f603e38] [cursor=pointer]
+          - list [ref=f603e39]:
+            - listitem [ref=f603e40]:
+              - link " Home" [ref=f603e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f603e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f603e43]:
+              - link " Workbench" [ref=f603e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f603e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f603e46]:
+              - link " De Anza - ASTR10" [ref=f603e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f603e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f603e49]:
+              - 'link " 18: Appendices" [ref=f603e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices
+                - generic [ref=f603e51]: 
+                - text: "18: Appendices"
+              - text: »
+            - listitem [ref=f603e52]:
+              - 'link " 18.1: Alphabetical List of Scientists" [ref=f603e53] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists
+                - generic [ref=f603e54]: 
+                - text: "18.1: Alphabetical List of Scientists"
+              - text: »
+            - listitem [ref=f603e55]:
+              - generic [ref=f603e56]: 
+              - text: "18.1.15: Maxwell, James Clerk"
+          - button " Expand/collapse global location" [ref=f603e57] [cursor=pointer]
+      - navigation
+    - article [ref=f603e58]:
+      - generic [ref=f603e59]:
+        - generic [ref=f603e60]:
+          - button " Page settings" [ref=f603e61] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "18.1.15: Maxwell, James Clerk" [level=1] [ref=f603e62]'
+        - list [ref=f603e65]:
+          - listitem [ref=f603e66]:
+            - link [ref=f603e68] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f603e69]:
+                - img "CC" [ref=f603e70]
+                - img "BY" [ref=f603e71]
+          - listitem [ref=f603e72]:
+            - generic [ref=f603e73]:
+              - term [ref=f603e74] [cursor=pointer]: "Last updated:"
+              - definition [ref=f603e75]: Dec 25, 2025, 10:11 PM by Rachel Mastrapa
+          - listitem [ref=f603e76]:
+            - generic [ref=f603e77]:
+              - term [ref=f603e78] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f603e79]: Private
+          - listitem [ref=f603e80]:
+            - generic [ref=f603e81]:
+              - term [ref=f603e82] [cursor=pointer]: "Page ID:"
+              - definition [ref=f603e83]: "140432"
+          - listitem [ref=f603e84]:
+            - list [ref=f603e85]:
+              - listitem [ref=f603e86]:
+                - button "Pin Page" [ref=f603e87] [cursor=pointer]: 
+              - listitem
+              - text: 
+              - listitem [ref=f603e88]:
+                - list [ref=f603e89]:
+                  - listitem [ref=f603e90]:
+                    - 'link " 18.1.14: Lowell, Percival" [ref=f603e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.14%3A_Lowell_Percival
+                      - text: 
+                      - generic [ref=f603e92]: "18.1.14: Lowell, Percival"
+                  - listitem [ref=f603e93]:
+                    - 'link "18.1.16: Newton, Isaac " [ref=f603e94] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.16%3A_Newton_Isaac
+                      - generic [ref=f603e95]: "18.1.16: Newton, Isaac"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f603e96]:
+        - paragraph [ref=f603e97]
+        - generic [ref=f603e98]:
+          - separator [ref=f603e99]
+          - paragraph [ref=f603e101]:
+            - 'link "18.1.15: Maxwell, James Clerk" [ref=f603e102] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.15%3A_Maxwell_James_Clerk
+            - text: is shared under a
+            - link "CC BY" [ref=f603e103] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f603e104]:
+        - list [ref=f603e105]:
+          - listitem [ref=f603e106]:
+            - link "Back to top" [ref=f603e107] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f603e108]:
+            - list [ref=f603e109]:
+              - listitem [ref=f603e110]:
+                - 'link " 18.1.14: Lowell, Percival" [ref=f603e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.14%3A_Lowell_Percival
+                  - text: 
+                  - generic [ref=f603e112]: "18.1.14: Lowell, Percival"
+              - listitem [ref=f603e113]:
+                - 'link "18.1.16: Newton, Isaac " [ref=f603e114] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.16%3A_Newton_Isaac
+                  - generic [ref=f603e115]: "18.1.16: Newton, Isaac"
+                  - text: 
+        - list [ref=f603e118]:
+          - listitem [ref=f603e119]: Was this article helpful?
+          - listitem [ref=f603e120]:
+            - button "Yes" [ref=f603e121] [cursor=pointer]
+          - listitem [ref=f603e122]:
+            - button "No" [ref=f603e123] [cursor=pointer]
+          - listitem [ref=f603e124]:
+            - button "Leave feedback" [ref=f603e125] [cursor=pointer]
+          - listitem
+        - text: ": : : :"
+        - generic [ref=f603e126]:
+          - heading "Attachments" [level=2] [ref=f603e127]
+          - generic:
+            - button "Attach a file" [ref=f603e128] [cursor=pointer]
+            - text: 
+          - generic [ref=f603e130]:
+            - generic [ref=f603e133]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f603e134]
+            - generic [ref=f603e135]:
+              - grid [ref=f603e138]:
+                - rowgroup [ref=f603e139]:
+                  - row [ref=f603e140]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f603e141]':
+                      - generic:
+                        - generic [ref=f603e142]: File
+                        - generic [ref=f603e143]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f603e144]':
+                      - generic:
+                        - generic [ref=f603e145]: Last modified
+                        - generic [ref=f603e146]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f603e147]':
+                      - generic:
+                        - generic [ref=f603e148]: Size
+                        - generic [ref=f603e149]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f603e150]':
+                      - generic:
+                        - generic [ref=f603e151]: Added by
+                        - generic [ref=f603e152]: 
+              - grid [ref=f603e154]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f603e155]: File
+                          - generic [ref=f603e156]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f603e157]: Last modified
+                          - generic [ref=f603e158]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f603e159]: Size
+                          - generic [ref=f603e160]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f603e161]: Added by
+                          - generic [ref=f603e162]: 
+                - rowgroup [ref=f603e163]:
+                  - row [ref=f603e164]:
+                    - gridcell "No files attached." [ref=f603e165]
+    - generic [ref=f603e167]:
+      - button "Open support menu" [ref=f603e169] [cursor=pointer]: "?"
+      - navigation [ref=f603e171]:
+        - paragraph [ref=f603e173]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f603e174] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f603e175] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f603e176] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f603e177] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f603e178] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f603e179]:
+      - generic:
+        - generic [ref=f603e181]:
+          - button "Annotation sidebar" [ref=f603e182]
+          - generic [ref=f603e187]:
+            - button "Show highlights" [ref=f603e188]
+            - button "New page note" [ref=f603e193]
+          - status [ref=f603e198]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f603e199]:
+    - button "contents" [ref=f603e200] [cursor=pointer]
+    - button "readability" [ref=f603e202] [cursor=pointer]
+    - button "resources" [ref=f603e204] [cursor=pointer]
+    - button "tools" [ref=f603e206] [cursor=pointer]
+    - button "developers" [ref=f603e208] [cursor=pointer]

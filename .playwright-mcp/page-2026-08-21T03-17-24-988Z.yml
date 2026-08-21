@@ -1,0 +1,319 @@
+- generic [ref=f635e1]:
+  - link "Skip to main content" [ref=f635e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f635e3]:
+    - text: 
+    - generic [ref=f635e4]:
+      - generic [ref=f635e5]:
+        - generic: ✕
+        - navigation [ref=f635e7]:
+          - generic [ref=f635e8]:
+            - link [ref=f635e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f635e11]
+            - button "Enter Reader Mode" [ref=f635e13] [cursor=pointer]:
+              - generic [ref=f635e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f635e16]:
+        - list [ref=f635e18]:
+          - listitem [ref=f635e19]:
+            - link [ref=f635e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f635e22]
+          - listitem [ref=f635e23]:
+            - text: 
+            - generic [ref=f635e25]:
+              - generic [ref=f635e26]: "Search :"
+              - searchbox "Search :" [ref=f635e27]
+              - button " Search" [ref=f635e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f635e29]:
+            - list [ref=f635e30]:
+              - listitem [ref=f635e31]:
+                - link "Edit" [ref=f635e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.02%3A_Tables?action=edit
+              - text: 
+              - listitem [ref=f635e33]:
+                - link " Options" [ref=f635e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f635e35]:
+                - link " Rachel Mastrapa" [ref=f635e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f635e37]:
+        - generic:
+          - button " Contents" [ref=f635e206] [cursor=pointer]
+          - list [ref=f635e39]:
+            - listitem [ref=f635e40]:
+              - link " Home" [ref=f635e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f635e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f635e43]:
+              - link " Workbench" [ref=f635e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f635e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f635e46]:
+              - link " De Anza - ASTR10" [ref=f635e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f635e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f635e49]:
+              - 'link " 18: Appendices" [ref=f635e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices
+                - generic [ref=f635e51]: 
+                - text: "18: Appendices"
+              - text: »
+            - listitem [ref=f635e52]:
+              - generic [ref=f635e53]: 
+              - text: "18.2: Tables"
+          - text: 
+      - navigation:
+        - generic:                                           
+    - article [ref=f635e54]:
+      - generic [ref=f635e55]:
+        - generic [ref=f635e56]:
+          - button " Page settings" [ref=f635e57] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "18.2: Tables" [level=1] [ref=f635e58]':
+          - generic [ref=f635e207]: "18.2: Tables "
+        - list [ref=f635e61]:
+          - listitem [ref=f635e62]:
+            - link [ref=f635e64] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f635e65]:
+                - img "CC" [ref=f635e66]
+                - img "BY" [ref=f635e67]
+          - listitem [ref=f635e68]:
+            - generic [ref=f635e69]:
+              - term [ref=f635e70] [cursor=pointer]: "Last updated:"
+              - definition [ref=f635e71]: Feb 9, 2026, 2:51 PM by Rachel Mastrapa
+          - listitem [ref=f635e72]:
+            - generic [ref=f635e73]:
+              - term [ref=f635e74] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f635e75]: Private
+          - listitem [ref=f635e76]:
+            - generic [ref=f635e77]:
+              - term [ref=f635e78] [cursor=pointer]: "Page ID:"
+              - definition [ref=f635e79]: "140442"
+          - listitem [ref=f635e80]:
+            - list [ref=f635e81]:
+              - listitem [ref=f635e82]:
+                - button "Pin Page" [ref=f635e83] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f635e84]:
+                - list [ref=f635e85]:
+                  - listitem [ref=f635e86]:
+                    - 'link " 18.1.24: Geller, Margaret" [ref=f635e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.24%3A_Geller_Margaret
+                      - text: 
+                      - generic [ref=f635e88]: "18.1.24: Geller, Margaret"
+                  - listitem [ref=f635e89]:
+                    - link "Back Matter " [ref=f635e90] [cursor=pointer]:
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/zz%3A_Back_Matter
+                      - generic [ref=f635e91]: Back Matter
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f635e92]:
+        - group [ref=f635e211]:
+          - generic [ref=f635e212]:
+            - generic [ref=f635e213]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f635e214]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f635e215]:
+            - generic [ref=f635e218]:
+              - generic [ref=f635e220]:
+                - link "Edit" [ref=f635e221]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f635e222]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f635e223]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f635e224]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f635e225]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f635e226]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f635e229]:
+                - toolbar [ref=f635e230]:
+                  - button "Save" [ref=f635e231]:
+                    - generic [ref=f635e232]: 
+                  - button "Cancel" [ref=f635e234]:
+                    - generic [ref=f635e235]: 
+                - text:          
+                - toolbar [ref=f635e276]:
+                  - button "Alignment" [ref=f635e277]:
+                    - generic [ref=f635e278]: 
+                - text:    
+                - toolbar [ref=f635e291]:
+                  - button "Replace" [ref=f635e292]:
+                    - generic [ref=f635e293]: 
+                - toolbar [ref=f635e295]:
+                  - button "Enable Binder" [disabled] [ref=f635e296]
+                  - button "Insert Adapt" [disabled] [ref=f635e298]
+                  - button "Query" [ref=f635e300]
+                  - button "Accessibility Checker" [disabled] [ref=f635e303]
+                - toolbar [ref=f635e306]:
+                  - button "Visual" [pressed] [ref=f635e342]:
+                    - generic [ref=f635e308]: 
+            - application "Rich Text Editor, editarea" [ref=f635e310]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f635e344]: "<h2>Helpful Tables</h2> <table class=\"mt-responsive-table\"> <caption><a id=\"Visible+and+Infrared+Telescopes\" name=\"Visible+and+Infrared+Telescopes\"></a>Table XX: Visible&nbsp;and Infrared Telescopes</caption> <thead> <tr valign=\"top\"> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Aperture (m)</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Telescope Name</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Location</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Status</th> </tr> </thead> <tbody> <tr valign=\"top\"> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Aperture (m)\" data-valign=\"top\">39</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><a href=\"/www.eso.org/sci/facilities/eelt\" target=\"_blank\" title=\"www.eso.org/sci/facilities/eelt\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"E\">European Extremely Large Telescope</span> (E-ELT)</a></td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Cerro Armazonas, Chile</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">First light 2030-2035</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Aperture (m)\" data-valign=\"top\">30</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><a href=\"/www.tmt.org\" target=\"_blank\" title=\"www.tmt.org\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"T\">Thirty-Meter Telescope</span> (TMT)</a></td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">??</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">??</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Aperture (m)\" data-valign=\"top\">24.5</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><a href=\"/www.gmto.org\" target=\"_blank\" title=\"www.gmto.org\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"G\">Giant Magellan Telescope</span> (GMT)</a></td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Las Campanas Observatory, Chile</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">First light 2029 (estimated)</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Aperture (m)\" data-valign=\"top\"><math display=\"inline\"><semantics><mrow><mrow><mn>11.1</mn><mo>×</mo><mn>9.9</mn></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>11.1</mn><mo>×</mo><mn>9.9</mn></mrow></annotation-xml></semantics></math></td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><a href=\"/www.salt.ac.za\" target=\"_blank\" title=\"www.salt.ac.za\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"S\">Southern African Large Telescope</span> (SALT)</a></td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Sutherland, South Africa</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">2005</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Aperture (m)\" data-valign=\"top\">10.4</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><a href=\"http://www.gtc.iac.es\" title=\"http://www.gtc.iac.es\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"G\">Gran Telescopio Canarias</span> (GTC)</a></td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">La Palma, Canary Islands</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">First light 2007</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Aperture (m)\" data-valign=\"top\">10.0</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><a href=\"/www.keckobservatory.org\" title=\"www.keckobservatory.org\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"K\">Keck I and II</span> (two telescopes)</a></td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Maunakea, HI</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">Completed 1993–96</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Aperture (m)\" data-valign=\"top\">9.1</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><a href=\"/www.as.utexas.edu/mcdonald/het\" title=\"www.as.utexas.edu/mcdonald/het\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"H\">Hobby–Eberly Telescope</span> (HET)</a></td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Mount Locke, TX</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">Completed 1997</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Aperture (m)\" data-valign=\"top\">8.4</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><a href=\"/www.lbto.org\" title=\"www.lbto.org\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"L\">Large Binocular Telescope</span> (LBT) (two telescopes)</a></td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Mount Graham, AZ</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">First light 2004</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Aperture (m)\" data-valign=\"top\">8.4</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><a href=\"/www.lsst.org\" target=\"_blank\" title=\"www.lsst.org\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"L\">Large Synoptic Survey Telescope</span> (Rubin Obs.)</a></td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">The Cerro Pachón, Chile</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">First light 2021</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Aperture (m)\" data-valign=\"top\">8.3</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><a href=\"/www.naoj.org\" target=\"_blank\" title=\"www.naoj.org\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"S\">Subaru Telescope</span></a></td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Maunakea, HI</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">First light 1998</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Aperture (m)\" data-valign=\"top\">8.2</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><a href=\"/www.eso.org/public/teles-instr/paranal\" target=\"_blank\" title=\"www.eso.org/public/teles-instr/paranal\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"V\">Very Large Telescope</span> (VLT)</a></td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Cerro Paranal, Chile</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">All four telescopes completed 2000</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Aperture (m)\" data-valign=\"top\">8.1</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><a href=\"/www.gemini.edu\" target=\"_blank\" title=\"www.gemini.edu\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"G\">Gemini North</span> and <span class=\"no-emphasis\" data-type=\"term\" group-by=\"G\">Gemini South</span></a></td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Maunakea, HI (North) and Cerro Pachón, Chile (South)</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">First light 1999 (North), First light 2000 (South)</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Aperture (m)\" data-valign=\"top\">6.5</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><a href=\"/obs.carnegiescience.edu/Magellan\" title=\"obs.carnegiescience.edu/Magellan\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"M\">Magellan Telescopes</span></a> (two telescopes: Baade and Landon Clay)</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Las Campanas, Chile</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">First light 2000 and 2002</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Aperture (m)\" data-valign=\"top\">6.5</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><a href=\"/www.mmto.org\" target=\"_blank\" title=\"www.mmto.org\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"M\">Multi-Mirror Telescope</span> (MMT)</a></td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Mount Hopkins, AZ</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">Completed 1979</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Aperture (m)\" data-valign=\"top\">6.0</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><a href=\"/w0.sao.ru/Doc-en/Telescopes/bta/descrip.html\" title=\"w0.sao.ru/Doc-en/Telescopes/bta/descrip.html\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"B\">Big Telescope Altazimuth</span> (BTA-6)</a></td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Mount Pastukhov, Russia</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">Completed 1976</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Aperture (m)\" data-valign=\"top\">5.1</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><a href=\"/www.astro.caltech.edu/palomar/about/telescopes/hale.html\" target=\"_blank\" title=\"www.astro.caltech.edu/palomar/about/telescopes/hale.html\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"H\">Hale Telescope</span></a></td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Mount Palomar, CA</td> <td class=\"lt-phys-64685\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">Completed 1948</td> </tr> </tbody> </table> <p>&nbsp;</p> <table class=\"mt-responsive-table\"> <caption><a id=\"Radio+Telescopes\" name=\"Radio+Telescopes\"></a>Table XX: Radio Telescopes</caption> <thead> <tr valign=\"top\"> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Observatory</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Location</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Description</th> </tr> </thead> <tbody> <tr> <td class=\"lt-phys-64687\" colspan=\"3\" data-align=\"left\" data-th=\"Description\">Individual Radio Dishes</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/fast.bao.ac.cn/en\" target=\"_blank\" title=\"fast.bao.ac.cn/en/\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"F\">Five-hundred-meter Aperture Spherical radio Telescope (FAST)</span></a></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Guizhou, China</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Description\" data-valign=\"top\">500-m fixed dish</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.naic.edu\" target=\"_blank\" title=\"www.naic.edu\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"A\">Arecibo Observatory</span></a></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Arecibo, Puerto Rico</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Description\" data-valign=\"top\">305-m fixed dish</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.science.nrao.edu/facilities/gbt\" target=\"_blank\" title=\"www.science.nrao.edu/facilities/gbt\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"G\">Green Bank Telescope</span> (GBT)</a></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Green Bank, WV</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Description\" data-valign=\"top\">110 × 100-m steerable dish</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.mpifr-bonn.mpg.de/en/effelsberg\" target=\"_blank\" title=\"www.mpifr-bonn.mpg.de/en/effelsberg\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"E\">Effelsberg 100-m Telescope</span></a></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Bonn, Germany</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Description\" data-valign=\"top\">100-m steerable dish</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.jb.man.ac.uk/aboutus/lovell\" target=\"_blank\" title=\"www.jb.man.ac.uk/aboutus/lovell\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"L\">Lovell Telescope</span></a></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Manchester, England</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Description\" data-valign=\"top\">76-m steerable dish</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.cdscc.nasa.gov\" target=\"_blank\" title=\"www.cdscc.nasa.gov\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"C\">Canberra Deep Space Communication Complex</span> (CDSCC)</a></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Tidbinbilla, Australia</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Description\" data-valign=\"top\">70-m steerable dish</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.gdscc.nasa.gov\" target=\"_blank\" title=\"www.gdscc.nasa.gov\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"G\">Goldstone Deep Space Communications Complex</span> (GDSCC)</a></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Barstow, CA</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Description\" data-valign=\"top\">70-m steerable dish</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.parkes.atnf.csiro.au\" target=\"_blank\" title=\"www.parkes.atnf.csiro.au\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"P\">Parkes Observatory</span></a></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Parkes, Australia</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Description\" data-valign=\"top\">64-m steerable dish</td> </tr> <tr> <td class=\"lt-phys-64687\" colspan=\"3\" data-align=\"left\" data-th=\"Description\">Arrays of Radio Dishes</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.skatelescope.org\" target=\"_blank\" title=\"www.skatelescope.org\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"S\">Square Kilometre Array</span> (SKA)</a></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">South Africa and Western Australia</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Description\" data-valign=\"top\">Thousands of dishes, km<sup>2</sup> collecting area, partial array in 2020</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.almaobservatory.org\" target=\"_blank\" title=\"www.almaobservatory.org\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"A\">Atacama Large Millimeter/submillimeter Array</span> (ALMA)</a></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Atacama desert, Northern Chile</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Description\" data-valign=\"top\">66 7-m and 12-m dishes</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.science.nrao.edu/facilities/vla\" target=\"_blank\" title=\"www.science.nrao.edu/facilities/vla\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"J\">Jansky Very Large Array</span> (VLA)</a></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Socorro, New Mexico</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Description\" data-valign=\"top\">27-element array of 25-m dishes (36-km baseline)</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.astron.nl/radio-observatory/public/public-0\" target=\"_blank\" title=\"www.astron.nl/radio-observatory/public/public-0\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"W\">Westerbork Synthesis Radio Telescope</span> (WSRT)</a></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Westerbork, the Netherlands</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Description\" data-valign=\"top\">12-element array of 25-m dishes (1.6-km baseline)</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.science.nrao.edu/facilities/vlba\" target=\"_blank\" title=\"www.science.nrao.edu/facilities/vlba\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"V\">Very Long Baseline Array</span> (VLBA)</a></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Ten US sites, HI to the Virgin Islands</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Description\" data-valign=\"top\">10-element array of 25-m dishes (9000 km baseline)</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.narrabri.atnf.csiro.au\" target=\"_blank\" title=\"www.narrabri.atnf.csiro.au\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"A\">Australia Telescope Compact Array</span> (ATCA)</a></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Several sites in Australia</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Description\" data-valign=\"top\">8-element array (seven 22-m dishes plus Parkes 64 m)</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.e-merlin.ac.uk\" target=\"_blank\" title=\"www.e-merlin.ac.uk\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"M\">Multi-Element Radio Linked Interferometer Network</span> (MERLIN)</a></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Cambridge, England, and other British sites</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Description\" data-valign=\"top\">Network of seven dishes (the largest is 32 m)</td> </tr> <tr> <td class=\"lt-phys-64687\" colspan=\"3\" data-align=\"left\" data-th=\"Description\">Millimeter-wave Telescopes</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.iram-institute.org\" target=\"_blank\" title=\"www.iram-institute.org\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"I\">IRAM</span></a></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Granada, Spain</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Description\" data-valign=\"top\">30-m steerable mm-wave dish</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.eaobservatory.org/jcmt\" target=\"_blank\" title=\"www.eaobservatory.org/jcmt\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"J\">James Clerk Maxwell Telescope</span> (JCMT)</a></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Maunakea, HI</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Description\" data-valign=\"top\">15-m steerable mm-wave dish</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.nro.nao.ac.jp/en\" target=\"_blank\" title=\"www.nro.nao.ac.jp/en\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"N\">Nobeyama Radio Observatory</span> (NRO)</a></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Minamimaki, Japan</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Description\" data-valign=\"top\">6-element array of 10-m wave dishes</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.sri.com/research-development/specialized-facilities/hat-creek-radio-observatory\" target=\"_blank\" title=\"www.sri.com/research-development/specialized-facilities/hat-creek-radio-observatory\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"H\">Hat Creek Radio Observatory</span> (HCRO)</a></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Cassel, CA</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Description\" data-valign=\"top\">6-element array of 5-m wave dishes</td> </tr> </tbody> </table> <p>&nbsp;</p> <p>&nbsp;</p> <table class=\"mt-responsive-table\"> <caption><a id=\"Visible+Interferometers\" name=\"Visible+Interferometers\"></a>Table XX: Visible Interferometers</caption> <thead> <tr valign=\"top\"> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Longest Baseline (m)</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Telescope Name</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Location</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Mirrors</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Status</th> </tr> </thead> <tbody> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Longest Baseline (m)\" data-valign=\"top\">400</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"C\">CHARA</span> Array (Center for High Angular Resolution Astronomy)</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Mount Wilson, CA</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Mirrors\" data-valign=\"top\">Six 1-m telescopes</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">Operational since 2004</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Longest Baseline (m)\" data-valign=\"top\">200</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"V\">Very Large Telescope</span></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Cerro Paranal, Chile</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Mirrors\" data-valign=\"top\">Four 8.2-m telescopes</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">Completed 2000</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Longest Baseline (m)\" data-valign=\"top\">85</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"K\">Keck I and II</span> telescopes</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Maunakea, HI</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Mirrors\" data-valign=\"top\">Two 10-m telescopes</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">Operated from 2001 to 2012</td> </tr> <tr> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Longest Baseline (m)\" data-valign=\"top\">22.8</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Telescope Name\" data-valign=\"top\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"L\">Large Binocular Telescope</span></td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Location\" data-valign=\"top\">Mount Graham, AZ</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Mirrors\" data-valign=\"top\">Two 8.4-m telescopes</td> <td class=\"lt-phys-64687\" data-align=\"left\" data-th=\"Status\" data-valign=\"top\">First light 2004</td> </tr> </tbody> </table> <p>&nbsp;</p> <table class=\"mt-responsive-table\"> <caption><a id=\"Space+Telescopes\" name=\"Space+Telescopes\"></a>Table XX: Space Telescopes</caption> <thead> <tr valign=\"top\"> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Observatory</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Date Operation Began</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Bands of the Spectrum</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Notes</th> </tr> </thead> <tbody> <tr valign=\"top\"> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.hubblesite.org\" target=\"_blank\" title=\"www.hubblesite.org\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"H\">Hubble Space Telescope</span> (HST)</a></td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Date Operation Began\" data-valign=\"top\">1990</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Bands of the Spectrum\" data-valign=\"top\">visible, UV, IR</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Notes\" data-valign=\"top\">2.4-m mirror; images and spectra</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.chandra.si.edu\" target=\"_blank\" title=\"www.chandra.si.edu\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"C\">Chandra X-Ray Observatory</span></a></td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Date Operation Began\" data-valign=\"top\">1999</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Bands of the Spectrum\" data-valign=\"top\">X-rays</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Notes\" data-valign=\"top\">X-ray images and spectra</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"http://www.cosmos.esa.int/web/xmm-newton\" target=\"_blank\" title=\"http://www.cosmos.esa.int/web/xmm-newton\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"X\">XMM-Newton</span></a></td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Date Operation Began\" data-valign=\"top\">1999</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Bands of the Spectrum\" data-valign=\"top\">X-rays</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Notes\" data-valign=\"top\">X-ray spectroscopy</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"http://sci.esa.int/integral/\" title=\"http://sci.esa.int/integral/\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"I\">International Gamma-Ray Astrophysics Laboratory</span> (INTEGRAL)</a></td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Date Operation Began\" data-valign=\"top\">2002</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Bands of the Spectrum\" data-valign=\"top\">X- and gamma-rays</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Notes\" data-valign=\"top\">higher resolution gamma-ray images</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.spitzer.caltech.edu\" target=\"_blank\" title=\"www.spitzer.caltech.edu\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"S\">Spitzer Space Telescope</span></a></td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Date Operation Began\" data-valign=\"top\">2003</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Bands of the Spectrum\" data-valign=\"top\">IR</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Notes\" data-valign=\"top\">0.85-m telescope</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/fermi.gsfc.nasa.gov\" target=\"_blank\" title=\"fermi.gsfc.nasa.gov\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"F\">Fermi Gamma-ray Space Telescope</span></a></td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Date Operation Began\" data-valign=\"top\">2008</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Bands of the Spectrum\" data-valign=\"top\">gamma-rays</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Notes\" data-valign=\"top\">first high-energy gamma-ray observations</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/kepler.nasa.gov\" target=\"_blank\" title=\"kepler.nasa.gov\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"K\">Kepler</span></a></td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Date Operation Began\" data-valign=\"top\">2009</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Bands of the Spectrum\" data-valign=\"top\">visible-light</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Notes\" data-valign=\"top\">planet finder</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"/www.nasa.gov/mission_pages/WISE/main\" target=\"_blank\" title=\"www.nasa.gov/mission_pages/WISE/main\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"W\">Wide-field Infrared Survey Explorer</span> (WISE)</a></td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Date Operation Began\" data-valign=\"top\">2009</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Bands of the Spectrum\" data-valign=\"top\">IR</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Notes\" data-valign=\"top\">whole-sky map, asteroid searches</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"http://sci.esa.int/gaia/\" target=\"_blank\" title=\"http://sci.esa.int/gaia/\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"G\">Gaia</span></a></td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Date Operation Began\" data-valign=\"top\">2013</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Bands of the Spectrum\" data-valign=\"top\">visible-light</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Notes\" data-valign=\"top\">Precise map of the Milky Way</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Observatory\" data-valign=\"top\"><a href=\"http://tess.mit.edu\" target=\"_blank\" title=\"http://tess.mit.edu\"><span class=\"no-emphasis\" data-type=\"term\" group-by=\"T\">Transiting Exoplanet Survey Satellite (TESS)</span></a></td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Date Operation Began\" data-valign=\"top\">2018</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Bands of the Spectrum\" data-valign=\"top\">visible-light</td> <td class=\"lt-phys-64688\" data-align=\"left\" data-th=\"Notes\" data-valign=\"top\">Planet finder</td> </tr> </tbody> </table> <p>&nbsp;</p> <p>&nbsp;</p>"
+              - generic [ref=f635e312]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f635e314] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f635e94]:
+          - separator [ref=f635e95]
+          - paragraph [ref=f635e97]:
+            - 'link "18.2: Tables" [ref=f635e98] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.02%3A_Tables
+            - text: is shared under a
+            - link "CC BY" [ref=f635e99] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f635e100]:
+        - list [ref=f635e101]:
+          - listitem [ref=f635e102]:
+            - link "Back to top" [ref=f635e103] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f635e104]:
+            - list [ref=f635e105]:
+              - listitem [ref=f635e106]:
+                - 'link " 18.1.24: Geller, Margaret" [ref=f635e107] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.24%3A_Geller_Margaret
+                  - text: 
+                  - generic [ref=f635e108]: "18.1.24: Geller, Margaret"
+              - listitem [ref=f635e109]:
+                - link "Back Matter " [ref=f635e110] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/zz%3A_Back_Matter
+                  - generic [ref=f635e111]: Back Matter
+                  - text: 
+        - list [ref=f635e114]:
+          - listitem [ref=f635e115]: Was this article helpful?
+          - listitem [ref=f635e116]:
+            - button "Yes" [ref=f635e117] [cursor=pointer]
+          - listitem [ref=f635e118]:
+            - button "No" [ref=f635e119] [cursor=pointer]
+          - listitem [ref=f635e120]:
+            - button "Leave feedback" [ref=f635e121] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f635e122]:
+          - heading "Attachments" [level=2] [ref=f635e123]
+          - generic:
+            - button "Attach a file" [ref=f635e124] [cursor=pointer]
+            - text: 
+          - generic [ref=f635e126]:
+            - generic [ref=f635e129]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f635e130]
+            - generic [ref=f635e131]:
+              - grid [ref=f635e134]:
+                - rowgroup [ref=f635e135]:
+                  - row [ref=f635e136]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f635e137]':
+                      - generic:
+                        - generic [ref=f635e138]: File
+                        - generic [ref=f635e139]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f635e140]':
+                      - generic:
+                        - generic [ref=f635e141]: Last modified
+                        - generic [ref=f635e142]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f635e143]':
+                      - generic:
+                        - generic [ref=f635e144]: Size
+                        - generic [ref=f635e145]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f635e146]':
+                      - generic:
+                        - generic [ref=f635e147]: Added by
+                        - generic [ref=f635e148]: 
+              - grid [ref=f635e150]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f635e315]: File
+                          - generic [ref=f635e316]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f635e317]: Last modified
+                          - generic [ref=f635e318]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f635e319]: Size
+                          - generic [ref=f635e320]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f635e321]: Added by
+                          - generic [ref=f635e322]: 
+                - rowgroup [ref=f635e159]:
+                  - row [ref=f635e323]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f635e324]:
+                      - generic [ref=f635e325]:
+                        - generic [ref=f635e326]:
+                          - generic [ref=f635e327]: 
+                          - link "mindtouch.page#thumbnail" [ref=f635e328] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/65473/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f635e329]:
+                          - generic [ref=f635e330]: (no description)
+                          - text: 
+                    - gridcell "Dec 25, 2025, 10:00 PM" [ref=f635e331]
+                    - gridcell "11 KiB" [ref=f635e333]
+                    - gridcell "Rachel Mastrapa" [ref=f635e334]
+    - generic [ref=f635e163]:
+      - button "Open support menu" [ref=f635e165] [cursor=pointer]: "?"
+      - navigation [ref=f635e167]:
+        - paragraph [ref=f635e169]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f635e170] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f635e171] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f635e172] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f635e173] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f635e174] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f635e175]:
+      - generic:
+        - generic [ref=f635e177]:
+          - button "Annotation sidebar" [ref=f635e178]
+          - generic [ref=f635e183]:
+            - button "Show highlights" [ref=f635e184]
+            - button "New page note" [ref=f635e189]
+          - status [ref=f635e194]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f635e195]:
+    - button "contents" [ref=f635e196] [cursor=pointer]
+    - button "readability" [ref=f635e198] [cursor=pointer]
+    - button "resources" [ref=f635e200] [cursor=pointer]
+    - button "tools" [ref=f635e202] [cursor=pointer]
+    - button "developers" [ref=f635e204] [cursor=pointer]
+  - text:  
+  - generic [ref=f635e335]:
+    - generic [ref=f635e336] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f635e339] [cursor=pointer]

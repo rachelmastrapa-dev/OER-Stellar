@@ -1,0 +1,494 @@
+- generic [ref=f163e1]:
+  - link "Skip to main content" [ref=f163e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f163e3]:
+    - text: 
+    - generic [ref=f163e4]:
+      - generic [ref=f163e5]:
+        - generic: ✕
+        - navigation [ref=f163e7]:
+          - generic [ref=f163e8]:
+            - link [ref=f163e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f163e11]
+            - button "Enter Reader Mode" [ref=f163e13] [cursor=pointer]:
+              - generic [ref=f163e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f163e16]:
+        - list [ref=f163e18]:
+          - listitem [ref=f163e19]:
+            - link [ref=f163e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f163e22]
+          - listitem [ref=f163e23]:
+            - text: 
+            - generic [ref=f163e25]:
+              - generic [ref=f163e26]: "Search :"
+              - searchbox "Search :" [ref=f163e27]
+              - button " Search" [ref=f163e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f163e29]:
+            - list [ref=f163e30]:
+              - listitem [ref=f163e31]:
+                - link "Edit" [ref=f163e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.08%3A_Accessible_Descriptions?action=edit
+              - text: 
+              - listitem [ref=f163e33]:
+                - link " Options" [ref=f163e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f163e35]:
+                - link " Rachel Mastrapa" [ref=f163e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f163e37]:
+        - generic:
+          - button " Contents" [ref=f163e217] [cursor=pointer]
+          - list [ref=f163e39]:
+            - listitem [ref=f163e40]:
+              - link " Home" [ref=f163e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f163e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f163e43]:
+              - link " Workbench" [ref=f163e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f163e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f163e46]:
+              - link " De Anza - ASTR10" [ref=f163e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f163e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f163e49]:
+              - 'link " 5: Astronomical Instruments" [ref=f163e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments
+                - generic [ref=f163e51]: 
+                - text: "5: Astronomical Instruments"
+              - text: »
+            - listitem [ref=f163e52]:
+              - generic [ref=f163e53]: 
+              - text: "5.8: Accessible Descriptions"
+          - button " Expand/collapse global location" [ref=f163e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                
+    - article [ref=f163e55]:
+      - generic [ref=f163e56]:
+        - generic [ref=f163e57]:
+          - button " Page settings" [ref=f163e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "5.8: Accessible Descriptions" [level=1] [ref=f163e59]':
+          - generic [ref=f163e60]: "5.8: Accessible Descriptions "
+        - list [ref=f163e62]:
+          - listitem [ref=f163e63]:
+            - link [ref=f163e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f163e66]:
+                - img "CC" [ref=f163e67]
+                - img "BY" [ref=f163e68]
+          - listitem [ref=f163e69]:
+            - generic [ref=f163e70]:
+              - term [ref=f163e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f163e72]: Aug 4, 2026, 3:08 PM by Jyothsna Viswanadha
+          - listitem [ref=f163e73]:
+            - generic [ref=f163e74]:
+              - term [ref=f163e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f163e76]: Private
+          - listitem [ref=f163e77]:
+            - generic [ref=f163e78]:
+              - term [ref=f163e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f163e80]: "130932"
+          - listitem [ref=f163e81]:
+            - list [ref=f163e82]:
+              - listitem [ref=f163e83]:
+                - button "Pin Page" [ref=f163e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f163e85]:
+                - list [ref=f163e86]:
+                  - listitem [ref=f163e87]:
+                    - 'link " 5.7: Key Terms" [ref=f163e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.07%3A_Key_Terms
+                      - text: 
+                      - generic [ref=f163e89]: "5.7: Key Terms"
+                  - listitem [ref=f163e90]:
+                    - 'link "6: The Sun and Our Solar System " [ref=f163e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System
+                      - generic [ref=f163e92]: "6: The Sun and Our Solar System"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f163e93]:
+        - group [ref=f163e220]:
+          - generic [ref=f163e221]:
+            - generic [ref=f163e222]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f163e223]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f163e224]:
+            - generic [ref=f163e227]:
+              - generic [ref=f163e228]:
+                - generic [ref=f163e229]:
+                  - link "Edit" [ref=f163e230]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f163e231]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f163e232]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f163e233]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f163e234]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f163e235]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f163e236]: "Words: 2068, Chars: 12506"
+              - group "Editor toolbars" [ref=f163e238]:
+                - toolbar [ref=f163e239]:
+                  - button "Save" [ref=f163e240]:
+                    - generic [ref=f163e241]: 
+                  - button "Cancel" [ref=f163e243]:
+                    - generic [ref=f163e244]: 
+                - toolbar [ref=f163e247]:
+                  - button "Undo" [disabled] [ref=f163e248]:
+                    - generic [ref=f163e249]: 
+                  - button "Redo" [disabled] [ref=f163e250]:
+                    - generic [ref=f163e251]: 
+                - toolbar [ref=f163e253]:
+                  - button "Headings" [ref=f163e254]
+                - toolbar [ref=f163e259]:
+                  - button "Bold" [ref=f163e260]:
+                    - generic [ref=f163e261]: 
+                  - button "Italic" [ref=f163e262]:
+                    - generic [ref=f163e263]: 
+                  - button "Underline" [ref=f163e264]:
+                    - generic [ref=f163e265]: 
+                - toolbar [ref=f163e267]:
+                  - button "Text color" [ref=f163e268]:
+                    - generic [ref=f163e269]: 
+                  - button "Background color" [ref=f163e271]:
+                    - generic [ref=f163e272]: 
+                - toolbar [ref=f163e275]:
+                  - button "Remove format" [ref=f163e276]:
+                    - generic [ref=f163e277]: 
+                - toolbar [ref=f163e279]:
+                  - button "Insert/Remove numbered list" [ref=f163e280]:
+                    - generic [ref=f163e281]: 
+                  - button "Insert/Remove bulleted list" [ref=f163e282]:
+                    - generic [ref=f163e283]: 
+                - toolbar [ref=f163e285]:
+                  - button "Alignment" [ref=f163e286]:
+                    - generic [ref=f163e287]: 
+                - text: 
+                - toolbar [ref=f163e290]:
+                  - button "Link" [ref=f163e291]:
+                    - generic [ref=f163e292]: 
+                  - button "Image" [ref=f163e293]:
+                    - generic [ref=f163e294]: 
+                  - text: 
+                  - button "Boxes" [ref=f163e295]
+                - toolbar [ref=f163e300]:
+                  - button "Replace" [ref=f163e301]:
+                    - generic [ref=f163e302]: 
+                - toolbar [ref=f163e304]:
+                  - button "Enable Binder" [ref=f163e305]
+                  - button "Insert Adapt" [ref=f163e307]
+                  - button "Query" [ref=f163e309]
+                  - button "Accessibility Checker" [ref=f163e312]
+                - toolbar [ref=f163e315]:
+                  - button "HTML" [ref=f163e316]:
+                    - generic [ref=f163e317]: 
+            - application "Rich Text Editor, editarea" [ref=f163e319]:
+              - iframe [active] [ref=f163e320]:
+                - generic [active] [ref=f165e1]:
+                  - heading "Figure 5.1.1 Lens Focusing Light" [level=2] [ref=f165e2]
+                  - paragraph [ref=f165e3]: Diagram illustrating the focal length of a converging lens.
+                  - list [ref=f165e4]:
+                    - listitem [ref=f165e5]: Parallel light rays enter the lens from the left.
+                    - listitem [ref=f165e6]:
+                      - text: After passing through the lens, the rays bend inward and converge toward a single point on the right labeled
+                      - strong [ref=f165e7]: “Focus.”
+                    - listitem [ref=f165e8]:
+                      - text: The distance between the center of the lens and the focal point is labeled
+                      - strong [ref=f165e9]: “Focal length.”
+                    - listitem [ref=f165e10]: A dashed vertical line passes through the focal point to mark its location.
+                    - listitem [ref=f165e11]: Beyond the focus, the light rays cross and begin to spread apart again.
+                  - paragraph [ref=f165e12]: The diagram demonstrates that a converging lens brings parallel incoming light rays together at a focal point, and that the focal length is the distance from the lens to that point.
+                  - heading "Figure 5.1.3 Refracting and Reflecting Telescopes" [level=2] [ref=f165e13]
+                  - paragraph [ref=f165e14]: This diagram demonstrates the difference between refracting and reflecting telescopes. The path of light is represented by yellow lines with arrows showing direction of travel. For both types of telescopes the light enters the telescope through the opening at the top, or the aperture. Both telescopes are tube shaped, but the reflector is wider.
+                  - heading "Refractor" [level=3] [ref=f165e15]
+                  - list [ref=f165e16]:
+                    - listitem [ref=f165e17]: Refracting telescopes use lenses to gather light and create an image.
+                    - listitem [ref=f165e18]: Light enters a refracting telescope through a lens at the upper end, which focuses the light near the bottom of the telescope.
+                    - listitem [ref=f165e19]: At the bottom of the telescope, an eyepiece magnifies the image so that it can be viewed.
+                  - heading "Reflector" [level=3] [ref=f165e20]
+                  - list [ref=f165e21]:
+                    - listitem [ref=f165e22]: The upper end of a reflecting telescope is open, and the light passes through to the curved mirror located at the bottom of the telescope.
+                    - listitem [ref=f165e23]: The mirror focuses the light at a point called the prime focus near the top end of the telescope.
+                    - listitem [ref=f165e24]: At the prime focus, a second mirror reflects the light through the side of the telescope where an eyepiece is used for observation.
+                  - heading "Figure 5.1.4 Focus Arrangements for Reflecting Telescopes" [level=2] [ref=f165e25]
+                  - paragraph [ref=f165e26]: The diagram includes three different examples of reflecting telescopes based on where the telescope focuses the image. The path of light is represented by yellow lines with arrows showing direction of travel. All three telescopes have the same tube shape, are open at the top, and have a curved mirror at the bottom. The light enters the telescopes through the aperture, is reflected by the mirror at the bottom and forms an image at the prime focus near the top.
+                  - heading "Prime Focus" [level=3] [ref=f165e27]
+                  - list [ref=f165e28]:
+                    - listitem [ref=f165e29]: All reflecting telescopes have a prime focus located inside the telescope near the aperture.
+                    - listitem [ref=f165e30]: In a prime focus telescope, the image is collected at the prime focus.
+                    - listitem [ref=f165e31]: Since the prime focus is located inside of the telescope, the telescope would have to be large enough that the observer or detector could fit inside.
+                    - listitem [ref=f165e32]: The telescope would also have to be large enough that the observer or detector woudl not block light from entering the telescope.
+                  - heading "Newtonian" [level=3] [ref=f165e33]
+                  - list [ref=f165e34]:
+                    - listitem [ref=f165e35]: In a Newtonian telescope, a small mirror is located at the prime focus.
+                    - listitem [ref=f165e36]: The mirror is positioned so that it will redirect the light through a hole in the side of the telescope, where it is observed by a person or collected by a detector.
+                  - heading "Cassegrain" [level=3] [ref=f165e37]
+                  - list [ref=f165e38]:
+                    - listitem [ref=f165e39]: Similar to a Newtonian telescope, the Cassegrain telescope also has a small mirror at the prime focus.
+                    - listitem [ref=f165e40]: The light is reflected by the secondary mirror down through a hole in the primary mirror.
+                  - heading "Figure 5.2.1 ESO Very Large Telescope Mirror" [level=2] [ref=f165e41]
+                  - paragraph [ref=f165e42]: The mirror from the European Southern Observatory’s Very Large Telescope was built at another facility and moved to the telescope for installation. There are two people in the image that are not quite as tall as the support structure for the mirror. The mirror is a circular, reflective surface that is as wide as about 4 times the size of the people in the image. There is a hole in the center of the mirror. In the telescope, the light collected by this mirror will be reflected off of a mirror at the prime focus and pass through the center of the mirror to a detector below.
+                  - heading "Figure 5.2.3 Vera Rubin Observatory" [level=2] [ref=f165e43]
+                  - paragraph [ref=f165e44]: The Vera Rubin observatory is a large building at the center of the image. The build is so tall that a bus parked in its parking lot is very small in comparison. It is located on the top of a tall mountain, Cerro Pachon. The area around the observatory is very rocky and barren with little to no plants. There are some stars visible in the sky above the observatory. Although the observatory and surrounding land is brightly lit, this image was collected at night using a long exposure.
+                  - heading "Figure 5.2.4 The Heart of the ELT" [level=2] [ref=f165e45]
+                  - paragraph [ref=f165e46]: In this image taken inside the dome of the Extremely Large Telescope (ELT), the support structure for the mirrors takes up the majority of the image. Because of the size and weight of the mirrors, the support structure needs to be large and complex. The image was collected from below and to the side of the structure, so it includes the bottom of the base where the mirrors will eventually be placed. Below the base there are many metal beams forming multiple layers of triangular support structure. A crane below the structure is positioned so that a person, barely seen among the beams, can work on the structure. The entire structure is surrounded by temporary metal scaffolds used during construction.
+                  - heading "Figure 5.3.1 Charge-Coupled Devices (CCDs)" [level=2] [ref=f165e47]
+                  - paragraph [ref=f165e48]: This figure contains two examples of charge-coupled devices (CCDs). Image a includes a small CCD while image b is of a larger device made up of many CCDs assembled into one detector.
+                  - heading "Image (a)" [level=3] [ref=f165e49]
+                  - paragraph [ref=f165e50]: A hand uses a clip to hold a small, round CCD that could fit in the palm of an adult's hand. The surface of the CCD is covered in a rectangles of a range of sizes. The rectangles have a shiny, reflective appearance. Each rectangle consists of many tiny sensors that can collect and count photons.
+                  - heading "Image (b)" [level=3] [ref=f165e51]
+                  - paragraph [ref=f165e52]: The detector for Kepler consists of a grid of square shaped CCDs. The person next to the instrument is wearing clothing that covers their hands, face, and hair to protect the instrument from contamination.
+                  - heading "Figure 5.3.4 Prism Spectrometer" [level=2] [ref=f165e53]
+                  - paragraph [ref=f165e54]: This diagram depicts the components needed to build a prism spectrometer and how it should work. The description is from left to right.
+                  - heading "Lens" [level=3] [ref=f165e55]
+                  - list [ref=f165e56]:
+                    - listitem [ref=f165e57]: The light from the telescope comes from the left side of the diagram, represented by a beam of light.
+                    - listitem [ref=f165e58]: The beam of light that arrives at the lens is roughly the same size as the lens. After passing through the lens, the beam reduces in size until it is focus at a single point.
+                  - heading "Slit" [level=3] [ref=f165e59]
+                  - list [ref=f165e60]:
+                    - listitem [ref=f165e61]: At this focal point, the light passes through a tiny gap called a slit.
+                    - listitem [ref=f165e62]:
+                      - text: The size of the slit controls how much the light is broken up by wavelength.
+                      - list [ref=f165e63]:
+                        - listitem [ref=f165e64]: For a narrow slit, fewer photons of light pass through, but the photons are separated by very small changes in wavelength.
+                        - listitem [ref=f165e65]: A wider slit lets more photons through, but the photons are grouped together over larger changes in wavelength.
+                  - heading "Collimating Lens" [level=3] [ref=f165e66]
+                  - list [ref=f165e67]:
+                    - listitem [ref=f165e68]: After passing through the slit, the light spreads out in an arc, so it must be redirected using a collimating lens.
+                    - listitem [ref=f165e69]: This lens changes the path of the photons so that they are all going the same direction in a beam about the same size as the collimating lens and the beam of light at the far left of the diagram.
+                  - heading "Prism" [level=2] [ref=f165e70]
+                  - list [ref=f165e71]:
+                    - listitem [ref=f165e72]: This beam of light then interacts with a prism, a triangular, transparent object.
+                    - listitem [ref=f165e73]: As the light passes through the prism, the path of each photon is changed.
+                    - listitem [ref=f165e74]: The degree of how much the path changed depends on wavelength.
+                    - listitem [ref=f165e75]: In this diagram, the light is in the visible range of the electromagnetic spectrum, so the light is broken down according to the colors of the rainbow simplified to red, green and blue.
+                  - heading "Detector" [level=3] [ref=f165e76]
+                  - list [ref=f165e77]:
+                    - listitem [ref=f165e78]: Throughout this diagram, the light has been traveling from left to right.
+                    - listitem [ref=f165e79]: On the far right of the diagram, there is an outline of a lens and dashed lines represent the path of the light of the prism was not included in the diagram.
+                    - listitem [ref=f165e80]: If the light passed through the lens on the right instead of the prism, the lens would focus an image of the slit on the far right of the diagram.
+                    - listitem [ref=f165e81]: However, when the light leaves the prism it's path is bent toward the bottom right corner of the diagram.
+                    - listitem [ref=f165e82]: In the bottom right corner of the diagram, the light, represented by red, green, and blue lines interacts with the lens of a detector (or camera).
+                    - listitem [ref=f165e83]: That lens focuses the light onto a CCD (or photographic plate), demonstrating that the final image has separated the light into red, green, and blue.
+                  - heading "Figure 5.4.1 First Radio Telescope" [level=2] [ref=f165e84]
+                  - paragraph [ref=f165e85]: This rotating radio antenna was used by Jansky in his discovery of radio radiation from the Milky Way. Unlike the visible light telescopes which were metal tubes enclosed in domes, a radio telescope is a very different structure. There is no enclosure and the telescope is a collection of metal arches propped by wooden struts. The antenna is roughly the size of a semi truck and trailer.
+                  - heading "Figure 5.4.2 Radio Image of Cygnus A" [level=2] [ref=f165e86]
+                  - paragraph [ref=f165e87]: This image has been constructed of radio observations at the Very Large Array of a galaxy called Cygnus A. Since humans can not see radio waves, colors have been added to help the eye sort out regions of different radio intensities. Red regions are the most intense, blue the least. The visible galaxy is a small dot in the center of the image. The radio image reveals jets of expelled material more than 160,000 light-years long on either side of the galaxy. The jets form large clouds far away and on either side of the galaxy. Each cloud is has layers of colors - the exterior is aqua, inside that is yellow region, and the center is a red core. The layers are imperfect, with ripples that reflect the turbulence within the cloud.
+                  - heading "Figure 5.4.3 Atacama Large Millimeter/Submillimeter Array (ALMA)" [level=2] [ref=f165e88]
+                  - paragraph [ref=f165e89]: ALMA is made up of multiple radio dishes spread over a large area. Even though radio telescopes can function 24 hours a day, this is the observatory at night. In this image, over 14 dishes, each one the size of a small building, are located over a large area of open, flat desert. A couple of them are pointed in the same direction, but most of them are pointed in different directions. In the distance there are rocky mountains and city lights. The night sky includes the arm of the Milky Way behind the dishes.
+                  - heading "Figure 5.5.1 Light and Earth's Atmosphere" [level=2] [ref=f165e90]
+                  - paragraph [ref=f165e91]: This figure depicts radiation and the Earth’s atmosphere.
+                  - heading "Earth's atmosphere" [level=3] [ref=f165e92]
+                  - paragraph [ref=f165e93]: "Labeled vertically from top to bottom:"
+                  - list [ref=f165e94]:
+                    - listitem [ref=f165e95]: Thermosphere (auroras)
+                    - listitem [ref=f165e96]: Mesosphere (meteors burn up)
+                    - listitem [ref=f165e97]: Stratosphere (ozone layer at 20 – 30 km; jets fly at 10 km)
+                    - listitem [ref=f165e98]: Troposphere (weather)
+                  - heading "Electromagnetic Spectrum" [level=3] [ref=f165e99]
+                  - paragraph [ref=f165e100]: "At the top of the figure, from shorter waves to longer wavelength, and from left to right, the different kinds of waves are labeled:"
+                  - list [ref=f165e101]:
+                    - listitem [ref=f165e102]: Gamma
+                    - listitem [ref=f165e103]: X-ray
+                    - listitem [ref=f165e104]: Ultraviolet (UV)
+                    - listitem [ref=f165e105]: Visible
+                    - listitem [ref=f165e106]: Infrared (IR)
+                    - listitem [ref=f165e107]: Microwave
+                    - listitem [ref=f165e108]: Radar
+                  - heading "Distance Light Travels in Atmosphere from Space" [level=3] [ref=f165e109]
+                  - paragraph [ref=f165e110]: The distance that light can travel into Earth's atmosphere is graphed using bars that extend downward from the labeled Electromagnetic Spectrum.
+                  - paragraph [ref=f165e111]: Above the thermosphere there are space telescopes under gamma, X-ray, visible, and infrared.
+                  - list [ref=f165e112]:
+                    - listitem [ref=f165e113]: The bars are violet on the left side of the figure and red on the right side of the figure.
+                    - listitem [ref=f165e114]: At the center of the figure, visible light is represented by a single bar each of blue, yellow, and red.
+                  - paragraph [ref=f165e115]: "Wavelengths of light:"
+                  - list [ref=f165e116]:
+                    - listitem [ref=f165e117]: Gamma rays reach the stratosphere
+                    - listitem [ref=f165e118]: Shorter wavelength X-rays reach the mesosphere, while longer wavelength X-rays only reach the thermosphere.
+                    - listitem [ref=f165e119]: Most wavelengths of UV light only reach the thermosphere, but the longest wavelength UV, right near visible light, reaches the surface of Earth.
+                    - listitem [ref=f165e120]: Visible light reaches the surface of the Earth. Under visible light is an observatory, labeled “Optical window”.
+                    - listitem [ref=f165e121]:
+                      - text: Infrared light
+                      - list [ref=f165e122]:
+                        - listitem [ref=f165e123]: The shortest wavelengths reach the surface of the Earth.
+                        - listitem [ref=f165e124]: All other wavelengths of infrared light only reach the stratosphere.
+                        - listitem [ref=f165e125]: On top of the bars, there is an airplane where infrared light reaches the stratosphere and a space observatory
+                    - listitem [ref=f165e126]: Most microwave light reaches the stratosphere, but the longest wavelength reaches the surface of the Earth.
+                    - listitem [ref=f165e127]:
+                      - text: Radio
+                      - list [ref=f165e128]:
+                        - listitem [ref=f165e129]: Most of the shorter wavelengths of radio reach the surface of Earth.
+                        - listitem [ref=f165e130]: Under radio is a radio telescope, labeled “Radio window”.
+                        - listitem [ref=f165e131]: The longer radio wavelengths, do not enter the thermosphere.
+                  - heading "Figure 5.5.3 Hubble Ultra-Deep Field" [level=2] [ref=f165e132]
+                  - paragraph [ref=f165e133]: At first, this image may seem to be of a starry night. However, each of the bright spots in the dark background are not stars, but galaxies. They are a range of colors light blue, white, yellow, orange, and red. Most are simple points of light, while some are larger. The largest ones have elliptical shapes and some have spiral structures.
+                  - heading "Figure 5.6.2 Maunakea Summit Area Sign" [level=2] [ref=f165e134]
+                  - paragraph [ref=f165e135]: Maunakea Summit Area Sign which reads "Aloha, Maunakea is historically, culturally and environmentally significant. Help preserve our cultural and natural landscape and show your respect by not hiking beyond this point to the summit."
+              - generic [ref=f163e321]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f163e323] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f163e95]:
+          - separator [ref=f163e96]
+          - paragraph [ref=f163e98]:
+            - 'link "5.8: Accessible Descriptions" [ref=f163e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.08%3A_Accessible_Descriptions
+            - text: is shared under a
+            - link "CC BY" [ref=f163e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f163e101]:
+        - list [ref=f163e102]:
+          - listitem [ref=f163e103]:
+            - link "Back to top" [ref=f163e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f163e105]:
+            - list [ref=f163e106]:
+              - listitem [ref=f163e107]:
+                - 'link " 5.7: Key Terms" [ref=f163e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.07%3A_Key_Terms
+                  - text: 
+                  - generic [ref=f163e109]: "5.7: Key Terms"
+              - listitem [ref=f163e110]:
+                - 'link "6: The Sun and Our Solar System " [ref=f163e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System
+                  - generic [ref=f163e112]: "6: The Sun and Our Solar System"
+                  - text: 
+        - list [ref=f163e115]:
+          - listitem [ref=f163e116]: Was this article helpful?
+          - listitem [ref=f163e117]:
+            - button "Yes" [ref=f163e118] [cursor=pointer]
+          - listitem [ref=f163e119]:
+            - button "No" [ref=f163e120] [cursor=pointer]
+          - listitem [ref=f163e121]:
+            - button "Leave feedback" [ref=f163e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f163e123]:
+          - heading "Attachments" [level=2] [ref=f163e124]
+          - generic:
+            - button "Attach a file" [ref=f163e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f163e127]:
+            - generic [ref=f163e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f163e131]
+            - generic [ref=f163e132]:
+              - grid [ref=f163e135]:
+                - rowgroup [ref=f163e136]:
+                  - row [ref=f163e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f163e138]':
+                      - generic:
+                        - generic [ref=f163e139]: File
+                        - generic [ref=f163e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f163e141]':
+                      - generic:
+                        - generic [ref=f163e142]: Last modified
+                        - generic [ref=f163e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f163e144]':
+                      - generic:
+                        - generic [ref=f163e145]: Size
+                        - generic [ref=f163e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f163e147]':
+                      - generic:
+                        - generic [ref=f163e148]: Added by
+                        - generic [ref=f163e149]: 
+              - grid [ref=f163e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f163e152]: File
+                          - generic [ref=f163e153]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f163e154]: Last modified
+                          - generic [ref=f163e155]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f163e156]: Size
+                          - generic [ref=f163e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f163e158]: Added by
+                          - generic [ref=f163e159]: 
+                - rowgroup [ref=f163e160]:
+                  - row [ref=f163e161]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f163e162]:
+                      - generic [ref=f163e163]:
+                        - generic [ref=f163e164]:
+                          - generic [ref=f163e165]: 
+                          - link "mindtouch.page#thumbnail" [ref=f163e166] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63072/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f163e167]:
+                          - generic [ref=f163e168]: (no description)
+                          - text: 
+                    - gridcell "Dec 3, 2025, 3:04 PM" [ref=f163e169]
+                    - gridcell "11 KiB" [ref=f163e171]
+                    - gridcell "Rachel Mastrapa" [ref=f163e172]
+    - generic [ref=f163e174]:
+      - button "Open support menu" [ref=f163e176] [cursor=pointer]: "?"
+      - navigation [ref=f163e178]:
+        - paragraph [ref=f163e180]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f163e181] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f163e182] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f163e183] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f163e184] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f163e185] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f163e186]:
+      - generic:
+        - generic [ref=f163e188]:
+          - button "Annotation sidebar" [ref=f163e189]
+          - generic [ref=f163e194]:
+            - button "Show highlights" [ref=f163e195]
+            - button "New page note" [ref=f163e200]
+          - status [ref=f163e205]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f163e206]:
+    - button "contents" [ref=f163e207] [cursor=pointer]
+    - button "readability" [ref=f163e209] [cursor=pointer]
+    - button "resources" [ref=f163e211] [cursor=pointer]
+    - button "tools" [ref=f163e213] [cursor=pointer]
+    - button "developers" [ref=f163e215] [cursor=pointer]
+  - text:  
+  - generic [ref=f163e324]:
+    - generic [ref=f163e325] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f163e328] [cursor=pointer]

@@ -1,0 +1,271 @@
+- generic [active] [ref=f340e1]:
+  - link "Skip to main content" [ref=f340e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f340e3]:
+    - text: 
+    - generic [ref=f340e4]:
+      - generic [ref=f340e5]:
+        - generic: ✕
+        - navigation [ref=f340e7]:
+          - generic [ref=f340e8]:
+            - link [ref=f340e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f340e11]
+            - button "Enter Reader Mode" [ref=f340e13] [cursor=pointer]:
+              - generic [ref=f340e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f340e16]:
+        - list [ref=f340e18]:
+          - listitem [ref=f340e19]:
+            - link [ref=f340e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f340e22]
+          - listitem [ref=f340e23]:
+            - text: 
+            - generic [ref=f340e25]:
+              - generic [ref=f340e26]: "Search :"
+              - searchbox "Search :" [ref=f340e27]
+              - button " Search" [ref=f340e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f340e29]:
+            - list [ref=f340e30]:
+              - listitem [ref=f340e31]:
+                - link "Edit" [ref=f340e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.02%3A_The_H-R_and_Star_Formation?action=edit
+              - text: 
+              - listitem [ref=f340e33]:
+                - link " Options" [ref=f340e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f340e35]:
+                - link " Rachel Mastrapa" [ref=f340e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f340e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f340e38] [cursor=pointer]
+          - list [ref=f340e39]:
+            - listitem [ref=f340e40]:
+              - link " Home" [ref=f340e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f340e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f340e43]:
+              - link " Workbench" [ref=f340e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f340e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f340e46]:
+              - link " De Anza - ASTR10" [ref=f340e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f340e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f340e49]:
+              - 'link " 11: Star Formation" [ref=f340e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation
+                - generic [ref=f340e51]: 
+                - text: "11: Star Formation"
+              - text: »
+            - listitem [ref=f340e52]:
+              - generic [ref=f340e53]: 
+              - text: "11.2: The H-R and Star Formation"
+          - button " Expand/collapse global location" [ref=f340e54] [cursor=pointer]
+      - navigation
+    - article [ref=f340e55]:
+      - generic [ref=f340e56]:
+        - generic [ref=f340e57]:
+          - button " Page settings" [ref=f340e58] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :     "
+        - 'heading "11.2: The H-R and Star Formation" [level=1] [ref=f340e59]'
+        - list [ref=f340e62]:
+          - listitem [ref=f340e63]:
+            - link [ref=f340e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f340e66]:
+                - img "CC" [ref=f340e67]
+                - img "BY" [ref=f340e68]
+          - listitem [ref=f340e69]:
+            - generic [ref=f340e70]:
+              - term [ref=f340e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f340e72]: Aug 4, 2026, 2:27 PM by Jyothsna Viswanadha
+          - listitem [ref=f340e73]:
+            - generic [ref=f340e74]:
+              - term [ref=f340e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f340e76]: Private
+          - listitem [ref=f340e77]:
+            - generic [ref=f340e78]:
+              - term [ref=f340e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f340e80]: "149008"
+          - listitem [ref=f340e81]:
+            - list [ref=f340e82]:
+              - listitem [ref=f340e83]:
+                - button "Pin Page" [ref=f340e84] [cursor=pointer]: 
+              - listitem
+              - text: 
+              - listitem [ref=f340e85]:
+                - list [ref=f340e86]:
+                  - listitem [ref=f340e87]:
+                    - 'link " 11.1: Stellar Origins" [ref=f340e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.01%3A_Stellar_Origins
+                      - text: 
+                      - generic [ref=f340e89]: "11.1: Stellar Origins"
+                  - listitem [ref=f340e90]:
+                    - 'link "11.3: Evidence of Exoplanets " [ref=f340e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.03%3A_Evidence_of_Exoplanets
+                      - generic [ref=f340e92]: "11.3: Evidence of Exoplanets"
+                      - text: 
+              - listitem
+      - list [ref=f340e95]:
+        - listitem [ref=f340e96]:
+          - img "OpenStax" [ref=f340e97]
+        - listitem [ref=f340e98]:
+          - link "OpenStax" [ref=f340e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f340e100]:
+          - link "OpenStax" [ref=f340e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - complementary
+      - text: 
+      - generic [ref=f340e102]:
+        - paragraph [ref=f340e103]
+        - generic [ref=f340e104]:
+          - separator [ref=f340e105]
+          - paragraph [ref=f340e107]:
+            - text: This page titled
+            - 'link "11.2: The H-R and Star Formation" [ref=f340e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.02%3A_The_H-R_and_Star_Formation
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f340e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f340e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f340e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f340e112]:
+        - list [ref=f340e113]:
+          - listitem [ref=f340e114]:
+            - link "Back to top" [ref=f340e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f340e116]:
+            - list [ref=f340e117]:
+              - listitem [ref=f340e118]:
+                - 'link " 11.1: Stellar Origins" [ref=f340e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.01%3A_Stellar_Origins
+                  - text: 
+                  - generic [ref=f340e120]: "11.1: Stellar Origins"
+              - listitem [ref=f340e121]:
+                - 'link "11.3: Evidence of Exoplanets " [ref=f340e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.03%3A_Evidence_of_Exoplanets
+                  - generic [ref=f340e123]: "11.3: Evidence of Exoplanets"
+                  - text: 
+        - list [ref=f340e126]:
+          - listitem [ref=f340e127]: Was this article helpful?
+          - listitem [ref=f340e128]:
+            - button "Yes" [ref=f340e129] [cursor=pointer]
+          - listitem [ref=f340e130]:
+            - button "No" [ref=f340e131] [cursor=pointer]
+          - listitem [ref=f340e132]:
+            - button "Leave feedback" [ref=f340e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , ,"
+        - generic [ref=f340e134]:
+          - heading "Attachments" [level=2] [ref=f340e135]
+          - generic:
+            - button "Attach a file" [ref=f340e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f340e138]:
+            - generic [ref=f340e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f340e142]
+            - generic [ref=f340e143]:
+              - grid [ref=f340e146]:
+                - rowgroup [ref=f340e147]:
+                  - row [ref=f340e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f340e149]':
+                      - generic:
+                        - generic [ref=f340e150]: File
+                        - generic [ref=f340e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f340e152]':
+                      - generic:
+                        - generic [ref=f340e153]: Last modified
+                        - generic [ref=f340e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f340e155]':
+                      - generic:
+                        - generic [ref=f340e156]: Size
+                        - generic [ref=f340e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f340e158]':
+                      - generic:
+                        - generic [ref=f340e159]: Added by
+                        - generic [ref=f340e160]: 
+              - grid [ref=f340e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f340e163]: File
+                          - generic [ref=f340e164]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f340e165]: Last modified
+                          - generic [ref=f340e166]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f340e167]: Size
+                          - generic [ref=f340e168]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f340e169]: Added by
+                          - generic [ref=f340e170]: 
+                - rowgroup [ref=f340e171]:
+                  - row [ref=f340e172]:
+                    - gridcell "No files attached." [ref=f340e173]
+    - generic [ref=f340e175]:
+      - button "Open support menu" [ref=f340e177] [cursor=pointer]: "?"
+      - navigation [ref=f340e179]:
+        - paragraph [ref=f340e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f340e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f340e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f340e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f340e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f340e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f340e187]:
+      - generic:
+        - generic [ref=f340e189]:
+          - button "Annotation sidebar" [ref=f340e190]
+          - generic [ref=f340e195]:
+            - button "Show highlights" [ref=f340e196]
+            - button "New page note" [ref=f340e201]
+          - status [ref=f340e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f340e207]:
+    - button "contents" [ref=f340e208] [cursor=pointer]
+    - button "readability" [ref=f340e210] [cursor=pointer]
+    - button "resources" [ref=f340e212] [cursor=pointer]
+    - button "tools" [ref=f340e214] [cursor=pointer]
+    - button "developers" [ref=f340e216] [cursor=pointer]

@@ -1,0 +1,626 @@
+- generic [ref=f157e1]:
+  - link "Skip to main content" [ref=f157e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f157e3]:
+    - text: 
+    - generic [ref=f157e4]:
+      - generic [ref=f157e5]:
+        - generic: ✕
+        - navigation [ref=f157e7]:
+          - generic [ref=f157e8]:
+            - link [ref=f157e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f157e11]
+            - button "Enter Reader Mode" [ref=f157e13] [cursor=pointer]:
+              - generic [ref=f157e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f157e16]:
+        - list [ref=f157e18]:
+          - listitem [ref=f157e19]:
+            - link [ref=f157e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f157e22]
+          - listitem [ref=f157e23]:
+            - text: 
+            - generic [ref=f157e25]:
+              - generic [ref=f157e26]: "Search :"
+              - searchbox "Search :" [ref=f157e27]
+              - button " Search" [ref=f157e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f157e29]:
+            - list [ref=f157e30]:
+              - listitem [ref=f157e31]:
+                - link "Edit" [ref=f157e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.06%3A_Ethics_of_Building_Telescopes?action=edit
+              - text: 
+              - listitem [ref=f157e33]:
+                - link " Options" [ref=f157e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f157e35]:
+                - link " Rachel Mastrapa" [ref=f157e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f157e37]:
+        - generic:
+          - button " Contents" [ref=f157e207] [cursor=pointer]
+          - list [ref=f157e39]:
+            - listitem [ref=f157e40]:
+              - link " Home" [ref=f157e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f157e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f157e43]:
+              - link " Workbench" [ref=f157e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f157e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f157e46]:
+              - link " De Anza - ASTR10" [ref=f157e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f157e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f157e49]:
+              - 'link " 5: Astronomical Instruments" [ref=f157e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments
+                - generic [ref=f157e51]: 
+                - text: "5: Astronomical Instruments"
+              - text: »
+            - listitem [ref=f157e52]:
+              - generic [ref=f157e53]: 
+              - text: "5.6: Ethics of Building Telescopes"
+          - button " Expand/collapse global location" [ref=f157e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                
+    - article [ref=f157e55]:
+      - generic [ref=f157e56]:
+        - generic [ref=f157e57]:
+          - button " Page settings" [ref=f157e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "5.6: Ethics of Building Telescopes" [level=1] [ref=f157e59]':
+          - generic [ref=f157e208]: "5.6: Ethics of Building Telescopes "
+        - list [ref=f157e62]:
+          - listitem [ref=f157e63]:
+            - link [ref=f157e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f157e66]:
+                - img "CC" [ref=f157e67]
+                - img "BY" [ref=f157e68]
+          - listitem [ref=f157e69]:
+            - generic [ref=f157e70]:
+              - term [ref=f157e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f157e72]: Aug 3, 2026, 4:39 PM by Jyothsna Viswanadha
+          - listitem [ref=f157e73]:
+            - generic [ref=f157e74]:
+              - term [ref=f157e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f157e76]: Private
+          - listitem [ref=f157e77]:
+            - generic [ref=f157e78]:
+              - term [ref=f157e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f157e80]: "119110"
+          - listitem [ref=f157e81]:
+            - list [ref=f157e82]:
+              - listitem [ref=f157e83]:
+                - button "Pin Page" [ref=f157e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f157e85]:
+                - list [ref=f157e86]:
+                  - listitem [ref=f157e87]:
+                    - 'link " 5.5: Spacecraft" [ref=f157e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.05%3A_Spacecraft
+                      - text: 
+                      - generic [ref=f157e89]: "5.5: Spacecraft"
+                  - listitem [ref=f157e90]:
+                    - 'link "5.7: Key Terms " [ref=f157e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.07%3A_Key_Terms
+                      - generic [ref=f157e92]: "5.7: Key Terms"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f157e93]:
+        - group [ref=f157e212]:
+          - generic [ref=f157e213]:
+            - generic [ref=f157e214]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f157e215]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f157e216]:
+            - generic [ref=f157e219]:
+              - generic [ref=f157e220]:
+                - generic [ref=f157e221]:
+                  - link "Edit" [ref=f157e222]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f157e223]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f157e224]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f157e225]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f157e226]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f157e227]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f157e228]: "Words: 2592, Chars: 17134"
+              - group "Editor toolbars" [ref=f157e230]:
+                - toolbar [ref=f157e231]:
+                  - button "Save" [ref=f157e232]:
+                    - generic [ref=f157e233]: 
+                  - button "Cancel" [ref=f157e235]:
+                    - generic [ref=f157e236]: 
+                - toolbar [ref=f157e239]:
+                  - button "Undo" [disabled] [ref=f157e240]:
+                    - generic [ref=f157e241]: 
+                  - button "Redo" [disabled] [ref=f157e242]:
+                    - generic [ref=f157e243]: 
+                - toolbar [ref=f157e245]:
+                  - button "Headings" [ref=f157e246]
+                - toolbar [ref=f157e251]:
+                  - button "Bold" [ref=f157e252]:
+                    - generic [ref=f157e253]: 
+                  - button "Italic" [ref=f157e254]:
+                    - generic [ref=f157e255]: 
+                  - button "Underline" [ref=f157e256]:
+                    - generic [ref=f157e257]: 
+                - toolbar [ref=f157e259]:
+                  - button "Text color" [ref=f157e260]:
+                    - generic [ref=f157e261]: 
+                  - button "Background color" [ref=f157e263]:
+                    - generic [ref=f157e264]: 
+                - toolbar [ref=f157e267]:
+                  - button "Remove format" [ref=f157e268]:
+                    - generic [ref=f157e269]: 
+                - toolbar [ref=f157e271]:
+                  - button "Insert/Remove numbered list" [ref=f157e272]:
+                    - generic [ref=f157e273]: 
+                  - button "Insert/Remove bulleted list" [ref=f157e274]:
+                    - generic [ref=f157e275]: 
+                - toolbar [ref=f157e277]:
+                  - button "Alignment" [ref=f157e278]:
+                    - generic [ref=f157e279]: 
+                - text: 
+                - toolbar [ref=f157e282]:
+                  - button "Link" [ref=f157e283]:
+                    - generic [ref=f157e284]: 
+                  - button "Image" [ref=f157e285]:
+                    - generic [ref=f157e286]: 
+                  - text: 
+                  - button "Boxes" [ref=f157e287]
+                - toolbar [ref=f157e292]:
+                  - button "Replace" [ref=f157e293]:
+                    - generic [ref=f157e294]: 
+                - toolbar [ref=f157e296]:
+                  - button "Enable Binder" [ref=f157e297]
+                  - button "Insert Adapt" [ref=f157e299]
+                  - button "Query" [ref=f157e301]
+                  - button "Accessibility Checker" [ref=f157e304]
+                - toolbar [ref=f157e307]:
+                  - button "HTML" [ref=f157e308]:
+                    - generic [ref=f157e309]: 
+            - application "Rich Text Editor, editarea" [ref=f157e311]:
+              - iframe [active] [ref=f157e312]:
+                - generic [active] [ref=f159e1]:
+                  - heading "Science and Society - Ethics of Building Telescopes" [level=2] [ref=f159e2]
+                  - paragraph [ref=f159e3]: This chapter has been all about the function, use, and technical details of telescopes and observing in astronomy. One important piece of this conversation is the land that such telescopes are built on. Or, in the case of space telescopes, the space that these telescopes occupy. For this Science and Society section, we'll explore both land and space-based telescopes and the various ways they have impact on the rest of society.
+                  - paragraph [ref=f159e4]: It is particularly important in this section to remember that Astronomy (as with any other field of science) does not exist in a vacuum. Here, this means that someone must make a decision for when, where, and how to build these telescopes. History tells us that that "someone" has not always considered the full implications of building such enormous pieces of equipment. In particular, we'll use the example of the Thiry Meter Telescope, which was briefly mentioned earlier in the chapter as one of the largest (proposed) telescopes in the world. We'll also take a look at the example of James Webb Space telescope and some additional implications that arise when building space telescopes.
+                  - paragraph [ref=f159e5]: We encourage you to think carefully about your own personal views of building telescopes in this section, and how your views may be similar or different from others that are brought up in the following pages.
+                  - heading "Telescopes and Land" [level=2] [ref=f159e6]
+                  - paragraph [ref=f159e7]:
+                    - text: As discussed in previous pages from this chapter, large ground-based telescopes prioritize calm, high, dark, and dry conditions. Despite the deceivingly simple list of conditions for telescopes, it is an entirely different conversation to determine exactly where and how to build such telescopes on Earth. One example is the Thirty Meter Telescope (TMT), proposed to be built on
+                    - generic [ref=f159e8]: Maunakea
+                    - text: in Hawai'i. Standing among thirteen other telescopes currently on
+                    - generic [ref=f159e9]: Maunakea
+                    - text: ", TMT would by far be the largest visible light telescope on"
+                    - generic [ref=f159e10]: Maunakea
+                    - text: and nearly the largest in the world.
+                  - figure [ref=f159e11]:
+                    - img "Observatory domes on a mountain ridge above a blanket of clouds under a clear sky." [ref=f159e12]
+                    - generic [ref=f159e13]:
+                      - text: "Figure \\(\\PageIndex{1}\\): From left to right the,"
+                      - link "Subaru Telescope" [ref=f159e14]:
+                        - /url: https://subarutelescope.org/en/
+                      - text: ", the two"
+                      - link "Keck" [ref=f159e15]:
+                        - /url: https://keckobservatory.org/
+                      - text: telescopes, NASA's
+                      - link "Infrared Telescope" [ref=f159e16]:
+                        - /url: https://irtfweb.ifa.hawaii.edu/
+                      - link "Facility" [ref=f159e17]:
+                        - /url: https://irtfweb.ifa.hawaii.edu/
+                      - text: were all built on the summit of Maunakea. The two Keck telescopes had planned extensions that were highly opposed by Native Hawaiians. (
+                      - link "CC BY 2.0" [ref=f159e18]:
+                        - /url: https://creativecommons.org/licenses/by/2.0/
+                      - text: ;
+                      - link "Robert Linsdell" [ref=f159e19]:
+                        - /url: https://www.flickr.com/people/92487715@N03
+                      - text: via
+                      - link "Wikimedia Commons" [ref=f159e20]:
+                        - /url: https://commons.wikimedia.org/wiki/File:Subaru,_Keck_and_NASA_Telescopes._Mauna_Kea_Summit_(503910)_(21665383948).jpg
+                      - text: ).
+                  - paragraph [ref=f159e21]:
+                    - generic [ref=f159e22]:
+                      - generic [ref=f159e23]: Maunakea
+                      - text: ’s
+                    - text: location makes it a prime site for Astronomy; it is on an island high above sea level with very little humidity or atmospheric turbulence. It could be argued that it is the best location for astronomy in the Northern Hemisphere.
+                    - generic [ref=f159e24]: Maunakea
+                    - text: was chosen as the site for the TMT after a five year campaign that included alternative sites in Chile and Mexico. As of 2025, thirteen telescopes stand on the mountain, many added or modified without consent from Native Hawai'ians.
+                  - paragraph [ref=f159e26]:
+                    - text: In Native Hawaiian culture,
+                    - generic [ref=f159e27]: Maunakea
+                    - text: is considered the place “where heaven, earth and stars find union”, where the god Wākea (associated with the sky) and the goddess Papahānaumoku (associated with the firmament) conceived and gave birth to their children—Komoawa (the high priest), and Hoʻohōkūkalani (associated with the stars) from whom the native Hawaiians are descended. The puʻu (cinder cones), lakes, and other features on the mountain are considered sacred sites that bind the earth to the heavens.
+                  - heading "History of TMT" [level=3] [ref=f159e29]
+                  - paragraph [ref=f159e30]:
+                    - text: On October 30, 2018 the Supreme Court of Hawaii upheld the issuing of a permit for the Thirty Meter Telescope (TMT). This would allow the TMT to be constructed near the summit of
+                    - generic [ref=f159e31]: Maunakea
+                    - text: . The ruling concluded a challenge to the permit from 2017, which came from Native Hawaiians who consider the mountain sacred. However, this dispute did not begin in 2017— in 2015, the Supreme Court revoked the same permit on the grounds that it was issued before opposing views could be heard. In 2014, the TMT’s groundbreaking ceremony was halted by protestors.
+                  - paragraph [ref=f159e33]:
+                    - text: The TMT project is not the first time astronomy facilities on
+                    - generic [ref=f159e34]: Maunakea
+                    - text: have come under scrutiny. In 1998, a state audit detailing the mismanagement of
+                    - generic [ref=f159e36]: Maunakea
+                    - text: was released. In 2003, NASA’s plan to build four “outrigger” telescopes around the Keck twins was scuppered over an insufficient study of environmental impacts and cost. In short, Native Hawai'ians and local advocates alike have pushed for more consideration and care of this cherished land.
+                  - figure [ref=f159e38]:
+                    - img "Aloha sign on Maunakea asking visitors not to hike beyond this point to the summit." [ref=f159e39]
+                    - generic [ref=f159e40]:
+                      - text: "Figure \\(\\PageIndex{2}\\): This sign is a reminder to visitors of the importance of Maunakea and requests that all visitors show respect by not hiking to the summit. ("
+                      - link "CC BY-SA" [ref=f159e41]:
+                        - /url: https://creativecommons.org/licenses/by-sa/2.0/deed.en
+                      - text: ;
+                      - link "Occupy Hilo" [ref=f159e42]:
+                        - /url: https://www.flickr.com/photos/occupyhilo/
+                      - text: via
+                      - link "Flickr" [ref=f159e43]:
+                        - /url: https://www.flickr.com/photos/occupyhilo/15512613025/
+                      - text: ).
+                      - 'link "Alternative Text Description of Figure \\(\\PageIndex{2}\\)" [ref=f159e44]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.08:_Accessible_Descriptions#Figure_5.6.2_Maunakea_Summit_Area_Sign
+                      - text: .
+                  - heading "Telescopes on Maunakea" [level=3] [ref=f159e45]
+                  - paragraph [ref=f159e46]: To be overly brief on Hawaii’s history, the islands were a sovereign kingdom until 1893, when an alliance of U.S. Marines, businessmen and descendants of missionaries overthrew Queen Liliʻuokalani. Hawaii was then annexed in 1898 and remained an American territory until 1959, when a majority of registered voters on the islands voted for it to become a state.
+                  - paragraph [ref=f159e47]:
+                    - text: Following the 1893 coup, all land that was not privately owned became “Public Lands”, which later became the “Ceded Lands” after the annexation. Some 550,000 acres of these lands were taken by the federal government and the remaining 1.4 million acres became state land. In 1968, the Board of Land and Natural Resources (BLNR) leased a patch of state land to the University of Hawaii (UH). The term of the lease was 65 years, from January 1, 1968 to December 31, 2033 and granted UH use of all lands on
+                    - generic [ref=f159e48]: Maunakea
+                    - text: higher than 12,000 feet. At the end of the lease, the land would be returned to state hands “in good order and condition, reasonable wear and tear expected.”
+                  - paragraph [ref=f159e50]:
+                    - text: The first telescope on the mountain, the UH 2.2-meter telescope, began operations in 1970. Since then, twelve more telescopes have followed, dotting the land that is now known as the
+                    - generic [ref=f159e51]: Maunakea
+                    - text: Science Reserve. Astronomy on
+                    - generic [ref=f159e53]: Maunakea
+                    - text: spans a wide range of the electromagnetic spectrum, with optical, infrared, and radio telescopes in attendance. Any non-UH observatories sublease the land from UH (Keck’s sublease in
+                    - link "Further Exploration" [ref=f159e55]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.06:_Ethics_of_Building_Telescopes#Further_Exploration
+                    - text: ) in exchange for infrastructure maintenance and telescope time.
+                  - paragraph [ref=f159e56]:
+                    - text: Since the historic 2018 Supreme Court of Hawaii ruling, thousands of TMT opponents have peacefully occupied the access road to the site, halting construction efforts. These protectors, or kia’i, oppose TMT for a number of reasons.
+                    - generic [ref=f159e57]: Maunakea
+                    - text: is a sacred place for many Indigenous Hawaiians (Kānaka Maoli), and opponents contest that TMT infringes on the rights of Kānaka Maoli to decide what is done with their land. These historic protests captured global attention well beyond the astronomy and academic communities. Note that this is only a cursory summary of a complex and nuanced situation, which other articles have laid out in more detail. You can read an expanded version of the history laid out in this section of the text on the attributed Astrobites article from 2019.
+                  - heading "Status Updates" [level=3] [ref=f159e59]
+                  - paragraph [ref=f159e60]: In recent years, TMT project members have attempted to repair relations with Hawaiian locals and take a new approach on the possibility of building the telescope. The team has since issued an official apology, held various community workshops and events, along with maintaining multiple advisors as ki’ai (protectors) leaders and Hawaiian cultural practitioners. Despite these efforts, many locals still express disapproval for the project to proceed.
+                  - paragraph [ref=f159e61]: Another blow to the project came early in 2025 as a result of the Trump Administration budget cuts. Due to sweeping cuts across all departments, the TMT project lost all funding from the National Science Foundation (NSF), which was its primary source of funding support. According to the administration's budget proposal, "Given the unaﬀordability of continuing funding two diﬀerent multi-billion dollar telescopes, NSF will advance the Giant Magellan Telescope (GMT) into the Major Facility Final Design Phase". The 30-meter-class Giant Magellan Telescope is currently under construction at Las Campanas Observatory in Chile’s Atacama Desert.
+                  - heading "Telescopes and Space" [level=2] [ref=f159e62]
+                  - paragraph [ref=f159e63]: As explored earlier in the chapter, one major advantage of space telescopes is the spectacular range of possible wavelengths to observe in, as the atmosphere no longer impedes the telescope's view of higher energy waves. In addition, placing a telescope outside of Earth's atmosphere removes the issue of atmospheric conditions (e.g., weather, light pollution, turbulence) and other challenges of having a ground-based telescope. Some of the most iconic telescope images have come from space telescopes, including NASA's Hubble and James Webb Space Telescopes. In addition to these, NASA also has launched several other space observatories that measure in gamma, x-ray, and ultraviolet wavelengths.
+                  - paragraph [ref=f159e64]: Despite the major accomplishments of astronomers, engineers, technicians and countless other support staff to launch such monumental objects into space, questions of ownership and cost are at the forefront of any new space telescope planning mission. Space is an interesting case of ownership, as we humans are still developing the capability to explore space on a regular and sustainable basis.
+                  - paragraph [ref=f159e65]:
+                    - text: There have been former attempts at a resolution to address the question of ownership in space (The Outer Space Treaty in
+                    - link "Further Exploration" [ref=f159e66]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.06:_Ethics_of_Building_Telescopes#Further_Exploration
+                    - text: ), which largely led to a conclusion that "no one owns outer space". However, in more recent years, this topic has come up more often as humanity continues to launch more and more objects into Earth's orbit and beyond. We have previously addressed the topic of light pollution and space pollution (link to Stars and Light Science and Society later), which is also relevant to this conversation on space and sky ownership.
+                  - paragraph [ref=f159e67]: Coming back to the discussion of space telescopes, each of the current space-telescopes have cost millions, if not billions, of dollars to successfully launch and maintain. While ownership remains a gray area for space-based instruments, the difficulty and cost of maintaining such instruments is often at the forefront of the discussion.
+                  - paragraph [ref=f159e68]: Most space-based instruments are built with the intent to last up to several years, also with a specific "mission" that scientists intend to pursue with the telescope. Many space telescopes, such as the Spitzer Space Telescope, have been able to extend their functionality well beyond the original time estimate and science mission, which further extends the "value" of paying such a high cost for them. However, as mentioned earlier in the chapter, humans are not always the most efficient when it comes to building instruments for air and space. One notable example of the astronomical costs of such maintenance comes from the very first images of Hubble Space Telescope (HST). Just two months after the launch in April of 1990, NASA announced that there was a major flaw in the telescope's optics, known as spherical aberration.
+                  - paragraph [ref=f159e69]: "This flaw caused all of the first images to come back blurry and unusable. The cause was soon determined to be in the primary mirror of the telescope (Figure \\(\\PageIndex{3}\\)), specifically the amount of curvature at the edges. After further investigation, NASA determined that the flaw was 10 times larger than the allowed tolerance in order for the telescope to function properly."
+                  - figure [ref=f159e70]:
+                    - img "Technician inspecting a large telescope mirror during grinding and polishing in a manufacturing facility." [ref=f159e71]
+                    - generic [ref=f159e72]:
+                      - text: "Figure \\(\\PageIndex{3}\\): Hubble Space Telescope's Primary Mirror. HST's mirror was ground at the Perkin-Elmer Corporation's large optics fabrication facility in 1979. ("
+                      - link "Public Domain" [ref=f159e73]:
+                        - /url: https://en.wikipedia.org/wiki/Public_domain
+                      - text: ;
+                      - link "NASA Hubble Space Telescope" [ref=f159e74]:
+                        - /url: https://science.nasa.gov/mission/hubble/
+                      - text: via
+                      - link "Wikimedia Commons" [ref=f159e75]:
+                        - /url: https://commons.wikimedia.org/w/index.php?curid=70819005
+                      - text: ).
+                  - paragraph [ref=f159e76]: The result of such a flaw required special maintenance by NASA astronauts in 1993. Hubble's first servicing involved the installation of two new cameras, one of which was specially designed to account for the spherical abberration flaw in the mirror. After this first servicing, NASA performed a series of other maintenance missions up until 2009. Despite the early challenges with the mirror, Hubble remains one of the most impactful and revolutionary pieces of instrumentation in all of Astronomy. Now over thirty years functioning at peak capacity, Hubble continues to collect data and produce new science results on a regular basis (as of 2026).
+                  - paragraph [ref=f159e77]: A more modern example of the extraordinary effort to launch such objects is the James Webb Space Telescope (JWST), which had over 300 single-point failure items on its launch and deployment list. This means that if any one of these steps went wrong, the entire project could be critically jeopardized. Unlike Hubble, JWST does not orbit Earth directly, thus is inaccessible to astronauts for servicing. Luckily, JWST was successfully launched and deployed in 2021 with no major flaws to its functionality and has been churning out major results since its launch.
+                  - paragraph [ref=f159e78]:
+                    - text: We could list numerous other examples of interesting and memorable challenges of space telescopes, among the most notable are Spitzer's cryogenics helium depletion and Kepler telescope losing its aim after just a few years (
+                    - link "Further Exploration" [ref=f159e79]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.06:_Ethics_of_Building_Telescopes#Further_Exploration
+                    - text: ). Of course, each mishap should be taken in context with the thousands of possible issues that could arise at any point.
+                  - paragraph [ref=f159e80]: The fantastic results produced by Hubble, JWST, and other space telescopes is a testament to the worth of these efforts to all of humanity. Hubble has revolutionized our ideas about the universe beyond our Milky Way Galaxy. JWST has reached further back into the early universe than we ever imagined, providing glimpses of the youngest galaxies ever known to humanity. On top of the science results, we humans have been able to achieve such feats with international collaboration efforts that extend around the world. All of humanity benefits from such efforts, as these telescopes exist as our only window to the outside cosmos.
+                  - generic [ref=f159e81]:
+                    - 'heading "Further Exploration: Interactive Activity" [level=5] [ref=f159e82]'
+                    - list [ref=f159e84]:
+                      - listitem [ref=f159e85]:
+                        - text: Read
+                        - link "Closure Looms for Keck Interferometer" [ref=f159e86]:
+                          - /url: https://skyandtelescope.org/astronomy-news/closure-looms-for-keck-interferometer/
+                        - text: from
+                        - emphasis [ref=f159e87]: Sky & Telescope
+                        - text: ", which examines concerns surrounding the Keck Interferometer project, including debates over environmental review, land use, and the impacts of astronomical facilities on the culturally and environmentally significant Maunakea region."
+                      - listitem [ref=f159e88]:
+                        - text: Review
+                        - link "Keck's Sublease" [ref=f159e89]:
+                          - /url: https://dlnr.hawaii.gov/mk/files/2016/10/B.03g-Keck-UH-Sublease.pdf
+                        - text: to examine the legal agreement governing the operation of the W. M. Keck Observatory on Maunakea. The document outlines land-use terms, responsibilities, and requirements related to observatory activities on land that is both scientifically valuable and culturally significant.
+                      - listitem [ref=f159e90]:
+                        - text: Read
+                        - link "Over 300 Ways JWST Can Fail" [ref=f159e91]:
+                          - /url: https://www.space.com/james-webb-space-telescope-deployment-points-of-failure
+                        - text: from
+                        - emphasis [ref=f159e92]: Space.com
+                        - text: to learn about the engineering challenges behind the James Webb Space Telescope. The article discusses the telescope's more than 300 single-point failure mechanisms and explains the complex deployment sequence that had to function flawlessly after launch to enable JWST's scientific mission.
+                      - listitem [ref=f159e93]:
+                        - text: Explore the
+                        - link "Giant Magellan Telescope" [ref=f159e94]:
+                          - /url: https://giantmagellan.org/about-us/
+                        - text: ", a next-generation ground-based observatory currently under construction in Chile. Featuring seven giant primary mirror segments that will work together as a single optical system, the telescope is designed to provide unprecedented resolution and sensitivity for studying exoplanets, galaxy formation, and the evolution of the universe."
+                      - listitem [ref=f159e95]:
+                        - text: Read
+                        - link "How Spitzer Stayed Alive" [ref=f159e96]:
+                          - /url: https://science.nasa.gov/universe/exoplanets/how-nasas-spitzer-has-stayed-alive-for-so-long/
+                        - text: from NASA to learn how the Spitzer Space Telescope continued operating well beyond its planned mission lifetime. The article highlights the engineering innovations, efficient resource management, and adaptive mission planning that enabled Spitzer to remain a productive infrared observatory for more than 16 years, contributing significantly to studies of exoplanets, stars, and distant galaxies.
+                      - listitem [ref=f159e97]:
+                        - text: Explore the
+                        - link "Spitzer Mission Overview" [ref=f159e98]:
+                          - /url: https://www.spitzer.caltech.edu/mission/mission-overview
+                        - text: from NASA/JPL-Caltech to learn about the design, objectives, and operational history of the Spitzer Space Telescope. The resource explains how Spitzer relied on a supply of liquid helium to cool its instruments for infrared observations and how the mission successfully transitioned to its "warm mission" phase after the depletion of its cryogenic coolant, extending its scientific productivity for many additional years.
+                      - listitem [ref=f159e99]:
+                        - text: Read
+                        - 'link "Kepler: Disaster and Rebirth" [ref=f159e100]':
+                          - /url: https://science.nasa.gov/universe/exoplanets/disaster-and-rebirth-a-space-telescopes-new-mission/
+                        - text: from NASA to learn how the Kepler Space Telescope overcame a major mission setback after the failure of two reaction wheels. The article explains how engineers developed the innovative K2 mission, enabling Kepler to regain pointing stability and continue discovering exoplanets and conducting astrophysical observations despite losing its original ability to precisely aim at a single region of the sky.
+                  - heading "References" [level=2] [ref=f159e101]
+                  - list [ref=f159e102]:
+                    - listitem [ref=f159e103]:
+                      - text: Dayton, K. (2025, May 30). Funding Cuts May Doom The Long-Stalled Thirty Meter Telescope.
+                      - emphasis [ref=f159e104]: Honolulu Civil Beat.
+                      - link "https://www.civilbeat.org/2025/05/fu...ter-telescope/" [ref=f159e105]:
+                        - /url: https://www.civilbeat.org/2025/05/fu...ter-telescope/
+                    - listitem [ref=f159e106]:
+                      - text: Gutierrez, B. (2024, June 13). New TMT team changes approach to get community support, but is it too late?
+                      - emphasis [ref=f159e107]: Hawaii News Now.
+                      - link "https://www.hawaiinewsnow.com/2024/06/13/new-tmt-team-changes-approach-get-community-support-is-it-too-late-telescope/" [ref=f159e108]:
+                        - /url: https://www.hawaiinewsnow.com/2024/06/13/new-tmt-team-changes-approach-get-community-support-is-it-too-late-telescope/%20%20
+                    - listitem [ref=f159e109]:
+                      - text: NASA (2025, June 13). Hubble Full History Timeline. NASA.
+                      - link "https://science.nasa.gov/mission/hub...ine-full-text/" [ref=f159e110]:
+                        - /url: https://science.nasa.gov/mission/hubble/overview/hubble-timeline/hubble-history-timeline-full-text/
+                  - heading "Attributions" [level=2] [ref=f159e111]
+                  - list [ref=f159e112]:
+                    - listitem [ref=f159e113]:
+                      - text: This page was adapted from "
+                      - link "Mauna Kea and Modern Astronomy" [ref=f159e114]:
+                        - /url: https://astrobites.org/2018/11/09/mauna-kea-and-modern-astronomy/
+                      - text: "\" in"
+                      - link "Astrobites" [ref=f159e115]:
+                        - /url: https://astrobites.org/
+                      - text: originally written by
+                      - link "Tarini Konchady" [ref=f159e116]:
+                        - /url: https://astrobites.org/author/tkonchady/
+                      - text: ", and published under"
+                      - link "CC BY-NC 4.0" [ref=f159e117]:
+                        - /url: https://www.creativecommons.org/licenses/by-nc/4.0/deed.en
+                      - text: and from "
+                      - 'link "Maunakea, Western Astronomy, and Hawai`i" [ref=f159e118]':
+                        - /url: https://astrobites.org/2019/08/02/maunakea-western-astronomy-and-hawaii/
+                      - text: "\" in"
+                      - link "Astrobites" [ref=f159e119]:
+                        - /url: https://astrobites.org/
+                      - text: originally written by
+                      - link "Ellis Avallone" [ref=f159e120]:
+                        - /url: https://astrobites.org/author/eavallone/
+                      - text: ", and published under"
+                      - link "CC BY-NC 4.0" [ref=f159e121]:
+                        - /url: https://www.creativecommons.org/licenses/by-nc/4.0/deed.en
+                      - text: .
+              - generic [ref=f157e313]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f157e315] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f157e95]:
+          - separator [ref=f157e96]
+          - paragraph [ref=f157e98]:
+            - 'link "5.6: Ethics of Building Telescopes" [ref=f157e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.06%3A_Ethics_of_Building_Telescopes
+            - text: is shared under a
+            - link "CC BY" [ref=f157e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f157e101]:
+        - list [ref=f157e102]:
+          - listitem [ref=f157e103]:
+            - link "Back to top" [ref=f157e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f157e105]:
+            - list [ref=f157e106]:
+              - listitem [ref=f157e107]:
+                - 'link " 5.5: Spacecraft" [ref=f157e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.05%3A_Spacecraft
+                  - text: 
+                  - generic [ref=f157e109]: "5.5: Spacecraft"
+              - listitem [ref=f157e110]:
+                - 'link "5.7: Key Terms " [ref=f157e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.07%3A_Key_Terms
+                  - generic [ref=f157e112]: "5.7: Key Terms"
+                  - text: 
+        - list [ref=f157e115]:
+          - listitem [ref=f157e116]: Was this article helpful?
+          - listitem [ref=f157e117]:
+            - button "Yes" [ref=f157e118] [cursor=pointer]
+          - listitem [ref=f157e119]:
+            - button "No" [ref=f157e120] [cursor=pointer]
+          - listitem [ref=f157e121]:
+            - button "Leave feedback" [ref=f157e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f157e123]:
+          - heading "Attachments" [level=2] [ref=f157e124]
+          - generic:
+            - button "Attach a file" [ref=f157e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f157e127]:
+            - generic [ref=f157e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f157e131]
+            - generic [ref=f157e132]:
+              - grid [ref=f157e135]:
+                - rowgroup [ref=f157e136]:
+                  - row [ref=f157e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f157e138]':
+                      - generic:
+                        - generic [ref=f157e139]: File
+                        - generic [ref=f157e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f157e141]':
+                      - generic:
+                        - generic [ref=f157e142]: Last modified
+                        - generic [ref=f157e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f157e144]':
+                      - generic:
+                        - generic [ref=f157e145]: Size
+                        - generic [ref=f157e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f157e147]':
+                      - generic:
+                        - generic [ref=f157e148]: Added by
+                        - generic [ref=f157e149]: 
+              - grid [ref=f157e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f157e316]: File
+                          - generic [ref=f157e317]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f157e318]: Last modified
+                          - generic [ref=f157e319]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f157e320]: Size
+                          - generic [ref=f157e321]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f157e322]: Added by
+                          - generic [ref=f157e323]: 
+                - rowgroup [ref=f157e160]:
+                  - row [ref=f157e324]:
+                    - gridcell " 1280px-Hubble_Space_Telescope_Primary_Mirror_(27712253493).jpg (no description)" [ref=f157e325]:
+                      - generic [ref=f157e326]:
+                        - generic [ref=f157e327]:
+                          - generic [ref=f157e328]: 
+                          - link "1280px-Hubble_Space_Telescope_Primary_Mirror_(27712253493).jpg" [ref=f157e329] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/66633/1280px-Hubble_Space_Telescope_Primary_Mirror_(27712253493).jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f157e330]:
+                          - generic [ref=f157e331]: (no description)
+                          - text: 
+                    - gridcell "Feb 18, 2026, 11:23 AM" [ref=f157e332]
+                    - gridcell "390 KiB" [ref=f157e334]
+                    - gridcell "Caitlin Kepple" [ref=f157e335]
+                  - row [ref=f157e336]:
+                    - gridcell " 15512613025_c02baf696f_c.jpg (no description)" [ref=f157e337]:
+                      - generic [ref=f157e338]:
+                        - generic [ref=f157e339]:
+                          - generic [ref=f157e340]: 
+                          - link "15512613025_c02baf696f_c.jpg" [ref=f157e341] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/66319/15512613025_c02baf696f_c.jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f157e342]:
+                          - generic [ref=f157e343]: (no description)
+                          - text: 
+                    - gridcell "Jan 23, 2026, 1:42 PM" [ref=f157e344]
+                    - gridcell "145 KiB" [ref=f157e346]
+                    - gridcell "Caitlin Kepple" [ref=f157e347]
+                  - row [ref=f157e348]:
+                    - gridcell " MaunaKeaSummit.jpg (no description)" [ref=f157e349]:
+                      - generic [ref=f157e350]:
+                        - generic [ref=f157e351]:
+                          - generic [ref=f157e352]: 
+                          - link "MaunaKeaSummit.jpg" [ref=f157e353] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/66318/MaunaKeaSummit.jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f157e354]:
+                          - generic [ref=f157e355]: (no description)
+                          - text: 
+                    - gridcell "Jan 23, 2026, 1:42 PM" [ref=f157e356]
+                    - gridcell "97 KiB" [ref=f157e358]
+                    - gridcell "Caitlin Kepple" [ref=f157e359]
+                  - row [ref=f157e360]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f157e361]:
+                      - generic [ref=f157e362]:
+                        - generic [ref=f157e363]:
+                          - generic [ref=f157e364]: 
+                          - link "mindtouch.page#thumbnail" [ref=f157e365] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/60401/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f157e366]:
+                          - generic [ref=f157e367]: (no description)
+                          - text: 
+                    - gridcell "Aug 4, 2025, 10:47 AM" [ref=f157e368]
+                    - gridcell "11 KiB" [ref=f157e370]
+                    - gridcell "Caitlin Kepple" [ref=f157e371]
+                  - row [ref=f157e372]:
+                    - gridcell " Subaru,_Keck_and_NASA_Telescopes._Mauna_Kea_Summit_(503910)_(21665383948).jpg (no description)" [ref=f157e373]:
+                      - generic [ref=f157e374]:
+                        - generic [ref=f157e375]:
+                          - generic [ref=f157e376]: 
+                          - link "Subaru,_Keck_and_NASA_Telescopes._Mauna_Kea_Summit_(503910)_(21665383948).jpg" [ref=f157e377] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/66356/Subaru%2C_Keck_and_NASA_Telescopes._Mauna_Kea_Summit_(503910)_(21665383948).jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f157e378]:
+                          - generic [ref=f157e379]: (no description)
+                          - text: 
+                    - gridcell "Feb 5, 2026, 12:32 PM" [ref=f157e380]
+                    - gridcell "256 KiB" [ref=f157e382]
+                    - gridcell "Caitlin Kepple" [ref=f157e383]
+    - generic [ref=f157e164]:
+      - button "Open support menu" [ref=f157e166] [cursor=pointer]: "?"
+      - navigation [ref=f157e168]:
+        - paragraph [ref=f157e170]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f157e171] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f157e172] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f157e173] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f157e174] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f157e175] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f157e176]:
+      - generic:
+        - generic [ref=f157e178]:
+          - button "Annotation sidebar" [ref=f157e179]
+          - generic [ref=f157e184]:
+            - button "Show highlights" [ref=f157e185]
+            - button "New page note" [ref=f157e190]
+          - status [ref=f157e195]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f157e196]:
+    - button "contents" [ref=f157e197] [cursor=pointer]
+    - button "readability" [ref=f157e199] [cursor=pointer]
+    - button "resources" [ref=f157e201] [cursor=pointer]
+    - button "tools" [ref=f157e203] [cursor=pointer]
+    - button "developers" [ref=f157e205] [cursor=pointer]
+  - text:  
+  - generic [ref=f157e384]:
+    - generic [ref=f157e385] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f157e388] [cursor=pointer]

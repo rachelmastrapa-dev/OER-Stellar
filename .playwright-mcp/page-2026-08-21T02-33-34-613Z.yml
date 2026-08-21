@@ -1,0 +1,272 @@
+- generic [active] [ref=f397e1]:
+  - link "Skip to main content" [ref=f397e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f397e3]:
+    - text: 
+    - generic [ref=f397e4]:
+      - generic [ref=f397e5]:
+        - generic: ✕
+        - navigation [ref=f397e7]:
+          - generic [ref=f397e8]:
+            - link [ref=f397e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f397e11]
+            - button "Enter Reader Mode" [ref=f397e13] [cursor=pointer]:
+              - generic [ref=f397e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f397e16]:
+        - list [ref=f397e18]:
+          - listitem [ref=f397e19]:
+            - link [ref=f397e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f397e22]
+          - listitem [ref=f397e23]:
+            - text: 
+            - generic [ref=f397e25]:
+              - generic [ref=f397e26]: "Search :"
+              - searchbox "Search :" [ref=f397e27]
+              - button " Search" [ref=f397e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f397e29]:
+            - list [ref=f397e30]:
+              - listitem [ref=f397e31]:
+                - link "Edit" [ref=f397e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.02%3A_Evolution_of_Massive_Stars?action=edit
+              - text: 
+              - listitem [ref=f397e33]:
+                - link " Options" [ref=f397e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f397e35]:
+                - link " Rachel Mastrapa" [ref=f397e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f397e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f397e38] [cursor=pointer]
+          - list [ref=f397e39]:
+            - listitem [ref=f397e40]:
+              - link " Home" [ref=f397e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f397e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f397e43]:
+              - link " Workbench" [ref=f397e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f397e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f397e46]:
+              - link " De Anza - ASTR10" [ref=f397e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f397e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f397e49]:
+              - 'link " 13: Stellar Finale" [ref=f397e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale
+                - generic [ref=f397e51]: 
+                - text: "13: Stellar Finale"
+              - text: »
+            - listitem [ref=f397e52]:
+              - generic [ref=f397e53]: 
+              - text: "13.2: Evolution of Massive Stars"
+          - button " Expand/collapse global location" [ref=f397e54] [cursor=pointer]
+      - navigation
+    - article [ref=f397e55]:
+      - generic [ref=f397e56]:
+        - generic [ref=f397e57]:
+          - button " Page settings" [ref=f397e58] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :       "
+        - 'heading "13.2: Evolution of Massive Stars" [level=1] [ref=f397e59]':
+          - generic [ref=f397e60]: "13.2: Evolution of Massive Stars "
+        - list [ref=f397e62]:
+          - listitem [ref=f397e63]:
+            - link [ref=f397e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f397e66]:
+                - img "CC" [ref=f397e67]
+                - img "BY" [ref=f397e68]
+          - listitem [ref=f397e69]:
+            - generic [ref=f397e70]:
+              - term [ref=f397e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f397e72]: Aug 4, 2026, 7:29 PM by Rachel Mastrapa
+          - listitem [ref=f397e73]:
+            - generic [ref=f397e74]:
+              - term [ref=f397e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f397e76]: Private
+          - listitem [ref=f397e77]:
+            - generic [ref=f397e78]:
+              - term [ref=f397e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f397e80]: "133522"
+          - listitem [ref=f397e81]:
+            - list [ref=f397e82]:
+              - listitem [ref=f397e83]:
+                - button "Pin Page" [ref=f397e84] [cursor=pointer]: 
+              - listitem
+              - text: 
+              - listitem [ref=f397e85]:
+                - list [ref=f397e86]:
+                  - listitem [ref=f397e87]:
+                    - 'link " 13.1: The Death of Low-Mass Stars" [ref=f397e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.01%3A_The_Death_of_Low-Mass_Stars
+                      - text: 
+                      - generic [ref=f397e89]: "13.1: The Death of Low-Mass Stars"
+                  - listitem [ref=f397e90]:
+                    - 'link "13.3: Supernovae " [ref=f397e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.03%3A_Supernovae
+                      - generic [ref=f397e92]: "13.3: Supernovae"
+                      - text: 
+              - listitem
+      - list [ref=f397e95]:
+        - listitem [ref=f397e96]:
+          - img "OpenStax" [ref=f397e97]
+        - listitem [ref=f397e98]:
+          - link "OpenStax" [ref=f397e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f397e100]:
+          - link "OpenStax" [ref=f397e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - complementary
+      - text: 
+      - generic [ref=f397e102]:
+        - paragraph [ref=f397e103]
+        - generic [ref=f397e104]:
+          - separator [ref=f397e105]
+          - paragraph [ref=f397e107]:
+            - text: This page titled
+            - 'link "13.2: Evolution of Massive Stars" [ref=f397e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.02%3A_Evolution_of_Massive_Stars
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f397e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f397e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f397e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f397e112]:
+        - list [ref=f397e113]:
+          - listitem [ref=f397e114]:
+            - link "Back to top" [ref=f397e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f397e116]:
+            - list [ref=f397e117]:
+              - listitem [ref=f397e118]:
+                - 'link " 13.1: The Death of Low-Mass Stars" [ref=f397e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.01%3A_The_Death_of_Low-Mass_Stars
+                  - text: 
+                  - generic [ref=f397e120]: "13.1: The Death of Low-Mass Stars"
+              - listitem [ref=f397e121]:
+                - 'link "13.3: Supernovae " [ref=f397e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.03%3A_Supernovae
+                  - generic [ref=f397e123]: "13.3: Supernovae"
+                  - text: 
+        - list [ref=f397e126]:
+          - listitem [ref=f397e127]: Was this article helpful?
+          - listitem [ref=f397e128]:
+            - button "Yes" [ref=f397e129] [cursor=pointer]
+          - listitem [ref=f397e130]:
+            - button "No" [ref=f397e131] [cursor=pointer]
+          - listitem [ref=f397e132]:
+            - button "Leave feedback" [ref=f397e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , , ,"
+        - generic [ref=f397e134]:
+          - heading "Attachments" [level=2] [ref=f397e135]
+          - generic:
+            - button "Attach a file" [ref=f397e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f397e138]:
+            - generic [ref=f397e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f397e142]
+            - generic [ref=f397e143]:
+              - grid [ref=f397e146]:
+                - rowgroup [ref=f397e147]:
+                  - row [ref=f397e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f397e149]':
+                      - generic:
+                        - generic [ref=f397e150]: File
+                        - generic [ref=f397e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f397e152]':
+                      - generic:
+                        - generic [ref=f397e153]: Last modified
+                        - generic [ref=f397e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f397e155]':
+                      - generic:
+                        - generic [ref=f397e156]: Size
+                        - generic [ref=f397e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f397e158]':
+                      - generic:
+                        - generic [ref=f397e159]: Added by
+                        - generic [ref=f397e160]: 
+              - grid [ref=f397e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f397e163]: File
+                          - generic [ref=f397e164]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f397e165]: Last modified
+                          - generic [ref=f397e166]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f397e167]: Size
+                          - generic [ref=f397e168]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f397e169]: Added by
+                          - generic [ref=f397e170]: 
+                - rowgroup [ref=f397e171]:
+                  - row [ref=f397e172]:
+                    - gridcell "No files attached." [ref=f397e173]
+    - generic [ref=f397e175]:
+      - button "Open support menu" [ref=f397e177] [cursor=pointer]: "?"
+      - navigation [ref=f397e179]:
+        - paragraph [ref=f397e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f397e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f397e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f397e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f397e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f397e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f397e187]:
+      - generic:
+        - generic [ref=f397e189]:
+          - button "Annotation sidebar" [ref=f397e190]
+          - generic [ref=f397e195]:
+            - button "Show highlights" [ref=f397e196]
+            - button "New page note" [ref=f397e201]
+          - status [ref=f397e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f397e207]:
+    - button "contents" [ref=f397e208] [cursor=pointer]
+    - button "readability" [ref=f397e210] [cursor=pointer]
+    - button "resources" [ref=f397e212] [cursor=pointer]
+    - button "tools" [ref=f397e214] [cursor=pointer]
+    - button "developers" [ref=f397e216] [cursor=pointer]

@@ -1,0 +1,517 @@
+- generic [ref=f427e1]:
+  - link "Skip to main content" [ref=f427e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f427e3]:
+    - text: 
+    - generic [ref=f427e4]:
+      - generic [ref=f427e5]:
+        - generic: ✕
+        - navigation [ref=f427e7]:
+          - generic [ref=f427e8]:
+            - link [ref=f427e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f427e11]
+            - button "Enter Reader Mode" [ref=f427e13] [cursor=pointer]:
+              - generic [ref=f427e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f427e16]:
+        - list [ref=f427e18]:
+          - listitem [ref=f427e19]:
+            - link [ref=f427e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f427e22]
+          - listitem [ref=f427e23]:
+            - text: 
+            - generic [ref=f427e25]:
+              - generic [ref=f427e26]: "Search :"
+              - searchbox "Search :" [ref=f427e27]
+              - button " Search" [ref=f427e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f427e29]:
+            - list [ref=f427e30]:
+              - listitem [ref=f427e31]:
+                - link "Edit" [ref=f427e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.01%3A_Properties_of_Black_Holes?action=edit
+              - text: 
+              - listitem [ref=f427e33]:
+                - link " Options" [ref=f427e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f427e35]:
+                - link " Rachel Mastrapa" [ref=f427e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f427e37]:
+        - generic:
+          - button " Contents" [ref=f427e218] [cursor=pointer]
+          - list [ref=f427e39]:
+            - listitem [ref=f427e40]:
+              - link " Home" [ref=f427e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f427e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f427e43]:
+              - link " Workbench" [ref=f427e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f427e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f427e46]:
+              - link " De Anza - ASTR10" [ref=f427e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f427e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f427e49]:
+              - 'link " 14: Black Holes" [ref=f427e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes
+                - generic [ref=f427e51]: 
+                - text: "14: Black Holes"
+              - text: »
+            - listitem [ref=f427e52]:
+              - generic [ref=f427e53]: 
+              - text: "14.1: Properties of Black Holes"
+          - button " Expand/collapse global location" [ref=f427e54] [cursor=pointer]
+      - navigation:
+        - generic:                                              
+    - article [ref=f427e55]:
+      - generic [ref=f427e56]:
+        - generic [ref=f427e57]:
+          - button " Page settings" [ref=f427e58] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :        "
+        - 'heading "14.1: Properties of Black Holes" [level=1] [ref=f427e59]':
+          - generic [ref=f427e60]: "14.1: Properties of Black Holes "
+        - list [ref=f427e62]:
+          - listitem [ref=f427e63]:
+            - link [ref=f427e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f427e66]:
+                - img "CC" [ref=f427e67]
+                - img "BY" [ref=f427e68]
+          - listitem [ref=f427e69]:
+            - generic [ref=f427e70]:
+              - term [ref=f427e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f427e72]: Aug 12, 2026, 4:49 PM by Jyothsna Viswanadha
+          - listitem [ref=f427e73]:
+            - generic [ref=f427e74]:
+              - term [ref=f427e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f427e76]: Private
+          - listitem [ref=f427e77]:
+            - generic [ref=f427e78]:
+              - term [ref=f427e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f427e80]: "139189"
+          - listitem [ref=f427e81]:
+            - list [ref=f427e82]:
+              - listitem [ref=f427e83]:
+                - button "Pin Page" [ref=f427e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f427e85]:
+                - list [ref=f427e86]:
+                  - listitem [ref=f427e87]:
+                    - 'link " 14: Black Holes" [ref=f427e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes
+                      - text: 
+                      - generic [ref=f427e89]: "14: Black Holes"
+                  - listitem [ref=f427e90]:
+                    - 'link "14.2: Evidence for Black Holes " [ref=f427e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.02%3A_Evidence_for_Black_Holes
+                      - generic [ref=f427e92]: "14.2: Evidence for Black Holes"
+                      - text: 
+              - text:  
+      - list [ref=f427e95]:
+        - listitem [ref=f427e96]:
+          - img "OpenStax" [ref=f427e97]
+        - listitem [ref=f427e98]:
+          - link "OpenStax" [ref=f427e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f427e100]:
+          - link "OpenStax" [ref=f427e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f427e102]:
+        - group [ref=f427e221]:
+          - generic [ref=f427e222]:
+            - generic [ref=f427e223]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f427e224]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f427e225]:
+            - generic [ref=f427e228]:
+              - generic [ref=f427e229]:
+                - generic [ref=f427e230]:
+                  - link "Edit" [ref=f427e231]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f427e232]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f427e233]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f427e234]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f427e235]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f427e236]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f427e237]: "Words: 3328, Chars: 19465"
+              - group "Editor toolbars" [ref=f427e239]:
+                - toolbar [ref=f427e240]:
+                  - button "Save" [ref=f427e241]:
+                    - generic [ref=f427e242]: 
+                  - button "Cancel" [ref=f427e244]:
+                    - generic [ref=f427e245]: 
+                - toolbar [ref=f427e248]:
+                  - button "Undo" [disabled] [ref=f427e249]:
+                    - generic [ref=f427e250]: 
+                  - button "Redo" [disabled] [ref=f427e251]:
+                    - generic [ref=f427e252]: 
+                - toolbar [ref=f427e254]:
+                  - button "Headings" [ref=f427e255]
+                - toolbar [ref=f427e260]:
+                  - button "Bold" [ref=f427e261]:
+                    - generic [ref=f427e262]: 
+                  - button "Italic" [ref=f427e263]:
+                    - generic [ref=f427e264]: 
+                  - button "Underline" [ref=f427e265]:
+                    - generic [ref=f427e266]: 
+                - toolbar [ref=f427e268]:
+                  - button "Text color" [ref=f427e269]:
+                    - generic [ref=f427e270]: 
+                  - button "Background color" [ref=f427e272]:
+                    - generic [ref=f427e273]: 
+                - toolbar [ref=f427e276]:
+                  - button "Remove format" [ref=f427e277]:
+                    - generic [ref=f427e278]: 
+                - toolbar [ref=f427e280]:
+                  - button "Insert/Remove numbered list" [ref=f427e281]:
+                    - generic [ref=f427e282]: 
+                  - button "Insert/Remove bulleted list" [ref=f427e283]:
+                    - generic [ref=f427e284]: 
+                - toolbar [ref=f427e286]:
+                  - button "Alignment" [ref=f427e287]:
+                    - generic [ref=f427e288]: 
+                - text: 
+                - toolbar [ref=f427e291]:
+                  - button "Link" [ref=f427e292]:
+                    - generic [ref=f427e293]: 
+                  - button "Image" [ref=f427e294]:
+                    - generic [ref=f427e295]: 
+                  - text: 
+                  - button "Boxes" [ref=f427e296]
+                - toolbar [ref=f427e301]:
+                  - button "Replace" [ref=f427e302]:
+                    - generic [ref=f427e303]: 
+                - toolbar [ref=f427e305]:
+                  - button "Enable Binder" [ref=f427e306]
+                  - button "Insert Adapt" [ref=f427e308]
+                  - button "Query" [ref=f427e310]
+                  - button "Accessibility Checker" [ref=f427e313]
+                - toolbar [ref=f427e316]:
+                  - button "HTML" [ref=f427e317]:
+                    - generic [ref=f427e318]: 
+            - application "Rich Text Editor, editarea" [ref=f427e320]:
+              - iframe [active] [ref=f427e321]:
+                - generic [active] [ref=f429e1]:
+                  - heading "Origin and Impact of Black Holes" [level=2] [ref=f429e2]
+                  - paragraph [ref=f429e3]: In this section we will discuss how black holes form from collapsing stellar cores, examine their physical properties, and investigate the remarkable effects they have on space, time, light, and matter.
+                  - heading "What Is a Black Hole?" [level=3] [ref=f429e4]
+                  - paragraph [ref=f429e5]:
+                    - text: Black holes are the remnants of supernova. Although we can't see them directly, we know by their gravity that they contain a very large amount of mass in a small amount of space. A black hole has a boundary called the event horizon. If something crosses that boundary, it can never escape. The
+                    - strong [ref=f429e6]:
+                      - link "event horizon" [ref=f429e7]:
+                        - /url: /Workbench/De_Anza_-_ASTR10/14:_Black_Holes/14.05:_Key_Terms#event horizon
+                    - text: is a one way boundary for both matter and light. To understand why light and matter can't escape from a black hole, let's review how one object escapes from the gravitational pull of another object. A rocket must be launched from the surface of Earth at a very high speed if it is to escape the pull of Earth's gravity. In fact, any object that is thrown into the air with a velocity less than 11 kilometers per second will soon fall back to Earth's surface. Only those objects launched with a speed greater than this
+                    - strong [ref=f429e8]:
+                      - link "escape velocity" [ref=f429e9]:
+                        - /url: /Workbench/De_Anza_-_ASTR10/14:_Black_Holes/14.05:_Key_Terms#escape velocity
+                    - text: can get away from Earth. The escape velocity from the surface of the Sun is higher, 618 kilometers per second. For black holes to trap light, their escape velocity must be larger than the speed of light, 300,000 kilometers per second.
+                  - heading "Formation of Black Holes" [level=3] [ref=f429e10]
+                  - paragraph [ref=f429e11]:
+                    - text: As we learned in
+                    - link "Evolution of Massive Stars" [ref=f429e12]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/13:_Stellar_Finale/13.02:_Evolution_of_Massive_Stars
+                    - text: ", if a star has a mass of over 40 times the mass of the Sun, or 40"
+                    - generic [ref=f429e13]:
+                      - text: M
+                      - subscript [ref=f429e14]: Sun
+                    - text: ", it will eventually become a black hole. A black hole forms as the result of a catastrophic collapse of the star's core. To understand this process, let's consider the collapsing core in a very massive star. If the core's mass is greater than about 3"
+                    - generic [ref=f429e15]:
+                      - text: M
+                      - subscript [ref=f429e16]: Sun
+                    - text: ", theory says that nothing can stop the core from collapsing forever. We will examine this situation from two perspectives: first from a pre-relativity point of view, and then with the aid of general relativity."
+                  - heading "Classical Collapse" [level=4] [ref=f429e17]
+                  - paragraph [ref=f429e18]:
+                    - text: Imagine that an astronaut is floating above a 3
+                    - generic [ref=f429e19]:
+                      - text: M
+                      - subscript [ref=f429e20]: Sun
+                    - text: "core right before it collapses, depicted on the left side of Figure \\(\\PageIndex{1}\\). Recall that the pull of gravity depends on both the mass that is pulling you and your distance from the center of gravity of that mass. If the star is compressed, its mass will remain the same, but the distance between a point on the star's surface and the center will get smaller and smaller. Thus, as we compress the star, the pull of gravity for an object on the surface will get stronger and stronger."
+                  - paragraph [ref=f429e21]: "In the center panel of Figure \\(\\PageIndex{1}\\) the shrinking star is the diameter of a neutron star, about 20 kilometers. Now, the velocity required to escape its gravitational pull will be about half the speed of light. The star continues to shrink to a smaller and smaller diameter. This can't happen in the real world because of electron degeneracy, the mutual repulsion between tightly packed electrons. For now, let's ignore physics and continue the star's collapse. As the star shrinks, the escape velocity near the surface would exceed the speed of light. An object with such a large escape velocity emits no light, and anything that falls into it can never return. Near the surface of the object, the change in gravity with distance from the star is so large that the pull on the astronauts feet is stronger than the pull on their head. This means that the astronaut in the right panel of \\(\\PageIndex{1}\\) starts stretching, putting them in serious danger."
+                  - figure [ref=f429e22]:
+                    - img "Astronaut above a collapsing star that becomes a black hole. Details in caption." [ref=f429e23]
+                    - generic [ref=f429e24]:
+                      - text: "Figure \\(\\PageIndex{1}\\) : Classical Collapse. As a massive star's core collapses into an ever-smaller volume, its surface gravity increases until the escape velocity exceeds the speed of light, forming the event horizon of a black hole. ("
+                      - link "CC BY 4.0" [ref=f429e25]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f429e26]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f429e27]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: )
+                      - 'link "Accessible description of Figure \\(\\PageIndex{1}\\)" [ref=f429e28]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/14:_Black_Holes/14.06:_Accessible_Descriptions#Figure_14.1.1_Classical_Collapse
+                      - text: .
+                  - paragraph [ref=f429e29]:
+                    - text: In modern terminology, we call an object from which light cannot escape a
+                    - link "black hole" [ref=f429e30]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/14:_Black_Holes/14.05:_Key_Terms#black+hole
+                    - text: ", a name popularized by John Wheeler starting in the late 1960s. The black in black hole comes from the fact that light can't escape, so these objects appear dark. The idea that such objects might exist is, however, not a new one. Amateur astronomer John Michell wrote a paper in 1783 about the possibility that stars with escape velocities exceeding that of light might exist. In 1796, the French mathematician Pierre-Simon Laplace made similar calculations using Newton's theory of gravity and called the resulting objects dark bodies."
+                  - paragraph [ref=f429e31]: The assumption for these theories to work is that gravity can affect light in the same way that it affects matter. After many years of trying and failing to measure the effect of gravity on light, astronomers were able to use general relativity to give an adequate description of how black holes trap light.
+                  - heading "Collapse with Relativity" [level=4] [ref=f429e32]
+                  - paragraph [ref=f429e33]: General relativity tells us that gravity is really a curvature of spacetime. As gravity increases, the curvature gets larger and larger. Light always travels in a straight line, except when it passes through a material that bends its path. If light travels through curved spacetime, then it follows the curved path. From far away, it appears that the path of the light is curving, but from the perspective of the light it is traveling in a straight line.
+                  - paragraph [ref=f429e34]: "Let's imagine that a person could safely stand on the surface of a star. In Diagram (a) of Figure \\(\\PageIndex{2}\\), that person holds a flashlight pointing straight up. The light leaving the flashlight travels in straight lines away from the flashlight. Now, compress the mass of the star down to a diameter of about 6 kilometers. In Diagram (b) of Figure \\(\\PageIndex{2}\\), only light beams sent out perpendicular to the surface can escape, and all other light is bent back towards the star. If the star could then shrink just a little more, even that one remaining light beam would no longer be able to escape."
+                  - figure [ref=f429e35]:
+                    - img "Light paths near a normal star versus a collapsed star. Details in caption." [ref=f429e36]
+                    - generic [ref=f429e37]:
+                      - text: "Figure \\(\\PageIndex{2}\\) : Curved Spacetime. Near an object with extreme density, such as a collapsed star only a few kilometers across, Diagram (b), spacetime curves so strongly that most light paths bend back toward the surface instead of escaping, Diagram (a). ("
+                      - link "CC BY 4.0" [ref=f429e38]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f429e39]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f429e40]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: )
+                      - 'link "Accessible description of Figure \\(\\PageIndex{2}\\)" [ref=f429e41]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/14:_Black_Holes/14.06:_Accessible_Descriptions#Figure_14.1.2_Curved_Spacetime
+                      - text: .
+                  - paragraph [ref=f429e42]: Keep in mind that gravity is not pulling on the light. The concentration of matter in the star has curved spacetime, and light is traveling in a straight line, yet is now confronted with a world in which straight lines that used to go outward have become curved paths that lead back in. The collapsing star is a black hole, trapped in its own little pocket of spacetime, from which there is no escape.
+                  - paragraph [ref=f429e43]: The diameter of a collapsing star core is very important in defining a black hole. The event horizon is the exact size that the collapsing star reaches when no light can escape. Just as objects that sink below our horizon cannot be seen on Earth, so anything happening inside the event horizon can no longer interact with the rest of the universe.
+                  - paragraph [ref=f429e44]:
+                    - text: The event horizon is the boundary of the black hole. Calculations show that it does not get smaller once the whole star has collapsed inside it. It is the region that separates the things trapped inside it from the rest of the universe. Anything entering from the outside is also trapped once it comes inside the event horizon. The characteristics of an event horizon were first worked out by astronomer and mathematician Karl Schwarzschild. The radius of the event horizon is called the Schwarzschild radius. The horizon's size turns out to depend only on the mass inside it. If the Sun, with its mass of 1
+                    - generic [ref=f429e45]:
+                      - text: M
+                      - subscript [ref=f429e46]: Sun
+                    - text: ", were to become a black hole, the Schwarzschild radius would be about 3 kilometers. Feed the black hole some mass, and the horizon will grow by a small amount. Doubling the mass will make the black hole 6 kilometers in radius, still very tiny on the cosmic scale."
+                  - paragraph [ref=f429e47]:
+                    - text: The event horizons of more massive black holes have larger radii. For example, if a globular cluster of 100,000 stars could collapse to a black hole, it would be 300,000 kilometers in radius, a little less than half the radius of the Sun. If the entire Galaxy could collapse to a black hole, it would be only about 10
+                    - superscript [ref=f429e48]: "12"
+                    - text: "kilometers in radius, about a tenth of a light year. Smaller masses have correspondingly smaller horizons: for Earth to become a black hole, it would have to be compressed to a radius of only 1 centimeter. A typical asteroid, if crushed to a small enough size to be a black hole, would have the dimensions of an atomic nucleus."
+                  - heading "Black Hole Effects on Neighbors" [level=3] [ref=f429e49]
+                  - paragraph [ref=f429e50]: Much of the modern folklore about black holes is misleading. One idea you may have heard is that black holes go about sucking things up with their gravity. Actually, it is only very close to a black hole that the strange effects we have been discussing come into play. The gravitational attraction far away from a black hole is the same as a normal star.
+                  - paragraph [ref=f429e51]: Remember that the gravity of any star some distance away acts as if all its mass were concentrated at a point in the center, which we call the center of gravity. For real stars, we merely imagine that all mass is concentrated there. For black holes, all the mass really is concentrated at a point in the center.
+                  - paragraph [ref=f429e52]: So, if you are a star or distant planet orbiting around a star that becomes a black hole, your orbit may not be significantly affected by the collapse of the star. If, on the other hand, you venture close to the event horizon, it would be very hard for you to resist the pull of the warped spacetime near the black hole. You have to get very close to the black hole to experience any significant effect. If another star or a spaceship were to pass one or two solar radii from a black hole, Newton's laws would be adequate to describe what would happen to it. Only very near the event horizon of a black hole is the gravitation so strong that Newton's laws break down.
+                  - heading "Effects on Time and Space" [level=3] [ref=f429e53]
+                  - paragraph [ref=f429e54]: In the description of core collapse with general relativity, we discussed how light follows the bent path of space to loop back toward a collapsing star. Remember that in relativity, time and space are not separate things, they are combined into one concept called spacetime. Therefore if, high concentrations of matter bend space, they are also affecting time.
+                  - heading "Time Dilation" [level=3] [ref=f429e55]
+                  - paragraph [ref=f429e56]: General relativity suggests that time travel may be possible, in theory. Specifically, we could use gravity to travel into the future. First, imagine a place where gravity is very strong, such as near a black hole. General relativity predicts that the stronger the gravity, the slower the pace of time will pass as seen by a distant observer. So, imagine a future astronaut, with a fast and strongly built spaceship, who volunteers to go on a mission to such a high-gravity environment. The astronaut leaves in the year 2222, just after graduating from college at age 22. She takes exactly 10 years to get to the black hole. Once there, at age 32, she orbits some distance from it, taking care not to get pulled in.
+                  - paragraph [ref=f429e57]: She is now in a high-gravity realm where time passes much more slowly than it does on Earth. This isn't an effect on the mechanism of her clocks. Time itself is running slowly. That means that every way she has of measuring time will give the same slowed-down reading when compared to time passing on Earth. Her heart will beat more slowly, her hair will grow more slowly, compared to the passage of time on Earth. She is not aware of this slowing down because all her readings of time, are measuring the same, slower, time. She perceives time passing normally. Meanwhile, back on Earth, time passes as it always does.
+                  - paragraph [ref=f429e58]: Our astronaut now emerges from the region of the black hole, her mission of exploration finished, and returns to Earth. Before leaving, she carefully notes that, according to her timepieces, she spent about 2 weeks around the black hole. She then takes exactly 10 years to return to Earth. Her calculations tell her that since she was 22 when she left the Earth, she is now 42 plus 2 weeks when she returns. Because time slowed down near the black hole, much less time passed for her than for the people on Earth. While her clocks measured 2 weeks spent near the black hole, more than 2000 weeks passed on Earth. That's equal to 40 years, so when she arrives at Earth, the year is actually 2282. To her, she will have arrived in the future, where everyone she knew when she left will have aged 40 more years than she has.
+                  - paragraph [ref=f429e59]: In reality, this scenario has several practical challenges. With our current technology, we do not have a spaceship that can travel to a black hole within 10 years. Also, we don't think any spaceship or human can survive close enough to a black hole to make time expand to that degree. The key point is that time passes more slowly near massive objects.
+                  - heading "A Trip into a Black Hole" [level=3] [ref=f429e60]
+                  - paragraph [ref=f429e61]: The fact that scientists cannot see inside black holes has not kept them from trying to calculate what they are like. One of the first things these calculations showed was that the formation of a black hole destroys nearly all information about the star that collapsed to form it, because all of the information about the object is trapped inside the event horizon. The only information a black hole can reveal about itself is its mass, its spin, and whether it has any electrical charge.
+                  - paragraph [ref=f429e62]:
+                    - text: What happens to the collapsing star core that made the black hole? Our best calculations predict that the material will continue to collapse under its own weight, forming an infinitely compressed point, a place of zero volume and infinite density, which we call a
+                    - strong [ref=f429e63]:
+                      - link "singularity" [ref=f429e64]:
+                        - /url: /Workbench/De_Anza_-_ASTR10/14:_Black_Holes/14.05:_Key_Terms#singularity
+                    - text: . At the singularity, spacetime ceases to exist. The laws of physics as we know them break down. We do not yet have the physical understanding or the mathematical tools to describe the singularity itself, or even if singularities actually occur. From the outside, however, the entire structure of a black hole that is not rotating can be described as a singularity surrounded by an event horizon.
+                  - paragraph [ref=f429e65]: Scientists have also calculated what would happen if an astronaut were to fall into a black hole. Observing from a distance, we would see the astronaut fall away from us, moving faster and faster, just as though he were approaching any massive star. However, as he nears the event horizon of the black hole, things change. The strong gravitational field around the black hole will make his clocks run more slowly, when seen from our outside perspective.
+                  - paragraph [ref=f429e66]: If, as he approaches the event horizon, he sends out a signal once per second according to his clock, we will see the spacing between his signals grow longer and longer until it becomes infinitely long when he reaches the event horizon. As the spacing between clock ticks approaches infinity, it will appear to us that the astronaut is slowly coming to a stop, frozen in time at the event horizon.
+                  - paragraph [ref=f429e67]: In the same way, all matter falling into a black hole will also appear to an outside observer to stop at the event horizon, frozen in place and taking an infinite time to fall through it. But don't think that matter falling into a black hole will therefore be easily visible at the event horizon. The tremendous redshift will make it very difficult to observe any light from the material near the black hole. To the astronaut, his time goes at its normal rate and he falls right on through the event horizon into the black hole. Remember, this horizon is not a physical barrier, but only a region in space where the curvature of spacetime makes escape impossible.
+                  - paragraph [ref=f429e68]: The theory of relativity, was given that name because it described how time can pass differently based on the relative locations of observers. The observer in strong gravity measures time and space differently from the one sitting in weaker gravity. This is why we and the astronaut would see him fall into a black hole very differently.
+                  - paragraph [ref=f429e69]: Once inside the event horizon, the astronaut, along with any signals from his radio transmitter, will remain hidden forever from the universe outside. Suppose he is falling feet first. The force of gravity that the singularity exerts on his feet is greater than on his head, so he will be stretched slightly. Because the singularity is a point, the left side of his body will be pulled slightly toward the right, and the right slightly toward the left, bringing each side closer to the singularity. The astronaut will therefore be slightly squeezed in one direction and stretched in the other. Some scientists call this process of stretching and narrowing spaghettification. The point at which the astronaut becomes so stretched that he perishes depends on the size of the black hole. For black holes with masses billions of times the mass of the Sun, such as those found at the centers of galaxies, the spaghettification becomes significant only after the astronaut passes through the event horizon. For black holes with masses of a few solar masses, the astronaut will be stretched and ripped apart even before he reaches the event horizon.
+                  - heading "Examples and Exercises" [level=2] [ref=f429e70]
+                  - generic [ref=f429e71]:
+                    - 'heading "Example: The Milky Way''s Black Hole" [level=5] [ref=f429e72]'
+                    - paragraph [ref=f429e74]:
+                      - text: The size of the event horizon of a black hole depends on the mass of the black hole. The greater the mass, the larger the radius of the event horizon. General relativity calculations show that the formula for the Schwarzschild radius R
+                      - subscript [ref=f429e75]: S
+                      - text: of the event horizon is
+                    - text: "\\[ R_S = \\frac{2GM}{c^2} \\nonumber\\]"
+                    - paragraph [ref=f429e76]: where c is the speed of light, G is the gravitational constant, and M is the mass of the black hole. Note that in this formula, 2, G, and c are all constant; only the mass changes from black hole to black hole.
+                    - paragraph [ref=f429e77]: Astronomers have traced the paths of several stars near the center of our Galaxy and found that they seem to be orbiting an unseen object, called Sagittarius A-star, with a mass of about 4 million solar masses. What is the size of its Schwarzschild radius?
+                    - generic [ref=f429e78]:
+                      - term [ref=f429e79]:
+                        - strong [ref=f429e80]: Answer
+                      - definition [ref=f429e81]:
+                        - paragraph [ref=f429e82]: "We can substitute data for G, M, and c directly into the equation:"
+                        - paragraph [ref=f429e83]: "\\[R_S = \\frac{2GM}{c^2} = \\frac{2(6.67 \\times 10^{-11} \\text{ N·m}^2/\\text{kg}^2)(4 \\times 10^6)(1.99 \\times 10^{30} \\text{ kg})}{(3.00 \\times 10^8 \\text{ m/s})^2} = 1.18 \\times 10^{10} \\text{ m} \\nonumber\\]"
+                        - paragraph [ref=f429e84]: This distance is about one-fifth of the radius of Mercury's orbit around the Sun, yet the object contains 4 million solar masses and cannot be seen with our largest telescopes. It is a likely candidate for a black hole.
+                  - generic [ref=f429e85]:
+                    - 'heading "Exercise: Pickup Truck Black Hole" [level=5] [ref=f429e86]'
+                    - paragraph [ref=f429e88]: What would be the size of a black hole that contained only as much mass as a typical pickup truck,about 3000 kg? Note that something with so little mass could never actually form a black hole, but it's interesting to think about the result.
+                    - generic [ref=f429e89]:
+                      - term [ref=f429e90]:
+                        - strong [ref=f429e91]: Answer
+                      - definition [ref=f429e92]:
+                        - paragraph [ref=f429e93]: Substituting the data into our equation gives
+                        - paragraph [ref=f429e94]: "\\[R_S = \\frac{2GM}{c^2} = \\frac{2(6.67 \\times 10^{-11} \\text{ N·m}^2/\\text{kg}^2)(3000 \\text{ kg})}{(3.00 \\times 10^8 \\text{ m/s})^2} = 4.4 \\times 10^{-24} \\text{ m} \\nonumber\\]"
+                        - paragraph [ref=f429e95]:
+                          - text: For comparison, the size of a proton is usually considered to be about 8 × 10
+                          - superscript [ref=f429e96]: −16
+                          - text: m, which would be about ten million times larger.
+                  - generic [ref=f429e97]:
+                    - heading "Further Exploration" [level=5] [ref=f429e98]
+                    - list [ref=f429e100]:
+                      - listitem [ref=f429e101]:
+                        - text: Watch
+                        - link "What is Spaghettification?" [ref=f429e102]:
+                          - /url: https://www.youtube.com/watch?v=dlCRSl3vmHw
+                        - text: with
+                        - strong [ref=f429e103]: Neil deGrasse Tyson
+                        - text: for a brief explanation of how extreme gravity near a black hole can stretch matter into a long, thin shape. This video provides a helpful introduction to the concept before moving into more detailed discussion.
+                      - listitem [ref=f429e104]:
+                        - link "Black Holes 101" [ref=f429e105]:
+                          - /url: https://youtu.be/kOEDG3j1bjs?si=uiUlf9vxe55JytLh
+                        - text: by
+                        - strong [ref=f429e106]: National Geographic
+                        - text: "introduces the basic science of black holes, including how they form and why their gravity is so strong. This short video works well as an introductory overview before reading more detailed course content. Watch the video here: Black Holes 101 by National Geographic."
+              - generic [ref=f427e322]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f427e324] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f427e104]:
+          - separator [ref=f427e105]
+          - paragraph [ref=f427e107]:
+            - text: This page titled
+            - 'link "14.1: Properties of Black Holes" [ref=f427e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.01%3A_Properties_of_Black_Holes
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f427e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f427e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f427e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f427e112]:
+        - list [ref=f427e113]:
+          - listitem [ref=f427e114]:
+            - link "Back to top" [ref=f427e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f427e116]:
+            - list [ref=f427e117]:
+              - listitem [ref=f427e118]:
+                - 'link " 14: Black Holes" [ref=f427e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes
+                  - text: 
+                  - generic [ref=f427e120]: "14: Black Holes"
+              - listitem [ref=f427e121]:
+                - 'link "14.2: Evidence for Black Holes " [ref=f427e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.02%3A_Evidence_for_Black_Holes
+                  - generic [ref=f427e123]: "14.2: Evidence for Black Holes"
+                  - text: 
+        - list [ref=f427e126]:
+          - listitem [ref=f427e127]: Was this article helpful?
+          - listitem [ref=f427e128]:
+            - button "Yes" [ref=f427e129] [cursor=pointer]
+          - listitem [ref=f427e130]:
+            - button "No" [ref=f427e131] [cursor=pointer]
+          - listitem [ref=f427e132]:
+            - button "Leave feedback" [ref=f427e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , , , ,"
+        - generic [ref=f427e134]:
+          - heading "Attachments" [level=2] [ref=f427e135]
+          - generic:
+            - button "Attach a file" [ref=f427e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f427e138]:
+            - generic [ref=f427e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f427e142]
+            - generic [ref=f427e143]:
+              - grid [ref=f427e146]:
+                - rowgroup [ref=f427e147]:
+                  - row [ref=f427e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f427e149]':
+                      - generic:
+                        - generic [ref=f427e150]: File
+                        - generic [ref=f427e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f427e152]':
+                      - generic:
+                        - generic [ref=f427e153]: Last modified
+                        - generic [ref=f427e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f427e155]':
+                      - generic:
+                        - generic [ref=f427e156]: Size
+                        - generic [ref=f427e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f427e158]':
+                      - generic:
+                        - generic [ref=f427e159]: Added by
+                        - generic [ref=f427e160]: 
+              - grid [ref=f427e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f427e163]: File
+                          - generic [ref=f427e164]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f427e165]: Last modified
+                          - generic [ref=f427e166]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f427e167]: Size
+                          - generic [ref=f427e168]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f427e169]: Added by
+                          - generic [ref=f427e170]: 
+                - rowgroup [ref=f427e171]:
+                  - row [ref=f427e172]:
+                    - gridcell "No files attached." [ref=f427e173]
+    - generic [ref=f427e175]:
+      - button "Open support menu" [ref=f427e177] [cursor=pointer]: "?"
+      - navigation [ref=f427e179]:
+        - paragraph [ref=f427e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f427e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f427e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f427e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f427e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f427e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f427e187]:
+      - generic:
+        - generic [ref=f427e189]:
+          - button "Annotation sidebar" [ref=f427e190]
+          - generic [ref=f427e195]:
+            - button "Show highlights" [ref=f427e196]
+            - button "New page note" [ref=f427e201]
+          - status [ref=f427e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f427e207]:
+    - button "contents" [ref=f427e208] [cursor=pointer]
+    - button "readability" [ref=f427e210] [cursor=pointer]
+    - button "resources" [ref=f427e212] [cursor=pointer]
+    - button "tools" [ref=f427e214] [cursor=pointer]
+    - button "developers" [ref=f427e216] [cursor=pointer]
+  - text:  
+  - generic [ref=f427e325]:
+    - generic [ref=f427e326] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f427e329] [cursor=pointer]

@@ -1,0 +1,302 @@
+- generic [active] [ref=f521e1]:
+  - link "Skip to main content" [ref=f521e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f521e3]:
+    - text: 
+    - generic [ref=f521e4]:
+      - generic [ref=f521e5]:
+        - generic: ✕
+        - navigation [ref=f521e7]:
+          - generic [ref=f521e8]:
+            - link [ref=f521e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f521e11]
+            - button "Enter Reader Mode" [ref=f521e13] [cursor=pointer]:
+              - generic [ref=f521e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f521e16]:
+        - list [ref=f521e18]:
+          - listitem [ref=f521e19]:
+            - link [ref=f521e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f521e22]
+          - listitem [ref=f521e23]:
+            - text: 
+            - generic [ref=f521e25]:
+              - generic [ref=f521e26]: "Search :"
+              - searchbox "Search :" [ref=f521e27]
+              - button " Search" [ref=f521e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f521e29]:
+            - list [ref=f521e30]:
+              - listitem [ref=f521e31]:
+                - link "Edit" [ref=f521e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies?action=edit
+              - text: 
+              - listitem [ref=f521e33]:
+                - link " Options" [ref=f521e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f521e35]:
+                - link " Rachel Mastrapa" [ref=f521e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f521e37]:
+        - generic:
+          - button " Contents" [ref=f521e38] [cursor=pointer]
+          - list [ref=f521e39]:
+            - listitem [ref=f521e40]:
+              - link " Home" [ref=f521e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f521e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f521e43]:
+              - link " Workbench" [ref=f521e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f521e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f521e46]:
+              - link " De Anza - ASTR10" [ref=f521e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f521e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f521e49]:
+              - generic [ref=f521e50]: 
+              - text: "17: Evolution of Galaxies"
+          - text: 
+      - navigation:
+        - generic:                                        
+    - article [ref=f521e51]:
+      - generic [ref=f521e52]:
+        - generic [ref=f521e53]:
+          - button " Page settings" [ref=f521e54] [cursor=pointer]
+          - text: "    : :  :  :  :  :  :  :  :  :  :  :  :  :     "
+        - 'heading "17: Evolution of Galaxies" [level=1] [ref=f521e55]':
+          - generic [ref=f521e56]: "17: Evolution of Galaxies "
+        - list [ref=f521e58]:
+          - listitem [ref=f521e59]:
+            - link [ref=f521e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f521e62]:
+                - img "CC" [ref=f521e63]
+                - img "BY" [ref=f521e64]
+          - listitem [ref=f521e65]:
+            - generic [ref=f521e66]:
+              - term [ref=f521e67]: "Last updated:"
+              - definition [ref=f521e68]: Aug 19, 2026, 12:58 PM by Rachel Mastrapa
+          - listitem [ref=f521e69]:
+            - generic [ref=f521e70]:
+              - term [ref=f521e71]: "Page restriction:"
+              - definition [ref=f521e72]: Private
+          - listitem [ref=f521e73]:
+            - generic [ref=f521e74]:
+              - term [ref=f521e75]: "Page ID:"
+              - definition [ref=f521e76]: "140266"
+          - listitem [ref=f521e77]:
+            - list [ref=f521e78]:
+              - listitem [ref=f521e79]:
+                - button "Pin Page" [ref=f521e80] [cursor=pointer]: 
+              - listitem [ref=f521e81]:
+                - generic [ref=f521e82]:
+                  - link " Page notifications Off" [ref=f521e84] [cursor=pointer]:
+                    - /url: "#"
+                  - text: 
+              - text: 
+              - listitem [ref=f521e85]:
+                - list [ref=f521e86]:
+                  - listitem [ref=f521e87]:
+                    - 'link " 16.8: Accessible Descriptions" [ref=f521e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions
+                      - text: 
+                      - generic [ref=f521e89]: "16.8: Accessible Descriptions"
+                  - listitem [ref=f521e90]:
+                    - 'link "17.1: Observations of Distant Galaxies " [ref=f521e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.01%3A_Observations_of_Distant_Galaxies
+                      - generic [ref=f521e92]: "17.1: Observations of Distant Galaxies"
+                      - text: 
+              - listitem
+      - list [ref=f521e95]:
+        - listitem [ref=f521e96]:
+          - img "OpenStax" [ref=f521e97]
+        - listitem [ref=f521e98]:
+          - link "OpenStax" [ref=f521e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f521e100]:
+          - link "OpenStax" [ref=f521e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - complementary
+      - text: 
+      - generic [ref=f521e102]:
+        - generic [ref=f521e104]:
+          - heading "Introduction" [level=2] [ref=f521e105]
+          - paragraph [ref=f521e106]: "How and when did galaxies like our Milky Way form? Which formed first: stars or galaxies? Can we see direct evidence of the changes galaxies undergo over their lifetimes? If so, what determines whether a galaxy will be spiral or elliptical? How much of a galaxy’s development is determined by what it looks like when it forms and how much is influenced by its environment?"
+          - paragraph [ref=f521e107]: Astronomers today have the tools needed to explore the universe almost back to the time it began. The huge telescopes and sensitive detectors built in the last decades make it possible to obtain both images and spectra of galaxies so distant that their light has traveled to reach us for more than 13 billion years, more than 90% of the way back to the Big Bang. We can use the finite speed of light and the vast size of the universe as a cosmic time machine to peer back and observe how galaxies formed and evolved over time. Studying galaxies so far away in any detail is always a major challenge, largely because their distance makes them appear very faint.
+          - generic [ref=f521e109]:
+            - heading " Learning Objectives" [level=5] [ref=f521e110]
+            - paragraph [ref=f521e112]: "By the end of this section, you will be able to:"
+            - list [ref=f521e113]:
+              - listitem [ref=f521e114]: Describe the major differences observed between galaxies seen in the distant, early universe and galaxies seen in the nearby universe today
+              - listitem [ref=f521e115]: Explain how galaxies grow by merging with other galaxies and by absorbing smaller galaxies
+              - listitem [ref=f521e116]: Explain the cosmological principle and summarize the evidence that it applies on the largest scales of the known universe
+              - listitem [ref=f521e117]: Describe the contents of the Local Group of galaxies
+              - listitem [ref=f521e118]: Distinguish among groups, clusters, and superclusters of galaxies
+              - listitem [ref=f521e119]: Define the largest structures seen in the universe, such as filaments and voids
+              - listitem [ref=f521e120]: Summarize the evidence for dark matter in most galaxies
+              - listitem [ref=f521e121]: Explain how we know that galaxy clusters are dominated by dark matter
+              - listitem [ref=f521e122]: Summarize the main theories attempting to explain how individual galaxies formed
+              - listitem [ref=f521e123]: Describe the formation of large galactic structures after the Big Bang.
+          - paragraph
+          - list [ref=f521e126]:
+            - listitem [ref=f521e127]:
+              - generic [ref=f521e128]:
+                - term [ref=f521e129]:
+                  - 'link " 17.1: Observations of Distant Galaxies" [ref=f521e130] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.01%3A_Observations_of_Distant_Galaxies
+                    - generic [ref=f521e131]: 
+                    - text: "17.1: Observations of Distant Galaxies"
+                - definition
+            - listitem [ref=f521e132]:
+              - generic [ref=f521e133]:
+                - term [ref=f521e134]:
+                  - 'link " 17.2: Mergers and Active Galaxies" [ref=f521e135] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.02%3A_Mergers_and_Active_Galaxies
+                    - generic [ref=f521e136]: 
+                    - text: "17.2: Mergers and Active Galaxies"
+                - definition
+            - listitem [ref=f521e137]:
+              - generic [ref=f521e138]:
+                - term [ref=f521e139]:
+                  - 'link " 17.3: The Distribution of Galaxies" [ref=f521e140] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.03%3A_The_Distribution_of_Galaxies
+                    - generic [ref=f521e141]: 
+                    - text: "17.3: The Distribution of Galaxies"
+                - definition
+            - listitem [ref=f521e142]:
+              - generic [ref=f521e143]:
+                - term [ref=f521e144]:
+                  - 'link " 17.4: The Challenge of Dark Matter" [ref=f521e145] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.04%3A_The_Challenge_of_Dark_Matter
+                    - generic [ref=f521e146]: 
+                    - text: "17.4: The Challenge of Dark Matter"
+                - definition
+            - listitem [ref=f521e147]:
+              - generic [ref=f521e148]:
+                - term [ref=f521e149]:
+                  - 'link " 17.5: The Structure of the Universe" [ref=f521e150] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.05%3A_The_Structure_of_the_Universe
+                    - generic [ref=f521e151]: 
+                    - text: "17.5: The Structure of the Universe"
+                - definition
+            - listitem [ref=f521e152]:
+              - generic [ref=f521e153]:
+                - term [ref=f521e154]:
+                  - 'link " 17.6: Art and Astronomy" [ref=f521e155] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.06%3A_Art_and_Astronomy
+                    - generic [ref=f521e156]: 
+                    - text: "17.6: Art and Astronomy"
+                - definition
+            - listitem [ref=f521e157]:
+              - generic [ref=f521e158]:
+                - term [ref=f521e159]:
+                  - 'link " 17.7: Key Terms" [ref=f521e160] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.07%3A_Key_Terms
+                    - generic [ref=f521e161]: 
+                    - text: "17.7: Key Terms"
+                - definition
+            - listitem [ref=f521e162]:
+              - generic [ref=f521e163]:
+                - term [ref=f521e164]:
+                  - 'link " 17.8: Accessible Descriptions" [ref=f521e165] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions
+                    - generic [ref=f521e166]: 
+                    - text: "17.8: Accessible Descriptions"
+                - definition
+          - paragraph
+          - paragraph [ref=f521e167]:
+            - strong [ref=f521e168]: Thumbnail
+            - text: :“This NASA Hubble Space Telescope image of the Antennae galaxies (NGC 4038 & 4039) is the sharpest yet of this merging pair of galaxies. During the course of the collision, billions of stars will be formed. The brightest and most compact of these star birth regions are called super star clusters. (
+            - link "Public Domain" [ref=f521e169] [cursor=pointer]:
+              - /url: https://en.wikipedia.org/wiki/Public_domain
+            - text: ;
+            - link "NASA, ESA, and the Hubble Heritage Team (STScI/AURA)-ESA/Hubble Collaboration" [ref=f521e170] [cursor=pointer]:
+              - /url: https://www.nasa.gov/
+            - text: via
+            - link "Wikimedia Commons" [ref=f521e171] [cursor=pointer]:
+              - /url: https://commons.wikimedia.org/wiki/File:Antennae_galaxies_xl.jpg
+            - text: )
+        - generic [ref=f521e172]:
+          - separator [ref=f521e173]
+          - paragraph [ref=f521e175]:
+            - text: This page titled
+            - 'link "17: Evolution of Galaxies" [ref=f521e176] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f521e177] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f521e178] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f521e179] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f521e180]:
+        - list [ref=f521e181]:
+          - listitem: 
+          - listitem [ref=f521e182]:
+            - list [ref=f521e183]:
+              - listitem [ref=f521e184]:
+                - 'link " 16.8: Accessible Descriptions" [ref=f521e185] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.08%3A_Accessible_Descriptions
+                  - text: 
+                  - generic [ref=f521e186]: "16.8: Accessible Descriptions"
+              - listitem [ref=f521e187]:
+                - 'link "17.1: Observations of Distant Galaxies " [ref=f521e188] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.01%3A_Observations_of_Distant_Galaxies
+                  - generic [ref=f521e189]: "17.1: Observations of Distant Galaxies"
+                  - text: 
+        - generic:   
+        - text: "     : : : : : : : , ,              "
+    - generic [ref=f521e191]:
+      - button "Open support menu" [ref=f521e193] [cursor=pointer]: "?"
+      - navigation [ref=f521e195]:
+        - paragraph [ref=f521e197]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f521e198] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f521e199] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f521e200] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f521e201] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f521e202] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f521e203]:
+      - generic:
+        - generic [ref=f521e205]:
+          - button "Annotation sidebar" [ref=f521e206]
+          - generic [ref=f521e211]:
+            - button "Show highlights" [ref=f521e212]
+            - button "New page note" [ref=f521e217]
+          - status [ref=f521e222]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f521e223]:
+    - button "contents" [ref=f521e224] [cursor=pointer]
+    - button "readability" [ref=f521e226] [cursor=pointer]
+    - button "resources" [ref=f521e228] [cursor=pointer]
+    - button "tools" [ref=f521e230] [cursor=pointer]
+    - button "developers" [ref=f521e232] [cursor=pointer]
+  - text:  

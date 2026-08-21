@@ -1,0 +1,270 @@
+- generic [active] [ref=f3e1]:
+  - link "Skip to main content" [ref=f3e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f3e3]:
+    - text: 
+    - generic [ref=f3e4]:
+      - generic [ref=f3e5]:
+        - generic: ✕
+        - navigation [ref=f3e7]:
+          - generic [ref=f3e8]:
+            - link [ref=f3e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f3e11]
+            - button "Enter Reader Mode" [ref=f3e13] [cursor=pointer]:
+              - generic [ref=f3e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f3e16]:
+        - list [ref=f3e18]:
+          - listitem [ref=f3e19]:
+            - link [ref=f3e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f3e22]
+          - listitem [ref=f3e23]:
+            - text: 
+            - generic [ref=f3e25]:
+              - generic [ref=f3e26]: "Search :"
+              - searchbox "Search :" [ref=f3e27]
+              - button " Search" [ref=f3e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f3e29]:
+            - list [ref=f3e30]:
+              - listitem [ref=f3e31]:
+                - link "Edit" [ref=f3e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.01%3A_How_Science_Works?action=edit
+              - text: 
+              - listitem [ref=f3e33]:
+                - link " Options" [ref=f3e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f3e35]:
+                - link " Rachel Mastrapa" [ref=f3e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f3e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f3e38] [cursor=pointer]
+          - list [ref=f3e39]:
+            - listitem [ref=f3e40]:
+              - link " Home" [ref=f3e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f3e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f3e43]:
+              - link " Workbench" [ref=f3e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f3e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f3e46]:
+              - link " De Anza - ASTR10" [ref=f3e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f3e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f3e49]:
+              - 'link " 1: Introduction to Astronomy" [ref=f3e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy
+                - generic [ref=f3e51]: 
+                - text: "1: Introduction to Astronomy"
+              - text: »
+            - listitem [ref=f3e52]:
+              - generic [ref=f3e53]: 
+              - text: "1.1: How Science Works"
+          - button " Expand/collapse global location" [ref=f3e54] [cursor=pointer]
+      - navigation
+    - article [ref=f3e55]:
+      - generic [ref=f3e56]:
+        - generic [ref=f3e57]:
+          - button " Page settings" [ref=f3e58] [cursor=pointer]
+          - text: ":  :  :  :  :  :  :  :  :  :  :  :  :      "
+        - 'heading "1.1: How Science Works" [level=1] [ref=f3e59]'
+        - list [ref=f3e62]:
+          - listitem [ref=f3e63]:
+            - link [ref=f3e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f3e66]:
+                - img "CC" [ref=f3e67]
+                - img "BY" [ref=f3e68]
+          - listitem [ref=f3e69]:
+            - generic [ref=f3e70]:
+              - term [ref=f3e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f3e72]: Aug 19, 2026, 9:38 PM by Rachel Mastrapa
+          - listitem [ref=f3e73]:
+            - generic [ref=f3e74]:
+              - term [ref=f3e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f3e76]: Private
+          - listitem [ref=f3e77]:
+            - generic [ref=f3e78]:
+              - term [ref=f3e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f3e80]: "152331"
+          - listitem [ref=f3e81]:
+            - list [ref=f3e82]:
+              - listitem [ref=f3e83]:
+                - button "Pin Page" [ref=f3e84] [cursor=pointer]: 
+              - listitem
+              - text: 
+              - listitem [ref=f3e85]:
+                - list [ref=f3e86]:
+                  - listitem [ref=f3e87]:
+                    - 'link " 1: Introduction to Astronomy" [ref=f3e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy
+                      - text: 
+                      - generic [ref=f3e89]: "1: Introduction to Astronomy"
+                  - listitem [ref=f3e90]:
+                    - 'link "1.2: Origins of Astronomy " [ref=f3e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.02%3A_Origins_of_Astronomy
+                      - generic [ref=f3e92]: "1.2: Origins of Astronomy"
+                      - text: 
+              - listitem
+      - list [ref=f3e95]:
+        - listitem [ref=f3e96]:
+          - img "OpenStax" [ref=f3e97]
+        - listitem [ref=f3e98]:
+          - link "OpenStax" [ref=f3e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f3e100]:
+          - link "OpenStax" [ref=f3e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - complementary
+      - text: 
+      - generic [ref=f3e102]:
+        - paragraph [ref=f3e103]
+        - generic [ref=f3e104]:
+          - separator [ref=f3e105]
+          - paragraph [ref=f3e107]:
+            - text: This page titled
+            - 'link "1.1: How Science Works" [ref=f3e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.01%3A_How_Science_Works
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f3e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f3e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f3e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f3e112]:
+        - list [ref=f3e113]:
+          - listitem [ref=f3e114]:
+            - link "Back to top" [ref=f3e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f3e116]:
+            - list [ref=f3e117]:
+              - listitem [ref=f3e118]:
+                - 'link " 1: Introduction to Astronomy" [ref=f3e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy
+                  - text: 
+                  - generic [ref=f3e120]: "1: Introduction to Astronomy"
+              - listitem [ref=f3e121]:
+                - 'link "1.2: Origins of Astronomy " [ref=f3e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.02%3A_Origins_of_Astronomy
+                  - generic [ref=f3e123]: "1.2: Origins of Astronomy"
+                  - text: 
+        - list [ref=f3e126]:
+          - listitem [ref=f3e127]: Was this article helpful?
+          - listitem [ref=f3e128]:
+            - button "Yes" [ref=f3e129] [cursor=pointer]
+          - listitem [ref=f3e130]:
+            - button "No" [ref=f3e131] [cursor=pointer]
+          - listitem [ref=f3e132]:
+            - button "Leave feedback" [ref=f3e133] [cursor=pointer]
+          - listitem
+        - text: ": : : : : : : , , ,"
+        - generic [ref=f3e134]:
+          - heading "Attachments" [level=2] [ref=f3e135]
+          - generic:
+            - button "Attach a file" [ref=f3e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f3e138]:
+            - generic [ref=f3e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f3e142]
+            - generic [ref=f3e143]:
+              - grid [ref=f3e146]:
+                - rowgroup [ref=f3e147]:
+                  - row [ref=f3e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f3e149]':
+                      - generic:
+                        - generic [ref=f3e150]: File
+                        - generic [ref=f3e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f3e152]':
+                      - generic:
+                        - generic [ref=f3e153]: Last modified
+                        - generic [ref=f3e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f3e155]':
+                      - generic:
+                        - generic [ref=f3e156]: Size
+                        - generic [ref=f3e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f3e158]':
+                      - generic:
+                        - generic [ref=f3e159]: Added by
+                        - generic [ref=f3e160]: 
+              - grid [ref=f3e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f3e163]: File
+                          - generic [ref=f3e164]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f3e165]: Last modified
+                          - generic [ref=f3e166]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f3e167]: Size
+                          - generic [ref=f3e168]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f3e169]: Added by
+                          - generic [ref=f3e170]: 
+                - rowgroup [ref=f3e171]:
+                  - row [ref=f3e172]:
+                    - gridcell "No files attached." [ref=f3e173]
+    - generic [ref=f3e175]:
+      - button "Open support menu" [ref=f3e177] [cursor=pointer]: "?"
+      - navigation [ref=f3e179]:
+        - paragraph [ref=f3e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f3e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f3e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f3e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f3e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f3e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f3e187]:
+      - generic:
+        - generic [ref=f3e189]:
+          - button "Annotation sidebar" [ref=f3e190]
+          - generic [ref=f3e195]:
+            - button "Show highlights" [ref=f3e196]
+            - button "New page note" [ref=f3e201]
+          - status [ref=f3e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f3e207]:
+    - button "contents" [ref=f3e208] [cursor=pointer]
+    - button "readability" [ref=f3e210] [cursor=pointer]
+    - button "resources" [ref=f3e212] [cursor=pointer]
+    - button "tools" [ref=f3e214] [cursor=pointer]
+    - button "developers" [ref=f3e216] [cursor=pointer]

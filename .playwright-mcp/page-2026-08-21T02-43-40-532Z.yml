@@ -1,0 +1,323 @@
+- generic [ref=f454e1]:
+  - link "Skip to main content" [ref=f454e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f454e3]:
+    - text: 
+    - generic [ref=f454e4]:
+      - generic [ref=f454e5]:
+        - generic: ✕
+        - navigation [ref=f454e7]:
+          - generic [ref=f454e8]:
+            - link [ref=f454e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f454e11]
+            - button "Enter Reader Mode" [ref=f454e13] [cursor=pointer]:
+              - generic [ref=f454e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f454e16]:
+        - list [ref=f454e18]:
+          - listitem [ref=f454e19]:
+            - link [ref=f454e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f454e22]
+          - listitem [ref=f454e23]:
+            - text: 
+            - generic [ref=f454e25]:
+              - generic [ref=f454e26]: "Search :"
+              - searchbox "Search :" [ref=f454e27]
+              - button " Search" [ref=f454e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f454e29]:
+            - list [ref=f454e30]:
+              - listitem [ref=f454e31]:
+                - link "Edit" [ref=f454e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.01%3A_Observing_Our_Galaxy?action=edit
+              - text: 
+              - listitem [ref=f454e33]:
+                - link " Options" [ref=f454e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f454e35]:
+                - link " Rachel Mastrapa" [ref=f454e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f454e37]:
+        - generic:
+          - button " Contents" [ref=f454e218] [cursor=pointer]
+          - list [ref=f454e39]:
+            - listitem [ref=f454e40]:
+              - link " Home" [ref=f454e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f454e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f454e43]:
+              - link " Workbench" [ref=f454e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f454e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f454e46]:
+              - link " De Anza - ASTR10" [ref=f454e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f454e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f454e49]:
+              - 'link " 15: Milky Way Galaxy" [ref=f454e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy
+                - generic [ref=f454e51]: 
+                - text: "15: Milky Way Galaxy"
+              - text: »
+            - listitem [ref=f454e52]:
+              - generic [ref=f454e53]: 
+              - text: "15.1: Observing Our Galaxy"
+          - button " Expand/collapse global location" [ref=f454e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                 
+    - article [ref=f454e55]:
+      - generic [ref=f454e56]:
+        - generic [ref=f454e57]:
+          - button " Page settings" [ref=f454e58] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :         "
+        - 'heading "15.1: Observing Our Galaxy" [level=1] [ref=f454e59]':
+          - generic [ref=f454e219]: "15.1: Observing Our Galaxy "
+        - list [ref=f454e62]:
+          - listitem [ref=f454e63]:
+            - link [ref=f454e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f454e66]:
+                - img "CC" [ref=f454e67]
+                - img "BY" [ref=f454e68]
+          - listitem [ref=f454e69]:
+            - generic [ref=f454e70]:
+              - term [ref=f454e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f454e72]: Aug 17, 2026, 3:11 PM by Rachel Mastrapa
+          - listitem [ref=f454e73]:
+            - generic [ref=f454e74]:
+              - term [ref=f454e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f454e76]: Private
+          - listitem [ref=f454e77]:
+            - generic [ref=f454e78]:
+              - term [ref=f454e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f454e80]: "139669"
+          - listitem [ref=f454e81]:
+            - list [ref=f454e82]:
+              - listitem [ref=f454e83]:
+                - button "Pin Page" [ref=f454e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f454e85]:
+                - list [ref=f454e86]:
+                  - listitem [ref=f454e87]:
+                    - 'link " 15: Milky Way Galaxy" [ref=f454e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy
+                      - text: 
+                      - generic [ref=f454e89]: "15: Milky Way Galaxy"
+                  - listitem [ref=f454e90]:
+                    - 'link "15.2: Spiral Structure " [ref=f454e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.02%3A_Spiral_Structure
+                      - generic [ref=f454e92]: "15.2: Spiral Structure"
+                      - text: 
+              - text:  
+      - list [ref=f454e95]:
+        - listitem [ref=f454e96]:
+          - img "OpenStax" [ref=f454e97]
+        - listitem [ref=f454e98]:
+          - link "OpenStax" [ref=f454e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f454e100]:
+          - link "OpenStax" [ref=f454e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f454e102]:
+        - group [ref=f454e223]:
+          - generic [ref=f454e224]:
+            - generic [ref=f454e225]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f454e226]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f454e227]:
+            - generic [ref=f454e230]:
+              - generic [ref=f454e232]:
+                - link "Edit" [ref=f454e233]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f454e234]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f454e235]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f454e236]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f454e237]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f454e238]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f454e241]:
+                - toolbar [ref=f454e242]:
+                  - button "Save" [ref=f454e243]:
+                    - generic [ref=f454e244]: 
+                  - button "Cancel" [ref=f454e246]:
+                    - generic [ref=f454e247]: 
+                - text:          
+                - toolbar [ref=f454e288]:
+                  - button "Alignment" [ref=f454e289]:
+                    - generic [ref=f454e290]: 
+                - text:    
+                - toolbar [ref=f454e303]:
+                  - button "Replace" [ref=f454e304]:
+                    - generic [ref=f454e305]: 
+                - toolbar [ref=f454e307]:
+                  - button "Enable Binder" [disabled] [ref=f454e308]
+                  - button "Insert Adapt" [disabled] [ref=f454e310]
+                  - button "Query" [ref=f454e312]
+                  - button "Accessibility Checker" [disabled] [ref=f454e315]
+                - toolbar [ref=f454e318]:
+                  - button "Visual" [pressed] [ref=f454e334]:
+                    - generic [ref=f454e320]: 
+            - application "Rich Text Editor, editarea" [ref=f454e322]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f454e336]: "<h2>Structure and History of Our Galaxy</h2> <p class=\"lt-phys-64816\">The <strong><a href=\"/Workbench/De_Anza_-_ASTR10/15:_Milky_Way_Galaxy/15.08:_Key_Terms#Milky Way Galaxy\" target=\"_blank\" title=\"Milky Way Galaxy\">Milky Way Galaxy</a></strong> surrounds us, and you might think it is easy to study because it is so close. However, the very fact that we are inside it presents a difficult challenge. Suppose you were given the task of mapping a city. You could do a much better job from a helicopter flying over the city than you could if you were standing in the center. Similarly, it would be easier to map our galaxy if we could only get a little way outside it, but instead we are trapped inside. Fortunately, we are very far from the center of the galaxy, so we have a decent vantage point to observe from. We will first review how early astronomers observed the galaxy.</p> <h3 class=\"lt-phys-64249\">Early Observations</h3> <p class=\"lt-phys-64249\">Aristotle (384-322 BC) wrote in Meteorologica that Anaxagoras (500-428 BC) and Democritus (460-370 BC) thought the Milky Way might consist of distant stars. Aristotle thought that the Milky Way was due to the ignition that takes place in the upper part of Earth's atmosphere, in the region of the world which is continuous with heavenly motions. Other contemporaries of Aristotle argued against his idea about the Milky Way, including the argument that the galaxy's parallax would be measurable if Aristotle's idea was correct.</p> <p class=\"lt-phys-64249\">Abū al-Rayhān al-Bīrūnī (973-1048), a Persian astronomer and one of the most-respected scientists of his time, proposed that the Milky Way was a collection of countless fragments of the nature of nebulous stars. Galileo was the first to see the Milky Way Galaxy as individual stars, instead of a cloud, through the telescope. He described them as \"innumerable stars grouped together in clusters too small and distant to be resolved into individual stars by the naked eye.\"</p> <h3 class=\"lt-phys-64816\">Mapping the Galaxy's Shape</h3> <p class=\"lt-phys-64251\">In his 1755 work Allgemeine Naturgeschichte und Theorie des Himmels, Immanuel Kant (1724-1804) correctly hypothesized that the Milky Way Galaxy might be a rotating body of an innumerous number of stars that were held together by gravitational forces, much like our Solar System yet on a larger scale.</p> <p class=\"lt-phys-64816\">In 1785, William and Caroline Herschel made the first important discovery about the architecture of the Milky Way. Using a large reflecting telescope, the brother and sister team counted stars in different directions of the sky. They found that most of the stars they could see lay in a flattened structure encircling the sky, and that the numbers of stars were about the same in any direction around this structure. Herschel therefore concluded that the stellar system to which the Sun belongs has the shape of a disk or wheel, and that the Sun must be near the edge of the disk. In Herschel's diagram of the Milky Way,&nbsp;in Figure \\(\\PageIndex{1}\\), the overall structure is relatively flat with more stars near the central portion. This view of the galaxy is a cross section, or a side view of the galaxy from inside. The Sun is to the right of the center, not in the center of the galaxy.</p> <figure><img alt=\"Herschel's Milky Way diagram, elongated with two branches, Sun right of center. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/46189/fa7e21b0b305877c9a3a78c4cad3b3970db3a1a4\" /> <figcaption>Figure \\(\\PageIndex{1}\\) : Herschel's Diagram of the Milky Way. William Herschel mapped the shape of the Milky Way by counting stars in different directions, producing a flattened, irregular outline with the Sun located near the center. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>). <a href=\"/Workbench/De_Anza_-_ASTR10/15:_Milky_Way_Galaxy/15.09:_Accessible_Descriptions#Figure_15.1.1_Herschel's_Diagram_of_the_Milky_Way\" target=\"_blank\" title=\"15.9: Accessible Descriptions\">Accessible description of Figure \\(\\PageIndex{1}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64816\">We now know that Herschel was right about the shape of our system, but wrong about where the Sun lies within the disk. We live in a dusty Galaxy. Because interstellar dust absorbs the light from stars, Herschel could see only those stars within about 6000 light years of the Sun. Today we know that this is a very small section of the entire 100,000 light year diameter disk of stars that makes up the Galaxy.</p> <h3 class=\"lt-phys-64816\">Radio and Infrared Observations</h3> <p class=\"lt-phys-64248\">From our position within the Milky Way Galaxy, it is challenging to study the Milky Way Galaxy due to the dust and gas of the Interstellar Medium. We are able to look through the Milky Way Galaxy using radio astronomy and infrared observing techniques. Measurements at these wavelengths, as well as observations of other galaxies like ours, have given us a good idea of what the Milky Way would look like if we could observe it from a distance.</p> <p class=\"lt-phys-64816\">Overall, we know that the Milky Way consists of a thin, circular, rotating disk of stars distributed across a region about 100,000 light years in diameter and about 2000 light years thick. The very youngest stars, and the dust and gas from which stars form, are found typically within 100 light-years of the plane of the Milky Way Galaxy. The mass of the interstellar matter is about 15% of the mass of the stars in this disk. The Sun is located about halfway between the center of the Galaxy and the edge of the disk and about 70 light-years above the galactic plane.</p> <p>We have described the shape of the galaxy as a disk or wheel. Let's use an analogy of a round, flat plate or dish to describe how a galaxy can appear to be a different shape depending on the observer's position. If the plate is on the floor and the observer is standing above looking down, the plate is the shape of a circle. This is called a face-on view or sometimes called a map view. If they pick up the plate and hold it flat at eye level, the plate now looks like a line&nbsp;because the observer is seeing just the edge of the plate. This is called an edge-on view. If the&nbsp;observer were to break the plate in half and observed one of the broken edges they would be viewing a cross section of the plate.</p> <p class=\"lt-phys-64816\">Figure \\(\\PageIndex{2}\\) is a diagram of the shape of the Milky Way from a face-on, and edge-on view. In the face-on view, on the left, the stars, gas, and dust are not spread evenly throughout the disk but are concentrated into a central bar in a bright region called the nuclear bulge, and a series of <strong><a href=\"/Workbench/De_Anza_-_ASTR10/15:_Milky_Way_Galaxy/15.08:_Key_Terms#spiral arm\" target=\"_blank\" title=\"spiral arm\">spiral arm</a></strong>s. The galaxy has 4 spiral arms, with the Cygnus and Perseus arms labeled near the bottom. The Sun is located on a small area called the Orion spur, 26,000 light years from the center of the Milky Way. In the side view, there is a thin disk, about 400 light years thick. This thin disk contains the young stars, gas, and dust of the galaxy. This thin disk is embedded in a thick disk, that is 2000 light-years thick, and contains only about 5% as much mass as the thin disk. Globular clusters are scattered in the region beyond the thick disk.</p> <figure><img alt=\"Milky Way face-on and edge-on view diagrams, spiral arms, Sun on Orion spur. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/46190/db5a8416faed13742caa2b345dd8ddff9ee0ec45\" /> <figcaption>Figure \\(\\PageIndex{2}\\) : Diagram of the Galaxy. This schematic compares the Milky Way's spiral structure viewed face-on and edge-on, with the Sun's location on the Orion spur roughly 26,000 light-years from the galactic center. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>). <a href=\"/Workbench/De_Anza_-_ASTR10/15:_Milky_Way_Galaxy/15.09:_Accessible_Descriptions#Figure_15.1.2_Diagram_of_the_Galaxy\" target=\"_blank\" title=\"15.9: Accessible Descriptions\">Accessible description of Figure \\(\\PageIndex{2}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64816\">Recent infrared observations have confirmed that the central bar of the Milky Way is composed mostly of old yellow-red stars. The two main spiral arms appear to connect with the ends of the bar. We know many other spiral galaxies that also have bar-shaped concentrations of stars in their central regions, called barred spirals. Figure \\(\\PageIndex{3}\\) shows two other galaxies, one without a bar, Image(a), and one with a strong bar, Image(b), to give you a basis for comparison to our own. The unbarred spiral, M74, has a symmetric spiral form. The barred spiral, NGC 1365, has two spiral arms extending from the bar. It's overall structure is similar to the letter S. Comparing these galaxies to the face-on diagram in Figure \\(\\PageIndex{2}\\), the Milky Way is not as symmetric as the unbarred spiral, but is more complex than the barred spiral. It seems that our galaxy is something in between a barred and unbarred galaxy.</p> <figure><img alt=\"Unbarred spiral M74 and barred spiral NGC 1365 galaxies by ESO. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/46193/b30d15cc323354490cf1053a38d90ca7f8dfbfc3\" /> <figcaption>Figure \\(\\PageIndex{3}\\) : Unbarred and Barred Spiral Galaxies. The unbarred spiral M74, Image (a), and the barred spiral NGC 1365, Image (b), illustrate two ends of a structural range. The Milky Way's own barred spiral structure is thought to fall between the two. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>). <a href=\"/Workbench/De_Anza_-_ASTR10/15:_Milky_Way_Galaxy/15.09:_Accessible_Descriptions#Figure_15.1.3_Unbarred_and_Barred_Spiral_Galaxies\" target=\"_blank\" title=\"15.9: Accessible Descriptions\">Accessible description of Figure \\(\\PageIndex{3}\\)</a>.</figcaption> </figure> <h2>Structure of the Milky Way</h2> <p class=\"lt-phys-64816\">Figure \\(\\PageIndex{4}\\) is a schematic of the overall structure and main components, viewed from the side, or the edge. The galactic center is relatively small compared to the nuclear bulge that surrounds it. To the sides of the bulge is the thick disk, with the thin disk inside. Stars and globular clusters are scattered above and below the disk. The halo, surrounds the entire galaxy.</p> <p class=\"lt-phys-64816\">Establishing this overall picture of the Galaxy from our dust-shrouded viewpoint inside the thin disk has been one of the great achievements of modern astronomy, and one that took decades of effort by astronomers working with a wide range of telescopes. One thing that helped enormously was the discovery that our Galaxy is not unique in its characteristics. There are many other flat, spiral-shaped islands of stars, gas, and dust in the universe. For example, the Milky Way somewhat resembles the Andromeda galaxy, which, at a distance of about 2.3 million light-years, is our nearest neighboring giant spiral galaxy. Just as you can get a much better picture of yourself if someone else takes the photo from a distance away, pictures and other diagnostic observations of nearby galaxies that resemble ours have been vital to our understanding of the properties of the Milky Way.</p> <p class=\"lt-phys-64816\">Table \\(\\PageIndex{1}\\) lists statistics of the thin and thick disks and the halo. Most of the stellar mass is in the thin disk, which is also the brightest part of the galaxy. The thin disk also contains the youngest stars at 1 to 10 billion years. The disks in the thick disk are 11 billion years old, while the stars in the halo are 13 billion years old. The thin disk stars also have the highest amount of heavy elements. The thick disk has fewer heavy elements, and the stars in the halo are mostly hydrogen and helium with a very small amount of heavier elements.</p> <table class=\"mt-responsive-table\"> <caption>Table \\(\\PageIndex{1}\\): Characteristics of the Milky Way</caption> <thead> <tr valign=\"top\"> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Property</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Thin Disk</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Thick Disk</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Halo (Excludes Dark Matter)</th> </tr> </thead> <tbody> <tr valign=\"top\"> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Property\" data-valign=\"middle\">Stellar mass</td> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Thin Disk\" data-valign=\"middle\">4 x 10<sup>10</sup> M<sub>Sun</sub></td> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Thick Disk\" data-valign=\"middle\">A few percent of the thin disk mass</td> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Halo (Excludes Dark Matter)\" data-valign=\"middle\">10<sup>10</sup> M<sub>Sun</sub></td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Property\" data-valign=\"middle\">Luminosity</td> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Thin Disk\" data-valign=\"middle\">3 x 10<sup>10</sup> L<sub>Sun</sub></td> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Thick Disk\" data-valign=\"middle\">A few percent of the thin disk luminosity</td> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Halo (Excludes Dark Matter)\" data-valign=\"middle\">8 x 10<sup>8</sup> L<sub>Sun</sub></td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Property\" data-valign=\"middle\">Typical age of stars</td> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Thin Disk\" data-valign=\"middle\">1 million to 10 billion years</td> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Thick Disk\" data-valign=\"middle\">11 billion years</td> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Halo (Excludes Dark Matter)\" data-valign=\"middle\">13 billion years</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Property\" data-valign=\"middle\">Heavier-element abundance</td> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Thin Disk\" data-valign=\"middle\">High</td> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Thick Disk\" data-valign=\"middle\">Intermediate</td> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Halo (Excludes Dark Matter)\" data-valign=\"middle\">Very low</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Property\" data-valign=\"top\">Rotation</td> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Thin Disk\" data-valign=\"top\">High</td> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Thick Disk\" data-valign=\"top\">Intermediate</td> <td class=\"lt-phys-64816\" data-align=\"left\" data-th=\"Halo (Excludes Dark Matter)\" data-valign=\"top\">Very low</td> </tr> </tbody> </table> <figure><img alt=\"Milky Way components: halo, bulge, thick and thin disk, Sun's location. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/46195/079e35d966f7c4fa63edb4d75302dcf58ca837b6\" /> <figcaption>Figure \\(\\PageIndex{4}\\) : Components of the Milky Way. The Milky Way's structure includes a flattened disk of stars embedded within a larger, sparser halo, with a central bulge surrounding the galactic center and the Sun located near the edge of the disk. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>).&nbsp;<a href=\"/Workbench/De_Anza_-_ASTR10/15:_Milky_Way_Galaxy/15.09:_Accessible_Descriptions#Figure_15.1.4_Components_of_the_Milky_Way\" target=\"_blank\" title=\"15.9: Accessible Descriptions\">Accessible description of Figure \\(\\PageIndex{4}\\)</a>.</figcaption> </figure> <h3 class=\"lt-phys-64816\">The Center of our Galaxy</h3> <p class=\"lt-phys-64816\">Within 10,000 light-years the galactic center, the stars are no longer confined to the disk but form a <strong><a href=\"/Workbench/De_Anza_-_ASTR10/15:_Milky_Way_Galaxy/15.08:_Key_Terms#central bulge\" target=\"_blank\" title=\"central bulge\">central bulge</a></strong>, or nuclear bulge. When we observe with visible light, we can only glimpse the stars when there is little interstellar dust. Since infrared light is weakly absorbed by dust, the 2 Micron All Sky Survey (2MASS) succeeded in imaging the bulge as a whole. In Figure \\(\\PageIndex{5}\\), among over half a billion stars, the disk of the galaxy is a thin bright line with thin streaks of dust. The center of the disk, the nuclear bulge, is significantly brighter and a little thicker. For a long time, astronomers assumed it was spherical. However, infrared images and other data indicate that the bulge is about two times longer than it is wide, and shaped like the number 8.</p> <figure><img alt=\"Infrared 2MASS image of Milky Way's bulge and thin disk. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/46194/f4c94a80a504b2826fa1a71797dccb4dc0c9a090\" /> <figcaption>Figure \\(\\PageIndex{5}\\) : Galactic Center. Because interstellar dust absorbs infrared light much less than visible light, this Two Micron All Sky Survey (2MASS) infrared image reveals the Milky Way's central bulge of old stars and its thin disk, both normally hidden from view in visible light. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>). <a href=\"/Workbench/De_Anza_-_ASTR10/15:_Milky_Way_Galaxy/15.09:_Accessible_Descriptions#Figure_15.1.5_Galactic_Center\" target=\"_blank\" title=\"15.9: Accessible Descriptions\">Accessible description of Figure \\(\\PageIndex{5}\\)</a>.</figcaption> </figure> <h3>The Stellar Halo and Dark Matter</h3> <p class=\"lt-phys-64816\">In our Galaxy, the thin and thick disks and the nuclear bulge are embedded in a spherical halo of very old, faint stars that extends to a distance of at least 150,000 light-years from the galactic center. Most of the globular clusters are also found in this halo.</p> <p class=\"lt-phys-64816\">The mass in the Milky Way extends even farther out, well beyond the boundary of the luminous stars to a distance of at least 200,000 light-years from the center of the Galaxy. This invisible mass has been given the name dark matter because it emits no light and cannot be seen with any telescope. Its composition is unknown, and it can be detected only because of its gravitational effects on the motions of luminous matter that we can see. We know that this extensive <strong><a href=\"/Workbench/De_Anza_-_ASTR10/15:_Milky_Way_Galaxy/15.08:_Key_Terms#dark matter halo\" target=\"_blank\" title=\"dark matter halo\">dark matter halo</a></strong> exists because of its effects on the orbits of distant star clusters and other dwarf galaxies that are associated with the Galaxy.</p> <h3 class=\"lt-phys-64248\">Milky Way's Neighbors</h3> <p class=\"lt-phys-64248\">The Milky Way Galaxy has two major satellite galaxies: the Large Magellanic Cloud (LMC) and the Small Magellanic Cloud (SMC). These are visible from the Southern Hemisphere. There are also a number of dwarf galaxy satellites, at least ten, which orbit the Milky Way. Some astronomers hypothesize that there could be hundreds of Milky Way dwarf galaxy satellites.</p> <p class=\"lt-phys-64252\">The Virgo Stellar Stream was discovered in 2006. This is a collection of stars which rises close to perpendicular to the plane of the spiral arms of the galaxy; most likely this structure is a dwarf galaxy.</p> <p class=\"lt-phys-64244\">Current observations show that the Andromeda Galaxy is approaching the Milky Way Galaxy at 100 to 140 kilometers per&nbsp;second. It appears as if a collision may occur in 3 to 4 billion years. If Andromeda Galaxy and Milky Way Galaxy collide, individual stars within the galaxies would not collide, but instead the two galaxies will merge to form a single elliptical galaxy over the course of about a billion years.</p> <section class=\"box-note\"> <h5 class=\"box-legend\"><span class=\"lt-icon-default\">Further Exploration: </span></h5> <ul> <li class=\"lt-phys-64816\">Watch a video of the Gaia space telescope's <a href=\"https://www.youtube.com/watch?v=8cXURHmtf3I\" title=\"https://www.youtube.com/watch?v=8cXURHmtf3I\">visualization of stars in the Milky Way galaxy</a>. The visualization uses data collected by Gaia to map the positions and brightness of stars, revealing the structure and distribution of stars throughout our galaxy.</li> <li class=\"lt-phys-64816\">Explore the Milky Way using the interactive <a href=\"https://physics.unm.edu/classes/applets/milkyway.html\" title=\"https://physics.unm.edu/classes/applets/milkyway.html\">Milky Way Viewer</a>. The viewer allows users to move to different locations within the galaxy using the Move and Zoom controls and observe how different stellar populations appear from each location.</li> </ul> </section>"
+              - generic [ref=f454e324]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f454e326] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f454e104]:
+          - separator [ref=f454e105]
+          - paragraph [ref=f454e107]:
+            - text: This page titled
+            - 'link "15.1: Observing Our Galaxy" [ref=f454e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.01%3A_Observing_Our_Galaxy
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f454e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f454e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f454e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f454e112]:
+        - list [ref=f454e113]:
+          - listitem [ref=f454e114]:
+            - link "Back to top" [ref=f454e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f454e116]:
+            - list [ref=f454e117]:
+              - listitem [ref=f454e118]:
+                - 'link " 15: Milky Way Galaxy" [ref=f454e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy
+                  - text: 
+                  - generic [ref=f454e120]: "15: Milky Way Galaxy"
+              - listitem [ref=f454e121]:
+                - 'link "15.2: Spiral Structure " [ref=f454e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.02%3A_Spiral_Structure
+                  - generic [ref=f454e123]: "15.2: Spiral Structure"
+                  - text: 
+        - list [ref=f454e126]:
+          - listitem [ref=f454e127]: Was this article helpful?
+          - listitem [ref=f454e128]:
+            - button "Yes" [ref=f454e129] [cursor=pointer]
+          - listitem [ref=f454e130]:
+            - button "No" [ref=f454e131] [cursor=pointer]
+          - listitem [ref=f454e132]:
+            - button "Leave feedback" [ref=f454e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , , , , ,"
+        - generic [ref=f454e134]:
+          - heading "Attachments" [level=2] [ref=f454e135]
+          - generic:
+            - button "Attach a file" [ref=f454e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f454e138]:
+            - generic [ref=f454e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f454e142]
+            - generic [ref=f454e143]:
+              - grid [ref=f454e146]:
+                - rowgroup [ref=f454e147]:
+                  - row [ref=f454e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f454e149]':
+                      - generic:
+                        - generic [ref=f454e150]: File
+                        - generic [ref=f454e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f454e152]':
+                      - generic:
+                        - generic [ref=f454e153]: Last modified
+                        - generic [ref=f454e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f454e155]':
+                      - generic:
+                        - generic [ref=f454e156]: Size
+                        - generic [ref=f454e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f454e158]':
+                      - generic:
+                        - generic [ref=f454e159]: Added by
+                        - generic [ref=f454e160]: 
+              - grid [ref=f454e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f454e163]: File
+                          - generic [ref=f454e164]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f454e165]: Last modified
+                          - generic [ref=f454e166]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f454e167]: Size
+                          - generic [ref=f454e168]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f454e169]: Added by
+                          - generic [ref=f454e170]: 
+                - rowgroup [ref=f454e171]:
+                  - row [ref=f454e172]:
+                    - gridcell "No files attached." [ref=f454e173]
+    - generic [ref=f454e175]:
+      - button "Open support menu" [ref=f454e177] [cursor=pointer]: "?"
+      - navigation [ref=f454e179]:
+        - paragraph [ref=f454e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f454e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f454e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f454e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f454e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f454e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f454e187]:
+      - generic:
+        - generic [ref=f454e189]:
+          - button "Annotation sidebar" [ref=f454e190]
+          - generic [ref=f454e195]:
+            - button "Show highlights" [ref=f454e196]
+            - button "New page note" [ref=f454e201]
+          - status [ref=f454e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f454e207]:
+    - button "contents" [ref=f454e208] [cursor=pointer]
+    - button "readability" [ref=f454e210] [cursor=pointer]
+    - button "resources" [ref=f454e212] [cursor=pointer]
+    - button "tools" [ref=f454e214] [cursor=pointer]
+    - button "developers" [ref=f454e216] [cursor=pointer]
+  - text:  
+  - generic [ref=f454e327]:
+    - generic [ref=f454e328] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f454e331] [cursor=pointer]

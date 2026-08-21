@@ -1,0 +1,333 @@
+- generic [ref=f148e1]:
+  - link "Skip to main content" [ref=f148e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f148e3]:
+    - text: 
+    - generic [ref=f148e4]:
+      - generic [ref=f148e5]:
+        - generic: ✕
+        - navigation [ref=f148e7]:
+          - generic [ref=f148e8]:
+            - link [ref=f148e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f148e11]
+            - button "Enter Reader Mode" [ref=f148e13] [cursor=pointer]:
+              - generic [ref=f148e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f148e16]:
+        - list [ref=f148e18]:
+          - listitem [ref=f148e19]:
+            - link [ref=f148e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f148e22]
+          - listitem [ref=f148e23]:
+            - text: 
+            - generic [ref=f148e25]:
+              - generic [ref=f148e26]: "Search :"
+              - searchbox "Search :" [ref=f148e27]
+              - button " Search" [ref=f148e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f148e29]:
+            - list [ref=f148e30]:
+              - listitem [ref=f148e31]:
+                - link "Edit" [ref=f148e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.03%3A_Capturing_Light?action=edit
+              - text: 
+              - listitem [ref=f148e33]:
+                - link " Options" [ref=f148e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f148e35]:
+                - link " Rachel Mastrapa" [ref=f148e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f148e37]:
+        - generic:
+          - button " Contents" [ref=f148e229] [cursor=pointer]
+          - list [ref=f148e39]:
+            - listitem [ref=f148e40]:
+              - link " Home" [ref=f148e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f148e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f148e43]:
+              - link " Workbench" [ref=f148e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f148e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f148e46]:
+              - link " De Anza - ASTR10" [ref=f148e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f148e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f148e49]:
+              - 'link " 5: Astronomical Instruments" [ref=f148e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments
+                - generic [ref=f148e51]: 
+                - text: "5: Astronomical Instruments"
+              - text: »
+            - listitem [ref=f148e52]:
+              - generic [ref=f148e53]: 
+              - text: "5.3: Capturing Light"
+          - button " Expand/collapse global location" [ref=f148e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                
+    - article [ref=f148e55]:
+      - generic [ref=f148e56]:
+        - generic [ref=f148e57]:
+          - button " Page settings" [ref=f148e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "5.3: Capturing Light" [level=1] [ref=f148e59]':
+          - generic [ref=f148e60]: "5.3: Capturing Light "
+        - list [ref=f148e62]:
+          - listitem [ref=f148e63]:
+            - link [ref=f148e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f148e66]:
+                - img "CC" [ref=f148e67]
+                - img "BY" [ref=f148e68]
+          - listitem [ref=f148e69]:
+            - generic [ref=f148e70]:
+              - term [ref=f148e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f148e72]: Aug 5, 2026, 1:02 PM by Rachel Mastrapa
+          - listitem [ref=f148e73]:
+            - generic [ref=f148e74]:
+              - term [ref=f148e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f148e76]: Private
+          - listitem [ref=f148e77]:
+            - generic [ref=f148e78]:
+              - term [ref=f148e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f148e80]: "132009"
+          - listitem [ref=f148e81]:
+            - list [ref=f148e82]:
+              - listitem [ref=f148e83]:
+                - button "Pin Page" [ref=f148e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f148e85]:
+                - list [ref=f148e86]:
+                  - listitem [ref=f148e87]:
+                    - 'link " 5.2: Modern Telescopes" [ref=f148e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.02%3A_Modern_Telescopes
+                      - text: 
+                      - generic [ref=f148e89]: "5.2: Modern Telescopes"
+                  - listitem [ref=f148e90]:
+                    - 'link "5.4: Radio Telescopes " [ref=f148e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.04%3A_Radio_Telescopes
+                      - generic [ref=f148e92]: "5.4: Radio Telescopes"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f148e93]:
+        - group [ref=f148e232]:
+          - generic [ref=f148e233]:
+            - generic [ref=f148e234]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f148e235]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f148e236]:
+            - generic [ref=f148e239]:
+              - generic [ref=f148e241]:
+                - link "Edit" [ref=f148e242]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f148e243]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f148e244]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f148e245]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f148e246]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f148e247]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f148e250]:
+                - toolbar [ref=f148e251]:
+                  - button "Save" [ref=f148e252]:
+                    - generic [ref=f148e253]: 
+                  - button "Cancel" [ref=f148e255]:
+                    - generic [ref=f148e256]: 
+                - text:          
+                - toolbar [ref=f148e297]:
+                  - button "Alignment" [ref=f148e298]:
+                    - generic [ref=f148e299]: 
+                - text:    
+                - toolbar [ref=f148e312]:
+                  - button "Replace" [ref=f148e313]:
+                    - generic [ref=f148e314]: 
+                - toolbar [ref=f148e316]:
+                  - button "Enable Binder" [disabled] [ref=f148e317]
+                  - button "Insert Adapt" [disabled] [ref=f148e319]
+                  - button "Query" [ref=f148e321]
+                  - button "Accessibility Checker" [disabled] [ref=f148e324]
+                - toolbar [ref=f148e327]:
+                  - button "Visual" [pressed] [ref=f148e343]:
+                    - generic [ref=f148e329]: 
+            - application "Rich Text Editor, editarea" [ref=f148e331]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f148e345]: "<h2>Capturing Light</h2> <p class=\"lt-phys-64684\">After the telescope forms an image, there needs to be a way to detect and record it so that the data can be measured, reproduced, and analyzed. Before the nineteenth century, astronomers simply viewed images with their eyes and wrote descriptions of what they saw. This was very inefficient and did not lead to a very reliable long-term record. Remember that anyone can benefit from looking through a telescope at the stars for their own personal enjoyment. For the study of astronomy, data needs to be collected and stored in a way that is objective and consistent.</p> <p class=\"lt-phys-64686\">Before detectors, astronomers would look through a telescope and either write down what they saw or describe the observations to an assistant. It was very common for there to be slight differences between observations made by different astronomers. This was not necessarily due to bad observing, but the natural variability in human vision.&nbsp;The eye also suffers from having a very short integration time, or the amount of time over which the eye can collect light. The light that enters the eye is processed by the brain within a fraction of a second. This means that the eye can't collect photons over a long period of time. One important advantage of modern detectors is that the light from astronomical objects can be collected by the detector over longer time periods in a long exposure. Exposures of several hours are required to detect very faint objects in the cosmos.</p> <h2 class=\"lt-phys-64686\">Photographic and Electronic Detectors</h2> <p class=\"lt-phys-64110\">Once an image is focused and magnified by the telescope, it can be captured by a film or digital camera. In the nineteenth century, the use of photography became widespread. Today, the image is generally detected with sensors similar to those in digital cameras, recorded electronically, and stored in computers.</p> <p class=\"lt-phys-64686\">Throughout most of the twentieth century, photographic film or glass plates served as the primary&nbsp;astronomical detectors. In a photographic plate, a light-sensitive chemical coating is applied to a piece of glass that, when developed, provides a lasting record of the image. At observatories around the world, vast collections of photographs preserve what the sky has looked like during the past 100 years. Photography represents a huge improvement over the human eye, but it still has limitations.&nbsp;Over a long exposure of a star, the chemical reaction would spread out, creating a larger image as it collected more light. In this case,&nbsp;brighter stars would look larger than dimmer stars on the photographic plate. This was helpful to note the relative brightness of stars, but not an accurate record of the stars' relative sizes in the night sky. Photographic films are also inefficient. Only about 1% of the light that falls on the film contributes to the chemical change that makes the image. That means that the vast majority of photons are not recorded.</p> <p class=\"lt-phys-64686\">Astronomers today have much more efficient electronic detectors to record astronomical images. The <a href=\"/Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.07:_Key_Terms#photometer\" target=\"_blank\" title=\"5.7: Key Terms\"><strong>photometer</strong></a> was an early&nbsp;electronic detector used by astronomers. Photometers convert light into an electric signal and the most advanced ones are able to count individual photons.&nbsp;An astronomer could focus their telescope at a star and count the number of photons detected over a set period of time. Then, they could point the&nbsp;telescope at another star and repeat the process. The result was a quantitative measurement of the brightness of both stars.&nbsp;</p> <p class=\"lt-phys-64686\">The next technological development in detectors was to arrange many individual photometer-like devices into a grid.&nbsp; A&nbsp;<strong><a href=\"/Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.07:_Key_Terms#CCD\" target=\"_blank\" title=\"5.7: Key Terms\">charge-coupled device</a></strong> (CCD) is able to create an image using many individual sensors that are each capable of counting photons Figure \\(\\PageIndex{1}\\). Unlike the photometer, a CCD can collect quantitative measurements of several stars at once.&nbsp;In a CCD, photons of radiation hitting any part of the detector generate a stream of electrons that are stored and counted at the end of the exposure. Each place where the photons are counted is called a pixel, and modern detectors can count the photons in millions of pixels. CCDs are not just for astronomical observations. The same general concept was used to create the cameras in phones and computers.&nbsp;</p> <figure><img alt=\"Charge-Coupled Devices (CCDs). Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/46003/cacc30aab8320f3639f67709bee68efdafd1477e\" /> <figcaption>Figure \\(\\PageIndex{1}\\):&nbsp;(a) A&nbsp;CCD&nbsp;that can be held in the palm of your hand and&nbsp;is a mere 300-micrometers thick, thinner than a human hair, holds more than 21 million pixels.&nbsp;(b) This matrix of 42 CCDs served the Kepler telescope. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>).&nbsp;<a href=\"/Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.08:_Accessible_Descriptions#Figure_5.3.1__Charge-Coupled_Devices_(CCDs)\" title=\"5.8: Accessible Descriptions\">Alternative description of the Figure \\(\\PageIndex{1}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64686\">Because CCDs typically record as much as 60–70% of all the photons that strike them, and the best silicon and infrared CCDs exceed 90% sensitivity, we can detect much fainter objects. Among these are many small moons around the outer planets, icy dwarf planets beyond Pluto, and dwarf galaxies of stars. CCDs also provide more accurate measurements of the brightness of astronomical objects than photography, and their output is digital so it can be stored in a computer for analysis.</p> <h2 class=\"lt-phys-64686\">Infrared Observations</h2> <p class=\"lt-phys-64686\">Observing the universe in the infrared band of the spectrum presents some additional challenges. The infrared region extends from wavelengths near 1 micrometer (µm), which is about the long wavelength sensitivity limit of both CCDs and photography, to 100 micrometers or longer.&nbsp;Figure \\(\\PageIndex{2}\\) is an example of how&nbsp;infrared light can pass through materials that visible light cannot.&nbsp;In the visible image, the person's hands are covered by a garbage bag, but the infrared light passes through the bag, showing the hands.&nbsp;An image of the same object taken in visible and infrared can also highlight different objects, such as the person's glasses that are clear in the visible image, but very dark in the infrared image.&nbsp; The main challenge to astronomers using infrared is to distinguish between the tiny amount of heat radiation that reaches Earth from stars and galaxies, and the much greater heat radiated by the telescope itself and our planet’s atmosphere.</p> <figure><img alt=\"Comparison of visible and infrared images. Details in text.\" class=\"internal default\" src=\"/@api/deki/files/46004/4e250eb35f5060d26045977e295177faed2a6942\" /> <figcaption>Figure \\(\\PageIndex{2}\\): Infrared Observations.&nbsp;The same image in infrared and visible light demonstrate significant differences in how different objects are highlighted or able to be seen. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>).</figcaption> </figure> <p class=\"lt-phys-64686\">Typical temperatures on Earth’s surface are near 300 K, and the atmosphere through which observations are made is only a little cooler. The telescope, the observatory, and even the sky are radiating infrared energy with a peak wavelength of about 10 micrometers. To infrared eyes, everything on Earth is brightly aglow,&nbsp;including the telescope and camera. The challenge is to detect faint cosmic sources against this sea of infrared light. Another way to look at this is that an astronomer using infrared must always contend with the situation that a visible-light observer would face if working in broad daylight with a telescope and optics lined with bright fluorescent lights.</p> <p class=\"lt-phys-64686\">To solve this problem, astronomers must protect the infrared detector from nearby radiation, just as you would shield photographic film from bright daylight. Since anything warm radiates infrared energy, the detector must be isolated in very cold surroundings. Often, it is held near absolute zero by immersing it in liquid helium. The second step is to reduce the radiation emitted by the telescope structure and optics, and to block this heat from reaching the infrared detector.</p> <h2 class=\"lt-phys-646110\">Spectroscopy</h2> <p class=\"lt-phys-64686\">Before the light reaches the detector, astronomers today are able to&nbsp;use some type of instrument to sort the light according to wavelength. The instrument may be as simple as colored filters, which transmit light within a specified range of wavelengths. A red transparent plastic is an everyday example of a filter that transmits only the red light and blocks the other colors. After the light passes through a filter, it forms an image that astronomers can then use to measure the apparent brightness and color of objects.&nbsp;</p> <p class=\"lt-phys-64686\">Alternatively, the instrument between telescope and detector may be one of several devices that spread the light out into its full rainbow of colors so that astronomers can measure individual lines in the spectrum.&nbsp;In 1814, Joseph von Fraunhofer invented the modern spectroscope.&nbsp;Originally, astronomers used a spectroscope to break&nbsp;the light of the incoming image into its component wavelengths for study, Figure&nbsp;\\(\\PageIndex{3}\\).</p> <p class=\"lt-phys-64686\">The modern, more sophisticated version&nbsp;is called a <a href=\"/Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.07:_Key_Terms#spectrometer\" target=\"_blank\" title=\"5.7: Key Terms\"><strong>spectrometer</strong></a> because it allows astronomers to measure the spectrum of a source of light. Whether a filter or a spectrometer, both types of wavelength-sorting instruments still have to use detectors to record and measure the properties of light. Spectroscopy is one of the astronomer’s most powerful tools, providing information about the composition, temperature, motion, and other characteristics of celestial objects. More than half of the time spent on most large telescopes is used for spectroscopy.</p> <figure><img alt=\"Spectroscope in museum display case.\" class=\"internal default\" src=\"/@api/deki/files/66443/512px-Spectroscope%252C_Secretan%252C_Paris_-_Museu_da_Ci%25C3%25AAncia_da_Universidade_de_Coimbra_-_University_of_Coimbra_-_Coimbra%252C_Portugal_-_DSC09094.jpg\" /> <figcaption>Figure \\(\\PageIndex{3}\\): Older spectroscopes, like this one in a museum in Portugal, used prisms unlike most modern astronomical spectrometers which use slits or gratings. (<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\" title=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>; <a href=\"https://commons.wikimedia.org/wiki/User:Daderot\" target=\"_blank\" title=\"https://commons.wikimedia.org/wiki/User:Daderot\">Daderot</a> via <a href=\"https://commons.wikimedia.org/wiki/File:Spectroscope,_Secretan,_Paris_-_Museu_da_Ci%C3%AAncia_da_Universidade_de_Coimbra_-_University_of_Coimbra_-_Coimbra,_Portugal_-_DSC09094.jpg\" target=\"_blank\" title=\"https://commons.wikimedia.org/wiki/File:Spectroscope,_Secretan,_Paris_-_Museu_da_Ci%C3%AAncia_da_Universidade_de_Coimbra_-_University_of_Coimbra_-_Coimbra,_Portugal_-_DSC09094.jpg\">Wikimedia Commons</a>).</figcaption> </figure> <p class=\"lt-phys-64686\">The many different wavelengths present in light can be separated by passing them through a spectrometer to form a spectrum, Figure \\(\\PageIndex{4}\\). In this diagram, the light from the source focused onto&nbsp;a small hole or narrow slit, and is collimated, or made into a beam of parallel rays by a lens. The light then passes through a prism, producing a spectrum. Different wavelengths leave the prism in different directions because each wavelength is bent by a different amount when it enters and leaves the prism. A second lens placed behind the prism focuses the many different images of the slit or entrance hole onto a CCD or other detecting device. The spectrum can then be analyzed at a later point. As spectroscopy spreads the light out into more and more collecting bins, fewer photons go into each bin, so either a larger telescope is needed or the integration time must be greatly increased.</p> <figure><img alt=\"Prism spectrometer schematic. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/46002/35f77bfbd7b85258808bdb364ee5d29f31ee46b9\" /> <figcaption>Figure \\(\\PageIndex{4}\\): In a spectrometer, the&nbsp;light is&nbsp;dispersed&nbsp;into a spectrum, which is either photographed or recorded electronically. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>).&nbsp;<a href=\"/Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.08:_Accessible_Descriptions#Figure_5.3.4_Prism_Spectrometer\" title=\"5.8: Accessible Descriptions\">Alternative description of&nbsp;Figure \\(\\PageIndex{4}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64686\">In practice, astronomers today are more likely to use a different device, called a grating, to disperse the spectrum. A grating is a piece of material with thousands of grooves on its surface.&nbsp;Think of the diffraction grating as many small prisms on a thin sheet of plastic or glass with 500 or more rulings per inch, similar to a CD. A grating, like a prism, also spreads light out into a spectrum.</p> <section class=\"box-note\"> <h5 class=\"box-legend\"><span class=\"lt-icon-default\">Further Exploration: Interactive Activity</span></h5> <ul> <li>Explore the <a href=\"https://coolcosmos.ipac.caltech.edu/infrared_gallery/1\" title=\"https://coolcosmos.ipac.caltech.edu/infrared_gallery/1\">Cool Cosmos Infrared Zoo</a>&nbsp;to compare astronomical objects observed in visible and infrared light and discover how infrared observations can reveal structures, dust clouds, and other features that are hidden at visible wavelengths.</li> </ul> </section> <h2>Attributions</h2> <p>This page was adapted from \"<a href=\"/Bookshelves/Astronomy__Cosmology/Astronomy_Lab_(Lumen)/10:_Star_Colors_and_Spectroscopy/10.03:_The_Spectroscope\" title=\"The Spectroscope\">The Spectroscope</a>\" in <a href=\"/Bookshelves/Astronomy__Cosmology/Astronomy_Lab_(Lumen)\" title=\"Astronomy Lab (Lumen)\">Astronomy Lab (Lumen)</a> originally written by <a href=\"https://lumenlearning.com/\" title=\"Lumen Learning\">Lumen Learning</a>, and published under <a href=\"https://creativecommons.org/licenses/by/4.0/\" title=\"CC BY 4.0\">CC BY 4.0</a>.</p>"
+              - generic [ref=f148e333]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f148e335] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f148e95]:
+          - separator [ref=f148e96]
+          - paragraph [ref=f148e98]:
+            - 'link "5.3: Capturing Light" [ref=f148e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.03%3A_Capturing_Light
+            - text: is shared under a
+            - link "CC BY" [ref=f148e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f148e101]:
+        - list [ref=f148e102]:
+          - listitem [ref=f148e103]:
+            - link "Back to top" [ref=f148e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f148e105]:
+            - list [ref=f148e106]:
+              - listitem [ref=f148e107]:
+                - 'link " 5.2: Modern Telescopes" [ref=f148e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.02%3A_Modern_Telescopes
+                  - text: 
+                  - generic [ref=f148e109]: "5.2: Modern Telescopes"
+              - listitem [ref=f148e110]:
+                - 'link "5.4: Radio Telescopes " [ref=f148e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.04%3A_Radio_Telescopes
+                  - generic [ref=f148e112]: "5.4: Radio Telescopes"
+                  - text: 
+        - list [ref=f148e115]:
+          - listitem [ref=f148e116]: Was this article helpful?
+          - listitem [ref=f148e117]:
+            - button "Yes" [ref=f148e118] [cursor=pointer]
+          - listitem [ref=f148e119]:
+            - button "No" [ref=f148e120] [cursor=pointer]
+          - listitem [ref=f148e121]:
+            - button "Leave feedback" [ref=f148e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f148e123]:
+          - heading "Attachments" [level=2] [ref=f148e124]
+          - generic:
+            - button "Attach a file" [ref=f148e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f148e127]:
+            - generic [ref=f148e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f148e131]
+            - generic [ref=f148e132]:
+              - grid [ref=f148e135]:
+                - rowgroup [ref=f148e136]:
+                  - row [ref=f148e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f148e138]':
+                      - generic:
+                        - generic [ref=f148e139]: File
+                        - generic [ref=f148e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f148e141]':
+                      - generic:
+                        - generic [ref=f148e142]: Last modified
+                        - generic [ref=f148e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f148e144]':
+                      - generic:
+                        - generic [ref=f148e145]: Size
+                        - generic [ref=f148e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f148e147]':
+                      - generic:
+                        - generic [ref=f148e148]: Added by
+                        - generic [ref=f148e149]: 
+              - grid [ref=f148e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f148e152]: File
+                          - generic [ref=f148e153]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f148e154]: Last modified
+                          - generic [ref=f148e155]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f148e156]: Size
+                          - generic [ref=f148e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f148e158]: Added by
+                          - generic [ref=f148e159]: 
+                - rowgroup [ref=f148e160]:
+                  - row [ref=f148e161]:
+                    - gridcell " 512px-Spectroscope,_Secretan,_Paris_-_Museu_da_Ciência_da_Universidade_de_Coimbra_-_University_of_Coimbra_-_Coimbra,_Portugal_-_DSC09094.jpg (no description)" [ref=f148e162]:
+                      - generic [ref=f148e163]:
+                        - generic [ref=f148e164]:
+                          - generic [ref=f148e165]: 
+                          - link "512px-Spectroscope,_Secretan,_Paris_-_Museu_da_Ciência_da_Universidade_de_Coimbra_-_University_of_Coimbra_-_Coimbra,_Portugal_-_DSC09094.jpg" [ref=f148e166] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/66443/512px-Spectroscope%2C_Secretan%2C_Paris_-_Museu_da_Ci%C3%AAncia_da_Universidade_de_Coimbra_-_University_of_Coimbra_-_Coimbra%2C_Portugal_-_DSC09094.jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f148e167]:
+                          - generic [ref=f148e168]: (no description)
+                          - text: 
+                    - gridcell "Feb 10, 2026, 2:35 PM" [ref=f148e169]
+                    - gridcell "35 KiB" [ref=f148e171]
+                    - gridcell "Rachel Mastrapa" [ref=f148e172]
+                  - row [ref=f148e173]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f148e174]:
+                      - generic [ref=f148e175]:
+                        - generic [ref=f148e176]:
+                          - generic [ref=f148e177]: 
+                          - link "mindtouch.page#thumbnail" [ref=f148e178] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63428/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f148e179]:
+                          - generic [ref=f148e180]: (no description)
+                          - text: 
+                    - gridcell "Dec 7, 2025, 6:55 PM" [ref=f148e181]
+                    - gridcell "11 KiB" [ref=f148e183]
+                    - gridcell "Rachel Mastrapa" [ref=f148e184]
+    - generic [ref=f148e186]:
+      - button "Open support menu" [ref=f148e188] [cursor=pointer]: "?"
+      - navigation [ref=f148e190]:
+        - paragraph [ref=f148e192]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f148e193] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f148e194] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f148e195] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f148e196] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f148e197] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f148e198]:
+      - generic:
+        - generic [ref=f148e200]:
+          - button "Annotation sidebar" [ref=f148e201]
+          - generic [ref=f148e206]:
+            - button "Show highlights" [ref=f148e207]
+            - button "New page note" [ref=f148e212]
+          - status [ref=f148e217]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f148e218]:
+    - button "contents" [ref=f148e219] [cursor=pointer]
+    - button "readability" [ref=f148e221] [cursor=pointer]
+    - button "resources" [ref=f148e223] [cursor=pointer]
+    - button "tools" [ref=f148e225] [cursor=pointer]
+    - button "developers" [ref=f148e227] [cursor=pointer]
+  - text:  
+  - generic [ref=f148e336]:
+    - generic [ref=f148e337] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f148e340] [cursor=pointer]

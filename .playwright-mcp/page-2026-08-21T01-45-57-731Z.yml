@@ -1,0 +1,319 @@
+- generic [ref=f107e1]:
+  - link "Skip to main content" [ref=f107e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f107e3]:
+    - text: 
+    - generic [ref=f107e4]:
+      - generic [ref=f107e5]:
+        - generic: ✕
+        - navigation [ref=f107e7]:
+          - generic [ref=f107e8]:
+            - link [ref=f107e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f107e11]
+            - button "Enter Reader Mode" [ref=f107e13] [cursor=pointer]:
+              - generic [ref=f107e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f107e16]:
+        - list [ref=f107e18]:
+          - listitem [ref=f107e19]:
+            - link [ref=f107e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f107e22]
+          - listitem [ref=f107e23]:
+            - text: 
+            - generic [ref=f107e25]:
+              - generic [ref=f107e26]: "Search :"
+              - searchbox "Search :" [ref=f107e27]
+              - button " Search" [ref=f107e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f107e29]:
+            - list [ref=f107e30]:
+              - listitem [ref=f107e31]:
+                - link "Edit" [ref=f107e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.02%3A_The_Atom?action=edit
+              - text: 
+              - listitem [ref=f107e33]:
+                - link " Options" [ref=f107e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f107e35]:
+                - link " Rachel Mastrapa" [ref=f107e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f107e37]:
+        - generic:
+          - button " Contents" [ref=f107e216] [cursor=pointer]
+          - list [ref=f107e39]:
+            - listitem [ref=f107e40]:
+              - link " Home" [ref=f107e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f107e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f107e43]:
+              - link " Workbench" [ref=f107e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f107e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f107e46]:
+              - link " De Anza - ASTR10" [ref=f107e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f107e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f107e49]:
+              - 'link " 4: Stellar Spectra" [ref=f107e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra
+                - generic [ref=f107e51]: 
+                - text: "4: Stellar Spectra"
+              - text: »
+            - listitem [ref=f107e52]:
+              - generic [ref=f107e53]: 
+              - text: "4.2: The Atom"
+          - text: 
+      - navigation:
+        - generic:                                                 
+    - article [ref=f107e54]:
+      - generic [ref=f107e55]:
+        - generic [ref=f107e56]:
+          - button " Page settings" [ref=f107e57] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "4.2: The Atom" [level=1] [ref=f107e58]':
+          - generic [ref=f107e59]: "4.2: The Atom "
+        - list [ref=f107e61]:
+          - listitem [ref=f107e62]:
+            - link [ref=f107e64] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f107e65]:
+                - img "CC" [ref=f107e66]
+                - img "BY" [ref=f107e67]
+          - listitem [ref=f107e68]:
+            - generic [ref=f107e69]:
+              - term [ref=f107e70] [cursor=pointer]: "Last updated:"
+              - definition [ref=f107e71]: Aug 7, 2026, 6:56 PM by Caitlin Kepple
+          - listitem [ref=f107e72]:
+            - generic [ref=f107e73]:
+              - term [ref=f107e74] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f107e75]: Private
+          - listitem [ref=f107e76]:
+            - generic [ref=f107e77]:
+              - term [ref=f107e78] [cursor=pointer]: "Page ID:"
+              - definition [ref=f107e79]: "131953"
+          - listitem [ref=f107e80]:
+            - list [ref=f107e81]:
+              - listitem [ref=f107e82]:
+                - button "Pin Page" [ref=f107e83] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f107e84]:
+                - list [ref=f107e85]:
+                  - listitem [ref=f107e86]:
+                    - 'link " 4.1: Spectroscopy" [ref=f107e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.01%3A_Spectroscopy
+                      - text: 
+                      - generic [ref=f107e88]: "4.1: Spectroscopy"
+                  - listitem [ref=f107e89]:
+                    - 'link "4.3: Spectral Lines " [ref=f107e90] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.03%3A_Spectral_Lines
+                      - generic [ref=f107e91]: "4.3: Spectral Lines"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f107e92]:
+        - group [ref=f107e219]:
+          - generic [ref=f107e220]:
+            - generic [ref=f107e221]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f107e222]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f107e223]:
+            - generic [ref=f107e226]:
+              - generic [ref=f107e228]:
+                - link "Edit" [ref=f107e229]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f107e230]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f107e231]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f107e232]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f107e233]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f107e234]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f107e237]:
+                - toolbar [ref=f107e238]:
+                  - button "Save" [ref=f107e239]:
+                    - generic [ref=f107e240]: 
+                  - button "Cancel" [ref=f107e242]:
+                    - generic [ref=f107e243]: 
+                - text:          
+                - toolbar [ref=f107e284]:
+                  - button "Alignment" [ref=f107e285]:
+                    - generic [ref=f107e286]: 
+                - text:    
+                - toolbar [ref=f107e299]:
+                  - button "Replace" [ref=f107e300]:
+                    - generic [ref=f107e301]: 
+                - toolbar [ref=f107e303]:
+                  - button "Enable Binder" [disabled] [ref=f107e304]
+                  - button "Insert Adapt" [disabled] [ref=f107e306]
+                  - button "Query" [ref=f107e308]
+                  - button "Accessibility Checker" [disabled] [ref=f107e311]
+                - toolbar [ref=f107e314]:
+                  - button "Visual" [pressed] [ref=f107e330]:
+                    - generic [ref=f107e316]: 
+            - application "Rich Text Editor, editarea" [ref=f107e318]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f107e332]: "<h2 class=\"lt-chem-3602\">The Nuclear Atom</h2> <p class=\"lt-chem-414605\">The development of modern atomic theory revealed much about the inner structure of atoms. The atom contains a very small <strong><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.08:_Key_Terms#nucleus\" target=\"_blank\" title=\"nucleus\">nucleus</a></strong> composed of positively charged <strong><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.08:_Key_Terms#proton\" target=\"_blank\" title=\"proton\">protons</a></strong> and uncharged <strong><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.08:_Key_Terms#neutron\" target=\"_blank\" title=\"neutron\">neutrons</a></strong>, surrounded by a much larger volume of space containing negatively charged <strong><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.08:_Key_Terms#electron\" target=\"_blank\" title=\"electron\">electrons</a></strong>. The nucleus contains the majority of an atom’s mass because protons and neutrons are much heavier than electrons, while electrons occupy almost all of an atom’s volume. The diameter of an atom is on the order of 10<sup>−10</sup> m, while the diameter of the nucleus is roughly 10<sup>−15</sup> m, about 100,000 times smaller. If the nucleus were the size of a blueberry, the atom would be about the size of a football stadium, Figure \\(\\PageIndex{1}\\). <span class=\"mt-bgcolor-e67e22\">(Figure isn't showing up for me (Caitlin). Also, should the figure come directly after this paragraph, as it's not mentioned at tall in the next one?)</span></p> <p class=\"lt-chem-3602\">Almost all of the volume of an atom consists of empty space in which electrons, the fundamental carriers of negative electric charge, reside. The extremely small mass of the electron causes it to behave as a quantum particle, which means that its location at any moment cannot be specified. The best scientists can do is describe its behavior in terms of the probability of its manifesting itself at any point in space. The volume of space in which the electrons of an atom have a significant probability of being found can be called the electron cloud. The latter has no definite outer boundary, so neither does the atom. The radius of an atom must be defined arbitrarily, such as the boundary in which the electron can be found with 95% probability. Atomic radii are typically 30-300 pm, or picometers. Note that 1 meter is equal to 10<sup>12</sup> picometers.</p> <figure><img alt=\"Scale of the atom. Details in caption.\" class=\"internal default\" height=\"302px\" src=\"/@api/deki/files/65045/593f207630a46c81d03967246cae21946c2c2277\" style=\"width: 983px; height: 302px;\" width=\"983px\" /> <figcaption>Figure \\(\\PageIndex{1}\\): If an atom could be expanded to the size of a football stadium, the nucleus would be the size of a single blueberry. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC</a><a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\"> BY 4.0</a>; <a href=\"https://openstax.org/\" target=\"_blank\" title=\"Openstax\">Openstax</a> via <a href=\"https://openstax.org/details/books/chemistry-2e\" target=\"_blank\" title=\"Chemistry 2e (Openstax)\">Chemistry 2e (Openstax)</a>). <a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.09:_Accessible_Descriptions#Figure_4.2.1_The_Scale_of_the_Atom\" title=\"4.9: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{1}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64679\">The simplest possible atom is hydrogen. The nucleus of ordinary hydrogen contains a single proton. Moving around this proton is a single electron. The mass of an electron is nearly 2000 times smaller than the mass of a proton. The electron carries an amount of charge exactly equal to that of the proton but opposite in sign, Figure \\(\\PageIndex{2}\\). Opposite charges attract each other, so it is an electromagnetic force that holds the proton and electron together, just as gravity is the force that keeps planets in orbit around the Sun.</p> <figure><img alt=\"Hydrogen atom. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/46129/6a03cf4d6579dd55ee7aeadd242870e736066b2f\" /> <figcaption>Figure \\(\\PageIndex{2}\\): This illustration represents a&nbsp;hydrogen atom as a circle with the proton at the center and the electron is at the radius, or outer part of the circle. The distances are not to scale. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>).&nbsp;Alternative description of Figure \\(\\PageIndex{2}\\).</figcaption> </figure> <h3 class=\"lt-chem-414605\">Particles</h3> <p class=\"lt-chem-414605\">Due to the extremely small size of protons and neutrons, scientists created a new unit of measurement, the atomic mass unit (amu). One atomic mass unit is defined as 1/12 of the mass of one atom of carbon. Table \\(\\PageIndex{1}\\) lists the properties of these particles including their mass in amu and grams. The mass of any of these particles in grams is a very small number, about 10<sup>-24</sup>.</p> <table class=\"mt-table-big mt-responsive-table\"> <caption>Table \\(\\PageIndex{1}\\): Properties of Subatomic Particles</caption> <thead> <tr valign=\"top\"> <th class=\"mt-align-center\" data-align=\"center\" scope=\"col\">Name</th> <th class=\"mt-align-center\" data-align=\"center\" scope=\"col\">Location</th> <th class=\"mt-align-center\" data-align=\"center\" scope=\"col\">Unit Charge</th> <th class=\"mt-align-center\" data-align=\"center\" scope=\"col\">Mass (amu)</th> <th class=\"mt-align-center\" data-align=\"center\" scope=\"col\">Mass (g)</th> <th class=\"mt-align-center\" data-align=\"center\" scope=\"col\">Symbol</th> </tr> </thead> <tbody> <tr valign=\"top\"> <td class=\"mt-align-center lt-chem-414605\" data-align=\"center\" data-th=\"Name\">electron</td> <td class=\"mt-align-center lt-chem-414605\" data-align=\"center\" data-th=\"Location\">outside nucleus</td> <td class=\"mt-align-center lt-chem-414605\" data-align=\"center\" data-th=\"Unit Charge\">-1</td> <td class=\"mt-align-center lt-chem-414605\" data-align=\"center\" data-th=\"Mass (amu)\">0.00055</td> <td class=\"mt-align-center lt-chem-414605\" data-align=\"center\" data-th=\"Mass (g)\">0.00091 10<sup>−24</sup></td> <td class=\"mt-align-center lt-chem-3602\" data-align=\"center\" data-th=\"Symbol\">\\(\\ce{e^{-}}\\)</td> </tr> <tr valign=\"top\"> <td class=\"mt-align-center lt-chem-414605\" data-align=\"center\" data-th=\"Name\">proton</td> <td class=\"mt-align-center lt-chem-414605\" data-align=\"center\" data-th=\"Location\">nucleus</td> <td class=\"mt-align-center lt-chem-414605\" data-align=\"center\" data-th=\"Unit Charge\">+1</td> <td class=\"mt-align-center lt-chem-414605\" data-align=\"center\" data-th=\"Mass (amu)\">1.00727</td> <td class=\"mt-align-center lt-chem-414605\" data-align=\"center\" data-th=\"Mass (g)\">1.67262 10<sup>−24</sup></td> <td class=\"mt-align-center lt-chem-3602\" data-align=\"center\" data-th=\"Symbol\">\\(\\ce{p^{+}}\\)&nbsp;or \\(\\ce{H^{+}}\\)</td> </tr> <tr valign=\"top\"> <td class=\"mt-align-center lt-chem-414605\" data-align=\"center\" data-th=\"Name\">neutron</td> <td class=\"mt-align-center lt-chem-414605\" data-align=\"center\" data-th=\"Location\">nucleus</td> <td class=\"mt-align-center lt-chem-414605\" data-align=\"center\" data-th=\"Unit Charge\">0</td> <td class=\"mt-align-center lt-chem-414605\" data-align=\"center\" data-th=\"Mass (amu)\">1.00866</td> <td class=\"mt-align-center lt-chem-414605\" data-align=\"center\" data-th=\"Mass (g)\">1.67493 10<sup>−24</sup></td> <td class=\"mt-align-center lt-chem-3602\" data-align=\"center\" data-th=\"Symbol\">\\(\\ce{n}\\)</td> </tr> </tbody> </table> <p>A proton has a mass of 1.00727 amu and a charge of +1. A neutron is a slightly heavier particle with a mass of 1.00866 amu and a charge of zero because it is neutral. The electron has a charge of -1 and is a much lighter particle with a mass of about 0.00055 amu. It would take about 1800 electrons to equal the mass of one proton. The protons and neutrons are in the nucleus, while the electrons are outside of the nucleus.</p> <h3 class=\"lt-chem-414605\">Ionization</h3> <p class=\"lt-chem-414605\">Atoms are electrically neutral if they contain the same number of positively charged protons and negatively charged electrons. Because the electrons of an atom are in contact with the outside world, it is possible for one or more electrons to be lost, or some new ones to be added in a process called <strong><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.08:_Key_Terms#ionization\" target=\"_blank\" title=\"ionization\">ionization</a></strong>. The resulting electrically-charged atom is called an <strong><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.08:_Key_Terms#ion\" target=\"_blank\" title=\"ion\">ion</a></strong>. The charge of an atom is calculated by subtracting the number of electrons from the number of&nbsp;protons. An atom can become completely ionized, losing all of its electrons. A hydrogen atom, having only one electron to lose, can be ionized only once while a helium atom can be ionized twice,&nbsp;and an oxygen atom&nbsp;can be ionized up to eight times.</p> <p class=\"lt-phys-64680\">An atom that has become positively ionized has lost a negative charge—the missing electron—and thus is left with a net positive charge. It therefore exerts a strong attraction on any free electron. Eventually, one or more electrons will be captured and the atom will become neutral (or ionized to one less degree) again. During the electron-capture process, the atom emits one or more photons. Which photons are emitted depends on whether the electron is captured at once to the lowest energy level of the atom or stops at one or more intermediate levels on its way to the lowest available level.</p> <h2 class=\"lt-chem-3602\">Elements</h2> <p class=\"lt-chem-3602\">The <strong><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.08:_Key_Terms#element\" target=\"_blank\" title=\"element\">element</a></strong> is the fundamental unit of chemical identity. What single parameter uniquely characterizes the atom of a given element? It is not the atom's relative mass, as we will see in the section on isotopes below. It is the number of protons in the nucleus, which is called the <strong><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.08:_Key_Terms#atomic number\" target=\"_blank\" title=\"atomic number\">atomic number</a></strong> (Z). Each proton carries an electric charge of +1, so the atomic number also specifies the electric charge of the nucleus. In the neutral atom, the Z protons within the nucleus are balanced by Z electrons outside it. The total number of protons and neutrons in an atom is called its <strong><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.08:_Key_Terms#mass number\" target=\"_blank\" title=\"mass number\">mass number</a></strong> (A). The number of neutrons is therefore the difference between the mass number and the atomic number: A – Z = number of neutrons.</p> <p class=\"lt-chem-3602\">You can think of the atomic number as a kind of serial number of an element, commencing at 1 for hydrogen and increasing by one for each successive element. For example, any atom that contains six protons is the element carbon and has the atomic number 6, regardless of how many neutrons or electrons it may have. Ninety-two elements have been found in nature. Around 25 more have been made artificially, but all of these decay into lighter elements, with some of them disappearing in minutes or even seconds. Helium, Z&nbsp;=&nbsp;2, has two protons in its nucleus instead of the single proton that characterizes hydrogen, Figure \\(\\PageIndex{3}\\). In addition, the helium nucleus contains two neutrons. Moving around this nucleus are two electrons, so the total net charge of the helium atom is also zero.</p> <figure><img alt=\"Helium atom. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/46128/5c9d405b74549645c8178c90c6d2283f9bec9bfe\" /> <figcaption>Figure \\(\\PageIndex{3}\\):&nbsp;Two protons are present in the nucleus of all helium atoms. In the most common variety of helium, the nucleus also contains two neutrons. Two electrons orbit the nucleus. Particle size and distance not to scale. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>).&nbsp;<a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.09:_Accessible_Descriptions#Figure_4.2.3_Helium_Atom\" title=\"4.9: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{3}\\)</a>.</figcaption> </figure> <h3 class=\"lt-chem-414605\">Isotopes</h3> <p class=\"lt-phys-64679\">The number of neutrons is not necessarily the same for all atoms of a given element. For example, most hydrogen atoms contain no neutrons at all. There are, however, hydrogen atoms that contain one proton and one neutron, and others that contain one proton and two neutrons. The various types of hydrogen nuclei with different numbers of neutrons are called <strong><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.08:_Key_Terms#isotope\" target=\"_blank\" title=\"isotope\">isotopes</a></strong> of hydrogen, Figure \\(\\PageIndex{4}\\). All other elements have isotopes as well. The isotopes of hydrogen are often referred to using common names and accompanying symbols. Hydrogen-2, symbolized <sup>2</sup>H, is also called deuterium and sometimes symbolized D. Hydrogen-3, symbolized <sup>3</sup>H, is also called tritium and sometimes symbolized T.</p> <figure><img alt=\"Hydrogen, deuterium, tritum. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/46131/5bd8c9dedd041fcf683e63d7aacb7beecc9b62af\" /> <figcaption>Figure \\(\\PageIndex{4}\\): A single proton in the nucleus defines the atom to be hydrogen, but there may be zero, one, or two neutrons. The most common isotope of hydrogen is the one with only a single proton and no neutrons. Deuterium contains one neutron and tritium has two neutrons. Particles and distances not to scale. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>).&nbsp;<a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.09:_Accessible_Descriptions#Figure_4.24_Isotopes_of_Hydrogen\" title=\"4.9: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{4}\\)</a>.</figcaption> </figure> <p class=\"lt-chem-414605\">The symbol for a specific isotope of any element is written by placing the mass number as a superscript to the left of the element symbol. The element symbol of magnesium is Mg. The atomic number is sometimes written as a subscript preceding the symbol, but since this number defines the element’s identity, as does its symbol, it is often omitted. For example, magnesium exists as a mixture of three isotopes, each with an atomic number of 12 and with mass numbers of 24, 25, and 26, respectively. These isotopes can be symbolized as <sup>24</sup>Mg, <sup>25</sup>Mg, and <sup>26</sup>Mg. These isotope symbols are read as element, mass number. For instance, <sup>24</sup>Mg is read as magnesium 24, and can be written as magnesium-24 or Mg-24. All magnesium atoms have 12 protons in their nucleus. The isotopes differ only because a <sup>24</sup>Mg atom has 12 neutrons in its nucleus, a <sup>25</sup>Mg atom has 13 neutrons, and a <sup>26</sup>Mg has 14 neutrons.</p> <h3>The Periodic Table</h3> <p class=\"lt-chem-414607\">As early chemists worked to purify ores and discovered more elements, they realized that various elements could be grouped together by their similar chemical behaviors. Many elements differ dramatically in their chemical and physical properties, but some elements are similar in their behaviors. For example, many elements appear shiny, are malleable, ductile, and conduct heat and electricity well. Other elements are not shiny, malleable, or ductile, and are poor conductors of heat and electricity. Chemists studied materials and attempted to organize them in a chart to group them by their chemical properties.</p> <p class=\"lt-chem-414607\">A modern <strong><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.08:_Key_Terms#periodic table\" target=\"_blank\" title=\"periodic table\">periodic table</a></strong> arranges the elements in increasing order of their atomic numbers and groups atoms with similar properties in the same vertical column, Figure \\(\\PageIndex{5}\\). Each box represents an element and contains its atomic number, symbol, average atomic mass, and name. The elements are arranged in seven horizontal rows, called periods or series, and 18 vertical columns, called groups. Groups are labeled at the top of each column. For the table to fit on a single page, parts of two of the rows, a total of 14 columns, are usually written below the main body of the table. <span class=\"mt-bgcolor-e67e22\">(This figure doesn't seem to be showing up for me either. -from&nbsp;Caitlin)</span></p> <figure><img alt=\"The Periodic Table of Elements.\" class=\"internal default\" height=\"739px\" src=\"/@api/deki/files/65201/029f72e6a7f96c5397e3cf506bedd36310016076\" style=\"width: 946px; height: 739px;\" width=\"946px\" /> <figcaption>Figure \\(\\PageIndex{5}\\): Elements in the periodic table are organized according to their properties. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC</a><a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\"> BY 4.0</a>; <a href=\"https://openstax.org/\" target=\"_blank\" title=\"Openstax\">Openstax</a> via <a href=\"https://openstax.org/details/books/chemistry-2e\" target=\"_blank\" title=\"Chemistry 2e (Openstax)\">Chemistry 2e (Openstax)</a>).&nbsp;<a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.09:_Accessible_Descriptions#Figure_4.2.5_The_Periodic_Table\" title=\"4.9: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{5}\\)</a>.</figcaption> </figure> <h3>Cosmic Abundances</h3> <p>Hydrogen, helium, and a few other very light elements were formed within about three minutes of the Big Bang. The next 23 elements, through iron, are formed mostly by nuclear fusion processes within stars, in which lighter nuclei combine into successively heavier elements. Elements heavier than iron cannot be formed in this way, and are produced only during the catastrophic collapse of massive stars called supernova explosions. Most of the atoms in the universe still consist of hydrogen, with helium being a distant second. On Earth, oxygen, silicon, and aluminum are most abundant. These profiles serve as useful guides for constructing models for the formation of Earth and other planetary bodies.</p> <p class=\"lt-phys-64649\">Nearly 100 different kinds of elements exist in nature. Most of them are rare, and only a handful account for more than 99% of everything with which we come in contact. The most abundant elements in the cosmos today are listed in Table Table \\(\\PageIndex{2}\\). The list includes the four elements most common in life on Earth: hydrogen, carbon, nitrogen, and oxygen. To represent the abundance of elements, this table lists the number of elements present in the universe compared to 1 million hydrogen atoms. In the table, there are 80,000 helium atoms for every 1,000,000 hydrogen atoms, or for every 8 helium atoms, there are 100 hydrogen atoms. In this table, the least abundant element is sulfur with just 19 atoms per 1,000,000 hydrogen atoms, but all of the elements are rare compared to hydrogen and helium.</p> <table class=\"mt-responsive-table\"> <caption>Table \\(\\PageIndex{2}\\): The Cosmically Abundant Elements</caption> <thead> <tr valign=\"top\"> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Element</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Symbol</th> <th data-align=\"center\" data-valign=\"top\" scope=\"col\">Number of Atoms per<br /> Million Hydrogen Atoms</th> </tr> </thead> <tbody> <tr valign=\"top\"> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Element\" data-valign=\"top\">Hydrogen</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Symbol\" data-valign=\"top\">H</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Number of Atoms perMillion Hydrogen Atoms\" data-valign=\"top\">1,000,000</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Element\" data-valign=\"top\">Helium</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Symbol\" data-valign=\"top\">He</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Number of Atoms perMillion Hydrogen Atoms\" data-valign=\"top\">80,000</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Element\" data-valign=\"top\">Carbon</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Symbol\" data-valign=\"top\">C</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Number of Atoms perMillion Hydrogen Atoms\" data-valign=\"top\">450</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Element\" data-valign=\"top\">Nitrogen</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Symbol\" data-valign=\"top\">N</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Number of Atoms perMillion Hydrogen Atoms\" data-valign=\"top\">92</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Element\" data-valign=\"top\">Oxygen</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Symbol\" data-valign=\"top\">O</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Number of Atoms perMillion Hydrogen Atoms\" data-valign=\"top\">740</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Element\" data-valign=\"top\">Neon</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Symbol\" data-valign=\"top\">Ne</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Number of Atoms perMillion Hydrogen Atoms\" data-valign=\"top\">130</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Element\" data-valign=\"top\">Magnesium</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Symbol\" data-valign=\"top\">Mg</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Number of Atoms perMillion Hydrogen Atoms\" data-valign=\"top\">40</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Element\" data-valign=\"top\">Silicon</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Symbol\" data-valign=\"top\">Si</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Number of Atoms perMillion Hydrogen Atoms\" data-valign=\"top\">37</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Element\" data-valign=\"top\">Sulfur</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Symbol\" data-valign=\"top\">S</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Number of Atoms perMillion Hydrogen Atoms\" data-valign=\"top\">19</td> </tr> <tr valign=\"top\"> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Element\" data-valign=\"top\">Iron</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Symbol\" data-valign=\"top\">Fe</td> <td class=\"lt-phys-64649\" data-align=\"left\" data-th=\"Number of Atoms perMillion Hydrogen Atoms\" data-valign=\"top\">32</td> </tr> </tbody> </table> <section class=\"box-note\"> <h5 class=\"box-legend\"><span class=\"lt-icon-default\">Further Exploration: Interactive Activity</span><span id=\"cke_bm_321C\" style=\"display:none;\">&nbsp;</span></h5> <ul> <li>Explore the <a href=\"https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html\" title=\"https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html\">Build an Atom</a> interactive simulation from PhET to investigate how protons, neutrons, and electrons determine an atom's identity, charge, and mass.</li> <li>Explore the&nbsp;<a href=\"https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass_all.html\" title=\"https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass_all.html\">PhET Isotopes and Atomic Mass</a> simulation&nbsp;to investigate isotopes, atomic mass, and the relationship between isotopic abundance and average atomic mass.</li> <li>Explore the&nbsp;<a href=\"https://iupac.org/what-we-do/periodic-table-of-elements/\" title=\"https://iupac.org/what-we-do/periodic-table-of-elements/\">IUPAC Periodic Table of Elements</a>&nbsp;to examine element symbols, atomic numbers, atomic masses, and the organization of the periodic table.</li> </ul> </section>"
+              - generic [ref=f107e320]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f107e322] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f107e94]:
+          - separator [ref=f107e95]
+          - paragraph [ref=f107e97]:
+            - 'link "4.2: The Atom" [ref=f107e98] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.02%3A_The_Atom
+            - text: is shared under a
+            - link "CC BY" [ref=f107e99] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f107e100]:
+        - list [ref=f107e101]:
+          - listitem [ref=f107e102]:
+            - link "Back to top" [ref=f107e103] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f107e104]:
+            - list [ref=f107e105]:
+              - listitem [ref=f107e106]:
+                - 'link " 4.1: Spectroscopy" [ref=f107e107] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.01%3A_Spectroscopy
+                  - text: 
+                  - generic [ref=f107e108]: "4.1: Spectroscopy"
+              - listitem [ref=f107e109]:
+                - 'link "4.3: Spectral Lines " [ref=f107e110] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.03%3A_Spectral_Lines
+                  - generic [ref=f107e111]: "4.3: Spectral Lines"
+                  - text: 
+        - list [ref=f107e114]:
+          - listitem [ref=f107e115]: Was this article helpful?
+          - listitem [ref=f107e116]:
+            - button "Yes" [ref=f107e117] [cursor=pointer]
+          - listitem [ref=f107e118]:
+            - button "No" [ref=f107e119] [cursor=pointer]
+          - listitem [ref=f107e120]:
+            - button "Leave feedback" [ref=f107e121] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f107e122]:
+          - heading "Attachments" [level=2] [ref=f107e123]
+          - generic:
+            - button "Attach a file" [ref=f107e124] [cursor=pointer]
+            - text: 
+          - generic [ref=f107e126]:
+            - generic [ref=f107e129]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f107e130]
+            - generic [ref=f107e131]:
+              - grid [ref=f107e134]:
+                - rowgroup [ref=f107e135]:
+                  - row [ref=f107e136]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f107e137]':
+                      - generic:
+                        - generic [ref=f107e138]: File
+                        - generic [ref=f107e139]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f107e140]':
+                      - generic:
+                        - generic [ref=f107e141]: Last modified
+                        - generic [ref=f107e142]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f107e143]':
+                      - generic:
+                        - generic [ref=f107e144]: Size
+                        - generic [ref=f107e145]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f107e146]':
+                      - generic:
+                        - generic [ref=f107e147]: Added by
+                        - generic [ref=f107e148]: 
+              - grid [ref=f107e150]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f107e151]: File
+                          - generic [ref=f107e152]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f107e153]: Last modified
+                          - generic [ref=f107e154]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f107e155]: Size
+                          - generic [ref=f107e156]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f107e157]: Added by
+                          - generic [ref=f107e158]: 
+                - rowgroup [ref=f107e159]:
+                  - row [ref=f107e160]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f107e161]:
+                      - generic [ref=f107e162]:
+                        - generic [ref=f107e163]:
+                          - generic [ref=f107e164]: 
+                          - link "mindtouch.page#thumbnail" [ref=f107e165] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63422/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f107e166]:
+                          - generic [ref=f107e167]: (no description)
+                          - text: 
+                    - gridcell "Dec 7, 2025, 6:55 PM" [ref=f107e168]
+                    - gridcell "11 KiB" [ref=f107e170]
+                    - gridcell "Rachel Mastrapa" [ref=f107e171]
+    - generic [ref=f107e173]:
+      - button "Open support menu" [ref=f107e175] [cursor=pointer]: "?"
+      - navigation [ref=f107e177]:
+        - paragraph [ref=f107e179]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f107e180] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f107e181] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f107e182] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f107e183] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f107e184] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f107e185]:
+      - generic:
+        - generic [ref=f107e187]:
+          - button "Annotation sidebar" [ref=f107e188]
+          - generic [ref=f107e193]:
+            - button "Show highlights" [ref=f107e194]
+            - button "New page note" [ref=f107e199]
+          - status [ref=f107e204]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f107e205]:
+    - button "contents" [ref=f107e206] [cursor=pointer]
+    - button "readability" [ref=f107e208] [cursor=pointer]
+    - button "resources" [ref=f107e210] [cursor=pointer]
+    - button "tools" [ref=f107e212] [cursor=pointer]
+    - button "developers" [ref=f107e214] [cursor=pointer]
+  - text:  
+  - generic [ref=f107e323]:
+    - generic [ref=f107e324] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f107e327] [cursor=pointer]

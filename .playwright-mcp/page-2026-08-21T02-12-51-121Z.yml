@@ -1,0 +1,452 @@
+- generic [ref=f274e1]:
+  - link "Skip to main content" [ref=f274e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f274e3]:
+    - text: 
+    - generic [ref=f274e4]:
+      - generic [ref=f274e5]:
+        - generic: ✕
+        - navigation [ref=f274e7]:
+          - generic [ref=f274e8]:
+            - link [ref=f274e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f274e11]
+            - button "Enter Reader Mode" [ref=f274e13] [cursor=pointer]:
+              - generic [ref=f274e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f274e16]:
+        - list [ref=f274e18]:
+          - listitem [ref=f274e19]:
+            - link [ref=f274e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f274e22]
+          - listitem [ref=f274e23]:
+            - text: 
+            - generic [ref=f274e25]:
+              - generic [ref=f274e26]: "Search :"
+              - searchbox "Search :" [ref=f274e27]
+              - button " Search" [ref=f274e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f274e29]:
+            - list [ref=f274e30]:
+              - listitem [ref=f274e31]:
+                - link "Edit" [ref=f274e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.02%3A_Colors_of_Stars?action=edit
+              - text: 
+              - listitem [ref=f274e33]:
+                - link " Options" [ref=f274e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f274e35]:
+                - link " Rachel Mastrapa" [ref=f274e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f274e37]:
+        - generic:
+          - button " Contents" [ref=f274e217] [cursor=pointer]
+          - list [ref=f274e39]:
+            - listitem [ref=f274e40]:
+              - link " Home" [ref=f274e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f274e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f274e43]:
+              - link " Workbench" [ref=f274e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f274e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f274e46]:
+              - link " De Anza - ASTR10" [ref=f274e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f274e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f274e49]:
+              - 'link " 9: Celestial Census" [ref=f274e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census
+                - generic [ref=f274e51]: 
+                - text: "9: Celestial Census"
+              - text: »
+            - listitem [ref=f274e52]:
+              - generic [ref=f274e53]: 
+              - text: "9.2: Colors of Stars"
+          - text: 
+      - navigation:
+        - generic:                                                
+    - article [ref=f274e54]:
+      - generic [ref=f274e55]:
+        - generic [ref=f274e56]:
+          - button " Page settings" [ref=f274e57] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :      "
+        - 'heading "9.2: Colors of Stars" [level=1] [ref=f274e58]':
+          - generic [ref=f274e59]: "9.2: Colors of Stars "
+        - list [ref=f274e61]:
+          - listitem [ref=f274e62]:
+            - link [ref=f274e64] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f274e65]:
+                - img "CC" [ref=f274e66]
+                - img "BY" [ref=f274e67]
+          - listitem [ref=f274e68]:
+            - generic [ref=f274e69]:
+              - term [ref=f274e70] [cursor=pointer]: "Last updated:"
+              - definition [ref=f274e71]: Dec 28, 2025, 5:38 PM by Rachel Mastrapa
+          - listitem [ref=f274e72]:
+            - generic [ref=f274e73]:
+              - term [ref=f274e74] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f274e75]: Private
+          - listitem [ref=f274e76]:
+            - generic [ref=f274e77]:
+              - term [ref=f274e78] [cursor=pointer]: "Page ID:"
+              - definition [ref=f274e79]: "133571"
+          - listitem [ref=f274e80]:
+            - list [ref=f274e81]:
+              - listitem [ref=f274e82]:
+                - button "Pin Page" [ref=f274e83] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f274e84]:
+                - list [ref=f274e85]:
+                  - listitem [ref=f274e86]:
+                    - 'link " 9.1: Stellar Census" [ref=f274e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.01%3A_Stellar_Census
+                      - text: 
+                      - generic [ref=f274e88]: "9.1: Stellar Census"
+                  - listitem [ref=f274e89]:
+                    - 'link "9.3: Measuring Stellar Masses, Binary Stars " [ref=f274e90] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.03%3A_Measuring_Stellar_Masses_Binary_Stars
+                      - generic [ref=f274e91]: "9.3: Measuring Stellar Masses, Binary Stars"
+                      - text: 
+              - text:  
+      - list [ref=f274e94]:
+        - listitem [ref=f274e95]:
+          - img "OpenStax" [ref=f274e96]
+        - listitem [ref=f274e97]:
+          - link "OpenStax" [ref=f274e98] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f274e99]:
+          - link "OpenStax" [ref=f274e100] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f274e101]:
+        - group [ref=f274e220]:
+          - generic [ref=f274e221]:
+            - generic [ref=f274e222]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f274e223]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f274e224]:
+            - generic [ref=f274e227]:
+              - generic [ref=f274e228]:
+                - generic [ref=f274e229]:
+                  - link "Edit" [ref=f274e230]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f274e231]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f274e232]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f274e233]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f274e234]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f274e235]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f274e236]: "Words: 1284, Chars: 7924"
+              - group "Editor toolbars" [ref=f274e238]:
+                - toolbar [ref=f274e239]:
+                  - button "Save" [ref=f274e240]:
+                    - generic [ref=f274e241]: 
+                  - button "Cancel" [ref=f274e243]:
+                    - generic [ref=f274e244]: 
+                - toolbar [ref=f274e247]:
+                  - button "Undo" [disabled] [ref=f274e248]:
+                    - generic [ref=f274e249]: 
+                  - button "Redo" [disabled] [ref=f274e250]:
+                    - generic [ref=f274e251]: 
+                - toolbar [ref=f274e253]:
+                  - button "Headings" [ref=f274e254]
+                - toolbar [ref=f274e259]:
+                  - button "Bold" [ref=f274e260]:
+                    - generic [ref=f274e261]: 
+                  - button "Italic" [ref=f274e262]:
+                    - generic [ref=f274e263]: 
+                  - button "Underline" [ref=f274e264]:
+                    - generic [ref=f274e265]: 
+                - toolbar [ref=f274e267]:
+                  - button "Text color" [ref=f274e268]:
+                    - generic [ref=f274e269]: 
+                  - button "Background color" [ref=f274e271]:
+                    - generic [ref=f274e272]: 
+                - toolbar [ref=f274e275]:
+                  - button "Remove format" [ref=f274e276]:
+                    - generic [ref=f274e277]: 
+                - toolbar [ref=f274e279]:
+                  - button "Insert/Remove numbered list" [ref=f274e280]:
+                    - generic [ref=f274e281]: 
+                  - button "Insert/Remove bulleted list" [ref=f274e282]:
+                    - generic [ref=f274e283]: 
+                - toolbar [ref=f274e285]:
+                  - button "Alignment" [ref=f274e286]:
+                    - generic [ref=f274e287]: 
+                - text: 
+                - toolbar [ref=f274e290]:
+                  - button "Link" [ref=f274e291]:
+                    - generic [ref=f274e292]: 
+                  - button "Image" [ref=f274e293]:
+                    - generic [ref=f274e294]: 
+                  - text: 
+                  - button "Boxes" [ref=f274e295]
+                - toolbar [ref=f274e300]:
+                  - button "Replace" [ref=f274e301]:
+                    - generic [ref=f274e302]: 
+                - toolbar [ref=f274e304]:
+                  - button "Enable Binder" [ref=f274e305]
+                  - button "Insert Adapt" [ref=f274e307]
+                  - button "Query" [ref=f274e309]
+                  - button "Accessibility Checker" [ref=f274e312]
+                - toolbar [ref=f274e315]:
+                  - button "HTML" [ref=f274e316]:
+                    - generic [ref=f274e317]: 
+            - application "Rich Text Editor, editarea" [ref=f274e319]:
+              - iframe [active] [ref=f274e320]:
+                - generic [active] [ref=f276e1]:
+                  - heading "The Colors of Stars" [level=2] [ref=f276e2]
+                  - paragraph [ref=f276e3]:
+                    - text: Look at the beautiful picture of the stars in the Sagittarius Star Cloud shown in Figure 17.3. The stars show a multitude of colors, including red, orange, yellow, white, and blue. As we have seen, stars are not all the same color because they do not all have identical temperatures. To define
+                    - emphasis [ref=f276e4]: color
+                    - text: precisely, astronomers have devised quantitative methods for characterizing the color of a star and then using those colors to determine stellar temperatures. In the chapters that follow, we will provide the temperature of the stars we are describing, and this section tells you how those temperatures are determined from the colors of light the stars give off.
+                  - 'figure "Figure 17.3 : Sagittarius Star Cloud. This image, which was taken by the Hubble Space Telescope, shows stars in the direction toward the center of the Milky Way Galaxy. The bright stars glitter like colored jewels on a black velvet background. The color of a star indicates its temperature. Blue-white stars are much hotter than the Sun, whereas red stars are cooler. On average, the stars in this field are at a distance of about 25,000 light-years (which means it takes light 25,000 years to traverse the distance from them to us) and the width of the field is about 13.3 light-years. (credit: Hubble Heritage Team (AURA/STScI/NASA))" [ref=f276e5]':
+                    - img "Hubble Space Telescope image of the Sagittarius Star Cloud. The image shows many stars of various colors, white, blue, red and yellow spread over a black background. The most common star colors in this image are red and yellow." [ref=f276e7]
+                  - heading "Color and Temperature" [level=3] [ref=f276e9]
+                  - paragraph [ref=f276e10]: "As we learned in The Electromagnetic Spectrum section, Wien’s law relates stellar color to stellar temperature. Blue colors dominate the visible light output of very hot stars (with much additional radiation in the ultraviolet). On the other hand, cool stars emit most of their visible light energy at red wavelengths (with more radiation coming off in the infrared) (Table 17.1). The color of a star therefore provides a measure of its intrinsic or true surface temperature (apart from the effects of reddening by interstellar dust, which will be discussed in Between the Stars: Gas and Dust in Space). Color does not depend on the distance to the object. This should be familiar to you from everyday experience. The color of a traffic signal, for example, appears the same no matter how far away it is. If we could somehow take a star, observe it, and then move it much farther away, its apparent brightness (magnitude) would change. But this change in brightness is the same for all wavelengths, and so its color would remain the same."
+                  - table [ref=f276e11]:
+                    - caption [ref=f276e12]: "Table 17.1: Example Star Colors and Corresponding Approximate Temperatures"
+                    - rowgroup [ref=f276e13]:
+                      - row [ref=f276e14]:
+                        - columnheader "Star Color" [ref=f276e15]
+                        - columnheader "Approximate Temperature" [ref=f276e16]
+                        - columnheader "Example" [ref=f276e17]
+                    - rowgroup [ref=f276e18]:
+                      - row [ref=f276e19]:
+                        - cell "Blue" [ref=f276e20]
+                        - cell "25,000 K" [ref=f276e21]
+                        - cell "Spica" [ref=f276e22]
+                      - row [ref=f276e23]:
+                        - cell "White" [ref=f276e24]
+                        - cell "10,000 K" [ref=f276e25]
+                        - cell "Vega" [ref=f276e26]
+                      - row [ref=f276e27]:
+                        - cell "Yellow" [ref=f276e28]
+                        - cell "6000 K" [ref=f276e29]
+                        - cell "Sun" [ref=f276e30]
+                      - row [ref=f276e31]:
+                        - cell "Orange" [ref=f276e32]
+                        - cell "4000 K" [ref=f276e33]
+                        - cell "Aldebaran" [ref=f276e34]
+                      - row [ref=f276e35]:
+                        - cell "Red" [ref=f276e36]
+                        - cell "3000 K" [ref=f276e37]
+                        - cell "Betelgeuse" [ref=f276e38]
+                  - paragraph [ref=f276e39]: "The hottest stars have temperatures of over 40,000 K, and the coolest stars have temperatures of about 2000 K. Our Sun’s surface temperature is about 6000 K; its peak wavelength color is a slightly greenish-yellow. In space, the Sun would look white, shining with about equal amounts of reddish and bluish wavelengths of light. It looks somewhat yellow as seen from Earth’s surface because our planet’s nitrogen molecules scatter some of the shorter (i.e., blue) wavelengths out of the beams of sunlight that reach us, leaving more long wavelength light behind. This also explains why the sky is blue: the blue sky is sunlight scattered by Earth’s atmosphere."
+                  - heading "Color Indices" [level=3] [ref=f276e40]
+                  - paragraph [ref=f276e41]: In order to specify the exact color of a star, astronomers normally measure a star’s apparent brightness through filters, each of which transmits only the light from a particular narrow band of wavelengths (colors). A crude example of a filter in everyday life is a green-colored, plastic, soft drink bottle, which, when held in front of your eyes, lets only the green colors of light through.
+                  - paragraph [ref=f276e42]: "One commonly used set of filters in astronomy measures stellar brightness at three wavelengths corresponding to ultraviolet, blue, and yellow light. The filters are named: U (ultraviolet), B (blue), and V (visual, for yellow). These filters transmit light near the wavelengths of 360 nanometers (nm), 420 nm, and 540 nm, respectively. The brightness measured through each filter is usually expressed in magnitudes. The difference between any two of these magnitudes—say, between the blue and the visual magnitudes (B–V)—is called a color index."
+                  - paragraph [ref=f276e43]: By agreement among astronomers, the ultraviolet, blue, and visual magnitudes of the UBV system are adjusted to give a color index of 0 to a star with a surface temperature of about 10,000 K, such as Vega. The B–V color indexes of stars range from −0.4 for the bluest stars, with temperatures of about 40,000 K, to +2.0 for the reddest stars, with temperatures of about 2000 K. The B–V index for the Sun is about +0.65. Note that, by convention, the B–V index is always the “bluer” minus the “redder” color.
+                  - paragraph [ref=f276e44]: Why use a color index if it ultimately implies temperature? Because the brightness of a star through a filter is what astronomers actually measure, and we are always more comfortable when our statements have to do with measurable quantities.
+                  - paragraph [ref=f276e45]: As you look up at the sky at night, you might notice stars are not all white in color. If you happen to look up at a winter sky, you will be greeted by the blue-white Dog Star Sirius in the constellation Canis Major. And nearby is the reddish star Betelgeuse in Orion the Hunter. Contrast these colors to that of our yellow Sun.
+                  - paragraph [ref=f276e46]:
+                    - text: Yet star color is an important indicator for astronomers; the color is an indication of a
+                    - strong [ref=f276e47]: star’s surface temperature
+                    - text: at its
+                    - strong [ref=f276e48]: photosphere
+                    - text: . A star’s
+                    - strong [ref=f276e49]: photosphere temperature
+                    - text: dictates its
+                    - strong [ref=f276e50]: color
+                    - text: . It turns out that the hotter stars are
+                    - strong [ref=f276e51]: whiter
+                    - text: and
+                    - strong [ref=f276e52]: cooler
+                    - text: stars are redder. This is exactly what we observe around us. If you heat a piece of metal, you will note that the hotter metal glows what we call “a white hot. ” As the metal cools, it becomes orange and then red. It is still hot if it is red, it is just not as hot as the white-hot metal. Stars are the same.
+                  - paragraph [ref=f276e53]:
+                    - text: We classify stars by their colors and thus their
+                    - strong [ref=f276e54]: photosphere temperatures
+                    - text: . This is called a star’s
+                    - strong [ref=f276e55]: Spectral Type
+                    - text: . Stars are categorized by their spectral types. This categorization was first done
+                    - generic [ref=f276e56]:
+                      - text: by
+                      - strong [ref=f276e57]: Father
+                    - strong [ref=f276e58]: Angelo Secchi
+                    - text: in the 1860s and 1870s. In the 1880s at Harvard University,
+                    - strong [ref=f276e59]: Edward Pickering
+                    - text: observed and recorded stellar spectra and
+                    - strong [ref=f276e60]: Williamina Fleming
+                    - text: classified Pickering’s spectra with a system of letters.
+                  - paragraph [ref=f276e61]:
+                    - text: In 1901, Harvard astronomer
+                    - strong [ref=f276e62]: Annie Jump Cannon
+                    - text: revised the various classifications to give us our more-modern Spectral Types interpretation. One of the final notes in this all-important classification system was
+                    - strong [ref=f276e63]: Cecilia Payne Gaposchkin’s
+                    - text: 1925 doctoral dissertation, where she showed that spectral types were a sequence in stellar photosphere temperatures.
+                  - paragraph [ref=f276e64]:
+                    - text: Harvard astronomer
+                    - strong [ref=f276e65]: Henry Norris Russell
+                    - text: was concerned about Payne Gaposchkin’s dissertation conclusion that the Sun was primarily composed of hydrogen. This contradicted the theory at the time of the publication of her doctoral dissertation — that Earth could be so different than the Sun. Later, Russell came to the same conclusion, published his own paper, and barely mentioned Payne Gaposchkin’s work. Russell is often given credit for this discovery, even though it was not originally his work for which to receive credit.
+                  - paragraph [ref=f276e66]:
+                    - text: Look at the beautiful picture of the stars in the Sagittarius Star Cloud shown in Figure 17.3. The stars show a multitude of colors, including red, orange, yellow, white, and blue. As we have seen, stars are not all the same color because they do not all have identical temperatures. To define
+                    - emphasis [ref=f276e67]: color
+                    - text: precisely, astronomers have devised quantitative methods for characterizing the color of a star and then using those colors to determine stellar temperatures. In the chapters that follow, we will provide the temperature of the stars we are describing, and this section tells you how those temperatures are determined from the colors of light the stars give off.
+                  - heading "Further Exploration" [level=2] [ref=f276e68]
+                  - paragraph [ref=f276e69]:
+                    - text: Go to this
+                    - link "interactive simulation from the University of Colorado" [ref=f276e70]:
+                      - /url: https://openstax.org/l/30UofCsimstar
+                    - text: to see the color of a star changing as the temperature is changed.
+              - generic [ref=f274e321]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f274e323] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f274e103]:
+          - separator [ref=f274e104]
+          - paragraph [ref=f274e106]:
+            - text: This page titled
+            - 'link "9.2: Colors of Stars" [ref=f274e107] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.02%3A_Colors_of_Stars
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f274e108] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f274e109] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f274e110] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f274e111]:
+        - list [ref=f274e112]:
+          - listitem [ref=f274e113]:
+            - link "Back to top" [ref=f274e114] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f274e115]:
+            - list [ref=f274e116]:
+              - listitem [ref=f274e117]:
+                - 'link " 9.1: Stellar Census" [ref=f274e118] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.01%3A_Stellar_Census
+                  - text: 
+                  - generic [ref=f274e119]: "9.1: Stellar Census"
+              - listitem [ref=f274e120]:
+                - 'link "9.3: Measuring Stellar Masses, Binary Stars " [ref=f274e121] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.03%3A_Measuring_Stellar_Masses_Binary_Stars
+                  - generic [ref=f274e122]: "9.3: Measuring Stellar Masses, Binary Stars"
+                  - text: 
+        - list [ref=f274e125]:
+          - listitem [ref=f274e126]: Was this article helpful?
+          - listitem [ref=f274e127]:
+            - button "Yes" [ref=f274e128] [cursor=pointer]
+          - listitem [ref=f274e129]:
+            - button "No" [ref=f274e130] [cursor=pointer]
+          - listitem [ref=f274e131]:
+            - button "Leave feedback" [ref=f274e132] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , ,"
+        - generic [ref=f274e133]:
+          - heading "Attachments" [level=2] [ref=f274e134]
+          - generic:
+            - button "Attach a file" [ref=f274e135] [cursor=pointer]
+            - text: 
+          - generic [ref=f274e137]:
+            - generic [ref=f274e140]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f274e141]
+            - generic [ref=f274e142]:
+              - grid [ref=f274e145]:
+                - rowgroup [ref=f274e146]:
+                  - row [ref=f274e147]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f274e148]':
+                      - generic:
+                        - generic [ref=f274e149]: File
+                        - generic [ref=f274e150]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f274e151]':
+                      - generic:
+                        - generic [ref=f274e152]: Last modified
+                        - generic [ref=f274e153]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f274e154]':
+                      - generic:
+                        - generic [ref=f274e155]: Size
+                        - generic [ref=f274e156]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f274e157]':
+                      - generic:
+                        - generic [ref=f274e158]: Added by
+                        - generic [ref=f274e159]: 
+              - grid [ref=f274e161]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f274e162]: File
+                          - generic [ref=f274e163]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f274e164]: Last modified
+                          - generic [ref=f274e165]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f274e166]: Size
+                          - generic [ref=f274e167]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f274e168]: Added by
+                          - generic [ref=f274e169]: 
+                - rowgroup [ref=f274e170]:
+                  - row [ref=f274e171]:
+                    - gridcell "No files attached." [ref=f274e172]
+    - generic [ref=f274e174]:
+      - button "Open support menu" [ref=f274e176] [cursor=pointer]: "?"
+      - navigation [ref=f274e178]:
+        - paragraph [ref=f274e180]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f274e181] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f274e182] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f274e183] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f274e184] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f274e185] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f274e186]:
+      - generic:
+        - generic [ref=f274e188]:
+          - button "Annotation sidebar" [ref=f274e189]
+          - generic [ref=f274e194]:
+            - button "Show highlights" [ref=f274e195]
+            - button "New page note" [ref=f274e200]
+          - status [ref=f274e205]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f274e206]:
+    - button "contents" [ref=f274e207] [cursor=pointer]
+    - button "readability" [ref=f274e209] [cursor=pointer]
+    - button "resources" [ref=f274e211] [cursor=pointer]
+    - button "tools" [ref=f274e213] [cursor=pointer]
+    - button "developers" [ref=f274e215] [cursor=pointer]
+  - text:  
+  - generic [ref=f274e324]:
+    - generic [ref=f274e325] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f274e328] [cursor=pointer]

@@ -1,0 +1,319 @@
+- generic [ref=f205e1]:
+  - link "Skip to main content" [ref=f205e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f205e3]:
+    - text: 
+    - generic [ref=f205e4]:
+      - generic [ref=f205e5]:
+        - generic: ✕
+        - navigation [ref=f205e7]:
+          - generic [ref=f205e8]:
+            - link [ref=f205e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f205e11]
+            - button "Enter Reader Mode" [ref=f205e13] [cursor=pointer]:
+              - generic [ref=f205e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f205e16]:
+        - list [ref=f205e18]:
+          - listitem [ref=f205e19]:
+            - link [ref=f205e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f205e22]
+          - listitem [ref=f205e23]:
+            - text: 
+            - generic [ref=f205e25]:
+              - generic [ref=f205e26]: "Search :"
+              - searchbox "Search :" [ref=f205e27]
+              - button " Search" [ref=f205e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f205e29]:
+            - list [ref=f205e30]:
+              - listitem [ref=f205e31]:
+                - link "Edit" [ref=f205e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.01%3A_Thermal_and_Gravitational_Energy?action=edit
+              - text: 
+              - listitem [ref=f205e33]:
+                - link " Options" [ref=f205e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f205e35]:
+                - link " Rachel Mastrapa" [ref=f205e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f205e37]:
+        - generic:
+          - button " Contents" [ref=f205e207] [cursor=pointer]
+          - list [ref=f205e39]:
+            - listitem [ref=f205e40]:
+              - link " Home" [ref=f205e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f205e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f205e43]:
+              - link " Workbench" [ref=f205e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f205e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f205e46]:
+              - link " De Anza - ASTR10" [ref=f205e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f205e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f205e49]:
+              - 'link " 7: Powering the Stars" [ref=f205e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars
+                - generic [ref=f205e51]: 
+                - text: "7: Powering the Stars"
+              - text: »
+            - listitem [ref=f205e52]:
+              - generic [ref=f205e53]: 
+              - text: "7.1: Thermal and Gravitational Energy"
+          - button " Expand/collapse global location" [ref=f205e54] [cursor=pointer]
+      - navigation:
+        - generic:                                              
+    - article [ref=f205e55]:
+      - generic [ref=f205e56]:
+        - generic [ref=f205e57]:
+          - button " Page settings" [ref=f205e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "7.1: Thermal and Gravitational Energy" [level=1] [ref=f205e59]':
+          - generic [ref=f205e60]: "7.1: Thermal and Gravitational Energy "
+        - list [ref=f205e62]:
+          - listitem [ref=f205e63]:
+            - link [ref=f205e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f205e66]:
+                - img "CC" [ref=f205e67]
+                - img "BY" [ref=f205e68]
+          - listitem [ref=f205e69]:
+            - generic [ref=f205e70]:
+              - term [ref=f205e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f205e72]: Dec 23, 2025, 2:36 PM by Rachel Mastrapa
+          - listitem [ref=f205e73]:
+            - generic [ref=f205e74]:
+              - term [ref=f205e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f205e76]: Private
+          - listitem [ref=f205e77]:
+            - generic [ref=f205e78]:
+              - term [ref=f205e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f205e80]: "132288"
+          - listitem [ref=f205e81]:
+            - list [ref=f205e82]:
+              - listitem [ref=f205e83]:
+                - button "Pin Page" [ref=f205e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f205e85]:
+                - list [ref=f205e86]:
+                  - listitem [ref=f205e87]:
+                    - 'link " 7: Powering the Stars" [ref=f205e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars
+                      - text: 
+                      - generic [ref=f205e89]: "7: Powering the Stars"
+                  - listitem [ref=f205e90]:
+                    - 'link "7.2: Mass, Energy, and the Theory of Relativity " [ref=f205e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.02%3A_Mass_Energy_and_the_Theory_of_Relativity
+                      - generic [ref=f205e92]: "7.2: Mass, Energy, and the Theory of Relativity"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f205e93]:
+        - group [ref=f205e210]:
+          - generic [ref=f205e211]:
+            - generic [ref=f205e212]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f205e213]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f205e214]:
+            - generic [ref=f205e217]:
+              - generic [ref=f205e219]:
+                - link "Edit" [ref=f205e220]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f205e221]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f205e222]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f205e223]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f205e224]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f205e225]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f205e228]:
+                - toolbar [ref=f205e229]:
+                  - button "Save" [ref=f205e230]:
+                    - generic [ref=f205e231]: 
+                  - button "Cancel" [ref=f205e233]:
+                    - generic [ref=f205e234]: 
+                - text:          
+                - toolbar [ref=f205e275]:
+                  - button "Alignment" [ref=f205e276]:
+                    - generic [ref=f205e277]: 
+                - text:    
+                - toolbar [ref=f205e290]:
+                  - button "Replace" [ref=f205e291]:
+                    - generic [ref=f205e292]: 
+                - toolbar [ref=f205e294]:
+                  - button "Enable Binder" [disabled] [ref=f205e295]
+                  - button "Insert Adapt" [disabled] [ref=f205e297]
+                  - button "Query" [ref=f205e299]
+                  - button "Accessibility Checker" [disabled] [ref=f205e302]
+                - toolbar [ref=f205e305]:
+                  - button "Visual" [pressed] [ref=f205e341]:
+                    - generic [ref=f205e307]: 
+            - application "Rich Text Editor, editarea" [ref=f205e309]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f205e343]: "<section class=\"box-objectives\"> <h5 class=\"box-legend lt-phys-64751\"><span class=\"lt-icon-default\">Learning Objectives</span></h5> <p class=\"lt-phys-64751\">By the end of this section, you will be able to:</p> <ul> <li class=\"lt-phys-64751\">Identify different forms of energy</li> <li class=\"lt-phys-64751\">Understand the law of conservation of energy</li> <li class=\"lt-phys-64751\">Explain ways that energy can be transformed</li> </ul> </section> <p class=\"lt-phys-64751\">Energy is a challenging concept to grasp because it exists in so many different forms that it defies any single simple explanation. In many ways, comprehending energy is like comprehending wealth: There are very different forms of wealth and they follow different rules, depending on if they are the stock market, real estate, a collection of old comic books, great piles of cash, or one of the many other ways to make and lose money. It is easier to discuss one or two forms of wealth—or energy—than to discuss that concept in general.</p> <p class=\"lt-phys-64751\">When striving to understand how the <span class=\"no-emphasis\" data-type=\"term\" group-by=\"S\">Sun</span> can put out so much energy for so long, scientists considered many different types of energy. Nineteenth-century scientists knew of two possible sources for the Sun’s energy: chemical and gravitational energy. The source of chemical energy most familiar to them was the burning (the chemical term is <em data-effect=\"italics\">oxidation</em>) of wood, coal, gasoline, or other fuel. We know exactly how much energy the burning of these materials can produce. We can thus calculate that even if the immense mass of the Sun consisted of a burnable material like coal or wood, our star could not produce energy at its present rate for more than few thousand years. However, we know from geologic evidence that water was present on Earth’s surface nearly 4 billion years ago, so the Sun must have been shining brightly (and making Earth warm) at least as long as that. Today, we also know that at the temperatures found in the Sun, nothing like solid wood or coal could survive.</p> <div class=\"box-note\"> <h5 class=\"box-legend lt-phys-64751\"><span class=\"lt-icon-default\">Astronomy Basics: What’s Watt?</span></h5> <p class=\"lt-phys-64751\">Just a word about the units we are using. A <span class=\"no-emphasis\" data-type=\"term\" group-by=\"w\">watt</span> (W) is a unit of <em data-effect=\"italics\">power</em>, which is energy used or given off per unit time. It is measured in joules per second (J/s). You know from your everyday experience that it is not just <em data-effect=\"italics\">how much</em> energy you expend, but <em data-effect=\"italics\">how long</em> you take to do it. (Burning 10 Calories in 10 minutes requires a very different kind of exercise than burning those 10 Calories in an hour.) Watts tell you the <em data-effect=\"italics\">rate</em> at which energy is being used; for example, a 100-watt bulb uses 100 joules (J) of energy every second.</p> <p class=\"lt-phys-64751\">And how big is a joule? A 73-kilogram (160-pound) astronomy instructor running at about 4.4 meters per second (10 miles per hour) because he is late for class has a motion energy of about 700 joules.</p> </div> <h3 class=\"lt-phys-64751\">Conservation of Energy</h3> <p class=\"lt-phys-64751\">Other nineteenth-century attempts to determine what makes the Sun shine used the <span class=\"no-emphasis\" data-type=\"term\" group-by=\"l\">law of conservation of energy</span>. Simply stated, this law says that energy cannot be created or destroyed, but can be transformed from one type to another, such as from heat to mechanical energy. The steam engine, which was key to the Industrial Revolution, provides a good example. In this type of engine, the hot steam from a boiler drives the movement of a piston, converting heat energy into motion energy.</p> <p class=\"lt-phys-64751\">Conversely, motion can be transformed into heat. If you clap your hands vigorously at the end of an especially good astronomy lecture, your palms become hotter. If you rub ice on the surface of a table, the heat produced by friction melts the ice. The brakes on cars use friction to reduce speed, and in the process, transform motion energy into heat energy. That is why after bringing a car to a stop, the brakes can be very hot; this also explains why brakes can overheat when used carelessly while descending long mountain roads.</p> <p class=\"lt-phys-64751\">In the nineteenth century, scientists thought that the source of the Sun’s heat might be the mechanical motion of meteorites falling into it. Their calculations showed, however, that in order to produce the total amount of energy emitted by the Sun, the mass in meteorites that would have to fall into the Sun every 100 years would equal the mass of Earth. The resulting increase in the Sun’s mass would, according to Kepler’s third law, change the period of Earth’s orbit by 2 seconds per year. Such a change would be easily measurable and was not, in fact, occurring. Scientists could then disprove this as the source of the Sun’s energy.</p> <h3 class=\"lt-phys-64751\">Gravitational Contraction as a Source of Energy</h3> <p class=\"lt-phys-64751\">Proposing an alternative explanation, British physicist Lord <span class=\"no-emphasis\" data-type=\"term\" group-by=\"K\">Kelvin</span> and German scientist Hermann von Helmholtz (Figure 16.2), in about the middle of the nineteenth century, proposed that the Sun might produce energy by the conversion of <span class=\"no-emphasis\" data-type=\"term\" group-by=\"g\">gravitational energy</span> into heat. They suggested that the outer layers of the Sun might be “falling” inward because of the force of gravity. In other words, they proposed that the Sun could be shrinking in size, staying hot and bright as a result.</p> <figure><span data-alt=\"Left: photograph of William Thomson (Lord Kelvin). Right: photograph of Hermann von Helmholtz.\" data-type=\"media\"><img alt=\"Left: photograph of William Thomson (Lord Kelvin). Right: photograph of Hermann von Helmholtz.\" data-media-type=\"image/jpeg\" src=\"/@api/deki/files/46096/5c3f612b388bdfd7e8a2b914e5f60f3bf03765b0\" /> </span> <figcaption>Figure 16.2 : Kelvin (1824–1907) and Helmholtz (1821–1894). (a) British physicist William Thomson (Lord Kelvin) and (b) German scientist Hermann von Helmholtz proposed that the contraction of the Sun under its own gravity might account for its energy. (credit a: modification of work by Wellcome Library, London; credit b: modification of work by Wellcome Library, London)</figcaption> </figure> <p class=\"lt-phys-64751\">To imagine what would happen if this hypothesis were true, picture the outer layer of the Sun starting to fall inward. This outer layer is a gas made up of individual atoms, all moving about in random directions. If a layer falls inward, the atoms acquire an additional speed because of falling motion. As the outer layer falls inward, it also contracts, moving the atoms closer together. Collisions become more likely, and some of them transfer the extra speed associated with the falling motion to other atoms. This, in turn, increases the speeds of those atoms. The temperature of a gas is a measure of the kinetic energy (motion) of the atoms within it; hence, the temperature of this layer of the Sun increases. Collisions also excite electrons within the atoms to higher-energy orbits. When these electrons return to their normal orbits, they emit photons, which can then escape from the Sun (see Radiation and Spectra).</p> <p class=\"lt-phys-64751\">Kelvin and Helmholtz calculated that a contraction of the Sun at a rate of only about 40 meters per year would be enough to produce the amount of energy that it is now radiating. Over the span of human history, the decrease in the Sun’s size from such a slow contraction would be undetectable.</p> <p class=\"lt-phys-64751\">If we assume that the Sun began its life as a large, diffuse cloud of gas, then we can calculate how much energy has been radiated by the Sun during its entire lifetime as it has contracted from a very large diameter to its present size. The amount of energy is on the order of 10<sup>42</sup> joules. Since the solar luminosity is <math display=\"inline\"><semantics><mrow><mrow><mn>4</mn><mo>×</mo><msup><mn>10</mn><mn>26</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><mn>4</mn><mo>×</mo><msup><mn>10</mn><mn>26</mn></msup></mrow></annotation-xml></semantics></math> watts (joules/second) or about <math display=\"inline\"><semantics><mrow><mrow><msup><mn>10</mn><mn>34</mn></msup></mrow></mrow><annotation-xml encoding=\"MathML-Content\"><mrow><msup><mn>10</mn><mn>34</mn></msup></mrow></annotation-xml></semantics></math> joules per year, contraction could keep the Sun shining at its present rate for roughly 100 million years.</p> <p class=\"lt-phys-64751\">In the nineteenth century, 100 million years at first seemed plenty long enough, since Earth was then widely thought to be much younger than this. But toward the end of that century and into the twentieth, geologists and physicists showed that Earth (and, hence, the Sun) is actually much older. Contraction therefore cannot be the primary source of solar energy (although, as we shall see in The Birth of Stars and the Discovery of Planets Outside the Solar System, contraction is an important source of energy for a while in stars that are just being born). Scientists were thus confronted with a puzzle of enormous proportions. Either an unknown type of energy was responsible for the most important energy source known to humanity, or estimates of the age of the solar system (and life on Earth) had to be seriously modified. Charles Darwin, whose theory of evolution required a longer time span than the theories of the Sun seemed to permit, was discouraged by these results and continued to worry about them until his death in 1882.</p> <p class=\"lt-phys-64751\">It was only in the twentieth century that the true source of the Sun’s energy was identified. The two key pieces of information required to solve the puzzle were the structure of the nucleus of the atom and the fact that mass can be converted into energy.</p> <p>&nbsp;</p>"
+              - generic [ref=f205e311]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f205e313] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f205e95]:
+          - separator [ref=f205e96]
+          - paragraph [ref=f205e98]:
+            - 'link "7.1: Thermal and Gravitational Energy" [ref=f205e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.01%3A_Thermal_and_Gravitational_Energy
+            - text: is shared under a
+            - link "CC BY" [ref=f205e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f205e101]:
+        - list [ref=f205e102]:
+          - listitem [ref=f205e103]:
+            - link "Back to top" [ref=f205e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f205e105]:
+            - list [ref=f205e106]:
+              - listitem [ref=f205e107]:
+                - 'link " 7: Powering the Stars" [ref=f205e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars
+                  - text: 
+                  - generic [ref=f205e109]: "7: Powering the Stars"
+              - listitem [ref=f205e110]:
+                - 'link "7.2: Mass, Energy, and the Theory of Relativity " [ref=f205e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/07%3A_Powering_the_Stars/7.02%3A_Mass_Energy_and_the_Theory_of_Relativity
+                  - generic [ref=f205e112]: "7.2: Mass, Energy, and the Theory of Relativity"
+                  - text: 
+        - list [ref=f205e115]:
+          - listitem [ref=f205e116]: Was this article helpful?
+          - listitem [ref=f205e117]:
+            - button "Yes" [ref=f205e118] [cursor=pointer]
+          - listitem [ref=f205e119]:
+            - button "No" [ref=f205e120] [cursor=pointer]
+          - listitem [ref=f205e121]:
+            - button "Leave feedback" [ref=f205e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f205e123]:
+          - heading "Attachments" [level=2] [ref=f205e124]
+          - generic:
+            - button "Attach a file" [ref=f205e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f205e127]:
+            - generic [ref=f205e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f205e131]
+            - generic [ref=f205e132]:
+              - grid [ref=f205e135]:
+                - rowgroup [ref=f205e136]:
+                  - row [ref=f205e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f205e138]':
+                      - generic:
+                        - generic [ref=f205e139]: File
+                        - generic [ref=f205e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f205e141]':
+                      - generic:
+                        - generic [ref=f205e142]: Last modified
+                        - generic [ref=f205e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f205e144]':
+                      - generic:
+                        - generic [ref=f205e145]: Size
+                        - generic [ref=f205e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f205e147]':
+                      - generic:
+                        - generic [ref=f205e148]: Added by
+                        - generic [ref=f205e149]: 
+              - grid [ref=f205e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f205e314]: File
+                          - generic [ref=f205e315]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f205e316]: Last modified
+                          - generic [ref=f205e317]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f205e318]: Size
+                          - generic [ref=f205e319]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f205e320]: Added by
+                          - generic [ref=f205e321]: 
+                - rowgroup [ref=f205e160]:
+                  - row [ref=f205e322]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f205e323]:
+                      - generic [ref=f205e324]:
+                        - generic [ref=f205e325]:
+                          - generic [ref=f205e326]: 
+                          - link "mindtouch.page#thumbnail" [ref=f205e327] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63439/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f205e328]:
+                          - generic [ref=f205e329]: (no description)
+                          - text: 
+                    - gridcell "Dec 7, 2025, 7:20 PM" [ref=f205e330]
+                    - gridcell "11 KiB" [ref=f205e332]
+                    - gridcell "Rachel Mastrapa" [ref=f205e333]
+    - generic [ref=f205e164]:
+      - button "Open support menu" [ref=f205e166] [cursor=pointer]: "?"
+      - navigation [ref=f205e168]:
+        - paragraph [ref=f205e170]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f205e171] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f205e172] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f205e173] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f205e174] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f205e175] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f205e176]:
+      - generic:
+        - generic [ref=f205e178]:
+          - button "Annotation sidebar" [ref=f205e179]
+          - generic [ref=f205e184]:
+            - button "Show highlights" [ref=f205e185]
+            - button "New page note" [ref=f205e190]
+          - status [ref=f205e195]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f205e196]:
+    - button "contents" [ref=f205e197] [cursor=pointer]
+    - button "readability" [ref=f205e199] [cursor=pointer]
+    - button "resources" [ref=f205e201] [cursor=pointer]
+    - button "tools" [ref=f205e203] [cursor=pointer]
+    - button "developers" [ref=f205e205] [cursor=pointer]
+  - text:  
+  - generic [ref=f205e334]:
+    - generic [ref=f205e335] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f205e338] [cursor=pointer]

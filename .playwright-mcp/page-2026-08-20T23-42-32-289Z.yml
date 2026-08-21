@@ -1,0 +1,69 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - generic: ✕
+        - navigation [ref=e7]:
+          - generic [ref=e8]:
+            - link [ref=e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=e11]
+            - button "Enter Reader Mode" [ref=e13] [cursor=pointer]:
+              - generic [ref=e14]: chrome_reader_mode
+      - navigation [ref=e16]:
+        - list [ref=e18]:
+          - listitem [ref=e19]:
+            - link [ref=e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=e22]
+          - listitem [ref=e23]:
+            - text: 
+            - generic [ref=e25]:
+              - generic [ref=e26]: "Search :"
+              - searchbox "Search :" [ref=e27]
+              - button " Search" [ref=e28] [cursor=pointer]
+            - link "Go back to previous article" [ref=e30] [cursor=pointer]:
+              - /url: "#"
+          - listitem
+      - text:  »  
+      - navigation
+    - article [ref=e31]:
+      - generic [ref=e32]:
+        - generic [ref=e35]:
+          - button "Close message" [ref=e36] [cursor=pointer]
+          - generic [ref=e37]:
+            - text: 
+            - list [ref=e38]:
+              - listitem [ref=e39]: You do not have permission to view this page - please try signing in.
+        - heading "Sign in" [level=1] [ref=e40]
+      - text: 
+      - generic [ref=e43]:
+        - list [ref=e44]:
+          - listitem [ref=e45] [cursor=pointer]:
+            - link "Sign in" [ref=e46]:
+              - /url: "#"
+        - generic [ref=e48]:
+          - paragraph [ref=e49]: Welcome to the LibreTexts library. For other users, please log in with LibreOne.
+          - link "Log in with LibreOne" [ref=e51] [cursor=pointer]:
+            - /url: https://phys.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fphys.libretexts.org%2FSpecial%3AUserlogin
+    - generic [ref=e53]:
+      - button "Open support menu" [ref=e55] [cursor=pointer]: "?"
+      - navigation [ref=e57]:
+        - paragraph [ref=e59]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=e60] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=e61] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=e62] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=e63] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=e64] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .

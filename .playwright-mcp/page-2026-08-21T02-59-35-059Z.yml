@@ -1,0 +1,317 @@
+- generic [ref=f541e1]:
+  - link "Skip to main content" [ref=f541e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f541e3]:
+    - text: 
+    - generic [ref=f541e4]:
+      - generic [ref=f541e5]:
+        - generic: ✕
+        - navigation [ref=f541e7]:
+          - generic [ref=f541e8]:
+            - link [ref=f541e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f541e11]
+            - button "Enter Reader Mode" [ref=f541e13] [cursor=pointer]:
+              - generic [ref=f541e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f541e16]:
+        - list [ref=f541e18]:
+          - listitem [ref=f541e19]:
+            - link [ref=f541e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f541e22]
+          - listitem [ref=f541e23]:
+            - text: 
+            - generic [ref=f541e25]:
+              - generic [ref=f541e26]: "Search :"
+              - searchbox "Search :" [ref=f541e27]
+              - button " Search" [ref=f541e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f541e29]:
+            - list [ref=f541e30]:
+              - listitem [ref=f541e31]:
+                - link "Edit" [ref=f541e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.07%3A_Key_Terms?action=edit
+              - text: 
+              - listitem [ref=f541e33]:
+                - link " Options" [ref=f541e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f541e35]:
+                - link " Rachel Mastrapa" [ref=f541e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f541e37]:
+        - generic:
+          - button " Contents" [ref=f541e210] [cursor=pointer]
+          - list [ref=f541e39]:
+            - listitem [ref=f541e40]:
+              - link " Home" [ref=f541e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f541e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f541e43]:
+              - link " Workbench" [ref=f541e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f541e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f541e46]:
+              - link " De Anza - ASTR10" [ref=f541e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f541e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f541e49]:
+              - 'link " 17: Evolution of Galaxies" [ref=f541e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies
+                - generic [ref=f541e51]: 
+                - text: "17: Evolution of Galaxies"
+              - text: »
+            - listitem [ref=f541e52]:
+              - generic [ref=f541e53]: 
+              - text: "17.7: Key Terms"
+          - text: 
+      - navigation:
+        - generic:                                                
+    - article [ref=f541e54]:
+      - generic [ref=f541e55]:
+        - generic [ref=f541e56]:
+          - button " Page settings" [ref=f541e57] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "17.7: Key Terms" [level=1] [ref=f541e58]':
+          - generic [ref=f541e59]: "17.7: Key Terms "
+        - list [ref=f541e61]:
+          - listitem:
+            - generic:
+              - link:
+                - /url: "#"
+          - listitem [ref=f541e62]:
+            - generic [ref=f541e63]:
+              - term [ref=f541e64] [cursor=pointer]: "Last updated:"
+              - definition [ref=f541e65]: Aug 19, 2026, 12:27 PM by Rachel Mastrapa
+          - listitem [ref=f541e66]:
+            - generic [ref=f541e67]:
+              - term [ref=f541e68] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f541e69]: Private
+          - listitem [ref=f541e70]:
+            - generic [ref=f541e71]:
+              - term [ref=f541e72] [cursor=pointer]: "Page ID:"
+              - definition [ref=f541e73]: "140413"
+          - listitem [ref=f541e74]:
+            - list [ref=f541e75]:
+              - listitem [ref=f541e76]:
+                - button "Pin Page" [ref=f541e77] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f541e78]:
+                - list [ref=f541e79]:
+                  - listitem [ref=f541e80]:
+                    - 'link " 17.6: Art and Astronomy" [ref=f541e81] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.06%3A_Art_and_Astronomy
+                      - text: 
+                      - generic [ref=f541e82]: "17.6: Art and Astronomy"
+                  - listitem [ref=f541e83]:
+                    - 'link "17.8: Accessible Descriptions " [ref=f541e84] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions
+                      - generic [ref=f541e85]: "17.8: Accessible Descriptions"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f541e86]:
+        - group [ref=f541e213]:
+          - generic [ref=f541e214]:
+            - generic [ref=f541e215]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f541e216]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f541e217]:
+            - generic [ref=f541e220]:
+              - generic [ref=f541e222]:
+                - link "Edit" [ref=f541e223]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f541e224]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f541e225]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f541e226]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f541e227]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f541e228]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f541e231]:
+                - toolbar [ref=f541e232]:
+                  - button "Save" [ref=f541e233]:
+                    - generic [ref=f541e234]: 
+                  - button "Cancel" [ref=f541e236]:
+                    - generic [ref=f541e237]: 
+                - text:          
+                - toolbar [ref=f541e278]:
+                  - button "Alignment" [ref=f541e279]:
+                    - generic [ref=f541e280]: 
+                - text:    
+                - toolbar [ref=f541e293]:
+                  - button "Replace" [ref=f541e294]:
+                    - generic [ref=f541e295]: 
+                - toolbar [ref=f541e297]:
+                  - button "Enable Binder" [disabled] [ref=f541e298]
+                  - button "Insert Adapt" [disabled] [ref=f541e300]
+                  - button "Query" [ref=f541e302]
+                  - button "Accessibility Checker" [disabled] [ref=f541e305]
+                - toolbar [ref=f541e308]:
+                  - button "Visual" [pressed] [ref=f541e324]:
+                    - generic [ref=f541e310]: 
+            - application "Rich Text Editor, editarea" [ref=f541e312]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f541e326]: "<ul> <li><a id=\"cold_dark_matter\" name=\"cold_dark_matter\"><strong>cold dark matter</strong></a>: slow-moving massive particles, not yet identified, that don't absorb, emit, or reflect light or other electromagnetic radiation</li> <li><a id=\"cosmological_principle\" name=\"cosmological_principle\"><strong>cosmological principle</strong></a>: the assumption that, on the large scale, the universe at any given time is the same everywhere—isotropic and homogeneous</li> <li><a id=\"dark_energy\" name=\"dark_energy\"><strong>dark energy</strong></a>: an energy that is causing the expansion of the universe to accelerate; the source of this energy is not yet understood</li> <li><a id=\"evolution_of_galaxies\" name=\"evolution_of_galaxies\"><strong>evolution (of galaxies)</strong></a>: changes in individual galaxies over cosmic time, inferred by observing snapshots of many different galaxies at different times in their lives</li> <li><a id=\"galactic_cannibalism\" name=\"galactic_cannibalism\"><strong>galactic cannibalism</strong></a>: a process by which a larger galaxy strips material from or completely swallows a smaller one</li> <li><a id=\"homogeneous\" name=\"homogeneous\"><strong>homogeneous</strong></a>: having a consistent and even distribution of matter that is the same everywhere</li> <li><a id=\"hot_dark_matter\" name=\"hot_dark_matter\"><strong>hot dark matter</strong></a>: massive particles, not yet identified, that don't absorb, emit, or reflect light or other electromagnetic radiation; hot dark matter is faster-moving material than cold dark matter</li> <li><a id=\"isotropic\" name=\"isotropic\"><strong>isotropic</strong></a>: the same in all directions</li> <li><a id=\"local_group\" name=\"local_group\"><strong>Local Group</strong></a>: a small cluster of galaxies to which our Galaxy belongs</li> <li><a id=\"merger\" name=\"merger\"><strong>merger</strong></a>: a collision between galaxies (of roughly comparable size) that combine to form a single new structure</li> <li><a id=\"quasar\" name=\"quasar\"><strong>quasar</strong></a>: a distant, point-like energy source originating from a powerful active galactic nucleus. Its luminosity is generated by the accretion of gas onto a supermassive black hole</li> <li><a id=\"starburst\" name=\"starburst\"><strong>starburst</strong></a>: a galaxy or merger of multiple galaxies that turns gas into stars much faster than usual</li> <li><a id=\"supercluster\" name=\"supercluster\"><strong>supercluster</strong></a>: a large region of space (more than 100 million light-years across) where groups and clusters of galaxies are more concentrated; a cluster of clusters of galaxies</li> <li><a id=\"void\" name=\"void\"><strong>void</strong></a>: a region between clusters and superclusters of galaxies that appears relatively empty of galaxies</li> </ul>"
+              - generic [ref=f541e314]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f541e316] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f541e88]:
+          - separator [ref=f541e89]
+          - paragraph [ref=f541e91]:
+            - 'link "17.7: Key Terms" [ref=f541e92] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.07%3A_Key_Terms
+            - text: is shared under a
+            - link "not declared" [ref=f541e93] [cursor=pointer]:
+              - /url: ""
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f541e94]:
+        - list [ref=f541e95]:
+          - listitem [ref=f541e96]:
+            - link "Back to top" [ref=f541e97] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f541e98]:
+            - list [ref=f541e99]:
+              - listitem [ref=f541e100]:
+                - 'link " 17.6: Art and Astronomy" [ref=f541e101] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.06%3A_Art_and_Astronomy
+                  - text: 
+                  - generic [ref=f541e102]: "17.6: Art and Astronomy"
+              - listitem [ref=f541e103]:
+                - 'link "17.8: Accessible Descriptions " [ref=f541e104] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.08%3A_Accessible_Descriptions
+                  - generic [ref=f541e105]: "17.8: Accessible Descriptions"
+                  - text: 
+        - list [ref=f541e108]:
+          - listitem [ref=f541e109]: Was this article helpful?
+          - listitem [ref=f541e110]:
+            - button "Yes" [ref=f541e111] [cursor=pointer]
+          - listitem [ref=f541e112]:
+            - button "No" [ref=f541e113] [cursor=pointer]
+          - listitem [ref=f541e114]:
+            - button "Leave feedback" [ref=f541e115] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : :"
+        - generic [ref=f541e116]:
+          - heading "Attachments" [level=2] [ref=f541e117]
+          - generic:
+            - button "Attach a file" [ref=f541e118] [cursor=pointer]
+            - text: 
+          - generic [ref=f541e120]:
+            - generic [ref=f541e123]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f541e124]
+            - generic [ref=f541e125]:
+              - grid [ref=f541e128]:
+                - rowgroup [ref=f541e129]:
+                  - row [ref=f541e130]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f541e131]':
+                      - generic:
+                        - generic [ref=f541e132]: File
+                        - generic [ref=f541e133]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f541e134]':
+                      - generic:
+                        - generic [ref=f541e135]: Last modified
+                        - generic [ref=f541e136]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f541e137]':
+                      - generic:
+                        - generic [ref=f541e138]: Size
+                        - generic [ref=f541e139]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f541e140]':
+                      - generic:
+                        - generic [ref=f541e141]: Added by
+                        - generic [ref=f541e142]: 
+              - grid [ref=f541e144]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f541e145]: File
+                          - generic [ref=f541e146]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f541e147]: Last modified
+                          - generic [ref=f541e148]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f541e149]: Size
+                          - generic [ref=f541e150]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f541e151]: Added by
+                          - generic [ref=f541e152]: 
+                - rowgroup [ref=f541e153]:
+                  - row [ref=f541e154]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f541e155]:
+                      - generic [ref=f541e156]:
+                        - generic [ref=f541e157]:
+                          - generic [ref=f541e158]: 
+                          - link "mindtouch.page#thumbnail" [ref=f541e159] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/65451/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f541e160]:
+                          - generic [ref=f541e161]: (no description)
+                          - text: 
+                    - gridcell "Dec 25, 2025, 9:53 PM" [ref=f541e162]
+                    - gridcell "11 KiB" [ref=f541e164]
+                    - gridcell "Rachel Mastrapa" [ref=f541e165]
+    - generic [ref=f541e167]:
+      - button "Open support menu" [ref=f541e169] [cursor=pointer]: "?"
+      - navigation [ref=f541e171]:
+        - paragraph [ref=f541e173]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f541e174] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f541e175] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f541e176] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f541e177] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f541e178] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f541e179]:
+      - generic:
+        - generic [ref=f541e181]:
+          - button "Annotation sidebar" [ref=f541e182]
+          - generic [ref=f541e187]:
+            - button "Show highlights" [ref=f541e188]
+            - button "New page note" [ref=f541e193]
+          - status [ref=f541e198]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f541e199]:
+    - button "contents" [ref=f541e200] [cursor=pointer]
+    - button "readability" [ref=f541e202] [cursor=pointer]
+    - button "resources" [ref=f541e204] [cursor=pointer]
+    - button "tools" [ref=f541e206] [cursor=pointer]
+    - button "developers" [ref=f541e208] [cursor=pointer]
+  - text:  
+  - generic [ref=f541e317]:
+    - generic [ref=f541e318] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f541e321] [cursor=pointer]

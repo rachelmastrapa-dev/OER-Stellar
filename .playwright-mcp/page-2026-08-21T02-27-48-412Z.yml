@@ -1,0 +1,275 @@
+- generic [active] [ref=f362e1]:
+  - link "Skip to main content" [ref=f362e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f362e3]:
+    - text: 
+    - generic [ref=f362e4]:
+      - generic [ref=f362e5]:
+        - generic: ✕
+        - navigation [ref=f362e7]:
+          - generic [ref=f362e8]:
+            - link [ref=f362e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f362e11]
+            - button "Enter Reader Mode" [ref=f362e13] [cursor=pointer]:
+              - generic [ref=f362e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f362e16]:
+        - list [ref=f362e18]:
+          - listitem [ref=f362e19]:
+            - link [ref=f362e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f362e22]
+          - listitem [ref=f362e23]:
+            - text: 
+            - generic [ref=f362e25]:
+              - generic [ref=f362e26]: "Search :"
+              - searchbox "Search :" [ref=f362e27]
+              - button " Search" [ref=f362e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f362e29]:
+            - list [ref=f362e30]:
+              - listitem [ref=f362e31]:
+                - link "Edit" [ref=f362e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars?action=edit
+              - text: 
+              - listitem [ref=f362e33]:
+                - link " Options" [ref=f362e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f362e35]:
+                - link " Rachel Mastrapa" [ref=f362e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f362e37]:
+        - generic:
+          - button " Contents" [ref=f362e38] [cursor=pointer]
+          - list [ref=f362e39]:
+            - listitem [ref=f362e40]:
+              - link " Home" [ref=f362e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f362e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f362e43]:
+              - link " Workbench" [ref=f362e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f362e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f362e46]:
+              - link " De Anza - ASTR10" [ref=f362e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f362e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f362e49]:
+              - generic [ref=f362e50]: 
+              - text: "12: Aging Stars"
+          - text: 
+      - navigation:
+        - generic:                                        
+    - article [ref=f362e51]:
+      - generic [ref=f362e52]:
+        - generic [ref=f362e53]:
+          - button " Page settings" [ref=f362e54] [cursor=pointer]
+          - text: "    : :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "12: Aging Stars" [level=1] [ref=f362e55]':
+          - generic [ref=f362e56]: "12: Aging Stars "
+        - list [ref=f362e58]:
+          - listitem [ref=f362e59]:
+            - link [ref=f362e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f362e62]:
+                - img "CC" [ref=f362e63]
+                - img "BY" [ref=f362e64]
+          - listitem [ref=f362e65]:
+            - generic [ref=f362e66]:
+              - term [ref=f362e67]: "Last updated:"
+              - definition [ref=f362e68]: Aug 5, 2026, 11:21 AM by Jyothsna Viswanadha
+          - listitem [ref=f362e69]:
+            - generic [ref=f362e70]:
+              - term [ref=f362e71]: "Page restriction:"
+              - definition [ref=f362e72]: Private
+          - listitem [ref=f362e73]:
+            - generic [ref=f362e74]:
+              - term [ref=f362e75]: "Page ID:"
+              - definition [ref=f362e76]: "115286"
+          - listitem [ref=f362e77]:
+            - list [ref=f362e78]:
+              - listitem [ref=f362e79]:
+                - button "Pin Page" [ref=f362e80] [cursor=pointer]: 
+              - listitem [ref=f362e81]:
+                - generic [ref=f362e82]:
+                  - link " Page notifications Off" [ref=f362e84] [cursor=pointer]:
+                    - /url: "#"
+                  - text: 
+              - text: 
+              - listitem [ref=f362e85]:
+                - list [ref=f362e86]:
+                  - listitem [ref=f362e87]:
+                    - 'link " 11.6: Accessible Descriptions" [ref=f362e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.06%3A_Accessible_Descriptions
+                      - text: 
+                      - generic [ref=f362e89]: "11.6: Accessible Descriptions"
+                  - listitem [ref=f362e90]:
+                    - 'link "12.1: From Main Sequence to Red Giants " [ref=f362e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.01%3A_From_Main_Sequence_to_Red_Giants
+                      - generic [ref=f362e92]: "12.1: From Main Sequence to Red Giants"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f362e93]:
+        - generic [ref=f362e95]:
+          - heading "Introduction" [level=2] [ref=f362e96]
+          - paragraph [ref=f362e97]: Astronomers define the birth of stars as the moment that they begin fusing hydrogen into helium and join the main sequence. They have learned how stars change over time by studying star clusters. Stars follow different pathways when they age. Which path they are on, depends on the stars initial mass. Some paths are similar, but massive stars progress along them at a much more rapid pace than lower mass stars.
+          - generic [ref=f362e99]:
+            - heading " Learning Objectives" [level=5] [ref=f362e100]
+            - list [ref=f362e102]:
+              - listitem [ref=f362e103]: Define the term zero-age main sequence and identify its on the H-R diagram.<</li>
+              - listitem [ref=f362e104]: Describe what happens to main-sequence stars of various masses as they exhaust their hydrogen supply
+              - listitem [ref=f362e105]: Explain how star clusters help us understand the stages of stellar evolution
+              - listitem [ref=f362e106]: List the different types of star clusters and describe how they differ in number of stars, structure, and age
+              - listitem [ref=f362e107]: Explain how the H–R diagram of a star cluster can be related to the cluster’s age and the stages of evolution of its stellar members
+              - listitem [ref=f362e108]: Describe the different changes that occur as a star evolves and how those changes are reflected in the H-R diagram.
+              - listitem [ref=f362e109]: List the different elements that are fused in stars
+              - listitem [ref=f362e110]: Describe the layers in the interior of a low-mass star prior to its death.
+              - listitem [ref=f362e111]: Define planetary nebulae and describe how they form
+          - paragraph
+          - list [ref=f362e114]:
+            - listitem [ref=f362e115]:
+              - generic [ref=f362e116]:
+                - term [ref=f362e117]:
+                  - 'link " 12.1: From Main Sequence to Red Giants" [ref=f362e118] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.01%3A_From_Main_Sequence_to_Red_Giants
+                    - generic [ref=f362e119]: 
+                    - text: "12.1: From Main Sequence to Red Giants"
+                - definition
+            - listitem [ref=f362e120]:
+              - generic [ref=f362e121]:
+                - term [ref=f362e122]:
+                  - 'link " 12.2: Star Clusters" [ref=f362e123] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.02%3A_Star_Clusters
+                    - generic [ref=f362e124]: 
+                    - text: "12.2: Star Clusters"
+                - definition
+            - listitem [ref=f362e125]:
+              - generic [ref=f362e126]:
+                - term [ref=f362e127]:
+                  - 'link " 12.3: Clusters on the H-R Diagram" [ref=f362e128] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.03%3A_Clusters_on_the_H-R_Diagram
+                    - generic [ref=f362e129]: 
+                    - text: "12.3: Clusters on the H-R Diagram"
+                - definition
+            - listitem [ref=f362e130]:
+              - generic [ref=f362e131]:
+                - term [ref=f362e132]:
+                  - 'link " 12.4: Further Evolution of Stars" [ref=f362e133] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.04%3A_Further_Evolution_of_Stars
+                    - generic [ref=f362e134]: 
+                    - text: "12.4: Further Evolution of Stars"
+                - definition
+            - listitem [ref=f362e135]:
+              - generic [ref=f362e136]:
+                - term [ref=f362e137]:
+                  - 'link " 12.5: Stories of the Pleiades" [ref=f362e138] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.05%3A_Stories_of_the_Pleiades
+                    - generic [ref=f362e139]: 
+                    - text: "12.5: Stories of the Pleiades"
+                - definition
+            - listitem [ref=f362e140]:
+              - generic [ref=f362e141]:
+                - term [ref=f362e142]:
+                  - 'link " 12.6: Key Terms" [ref=f362e143] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.06%3A_Key_Terms
+                    - generic [ref=f362e144]: 
+                    - text: "12.6: Key Terms"
+                - definition
+            - listitem [ref=f362e145]:
+              - generic [ref=f362e146]:
+                - term [ref=f362e147]:
+                  - 'link " 12.7: Accessible Descriptions" [ref=f362e148] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.07%3A_Accessible_Descriptions
+                    - generic [ref=f362e149]: 
+                    - text: "12.7: Accessible Descriptions"
+                - definition
+          - paragraph
+          - paragraph [ref=f362e150]:
+            - strong [ref=f362e151]: Thumbnail
+            - text: ": This artist's impression demonstrates how the binary star system of Sirius A and its diminutive blue companion, Sirius B, might appear to an interstellar visitor. ("
+            - link "Public Domain" [ref=f362e152] [cursor=pointer]:
+              - /url: https://en.wikipedia.org/wiki/Public_domain
+            - text: ;
+            - link "NASA, ESA and G. Bacon (STScI)" [ref=f362e153] [cursor=pointer]:
+              - /url: https://www.nasa.gov/
+            - text: via
+            - link "Wikimedia Commons" [ref=f362e154] [cursor=pointer]:
+              - /url: https://commons.wikimedia.org/w/index.php?curid=477456
+            - text: )
+        - generic [ref=f362e155]:
+          - separator [ref=f362e156]
+          - paragraph [ref=f362e158]:
+            - 'link "12: Aging Stars" [ref=f362e159] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars
+            - text: is shared under a
+            - link "CC BY" [ref=f362e160] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f362e161]:
+        - list [ref=f362e162]:
+          - listitem: 
+          - listitem [ref=f362e163]:
+            - list [ref=f362e164]:
+              - listitem [ref=f362e165]:
+                - 'link " 11.6: Accessible Descriptions" [ref=f362e166] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/11%3A_Star_Formation/11.06%3A_Accessible_Descriptions
+                  - text: 
+                  - generic [ref=f362e167]: "11.6: Accessible Descriptions"
+              - listitem [ref=f362e168]:
+                - 'link "12.1: From Main Sequence to Red Giants " [ref=f362e169] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.01%3A_From_Main_Sequence_to_Red_Giants
+                  - generic [ref=f362e170]: "12.1: From Main Sequence to Red Giants"
+                  - text: 
+        - generic:   
+        - text: "     : : : :              "
+    - generic [ref=f362e172]:
+      - button "Open support menu" [ref=f362e174] [cursor=pointer]: "?"
+      - navigation [ref=f362e176]:
+        - paragraph [ref=f362e178]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f362e179] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f362e180] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f362e181] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f362e182] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f362e183] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f362e184]:
+      - generic:
+        - generic [ref=f362e186]:
+          - button "Annotation sidebar" [ref=f362e187]
+          - generic [ref=f362e192]:
+            - button "Show highlights" [ref=f362e193]
+            - button "New page note" [ref=f362e198]
+          - status [ref=f362e203]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f362e204]:
+    - button "contents" [ref=f362e205] [cursor=pointer]
+    - button "readability" [ref=f362e207] [cursor=pointer]
+    - button "resources" [ref=f362e209] [cursor=pointer]
+    - button "tools" [ref=f362e211] [cursor=pointer]
+    - button "developers" [ref=f362e213] [cursor=pointer]
+  - text:  

@@ -1,0 +1,271 @@
+- generic [active] [ref=f460e1]:
+  - link "Skip to main content" [ref=f460e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f460e3]:
+    - text: 
+    - generic [ref=f460e4]:
+      - generic [ref=f460e5]:
+        - generic: ✕
+        - navigation [ref=f460e7]:
+          - generic [ref=f460e8]:
+            - link [ref=f460e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f460e11]
+            - button "Enter Reader Mode" [ref=f460e13] [cursor=pointer]:
+              - generic [ref=f460e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f460e16]:
+        - list [ref=f460e18]:
+          - listitem [ref=f460e19]:
+            - link [ref=f460e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f460e22]
+          - listitem [ref=f460e23]:
+            - text: 
+            - generic [ref=f460e25]:
+              - generic [ref=f460e26]: "Search :"
+              - searchbox "Search :" [ref=f460e27]
+              - button " Search" [ref=f460e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f460e29]:
+            - list [ref=f460e30]:
+              - listitem [ref=f460e31]:
+                - link "Edit" [ref=f460e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.03%3A_Mass_of_the_Milky_Way?action=edit
+              - text: 
+              - listitem [ref=f460e33]:
+                - link " Options" [ref=f460e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f460e35]:
+                - link " Rachel Mastrapa" [ref=f460e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f460e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f460e38] [cursor=pointer]
+          - list [ref=f460e39]:
+            - listitem [ref=f460e40]:
+              - link " Home" [ref=f460e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f460e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f460e43]:
+              - link " Workbench" [ref=f460e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f460e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f460e46]:
+              - link " De Anza - ASTR10" [ref=f460e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f460e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f460e49]:
+              - 'link " 15: Milky Way Galaxy" [ref=f460e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy
+                - generic [ref=f460e51]: 
+                - text: "15: Milky Way Galaxy"
+              - text: »
+            - listitem [ref=f460e52]:
+              - generic [ref=f460e53]: 
+              - text: "15.3: Mass of the Milky Way"
+          - button " Expand/collapse global location" [ref=f460e54] [cursor=pointer]
+      - navigation
+    - article [ref=f460e55]:
+      - generic [ref=f460e56]:
+        - generic [ref=f460e57]:
+          - button " Page settings" [ref=f460e58] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :      "
+        - 'heading "15.3: Mass of the Milky Way" [level=1] [ref=f460e59]'
+        - list [ref=f460e62]:
+          - listitem [ref=f460e63]:
+            - link [ref=f460e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f460e66]:
+                - img "CC" [ref=f460e67]
+                - img "BY" [ref=f460e68]
+          - listitem [ref=f460e69]:
+            - generic [ref=f460e70]:
+              - term [ref=f460e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f460e72]: Aug 17, 2026, 11:07 AM by Jyothsna Viswanadha
+          - listitem [ref=f460e73]:
+            - generic [ref=f460e74]:
+              - term [ref=f460e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f460e76]: Private
+          - listitem [ref=f460e77]:
+            - generic [ref=f460e78]:
+              - term [ref=f460e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f460e80]: "139671"
+          - listitem [ref=f460e81]:
+            - list [ref=f460e82]:
+              - listitem [ref=f460e83]:
+                - button "Pin Page" [ref=f460e84] [cursor=pointer]: 
+              - listitem
+              - text: 
+              - listitem [ref=f460e85]:
+                - list [ref=f460e86]:
+                  - listitem [ref=f460e87]:
+                    - 'link " 15.2: Spiral Structure" [ref=f460e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.02%3A_Spiral_Structure
+                      - text: 
+                      - generic [ref=f460e89]: "15.2: Spiral Structure"
+                  - listitem [ref=f460e90]:
+                    - 'link "15.4: Milky Way''s Center " [ref=f460e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.04%3A_Milky_Way's_Center
+                      - generic [ref=f460e92]: "15.4: Milky Way's Center"
+                      - text: 
+              - listitem
+      - list [ref=f460e95]:
+        - listitem [ref=f460e96]:
+          - img "OpenStax" [ref=f460e97]
+        - listitem [ref=f460e98]:
+          - link "OpenStax" [ref=f460e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f460e100]:
+          - link "OpenStax" [ref=f460e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - complementary
+      - text: 
+      - generic [ref=f460e102]:
+        - paragraph [ref=f460e103]
+        - generic [ref=f460e104]:
+          - separator [ref=f460e105]
+          - paragraph [ref=f460e107]:
+            - text: This page titled
+            - 'link "15.3: Mass of the Milky Way" [ref=f460e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.03%3A_Mass_of_the_Milky_Way
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f460e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f460e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f460e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f460e112]:
+        - list [ref=f460e113]:
+          - listitem [ref=f460e114]:
+            - link "Back to top" [ref=f460e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f460e116]:
+            - list [ref=f460e117]:
+              - listitem [ref=f460e118]:
+                - 'link " 15.2: Spiral Structure" [ref=f460e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.02%3A_Spiral_Structure
+                  - text: 
+                  - generic [ref=f460e120]: "15.2: Spiral Structure"
+              - listitem [ref=f460e121]:
+                - 'link "15.4: Milky Way''s Center " [ref=f460e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.04%3A_Milky_Way's_Center
+                  - generic [ref=f460e123]: "15.4: Milky Way's Center"
+                  - text: 
+        - list [ref=f460e126]:
+          - listitem [ref=f460e127]: Was this article helpful?
+          - listitem [ref=f460e128]:
+            - button "Yes" [ref=f460e129] [cursor=pointer]
+          - listitem [ref=f460e130]:
+            - button "No" [ref=f460e131] [cursor=pointer]
+          - listitem [ref=f460e132]:
+            - button "Leave feedback" [ref=f460e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , ,"
+        - generic [ref=f460e134]:
+          - heading "Attachments" [level=2] [ref=f460e135]
+          - generic:
+            - button "Attach a file" [ref=f460e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f460e138]:
+            - generic [ref=f460e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f460e142]
+            - generic [ref=f460e143]:
+              - grid [ref=f460e146]:
+                - rowgroup [ref=f460e147]:
+                  - row [ref=f460e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f460e149]':
+                      - generic:
+                        - generic [ref=f460e150]: File
+                        - generic [ref=f460e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f460e152]':
+                      - generic:
+                        - generic [ref=f460e153]: Last modified
+                        - generic [ref=f460e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f460e155]':
+                      - generic:
+                        - generic [ref=f460e156]: Size
+                        - generic [ref=f460e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f460e158]':
+                      - generic:
+                        - generic [ref=f460e159]: Added by
+                        - generic [ref=f460e160]: 
+              - grid [ref=f460e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f460e163]: File
+                          - generic [ref=f460e164]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f460e165]: Last modified
+                          - generic [ref=f460e166]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f460e167]: Size
+                          - generic [ref=f460e168]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f460e169]: Added by
+                          - generic [ref=f460e170]: 
+                - rowgroup [ref=f460e171]:
+                  - row [ref=f460e172]:
+                    - gridcell "No files attached." [ref=f460e173]
+    - generic [ref=f460e175]:
+      - button "Open support menu" [ref=f460e177] [cursor=pointer]: "?"
+      - navigation [ref=f460e179]:
+        - paragraph [ref=f460e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f460e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f460e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f460e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f460e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f460e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f460e187]:
+      - generic:
+        - generic [ref=f460e189]:
+          - button "Annotation sidebar" [ref=f460e190]
+          - generic [ref=f460e195]:
+            - button "Show highlights" [ref=f460e196]
+            - button "New page note" [ref=f460e201]
+          - status [ref=f460e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f460e207]:
+    - button "contents" [ref=f460e208] [cursor=pointer]
+    - button "readability" [ref=f460e210] [cursor=pointer]
+    - button "resources" [ref=f460e212] [cursor=pointer]
+    - button "tools" [ref=f460e214] [cursor=pointer]
+    - button "developers" [ref=f460e216] [cursor=pointer]

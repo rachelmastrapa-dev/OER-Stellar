@@ -1,0 +1,270 @@
+- generic [active] [ref=f93e1]:
+  - link "Skip to main content" [ref=f93e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f93e3]:
+    - text: 
+    - generic [ref=f93e4]:
+      - generic [ref=f93e5]:
+        - generic: ✕
+        - navigation [ref=f93e7]:
+          - generic [ref=f93e8]:
+            - link [ref=f93e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f93e11]
+            - button "Enter Reader Mode" [ref=f93e13] [cursor=pointer]:
+              - generic [ref=f93e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f93e16]:
+        - list [ref=f93e18]:
+          - listitem [ref=f93e19]:
+            - link [ref=f93e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f93e22]
+          - listitem [ref=f93e23]:
+            - text: 
+            - generic [ref=f93e25]:
+              - generic [ref=f93e26]: "Search :"
+              - searchbox "Search :" [ref=f93e27]
+              - button " Search" [ref=f93e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f93e29]:
+            - list [ref=f93e30]:
+              - listitem [ref=f93e31]:
+                - link "Edit" [ref=f93e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.07%3A_Alternative_Text_Descriptions_for_Stars_and_Light?action=edit
+              - text: 
+              - listitem [ref=f93e33]:
+                - link " Options" [ref=f93e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f93e35]:
+                - link " Rachel Mastrapa" [ref=f93e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f93e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f93e38] [cursor=pointer]
+          - list [ref=f93e39]:
+            - listitem [ref=f93e40]:
+              - link " Home" [ref=f93e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f93e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f93e43]:
+              - link " Workbench" [ref=f93e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f93e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f93e46]:
+              - link " De Anza - ASTR10" [ref=f93e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f93e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f93e49]:
+              - 'link " 3: Stars and Light" [ref=f93e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light
+                - generic [ref=f93e51]: 
+                - text: "3: Stars and Light"
+              - text: »
+            - listitem [ref=f93e52]:
+              - generic [ref=f93e53]: 
+              - text: "3.7: Alternative Text Descriptions for Stars and Light"
+          - button " Expand/collapse global location" [ref=f93e54] [cursor=pointer]
+      - navigation
+    - article [ref=f93e55]:
+      - generic [ref=f93e56]:
+        - generic [ref=f93e57]:
+          - button " Page settings" [ref=f93e58] [cursor=pointer]
+          - text: ":  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "3.7: Alternative Text Descriptions for Stars and Light" [level=1] [ref=f93e59]':
+          - generic [ref=f93e60]: "3.7: Alternative Text Descriptions for Stars and Light "
+        - list [ref=f93e62]:
+          - listitem [ref=f93e63]:
+            - link [ref=f93e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f93e66]:
+                - img "CC" [ref=f93e67]
+                - img "BY" [ref=f93e68]
+          - listitem [ref=f93e69]:
+            - generic [ref=f93e70]:
+              - term [ref=f93e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f93e72]: Dec 3, 2025, 3:04 PM by Rachel Mastrapa
+          - listitem [ref=f93e73]:
+            - generic [ref=f93e74]:
+              - term [ref=f93e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f93e76]: Private
+          - listitem [ref=f93e77]:
+            - generic [ref=f93e78]:
+              - term [ref=f93e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f93e80]: "130927"
+          - listitem [ref=f93e81]:
+            - list [ref=f93e82]:
+              - listitem [ref=f93e83]:
+                - button "Pin Page" [ref=f93e84] [cursor=pointer]: 
+              - listitem [ref=f93e85]:
+                - generic [ref=f93e86]:
+                  - link " Page notifications Off" [ref=f93e88] [cursor=pointer]:
+                    - /url: "#"
+                  - text: 
+              - text: 
+              - listitem [ref=f93e89]:
+                - list [ref=f93e90]:
+                  - listitem [ref=f93e91]:
+                    - 'link " 3.6: Key Terms" [ref=f93e92] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.06%3A_Key_Terms
+                      - text: 
+                      - generic [ref=f93e93]: "3.6: Key Terms"
+                  - listitem [ref=f93e94]:
+                    - 'link "4: Stellar Spectra " [ref=f93e95] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra
+                      - generic [ref=f93e96]: "4: Stellar Spectra"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f93e98]:
+        - separator [ref=f93e99]
+        - paragraph [ref=f93e101]:
+          - 'link "3.7: Alternative Text Descriptions for Stars and Light" [ref=f93e102] [cursor=pointer]':
+            - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.07%3A_Alternative_Text_Descriptions_for_Stars_and_Light
+          - text: is shared under a
+          - link "CC BY" [ref=f93e103] [cursor=pointer]:
+            - /url: https://creativecommons.org/licenses/by/
+          - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f93e104]:
+        - list [ref=f93e105]:
+          - listitem [ref=f93e106]:
+            - link "Back to top" [ref=f93e107] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f93e108]:
+            - list [ref=f93e109]:
+              - listitem [ref=f93e110]:
+                - 'link " 3.6: Key Terms" [ref=f93e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.06%3A_Key_Terms
+                  - text: 
+                  - generic [ref=f93e112]: "3.6: Key Terms"
+              - listitem [ref=f93e113]:
+                - 'link "4: Stellar Spectra " [ref=f93e114] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra
+                  - generic [ref=f93e115]: "4: Stellar Spectra"
+                  - text: 
+        - list [ref=f93e118]:
+          - listitem [ref=f93e119]: Was this article helpful?
+          - listitem [ref=f93e120]:
+            - button "Yes" [ref=f93e121] [cursor=pointer]
+          - listitem [ref=f93e122]:
+            - button "No" [ref=f93e123] [cursor=pointer]
+          - listitem [ref=f93e124]:
+            - button "Leave feedback" [ref=f93e125] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f93e126]:
+          - heading "Attachments" [level=2] [ref=f93e127]
+          - generic:
+            - button "Attach a file" [ref=f93e128] [cursor=pointer]
+            - text: 
+          - generic [ref=f93e130]:
+            - generic [ref=f93e133]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f93e134]
+            - generic [ref=f93e135]:
+              - grid [ref=f93e138]:
+                - rowgroup [ref=f93e139]:
+                  - row [ref=f93e140]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f93e141]':
+                      - generic:
+                        - generic [ref=f93e142]: File
+                        - generic [ref=f93e143]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f93e144]':
+                      - generic:
+                        - generic [ref=f93e145]: Last modified
+                        - generic [ref=f93e146]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f93e147]':
+                      - generic:
+                        - generic [ref=f93e148]: Size
+                        - generic [ref=f93e149]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f93e150]':
+                      - generic:
+                        - generic [ref=f93e151]: Added by
+                        - generic [ref=f93e152]: 
+              - grid [ref=f93e154]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f93e155]: File
+                          - generic [ref=f93e156]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f93e157]: Last modified
+                          - generic [ref=f93e158]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f93e159]: Size
+                          - generic [ref=f93e160]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f93e161]: Added by
+                          - generic [ref=f93e162]: 
+                - rowgroup [ref=f93e163]:
+                  - row [ref=f93e164]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f93e165]:
+                      - generic [ref=f93e166]:
+                        - generic [ref=f93e167]:
+                          - generic [ref=f93e168]: 
+                          - link "mindtouch.page#thumbnail" [ref=f93e169] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63068/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f93e170]:
+                          - generic [ref=f93e171]: (no description)
+                          - text: 
+                    - gridcell "Dec 3, 2025, 3:04 PM" [ref=f93e172]
+                    - gridcell "11 KiB" [ref=f93e174]
+                    - gridcell "Rachel Mastrapa" [ref=f93e175]
+    - generic [ref=f93e177]:
+      - button "Open support menu" [ref=f93e179] [cursor=pointer]: "?"
+      - navigation [ref=f93e181]:
+        - paragraph [ref=f93e183]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f93e184] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f93e185] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f93e186] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f93e187] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f93e188] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f93e189]:
+      - generic:
+        - generic [ref=f93e191]:
+          - button "Annotation sidebar" [ref=f93e192]
+          - generic [ref=f93e197]:
+            - button "Show highlights" [ref=f93e198]
+            - button "New page note" [ref=f93e203]
+          - status [ref=f93e208]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f93e209]:
+    - button "contents" [ref=f93e210] [cursor=pointer]
+    - button "readability" [ref=f93e212] [cursor=pointer]
+    - button "resources" [ref=f93e214] [cursor=pointer]
+    - button "tools" [ref=f93e216] [cursor=pointer]
+    - button "developers" [ref=f93e218] [cursor=pointer]

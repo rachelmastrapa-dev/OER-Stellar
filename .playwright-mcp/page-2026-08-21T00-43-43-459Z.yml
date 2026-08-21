@@ -1,0 +1,235 @@
+- generic [ref=f28e1]:
+  - link "Skip to main content" [ref=f28e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f28e3]:
+    - text: 
+    - generic [ref=f28e4]:
+      - generic [ref=f28e5]:
+        - generic: ✕
+        - navigation [ref=f28e7]:
+          - generic [ref=f28e8]:
+            - link [ref=f28e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f28e11]
+            - button "Enter Reader Mode" [ref=f28e13] [cursor=pointer]:
+              - generic [ref=f28e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f28e16]:
+        - list [ref=f28e18]:
+          - listitem [ref=f28e19]:
+            - link [ref=f28e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f28e22]
+          - listitem [ref=f28e23]:
+            - text: 
+            - generic [ref=f28e25]:
+              - generic [ref=f28e26]: "Search :"
+              - searchbox "Search :" [ref=f28e27]
+              - button " Search" [ref=f28e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f28e29]:
+            - list [ref=f28e30]:
+              - listitem [ref=f28e31]:
+                - link "Edit" [ref=f28e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation?action=edit
+              - text: 
+              - listitem [ref=f28e33]:
+                - link " Options" [ref=f28e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f28e35]:
+                - link " Rachel Mastrapa" [ref=f28e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f28e37]:
+        - generic:
+          - button " Contents" [ref=f28e151] [cursor=pointer]
+          - list [ref=f28e39]:
+            - listitem [ref=f28e40]:
+              - link " Home" [ref=f28e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f28e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f28e43]:
+              - link " Workbench" [ref=f28e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f28e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f28e46]:
+              - link " De Anza - ASTR10" [ref=f28e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f28e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f28e49]:
+              - generic [ref=f28e50]: 
+              - text: "2: Night Sky Navigation"
+          - text: 
+      - navigation:
+        - generic:                                                  
+    - article [ref=f28e51]:
+      - generic [ref=f28e52]:
+        - generic [ref=f28e53]:
+          - button " Page settings" [ref=f28e54] [cursor=pointer]
+          - text: "    : :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "2: Night Sky Navigation" [level=1] [ref=f28e55]':
+          - generic [ref=f28e152]: "2: Night Sky Navigation "
+        - list [ref=f28e58]:
+          - listitem [ref=f28e59]:
+            - link [ref=f28e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f28e62]:
+                - img "CC" [ref=f28e63]
+                - img "BY" [ref=f28e64]
+          - listitem [ref=f28e65]:
+            - generic [ref=f28e66]:
+              - term [ref=f28e67]: "Last updated:"
+              - definition [ref=f28e68]: Aug 20, 2026, 5:24 PM by Rachel Mastrapa
+          - listitem [ref=f28e69]:
+            - generic [ref=f28e70]:
+              - term [ref=f28e71]: "Page restriction:"
+              - definition [ref=f28e72]: Private
+          - listitem [ref=f28e73]:
+            - generic [ref=f28e74]:
+              - term [ref=f28e75]: "Page ID:"
+              - definition [ref=f28e76]: "115275"
+          - listitem [ref=f28e77]:
+            - list [ref=f28e78]:
+              - listitem [ref=f28e79]:
+                - button "Pin Page" [ref=f28e80] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f28e81]:
+                - list [ref=f28e82]:
+                  - listitem [ref=f28e83]:
+                    - 'link " 1.7: Accessible Description" [ref=f28e84] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.07%3A_Accessible_Description
+                      - text: 
+                      - generic [ref=f28e85]: "1.7: Accessible Description"
+                  - listitem [ref=f28e86]:
+                    - 'link "2.1: A Tour of the Universe " [ref=f28e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.01%3A_A_Tour_of_the_Universe
+                      - generic [ref=f28e88]: "2.1: A Tour of the Universe"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f28e89]:
+        - group [ref=f28e156]:
+          - generic [ref=f28e157]:
+            - generic [ref=f28e158]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f28e159]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f28e160]:
+            - generic [ref=f28e163]:
+              - generic [ref=f28e165]:
+                - link "Edit" [ref=f28e166]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f28e167]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f28e168]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f28e169]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f28e170]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f28e171]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f28e174]:
+                - toolbar [ref=f28e175]:
+                  - button "Save" [ref=f28e176]:
+                    - generic [ref=f28e177]: 
+                  - button "Cancel" [ref=f28e179]:
+                    - generic [ref=f28e180]: 
+                - text:          
+                - toolbar [ref=f28e221]:
+                  - button "Alignment" [ref=f28e222]:
+                    - generic [ref=f28e223]: 
+                - text:    
+                - toolbar [ref=f28e236]:
+                  - button "Replace" [ref=f28e237]:
+                    - generic [ref=f28e238]: 
+                - toolbar [ref=f28e240]:
+                  - button "Enable Binder" [disabled] [ref=f28e241]
+                  - button "Insert Adapt" [disabled] [ref=f28e243]
+                  - button "Query" [ref=f28e245]
+                  - button "Accessibility Checker" [disabled] [ref=f28e248]
+                - toolbar [ref=f28e251]:
+                  - button "Visual" [pressed] [ref=f28e267]:
+                    - generic [ref=f28e253]: 
+            - application "Rich Text Editor, editarea" [ref=f28e255]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f28e269]: "<h2>Introduction</h2> <p><span class=\"mt-bgcolor-e74c3c\">search for text</span></p> <p>{{template.ShowOrg()}}</p> <p><strong>Thumbnail</strong>: This star chart, created by Huang Shang in 1193 and carved into stone by Wang Zhiyuan in 1247, includes 1434 stars grouped into 280 asterisms. (\"<a href=\"https://commons.wikimedia.org/w/index.php?curid=38305831\" title=\"Suzhou star cartography\">Suzhou star cartography</a>,\" Wang Zhiyuan and Huang Shang, <a href=\"https://en.wikipedia.org/wiki/Public_domain\" title=\"Public domain\">Public domain</a> via <a href=\"https://commons.wikimedia.org/wiki/Main_Page\" title=\"Wikimedia Commons\">Wikimedia Commons</a>)</p>"
+              - generic [ref=f28e257]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f28e259] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f28e91]:
+          - separator [ref=f28e92]
+          - paragraph [ref=f28e94]:
+            - 'link "2: Night Sky Navigation" [ref=f28e95] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation
+            - text: is shared under a
+            - link "CC BY" [ref=f28e96] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f28e97]:
+        - list [ref=f28e98]:
+          - listitem: 
+          - listitem [ref=f28e99]:
+            - list [ref=f28e100]:
+              - listitem [ref=f28e101]:
+                - 'link " 1.7: Accessible Description" [ref=f28e102] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/01%3A_Introduction_to_Astronomy/1.07%3A_Accessible_Description
+                  - text: 
+                  - generic [ref=f28e103]: "1.7: Accessible Description"
+              - listitem [ref=f28e104]:
+                - 'link "2.1: A Tour of the Universe " [ref=f28e105] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/02%3A_Night_Sky_Navigation/2.01%3A_A_Tour_of_the_Universe
+                  - generic [ref=f28e106]: "2.1: A Tour of the Universe"
+                  - text: 
+        - generic:   
+        - text: "     : : : :              "
+    - generic [ref=f28e108]:
+      - button "Open support menu" [ref=f28e110] [cursor=pointer]: "?"
+      - navigation [ref=f28e112]:
+        - paragraph [ref=f28e114]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f28e115] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f28e116] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f28e117] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f28e118] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f28e119] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f28e120]:
+      - generic:
+        - generic [ref=f28e122]:
+          - button "Annotation sidebar" [ref=f28e123]
+          - generic [ref=f28e128]:
+            - button "Show highlights" [ref=f28e129]
+            - button "New page note" [ref=f28e134]
+          - status [ref=f28e139]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f28e140]:
+    - button "contents" [ref=f28e141] [cursor=pointer]
+    - button "readability" [ref=f28e143] [cursor=pointer]
+    - button "resources" [ref=f28e145] [cursor=pointer]
+    - button "tools" [ref=f28e147] [cursor=pointer]
+    - button "developers" [ref=f28e149] [cursor=pointer]
+  - text:  
+  - generic [ref=f28e260]:
+    - generic [ref=f28e261] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f28e264] [cursor=pointer]

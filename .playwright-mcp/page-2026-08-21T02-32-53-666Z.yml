@@ -1,0 +1,283 @@
+- generic [active] [ref=f392e1]:
+  - link "Skip to main content" [ref=f392e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f392e3]:
+    - text: 
+    - generic [ref=f392e4]:
+      - generic [ref=f392e5]:
+        - generic: ✕
+        - navigation [ref=f392e7]:
+          - generic [ref=f392e8]:
+            - link [ref=f392e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f392e11]
+            - button "Enter Reader Mode" [ref=f392e13] [cursor=pointer]:
+              - generic [ref=f392e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f392e16]:
+        - list [ref=f392e18]:
+          - listitem [ref=f392e19]:
+            - link [ref=f392e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f392e22]
+          - listitem [ref=f392e23]:
+            - text: 
+            - generic [ref=f392e25]:
+              - generic [ref=f392e26]: "Search :"
+              - searchbox "Search :" [ref=f392e27]
+              - button " Search" [ref=f392e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f392e29]:
+            - list [ref=f392e30]:
+              - listitem [ref=f392e31]:
+                - link "Edit" [ref=f392e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale?action=edit
+              - text: 
+              - listitem [ref=f392e33]:
+                - link " Options" [ref=f392e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f392e35]:
+                - link " Rachel Mastrapa" [ref=f392e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f392e37]:
+        - generic:
+          - button " Contents" [ref=f392e38] [cursor=pointer]
+          - list [ref=f392e39]:
+            - listitem [ref=f392e40]:
+              - link " Home" [ref=f392e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f392e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f392e43]:
+              - link " Workbench" [ref=f392e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f392e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f392e46]:
+              - link " De Anza - ASTR10" [ref=f392e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f392e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f392e49]:
+              - generic [ref=f392e50]: 
+              - text: "13: Stellar Finale"
+          - text: 
+      - navigation:
+        - generic:                                        
+    - article [ref=f392e51]:
+      - generic [ref=f392e52]:
+        - generic [ref=f392e53]:
+          - button " Page settings" [ref=f392e54] [cursor=pointer]
+          - text: "    : :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "13: Stellar Finale" [level=1] [ref=f392e55]':
+          - generic [ref=f392e56]: "13: Stellar Finale "
+        - list [ref=f392e58]:
+          - listitem [ref=f392e59]:
+            - link [ref=f392e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f392e62]:
+                - img "CC" [ref=f392e63]
+                - img "BY" [ref=f392e64]
+          - listitem [ref=f392e65]:
+            - generic [ref=f392e66]:
+              - term [ref=f392e67]: "Last updated:"
+              - definition [ref=f392e68]: Aug 12, 2026, 9:05 AM by Rachel Mastrapa
+          - listitem [ref=f392e69]:
+            - generic [ref=f392e70]:
+              - term [ref=f392e71]: "Page restriction:"
+              - definition [ref=f392e72]: Private
+          - listitem [ref=f392e73]:
+            - generic [ref=f392e74]:
+              - term [ref=f392e75]: "Page ID:"
+              - definition [ref=f392e76]: "115287"
+          - listitem [ref=f392e77]:
+            - list [ref=f392e78]:
+              - listitem [ref=f392e79]:
+                - button "Pin Page" [ref=f392e80] [cursor=pointer]: 
+              - listitem [ref=f392e81]:
+                - generic [ref=f392e82]:
+                  - link " Page notifications Off" [ref=f392e84] [cursor=pointer]:
+                    - /url: "#"
+                  - text: 
+              - text: 
+              - listitem [ref=f392e85]:
+                - list [ref=f392e86]:
+                  - listitem [ref=f392e87]:
+                    - 'link " 12.7: Accessible Descriptions" [ref=f392e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.07%3A_Accessible_Descriptions
+                      - text: 
+                      - generic [ref=f392e89]: "12.7: Accessible Descriptions"
+                  - listitem [ref=f392e90]:
+                    - 'link "13.1: The Death of Low-Mass Stars " [ref=f392e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.01%3A_The_Death_of_Low-Mass_Stars
+                      - generic [ref=f392e92]: "13.1: The Death of Low-Mass Stars"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f392e93]:
+        - generic [ref=f392e95]:
+          - heading "Introduction" [level=2] [ref=f392e96]
+          - paragraph [ref=f392e97]: In this chapter we will discuss the end-states of stars. Just as the length of a stars life is dependent on the stars initial mass, what are star looks like at the end of its life also depends on mass. Almost all stars end in a bang, but the size of the explosion also depends on its initial mass, but also whether it has on or more companion stars.
+          - generic [ref=f392e99]:
+            - heading " Learning Objectives" [level=5] [ref=f392e100]
+            - list [ref=f392e102]:
+              - listitem [ref=f392e103]: Distinguish the mass range of stars that will become white dwarfs
+              - listitem [ref=f392e104]: Describe the interior of a massive star before a supernova
+              - listitem [ref=f392e105]: Describe the observed features of SN 1987A both before and after the supernova
+              - listitem [ref=f392e106]: Explain the research method that led to the discovery of neutron stars
+              - listitem [ref=f392e107]: Describe the features of a neutron star that allow it to be detected as a pulsar
+              - listitem [ref=f392e108]: List the observational evidence that links pulsars and neutron stars to supernovae
+              - listitem [ref=f392e109]: Describe the kind of binary star system that leads to a nova event
+              - listitem [ref=f392e110]: Describe the type of binary star system that leads to a type Ia supernovae event
+              - listitem [ref=f392e111]: Indicate how type Ia supernovae differ from type II supernovae
+          - paragraph
+          - list [ref=f392e114]:
+            - listitem [ref=f392e115]:
+              - generic [ref=f392e116]:
+                - term [ref=f392e117]:
+                  - 'link " 13.1: The Death of Low-Mass Stars" [ref=f392e118] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.01%3A_The_Death_of_Low-Mass_Stars
+                    - generic [ref=f392e119]: 
+                    - text: "13.1: The Death of Low-Mass Stars"
+                - definition
+            - listitem [ref=f392e120]:
+              - generic [ref=f392e121]:
+                - term [ref=f392e122]:
+                  - 'link " 13.2: Evolution of Massive Stars" [ref=f392e123] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.02%3A_Evolution_of_Massive_Stars
+                    - generic [ref=f392e124]: 
+                    - text: "13.2: Evolution of Massive Stars"
+                - definition
+            - listitem [ref=f392e125]:
+              - generic [ref=f392e126]:
+                - term [ref=f392e127]:
+                  - 'link " 13.3: Supernovae" [ref=f392e128] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.03%3A_Supernovae
+                    - generic [ref=f392e129]: 
+                    - text: "13.3: Supernovae"
+                - definition
+            - listitem [ref=f392e130]:
+              - generic [ref=f392e131]:
+                - term [ref=f392e132]:
+                  - 'link " 13.4: Neutron Stars and Pulsars" [ref=f392e133] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.04%3A_Neutron_Stars_and_Pulsars
+                    - generic [ref=f392e134]: 
+                    - text: "13.4: Neutron Stars and Pulsars"
+                - definition
+            - listitem [ref=f392e135]:
+              - generic [ref=f392e136]:
+                - term [ref=f392e137]:
+                  - 'link " 13.5: Binary Star Systems" [ref=f392e138] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.05%3A_Binary_Star_Systems
+                    - generic [ref=f392e139]: 
+                    - text: "13.5: Binary Star Systems"
+                - definition
+            - listitem [ref=f392e140]:
+              - generic [ref=f392e141]:
+                - term [ref=f392e142]:
+                  - 'link " 13.6: Radium Girls" [ref=f392e143] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.06%3A_Radium_Girls
+                    - generic [ref=f392e144]: 
+                    - text: "13.6: Radium Girls"
+                - definition
+            - listitem [ref=f392e145]:
+              - generic [ref=f392e146]:
+                - term [ref=f392e147]:
+                  - 'link " 13.7: Key Terms" [ref=f392e148] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.07%3A_Key_Terms
+                    - generic [ref=f392e149]: 
+                    - text: "13.7: Key Terms"
+                - definition
+            - listitem [ref=f392e150]:
+              - generic [ref=f392e151]:
+                - term [ref=f392e152]:
+                  - 'link " 13.8: Accessible Descriptions" [ref=f392e153] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.08%3A_Accessible_Descriptions
+                    - generic [ref=f392e154]: 
+                    - text: "13.8: Accessible Descriptions"
+                - definition
+          - paragraph
+          - paragraph [ref=f392e155]:
+            - strong [ref=f392e156]: Thumbnail
+            - text: ": When a massive star exploded in the Large Magellanic Cloud, a satellite galaxy to the Milky Way, it left behind an expanding shell of debris called SNR 0519-69.0. Here, multimillion degree gas is seen in X-rays from Chandra in blue. The outer edge of the explosion in red and stars in the field of view are in visible light from Hubble. ("
+            - link "Public Domain" [ref=f392e157] [cursor=pointer]:
+              - /url: https://en.wikipedia.org/wiki/Public_domain
+            - text: ;
+            - 'link "X-ray: NASA/CXC/Rutgers/J.Hughes; Optical: NASA/STScI" [ref=f392e158] [cursor=pointer]':
+              - /url: https://www.nasa.gov/
+            - text: via
+            - link "Wikimedia Commons" [ref=f392e159] [cursor=pointer]:
+              - /url: https://commons.wikimedia.org/wiki/File:NASA-SNR0519690-ChandraXRayObservatory-20150122.jpg
+            - text: )
+        - generic [ref=f392e160]:
+          - separator [ref=f392e161]
+          - paragraph [ref=f392e163]:
+            - 'link "13: Stellar Finale" [ref=f392e164] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale
+            - text: is shared under a
+            - link "CC BY" [ref=f392e165] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f392e166]:
+        - list [ref=f392e167]:
+          - listitem: 
+          - listitem [ref=f392e168]:
+            - list [ref=f392e169]:
+              - listitem [ref=f392e170]:
+                - 'link " 12.7: Accessible Descriptions" [ref=f392e171] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.07%3A_Accessible_Descriptions
+                  - text: 
+                  - generic [ref=f392e172]: "12.7: Accessible Descriptions"
+              - listitem [ref=f392e173]:
+                - 'link "13.1: The Death of Low-Mass Stars " [ref=f392e174] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.01%3A_The_Death_of_Low-Mass_Stars
+                  - generic [ref=f392e175]: "13.1: The Death of Low-Mass Stars"
+                  - text: 
+        - generic:   
+        - text: "     : : : :              "
+    - generic [ref=f392e177]:
+      - button "Open support menu" [ref=f392e179] [cursor=pointer]: "?"
+      - navigation [ref=f392e181]:
+        - paragraph [ref=f392e183]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f392e184] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f392e185] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f392e186] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f392e187] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f392e188] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f392e189]:
+      - generic:
+        - generic [ref=f392e191]:
+          - button "Annotation sidebar" [ref=f392e192]
+          - generic [ref=f392e197]:
+            - button "Show highlights" [ref=f392e198]
+            - button "New page note" [ref=f392e203]
+          - status [ref=f392e208]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f392e209]:
+    - button "contents" [ref=f392e210] [cursor=pointer]
+    - button "readability" [ref=f392e212] [cursor=pointer]
+    - button "resources" [ref=f392e214] [cursor=pointer]
+    - button "tools" [ref=f392e216] [cursor=pointer]
+    - button "developers" [ref=f392e218] [cursor=pointer]
+  - text:  

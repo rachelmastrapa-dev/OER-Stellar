@@ -1,0 +1,370 @@
+- generic [ref=f594e1]:
+  - link "Skip to main content" [ref=f594e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f594e3]:
+    - text: 
+    - generic [ref=f594e4]:
+      - generic [ref=f594e5]:
+        - generic: ✕
+        - navigation [ref=f594e7]:
+          - generic [ref=f594e8]:
+            - link [ref=f594e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f594e11]
+            - button "Enter Reader Mode" [ref=f594e13] [cursor=pointer]:
+              - generic [ref=f594e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f594e16]:
+        - list [ref=f594e18]:
+          - listitem [ref=f594e19]:
+            - link [ref=f594e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f594e22]
+          - listitem [ref=f594e23]:
+            - text: 
+            - generic [ref=f594e25]:
+              - generic [ref=f594e26]: "Search :"
+              - searchbox "Search :" [ref=f594e27]
+              - button " Search" [ref=f594e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f594e29]:
+            - list [ref=f594e30]:
+              - listitem [ref=f594e31]:
+                - link "Edit" [ref=f594e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.12%3A_Hubble_Edwin?action=edit
+              - text: 
+              - listitem [ref=f594e33]:
+                - link " Options" [ref=f594e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f594e35]:
+                - link " Rachel Mastrapa" [ref=f594e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f594e37]:
+        - generic:
+          - button " Contents" [ref=f594e204] [cursor=pointer]
+          - list [ref=f594e39]:
+            - listitem [ref=f594e40]:
+              - link " Home" [ref=f594e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f594e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f594e43]:
+              - link " Workbench" [ref=f594e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f594e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f594e46]:
+              - link " De Anza - ASTR10" [ref=f594e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f594e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f594e49]:
+              - 'link " 18: Appendices" [ref=f594e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices
+                - generic [ref=f594e51]: 
+                - text: "18: Appendices"
+              - text: »
+            - listitem [ref=f594e52]:
+              - 'link " 18.1: Alphabetical List of Scientists" [ref=f594e53] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists
+                - generic [ref=f594e54]: 
+                - text: "18.1: Alphabetical List of Scientists"
+              - text: »
+            - listitem [ref=f594e55]:
+              - generic [ref=f594e56]: 
+              - text: "18.1.12: Hubble, Edwin"
+          - button " Expand/collapse global location" [ref=f594e57] [cursor=pointer]
+      - navigation:
+        - generic:                                                                   
+    - article [ref=f594e58]:
+      - generic [ref=f594e59]:
+        - generic [ref=f594e60]:
+          - button " Page settings" [ref=f594e61] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "18.1.12: Hubble, Edwin" [level=1] [ref=f594e62]':
+          - generic [ref=f594e205]: "18.1.12: Hubble, Edwin "
+        - list [ref=f594e65]:
+          - listitem:
+            - generic:
+              - link:
+                - /url: "#"
+          - listitem [ref=f594e66]:
+            - generic [ref=f594e67]:
+              - term [ref=f594e68] [cursor=pointer]: "Last updated:"
+              - definition [ref=f594e69]: Dec 29, 2025, 7:46 PM by Rachel Mastrapa
+          - listitem [ref=f594e70]:
+            - generic [ref=f594e71]:
+              - term [ref=f594e72] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f594e73]: Private
+          - listitem [ref=f594e74]:
+            - generic [ref=f594e75]:
+              - term [ref=f594e76] [cursor=pointer]: "Page ID:"
+              - definition [ref=f594e77]: "140516"
+          - listitem [ref=f594e78]:
+            - list [ref=f594e79]:
+              - listitem [ref=f594e80]:
+                - button "Pin Page" [ref=f594e81] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f594e82]:
+                - list [ref=f594e83]:
+                  - listitem [ref=f594e84]:
+                    - 'link " 18.1.11: Hale, George Ellery" [ref=f594e85] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.11%3A_Hale_George_Ellery
+                      - text: 
+                      - generic [ref=f594e86]: "18.1.11: Hale, George Ellery"
+                  - listitem [ref=f594e87]:
+                    - 'link "18.1.13: Kepler, Johannes " [ref=f594e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.13%3A_Kepler_Johannes
+                      - generic [ref=f594e89]: "18.1.13: Kepler, Johannes"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f594e90]:
+        - group [ref=f594e209]:
+          - generic [ref=f594e210]:
+            - generic [ref=f594e211]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f594e212]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f594e213]:
+            - generic [ref=f594e216]:
+              - generic [ref=f594e217]:
+                - generic [ref=f594e218]:
+                  - link "Edit" [ref=f594e219]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f594e220]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f594e221]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f594e222]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f594e223]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f594e224]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f594e225]: "Words: 503, Chars: 3034"
+              - group "Editor toolbars" [ref=f594e227]:
+                - toolbar [ref=f594e228]:
+                  - button "Save" [ref=f594e229]:
+                    - generic [ref=f594e230]: 
+                  - button "Cancel" [ref=f594e232]:
+                    - generic [ref=f594e233]: 
+                - toolbar [ref=f594e236]:
+                  - button "Undo" [disabled] [ref=f594e237]:
+                    - generic [ref=f594e238]: 
+                  - button "Redo" [disabled] [ref=f594e239]:
+                    - generic [ref=f594e240]: 
+                - toolbar [ref=f594e242]:
+                  - button "Headings" [ref=f594e243]
+                - toolbar [ref=f594e248]:
+                  - button "Bold" [ref=f594e249]:
+                    - generic [ref=f594e250]: 
+                  - button "Italic" [ref=f594e251]:
+                    - generic [ref=f594e252]: 
+                  - button "Underline" [ref=f594e253]:
+                    - generic [ref=f594e254]: 
+                - toolbar [ref=f594e256]:
+                  - button "Text color" [ref=f594e257]:
+                    - generic [ref=f594e258]: 
+                  - button "Background color" [ref=f594e260]:
+                    - generic [ref=f594e261]: 
+                - toolbar [ref=f594e264]:
+                  - button "Remove format" [ref=f594e265]:
+                    - generic [ref=f594e266]: 
+                - toolbar [ref=f594e268]:
+                  - button "Insert/Remove numbered list" [ref=f594e269]:
+                    - generic [ref=f594e270]: 
+                  - button "Insert/Remove bulleted list" [ref=f594e271]:
+                    - generic [ref=f594e272]: 
+                - toolbar [ref=f594e274]:
+                  - button "Alignment" [ref=f594e275]:
+                    - generic [ref=f594e276]: 
+                - text: 
+                - toolbar [ref=f594e279]:
+                  - button "Link" [ref=f594e280]:
+                    - generic [ref=f594e281]: 
+                  - button "Image" [ref=f594e282]:
+                    - generic [ref=f594e283]: 
+                  - text: 
+                  - button "Boxes" [ref=f594e284]
+                - toolbar [ref=f594e289]:
+                  - button "Replace" [ref=f594e290]:
+                    - generic [ref=f594e291]: 
+                - toolbar [ref=f594e293]:
+                  - button "Enable Binder" [ref=f594e294]
+                  - button "Insert Adapt" [ref=f594e296]
+                  - button "Query" [ref=f594e298]
+                  - button "Accessibility Checker" [ref=f594e301]
+                - toolbar [ref=f594e304]:
+                  - button "HTML" [ref=f594e305]:
+                    - generic [ref=f594e306]: 
+            - application "Rich Text Editor, editarea" [ref=f594e308]:
+              - iframe [active] [ref=f594e309]:
+                - generic [active] [ref=f596e1]:
+                  - 'heading "Edwin Hubble: Expanding the Universe" [level=2] [ref=f596e2]'
+                  - paragraph [ref=f596e3]: The son of a Missouri insurance agent, Edwin Hubble (Figure 26.3) graduated from high school at age 16. He excelled in sports, winning letters in track and basketball at the University of Chicago, where he studied both science and languages. Both his father and grandfather wanted him to study law, however, and he gave in to family pressure. He received a prestigious Rhodes scholarship to Oxford University in England, where he studied law with only middling enthusiasm. Returning to be the United States, he spent a year teaching high school physics and Spanish as well as coaching basketball, while trying to determine his life’s direction.
+                  - 'figure "Figure 26.3 : Edwin Hubble (1889–1953). Edwin Hubble established some of the most important ideas in the study of galaxies." [ref=f596e4]':
+                    - img "Photograph of Edwin Hubble." [ref=f596e6]
+                  - paragraph [ref=f596e8]: The pull of astronomy eventually proved too strong to resist, and so Hubble went back to the University of Chicago for graduate work. Just as he was about to finish his degree and accept an offer to work at the soon-to-be-completed 2.5-meter telescope, the United States entered World War I, and Hubble enlisted as an officer. Although the war had ended by the time he arrived in Europe, he received more officer’s training abroad and enjoyed a brief time of further astronomical study at Cambridge before being sent home.
+                  - paragraph [ref=f596e9]: In 1919, at age 30, he joined the staff at Mount Wilson and began working with the world’s largest telescope. Ripened by experience, energetic, disciplined, and a skillful observer, Hubble soon established some of the most important ideas in modern astronomy. He showed that other galaxies existed, classified them on the basis of their shapes, found a pattern to their motion (and thus put the notion of an expanding universe on a firm observational footing), and began a lifelong program to study the distribution of galaxies in the universe. Although a few others had glimpsed pieces of the puzzle, it was Hubble who put it all together and showed that an understanding of the large-scale structure of the universe was feasible.
+                  - paragraph [ref=f596e10]:
+                    - text: His work brought Hubble much renown and many medals, awards, and honorary degrees. As he became better known (he was the first astronomer to appear on the cover of
+                    - emphasis [ref=f596e11]: Time
+                    - text: magazine), he and his wife enjoyed and cultivated friendships with movie stars and writers in Southern California. Hubble was instrumental (if you’ll pardon the pun) in the planning and building of the 5-meter telescope on Palomar Mountain, and he had begun to use it for studying galaxies when he passed away from a stroke in 1953.
+                  - paragraph [ref=f596e12]: When astronomers built a space telescope that would allow them to extend Hubble’s work to distances he could only dream about, it seemed natural to name it in his honor. It was fitting that observations with the Hubble Space Telescope (and his foundational work on expansion of the universe) contributed to the 2011 Nobel Prize in Physics, given for the discovery that the expansion of the universe is accelerating (a topic we will expand upon in the chapter on The Big Bang).
+              - generic [ref=f594e310]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f594e312] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f594e92]:
+          - separator [ref=f594e93]
+          - paragraph [ref=f594e95]:
+            - 'link "18.1.12: Hubble, Edwin" [ref=f594e96] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.12%3A_Hubble_Edwin
+            - text: is shared under a
+            - link "not declared" [ref=f594e97] [cursor=pointer]:
+              - /url: ""
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f594e98]:
+        - list [ref=f594e99]:
+          - listitem [ref=f594e100]:
+            - link "Back to top" [ref=f594e101] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f594e102]:
+            - list [ref=f594e103]:
+              - listitem [ref=f594e104]:
+                - 'link " 18.1.11: Hale, George Ellery" [ref=f594e105] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.11%3A_Hale_George_Ellery
+                  - text: 
+                  - generic [ref=f594e106]: "18.1.11: Hale, George Ellery"
+              - listitem [ref=f594e107]:
+                - 'link "18.1.13: Kepler, Johannes " [ref=f594e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.13%3A_Kepler_Johannes
+                  - generic [ref=f594e109]: "18.1.13: Kepler, Johannes"
+                  - text: 
+        - list [ref=f594e112]:
+          - listitem [ref=f594e113]: Was this article helpful?
+          - listitem [ref=f594e114]:
+            - button "Yes" [ref=f594e115] [cursor=pointer]
+          - listitem [ref=f594e116]:
+            - button "No" [ref=f594e117] [cursor=pointer]
+          - listitem [ref=f594e118]:
+            - button "Leave feedback" [ref=f594e119] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : :"
+        - generic [ref=f594e120]:
+          - heading "Attachments" [level=2] [ref=f594e121]
+          - generic:
+            - button "Attach a file" [ref=f594e122] [cursor=pointer]
+            - text: 
+          - generic [ref=f594e124]:
+            - generic [ref=f594e127]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f594e128]
+            - generic [ref=f594e129]:
+              - grid [ref=f594e132]:
+                - rowgroup [ref=f594e133]:
+                  - row [ref=f594e134]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f594e135]':
+                      - generic:
+                        - generic [ref=f594e136]: File
+                        - generic [ref=f594e137]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f594e138]':
+                      - generic:
+                        - generic [ref=f594e139]: Last modified
+                        - generic [ref=f594e140]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f594e141]':
+                      - generic:
+                        - generic [ref=f594e142]: Size
+                        - generic [ref=f594e143]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f594e144]':
+                      - generic:
+                        - generic [ref=f594e145]: Added by
+                        - generic [ref=f594e146]: 
+              - grid [ref=f594e148]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f594e313]: File
+                          - generic [ref=f594e314]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f594e315]: Last modified
+                          - generic [ref=f594e316]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f594e317]: Size
+                          - generic [ref=f594e318]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f594e319]: Added by
+                          - generic [ref=f594e320]: 
+                - rowgroup [ref=f594e157]:
+                  - row [ref=f594e321]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f594e322]:
+                      - generic [ref=f594e323]:
+                        - generic [ref=f594e324]:
+                          - generic [ref=f594e325]: 
+                          - link "mindtouch.page#thumbnail" [ref=f594e326] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/65483/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f594e327]:
+                          - generic [ref=f594e328]: (no description)
+                          - text: 
+                    - gridcell "Dec 29, 2025, 6:45 PM" [ref=f594e329]
+                    - gridcell "11 KiB" [ref=f594e331]
+                    - gridcell "Rachel Mastrapa" [ref=f594e332]
+    - generic [ref=f594e161]:
+      - button "Open support menu" [ref=f594e163] [cursor=pointer]: "?"
+      - navigation [ref=f594e165]:
+        - paragraph [ref=f594e167]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f594e168] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f594e169] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f594e170] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f594e171] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f594e172] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f594e173]:
+      - generic:
+        - generic [ref=f594e175]:
+          - button "Annotation sidebar" [ref=f594e176]
+          - generic [ref=f594e181]:
+            - button "Show highlights" [ref=f594e182]
+            - button "New page note" [ref=f594e187]
+          - status [ref=f594e192]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f594e193]:
+    - button "contents" [ref=f594e194] [cursor=pointer]
+    - button "readability" [ref=f594e196] [cursor=pointer]
+    - button "resources" [ref=f594e198] [cursor=pointer]
+    - button "tools" [ref=f594e200] [cursor=pointer]
+    - button "developers" [ref=f594e202] [cursor=pointer]
+  - text:  
+  - generic [ref=f594e333]:
+    - generic [ref=f594e334] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f594e337] [cursor=pointer]

@@ -1,0 +1,323 @@
+- generic [ref=f370e1]:
+  - link "Skip to main content" [ref=f370e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f370e3]:
+    - text: 
+    - generic [ref=f370e4]:
+      - generic [ref=f370e5]:
+        - generic: ✕
+        - navigation [ref=f370e7]:
+          - generic [ref=f370e8]:
+            - link [ref=f370e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f370e11]
+            - button "Enter Reader Mode" [ref=f370e13] [cursor=pointer]:
+              - generic [ref=f370e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f370e16]:
+        - list [ref=f370e18]:
+          - listitem [ref=f370e19]:
+            - link [ref=f370e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f370e22]
+          - listitem [ref=f370e23]:
+            - text: 
+            - generic [ref=f370e25]:
+              - generic [ref=f370e26]: "Search :"
+              - searchbox "Search :" [ref=f370e27]
+              - button " Search" [ref=f370e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f370e29]:
+            - list [ref=f370e30]:
+              - listitem [ref=f370e31]:
+                - link "Edit" [ref=f370e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.03%3A_Clusters_on_the_H-R_Diagram?action=edit
+              - text: 
+              - listitem [ref=f370e33]:
+                - link " Options" [ref=f370e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f370e35]:
+                - link " Rachel Mastrapa" [ref=f370e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f370e37]:
+        - generic:
+          - button " Contents" [ref=f370e218] [cursor=pointer]
+          - list [ref=f370e39]:
+            - listitem [ref=f370e40]:
+              - link " Home" [ref=f370e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f370e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f370e43]:
+              - link " Workbench" [ref=f370e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f370e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f370e46]:
+              - link " De Anza - ASTR10" [ref=f370e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f370e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f370e49]:
+              - 'link " 12: Aging Stars" [ref=f370e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars
+                - generic [ref=f370e51]: 
+                - text: "12: Aging Stars"
+              - text: »
+            - listitem [ref=f370e52]:
+              - generic [ref=f370e53]: 
+              - text: "12.3: Clusters on the H-R Diagram"
+          - button " Expand/collapse global location" [ref=f370e54] [cursor=pointer]
+      - navigation:
+        - generic:                                               
+    - article [ref=f370e55]:
+      - generic [ref=f370e56]:
+        - generic [ref=f370e57]:
+          - button " Page settings" [ref=f370e58] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :      "
+        - 'heading "12.3: Clusters on the H-R Diagram" [level=1] [ref=f370e59]':
+          - generic [ref=f370e219]: "12.3: Clusters on the H-R Diagram "
+        - list [ref=f370e62]:
+          - listitem [ref=f370e63]:
+            - link [ref=f370e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f370e66]:
+                - img "CC" [ref=f370e67]
+                - img "BY" [ref=f370e68]
+          - listitem [ref=f370e69]:
+            - generic [ref=f370e70]:
+              - term [ref=f370e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f370e72]: Aug 5, 2026, 3:29 PM by Rachel Mastrapa
+          - listitem [ref=f370e73]:
+            - generic [ref=f370e74]:
+              - term [ref=f370e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f370e76]: Private
+          - listitem [ref=f370e77]:
+            - generic [ref=f370e78]:
+              - term [ref=f370e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f370e80]: "133499"
+          - listitem [ref=f370e81]:
+            - list [ref=f370e82]:
+              - listitem [ref=f370e83]:
+                - button "Pin Page" [ref=f370e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f370e85]:
+                - list [ref=f370e86]:
+                  - listitem [ref=f370e87]:
+                    - 'link " 12.2: Star Clusters" [ref=f370e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.02%3A_Star_Clusters
+                      - text: 
+                      - generic [ref=f370e89]: "12.2: Star Clusters"
+                  - listitem [ref=f370e90]:
+                    - 'link "12.4: Further Evolution of Stars " [ref=f370e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.04%3A_Further_Evolution_of_Stars
+                      - generic [ref=f370e92]: "12.4: Further Evolution of Stars"
+                      - text: 
+              - text:  
+      - list [ref=f370e95]:
+        - listitem [ref=f370e96]:
+          - img "OpenStax" [ref=f370e97]
+        - listitem [ref=f370e98]:
+          - link "OpenStax" [ref=f370e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f370e100]:
+          - link "OpenStax" [ref=f370e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f370e102]:
+        - group [ref=f370e223]:
+          - generic [ref=f370e224]:
+            - generic [ref=f370e225]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f370e226]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f370e227]:
+            - generic [ref=f370e230]:
+              - generic [ref=f370e232]:
+                - link "Edit" [ref=f370e233]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f370e234]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f370e235]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f370e236]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f370e237]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f370e238]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f370e241]:
+                - toolbar [ref=f370e242]:
+                  - button "Save" [ref=f370e243]:
+                    - generic [ref=f370e244]: 
+                  - button "Cancel" [ref=f370e246]:
+                    - generic [ref=f370e247]: 
+                - text:          
+                - toolbar [ref=f370e288]:
+                  - button "Alignment" [ref=f370e289]:
+                    - generic [ref=f370e290]: 
+                - text:    
+                - toolbar [ref=f370e303]:
+                  - button "Replace" [ref=f370e304]:
+                    - generic [ref=f370e305]: 
+                - toolbar [ref=f370e307]:
+                  - button "Enable Binder" [disabled] [ref=f370e308]
+                  - button "Insert Adapt" [disabled] [ref=f370e310]
+                  - button "Query" [ref=f370e312]
+                  - button "Accessibility Checker" [disabled] [ref=f370e315]
+                - toolbar [ref=f370e318]:
+                  - button "Visual" [pressed] [ref=f370e334]:
+                    - generic [ref=f370e320]: 
+            - application "Rich Text Editor, editarea" [ref=f370e322]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f370e336]: "<h2>The Age of Clusters</h2> <p class=\"lt-phys-64793\">In the previous section, we described how the oldest type of clusters are globular clusters. Open clusters are younger than globular clusters, and stellar associations are the youngest type of star grouping. In this section,&nbsp;we will describe where the stars in these different types of clusters are found in the H–R diagram. From that information and theoretical calculations,&nbsp;we estimate how long the stars in the clusters have lived.</p> <h3 class=\"lt-phys-64793\">Young Clusters</h3> <p class=\"lt-phys-64793\">What does theory predict for the H–R diagram of a cluster whose stars have recently condensed from an interstellar cloud? Remember that at every stage of evolution, massive stars evolve more quickly than their lower-mass counterparts. After a few million years, the most massive stars should have completed their contraction phase and be on the main sequence, while the less massive ones should be off to the right, still on their way to the main sequence. These ideas are demonstrated in Figure \\(\\PageIndex{1}\\), which shows the H–R diagram calculated by R. Kippenhahn and his associates at Munich University for a hypothetical cluster with an age of 3 million years. In the model, all of the stars form from the nebula at the same time.&nbsp;The high-mass, high-luminosity stars have already arrived at the main-sequence stage of their lives, while the lower-mass, lower-luminosity stars are still contracting in size and moving toward the zero-age main sequence, marked by a red line. The lower-mass stars are not yet hot enough to get all of their energy from the fusion of hydrogen.</p> <figure><img alt=\"H-R diagram of simulated 3 million year old star cluster. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/46283/5cb929382bbfcb30d12c8137bb06400e89548462\" /> <figcaption>Figure \\(\\PageIndex{1}\\): Model Cluster H–R Diagram. Astronomers simulated the stars in a cluster that is 3 million years old, and plotted the results on an H-R diagram. The high-mass stars are on the main sequence, while low mass stars have not reached zero-age main sequence. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY\">CC BY</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>). <a href=\"/Workbench/De_Anza_-_ASTR10/12:_Aging_Stars/12.07:_Accessible_Descriptions#Figure_12.3.1_Clusters_on_the_H-R_Diagram\" title=\"12.7: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{1}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64793\">There are real star clusters that fit this description. In 1950, astronomers performed the first study of a cluster called NGC 2264. This cluster, located about 2,600 light-years from us, is still associated with the region of gas and dust from which it was born. For this cluster, and other clusters, the stars formed from the nebula at roughly the same time.&nbsp;Figure \\(\\PageIndex{2}\\) is an image of NGC 2264, also known as the Christmas Tree Cluster. It is a complex mixture of hydrogen gas, which is ionized by hot embedded stars. It also has dark obscuring dust lanes, and brilliant young stars. The image is about 30 light-years across.</p> <figure><img alt=\"NGC 2264, the Christmas Tree Cluster. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/46281/b6b07d33fd0b25b1f27739c284839c618b5347eb\" /> <figcaption>Figure \\(\\PageIndex{2}\\): NGC 2264 is also known as the Christmas Tree Cluster, NGC 2264 is roughly 3 million years old, the same age as the model cluster plotted on the H-R diagram in Figure \\(\\PageIndex{1}\\). (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY\">CC BY</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>). <a href=\"/Workbench/De_Anza_-_ASTR10/12:_Aging_Stars/12.07:_Accessible_Descriptions#Figure_12.3.2_NGC_2264\" title=\"12.7: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{2}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64793\">The NGC 2264 cluster’s H–R diagram is in Figure \\(\\PageIndex{3}\\). Comparing this H–R diagram to that in Figure \\(\\PageIndex{1}\\) demonstrates the reality of data vs. tidy model results. Model results are produced by a program that uses a specific number of stars under the same conditions with a chosen distribution of masses, so the results will generally be evenly distributed. Reality is never quite as neat as a model, so astronomers are used to seeing individual data points form a more scattered structure than a model. This is partly because the real stars are not exactly like the stars in the model. More importantly, there are inherent errors in collecting data, also called noise. As long as observations are close to the model results, then there is agreement between the observation and model. In Figure \\(\\PageIndex{3}\\) the data has a similar pattern to the model results in Figure \\(\\PageIndex{1}\\). Most of the high-mass stars are near the zero-age main sequence line, indicating that they are fusing hydrogen. Most of the lower-mass stars are to the right of the main sequence indicating that they have not yet fully contracted or started fusing hydrogen. The data points that do not fit the pattern may be followed up on in future to determine why they are not where we think they should be. However, since most of the data fit the model, we can come to the conclusion that NGC 2264 is roughly 3 million years old.</p> <figure><img alt=\"H-R Diagram of NGC 2264. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/46278/2faeedd421884ebfbdd16b180f308298c81b7f12\" /> <figcaption>Figure \\(\\PageIndex{3}\\): NGC 2264 H–R Diagram. When the stars of NGC 2264 are plotted on the HR Diagram the plot looks similar to the model results plotted in Figure \\(\\PageIndex{1}\\). (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY\">CC BY</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>). <a href=\"/Workbench/De_Anza_-_ASTR10/12:_Aging_Stars/12.07:_Accessible_Descriptions#Figure_12.3.3_NGC_2264_H.E2.80.93R_Diagram\" title=\"12.7: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{3}\\)</a>.</figcaption> </figure> <h3 class=\"lt-phys-64793\">Older Clusters</h3> <p class=\"lt-phys-64793\">As clusters get older, their H–R diagrams begin to change. Within a few million years of reaching the main sequence, the most massive stars begin exhausting the hydrogen in their cores and evolve into red giants or supergiants.&nbsp;As more time passes, stars of lower mass begin to leave the main sequence and make their way to the upper right of the H–R diagram.</p> <p class=\"lt-phys-64793\">Figure \\(\\PageIndex{4}\\) is a photograph of NGC 3293, a cluster that is about 10 million years old. The dense clouds of gas and dust that the stars formed from are gone. The bright orange star in NGC 3293 is the member of the cluster that has evolved most rapidly. An H-R diagram of this cluster would have most stars on the main sequence and one red giant to the right of the main sequence.</p> <figure><img alt=\"NGC 3293 star cluster. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/46280/171a2fc603d18e9ef76a7ab77a023f884163fd78\" /> <figcaption>Figure \\(\\PageIndex{4}\\): NGC 3293. At 10 million years old, has one bright orange red giant, but most stars are still on the main sequence. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY\">CC BY</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>). <a href=\"/Workbench/De_Anza_-_ASTR10/12:_Aging_Stars/12.07:_Accessible_Descriptions#Figure_12.3.4_NGC_3293\" title=\"12.7: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{4}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64793\">Figure \\(\\PageIndex{5}\\) includes the H–R diagram of the open cluster M41, Chart (a) and an image of the cluster, Image (b). M41 is roughly 100 million years old and includes several red giants. By this time, a significant number of stars have moved off to the right of the zero-age main sequence, the red line, and become red giants. There is a gap that appears in this H–R diagram between the stars near the main sequence and the red giants. This gap does not necessarily imply that stars avoid a region of certain temperatures and luminosities. In this case, it simply represents a domain of temperature and luminosity through which stars evolve very quickly. We see a gap for M41 because at this particular moment, we have not caught a star in the process of moving across this part of the diagram.</p> <figure><img alt=\"The H-R diagram of Cluster M41. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/46279/babf45738d5b4efa3373ccd9de535e00378bb4fb\" /> <figcaption>Figure \\(\\PageIndex{5}\\): Cluster M41. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY\">CC BY</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>) Chart (a) When the stars of Cluster M41&nbsp;are plotted on the H-R diagram, the low mass stars are on the main sequence. As mass increases the stars are starting to move off of the main sequence, while a handful are already red giants Image (b) The image of Cluster M41 includes have a bright red stars, but are mostly white. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY\">CC BY</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>).&nbsp;<a href=\"/Workbench/De_Anza_-_ASTR10/12:_Aging_Stars/12.07:_Accessible_Descriptions#Figure_12.3.5_Cluster_M41\" title=\"12.7: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{5}\\)</a>.</figcaption> </figure> <section class=\"box-note\"> <h5 class=\"box-legend\"><span class=\"lt-icon-default\">Further Exploration: Interactive Activity</span></h5> <p>To see how astronomers use stellar populations to study the history of galaxies, watch the Hubble Space Telescope's <a href=\"https://www.youtube.com/watch?v=w_yT_Q-KX3g\" rel=\"noopener noreferrer\" target=\"_blank\"> Evolution of Stars in a Dwarf Galaxy </a> video, which illustrates how stars of different ages reveal a galaxy's evolutionary history.</p> </section>"
+              - generic [ref=f370e324]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f370e326] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f370e104]:
+          - separator [ref=f370e105]
+          - paragraph [ref=f370e107]:
+            - text: This page titled
+            - 'link "12.3: Clusters on the H-R Diagram" [ref=f370e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.03%3A_Clusters_on_the_H-R_Diagram
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f370e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f370e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f370e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f370e112]:
+        - list [ref=f370e113]:
+          - listitem [ref=f370e114]:
+            - link "Back to top" [ref=f370e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f370e116]:
+            - list [ref=f370e117]:
+              - listitem [ref=f370e118]:
+                - 'link " 12.2: Star Clusters" [ref=f370e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.02%3A_Star_Clusters
+                  - text: 
+                  - generic [ref=f370e120]: "12.2: Star Clusters"
+              - listitem [ref=f370e121]:
+                - 'link "12.4: Further Evolution of Stars " [ref=f370e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.04%3A_Further_Evolution_of_Stars
+                  - generic [ref=f370e123]: "12.4: Further Evolution of Stars"
+                  - text: 
+        - list [ref=f370e126]:
+          - listitem [ref=f370e127]: Was this article helpful?
+          - listitem [ref=f370e128]:
+            - button "Yes" [ref=f370e129] [cursor=pointer]
+          - listitem [ref=f370e130]:
+            - button "No" [ref=f370e131] [cursor=pointer]
+          - listitem [ref=f370e132]:
+            - button "Leave feedback" [ref=f370e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , ,"
+        - generic [ref=f370e134]:
+          - heading "Attachments" [level=2] [ref=f370e135]
+          - generic:
+            - button "Attach a file" [ref=f370e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f370e138]:
+            - generic [ref=f370e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f370e142]
+            - generic [ref=f370e143]:
+              - grid [ref=f370e146]:
+                - rowgroup [ref=f370e147]:
+                  - row [ref=f370e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f370e149]':
+                      - generic:
+                        - generic [ref=f370e150]: File
+                        - generic [ref=f370e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f370e152]':
+                      - generic:
+                        - generic [ref=f370e153]: Last modified
+                        - generic [ref=f370e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f370e155]':
+                      - generic:
+                        - generic [ref=f370e156]: Size
+                        - generic [ref=f370e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f370e158]':
+                      - generic:
+                        - generic [ref=f370e159]: Added by
+                        - generic [ref=f370e160]: 
+              - grid [ref=f370e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f370e163]: File
+                          - generic [ref=f370e164]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f370e165]: Last modified
+                          - generic [ref=f370e166]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f370e167]: Size
+                          - generic [ref=f370e168]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f370e169]: Added by
+                          - generic [ref=f370e170]: 
+                - rowgroup [ref=f370e171]:
+                  - row [ref=f370e172]:
+                    - gridcell "No files attached." [ref=f370e173]
+    - generic [ref=f370e175]:
+      - button "Open support menu" [ref=f370e177] [cursor=pointer]: "?"
+      - navigation [ref=f370e179]:
+        - paragraph [ref=f370e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f370e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f370e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f370e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f370e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f370e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f370e187]:
+      - generic:
+        - generic [ref=f370e189]:
+          - button "Annotation sidebar" [ref=f370e190]
+          - generic [ref=f370e195]:
+            - button "Show highlights" [ref=f370e196]
+            - button "New page note" [ref=f370e201]
+          - status [ref=f370e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f370e207]:
+    - button "contents" [ref=f370e208] [cursor=pointer]
+    - button "readability" [ref=f370e210] [cursor=pointer]
+    - button "resources" [ref=f370e212] [cursor=pointer]
+    - button "tools" [ref=f370e214] [cursor=pointer]
+    - button "developers" [ref=f370e216] [cursor=pointer]
+  - text:  
+  - generic [ref=f370e327]:
+    - generic [ref=f370e328] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f370e331] [cursor=pointer]

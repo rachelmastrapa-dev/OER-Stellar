@@ -1,0 +1,754 @@
+- generic [ref=f81e1]:
+  - link "Skip to main content" [ref=f81e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f81e3]:
+    - text: 
+    - generic [ref=f81e4]:
+      - generic [ref=f81e5]:
+        - generic: ✕
+        - navigation [ref=f81e7]:
+          - generic [ref=f81e8]:
+            - link [ref=f81e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f81e11]
+            - button "Enter Reader Mode" [ref=f81e13] [cursor=pointer]:
+              - generic [ref=f81e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f81e16]:
+        - list [ref=f81e18]:
+          - listitem [ref=f81e19]:
+            - link [ref=f81e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f81e22]
+          - listitem [ref=f81e23]:
+            - text: 
+            - generic [ref=f81e25]:
+              - generic [ref=f81e26]: "Search :"
+              - searchbox "Search :" [ref=f81e27]
+              - button " Search" [ref=f81e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f81e29]:
+            - list [ref=f81e30]:
+              - listitem [ref=f81e31]:
+                - link "Edit" [ref=f81e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.04%3A_Color_and_Temperature?action=edit
+              - text: 
+              - listitem [ref=f81e33]:
+                - link " Options" [ref=f81e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f81e35]:
+                - link " Rachel Mastrapa" [ref=f81e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f81e37]:
+        - generic:
+          - button " Contents" [ref=f81e207] [cursor=pointer]
+          - list [ref=f81e39]:
+            - listitem [ref=f81e40]:
+              - link " Home" [ref=f81e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f81e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f81e43]:
+              - link " Workbench" [ref=f81e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f81e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f81e46]:
+              - link " De Anza - ASTR10" [ref=f81e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f81e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f81e49]:
+              - 'link " 3: Stars and Light" [ref=f81e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light
+                - generic [ref=f81e51]: 
+                - text: "3: Stars and Light"
+              - text: »
+            - listitem [ref=f81e52]:
+              - generic [ref=f81e53]: 
+              - text: "3.4: Color and Temperature"
+          - button " Expand/collapse global location" [ref=f81e54] [cursor=pointer]
+      - navigation:
+        - generic:                                               
+    - article [ref=f81e55]:
+      - generic [ref=f81e56]:
+        - generic [ref=f81e57]:
+          - button " Page settings" [ref=f81e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "3.4: Color and Temperature" [level=1] [ref=f81e59]':
+          - generic [ref=f81e208]: "3.4: Color and Temperature "
+        - list [ref=f81e62]:
+          - listitem [ref=f81e63]:
+            - link [ref=f81e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f81e66]:
+                - img "CC" [ref=f81e67]
+                - img "BY" [ref=f81e68]
+          - listitem [ref=f81e69]:
+            - generic [ref=f81e70]:
+              - term [ref=f81e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f81e72]: Dec 27, 2025, 1:32 PM by Rachel Mastrapa
+          - listitem [ref=f81e73]:
+            - generic [ref=f81e74]:
+              - term [ref=f81e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f81e76]: Private
+          - listitem [ref=f81e77]:
+            - generic [ref=f81e78]:
+              - term [ref=f81e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f81e80]: "131904"
+          - listitem [ref=f81e81]:
+            - list [ref=f81e82]:
+              - listitem [ref=f81e83]:
+                - button "Pin Page" [ref=f81e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f81e85]:
+                - list [ref=f81e86]:
+                  - listitem [ref=f81e87]:
+                    - 'link " 3.3: The Electromagnetic Spectrum" [ref=f81e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.03%3A_The_Electromagnetic_Spectrum
+                      - text: 
+                      - generic [ref=f81e89]: "3.3: The Electromagnetic Spectrum"
+                  - listitem [ref=f81e90]:
+                    - 'link "3.5: Light Pollution and Satellite Constellations " [ref=f81e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.05%3A_Light_Pollution_and_Satellite_Constellations
+                      - generic [ref=f81e92]: "3.5: Light Pollution and Satellite Constellations"
+                      - text: 
+      - text: 
+      - generic [ref=f81e93]:
+        - group [ref=f81e212]:
+          - generic [ref=f81e213]:
+            - generic [ref=f81e214]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f81e215]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f81e216]:
+            - generic [ref=f81e219]:
+              - generic [ref=f81e220]:
+                - generic [ref=f81e221]:
+                  - link "Edit" [ref=f81e222]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f81e223]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f81e224]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f81e225]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f81e226]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f81e227]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f81e228]: "Words: 2409, Chars: 14977"
+              - group "Editor toolbars" [ref=f81e230]:
+                - toolbar [ref=f81e231]:
+                  - button "Save" [ref=f81e232]:
+                    - generic [ref=f81e233]: 
+                  - button "Cancel" [ref=f81e235]:
+                    - generic [ref=f81e236]: 
+                - toolbar [ref=f81e239]:
+                  - button "Undo" [disabled] [ref=f81e240]:
+                    - generic [ref=f81e241]: 
+                  - button "Redo" [disabled] [ref=f81e242]:
+                    - generic [ref=f81e243]: 
+                - toolbar [ref=f81e245]:
+                  - button "Headings" [ref=f81e246]
+                - toolbar [ref=f81e251]:
+                  - button "Bold" [ref=f81e252]:
+                    - generic [ref=f81e253]: 
+                  - button "Italic" [ref=f81e254]:
+                    - generic [ref=f81e255]: 
+                  - button "Underline" [ref=f81e256]:
+                    - generic [ref=f81e257]: 
+                - toolbar [ref=f81e259]:
+                  - button "Text color" [ref=f81e260]:
+                    - generic [ref=f81e261]: 
+                  - button "Background color" [ref=f81e263]:
+                    - generic [ref=f81e264]: 
+                - toolbar [ref=f81e267]:
+                  - button "Remove format" [ref=f81e268]:
+                    - generic [ref=f81e269]: 
+                - toolbar [ref=f81e271]:
+                  - button "Insert/Remove numbered list" [ref=f81e272]:
+                    - generic [ref=f81e273]: 
+                  - button "Insert/Remove bulleted list" [ref=f81e274]:
+                    - generic [ref=f81e275]: 
+                - toolbar [ref=f81e277]:
+                  - button "Alignment" [ref=f81e278]:
+                    - generic [ref=f81e279]: 
+                - text: 
+                - toolbar [ref=f81e282]:
+                  - button "Link" [ref=f81e283]:
+                    - generic [ref=f81e284]: 
+                  - button "Image" [ref=f81e285]:
+                    - generic [ref=f81e286]: 
+                  - text: 
+                  - button "Boxes" [ref=f81e287]
+                - toolbar [ref=f81e292]:
+                  - button "Replace" [ref=f81e293]:
+                    - generic [ref=f81e294]: 
+                - toolbar [ref=f81e296]:
+                  - button "Enable Binder" [ref=f81e297]
+                  - button "Insert Adapt" [ref=f81e299]
+                  - button "Query" [ref=f81e301]
+                  - button "Accessibility Checker" [ref=f81e304]
+                - toolbar [ref=f81e307]:
+                  - button "HTML" [ref=f81e308]:
+                    - generic [ref=f81e309]: 
+            - application "Rich Text Editor, editarea" [ref=f81e311]:
+              - iframe [active] [ref=f81e312]:
+                - generic [active] [ref=f83e1]:
+                  - heading "Radiation and Temperature" [level=3] [ref=f83e2]
+                  - paragraph [ref=f83e3]:
+                    - text: Some astronomical objects emit mostly infrared radiation, others mostly visible light, and still others mostly ultraviolet radiation. What determines the type of electromagnetic radiation emitted by the Sun, stars, and other dense astronomical objects? The answer often turns out to be their
+                    - emphasis [ref=f83e4]: temperature
+                    - text: .
+                  - paragraph [ref=f83e5]: "At the microscopic level, everything in nature is in motion. A solid is composed of molecules and atoms in continuous vibration: they move back and forth in place, but their motion is much too small for our eyes to make out. A gas consists of atoms and/or molecules that are flying about freely at high speed, continually bumping into one another and bombarding the surrounding matter. The hotter the solid or gas, the more rapid the motion of its molecules or atoms. The temperature of something is thus a measure of the average motion energy of the particles that make it up."
+                  - paragraph [ref=f83e6]: This motion at the microscopic level is responsible for much of the electromagnetic radiation on Earth and in the universe. As atoms and molecules move about and collide, or vibrate in place, their electrons give off electromagnetic radiation. The characteristics of this radiation are determined by the temperature of those atoms and molecules. In a hot material, for example, the individual particles vibrate in place or move rapidly from collisions, so the emitted waves are, on average, more energetic. And recall that higher energy waves have a higher frequency. In very cool material, the particles have low-energy atomic and molecular motions and thus generate lower-energy waves.
+                  - paragraph [ref=f83e7]:
+                    - text: An object’s
+                    - strong [ref=f83e8]: temperature
+                    - text: is the measure of the speed at which the object’s particles move. To measure temperature, astronomers prefer the
+                    - strong [ref=f83e9]: Kelvin temperature scale
+                    - text: . This scale is much like Celsius, but 0
+                    - superscript [ref=f83e10]: o
+                    - text: is Absolute Zero – scale starts at zero, 0K.
+                    - strong [ref=f83e11]: Wien’s Law
+                    - text: relates the color of an incandescent object to its temperature. The law states that wavelength of the brightest color is inversely proportional to the object’s temperature.
+                  - img "Image of Wien’s Law in an equation. The wavelength of the brightest color multiplied by one divided by t." [ref=f83e13]
+                  - paragraph [ref=f83e14]: "Where:"
+                  - list [ref=f83e15]:
+                    - listitem [ref=f83e16]:
+                      - strong [ref=f83e17]: Stefan-Boltzmann Law
+                      - text: states that the power,
+                      - strong [ref=f83e18]: P
+                      - text: ", emitted per unit of area of an object is proportional to the fourth power of its temperature,"
+                      - strong [ref=f83e19]: T
+                      - text: ". Mathematically, this is:"
+                      - img "Image of Stefan-Boltzmann Law in an equation. Power, P, emitted per unit of area of an object is proportional to the fourth power of its temperature, T" [ref=f83e21]
+                      - list [ref=f83e22]:
+                        - listitem [ref=f83e23]:
+                          - strong [ref=f83e24]: P
+                          - text: is the power
+                        - listitem [ref=f83e25]:
+                          - strong [ref=f83e26]: T
+                          - text: is the temperature
+                  - heading "Radiation Laws" [level=3] [ref=f83e27]
+                  - paragraph [ref=f83e28]: To understand, in more quantitative detail, the relationship between temperature and electromagnetic radiation, we imagine an idealized object called a blackbody. Such an object (unlike your sweater or your astronomy instructor’s head) does not reflect or scatter any radiation, but absorbs all the electromagnetic energy that falls onto it. The energy that is absorbed causes the atoms and molecules in it to vibrate or move around at increasing speeds. As it gets hotter, this object will radiate electromagnetic waves until absorption and radiation are in balance. We want to discuss such an idealized object because, as you will see, stars behave in very nearly the same way.
+                  - paragraph [ref=f83e29]:
+                    - text: The radiation from a blackbody has several characteristics, as illustrated in Figure 5.8. The graph shows the power emitted at each wavelength by objects of different temperatures. In science, the word
+                    - emphasis [ref=f83e30]: power
+                    - text: means the energy coming off per second (and it is typically measured in
+                    - emphasis [ref=f83e31]: watts
+                    - text: ", which you are probably familiar with from buying lightbulbs)."
+                  - 'figure "Figure 5.8 : Radiation Laws Illustrated. This graph shows in arbitrary units how many photons are given off at each wavelength for objects at four different temperatures. The wavelengths corresponding to visible light are shown by the colored bands. Note that at hotter temperatures, more energy (in the form of photons) is emitted at all wavelengths. The higher the temperature, the shorter the wavelength at which the peak amount of energy is radiated (this is known as Wien’s law)." [ref=f83e32]':
+                    - img "Graph of radiation laws. The horizontal axis shows wavelength ranging from 1000 to 3000 nanometers. The vertical axis shows intensity in arbitrary units. Four different curves are shown, each corresponding to an object at a certain temperature in degrees Kelvin. The highest point of each curve is labeled with a dot that indicates the wavelength corresponding to the peak energy emitted by the object at that temperature. The 3000 K curve peaks at 1200 nm in the infrared. The 4000 K object peaks at 900 nm in the near-infrared, the 5000 K curve peaks at 700 nm in the visible-red, and the 6000 K object peaks at about 500 nm in the yellow part of the visible spectrum." [ref=f83e34]
+                  - paragraph [ref=f83e36]: First of all, notice that the curves show that, at each temperature, our blackbody object emits radiation (photons) at all wavelengths (all colors). This is because in any solid or denser gas, some molecules or atoms vibrate or move between collisions slower than average and some move faster than average. So when we look at the electromagnetic waves emitted, we find a broad range, or spectrum, of energies and wavelengths. More energy is emitted at the average vibration or motion rate (the highest part of each curve), but if we have a large number of atoms or molecules, some energy will be detected at each wavelength.
+                  - paragraph [ref=f83e37]: Second, note that an object at a higher temperature emits more power at all wavelengths than does a cooler one. In a hot gas (the taller curves in Figure 5.8), for example, the atoms have more collisions and give off more energy. In the real world of stars, this means that hotter stars give off more energy at every wavelength than do cooler stars.
+                  - paragraph [ref=f83e38]: Third, the graph shows us that the higher the temperature, the shorter the wavelength at which the maximum power is emitted. Remember that a shorter wavelength means a higher frequency and energy. It makes sense, then, that hot objects give off a larger fraction of their energy at shorter wavelengths (higher energies) than do cool objects. You may have observed examples of this rule in everyday life. When a burner on an electric stove is turned on low, it emits only heat, which is infrared radiation, but does not glow with visible light. If the burner is set to a higher temperature, it starts to glow a dull red. At a still-higher setting, it glows a brighter orange-red (shorter wavelength). At even higher temperatures, which cannot be reached with ordinary stoves, metal can appear brilliant yellow or even blue-white.
+                  - paragraph [ref=f83e39]: We can use these ideas to come up with a rough sort of “thermometer” for measuring the temperatures of stars. Because many stars give off most of their energy in visible light, the color of light that dominates a star’s appearance is a rough indicator of its temperature. If one star looks red and another looks blue, which one has the higher temperature? Because blue is the shorter-wavelength color, it is the sign of a hotter star. (Note that the temperatures we associate with different colors in science are not the same as the ones artists use. In art, red is often called a “hot” color and blue a “cool” color. Likewise, we commonly see red on faucet or air conditioning controls to indicate hot temperatures and blue to indicate cold temperatures. Although these are common uses to us in daily life, in nature, it’s the other way around.)
+                  - paragraph [ref=f83e40]: We can develop a more precise star thermometer by measuring how much energy a star gives off at each wavelength and by constructing diagrams like Figure 5.8. The location of the peak (or maximum) in the power curve of each star can tell us its temperature. The average temperature at the surface of the Sun, which is where the radiation that we see is emitted, turns out to be 5800 K. (Throughout this text, we use the kelvin or absolute temperature scale. On this scale, water freezes at 273 K and boils at 373 K. All molecular motion ceases at 0 K. The various temperature scales are described in Appendix D.) There are stars cooler than the Sun and stars hotter than the Sun.
+                  - paragraph [ref=f83e41]: The wavelength at which maximum power is emitted can be calculated according to the equation
+                  - paragraph [ref=f83e42]:
+                    - math [ref=f83e43]:
+                      - generic [ref=f83e44]: =
+                  - paragraph [ref=f83e48]:
+                    - text: where the wavelength is in nanometers (one billionth of a meter) and the temperature is in K (the constant
+                    - math [ref=f83e49]:
+                      - generic [ref=f83e50]:
+                        - generic [ref=f83e52]:
+                          - generic [ref=f83e53]: "3"
+                          - generic [ref=f83e54]: ×
+                          - generic [ref=f83e55]: "10"
+                          - generic [ref=f83e56]: ^
+                          - generic [ref=f83e57]: "6"
+                          - generic [ref=f83e58]: has units of
+                        - text: 5.1.
+                  - paragraph [ref=f83e59]: Since this star has a peak wavelength that is at a shorter wavelength (in the ultraviolet part of the spectrum) than that of our Sun (in the visible part of the spectrum), it should come as no surprise that its surface temperature is much hotter than our Sun’s.
+                  - paragraph [ref=f83e60]:
+                    - text: We can also describe our observation that hotter objects radiate more power at all wavelengths in a mathematical form. If we sum up the contributions from all parts of the electromagnetic spectrum, we obtain the total energy emitted by a blackbody. What we usually measure from a large object like a star is the energy flux, the power emitted per square meter. The word
+                    - emphasis [ref=f83e61]: flux
+                    - text: "means “flow” here: we are interested in the flow of power into an area (like the area of a telescope mirror). It turns out that the energy flux from a blackbody at temperature"
+                    - emphasis [ref=f83e62]: T
+                    - text: is proportional to the fourth power of its absolute temperature. This relationship is known as the Stefan-Boltzmann law and can be written in the form of an equation as
+                  - paragraph [ref=f83e63]:
+                    - math [ref=f83e64]:
+                      - generic [ref=f83e67]:
+                        - generic [ref=f83e68]: F
+                        - generic [ref=f83e69]: =
+                  - paragraph [ref=f83e70]:
+                    - text: where
+                    - emphasis [ref=f83e71]: F
+                    - text: stands for the energy flux (in units of watts per square meter), T is given in Kelvins, and σ (Greek letter sigma) is a constant number
+                    - math [ref=f83e72]:
+                      - generic [ref=f83e75]:
+                        - generic [ref=f83e76]: (
+                        - generic [ref=f83e77]: "5.67"
+                        - generic [ref=f83e78]: ×
+                        - generic [ref=f83e79]:
+                          - generic [ref=f83e80]: "10"
+                          - generic [ref=f83e81]:
+                            - generic [ref=f83e82]: "-"
+                            - generic [ref=f83e83]: "8"
+                        - generic [ref=f83e84]: )
+                    - text: .
+                  - paragraph [ref=f83e85]:
+                    - text: Notice how impressive this result is. Increasing the temperature of a star would have a tremendous effect on the power it radiates. If the Sun, for example, were twice as hot—that is, if it had a temperature of 11,600 K—it would radiate 2
+                    - superscript [ref=f83e86]: "4"
+                    - text: ", or 16 times more power than it does now. Tripling the temperature would raise the power output 81 times. Hot stars really shine away a tremendous amount of energy."
+                  - generic [ref=f83e87]:
+                    - heading "Stars in the Night Skies" [level=2] [ref=f83e88]
+                    - paragraph [ref=f83e89]:
+                      - text: "As one looks at the stars in the night sky, a couple of things become obvious, especially if you are observing from a dark sky site. First, you will observe that the stars are of various brightnesses. This is due to two main factors: the distance to the star and the type of star. Second, you will see that not all stars are white in color. You will see red stars, orange stars, blue and blue-white stars. No, your eyes are not playing tricks on you. And, by the way, yellow stars, like the Sun, are a little harder for the human eye to see the star’s yellow color. Yet, through a telescope, and for some in binoculars, the yellow color is visible."
+                      - superscript [ref=f83e90]: (1)
+                  - generic [ref=f83e91]:
+                    - heading "Star Color" [level=2] [ref=f83e92]
+                    - paragraph [ref=f83e93]: Astronomers measure a star’s surface temperature at its photosphere. Recall that the photosphere is the outer layer of the star from which light is radiated. The star’s photosphere temperature dictates its color. Conversely, the color of a star at its photosphere shows its temperature. The hotter the star is, the more blue or blue-white it is. And, the cooler the star, the redder the star will appear in color.
+                    - paragraph [ref=f83e94]: Astronomers classify stars by their color and/or photosphere temperature, called a star’s Spectral Type or Spectral Class. An astronomer, Annie Jump Cannon, sorted spectral data and designed the stellar spectral types we still use; O-B-A-F-G-K-M.
+                    - generic [ref=f83e95]:
+                      - img "Seven stars are shown on a black background with the smallest type, M on the left, through the largest, O, on the right." [ref=f83e96]
+                      - generic [ref=f83e97]:
+                        - text: Stars – colors with spectral types. Not all of the star types are shown, such as the Red Supergiant stars.
+                        - link "Morgan-Keenan spectral classification" [ref=f83e98]:
+                          - /url: https://commons.wikimedia.org/wiki/File:Morgan-Keenan_spectral_classification.png
+                        - text: by LucasVB is licensed under
+                        - link "CC BY-SA 3.0" [ref=f83e99]:
+                          - /url: https://creativecommons.org/licenses/by-sa/3.0
+                    - paragraph [ref=f83e100]:
+                      - text: A more-detailed form of Cannon’s classification, the Morgan-Keenan classification, provides more information about each star by adding Roman numerals with the spectral types. See the table, below, for examples of stars, temperature, and color.
+                      - superscript [ref=f83e101]: (1)
+                    - generic [ref=f83e102]:
+                      - heading "Examples of Stars and Spectral Types" [level=4] [ref=f83e103]
+                      - table [ref=f83e104]:
+                        - rowgroup [ref=f83e105]:
+                          - row [ref=f83e106]:
+                            - columnheader "Spectral Type" [ref=f83e107]
+                            - columnheader "Star Example" [ref=f83e108]
+                            - columnheader "Temperature Range, K" [ref=f83e109]
+                            - columnheader "Stellar Color" [ref=f83e110]
+                        - rowgroup [ref=f83e111]:
+                          - row [ref=f83e112]:
+                            - cell "O" [ref=f83e113]
+                            - cell "Orion Belt Stars" [ref=f83e114]
+                            - cell ">30,000" [ref=f83e115]
+                            - cell "Blue-Blue White" [ref=f83e116]
+                          - row [ref=f83e117]:
+                            - cell "B" [ref=f83e118]
+                            - cell "Rigel" [ref=f83e119]
+                            - cell "10,000–30,000" [ref=f83e120]
+                            - cell "Blue-White" [ref=f83e121]
+                          - row [ref=f83e122]:
+                            - cell "A" [ref=f83e123]
+                            - cell "Sirius" [ref=f83e124]
+                            - cell "7,500–10,000" [ref=f83e125]
+                            - cell "White" [ref=f83e126]
+                          - row [ref=f83e127]:
+                            - cell "F" [ref=f83e128]
+                            - cell "Polaris" [ref=f83e129]
+                            - cell "6,000–7,500" [ref=f83e130]
+                            - cell "Yellow" [ref=f83e131]
+                          - row [ref=f83e132]:
+                            - cell "G" [ref=f83e133]
+                            - cell "Sun" [ref=f83e134]
+                            - cell "5,000–6,000" [ref=f83e135]
+                            - cell "Deep Yellow" [ref=f83e136]
+                          - row [ref=f83e137]:
+                            - cell "K" [ref=f83e138]
+                            - cell "Arcturus" [ref=f83e139]
+                            - cell "3,5000–5,000" [ref=f83e140]
+                            - cell "Orange" [ref=f83e141]
+                          - row [ref=f83e142]:
+                            - cell "M" [ref=f83e143]
+                            - cell "Betelgeuse" [ref=f83e144]
+                            - cell "<3,500" [ref=f83e145]
+                            - cell "Red" [ref=f83e146]
+                  - generic [ref=f83e147]:
+                    - heading "Seeing Star Colors" [level=2] [ref=f83e148]
+                    - generic [ref=f83e149]:
+                      - img "The constellation Orion. Deep sky objects visible in this image include the Orion Belt Stars, Betelgeuse, and Rigel." [ref=f83e150]
+                      - generic [ref=f83e151]:
+                        - text: Orion the Hunter. Note several identified stars; Betelgeuse (red), Belt Stars (blue-blue white), and Rigel (blue-white). Orion 3008 by Florida State College at Jacksonville is licensed under
+                        - link "CC BY-SA 3.0" [ref=f83e152]:
+                          - /url: https://creativecommons.org/licenses/by-sa/3.0
+                        - text: / A derivative from the original work
+                    - paragraph [ref=f83e153]: Perhaps the best constellation to view various star colors is Orion. This winter constellation includes the stars Rigel (Blue-White), Belt Stars (Blue-Blue White), and Betelgeuse (Red).
+                    - paragraph [ref=f83e154]: You can easily see the star colors without a telescope or binoculars, especially red Betelgeuse and the other blue stars. With a pair of binoculars, star colors become even-more obvious. Many have likened these colorful stars as celestial gems.
+                    - paragraph [ref=f83e155]: Albireo, also known as Beta Cygni, is a double star system in the constellation Cygnus the Swan. With the naked eye, Albireo looks like a single star. Through a small telescope or even binoculars, one can see two stars that astronomers call Albireo A and Albireo B. The obvious orange and blue stars are occasionally referred to as the “Gator Double.”
+                    - generic [ref=f83e156]:
+                      - img "The orange and blue stars of Albireo are shown." [ref=f83e157]
+                      - generic [ref=f83e158]:
+                        - text: The orange and blue stars of Albireo NewAlbireo by Hewholooks is licensed under
+                        - link "CC BY-SA 3.0" [ref=f83e159]:
+                          - /url: https://creativecommons.org/licenses/by-sa/3.0
+                    - paragraph [ref=f83e160]:
+                      - text: Polaris, the Pole Star in the constellation Ursa Minor (the little bear), is usually easy to find, unless you have too many streetlights around you or your horizon blocks your view to the north. Polaris is an F star, based on Annie Jump Cannon’s classification. It is a yellow star, and slightly hotter at its photosphere than our Sun.
+                      - superscript [ref=f83e161]: (1)
+                    - generic [ref=f83e162]:
+                      - img "A star trail photograph. Polaris — a yellow star — is at the very center of the photo, indicated by the arrow." [ref=f83e163]
+                      - generic [ref=f83e164]:
+                        - text: A star trail photograph. Polaris — a yellow star — is at the very center of the photo, indicated by the arrow. Star Trail above Beccles by Florida State College at Jacksonville is licensed under
+                        - link "CC BY-SA 4.0" [ref=f83e165]:
+                          - /url: https://creativecommons.org/licenses/by-sa/4.0
+                        - text: / A derivative from the original work
+                  - generic [ref=f83e166]:
+                    - generic [ref=f83e167]: CC licensed content, Original
+                    - list [ref=f83e168]:
+                      - listitem [ref=f83e169]:
+                        - strong [ref=f83e170]: Authored by
+                        - text: ": Florida State College at Jacksonville."
+                        - strong [ref=f83e171]: License
+                        - text: ":"
+                        - emphasis [ref=f83e172]:
+                          - 'link "CC BY: Attribution" [ref=f83e173]':
+                            - /url: https://creativecommons.org/licenses/by/4.0
+                  - paragraph [ref=f83e174]
+                  - heading "Further Exploration" [level=2] [ref=f83e175]
+                  - list [ref=f83e176]:
+                    - listitem [ref=f83e177]:
+                      - text: Check out the
+                      - link "NASA briefing" [ref=f83e178]:
+                        - /url: https://openstax.org/l/30elmagsp1
+                      - text: or
+                      - link "NASA’s 5-minute introductory video" [ref=f83e179]:
+                        - /url: https://openstax.org/l/30elmagsp2
+                      - text: to learn more about the electromagnetic spectrum.
+                    - listitem [ref=f83e180]:
+                      - text: You can use the
+                      - link "Blackbody Spectrum simulator" [ref=f83e181]:
+                        - /url: https://openstax.org/l/30blackbodysim
+                      - text: to explore the relationship between an object’s temperature, peak wavelength, overall brightness, and apparent color.
+                  - heading "Examples and Exercises" [level=2] [ref=f83e182]
+                  - paragraph [ref=f83e183]: "Example: Calculating the Temperature of a Blackbody"
+                  - paragraph [ref=f83e184]: We can use Wien’s law to calculate the temperature of a star provided we know the wavelength of peak intensity for its spectrum. If the emitted radiation from a red dwarf star has a wavelength of maximum power at 1200 nm, what is the temperature of this star, assuming it is a blackbody?
+                  - paragraph [ref=f83e185]: Solution
+                  - paragraph [ref=f83e186]: "Solving Wien’s law for temperature gives:"
+                  - paragraph [ref=f83e187]:
+                    - math [ref=f83e188]:
+                      - generic [ref=f83e191]:
+                        - generic [ref=f83e192]: T
+                        - generic [ref=f83e193]: =
+                        - generic [ref=f83e194]:
+                          - generic [ref=f83e195]:
+                            - generic [ref=f83e196]: "3"
+                            - generic [ref=f83e197]: ×
+                            - generic [ref=f83e198]:
+                              - generic [ref=f83e199]: "10"
+                              - generic [ref=f83e201]: "6"
+                            - generic [ref=f83e202]: nm
+                          - generic [ref=f83e203]: K
+                          - generic [ref=f83e206]:
+                            - generic [ref=f83e207]: λ
+                            - generic [ref=f83e208]: max
+                        - generic [ref=f83e210]: =
+                        - generic [ref=f83e211]:
+                          - generic [ref=f83e212]:
+                            - generic [ref=f83e213]: "3"
+                            - generic [ref=f83e214]: ×
+                            - generic [ref=f83e215]:
+                              - generic [ref=f83e216]: "10"
+                              - generic [ref=f83e218]: "6"
+                            - generic [ref=f83e219]: nm
+                          - generic [ref=f83e220]: K
+                          - generic [ref=f83e222]: "1200"
+                          - generic [ref=f83e224]: nm
+                        - generic [ref=f83e226]: =
+                  - paragraph [ref=f83e227]: "Example: Calculating the Power of a Star"
+                  - paragraph [ref=f83e228]:
+                    - text: While energy flux tells us how much power a star emits per square meter, we would often like to know how much total power is emitted by the star. We can determine that by multiplying the energy flux by the number of square meters on the surface of the star. Stars are mostly spherical, so we can use the formula
+                    - math [ref=f83e229]:
+                      - generic [ref=f83e232]:
+                        - generic [ref=f83e233]: "4"
+                        - generic [ref=f83e234]: π
+                        - generic [ref=f83e235]:
+                          - generic [ref=f83e236]: R
+                          - generic [ref=f83e237]: "2"
+                    - text: for the surface area, where
+                    - emphasis [ref=f83e238]: R
+                    - text: "is the radius of the star. The total power emitted by the star (which we call the star’s “absolute luminosity”) can be found by multiplying the formula for energy flux and the formula for the surface area:"
+                  - paragraph [ref=f83e239]:
+                    - math [ref=f83e240]:
+                      - generic [ref=f83e243]:
+                        - generic [ref=f83e244]: L
+                        - generic [ref=f83e245]: =
+                  - paragraph [ref=f83e246]: Two stars have the same size and are the same distance from us. Star A has a surface temperature of 6000 K, and star B has a surface temperature twice as high, 12,000 K. How much more luminous is star B compared to star A?
+                  - paragraph [ref=f83e247]: Solution
+                  - paragraph [ref=f83e248]:
+                    - math [ref=f83e249]:
+                      - generic [ref=f83e252]:
+                        - generic [ref=f83e253]:
+                          - generic [ref=f83e254]: L
+                          - generic [ref=f83e255]: A
+                        - generic [ref=f83e256]: =
+                        - generic [ref=f83e257]: "4"
+                        - generic [ref=f83e258]: π
+                        - generic [ref=f83e259]:
+                          - generic [ref=f83e261]:
+                            - generic [ref=f83e262]: R
+                            - generic [ref=f83e264]: A
+                          - generic [ref=f83e266]: "2"
+                        - generic [ref=f83e268]: σ
+                        - generic [ref=f83e269]:
+                          - generic [ref=f83e271]:
+                            - generic [ref=f83e272]: T
+                            - generic [ref=f83e274]: A
+                          - generic [ref=f83e276]: "4"
+                        - generic [ref=f83e278]: and
+                        - generic [ref=f83e279]:
+                          - generic [ref=f83e280]: L
+                          - generic [ref=f83e281]: B
+                        - generic [ref=f83e282]: =
+                  - paragraph [ref=f83e283]: "Take the ratio of the luminosity of Star A to Star B:"
+                  - paragraph [ref=f83e284]:
+                    - math [ref=f83e285]:
+                      - generic [ref=f83e288]:
+                        - generic [ref=f83e289]:
+                          - generic [ref=f83e291]:
+                            - generic [ref=f83e292]: L
+                            - generic [ref=f83e293]: B
+                          - generic [ref=f83e295]:
+                            - generic [ref=f83e296]: L
+                            - generic [ref=f83e297]: A
+                        - generic [ref=f83e298]: =
+                        - generic [ref=f83e299]:
+                          - generic [ref=f83e300]:
+                            - generic [ref=f83e301]: "4"
+                            - generic [ref=f83e302]: π
+                            - generic [ref=f83e303]:
+                              - generic [ref=f83e305]:
+                                - generic [ref=f83e306]: R
+                                - generic [ref=f83e308]: B
+                              - generic [ref=f83e310]: "2"
+                            - generic [ref=f83e312]: σ
+                            - generic [ref=f83e313]:
+                              - generic [ref=f83e315]:
+                                - generic [ref=f83e316]: T
+                                - generic [ref=f83e318]: B
+                              - generic [ref=f83e320]: "4"
+                          - generic [ref=f83e322]:
+                            - generic [ref=f83e323]: "4"
+                            - generic [ref=f83e324]: π
+                            - generic [ref=f83e325]:
+                              - generic [ref=f83e327]:
+                                - generic [ref=f83e328]: R
+                                - generic [ref=f83e330]: A
+                              - generic [ref=f83e332]: "2"
+                            - generic [ref=f83e334]: σ
+                            - generic [ref=f83e335]:
+                              - generic [ref=f83e337]:
+                                - generic [ref=f83e338]: T
+                                - generic [ref=f83e340]: A
+                              - generic [ref=f83e342]: "4"
+                        - generic [ref=f83e344]: =
+                  - paragraph [ref=f83e345]:
+                    - text: Because the two stars are the same size,
+                    - emphasis [ref=f83e346]: R
+                    - subscript [ref=f83e347]: A
+                    - text: =
+                    - emphasis [ref=f83e348]: R
+                    - subscript [ref=f83e349]: B
+                    - text: ", leaving"
+                  - paragraph [ref=f83e350]:
+                    - math [ref=f83e351]:
+                      - generic [ref=f83e354]:
+                        - generic [ref=f83e355]:
+                          - generic [ref=f83e357]:
+                            - generic [ref=f83e359]:
+                              - generic [ref=f83e360]: T
+                              - generic [ref=f83e362]: B
+                            - generic [ref=f83e364]: "4"
+                          - generic [ref=f83e367]:
+                            - generic [ref=f83e369]:
+                              - generic [ref=f83e370]: T
+                              - generic [ref=f83e372]: A
+                            - generic [ref=f83e374]: "4"
+                        - generic [ref=f83e376]: =
+                        - generic [ref=f83e377]:
+                          - generic [ref=f83e379]:
+                            - generic [ref=f83e381]:
+                              - generic [ref=f83e382]: (
+                              - generic [ref=f83e383]:
+                                - generic [ref=f83e384]: 12,
+                                - generic [ref=f83e385]: "000"
+                                - generic [ref=f83e386]: K
+                              - generic [ref=f83e387]: )
+                            - generic [ref=f83e388]: "4"
+                          - generic [ref=f83e390]:
+                            - generic [ref=f83e392]:
+                              - generic [ref=f83e393]: (
+                              - generic [ref=f83e394]:
+                                - generic [ref=f83e395]: "6000"
+                                - generic [ref=f83e396]: K
+                              - generic [ref=f83e397]: )
+                            - generic [ref=f83e398]: "4"
+                        - generic [ref=f83e399]: =
+                        - generic [ref=f83e400]:
+                          - generic [ref=f83e401]: "2"
+                          - generic [ref=f83e402]: "4"
+                        - generic [ref=f83e403]: =
+                  - paragraph [ref=f83e404]: Exercise
+                  - paragraph [ref=f83e405]: Two stars with identical diameters are the same distance away. One has a temperature of 8700 K and the other has a temperature of 2900 K. Which is brighter? How much brighter is it?
+                  - generic [ref=f83e406]:
+                    - term [ref=f83e407]:
+                      - strong [ref=f83e408]: Answer
+                    - definition [ref=f83e409]:
+                      - paragraph [ref=f83e410]
+                      - paragraph [ref=f83e411]:
+                        - text: The 8700 K star has triple the temperature, so it is 3
+                        - superscript [ref=f83e412]: "4"
+                        - text: = 81 times brighter.
+                  - heading "Attributions" [level=2] [ref=f83e413]
+                  - paragraph [ref=f83e414]:
+                    - link "https://phys.libretexts.org/Bookshel...%3A_Star_Color" [ref=f83e415]:
+                      - /url: /Bookshelves/Astronomy__Cosmology/Astronomy_Lab_(Lumen)/10:_Star_Colors_and_Spectroscopy/10.02:_Star_Color
+                  - paragraph [ref=f83e416]
+              - generic [ref=f81e313]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f81e315] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f81e95]:
+          - separator [ref=f81e96]
+          - paragraph [ref=f81e98]:
+            - 'link "3.4: Color and Temperature" [ref=f81e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.04%3A_Color_and_Temperature
+            - text: is shared under a
+            - link "CC BY" [ref=f81e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f81e101]:
+        - list [ref=f81e102]:
+          - listitem [ref=f81e103]:
+            - link "Back to top" [ref=f81e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f81e105]:
+            - list [ref=f81e106]:
+              - listitem [ref=f81e107]:
+                - 'link " 3.3: The Electromagnetic Spectrum" [ref=f81e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.03%3A_The_Electromagnetic_Spectrum
+                  - text: 
+                  - generic [ref=f81e109]: "3.3: The Electromagnetic Spectrum"
+              - listitem [ref=f81e110]:
+                - 'link "3.5: Light Pollution and Satellite Constellations " [ref=f81e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/03%3A_Stars_and_Light/3.05%3A_Light_Pollution_and_Satellite_Constellations
+                  - generic [ref=f81e112]: "3.5: Light Pollution and Satellite Constellations"
+                  - text: 
+        - list [ref=f81e115]:
+          - listitem [ref=f81e116]: Was this article helpful?
+          - listitem [ref=f81e117]:
+            - button "Yes" [ref=f81e118] [cursor=pointer]
+          - listitem [ref=f81e119]:
+            - button "No" [ref=f81e120] [cursor=pointer]
+          - listitem [ref=f81e121]:
+            - button "Leave feedback" [ref=f81e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f81e123]:
+          - heading "Attachments" [level=2] [ref=f81e124]
+          - generic:
+            - button "Attach a file" [ref=f81e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f81e127]:
+            - generic [ref=f81e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f81e131]
+            - generic [ref=f81e132]:
+              - grid [ref=f81e135]:
+                - rowgroup [ref=f81e136]:
+                  - row [ref=f81e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f81e138]':
+                      - generic:
+                        - generic [ref=f81e139]: File
+                        - generic [ref=f81e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f81e141]':
+                      - generic:
+                        - generic [ref=f81e142]: Last modified
+                        - generic [ref=f81e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f81e144]':
+                      - generic:
+                        - generic [ref=f81e145]: Size
+                        - generic [ref=f81e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f81e147]':
+                      - generic:
+                        - generic [ref=f81e148]: Added by
+                        - generic [ref=f81e149]: 
+              - grid [ref=f81e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f81e316]: File
+                          - generic [ref=f81e317]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f81e318]: Last modified
+                          - generic [ref=f81e319]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f81e320]: Size
+                          - generic [ref=f81e321]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f81e322]: Added by
+                          - generic [ref=f81e323]: 
+                - rowgroup [ref=f81e160]:
+                  - row [ref=f81e324]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f81e325]:
+                      - generic [ref=f81e326]:
+                        - generic [ref=f81e327]:
+                          - generic [ref=f81e328]: 
+                          - link "mindtouch.page#thumbnail" [ref=f81e329] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63421/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f81e330]:
+                          - generic [ref=f81e331]: (no description)
+                          - text: 
+                    - gridcell "Dec 7, 2025, 6:55 PM" [ref=f81e332]
+                    - gridcell "11 KiB" [ref=f81e334]
+                    - gridcell "Rachel Mastrapa" [ref=f81e335]
+    - generic [ref=f81e164]:
+      - button "Open support menu" [ref=f81e166] [cursor=pointer]: "?"
+      - navigation [ref=f81e168]:
+        - paragraph [ref=f81e170]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f81e171] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f81e172] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f81e173] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f81e174] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f81e175] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f81e176]:
+      - generic:
+        - generic [ref=f81e178]:
+          - button "Annotation sidebar" [ref=f81e179]
+          - generic [ref=f81e184]:
+            - button "Show highlights" [ref=f81e185]
+            - button "New page note" [ref=f81e190]
+          - status [ref=f81e195]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f81e196]:
+    - button "contents" [ref=f81e197] [cursor=pointer]
+    - button "readability" [ref=f81e199] [cursor=pointer]
+    - button "resources" [ref=f81e201] [cursor=pointer]
+    - button "tools" [ref=f81e203] [cursor=pointer]
+    - button "developers" [ref=f81e205] [cursor=pointer]
+  - text:  

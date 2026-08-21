@@ -1,0 +1,325 @@
+- generic [ref=f588e1]:
+  - link "Skip to main content" [ref=f588e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f588e3]:
+    - text: 
+    - generic [ref=f588e4]:
+      - generic [ref=f588e5]:
+        - generic: ✕
+        - navigation [ref=f588e7]:
+          - generic [ref=f588e8]:
+            - link [ref=f588e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f588e11]
+            - button "Enter Reader Mode" [ref=f588e13] [cursor=pointer]:
+              - generic [ref=f588e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f588e16]:
+        - list [ref=f588e18]:
+          - listitem [ref=f588e19]:
+            - link [ref=f588e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f588e22]
+          - listitem [ref=f588e23]:
+            - text: 
+            - generic [ref=f588e25]:
+              - generic [ref=f588e26]: "Search :"
+              - searchbox "Search :" [ref=f588e27]
+              - button " Search" [ref=f588e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f588e29]:
+            - list [ref=f588e30]:
+              - listitem [ref=f588e31]:
+                - link "Edit" [ref=f588e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.10%3A_Ghez_Andrea?action=edit
+              - text: 
+              - listitem [ref=f588e33]:
+                - link " Options" [ref=f588e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f588e35]:
+                - link " Rachel Mastrapa" [ref=f588e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f588e37]:
+        - generic:
+          - button " Contents" [ref=f588e220] [cursor=pointer]
+          - list [ref=f588e39]:
+            - listitem [ref=f588e40]:
+              - link " Home" [ref=f588e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f588e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f588e43]:
+              - link " Workbench" [ref=f588e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f588e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f588e46]:
+              - link " De Anza - ASTR10" [ref=f588e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f588e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f588e49]:
+              - 'link " 18: Appendices" [ref=f588e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices
+                - generic [ref=f588e51]: 
+                - text: "18: Appendices"
+              - text: »
+            - listitem [ref=f588e52]:
+              - 'link " 18.1: Alphabetical List of Scientists" [ref=f588e53] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists
+                - generic [ref=f588e54]: 
+                - text: "18.1: Alphabetical List of Scientists"
+              - text: »
+            - listitem [ref=f588e55]:
+              - generic [ref=f588e56]: 
+              - text: "18.1.10: Ghez, Andrea"
+          - button " Expand/collapse global location" [ref=f588e57] [cursor=pointer]
+      - navigation:
+        - generic:                                                                   
+    - article [ref=f588e58]:
+      - generic [ref=f588e59]:
+        - generic [ref=f588e60]:
+          - button " Page settings" [ref=f588e61] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "18.1.10: Ghez, Andrea" [level=1] [ref=f588e62]':
+          - generic [ref=f588e63]: "18.1.10: Ghez, Andrea "
+        - list [ref=f588e65]:
+          - listitem [ref=f588e66]:
+            - link [ref=f588e68] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f588e69]:
+                - img "CC" [ref=f588e70]
+                - img "BY" [ref=f588e71]
+          - listitem [ref=f588e72]:
+            - generic [ref=f588e73]:
+              - term [ref=f588e74] [cursor=pointer]: "Last updated:"
+              - definition [ref=f588e75]: Dec 29, 2025, 7:36 PM by Rachel Mastrapa
+          - listitem [ref=f588e76]:
+            - generic [ref=f588e77]:
+              - term [ref=f588e78] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f588e79]: Private
+          - listitem [ref=f588e80]:
+            - generic [ref=f588e81]:
+              - term [ref=f588e82] [cursor=pointer]: "Page ID:"
+              - definition [ref=f588e83]: "140515"
+          - listitem [ref=f588e84]:
+            - list [ref=f588e85]:
+              - listitem [ref=f588e86]:
+                - button "Pin Page" [ref=f588e87] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f588e88]:
+                - list [ref=f588e89]:
+                  - listitem [ref=f588e90]:
+                    - 'link " 18.1.9: Galilei, Galileo" [ref=f588e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.09%3A_Galilei_Galileo
+                      - text: 
+                      - generic [ref=f588e92]: "18.1.9: Galilei, Galileo"
+                  - listitem [ref=f588e93]:
+                    - 'link "18.1.11: Hale, George Ellery " [ref=f588e94] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.11%3A_Hale_George_Ellery
+                      - generic [ref=f588e95]: "18.1.11: Hale, George Ellery"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f588e96]:
+        - group [ref=f588e223]:
+          - generic [ref=f588e224]:
+            - generic [ref=f588e225]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f588e226]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f588e227]:
+            - generic [ref=f588e230]:
+              - generic [ref=f588e232]:
+                - link "Edit" [ref=f588e233]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f588e234]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f588e235]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f588e236]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f588e237]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f588e238]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f588e241]:
+                - toolbar [ref=f588e242]:
+                  - button "Save" [ref=f588e243]:
+                    - generic [ref=f588e244]: 
+                  - button "Cancel" [ref=f588e246]:
+                    - generic [ref=f588e247]: 
+                - text:          
+                - toolbar [ref=f588e288]:
+                  - button "Alignment" [ref=f588e289]:
+                    - generic [ref=f588e290]: 
+                - text:    
+                - toolbar [ref=f588e303]:
+                  - button "Replace" [ref=f588e304]:
+                    - generic [ref=f588e305]: 
+                - toolbar [ref=f588e307]:
+                  - button "Enable Binder" [disabled] [ref=f588e308]
+                  - button "Insert Adapt" [disabled] [ref=f588e310]
+                  - button "Query" [ref=f588e312]
+                  - button "Accessibility Checker" [disabled] [ref=f588e315]
+                - toolbar [ref=f588e318]:
+                  - button "Visual" [pressed] [ref=f588e334]:
+                    - generic [ref=f588e320]: 
+            - application "Rich Text Editor, editarea" [ref=f588e322]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f588e336]: "<h2 class=\"lt-phys-64819\">Andrea Ghez</h2> <p class=\"lt-phys-64819\">A lover of puzzles, Andrea <span class=\"no-emphasis\" data-type=\"term\" group-by=\"G\">Ghez</span> has been pursuing one of the greatest mysteries in astronomy: what strange entity lurks within the center of our Milky Way Galaxy?</p> <figure><span data-alt=\"Photograph of Andrea Ghez.\" data-type=\"media\"><img alt=\"Photograph of Andrea Ghez.\" data-media-type=\"image/jpeg\" src=\"/@api/deki/files/46202/509f6ffb2474634412e313d5a7e4a91c09683243\" /> </span> <figcaption>Figure 25.18 : Andrea Ghez. Research by Ghez and her team has helped shape our understanding of supermassive black holes. (credit: modification of work by John D. and Catherine T. MacArthur Foundation)</figcaption> </figure> <p class=\"lt-phys-64819\">As a child living in Chicago during the late 1960s, Andrea Ghez (Figure 25.18) was fascinated by the Apollo Moon landings. But she was also drawn to ballet and to solving all sorts of puzzles. By high school, she had lost the ballet bug in favor of competing in field hockey, playing the flute, and digging deeper into academics. Her undergraduate years at MIT were punctuated by a number of changes in her major—from mathematics to chemistry, mechanical engineering, aerospace engineering, and finally physics—where she felt her options were most open. As a physics major, she became involved in astronomical research under the guidance of one of her instructors. Once she got to do some actual observing at Kitt Peak National Observatory in Arizona, and later at Cerro Tololo Inter-American Observatory in Chile, Ghez had found her calling.</p> <p class=\"lt-phys-64819\">Pursuing her graduate studies at Caltech, she stuck with physics but oriented her efforts toward observational astrophysics, an area where Caltech had access to cutting-edge facilities. Though initially attracted to studying the black holes that were suspected of dwelling inside most massive galaxies, Ghez ended up spending most of her graduate study and later postdoctoral research at the University of Arizona studying stars in formation. By taking very high-resolution (detailed) imaging of regions where new stars are born, she discovered that most stars form as members of binary systems. As technologies advanced, she was able to track the orbits danced by these stellar pairings and thereby could ascertain their respective masses.</p> <p class=\"lt-phys-64819\">Now an astronomy professor at UCLA, Ghez has since used similar high-resolution imaging techniques to study the orbits of stars in the innermost core of the Milky Way. These orbits take years to delineate, so Ghez and her science team have logged more than 20 years of taking super-resolution infrared images with the giant Keck telescopes in Hawaii. Based on the resulting stellar orbits, the UCLA Galactic Center Group has settled (as we saw) on a gravitational solution that requires the presence of a supermassive black hole with a mass equivalent to 4.6 million Suns—all nestled within a space smaller than that occupied by our solar system. Ghez’s achievements have been recognized with one of the “genius” awards given by the MacArthur Foundation. More recently, her team discovered glowing clouds of warm ionized gas that co-orbit with the stars but may be more vulnerable to the disruptive effects of the central black hole. By monitoring these clouds, the team hopes to better understand the evolution of supermassive black holes and their immediate environs. They also hope to test Einstein’s theory of general relativity by carefully scrutinizing the orbits of stars that careen closest to the intensely gravitating black hole.</p> <p class=\"lt-phys-64819\">In 2020, Ghez received the Nobel Prize in Physics for her work on the black hole at the center of the Galaxy. You can see her explain her work in non-technical language in <a href=\"https://openstax.org/l/ghez\" rel=\"noopener nofollow\" target=\"_blank\">this video</a>. Besides her pioneering work as an astronomer, Ghez competes as a master swimmer, enjoys family life as a mother of two children, and actively encourages other women to pursue scientific careers.</p>"
+              - generic [ref=f588e324]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f588e326] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f588e98]:
+          - separator [ref=f588e99]
+          - paragraph [ref=f588e101]:
+            - 'link "18.1.10: Ghez, Andrea" [ref=f588e102] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.10%3A_Ghez_Andrea
+            - text: is shared under a
+            - link "CC BY" [ref=f588e103] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f588e104]:
+        - list [ref=f588e105]:
+          - listitem [ref=f588e106]:
+            - link "Back to top" [ref=f588e107] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f588e108]:
+            - list [ref=f588e109]:
+              - listitem [ref=f588e110]:
+                - 'link " 18.1.9: Galilei, Galileo" [ref=f588e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.09%3A_Galilei_Galileo
+                  - text: 
+                  - generic [ref=f588e112]: "18.1.9: Galilei, Galileo"
+              - listitem [ref=f588e113]:
+                - 'link "18.1.11: Hale, George Ellery " [ref=f588e114] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.11%3A_Hale_George_Ellery
+                  - generic [ref=f588e115]: "18.1.11: Hale, George Ellery"
+                  - text: 
+        - list [ref=f588e118]:
+          - listitem [ref=f588e119]: Was this article helpful?
+          - listitem [ref=f588e120]:
+            - button "Yes" [ref=f588e121] [cursor=pointer]
+          - listitem [ref=f588e122]:
+            - button "No" [ref=f588e123] [cursor=pointer]
+          - listitem [ref=f588e124]:
+            - button "Leave feedback" [ref=f588e125] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f588e126]:
+          - heading "Attachments" [level=2] [ref=f588e127]
+          - generic:
+            - button "Attach a file" [ref=f588e128] [cursor=pointer]
+            - text: 
+          - generic [ref=f588e130]:
+            - generic [ref=f588e133]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f588e134]
+            - generic [ref=f588e135]:
+              - grid [ref=f588e138]:
+                - rowgroup [ref=f588e139]:
+                  - row [ref=f588e140]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f588e141]':
+                      - generic:
+                        - generic [ref=f588e142]: File
+                        - generic [ref=f588e143]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f588e144]':
+                      - generic:
+                        - generic [ref=f588e145]: Last modified
+                        - generic [ref=f588e146]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f588e147]':
+                      - generic:
+                        - generic [ref=f588e148]: Size
+                        - generic [ref=f588e149]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f588e150]':
+                      - generic:
+                        - generic [ref=f588e151]: Added by
+                        - generic [ref=f588e152]: 
+              - grid [ref=f588e154]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f588e155]: File
+                          - generic [ref=f588e156]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f588e157]: Last modified
+                          - generic [ref=f588e158]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f588e159]: Size
+                          - generic [ref=f588e160]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f588e161]: Added by
+                          - generic [ref=f588e162]: 
+                - rowgroup [ref=f588e163]:
+                  - row [ref=f588e164]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f588e165]:
+                      - generic [ref=f588e166]:
+                        - generic [ref=f588e167]:
+                          - generic [ref=f588e168]: 
+                          - link "mindtouch.page#thumbnail" [ref=f588e169] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/65482/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f588e170]:
+                          - generic [ref=f588e171]: (no description)
+                          - text: 
+                    - gridcell "Dec 29, 2025, 6:45 PM" [ref=f588e172]
+                    - gridcell "11 KiB" [ref=f588e174]
+                    - gridcell "Rachel Mastrapa" [ref=f588e175]
+    - generic [ref=f588e177]:
+      - button "Open support menu" [ref=f588e179] [cursor=pointer]: "?"
+      - navigation [ref=f588e181]:
+        - paragraph [ref=f588e183]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f588e184] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f588e185] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f588e186] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f588e187] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f588e188] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f588e189]:
+      - generic:
+        - generic [ref=f588e191]:
+          - button "Annotation sidebar" [ref=f588e192]
+          - generic [ref=f588e197]:
+            - button "Show highlights" [ref=f588e198]
+            - button "New page note" [ref=f588e203]
+          - status [ref=f588e208]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f588e209]:
+    - button "contents" [ref=f588e210] [cursor=pointer]
+    - button "readability" [ref=f588e212] [cursor=pointer]
+    - button "resources" [ref=f588e214] [cursor=pointer]
+    - button "tools" [ref=f588e216] [cursor=pointer]
+    - button "developers" [ref=f588e218] [cursor=pointer]
+  - text:  
+  - generic [ref=f588e327]:
+    - generic [ref=f588e328] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f588e331] [cursor=pointer]

@@ -1,0 +1,235 @@
+- generic [ref=f266e1]:
+  - link "Skip to main content" [ref=f266e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f266e3]:
+    - text: 
+    - generic [ref=f266e4]:
+      - generic [ref=f266e5]:
+        - generic: ✕
+        - navigation [ref=f266e7]:
+          - generic [ref=f266e8]:
+            - link [ref=f266e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f266e11]
+            - button "Enter Reader Mode" [ref=f266e13] [cursor=pointer]:
+              - generic [ref=f266e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f266e16]:
+        - list [ref=f266e18]:
+          - listitem [ref=f266e19]:
+            - link [ref=f266e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f266e22]
+          - listitem [ref=f266e23]:
+            - text: 
+            - generic [ref=f266e25]:
+              - generic [ref=f266e26]: "Search :"
+              - searchbox "Search :" [ref=f266e27]
+              - button " Search" [ref=f266e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f266e29]:
+            - list [ref=f266e30]:
+              - listitem [ref=f266e31]:
+                - link "Edit" [ref=f266e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census?action=edit
+              - text: 
+              - listitem [ref=f266e33]:
+                - link " Options" [ref=f266e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f266e35]:
+                - link " Rachel Mastrapa" [ref=f266e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f266e37]:
+        - generic:
+          - button " Contents" [ref=f266e151] [cursor=pointer]
+          - list [ref=f266e39]:
+            - listitem [ref=f266e40]:
+              - link " Home" [ref=f266e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f266e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f266e43]:
+              - link " Workbench" [ref=f266e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f266e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f266e46]:
+              - link " De Anza - ASTR10" [ref=f266e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f266e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f266e49]:
+              - generic [ref=f266e50]: 
+              - text: "9: Celestial Census"
+          - text: 
+      - navigation:
+        - generic:                                                
+    - article [ref=f266e51]:
+      - generic [ref=f266e52]:
+        - generic [ref=f266e53]:
+          - button " Page settings" [ref=f266e54] [cursor=pointer]
+          - text: "    : :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "9: Celestial Census" [level=1] [ref=f266e55]':
+          - generic [ref=f266e152]: "9: Celestial Census "
+        - list [ref=f266e58]:
+          - listitem [ref=f266e59]:
+            - link [ref=f266e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f266e62]:
+                - img "CC" [ref=f266e63]
+                - img "BY" [ref=f266e64]
+          - listitem [ref=f266e65]:
+            - generic [ref=f266e66]:
+              - term [ref=f266e67]: "Last updated:"
+              - definition [ref=f266e68]: Dec 28, 2025, 7:16 PM by Rachel Mastrapa
+          - listitem [ref=f266e69]:
+            - generic [ref=f266e70]:
+              - term [ref=f266e71]: "Page restriction:"
+              - definition [ref=f266e72]: Private
+          - listitem [ref=f266e73]:
+            - generic [ref=f266e74]:
+              - term [ref=f266e75]: "Page ID:"
+              - definition [ref=f266e76]: "115283"
+          - listitem [ref=f266e77]:
+            - list [ref=f266e78]:
+              - listitem [ref=f266e79]:
+                - button "Pin Page" [ref=f266e80] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f266e81]:
+                - list [ref=f266e82]:
+                  - listitem [ref=f266e83]:
+                    - 'link " 8.10: Accessible Descriptions" [ref=f266e84] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.10%3A_Accessible_Descriptions
+                      - text: 
+                      - generic [ref=f266e85]: "8.10: Accessible Descriptions"
+                  - listitem [ref=f266e86]:
+                    - 'link "9.1: Stellar Census " [ref=f266e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.01%3A_Stellar_Census
+                      - generic [ref=f266e88]: "9.1: Stellar Census"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f266e89]:
+        - group [ref=f266e156]:
+          - generic [ref=f266e157]:
+            - generic [ref=f266e158]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f266e159]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f266e160]:
+            - generic [ref=f266e163]:
+              - generic [ref=f266e165]:
+                - link "Edit" [ref=f266e166]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f266e167]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f266e168]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f266e169]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f266e170]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f266e171]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f266e174]:
+                - toolbar [ref=f266e175]:
+                  - button "Save" [ref=f266e176]:
+                    - generic [ref=f266e177]: 
+                  - button "Cancel" [ref=f266e179]:
+                    - generic [ref=f266e180]: 
+                - text:          
+                - toolbar [ref=f266e221]:
+                  - button "Alignment" [ref=f266e222]:
+                    - generic [ref=f266e223]: 
+                - text:    
+                - toolbar [ref=f266e236]:
+                  - button "Replace" [ref=f266e237]:
+                    - generic [ref=f266e238]: 
+                - toolbar [ref=f266e240]:
+                  - button "Enable Binder" [disabled] [ref=f266e241]
+                  - button "Insert Adapt" [disabled] [ref=f266e243]
+                  - button "Query" [ref=f266e245]
+                  - button "Accessibility Checker" [disabled] [ref=f266e248]
+                - toolbar [ref=f266e251]:
+                  - button "Visual" [pressed] [ref=f266e267]:
+                    - generic [ref=f266e253]: 
+            - application "Rich Text Editor, editarea" [ref=f266e255]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f266e269]: "<section class=\"box-objectives\"> <h5 class=\"box-legend\"><span class=\"lt-icon-default\">Learning Objectives</span></h5> <ul> <li>Compare the relative temperatures of stars based on their colors</li> <li>Understand how astronomers use color indexes to measure the temperatures of stars</li> <li class=\"lt-phys-66843\">Explain why the stars visible to the unaided eye are not typical</li> <li class=\"lt-phys-66843\">Describe the distribution of stellar masses found close to the Sun</li> <li class=\"lt-phys-64758\">Compare the relative temperatures of stars based on their colors</li> <li class=\"lt-phys-64758\">Understand how astronomers use color indexes to measure the temperatures of stars</li> <li class=\"lt-phys-64764\">Distinguish the different types of binary star systems</li> <li class=\"lt-phys-64764\">Understand how we can apply Newton’s version of Kepler’s third law to derive the sum of <span class=\"no-emphasis\" data-type=\"term\" group-by=\"s\">star mass</span>es in a binary star system</li> <li class=\"lt-phys-64764\">Apply the relationship between stellar mass and stellar luminosity to determine the physical characteristics of a star</li> <li class=\"lt-phys-64765\">Describe the methods used to determine <span class=\"no-emphasis\" data-type=\"term\" group-by=\"s\">star diameter</span>s</li> <li class=\"lt-phys-64765\">Identify the parts of an eclipsing binary star light curve that correspond to the diameters of the individual components</li> <li>Identify the physical characteristics of stars that are used to create an H–R diagram, and describe how those characteristics vary among groups of stars</li> <li>Discuss the physical properties of most stars found at different locations on the H–R diagram, such as radius, and for main sequence stars, mass</li> </ul> </section> <p><span class=\"mt-bgcolor-e74c3c\">Write Summary</span></p> <p>{{template.ShowOrg()}}</p> <p><span class=\"mt-bgcolor-e74c3c\">Thumbnail</span></p>"
+              - generic [ref=f266e257]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f266e259] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f266e91]:
+          - separator [ref=f266e92]
+          - paragraph [ref=f266e94]:
+            - 'link "9: Celestial Census" [ref=f266e95] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census
+            - text: is shared under a
+            - link "CC BY" [ref=f266e96] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f266e97]:
+        - list [ref=f266e98]:
+          - listitem: 
+          - listitem [ref=f266e99]:
+            - list [ref=f266e100]:
+              - listitem [ref=f266e101]:
+                - 'link " 8.10: Accessible Descriptions" [ref=f266e102] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.10%3A_Accessible_Descriptions
+                  - text: 
+                  - generic [ref=f266e103]: "8.10: Accessible Descriptions"
+              - listitem [ref=f266e104]:
+                - 'link "9.1: Stellar Census " [ref=f266e105] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.01%3A_Stellar_Census
+                  - generic [ref=f266e106]: "9.1: Stellar Census"
+                  - text: 
+        - generic:   
+        - text: "     : : : :              "
+    - generic [ref=f266e108]:
+      - button "Open support menu" [ref=f266e110] [cursor=pointer]: "?"
+      - navigation [ref=f266e112]:
+        - paragraph [ref=f266e114]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f266e115] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f266e116] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f266e117] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f266e118] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f266e119] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f266e120]:
+      - generic:
+        - generic [ref=f266e122]:
+          - button "Annotation sidebar" [ref=f266e123]
+          - generic [ref=f266e128]:
+            - button "Show highlights" [ref=f266e129]
+            - button "New page note" [ref=f266e134]
+          - status [ref=f266e139]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f266e140]:
+    - button "contents" [ref=f266e141] [cursor=pointer]
+    - button "readability" [ref=f266e143] [cursor=pointer]
+    - button "resources" [ref=f266e145] [cursor=pointer]
+    - button "tools" [ref=f266e147] [cursor=pointer]
+    - button "developers" [ref=f266e149] [cursor=pointer]
+  - text:  
+  - generic [ref=f266e260]:
+    - generic [ref=f266e261] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f266e264] [cursor=pointer]

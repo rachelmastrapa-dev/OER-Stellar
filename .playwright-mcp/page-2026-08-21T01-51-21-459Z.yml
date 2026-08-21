@@ -1,0 +1,539 @@
+- generic [ref=f145e1]:
+  - link "Skip to main content" [ref=f145e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f145e3]:
+    - text: 
+    - generic [ref=f145e4]:
+      - generic [ref=f145e5]:
+        - generic: ✕
+        - navigation [ref=f145e7]:
+          - generic [ref=f145e8]:
+            - link [ref=f145e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f145e11]
+            - button "Enter Reader Mode" [ref=f145e13] [cursor=pointer]:
+              - generic [ref=f145e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f145e16]:
+        - list [ref=f145e18]:
+          - listitem [ref=f145e19]:
+            - link [ref=f145e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f145e22]
+          - listitem [ref=f145e23]:
+            - text: 
+            - generic [ref=f145e25]:
+              - generic [ref=f145e26]: "Search :"
+              - searchbox "Search :" [ref=f145e27]
+              - button " Search" [ref=f145e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f145e29]:
+            - list [ref=f145e30]:
+              - listitem [ref=f145e31]:
+                - link "Edit" [ref=f145e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.02%3A_Modern_Telescopes?action=edit
+              - text: 
+              - listitem [ref=f145e33]:
+                - link " Options" [ref=f145e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f145e35]:
+                - link " Rachel Mastrapa" [ref=f145e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f145e37]:
+        - generic:
+          - button " Contents" [ref=f145e241] [cursor=pointer]
+          - list [ref=f145e39]:
+            - listitem [ref=f145e40]:
+              - link " Home" [ref=f145e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f145e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f145e43]:
+              - link " Workbench" [ref=f145e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f145e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f145e46]:
+              - link " De Anza - ASTR10" [ref=f145e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f145e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f145e49]:
+              - 'link " 5: Astronomical Instruments" [ref=f145e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments
+                - generic [ref=f145e51]: 
+                - text: "5: Astronomical Instruments"
+              - text: »
+            - listitem [ref=f145e52]:
+              - generic [ref=f145e53]: 
+              - text: "5.2: Modern Telescopes"
+          - button " Expand/collapse global location" [ref=f145e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                
+    - article [ref=f145e55]:
+      - generic [ref=f145e56]:
+        - generic [ref=f145e57]:
+          - button " Page settings" [ref=f145e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "5.2: Modern Telescopes" [level=1] [ref=f145e59]':
+          - generic [ref=f145e60]: "5.2: Modern Telescopes "
+        - list [ref=f145e62]:
+          - listitem [ref=f145e63]:
+            - link [ref=f145e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f145e66]:
+                - img "CC" [ref=f145e67]
+                - img "BY" [ref=f145e68]
+          - listitem [ref=f145e69]:
+            - generic [ref=f145e70]:
+              - term [ref=f145e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f145e72]: Aug 4, 2026, 3:10 PM by Jyothsna Viswanadha
+          - listitem [ref=f145e73]:
+            - generic [ref=f145e74]:
+              - term [ref=f145e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f145e76]: Private
+          - listitem [ref=f145e77]:
+            - generic [ref=f145e78]:
+              - term [ref=f145e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f145e80]: "132011"
+          - listitem [ref=f145e81]:
+            - list [ref=f145e82]:
+              - listitem [ref=f145e83]:
+                - button "Pin Page" [ref=f145e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f145e85]:
+                - list [ref=f145e86]:
+                  - listitem [ref=f145e87]:
+                    - 'link " 5.1: Telescopes" [ref=f145e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.01%3A_Telescopes
+                      - text: 
+                      - generic [ref=f145e89]: "5.1: Telescopes"
+                  - listitem [ref=f145e90]:
+                    - 'link "5.3: Capturing Light " [ref=f145e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.03%3A_Capturing_Light
+                      - generic [ref=f145e92]: "5.3: Capturing Light"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f145e93]:
+        - group [ref=f145e244]:
+          - generic [ref=f145e245]:
+            - generic [ref=f145e246]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f145e247]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f145e248]:
+            - generic [ref=f145e251]:
+              - generic [ref=f145e252]:
+                - generic [ref=f145e253]:
+                  - link "Edit" [ref=f145e254]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f145e255]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f145e256]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f145e257]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f145e258]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f145e259]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f145e260]: "Words: 1908, Chars: 12459"
+              - group "Editor toolbars" [ref=f145e262]:
+                - toolbar [ref=f145e263]:
+                  - button "Save" [ref=f145e264]:
+                    - generic [ref=f145e265]: 
+                  - button "Cancel" [ref=f145e267]:
+                    - generic [ref=f145e268]: 
+                - toolbar [ref=f145e271]:
+                  - button "Undo" [disabled] [ref=f145e272]:
+                    - generic [ref=f145e273]: 
+                  - button "Redo" [disabled] [ref=f145e274]:
+                    - generic [ref=f145e275]: 
+                - toolbar [ref=f145e277]:
+                  - button "Headings" [ref=f145e278]
+                - toolbar [ref=f145e283]:
+                  - button "Bold" [ref=f145e284]:
+                    - generic [ref=f145e285]: 
+                  - button "Italic" [ref=f145e286]:
+                    - generic [ref=f145e287]: 
+                  - button "Underline" [ref=f145e288]:
+                    - generic [ref=f145e289]: 
+                - toolbar [ref=f145e291]:
+                  - button "Text color" [ref=f145e292]:
+                    - generic [ref=f145e293]: 
+                  - button "Background color" [ref=f145e295]:
+                    - generic [ref=f145e296]: 
+                - toolbar [ref=f145e299]:
+                  - button "Remove format" [ref=f145e300]:
+                    - generic [ref=f145e301]: 
+                - toolbar [ref=f145e303]:
+                  - button "Insert/Remove numbered list" [ref=f145e304]:
+                    - generic [ref=f145e305]: 
+                  - button "Insert/Remove bulleted list" [ref=f145e306]:
+                    - generic [ref=f145e307]: 
+                - toolbar [ref=f145e309]:
+                  - button "Alignment" [ref=f145e310]:
+                    - generic [ref=f145e311]: 
+                - text: 
+                - toolbar [ref=f145e314]:
+                  - button "Link" [ref=f145e315]:
+                    - generic [ref=f145e316]: 
+                  - button "Image" [ref=f145e317]:
+                    - generic [ref=f145e318]: 
+                  - text: 
+                  - button "Boxes" [ref=f145e319]
+                - toolbar [ref=f145e324]:
+                  - button "Replace" [ref=f145e325]:
+                    - generic [ref=f145e326]: 
+                - toolbar [ref=f145e328]:
+                  - button "Enable Binder" [ref=f145e329]
+                  - button "Insert Adapt" [ref=f145e331]
+                  - button "Query" [ref=f145e333]
+                  - button "Accessibility Checker" [ref=f145e336]
+                - toolbar [ref=f145e339]:
+                  - button "HTML" [ref=f145e340]:
+                    - generic [ref=f145e341]: 
+            - application "Rich Text Editor, editarea" [ref=f145e343]:
+              - iframe [active] [ref=f145e344]:
+                - generic [active] [ref=f147e1]:
+                  - heading "Modern Telescopes" [level=2] [ref=f147e2]
+                  - paragraph [ref=f147e3]: "Since Newton’s time, when the sizes of mirrors in telescopes were measured in inches, reflecting telescopes have grown ever larger. In 1948, US astronomers built a telescope with a 5-meter (200-inch) diameter mirror on Palomar Mountain in Southern California. It remained the largest visible-light telescope in the world for several decades. The giants of today, however, have primary mirrors that are 8 to 10 meters in diameter, Figure \\(\\PageIndex{1}\\)."
+                  - figure [ref=f147e4]:
+                    - img "8-meter primary mirror of the VLT. Details in caption." [ref=f147e5]
+                    - generic [ref=f147e6]:
+                      - text: "Figure \\(\\PageIndex{1}\\): ESO Very Large Telescope Mirror. Modern telescopes use very large primary mirrors. This mirror from the European Southern Observatory’s Very Large Telescope, named Yepun, is a little over 8 meters in diameter. ("
+                      - link "CC BY 4.0" [ref=f147e7]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f147e8]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f147e9]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: ).
+                      - 'link "Alternative description of Figure \\(\\PageIndex{1}\\)" [ref=f147e10]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.08:_Accessible_Descriptions#Figure_5.2.1_ESO_Very_Large_Telescope_Mirror
+                      - text: .
+                  - paragraph [ref=f147e11]:
+                    - text: Seventeen telescopes with mirrors 6.5 meters in diameter and larger have been constructed since 1990. The appendix of this textbook includes an incomplete list of
+                    - link "visible and infrared telescopes" [ref=f147e12]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/18:_Appendices/18.02:_Tables#Visible+and+Infrared+Telescopes
+                    - text: for reference. Technological advancements had finally made it possible to build telescopes significantly larger than the 5-meter telescope at Palomar at a reasonable cost. New technologies have also been designed to work well in the infrared, and not just visible, wavelengths.
+                  - paragraph [ref=f147e13]: "The differences between the Palomar telescope and the modern Gemini North telescope are in Figure \\(\\PageIndex{2}\\). At Palomar Observatory, the Hale telescope is a massive steel structure designed to hold the 14.5-ton primary mirror with a 5-meter diameter. Glass tends to sag under its own weight, so a steel structure is needed to hold the mirror. The main structure of the telescope is a long metal tube that contributes to the weight of the structure. The mirror is not visible because it is inside the tube. The Hale telescope also has a complex mounting system that enables the telescope to swing easily into any position. The overall structure is so large and complex that a person standing below it would appear tiny by comparison. This design would also be very expensive to scale up to a larger mirror."
+                  - figure [ref=f147e14]:
+                    - img "Palomar 5-meter and Gemini North 8-meter telescopes. Details in text." [ref=f147e15]
+                    - generic [ref=f147e16]:
+                      - text: "Figure \\(\\PageIndex{2}\\): Comparing Telescopes. (a) The Palomar 5-meter reflector (b) The Gemini North 8-meter telescope. Description in text. ("
+                      - link "CC BY 4.0" [ref=f147e17]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f147e18]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f147e19]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: ).
+                  - paragraph [ref=f147e20]: The Gemini North telescope was completed about 50 years after the Palomar telescope. Engineers took advantage of new technologies to build a telescope that is much lighter in weight relative to the size of the primary mirror. The result is a significantly simpler and lighter telescope. The large tube design has been replaced, with an open structure of metal struts that support the secondary mirror at the prime focus. The primary mirror, visible through the open structure, is only about 8 inches thick and weighs 24.5 tons, less than twice as much as the Palomar mirror. The Gemini mirror corrects for gravitationally induced sag by a process called active control. Modern computers can measure mirror sag many times each second and apply forces at 120 different locations to the back of the mirror. A mirror 8 meters in diameter, the size of the Gemini North telescope, if it were built using the same technology as the Palomar telescope, would have to weigh at least eight times as much and would require an enormous steel structure to support it.
+                  - heading "Observing Sites" [level=3] [ref=f147e21]
+                  - paragraph [ref=f147e22]: Since the end of the nineteenth century, astronomers have realized that the best observatory sites are on mountains, far from the lights and pollution of cities. Modern observatories are located on desert mountains or isolated peaks in the Atlantic and Pacific Oceans. These locations include the staff’s living quarters, computers, electronic and machine shops, and of course, the telescopes themselves. A large observatory today requires a supporting staff of 20 to 100 people.
+                  - paragraph [ref=f147e23]: "The performance of a telescope is determined not only by the size of its mirror but also by its location. Earth’s atmosphere presents challenges for the observational astronomer. In at least four ways, our air imposes limitations on the usefulness of telescopes:"
+                  - list [ref=f147e24]:
+                    - listitem [ref=f147e25]: Weather conditions such as clouds, wind, and rain prevent observations. At the best sites, the weather is clear as much as 75% of the time.
+                    - listitem [ref=f147e26]: Water vapor in the atmosphere absorbs some of the starlight, especially in the infrared. Astronomers therefore prefer dry sites, generally found at high altitudes.
+                    - listitem [ref=f147e27]: Observatories are best located at least 100 miles from the nearest large city to avoid contamination by light pollution.
+                    - listitem [ref=f147e28]: Turbulent air, also called bad seeing, results in distorted images. Observatories are located where the atmosphere is consistently calm.
+                  - paragraph [ref=f147e29]:
+                    - text: The best observatory sites are therefore calm, high, dark, and dry. The world’s largest telescopes are found in such remote mountain locations as the Andes Mountains of Chile, the desert peaks of Arizona, the Canary Islands in the Atlantic Ocean, and Maunakea in Hawaii, a dormant volcano with an altitude of 13,700 feet (4200 meters). The
+                    - link "Science and Society" [ref=f147e30]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.06:_Ethics_of_Building_Telescopes
+                    - text: page at the end of this chapter discusses the ethical implications of building telescopes.
+                  - heading "Observations" [level=3] [ref=f147e31]
+                  - paragraph [ref=f147e32]: In the past, an astronomer would spend most nights in a cold observatory peering through a telescope, but this is not accurate today. Most astronomers do not live at observatories, but near the universities or laboratories where they work. An astronomer might spend only a week or so each year observing at the telescope and the rest of the time measuring or analyzing the data acquired from large project collaborations and dedicated surveys. Like many people who work from home, astronomers can also observe remotely. Coordinating with the telescope operator at the observatory, the astronomer can collect their data without the expense of traveling to remote areas and the challenges of working at high altitude. Note that observatories operating telescopes that cost $100 million do not let anyone but their own staff operate their complex and delicate telescopes. Not all astronomers work nights. Some use radio telescopes, which work just as well during the daylight hours. Other astronomers analyze data from spacecraft, which also can collect data at any time. Still others work at purely theoretical problems using computers to model complex astrophysical processes and never observe at a telescope.
+                  - paragraph [ref=f147e33]: Observing time on major telescopes is at a premium, and an observatory director will typically receive many more requests for telescope time than can be accommodated during the year. Astronomers must therefore write a convincing proposal explaining how they would like to use the telescope and why their observations will be important to the progress of astronomy. A committee of astronomers is then asked to judge and rank the proposals, and time is assigned only to those with the greatest merit. Even if your proposal is among the highest-rated ones, you may have to wait many months for your turn. If the skies are cloudy on the nights you have been assigned, it may be more than a year before you get another chance.
+                  - heading "New Telescopes" [level=2] [ref=f147e34]
+                  - paragraph [ref=f147e35]:
+                    - text: Astronomers and engineers are working on the technologies that will allow us to explore even more distant parts of the universe and to see them more clearly. The Vera Rubin Observatory produced its first images of the sky, also known as first light, in 2025. The observatory is named after the
+                    - link "American astronomer" [ref=f147e36]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/18:_Appendices/18.01:_Alphabetical_List_of_Scientists/18.1.19:_Rubin_Vera
+                    - text: whose work led us to the understanding that much of the universe is made of a mysterious substance that scientists call dark matter. This 8.4-meter telescope has a significantly larger field of view than any existing telescopes. It has begun its 10-year program to rapidly scan the sky to find transients, phenomena that change quickly, such as exploding stars and chunks of rock that orbit near Earth.
+                  - figure [ref=f147e37]:
+                    - img "Vera Rubin Observatory, Cerro Pachón ridge, Chile. Details in caption." [ref=f147e38]
+                    - generic [ref=f147e39]:
+                      - text: "Figure \\(\\PageIndex{3}\\): Located on Cerro Pachon in Chile, the Vera Rubin Observatory has an 8.4 meter primary mirror and has been operating since 2025. ("
+                      - link "CC BY 4.0" [ref=f147e40]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Rubin Observatory/NOIRLab/NSF/AURA/B. Quint" [ref=f147e41]:
+                        - /url: https://rubinobservatory.org/
+                      - text: via
+                      - link "Wikimedia Commons" [ref=f147e42]:
+                        - /url: https://commons.wikimedia.org/wiki/File:Vera_C._Rubin_Observatory,_iotw2229a_-_Night_Light.jpg
+                      - text: ).
+                      - 'link "Alternative description of Figure \\(\\PageIndex{3}\\)" [ref=f147e43]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.08:_Accessible_Descriptions#Figure_5.2.3__Vera_Rubin_Observatory
+                      - text: .
+                  - paragraph [ref=f147e44]: Several groups of astronomers around the globe interested in studying visible and infrared light are exploring the feasibility of building ground-based telescopes with mirrors larger than 30 meters across, one-third the length of a football field. We do not have the technology to build and transport a single astronomical mirror that is 30 meters or larger in diameter. The primary mirror of these giant telescopes will consist of smaller mirrors, all aligned so that they act as a very large mirror in combination.
+                  - paragraph [ref=f147e45]: "The most ambitious of these projects is the European Extremely Large Telescope (ELT). The design of the European ELT calls for a 39.3-meter primary mirror, which will follow the Keck Telescope design and be made up of 798 hexagonal mirrors, each 1.4 meters in diameter and all held precisely in position so that they form a continuous surface. Construction on the site in the Atacama Desert in Northern Chile started in 2014, and the telescope structure is nearing completion, Figure \\(\\PageIndex{4}\\). Scientific first light is planned for 2030."
+                  - figure [ref=f147e46]:
+                    - img "Mid-construction Extrememly Large Telescope (ELT) structure." [ref=f147e47]
+                    - generic [ref=f147e48]:
+                      - text: "Figure \\(\\PageIndex{4}\\): The Heart of the ELT. ESO's Picture of the Day for February 2, 2026, construction is ongoing on the mirror support system of the Extremely Large Telescope (ELT). ("
+                      - link "CC BY 4.0" [ref=f147e49]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "ESO/J. C. Muñoz-Mateos" [ref=f147e50]:
+                        - /url: https://www.eso.org/public/
+                      - text: via
+                      - link "ESO" [ref=f147e51]:
+                        - /url: https://www.eso.org/public/images/potw2605a/
+                      - text: ).
+                      - 'link "Alternative description of Figure \\(\\PageIndex{4}\\)" [ref=f147e52]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.08:_Accessible_Descriptions#Figure_5.2.4__The_Heart_of_the_ELT
+                      - text: .
+                  - paragraph [ref=f147e53]: International consortia with major contributions from U.S. astronomers have developed plans for the construction of two new large telescopes. One is a Thirty-Meter Telescope (TMT). The design of this telescope is similar to that of the European ELT and will make use of 492 hexagonal elements. Each segment is about 1.44 meters (56.6 inches) across corners. The segments are closely spaced, with gaps between the segments only 2.5 mm (0.1 inch) wide.
+                  - paragraph [ref=f147e54]: The Giant Magellan Telescope (GMT) is the second ELT project with major participation by U.S. astronomers. The GMT is also a segmented mirror telescope that employs seven stiff monolith 8.4-meter mirrors as segments. Construction has started at the selected site, which is near the Las Campanas Observatory on the southern edge of the Atacama Desert.
+                  - paragraph [ref=f147e55]: These giant telescopes will combine light-gathering power with high-resolution imaging. These powerful new instruments will enable astronomers to tackle many important astronomical problems. As just one example, they provide us images and spectra of planets around other stars and thus, perhaps, give us the first real evidence from the chemistry of these planets’ atmospheres that life exists elsewhere.
+                  - generic [ref=f147e56]:
+                    - 'heading "Further Exploration: Interactive Activity" [level=5] [ref=f147e57]'
+                    - list [ref=f147e59]:
+                      - listitem [ref=f147e60]:
+                        - text: Explore the
+                        - link "Palomar Observatory website" [ref=f147e61]:
+                          - /url: https://sites.astro.caltech.edu/palomar/homepage.html
+                        - text: to learn about the historic Hale 5-meter telescope and its role in advancing twentieth-century astronomical research.
+                      - listitem [ref=f147e62]:
+                        - text: Visit the
+                        - link "ESO Very Large Telescope website" [ref=f147e63]:
+                          - /url: https://www.eso.org/public/teles-instr/paranal-observatory/vlt/
+                        - text: to investigate how one of the world's premier observatories uses large mirrors and advanced instruments to study the universe.
+                      - listitem [ref=f147e64]:
+                        - text: Explore the
+                        - link "Gemini Observatory website" [ref=f147e65]:
+                          - /url: https://www.gemini.edu/
+                        - text: to learn how modern optical and infrared telescopes collect high-resolution observations of stars, planets, and galaxies.
+                      - listitem [ref=f147e66]:
+                        - text: Watch the
+                        - 'link "Modern Marvels: Keck Observatory video" [ref=f147e67]':
+                          - /url: https://play.history.com/shows/modern-marvels/videos/keck-observatory
+                        - text: from The History Channel to discover how segmented mirrors and innovative engineering made some of the world's largest telescopes possible.
+                      - listitem [ref=f147e68]:
+                        - text: Explore the
+                        - link "Vera C. Rubin Observatory" [ref=f147e69]:
+                          - /url: https://rubinobservatory.org/
+                        - text: website to learn about large-scale sky surveys and how astronomers search for transient phenomena, near-Earth objects, and evidence of dark matter.
+                      - listitem [ref=f147e70]:
+                        - text: Visit the
+                        - link "ESO Extremely Large Telescope" [ref=f147e71]:
+                          - /url: https://elt.eso.org/
+                        - text: website to explore the design and scientific goals of one of the largest optical and infrared telescopes ever constructed.
+                      - listitem [ref=f147e72]:
+                        - text: Explore the
+                        - link "Thirty Meter Telescope (TMT) website" [ref=f147e73]:
+                          - /url: http://tmt.org/
+                        - text: to learn about the technologies and scientific objectives of next-generation ground-based astronomy.
+                      - listitem [ref=f147e74]:
+                        - text: Visit the
+                        - link "Giant Magellan Telescope website" [ref=f147e75]:
+                          - /url: https://giantmagellan.org/
+                        - text: to investigate how giant segmented-mirror telescopes will provide unprecedented views of distant planets, stars, and galaxies.
+                      - listitem [ref=f147e76]:
+                        - text: Explore the
+                        - link "International Dark-Sky Association" [ref=f147e77]:
+                          - /url: https://darksky.org/
+                        - text: website to learn about light pollution and efforts to preserve dark skies for astronomy, wildlife, and human health.
+                        - list [ref=f147e78]:
+                          - listitem [ref=f147e79]:
+                            - text: Participate in the
+                            - link "Globe at Night citizen-science project" [ref=f147e80]:
+                              - /url: https://globeatnight.org/
+                            - text: to measure local light pollution and contribute observations to a global database.
+                          - listitem [ref=f147e81]:
+                            - text: Read
+                            - link "Dark Skies and Light Pollution" [ref=f147e82]:
+                              - /url: https://astrosociety.org/education-outreach/resource-guides/dark-skies-and-light-pollution.html
+                            - text: by Andrew Fraknoi to explore the causes and consequences of light pollution and ways to reduce its impact.
+              - generic [ref=f145e345]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f145e347] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f145e95]:
+          - separator [ref=f145e96]
+          - paragraph [ref=f145e98]:
+            - 'link "5.2: Modern Telescopes" [ref=f145e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.02%3A_Modern_Telescopes
+            - text: is shared under a
+            - link "CC BY" [ref=f145e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f145e101]:
+        - list [ref=f145e102]:
+          - listitem [ref=f145e103]:
+            - link "Back to top" [ref=f145e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f145e105]:
+            - list [ref=f145e106]:
+              - listitem [ref=f145e107]:
+                - 'link " 5.1: Telescopes" [ref=f145e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.01%3A_Telescopes
+                  - text: 
+                  - generic [ref=f145e109]: "5.1: Telescopes"
+              - listitem [ref=f145e110]:
+                - 'link "5.3: Capturing Light " [ref=f145e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.03%3A_Capturing_Light
+                  - generic [ref=f145e112]: "5.3: Capturing Light"
+                  - text: 
+        - list [ref=f145e115]:
+          - listitem [ref=f145e116]: Was this article helpful?
+          - listitem [ref=f145e117]:
+            - button "Yes" [ref=f145e118] [cursor=pointer]
+          - listitem [ref=f145e119]:
+            - button "No" [ref=f145e120] [cursor=pointer]
+          - listitem [ref=f145e121]:
+            - button "Leave feedback" [ref=f145e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f145e123]:
+          - heading "Attachments" [level=2] [ref=f145e124]
+          - generic:
+            - button "Attach a file" [ref=f145e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f145e127]:
+            - generic [ref=f145e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f145e131]
+            - generic [ref=f145e132]:
+              - grid [ref=f145e135]:
+                - rowgroup [ref=f145e136]:
+                  - row [ref=f145e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f145e138]':
+                      - generic:
+                        - generic [ref=f145e139]: File
+                        - generic [ref=f145e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f145e141]':
+                      - generic:
+                        - generic [ref=f145e142]: Last modified
+                        - generic [ref=f145e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f145e144]':
+                      - generic:
+                        - generic [ref=f145e145]: Size
+                        - generic [ref=f145e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f145e147]':
+                      - generic:
+                        - generic [ref=f145e148]: Added by
+                        - generic [ref=f145e149]: 
+              - grid [ref=f145e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f145e152]: File
+                          - generic [ref=f145e153]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f145e154]: Last modified
+                          - generic [ref=f145e155]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f145e156]: Size
+                          - generic [ref=f145e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f145e158]: Added by
+                          - generic [ref=f145e159]: 
+                - rowgroup [ref=f145e160]:
+                  - row [ref=f145e161]:
+                    - gridcell " 1024px-Vera_C._Rubin_Observatory,_iotw2229a_-_Night_Light.jpg (no description)" [ref=f145e162]:
+                      - generic [ref=f145e163]:
+                        - generic [ref=f145e164]:
+                          - generic [ref=f145e165]: 
+                          - link "1024px-Vera_C._Rubin_Observatory,_iotw2229a_-_Night_Light.jpg" [ref=f145e166] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/66440/1024px-Vera_C._Rubin_Observatory%2C_iotw2229a_-_Night_Light.jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f145e167]:
+                          - generic [ref=f145e168]: (no description)
+                          - text: 
+                    - gridcell "Feb 9, 2026, 11:44 AM" [ref=f145e169]
+                    - gridcell "92 KiB" [ref=f145e171]
+                    - gridcell "Rachel Mastrapa" [ref=f145e172]
+                  - row [ref=f145e173]:
+                    - gridcell " HeartofELT.jpg (no description)" [ref=f145e174]:
+                      - generic [ref=f145e175]:
+                        - generic [ref=f145e176]:
+                          - generic [ref=f145e177]: 
+                          - link "HeartofELT.jpg" [ref=f145e178] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/66442/HeartofELT.jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f145e179]:
+                          - generic [ref=f145e180]: (no description)
+                          - text: 
+                    - gridcell "Feb 9, 2026, 4:24 PM" [ref=f145e181]
+                    - gridcell "469 KiB" [ref=f145e183]
+                    - gridcell "Rachel Mastrapa" [ref=f145e184]
+                  - row [ref=f145e185]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f145e186]:
+                      - generic [ref=f145e187]:
+                        - generic [ref=f145e188]:
+                          - generic [ref=f145e189]: 
+                          - link "mindtouch.page#thumbnail" [ref=f145e190] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63430/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f145e191]:
+                          - generic [ref=f145e192]: (no description)
+                          - text: 
+                    - gridcell "Dec 7, 2025, 6:55 PM" [ref=f145e193]
+                    - gridcell "11 KiB" [ref=f145e195]
+                    - gridcell "Rachel Mastrapa" [ref=f145e196]
+    - generic [ref=f145e198]:
+      - button "Open support menu" [ref=f145e200] [cursor=pointer]: "?"
+      - navigation [ref=f145e202]:
+        - paragraph [ref=f145e204]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f145e205] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f145e206] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f145e207] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f145e208] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f145e209] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f145e210]:
+      - generic:
+        - generic [ref=f145e212]:
+          - button "Annotation sidebar" [ref=f145e213]
+          - generic [ref=f145e218]:
+            - button "Show highlights" [ref=f145e219]
+            - button "New page note" [ref=f145e224]
+          - status [ref=f145e229]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f145e230]:
+    - button "contents" [ref=f145e231] [cursor=pointer]
+    - button "readability" [ref=f145e233] [cursor=pointer]
+    - button "resources" [ref=f145e235] [cursor=pointer]
+    - button "tools" [ref=f145e237] [cursor=pointer]
+    - button "developers" [ref=f145e239] [cursor=pointer]
+  - text:  
+  - generic [ref=f145e348]:
+    - generic [ref=f145e349] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f145e352] [cursor=pointer]

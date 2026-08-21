@@ -1,0 +1,325 @@
+- generic [ref=f612e1]:
+  - link "Skip to main content" [ref=f612e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f612e3]:
+    - text: 
+    - generic [ref=f612e4]:
+      - generic [ref=f612e5]:
+        - generic: ✕
+        - navigation [ref=f612e7]:
+          - generic [ref=f612e8]:
+            - link [ref=f612e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f612e11]
+            - button "Enter Reader Mode" [ref=f612e13] [cursor=pointer]:
+              - generic [ref=f612e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f612e16]:
+        - list [ref=f612e18]:
+          - listitem [ref=f612e19]:
+            - link [ref=f612e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f612e22]
+          - listitem [ref=f612e23]:
+            - text: 
+            - generic [ref=f612e25]:
+              - generic [ref=f612e26]: "Search :"
+              - searchbox "Search :" [ref=f612e27]
+              - button " Search" [ref=f612e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f612e29]:
+            - list [ref=f612e30]:
+              - listitem [ref=f612e31]:
+                - link "Edit" [ref=f612e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.18%3A_Ptolemy_Claudius?action=edit
+              - text: 
+              - listitem [ref=f612e33]:
+                - link " Options" [ref=f612e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f612e35]:
+                - link " Rachel Mastrapa" [ref=f612e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f612e37]:
+        - generic:
+          - button " Contents" [ref=f612e220] [cursor=pointer]
+          - list [ref=f612e39]:
+            - listitem [ref=f612e40]:
+              - link " Home" [ref=f612e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f612e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f612e43]:
+              - link " Workbench" [ref=f612e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f612e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f612e46]:
+              - link " De Anza - ASTR10" [ref=f612e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f612e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f612e49]:
+              - 'link " 18: Appendices" [ref=f612e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices
+                - generic [ref=f612e51]: 
+                - text: "18: Appendices"
+              - text: »
+            - listitem [ref=f612e52]:
+              - 'link " 18.1: Alphabetical List of Scientists" [ref=f612e53] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists
+                - generic [ref=f612e54]: 
+                - text: "18.1: Alphabetical List of Scientists"
+              - text: »
+            - listitem [ref=f612e55]:
+              - generic [ref=f612e56]: 
+              - text: "18.1.18: Ptolemy, Claudius"
+          - button " Expand/collapse global location" [ref=f612e57] [cursor=pointer]
+      - navigation:
+        - generic:                                                                   
+    - article [ref=f612e58]:
+      - generic [ref=f612e59]:
+        - generic [ref=f612e60]:
+          - button " Page settings" [ref=f612e61] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "18.1.18: Ptolemy, Claudius" [level=1] [ref=f612e62]':
+          - generic [ref=f612e63]: "18.1.18: Ptolemy, Claudius "
+        - list [ref=f612e65]:
+          - listitem [ref=f612e66]:
+            - link [ref=f612e68] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f612e69]:
+                - img "CC" [ref=f612e70]
+                - img "BY" [ref=f612e71]
+          - listitem [ref=f612e72]:
+            - generic [ref=f612e73]:
+              - term [ref=f612e74] [cursor=pointer]: "Last updated:"
+              - definition [ref=f612e75]: Dec 25, 2025, 10:13 PM by Rachel Mastrapa
+          - listitem [ref=f612e76]:
+            - generic [ref=f612e77]:
+              - term [ref=f612e78] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f612e79]: Private
+          - listitem [ref=f612e80]:
+            - generic [ref=f612e81]:
+              - term [ref=f612e82] [cursor=pointer]: "Page ID:"
+              - definition [ref=f612e83]: "140434"
+          - listitem [ref=f612e84]:
+            - list [ref=f612e85]:
+              - listitem [ref=f612e86]:
+                - button "Pin Page" [ref=f612e87] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f612e88]:
+                - list [ref=f612e89]:
+                  - listitem [ref=f612e90]:
+                    - 'link " 18.1.17: Pickering, Edward C." [ref=f612e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.17%3A_Pickering_Edward_C.
+                      - text: 
+                      - generic [ref=f612e92]: "18.1.17: Pickering, Edward C."
+                  - listitem [ref=f612e93]:
+                    - 'link "18.1.19: Rubin, Vera " [ref=f612e94] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.19%3A_Rubin_Vera
+                      - generic [ref=f612e95]: "18.1.19: Rubin, Vera"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f612e96]:
+        - group [ref=f612e223]:
+          - generic [ref=f612e224]:
+            - generic [ref=f612e225]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f612e226]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f612e227]:
+            - generic [ref=f612e230]:
+              - generic [ref=f612e232]:
+                - link "Edit" [ref=f612e233]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f612e234]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f612e235]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f612e236]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f612e237]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f612e238]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f612e241]:
+                - toolbar [ref=f612e242]:
+                  - button "Save" [ref=f612e243]:
+                    - generic [ref=f612e244]: 
+                  - button "Cancel" [ref=f612e246]:
+                    - generic [ref=f612e247]: 
+                - text:          
+                - toolbar [ref=f612e288]:
+                  - button "Alignment" [ref=f612e289]:
+                    - generic [ref=f612e290]: 
+                - text:    
+                - toolbar [ref=f612e303]:
+                  - button "Replace" [ref=f612e304]:
+                    - generic [ref=f612e305]: 
+                - toolbar [ref=f612e307]:
+                  - button "Enable Binder" [disabled] [ref=f612e308]
+                  - button "Insert Adapt" [disabled] [ref=f612e310]
+                  - button "Query" [ref=f612e312]
+                  - button "Accessibility Checker" [disabled] [ref=f612e315]
+                - toolbar [ref=f612e318]:
+                  - button "Visual" [pressed] [ref=f612e339]:
+                    - generic [ref=f612e320]: 
+            - application "Rich Text Editor, editarea" [ref=f612e322]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f612e341]: <p class="lt-phys-64086"><a class="link-https" href="/Bookshelves/Astronomy__Cosmology/Introduction_to_Astronomy_(Lumen)/02:_Historical_Astronomy/2.06:_Claudius_Ptolemy" rel="freelink" title="https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Introduction_to_Astronomy_(Lumen)/02%3A_Historical_Astronomy/2.06%3A_Claudius_Ptolemy">https://phys.libretexts.org/Bookshel...audius_Ptolemy</a></p> <p class="lt-phys-64086">Another ancient Greek astronomer and philosopher, Claudius Ptolemy (100-170 AD), developed a Geocentric Solar System which placed the “stellar” universe on a crystal sphere. Earth stood still (didn’t rotate) and the Sun orbited Earth, producing our day and night cycles. To account for the retrograde of the planets, Ptolemy used looping small circles called epicycles on the orbits. It was an ingenious system accepted, as Law… except a Geocentric Universe was wrong!Even though Ptolemy was Greek, he was born in Egypt. All of his observations and work was done from Alexandria, Egypt. He was also a geographer and mathematician, and Ptolemy’s<em>“Almagest” </em>(1515) is one of the most influential scientific texts of all times.</p> <p class="lt-phys-64086"><em>If Ptolemy’s Geocentric Universe is incorrect, why do we see Retrograde Motion? </em>Each planet orbits the Sun at a different velocity; the closer the planet to the Sun, the faster it orbits. Earth catches up then passes planets further away from the Sun, giving the illusion that the planet is moving backwards for a while. The planet does retrograde, but due to the two bodies’ orbital motions.</p> <p class="lt-phys-64086">The correct solution would ultimately come nearly 1,500 years later. However, the Geocentric Solar System was deemed Scientific Law – and in some cases Church Law; no one could challenge the Geocentric Solar System until overwhelming evidence made accepting it impossible.</p> <figure><img alt="An artists rendering of Claudius Ptolemy" src="/@api/deki/files/42773/figure-12-claudiusPtolemy. jpg" /> <figcaption>Public Domain</figcaption> </figure>
+              - generic [ref=f612e324]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f612e326] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f612e98]:
+          - separator [ref=f612e99]
+          - paragraph [ref=f612e101]:
+            - 'link "18.1.18: Ptolemy, Claudius" [ref=f612e102] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.18%3A_Ptolemy_Claudius
+            - text: is shared under a
+            - link "CC BY" [ref=f612e103] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f612e104]:
+        - list [ref=f612e105]:
+          - listitem [ref=f612e106]:
+            - link "Back to top" [ref=f612e107] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f612e108]:
+            - list [ref=f612e109]:
+              - listitem [ref=f612e110]:
+                - 'link " 18.1.17: Pickering, Edward C." [ref=f612e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.17%3A_Pickering_Edward_C.
+                  - text: 
+                  - generic [ref=f612e112]: "18.1.17: Pickering, Edward C."
+              - listitem [ref=f612e113]:
+                - 'link "18.1.19: Rubin, Vera " [ref=f612e114] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.19%3A_Rubin_Vera
+                  - generic [ref=f612e115]: "18.1.19: Rubin, Vera"
+                  - text: 
+        - list [ref=f612e118]:
+          - listitem [ref=f612e119]: Was this article helpful?
+          - listitem [ref=f612e120]:
+            - button "Yes" [ref=f612e121] [cursor=pointer]
+          - listitem [ref=f612e122]:
+            - button "No" [ref=f612e123] [cursor=pointer]
+          - listitem [ref=f612e124]:
+            - button "Leave feedback" [ref=f612e125] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f612e126]:
+          - heading "Attachments" [level=2] [ref=f612e127]
+          - generic:
+            - button "Attach a file" [ref=f612e128] [cursor=pointer]
+            - text: 
+          - generic [ref=f612e130]:
+            - generic [ref=f612e133]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f612e134]
+            - generic [ref=f612e135]:
+              - grid [ref=f612e138]:
+                - rowgroup [ref=f612e139]:
+                  - row [ref=f612e140]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f612e141]':
+                      - generic:
+                        - generic [ref=f612e142]: File
+                        - generic [ref=f612e143]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f612e144]':
+                      - generic:
+                        - generic [ref=f612e145]: Last modified
+                        - generic [ref=f612e146]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f612e147]':
+                      - generic:
+                        - generic [ref=f612e148]: Size
+                        - generic [ref=f612e149]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f612e150]':
+                      - generic:
+                        - generic [ref=f612e151]: Added by
+                        - generic [ref=f612e152]: 
+              - grid [ref=f612e154]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f612e155]: File
+                          - generic [ref=f612e156]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f612e157]: Last modified
+                          - generic [ref=f612e158]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f612e159]: Size
+                          - generic [ref=f612e160]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f612e161]: Added by
+                          - generic [ref=f612e162]: 
+                - rowgroup [ref=f612e163]:
+                  - row [ref=f612e164]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f612e165]:
+                      - generic [ref=f612e166]:
+                        - generic [ref=f612e167]:
+                          - generic [ref=f612e168]: 
+                          - link "mindtouch.page#thumbnail" [ref=f612e169] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/65465/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f612e170]:
+                          - generic [ref=f612e171]: (no description)
+                          - text: 
+                    - gridcell "Dec 25, 2025, 10:00 PM" [ref=f612e172]
+                    - gridcell "11 KiB" [ref=f612e174]
+                    - gridcell "Rachel Mastrapa" [ref=f612e175]
+    - generic [ref=f612e177]:
+      - button "Open support menu" [ref=f612e179] [cursor=pointer]: "?"
+      - navigation [ref=f612e181]:
+        - paragraph [ref=f612e183]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f612e184] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f612e185] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f612e186] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f612e187] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f612e188] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f612e189]:
+      - generic:
+        - generic [ref=f612e191]:
+          - button "Annotation sidebar" [ref=f612e192]
+          - generic [ref=f612e197]:
+            - button "Show highlights" [ref=f612e198]
+            - button "New page note" [ref=f612e203]
+          - status [ref=f612e208]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f612e209]:
+    - button "contents" [ref=f612e210] [cursor=pointer]
+    - button "readability" [ref=f612e212] [cursor=pointer]
+    - button "resources" [ref=f612e214] [cursor=pointer]
+    - button "tools" [ref=f612e216] [cursor=pointer]
+    - button "developers" [ref=f612e218] [cursor=pointer]
+  - text:  
+  - generic [ref=f612e332]:
+    - generic [ref=f612e333] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f612e336] [cursor=pointer]

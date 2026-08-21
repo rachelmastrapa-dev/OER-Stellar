@@ -1,0 +1,262 @@
+- generic [active] [ref=f420e1]:
+  - link "Skip to main content" [ref=f420e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f420e3]:
+    - text: 
+    - generic [ref=f420e4]:
+      - generic [ref=f420e5]:
+        - generic: ✕
+        - navigation [ref=f420e7]:
+          - generic [ref=f420e8]:
+            - link [ref=f420e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f420e11]
+            - button "Enter Reader Mode" [ref=f420e13] [cursor=pointer]:
+              - generic [ref=f420e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f420e16]:
+        - list [ref=f420e18]:
+          - listitem [ref=f420e19]:
+            - link [ref=f420e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f420e22]
+          - listitem [ref=f420e23]:
+            - text: 
+            - generic [ref=f420e25]:
+              - generic [ref=f420e26]: "Search :"
+              - searchbox "Search :" [ref=f420e27]
+              - button " Search" [ref=f420e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f420e29]:
+            - list [ref=f420e30]:
+              - listitem [ref=f420e31]:
+                - link "Edit" [ref=f420e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes?action=edit
+              - text: 
+              - listitem [ref=f420e33]:
+                - link " Options" [ref=f420e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f420e35]:
+                - link " Rachel Mastrapa" [ref=f420e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f420e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f420e38] [cursor=pointer]
+          - list [ref=f420e39]:
+            - listitem [ref=f420e40]:
+              - link " Home" [ref=f420e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f420e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f420e43]:
+              - link " Workbench" [ref=f420e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f420e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f420e46]:
+              - link " De Anza - ASTR10" [ref=f420e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f420e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f420e49]:
+              - generic [ref=f420e50]: 
+              - text: "14: Black Holes"
+          - text: 
+      - navigation
+    - article [ref=f420e51]:
+      - generic [ref=f420e52]:
+        - generic [ref=f420e53]:
+          - button " Page settings" [ref=f420e54] [cursor=pointer]
+          - text: "    : :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "14: Black Holes" [level=1] [ref=f420e55]'
+        - list [ref=f420e58]:
+          - listitem [ref=f420e59]:
+            - link [ref=f420e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f420e62]:
+                - img "CC" [ref=f420e63]
+                - img "BY" [ref=f420e64]
+          - listitem [ref=f420e65]:
+            - generic [ref=f420e66]:
+              - term [ref=f420e67]: "Last updated:"
+              - definition [ref=f420e68]: Aug 12, 2026, 9:09 AM by Rachel Mastrapa
+          - listitem [ref=f420e69]:
+            - generic [ref=f420e70]:
+              - term [ref=f420e71]: "Page restriction:"
+              - definition [ref=f420e72]: Private
+          - listitem [ref=f420e73]:
+            - generic [ref=f420e74]:
+              - term [ref=f420e75]: "Page ID:"
+              - definition [ref=f420e76]: "115288"
+          - listitem [ref=f420e77]:
+            - list [ref=f420e78]:
+              - listitem [ref=f420e79]:
+                - button "Pin Page" [ref=f420e80] [cursor=pointer]: 
+              - listitem [ref=f420e81]:
+                - generic [ref=f420e82]:
+                  - link " Page notifications Off" [ref=f420e84] [cursor=pointer]:
+                    - /url: "#"
+                  - text: 
+              - text: 
+              - listitem [ref=f420e85]:
+                - list [ref=f420e86]:
+                  - listitem [ref=f420e87]:
+                    - 'link " 13.8: Accessible Descriptions" [ref=f420e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.08%3A_Accessible_Descriptions
+                      - text: 
+                      - generic [ref=f420e89]: "13.8: Accessible Descriptions"
+                  - listitem [ref=f420e90]:
+                    - 'link "14.1: Properties of Black Holes " [ref=f420e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.01%3A_Properties_of_Black_Holes
+                      - generic [ref=f420e92]: "14.1: Properties of Black Holes"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f420e93]:
+        - generic [ref=f420e95]:
+          - heading "Introduction" [level=2] [ref=f420e96]
+          - paragraph [ref=f420e97]: In this chapter, we will discuss the origin and properties of black holes and how they affect spacetime. We will also review how astronomers can observe an object that does not allow light to escape. Finally, we will introduce a new type of observatory that searches for gravitational waves.
+          - generic [ref=f420e99]:
+            - heading " Learning Objectives" [level=5] [ref=f420e100]
+            - list [ref=f420e102]:
+              - listitem [ref=f420e103]: Describe the event horizon surrounding a black hole
+              - listitem [ref=f420e104]: Explain how a black hole warps spacetime and give examples of how the effect can be observed
+              - listitem [ref=f420e105]: Describe how the concept of a singularity disagrees with our current understanding of the behavior of matter
+              - listitem [ref=f420e106]: Describe what to look for when seeking and confirming the presence of a stellar black hole
+              - listitem [ref=f420e107]: Differentiate between stellar black holes and the black holes in the centers of galaxies
+              - listitem [ref=f420e108]: Describe what a gravitational wave is, what can produce it, and how fast it propagates
+              - listitem [ref=f420e109]: Describe the basic mechanisms used to detect gravitational waves
+          - paragraph
+          - list [ref=f420e112]:
+            - listitem [ref=f420e113]:
+              - generic [ref=f420e114]:
+                - term [ref=f420e115]:
+                  - 'link " 14.1: Properties of Black Holes" [ref=f420e116] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.01%3A_Properties_of_Black_Holes
+                    - generic [ref=f420e117]: 
+                    - text: "14.1: Properties of Black Holes"
+                - definition
+            - listitem [ref=f420e118]:
+              - generic [ref=f420e119]:
+                - term [ref=f420e120]:
+                  - 'link " 14.2: Evidence for Black Holes" [ref=f420e121] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.02%3A_Evidence_for_Black_Holes
+                    - generic [ref=f420e122]: 
+                    - text: "14.2: Evidence for Black Holes"
+                - definition
+            - listitem [ref=f420e123]:
+              - generic [ref=f420e124]:
+                - term [ref=f420e125]:
+                  - 'link " 14.3: Gravitational Wave Astronomy" [ref=f420e126] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.03%3A_Gravitational_Wave_Astronomy
+                    - generic [ref=f420e127]: 
+                    - text: "14.3: Gravitational Wave Astronomy"
+                - definition
+            - listitem [ref=f420e128]:
+              - generic [ref=f420e129]:
+                - term [ref=f420e130]:
+                  - 'link " 14.4: How We \"See\" Black Holes" [ref=f420e131] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.04%3A_How_We_See_Black_Holes
+                    - generic [ref=f420e132]: 
+                    - text: "14.4: How We \"See\" Black Holes"
+                - definition
+            - listitem [ref=f420e133]:
+              - generic [ref=f420e134]:
+                - term [ref=f420e135]:
+                  - 'link " 14.5: Key Terms" [ref=f420e136] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.05%3A_Key_Terms
+                    - generic [ref=f420e137]: 
+                    - text: "14.5: Key Terms"
+                - definition
+            - listitem [ref=f420e138]:
+              - generic [ref=f420e139]:
+                - term [ref=f420e140]:
+                  - 'link " 14.6: Accessible Descriptions" [ref=f420e141] [cursor=pointer]':
+                    - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.06%3A_Accessible_Descriptions
+                    - generic [ref=f420e142]: 
+                    - text: "14.6: Accessible Descriptions"
+                - definition
+          - paragraph
+          - paragraph [ref=f420e143]:
+            - strong [ref=f420e144]: Thumbnail
+            - text: ": In this illustration, the black hole named Cygnus X-1, which formed when a large star collapsed, is pulling matter from the blue star beside it. ("
+            - link "Public Domain" [ref=f420e145] [cursor=pointer]:
+              - /url: https://en.wikipedia.org/wiki/Public_domain
+            - text: ;
+            - 'link "IMAGE: NASA, CXC, Melissa Weiss (CXC)" [ref=f420e146] [cursor=pointer]':
+              - /url: https://www.nasa.gov/
+            - text: via
+            - link "Wikimedia Commons" [ref=f420e147] [cursor=pointer]:
+              - /url: https://commons.wikimedia.org/wiki/File:Black_hole_Cygnus_X-1.jpg
+            - text: )
+        - generic [ref=f420e148]:
+          - separator [ref=f420e149]
+          - paragraph [ref=f420e151]:
+            - 'link "14: Black Holes" [ref=f420e152] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes
+            - text: is shared under a
+            - link "CC BY" [ref=f420e153] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f420e154]:
+        - list [ref=f420e155]:
+          - listitem: 
+          - listitem [ref=f420e156]:
+            - list [ref=f420e157]:
+              - listitem [ref=f420e158]:
+                - 'link " 13.8: Accessible Descriptions" [ref=f420e159] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.08%3A_Accessible_Descriptions
+                  - text: 
+                  - generic [ref=f420e160]: "13.8: Accessible Descriptions"
+              - listitem [ref=f420e161]:
+                - 'link "14.1: Properties of Black Holes " [ref=f420e162] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.01%3A_Properties_of_Black_Holes
+                  - generic [ref=f420e163]: "14.1: Properties of Black Holes"
+                  - text: 
+        - generic:   
+        - text: ": : : :              "
+    - generic [ref=f420e165]:
+      - button "Open support menu" [ref=f420e167] [cursor=pointer]: "?"
+      - navigation [ref=f420e169]:
+        - paragraph [ref=f420e171]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f420e172] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f420e173] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f420e174] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f420e175] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f420e176] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f420e177]:
+      - generic:
+        - generic [ref=f420e179]:
+          - button "Annotation sidebar" [ref=f420e180]
+          - generic [ref=f420e185]:
+            - button "Show highlights" [ref=f420e186]
+            - button "New page note" [ref=f420e191]
+          - status [ref=f420e196]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f420e197]:
+    - button "contents" [ref=f420e198] [cursor=pointer]
+    - button "readability" [ref=f420e200] [cursor=pointer]
+    - button "resources" [ref=f420e202] [cursor=pointer]
+    - button "tools" [ref=f420e204] [cursor=pointer]
+    - button "developers" [ref=f420e206] [cursor=pointer]

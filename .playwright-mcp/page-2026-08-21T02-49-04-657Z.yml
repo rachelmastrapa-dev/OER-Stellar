@@ -1,0 +1,313 @@
+- generic [ref=f485e1]:
+  - link "Skip to main content" [ref=f485e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f485e3]:
+    - text: 
+    - generic [ref=f485e4]:
+      - generic [ref=f485e5]:
+        - generic: ✕
+        - navigation [ref=f485e7]:
+          - generic [ref=f485e8]:
+            - link [ref=f485e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f485e11]
+            - button "Enter Reader Mode" [ref=f485e13] [cursor=pointer]:
+              - generic [ref=f485e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f485e16]:
+        - list [ref=f485e18]:
+          - listitem [ref=f485e19]:
+            - link [ref=f485e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f485e22]
+          - listitem [ref=f485e23]:
+            - text: 
+            - generic [ref=f485e25]:
+              - generic [ref=f485e26]: "Search :"
+              - searchbox "Search :" [ref=f485e27]
+              - button " Search" [ref=f485e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f485e29]:
+            - list [ref=f485e30]:
+              - listitem [ref=f485e31]:
+                - link "Edit" [ref=f485e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies?action=edit
+              - text: 
+              - listitem [ref=f485e33]:
+                - link " Options" [ref=f485e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f485e35]:
+                - link " Rachel Mastrapa" [ref=f485e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f485e37]:
+        - generic:
+          - button " Contents" [ref=f485e162] [cursor=pointer]
+          - list [ref=f485e39]:
+            - listitem [ref=f485e40]:
+              - link " Home" [ref=f485e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f485e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f485e43]:
+              - link " Workbench" [ref=f485e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f485e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f485e46]:
+              - link " De Anza - ASTR10" [ref=f485e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f485e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f485e49]:
+              - generic [ref=f485e50]: 
+              - text: "16: Galaxies"
+          - text: 
+      - navigation:
+        - generic:                                                
+    - article [ref=f485e51]:
+      - generic [ref=f485e52]:
+        - generic [ref=f485e53]:
+          - button " Page settings" [ref=f485e54] [cursor=pointer]
+          - text: "    : :  :  :  :  :  :  :  :  :  :  :  :  :     "
+        - 'heading "16: Galaxies" [level=1] [ref=f485e55]':
+          - generic [ref=f485e163]: "16: Galaxies "
+        - list [ref=f485e58]:
+          - listitem [ref=f485e59]:
+            - link [ref=f485e61] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f485e62]:
+                - img "CC" [ref=f485e63]
+                - img "BY" [ref=f485e64]
+          - listitem [ref=f485e65]:
+            - generic [ref=f485e66]:
+              - term [ref=f485e67]: "Last updated:"
+              - definition [ref=f485e68]: Aug 16, 2026, 5:39 PM by Rachel Mastrapa
+          - listitem [ref=f485e69]:
+            - generic [ref=f485e70]:
+              - term [ref=f485e71]: "Page restriction:"
+              - definition [ref=f485e72]: Private
+          - listitem [ref=f485e73]:
+            - generic [ref=f485e74]:
+              - term [ref=f485e75]: "Page ID:"
+              - definition [ref=f485e76]: "139698"
+          - listitem [ref=f485e77]:
+            - list [ref=f485e78]:
+              - listitem [ref=f485e79]:
+                - button "Pin Page" [ref=f485e80] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f485e81]:
+                - list [ref=f485e82]:
+                  - listitem [ref=f485e83]:
+                    - 'link " 15.9: Accessible Descriptions" [ref=f485e84] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.09%3A_Accessible_Descriptions
+                      - text: 
+                      - generic [ref=f485e85]: "15.9: Accessible Descriptions"
+                  - listitem [ref=f485e86]:
+                    - 'link "16.1: The Discovery of Galaxies " [ref=f485e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.01%3A_The_Discovery_of_Galaxies
+                      - generic [ref=f485e88]: "16.1: The Discovery of Galaxies"
+                      - text: 
+              - text:  
+      - list [ref=f485e91]:
+        - listitem [ref=f485e92]:
+          - img "OpenStax" [ref=f485e93]
+        - listitem [ref=f485e94]:
+          - link "OpenStax" [ref=f485e95] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f485e96]:
+          - link "OpenStax" [ref=f485e97] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f485e98]:
+        - group [ref=f485e167]:
+          - generic [ref=f485e168]:
+            - generic [ref=f485e169]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f485e170]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f485e171]:
+            - generic [ref=f485e174]:
+              - generic [ref=f485e175]:
+                - generic [ref=f485e176]:
+                  - link "Edit" [ref=f485e177]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f485e178]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f485e179]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f485e180]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f485e181]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f485e182]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f485e183]: "Words: 218, Chars: 1503"
+              - group "Editor toolbars" [ref=f485e185]:
+                - toolbar [ref=f485e186]:
+                  - button "Save" [ref=f485e187]:
+                    - generic [ref=f485e188]: 
+                  - button "Cancel" [ref=f485e190]:
+                    - generic [ref=f485e191]: 
+                - toolbar [ref=f485e194]:
+                  - button "Undo" [disabled] [ref=f485e195]:
+                    - generic [ref=f485e196]: 
+                  - button "Redo" [disabled] [ref=f485e197]:
+                    - generic [ref=f485e198]: 
+                - toolbar [ref=f485e200]:
+                  - button "Headings" [ref=f485e201]
+                - toolbar [ref=f485e206]:
+                  - button "Bold" [ref=f485e207]:
+                    - generic [ref=f485e208]: 
+                  - button "Italic" [ref=f485e209]:
+                    - generic [ref=f485e210]: 
+                  - button "Underline" [ref=f485e211]:
+                    - generic [ref=f485e212]: 
+                - toolbar [ref=f485e214]:
+                  - button "Text color" [ref=f485e215]:
+                    - generic [ref=f485e216]: 
+                  - button "Background color" [ref=f485e218]:
+                    - generic [ref=f485e219]: 
+                - toolbar [ref=f485e222]:
+                  - button "Remove format" [ref=f485e223]:
+                    - generic [ref=f485e224]: 
+                - toolbar [ref=f485e226]:
+                  - button "Insert/Remove numbered list" [ref=f485e227]:
+                    - generic [ref=f485e228]: 
+                  - button "Insert/Remove bulleted list" [ref=f485e229]:
+                    - generic [ref=f485e230]: 
+                - toolbar [ref=f485e232]:
+                  - button "Alignment" [ref=f485e233]:
+                    - generic [ref=f485e234]: 
+                - text: 
+                - toolbar [ref=f485e237]:
+                  - button "Link" [ref=f485e238]:
+                    - generic [ref=f485e239]: 
+                  - button "Image" [ref=f485e240]:
+                    - generic [ref=f485e241]: 
+                  - text: 
+                  - button "Boxes" [ref=f485e242]
+                - toolbar [ref=f485e247]:
+                  - button "Replace" [ref=f485e248]:
+                    - generic [ref=f485e249]: 
+                - toolbar [ref=f485e251]:
+                  - button "Enable Binder" [ref=f485e252]
+                  - button "Insert Adapt" [ref=f485e254]
+                  - button "Query" [ref=f485e256]
+                  - button "Accessibility Checker" [ref=f485e259]
+                - toolbar [ref=f485e262]:
+                  - button "HTML" [ref=f485e263]:
+                    - generic [ref=f485e264]: 
+            - application "Rich Text Editor, editarea" [ref=f485e266]:
+              - iframe [active] [ref=f485e267]:
+                - generic [active] [ref=f487e1]:
+                  - heading "Introduction" [level=2] [ref=f487e2]
+                  - paragraph [ref=f487e3]: In this chapter, we start our exploration of the vast realm of galaxies. We will discuss the different types of galaxies, how astronomers measure the properties of galaxies, and how observations of galaxies led to the discovery of an expanding universe.
+                  - generic [ref=f487e4]:
+                    - heading "Learning Objectives" [level=5] [ref=f487e5]
+                    - list [ref=f487e7]:
+                      - listitem [ref=f487e8]: Describe the discoveries that confirmed the existence of galaxies that lie far beyond the Milky Way Galaxy
+                      - listitem [ref=f487e9]: Describe the properties and features of elliptical, spiral, and irregular galaxies
+                      - listitem [ref=f487e10]: Describe the methods through which astronomers can estimate the mass of a galaxy
+                      - listitem [ref=f487e11]: Characterize each type of galaxy by its mass-to-light ratio
+                      - listitem [ref=f487e12]: Describe the use of variable stars to estimate distances to galaxies
+                      - listitem [ref=f487e13]: Explain how standard bulbs and the Tully-Fisher relation can be used to estimate distances to galaxies
+                      - listitem [ref=f487e14]: Explain how to use Hubble’s law to determine distances to remote galaxies
+                      - listitem [ref=f487e15]: Describe models for the nature of an expanding universe
+                  - paragraph [ref=f487e16]: "{{template.ShowOrg()}}"
+                  - paragraph [ref=f487e17]:
+                    - strong [ref=f487e18]: Thumbnail
+                    - text: ": NGC 6946 is a medium-sized, face-on spiral galaxy about 22 million light years away from Earth. In the past century, eight supernovas have been observed to explode in the arms of this galaxy. Chandra observations (purple) have, in fact, revealed three of the oldest supernovas ever detected in X-rays, giving more credence to its nickname of the \"Fireworks Galaxy.\" This composite image also includes optical data from the Gemini Observatory in red, yellow, and cyan.. ("
+                    - link "Public Domain" [ref=f487e19]:
+                      - /url: https://en.wikipedia.org/wiki/Public_domain
+                    - text: ;
+                    - 'link "NASA/CXC/MSSL/R.Soria et al, Optical: AURA/Gemini OBs" [ref=f487e20]':
+                      - /url: https://www.nasa.gov/
+                    - text: via
+                    - link "Wikimedia Commons" [ref=f487e21]:
+                      - /url: https://commons.wikimedia.org/wiki/File:NGC_6946.jpg
+                    - text: )
+              - generic [ref=f485e268]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f485e270] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f485e100]:
+          - separator [ref=f485e101]
+          - paragraph [ref=f485e103]:
+            - text: This page titled
+            - 'link "16: Galaxies" [ref=f485e104] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f485e105] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f485e106] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f485e107] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f485e108]:
+        - list [ref=f485e109]:
+          - listitem: 
+          - listitem [ref=f485e110]:
+            - list [ref=f485e111]:
+              - listitem [ref=f485e112]:
+                - 'link " 15.9: Accessible Descriptions" [ref=f485e113] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/15%3A_Milky_Way_Galaxy/15.09%3A_Accessible_Descriptions
+                  - text: 
+                  - generic [ref=f485e114]: "15.9: Accessible Descriptions"
+              - listitem [ref=f485e115]:
+                - 'link "16.1: The Discovery of Galaxies " [ref=f485e116] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/16%3A_Galaxies/16.01%3A_The_Discovery_of_Galaxies
+                  - generic [ref=f485e117]: "16.1: The Discovery of Galaxies"
+                  - text: 
+        - generic:   
+        - text: "     : : : : : : : , ,              "
+    - generic [ref=f485e119]:
+      - button "Open support menu" [ref=f485e121] [cursor=pointer]: "?"
+      - navigation [ref=f485e123]:
+        - paragraph [ref=f485e125]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f485e126] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f485e127] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f485e128] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f485e129] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f485e130] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f485e131]:
+      - generic:
+        - generic [ref=f485e133]:
+          - button "Annotation sidebar" [ref=f485e134]
+          - generic [ref=f485e139]:
+            - button "Show highlights" [ref=f485e140]
+            - button "New page note" [ref=f485e145]
+          - status [ref=f485e150]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f485e151]:
+    - button "contents" [ref=f485e152] [cursor=pointer]
+    - button "readability" [ref=f485e154] [cursor=pointer]
+    - button "resources" [ref=f485e156] [cursor=pointer]
+    - button "tools" [ref=f485e158] [cursor=pointer]
+    - button "developers" [ref=f485e160] [cursor=pointer]
+  - text:  
+  - generic [ref=f485e271]:
+    - generic [ref=f485e272] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f485e275] [cursor=pointer]

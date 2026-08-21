@@ -1,0 +1,282 @@
+- generic [active] [ref=f187e1]:
+  - link "Skip to main content" [ref=f187e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f187e3]:
+    - text: 
+    - generic [ref=f187e4]:
+      - generic [ref=f187e5]:
+        - generic: ✕
+        - navigation [ref=f187e7]:
+          - generic [ref=f187e8]:
+            - link [ref=f187e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f187e11]
+            - button "Enter Reader Mode" [ref=f187e13] [cursor=pointer]:
+              - generic [ref=f187e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f187e16]:
+        - list [ref=f187e18]:
+          - listitem [ref=f187e19]:
+            - link [ref=f187e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f187e22]
+          - listitem [ref=f187e23]:
+            - text: 
+            - generic [ref=f187e25]:
+              - generic [ref=f187e26]: "Search :"
+              - searchbox "Search :" [ref=f187e27]
+              - button " Search" [ref=f187e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f187e29]:
+            - list [ref=f187e30]:
+              - listitem [ref=f187e31]:
+                - link "Edit" [ref=f187e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.05%3A_Science_Sensationalism_and_Literacy?action=edit
+              - text: 
+              - listitem [ref=f187e33]:
+                - link " Options" [ref=f187e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f187e35]:
+                - link " Rachel Mastrapa" [ref=f187e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f187e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f187e38] [cursor=pointer]
+          - list [ref=f187e39]:
+            - listitem [ref=f187e40]:
+              - link " Home" [ref=f187e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f187e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f187e43]:
+              - link " Workbench" [ref=f187e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f187e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f187e46]:
+              - link " De Anza - ASTR10" [ref=f187e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f187e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f187e49]:
+              - 'link " 6: The Sun and Our Solar System" [ref=f187e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System
+                - generic [ref=f187e51]: 
+                - text: "6: The Sun and Our Solar System"
+              - text: »
+            - listitem [ref=f187e52]:
+              - generic [ref=f187e53]: 
+              - text: "6.5: Science Sensationalism and Literacy"
+          - button " Expand/collapse global location" [ref=f187e54] [cursor=pointer]
+      - navigation
+    - article [ref=f187e55]:
+      - generic [ref=f187e56]:
+        - generic [ref=f187e57]:
+          - button " Page settings" [ref=f187e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "6.5: Science Sensationalism and Literacy" [level=1] [ref=f187e59]':
+          - generic [ref=f187e60]: "6.5: Science Sensationalism and Literacy "
+        - list [ref=f187e62]:
+          - listitem [ref=f187e63]:
+            - link [ref=f187e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f187e66]:
+                - img "CC" [ref=f187e67]
+                - img "BY" [ref=f187e68]
+          - listitem [ref=f187e69]:
+            - generic [ref=f187e70]:
+              - term [ref=f187e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f187e72]: Aug 20, 2026, 8:48 AM by Caitlin Kepple
+          - listitem [ref=f187e73]:
+            - generic [ref=f187e74]:
+              - term [ref=f187e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f187e76]: Private
+          - listitem [ref=f187e77]:
+            - generic [ref=f187e78]:
+              - term [ref=f187e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f187e80]: "128331"
+          - listitem [ref=f187e81]:
+            - list [ref=f187e82]:
+              - listitem [ref=f187e83]:
+                - button "Pin Page" [ref=f187e84] [cursor=pointer]: 
+              - listitem
+              - text: 
+              - listitem [ref=f187e85]:
+                - list [ref=f187e86]:
+                  - listitem [ref=f187e87]:
+                    - 'link " 6.4: The Solar System" [ref=f187e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.04%3A_The_Solar_System
+                      - text: 
+                      - generic [ref=f187e89]: "6.4: The Solar System"
+                  - listitem [ref=f187e90]:
+                    - 'link "6.6: Key Terms " [ref=f187e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.06%3A_Key_Terms
+                      - generic [ref=f187e92]: "6.6: Key Terms"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f187e93]:
+        - paragraph [ref=f187e94]
+        - generic [ref=f187e95]:
+          - separator [ref=f187e96]
+          - paragraph [ref=f187e98]:
+            - 'link "6.5: Science Sensationalism and Literacy" [ref=f187e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.05%3A_Science_Sensationalism_and_Literacy
+            - text: is shared under a
+            - link "CC BY" [ref=f187e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f187e101]:
+        - list [ref=f187e102]:
+          - listitem [ref=f187e103]:
+            - link "Back to top" [ref=f187e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f187e105]:
+            - list [ref=f187e106]:
+              - listitem [ref=f187e107]:
+                - 'link " 6.4: The Solar System" [ref=f187e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.04%3A_The_Solar_System
+                  - text: 
+                  - generic [ref=f187e109]: "6.4: The Solar System"
+              - listitem [ref=f187e110]:
+                - 'link "6.6: Key Terms " [ref=f187e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/06%3A_The_Sun_and_Our_Solar_System/6.06%3A_Key_Terms
+                  - generic [ref=f187e112]: "6.6: Key Terms"
+                  - text: 
+        - list [ref=f187e115]:
+          - listitem [ref=f187e116]: Was this article helpful?
+          - listitem [ref=f187e117]:
+            - button "Yes" [ref=f187e118] [cursor=pointer]
+          - listitem [ref=f187e119]:
+            - button "No" [ref=f187e120] [cursor=pointer]
+          - listitem [ref=f187e121]:
+            - button "Leave feedback" [ref=f187e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f187e123]:
+          - heading "Attachments" [level=2] [ref=f187e124]
+          - generic:
+            - button "Attach a file" [ref=f187e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f187e127]:
+            - generic [ref=f187e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f187e131]
+            - generic [ref=f187e132]:
+              - grid [ref=f187e135]:
+                - rowgroup [ref=f187e136]:
+                  - row [ref=f187e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f187e138]':
+                      - generic:
+                        - generic [ref=f187e139]: File
+                        - generic [ref=f187e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f187e141]':
+                      - generic:
+                        - generic [ref=f187e142]: Last modified
+                        - generic [ref=f187e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f187e144]':
+                      - generic:
+                        - generic [ref=f187e145]: Size
+                        - generic [ref=f187e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f187e147]':
+                      - generic:
+                        - generic [ref=f187e148]: Added by
+                        - generic [ref=f187e149]: 
+              - grid [ref=f187e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f187e152]: File
+                          - generic [ref=f187e153]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f187e154]: Last modified
+                          - generic [ref=f187e155]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f187e156]: Size
+                          - generic [ref=f187e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f187e158]: Added by
+                          - generic [ref=f187e159]: 
+                - rowgroup [ref=f187e160]:
+                  - row [ref=f187e161]:
+                    - gridcell " 1080px-Continued_Strong_Solar_Flare_Activity-_May_10-11,_2024_(SVS14589_-_SDO_X1pt5_Flare_1145UT_May_11_2024_171-193-131).jpg (no description)" [ref=f187e162]:
+                      - generic [ref=f187e163]:
+                        - generic [ref=f187e164]:
+                          - generic [ref=f187e165]: 
+                          - link "1080px-Continued_Strong_Solar_Flare_Activity-_May_10-11,_2024_(SVS14589_-_SDO_X1pt5_Flare_1145UT_May_11_2024_171-193-131).jpg" [ref=f187e166] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/68075/1080px-Continued_Strong_Solar_Flare_Activity-_May_10-11%2C_2024_(SVS14589_-_SDO_X1pt5_Flare_1145UT_May_11_2024_171-193-131).jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f187e167]:
+                          - generic [ref=f187e168]: (no description)
+                          - text: 
+                    - gridcell "Aug 7, 2026, 6:21 PM" [ref=f187e169]
+                    - gridcell "237 KiB" [ref=f187e171]
+                    - gridcell "Caitlin Kepple" [ref=f187e172]
+                  - row [ref=f187e173]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f187e174]:
+                      - generic [ref=f187e175]:
+                        - generic [ref=f187e176]:
+                          - generic [ref=f187e177]: 
+                          - link "mindtouch.page#thumbnail" [ref=f187e178] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/62892/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f187e179]:
+                          - generic [ref=f187e180]: (no description)
+                          - text: 
+                    - gridcell "Nov 20, 2025, 1:19 PM" [ref=f187e181]
+                    - gridcell "11 KiB" [ref=f187e183]
+                    - gridcell "Caitlin Kepple" [ref=f187e184]
+    - generic [ref=f187e186]:
+      - button "Open support menu" [ref=f187e188] [cursor=pointer]: "?"
+      - navigation [ref=f187e190]:
+        - paragraph [ref=f187e192]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f187e193] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f187e194] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f187e195] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f187e196] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f187e197] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f187e198]:
+      - generic:
+        - generic [ref=f187e200]:
+          - button "Annotation sidebar" [ref=f187e201]
+          - generic [ref=f187e206]:
+            - button "Show highlights" [ref=f187e207]
+            - button "New page note" [ref=f187e212]
+          - status [ref=f187e217]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f187e218]:
+    - button "contents" [ref=f187e219] [cursor=pointer]
+    - button "readability" [ref=f187e221] [cursor=pointer]
+    - button "resources" [ref=f187e223] [cursor=pointer]
+    - button "tools" [ref=f187e225] [cursor=pointer]
+    - button "developers" [ref=f187e227] [cursor=pointer]

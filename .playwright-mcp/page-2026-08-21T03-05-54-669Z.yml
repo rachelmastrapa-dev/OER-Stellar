@@ -1,0 +1,370 @@
+- generic [ref=f576e1]:
+  - link "Skip to main content" [ref=f576e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f576e3]:
+    - text: 
+    - generic [ref=f576e4]:
+      - generic [ref=f576e5]:
+        - generic: ✕
+        - navigation [ref=f576e7]:
+          - generic [ref=f576e8]:
+            - link [ref=f576e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f576e11]
+            - button "Enter Reader Mode" [ref=f576e13] [cursor=pointer]:
+              - generic [ref=f576e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f576e16]:
+        - list [ref=f576e18]:
+          - listitem [ref=f576e19]:
+            - link [ref=f576e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f576e22]
+          - listitem [ref=f576e23]:
+            - text: 
+            - generic [ref=f576e25]:
+              - generic [ref=f576e26]: "Search :"
+              - searchbox "Search :" [ref=f576e27]
+              - button " Search" [ref=f576e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f576e29]:
+            - list [ref=f576e30]:
+              - listitem [ref=f576e31]:
+                - link "Edit" [ref=f576e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.06%3A_Chandrasekhar_Subrahmanyan?action=edit
+              - text: 
+              - listitem [ref=f576e33]:
+                - link " Options" [ref=f576e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f576e35]:
+                - link " Rachel Mastrapa" [ref=f576e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f576e37]:
+        - generic:
+          - button " Contents" [ref=f576e220] [cursor=pointer]
+          - list [ref=f576e39]:
+            - listitem [ref=f576e40]:
+              - link " Home" [ref=f576e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f576e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f576e43]:
+              - link " Workbench" [ref=f576e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f576e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f576e46]:
+              - link " De Anza - ASTR10" [ref=f576e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f576e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f576e49]:
+              - 'link " 18: Appendices" [ref=f576e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices
+                - generic [ref=f576e51]: 
+                - text: "18: Appendices"
+              - text: »
+            - listitem [ref=f576e52]:
+              - 'link " 18.1: Alphabetical List of Scientists" [ref=f576e53] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists
+                - generic [ref=f576e54]: 
+                - text: "18.1: Alphabetical List of Scientists"
+              - text: »
+            - listitem [ref=f576e55]:
+              - generic [ref=f576e56]: 
+              - text: "18.1.6: Chandrasekhar, Subrahmanyan"
+          - button " Expand/collapse global location" [ref=f576e57] [cursor=pointer]
+      - navigation:
+        - generic:                                                                   
+    - article [ref=f576e58]:
+      - generic [ref=f576e59]:
+        - generic [ref=f576e60]:
+          - button " Page settings" [ref=f576e61] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "18.1.6: Chandrasekhar, Subrahmanyan" [level=1] [ref=f576e62]':
+          - generic [ref=f576e63]: "18.1.6: Chandrasekhar, Subrahmanyan "
+        - list [ref=f576e65]:
+          - listitem [ref=f576e66]:
+            - link [ref=f576e68] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f576e69]:
+                - img "CC" [ref=f576e70]
+                - img "BY" [ref=f576e71]
+          - listitem [ref=f576e72]:
+            - generic [ref=f576e73]:
+              - term [ref=f576e74] [cursor=pointer]: "Last updated:"
+              - definition [ref=f576e75]: Dec 28, 2025, 9:51 PM by Rachel Mastrapa
+          - listitem [ref=f576e76]:
+            - generic [ref=f576e77]:
+              - term [ref=f576e78] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f576e79]: Private
+          - listitem [ref=f576e80]:
+            - generic [ref=f576e81]:
+              - term [ref=f576e82] [cursor=pointer]: "Page ID:"
+              - definition [ref=f576e83]: "140439"
+          - listitem [ref=f576e84]:
+            - list [ref=f576e85]:
+              - listitem [ref=f576e86]:
+                - button "Pin Page" [ref=f576e87] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f576e88]:
+                - list [ref=f576e89]:
+                  - listitem [ref=f576e90]:
+                    - 'link " 18.1.5: Copernicus, Nicolaus" [ref=f576e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.05%3A_Copernicus_Nicolaus
+                      - text: 
+                      - generic [ref=f576e92]: "18.1.5: Copernicus, Nicolaus"
+                  - listitem [ref=f576e93]:
+                    - 'link "18.1.7: Curie, Marie " [ref=f576e94] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.07%3A_Curie_Marie
+                      - generic [ref=f576e95]: "18.1.7: Curie, Marie"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f576e96]:
+        - group [ref=f576e223]:
+          - generic [ref=f576e224]:
+            - generic [ref=f576e225]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f576e226]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f576e227]:
+            - generic [ref=f576e230]:
+              - generic [ref=f576e231]:
+                - generic [ref=f576e232]:
+                  - link "Edit" [ref=f576e233]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f576e234]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f576e235]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f576e236]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f576e237]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f576e238]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f576e239]: "Words: 541, Chars: 3281"
+              - group "Editor toolbars" [ref=f576e241]:
+                - toolbar [ref=f576e242]:
+                  - button "Save" [ref=f576e243]:
+                    - generic [ref=f576e244]: 
+                  - button "Cancel" [ref=f576e246]:
+                    - generic [ref=f576e247]: 
+                - toolbar [ref=f576e250]:
+                  - button "Undo" [disabled] [ref=f576e251]:
+                    - generic [ref=f576e252]: 
+                  - button "Redo" [disabled] [ref=f576e253]:
+                    - generic [ref=f576e254]: 
+                - toolbar [ref=f576e256]:
+                  - button "Headings" [ref=f576e257]
+                - toolbar [ref=f576e262]:
+                  - button "Bold" [ref=f576e263]:
+                    - generic [ref=f576e264]: 
+                  - button "Italic" [ref=f576e265]:
+                    - generic [ref=f576e266]: 
+                  - button "Underline" [ref=f576e267]:
+                    - generic [ref=f576e268]: 
+                - toolbar [ref=f576e270]:
+                  - button "Text color" [ref=f576e271]:
+                    - generic [ref=f576e272]: 
+                  - button "Background color" [ref=f576e274]:
+                    - generic [ref=f576e275]: 
+                - toolbar [ref=f576e278]:
+                  - button "Remove format" [ref=f576e279]:
+                    - generic [ref=f576e280]: 
+                - toolbar [ref=f576e282]:
+                  - button "Insert/Remove numbered list" [ref=f576e283]:
+                    - generic [ref=f576e284]: 
+                  - button "Insert/Remove bulleted list" [ref=f576e285]:
+                    - generic [ref=f576e286]: 
+                - toolbar [ref=f576e288]:
+                  - button "Alignment" [ref=f576e289]:
+                    - generic [ref=f576e290]: 
+                - text: 
+                - toolbar [ref=f576e293]:
+                  - button "Link" [ref=f576e294]:
+                    - generic [ref=f576e295]: 
+                  - button "Image" [ref=f576e296]:
+                    - generic [ref=f576e297]: 
+                  - text: 
+                  - button "Boxes" [ref=f576e298]
+                - toolbar [ref=f576e303]:
+                  - button "Replace" [ref=f576e304]:
+                    - generic [ref=f576e305]: 
+                - toolbar [ref=f576e307]:
+                  - button "Enable Binder" [ref=f576e308]
+                  - button "Insert Adapt" [ref=f576e310]
+                  - button "Query" [ref=f576e312]
+                  - button "Accessibility Checker" [ref=f576e315]
+                - toolbar [ref=f576e318]:
+                  - button "HTML" [ref=f576e319]:
+                    - generic [ref=f576e320]: 
+            - application "Rich Text Editor, editarea" [ref=f576e322]:
+              - iframe [active] [ref=f576e323]:
+                - generic [active] [ref=f578e1]:
+                  - heading "Subrahmanyan Chandrasekhar" [level=2] [ref=f578e2]
+                  - paragraph [ref=f578e3]: Born in 1910 in Lahore, India, Subrahmanyan Chandrasekhar (known as Chandra to his friends and colleagues) grew up in a home that encouraged scholarship and an interest in science (Figure 23.3). His uncle, C. V. Raman, was a physicist who won the 1930 Nobel Prize. A precocious student, Chandra tried to read as much as he could about the latest ideas in physics and astronomy, although obtaining technical books was not easy in India at the time. He finished college at age 19 and won a scholarship to study in England. It was during the long boat voyage to get to graduate school that he first began doing calculations about the structure of white dwarf stars.
+                  - paragraph [ref=f578e4]: Chandra developed his ideas during and after his studies as a graduate student, showing—as we have discussed—that white dwarfs with masses greater than 1.4 times the mass of the Sun cannot exist and that the theory predicts the existence of other kinds of stellar corpses. He wrote later that he felt very shy and lonely during this period, isolated from students, afraid to assert himself, and sometimes waiting for hours to speak with some of the famous professors he had read about in India. His calculations soon brought him into conflict with certain distinguished astronomers, including Sir Arthur Eddington, who publicly ridiculed Chandra’s ideas. At a number of meetings of astronomers, such leaders in the field as Henry Norris Russell refused to give Chandra the opportunity to defend his ideas, while allowing his more senior critics lots of time to criticize them.
+                  - paragraph [ref=f578e5]: Yet Chandra persevered, writing books and articles elucidating his theories, which turned out not only to be correct, but to lay the foundation for much of our modern understanding of the death of stars. In 1983, he received the Nobel Prize in physics for this early work.
+                  - paragraph [ref=f578e6]: In 1937, Chandra came to the United States and joined the faculty at the University of Chicago, where he remained for the rest of his life. There he devoted himself to research and teaching, making major contributions to many fields of astronomy, from our understanding of the motions of stars through the Galaxy to the behavior of the bizarre objects called black holes (see Black Holes and Curved Spacetime). In 1999, NASA named its sophisticated orbiting X-ray telescope (designed in part to explore such stellar corpses) the Chandra X-ray Observatory.
+                  - 'figure "Figure 23.3 : S. Chandrasekhar (1910–1995). Chandra’s research provided the basis for much of what we now know about stellar corpses. (credit: modification of work by American Institute of Physics)" [ref=f578e7]':
+                    - img "Photograph of Subrahmanyan Chandrasekhar." [ref=f578e9]
+                  - paragraph [ref=f578e11]: "Chandra spent a great deal of time with his graduate students, supervising the research of more than 50 PhDs during his life. He took his teaching responsibilities very seriously: during the 1940s, while based at the Yerkes Observatory, he willingly drove the more than 100-mile trip to the university each week to teach a class of only a few students."
+                  - paragraph [ref=f578e12]: Chandra also had a deep devotion to music, art, and philosophy, writing articles and books about the relationship between the humanities and science. He once wrote that “one can learn science the way one enjoys music or art. . . . Heisenberg had a marvelous phrase ‘shuddering before the beautiful’. . . that is the kind of feeling I have.”
+              - generic [ref=f576e324]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f576e326] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f576e98]:
+          - separator [ref=f576e99]
+          - paragraph [ref=f576e101]:
+            - 'link "18.1.6: Chandrasekhar, Subrahmanyan" [ref=f576e102] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.06%3A_Chandrasekhar_Subrahmanyan
+            - text: is shared under a
+            - link "CC BY" [ref=f576e103] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f576e104]:
+        - list [ref=f576e105]:
+          - listitem [ref=f576e106]:
+            - link "Back to top" [ref=f576e107] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f576e108]:
+            - list [ref=f576e109]:
+              - listitem [ref=f576e110]:
+                - 'link " 18.1.5: Copernicus, Nicolaus" [ref=f576e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.05%3A_Copernicus_Nicolaus
+                  - text: 
+                  - generic [ref=f576e112]: "18.1.5: Copernicus, Nicolaus"
+              - listitem [ref=f576e113]:
+                - 'link "18.1.7: Curie, Marie " [ref=f576e114] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/18%3A_Appendices/18.01%3A_Alphabetical_List_of_Scientists/18.1.07%3A_Curie_Marie
+                  - generic [ref=f576e115]: "18.1.7: Curie, Marie"
+                  - text: 
+        - list [ref=f576e118]:
+          - listitem [ref=f576e119]: Was this article helpful?
+          - listitem [ref=f576e120]:
+            - button "Yes" [ref=f576e121] [cursor=pointer]
+          - listitem [ref=f576e122]:
+            - button "No" [ref=f576e123] [cursor=pointer]
+          - listitem [ref=f576e124]:
+            - button "Leave feedback" [ref=f576e125] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f576e126]:
+          - heading "Attachments" [level=2] [ref=f576e127]
+          - generic:
+            - button "Attach a file" [ref=f576e128] [cursor=pointer]
+            - text: 
+          - generic [ref=f576e130]:
+            - generic [ref=f576e133]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f576e134]
+            - generic [ref=f576e135]:
+              - grid [ref=f576e138]:
+                - rowgroup [ref=f576e139]:
+                  - row [ref=f576e140]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f576e141]':
+                      - generic:
+                        - generic [ref=f576e142]: File
+                        - generic [ref=f576e143]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f576e144]':
+                      - generic:
+                        - generic [ref=f576e145]: Last modified
+                        - generic [ref=f576e146]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f576e147]':
+                      - generic:
+                        - generic [ref=f576e148]: Size
+                        - generic [ref=f576e149]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f576e150]':
+                      - generic:
+                        - generic [ref=f576e151]: Added by
+                        - generic [ref=f576e152]: 
+              - grid [ref=f576e154]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f576e155]: File
+                          - generic [ref=f576e156]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f576e157]: Last modified
+                          - generic [ref=f576e158]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f576e159]: Size
+                          - generic [ref=f576e160]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f576e161]: Added by
+                          - generic [ref=f576e162]: 
+                - rowgroup [ref=f576e163]:
+                  - row [ref=f576e164]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f576e165]:
+                      - generic [ref=f576e166]:
+                        - generic [ref=f576e167]:
+                          - generic [ref=f576e168]: 
+                          - link "mindtouch.page#thumbnail" [ref=f576e169] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/65470/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f576e170]:
+                          - generic [ref=f576e171]: (no description)
+                          - text: 
+                    - gridcell "Dec 25, 2025, 10:00 PM" [ref=f576e172]
+                    - gridcell "11 KiB" [ref=f576e174]
+                    - gridcell "Rachel Mastrapa" [ref=f576e175]
+    - generic [ref=f576e177]:
+      - button "Open support menu" [ref=f576e179] [cursor=pointer]: "?"
+      - navigation [ref=f576e181]:
+        - paragraph [ref=f576e183]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f576e184] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f576e185] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f576e186] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f576e187] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f576e188] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f576e189]:
+      - generic:
+        - generic [ref=f576e191]:
+          - button "Annotation sidebar" [ref=f576e192]
+          - generic [ref=f576e197]:
+            - button "Show highlights" [ref=f576e198]
+            - button "New page note" [ref=f576e203]
+          - status [ref=f576e208]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f576e209]:
+    - button "contents" [ref=f576e210] [cursor=pointer]
+    - button "readability" [ref=f576e212] [cursor=pointer]
+    - button "resources" [ref=f576e214] [cursor=pointer]
+    - button "tools" [ref=f576e216] [cursor=pointer]
+    - button "developers" [ref=f576e218] [cursor=pointer]
+  - text:  
+  - generic [ref=f576e327]:
+    - generic [ref=f576e328] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f576e331] [cursor=pointer]

@@ -1,0 +1,323 @@
+- generic [ref=f433e1]:
+  - link "Skip to main content" [ref=f433e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f433e3]:
+    - text: 
+    - generic [ref=f433e4]:
+      - generic [ref=f433e5]:
+        - generic: ✕
+        - navigation [ref=f433e7]:
+          - generic [ref=f433e8]:
+            - link [ref=f433e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f433e11]
+            - button "Enter Reader Mode" [ref=f433e13] [cursor=pointer]:
+              - generic [ref=f433e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f433e16]:
+        - list [ref=f433e18]:
+          - listitem [ref=f433e19]:
+            - link [ref=f433e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f433e22]
+          - listitem [ref=f433e23]:
+            - text: 
+            - generic [ref=f433e25]:
+              - generic [ref=f433e26]: "Search :"
+              - searchbox "Search :" [ref=f433e27]
+              - button " Search" [ref=f433e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f433e29]:
+            - list [ref=f433e30]:
+              - listitem [ref=f433e31]:
+                - link "Edit" [ref=f433e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.03%3A_Gravitational_Wave_Astronomy?action=edit
+              - text: 
+              - listitem [ref=f433e33]:
+                - link " Options" [ref=f433e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f433e35]:
+                - link " Rachel Mastrapa" [ref=f433e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f433e37]:
+        - generic:
+          - button " Contents" [ref=f433e218] [cursor=pointer]
+          - list [ref=f433e39]:
+            - listitem [ref=f433e40]:
+              - link " Home" [ref=f433e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f433e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f433e43]:
+              - link " Workbench" [ref=f433e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f433e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f433e46]:
+              - link " De Anza - ASTR10" [ref=f433e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f433e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f433e49]:
+              - 'link " 14: Black Holes" [ref=f433e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes
+                - generic [ref=f433e51]: 
+                - text: "14: Black Holes"
+              - text: »
+            - listitem [ref=f433e52]:
+              - generic [ref=f433e53]: 
+              - text: "14.3: Gravitational Wave Astronomy"
+          - button " Expand/collapse global location" [ref=f433e54] [cursor=pointer]
+      - navigation:
+        - generic:                                              
+    - article [ref=f433e55]:
+      - generic [ref=f433e56]:
+        - generic [ref=f433e57]:
+          - button " Page settings" [ref=f433e58] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :      "
+        - 'heading "14.3: Gravitational Wave Astronomy" [level=1] [ref=f433e59]':
+          - generic [ref=f433e60]: "14.3: Gravitational Wave Astronomy "
+        - list [ref=f433e62]:
+          - listitem [ref=f433e63]:
+            - link [ref=f433e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f433e66]:
+                - img "CC" [ref=f433e67]
+                - img "BY" [ref=f433e68]
+          - listitem [ref=f433e69]:
+            - generic [ref=f433e70]:
+              - term [ref=f433e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f433e72]: Aug 12, 2026, 5:03 PM by Jyothsna Viswanadha
+          - listitem [ref=f433e73]:
+            - generic [ref=f433e74]:
+              - term [ref=f433e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f433e76]: Private
+          - listitem [ref=f433e77]:
+            - generic [ref=f433e78]:
+              - term [ref=f433e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f433e80]: "139191"
+          - listitem [ref=f433e81]:
+            - list [ref=f433e82]:
+              - listitem [ref=f433e83]:
+                - button "Pin Page" [ref=f433e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f433e85]:
+                - list [ref=f433e86]:
+                  - listitem [ref=f433e87]:
+                    - 'link " 14.2: Evidence for Black Holes" [ref=f433e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.02%3A_Evidence_for_Black_Holes
+                      - text: 
+                      - generic [ref=f433e89]: "14.2: Evidence for Black Holes"
+                  - listitem [ref=f433e90]:
+                    - 'link "14.4: How We \"See\" Black Holes " [ref=f433e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.04%3A_How_We_See_Black_Holes
+                      - generic [ref=f433e92]: "14.4: How We \"See\" Black Holes"
+                      - text: 
+              - text:  
+      - list [ref=f433e95]:
+        - listitem [ref=f433e96]:
+          - img "OpenStax" [ref=f433e97]
+        - listitem [ref=f433e98]:
+          - link "OpenStax" [ref=f433e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f433e100]:
+          - link "OpenStax" [ref=f433e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f433e102]:
+        - group [ref=f433e221]:
+          - generic [ref=f433e222]:
+            - generic [ref=f433e223]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f433e224]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f433e225]:
+            - generic [ref=f433e228]:
+              - generic [ref=f433e230]:
+                - link "Edit" [ref=f433e231]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f433e232]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f433e233]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f433e234]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f433e235]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f433e236]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f433e239]:
+                - toolbar [ref=f433e240]:
+                  - button "Save" [ref=f433e241]:
+                    - generic [ref=f433e242]: 
+                  - button "Cancel" [ref=f433e244]:
+                    - generic [ref=f433e245]: 
+                - text:          
+                - toolbar [ref=f433e286]:
+                  - button "Alignment" [ref=f433e287]:
+                    - generic [ref=f433e288]: 
+                - text:    
+                - toolbar [ref=f433e301]:
+                  - button "Replace" [ref=f433e302]:
+                    - generic [ref=f433e303]: 
+                - toolbar [ref=f433e305]:
+                  - button "Enable Binder" [disabled] [ref=f433e306]
+                  - button "Insert Adapt" [disabled] [ref=f433e308]
+                  - button "Query" [ref=f433e310]
+                  - button "Accessibility Checker" [disabled] [ref=f433e313]
+                - toolbar [ref=f433e316]:
+                  - button "Visual" [pressed] [ref=f433e332]:
+                    - generic [ref=f433e318]: 
+            - application "Rich Text Editor, editarea" [ref=f433e320]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f433e334]: "<h2>Gravitational Waves</h2> <p class=\"lt-phys-64813\">According to general relativity, the geometry of spacetime depends on where matter is located. Any rearrangement of matter, such as an object changing shape, creates a disturbance in spacetime. This disturbance is called a <strong><a href=\"/Workbench/De_Anza_-_ASTR10/14:_Black_Holes/14.05:_Key_Terms#gravitational wave\" target=\"_blank\" title=\"gravitational wave\">gravitational wave</a></strong>, and relativity predicts that it should spread outward at the speed of light. The big problem with trying to study such waves is that they are significantly weaker than electromagnetic waves, or light. Astronomers had to design an entirely new type of observatory just to detect them.</p> <h3 class=\"lt-phys-64813\">Proof from a Pulsar</h3> <p class=\"lt-phys-64813\">We've had indirect evidence for some time that gravitational waves exist. In 1974, astronomers Joseph Taylor and Russell Hulse discovered a pulsar, called PSR1913+16, orbiting another neutron star. Pulled by the powerful gravity of its companion, the pulsar is moving at about one-tenth the speed of light in its orbit.</p> <p class=\"lt-phys-64813\">According to general relativity, this system should be radiating energy in the form of gravitational waves at a high enough rate to cause the pulsar and its companion to spiral closer together. According to Kepler's third law, if the distance between them decreases, then the orbital period should decrease, in this case by one ten-millionth of a second per orbit. Continuing observations showed that their orbital period is decreasing by precisely this amount. Such a loss of energy in the system can be due only to the radiation of gravitational waves, confirming their existence. Taylor and Hulse shared the 1993 Nobel Prize in physics for this work.</p> <h3 class=\"lt-phys-64813\">Gravitational Wave Observatories</h3> <p class=\"lt-phys-64813\">After indirect proof convinced physicists that gravitational waves exist, the next thing to do was to detect the waves directly. What type of phenomena are powerful enough to produce gravitational waves with amplitudes large enough that we can measure them? Theoretical calculations suggest some of the most likely events that would give a burst of gravitational waves strong enough that our equipment on Earth could measure it are:</p> <ul> <li class=\"lt-phys-64813\">two neutron stars in a binary system that spiral together until they merge</li> <li class=\"lt-phys-64813\">the swallowing of a neutron star by a black hole</li> <li class=\"lt-phys-64813\">the merger of two black holes</li> <li class=\"lt-phys-64813\">the implosion of a massive star to form a neutron star or a black hole</li> <li class=\"lt-phys-64813\">the tremendous movement of matter at the beginning of the universe</li> </ul> <p class=\"lt-phys-64813\">Since the 1970s, scientists have been developing an experiment to try to detect gravitational waves from a source on this list. The US experiment, which was built with collaborators from the UK, Germany, Australia and other countries, is named Laser Interferometer Gravitational-Wave Observatory (LIGO). LIGO currently has two observing stations, one in Louisiana and the other in the state of Washington. The effects of gravitational waves are so small that confirmation of their detection will require simultaneous measurements by two widely separated facilities. Local events that might cause small motions within the observing stations and mimic gravitational waves, such as small earthquakes, ocean tides, and even traffic, should affect the two sites differently.</p> <p class=\"lt-phys-64813\">Each of the LIGO stations consists of two 4-kilometer-long, 1.2-meter-diameter vacuum pipes arranged in an L-shape. A mirror is suspended by wire at each of the four ends of the pipes. Ultra-stable laser light is reflected from the mirrors and travels back and forth along the vacuum pipes Figure \\(\\PageIndex{1}\\). If gravitational waves pass through the LIGO instrument, then, according to general relativity, the waves will affect local spacetime. The length of the pipes will alternately stretch and shrink, by a very small amount. The lasers are designed to detect this tiny change. When one pipe gets longer, the other will get shorter, and vice versa. The challenge of this experiment how very small the change in length is. In fact, to detect a gravitational wave, the change in the distance to the mirror must be measured with an accuracy of one ten-thousandth the diameter of a proton. In 1972, Rainer Weiss of MIT wrote a paper suggesting how this seemingly impossible task might be accomplished.</p> <figure><img alt=\"LIGO gravitational wave observatory. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/45897/9550ee9570f3a51afbf3ed7873eceb670dc4467f\" /> <figcaption>Figure \\(\\PageIndex{1}\\) : Gravitational Wave Observatory. The LIGO detectors use laser interferometry along two perpendicular 4-kilometer pipes to detect the tiny distortions in spacetime caused by passing gravitational waves. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>) <a href=\"/Workbench/De_Anza_-_ASTR10/14:_Black_Holes/14.06:_Accessible_Descriptions#Figure_14.3.1_Gravitational_Wave_Observatory\" target=\"_blank\" title=\"Accessible Descriptions\">Accessible description of Figure \\(\\PageIndex{1}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64813\">A great deal of new technology had to be developed, and work on the laboratory, with funding from the National Science Foundation, began in 1979. Rainer's graduate student Nergis Mavalvala developed a prototype laser interferometer. A full-scale version was built and operated from 2002 to 2010. The prototype was not expected to have the sensitivity required to actually detect gravitational waves from an astronomical source. Advanced LIGO, built to be more precise with the technology developed in the prototype, went into operation in 2015 and almost immediately detected gravitational waves.</p> <h3>Black Hole Mergers</h3> <p class=\"lt-phys-64813\">What LIGO found was gravitational waves produced in the final fraction of a second of the merger of two black holes. The black holes had masses of 20 and 36 times the mass of the Sun, and the merger took place 1.3 billion years ago. The gravitational waves occurred so far away that it has taken that long for them, traveling at the speed of light, to reach us.</p> <p class=\"lt-phys-64813\">In the cataclysm of the merger, about three times the mass of the Sun was converted to energy. Using E = mc<sup>2</sup>, this event produced power about 10 times the power produced by all the stars in the entire visible universe, all in the form of gravitational waves. The event was recorded in Louisiana about 7 milliseconds before the detection in Washington. This indicates that the source was located somewhere in the southern hemisphere sky. Chart (a) in Figure in the top panel of the chart in Figure \\(\\PageIndex{2}\\), includes the signal from Washington on the top, the signal from Louisiana in the middle, and a comparison of both signals on the bottom. Shifting the signal by the small delay between both stations results in a good match between the two signals. Model results are plotted over the signals that also agree with the data. Unfortunately, the merger of two black holes is not expected to produce any light, so this is the only observation we have of the event. For now we can only imagine that the event was similar to Illustration (b) in Figure \\(\\PageIndex{2}\\), with two black holes moving closer to each other.</p> <figure><img alt=\"3 charts of gravitational wave data and an illustration of merging black holes. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/45895/485bed62ca52ad953edc07b051eabb18834b0963\" /> <figcaption>Figure \\(\\PageIndex{2}\\) : Gravitational Wave. The close agreement between the measured strain at Hanford and Livingston and the theoretical prediction in Chart (a) confirmed the detection of gravitational waves, produced by the merging black holes illustrated in (b). (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>) <a href=\"/Workbench/De_Anza_-_ASTR10/14:_Black_Holes/14.06:_Accessible_Descriptions#Figure_14.3.2_Gravitational_Wave\" target=\"_blank\" title=\"Accessible Descriptions\">Accessible description of Figure \\(\\PageIndex{2}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64813\">LIGO has also collaborated Virgo, a gravitational wave detector operated by the European Gravitational Observatory in Italy to build a catalog of over 90 events. Most were mergers of two black holes. In the most extreme merger, black holes with masses of 86 and 65 times the mass of the Sun merged to form a black hole with a mass of about 142 times the mass the Sun, and released energy equivalent to 9 times the mass of our Sun. Astronomers are not yet sure how black holes in this unexpected mass range form. Bear in mind that the kind of black holes in binary star systems that we discussed in <a href=\"/Workbench/De_Anza_-_ASTR10/14:_Black_Holes/14.02:_Evidence_for_Black_Holes\" title=\"14.2: Evidence for Black Holes\">Evidence for Black Holes</a> have masses ranging from 4 to 15 times the mass of the Sun.</p> <p class=\"lt-phys-64813\">While astronomers can learn about the masses of objects involved in gravitational wave events, the challenge is to locate the event in the sky precisely. A single gravitational wave detector cannot determine accurately the direction to a gravitational wave source. Four comparable detectors operating simultaneously are required to localize a source of gravitational waves to a specific location in the sky. The fourth observing run with four detectors, including the two LIGO detectors, Virgo, and KAGRA in Japan, was completed in 2025. LIGO India will be a fifth, thereby enhancing the probability that at least four detectors will be operational simultaneously. Experience has shown that the LIGO and Virgo detectors are down about 25 percent of the time because these complex systems are difficult to run.</p> <h3>Neutron Star Mergers</h3> <p class=\"lt-phys-64813\">In late 2017, data from the LIGO and Virgo detectors provided an accurate position for what analysis showed was the spiraling together of two neutron stars with masses of 1.1 to 1.6 times the mass of the Sun. With an accurate location known, follow up observations with ground-based telescopes detected light, or electromagnetic waves, from a gravitational wave event for the first time. The observations showed that this source was located in NGC 4993, a galaxy at a distance of about 130 million light-years in the direction of the constellation Hydra. The Fermi satellite detected a flash of gamma rays at the same time and in the same direction, which confirms the long-standing hypothesis that mergers of neutron stars are progenitors of short gamma-ray bursts. Spectra showed that the merger ejected material with a mass of about 6 percent of the mass of the Sun at a speed of one-tenth the speed of light.</p> <p class=\"lt-phys-64813\">This material is rich in heavy elements. First estimates suggest that the merger produced about 200 Earth masses of gold, and around 500 Earth masses of platinum. This makes clear that neutron star mergers are a significant source of heavy elements. More such mergers are being found and they will improve estimates of the frequency at which neutron star mergers occur.</p> <p class=\"lt-phys-64813\">In June 2021, scientists from LIGO and Virgo announced the first detection of mergers between black holes and neutron stars, another of the really energetic events that we listed as possible sources for a detectable burst of gravitational waves. Again, no electromagnetic waves from the two events were observed or expected, demonstrating the importance of multi-messenger astronomy. This is the practice of observing the same event using different detection methods, such as detecting binary neutron star mergers with both electromagnetic and gravitational waves. Since theory predicts that only one type of merger will release electromagnetic waves, but all will produce gravitational way, it is an excellent confirmation that astronomers are using the correct models.</p> <p class=\"lt-phys-64813\">Figure \\(\\PageIndex{3}\\) is a collection of black hole observations detected by either gravitational or electromagnetic waves. The light blue dots represent black hole mergers seen with LIGO-Virgo, with the individual black holes and the resulting merged black hole connected with an arrow. The purple dots represent black holes seen with electro-magnetic radiation. These have significantly smaller masses. The orange dots represent neutron star mergers seen through the gravitational waves they emit. The yellow dots are neutron stars seen with electro-magnetic radiation. This demonstrates how gravitational wave observations have allowed astronomers to detect very large black holes, that are undetectable with electromagnetic waves. Because of the scientific significance of the observations of gravitational waves, three of the LIGO project leaders, Rainer Weiss of MIT, and Kip Thorne and Barry Barish of Caltech, were awarded the Nobel Prize in 2017.</p> <p>Ground-based gravitational-wave detectors can detect mergers of black holes with masses up to about 100 times the mass of the Sun. Astronomers would now like to look for the merger of distant supermassive black holes with masses of thousands to millions of times larger, which might have occurred when the first generation of stars formed, only a few hundred million years after the Big Bang. The gravitational waves emitted by mergers of supermassive black holes are so long that it is necessary to go to space to build an observatory large enough to detect them.</p> <p class=\"lt-phys-64813\">The European Space Agency (ESA), with contributions from NASA, is planning to launch a facility named Laser Interferometer Space Antenna (LISA) in 2035 to search for mergers of black holes with masses thousands to millions of times larger than the mass of the Sun. The experiment will consist of three spacecraft arranged in an equilateral triangle with sides 2.5 million km long, flying along an Earth-like heliocentric orbit. The detector is a simple object called a test mass. It floats free inside each spacecraft, effectively in free-fall, while the spacecraft around it absorbs the effects of light pressure, solar wind particles, and anything that might perturb its orbit. Lasers will be used to measure very accurately the distances between the spacecraft. Changes in distance will then signal the passing of gravitational waves.</p> <figure><img alt=\"Masses of black holes and neutron stars from LIGO-Virgo and other observations. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/45896/5431963414f36c8c59089442984eda85107c4bac\" /> <figcaption>Figure \\(\\PageIndex{3}\\) : Black Hole Mergers. Gravitational wave mergers detected by LIGO-Virgo have revealed black holes of significantly higher mass than those previously identified through detections using light. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>) <a href=\"/Workbench/De_Anza_-_ASTR10/14:_Black_Holes/14.06:_Accessible_Descriptions#Figure_14.3.3_Black_Hole_Mergers\" target=\"_blank\" title=\"Accessible Descriptions\">Accessible description of Figure \\(\\PageIndex{3}\\)</a>.</figcaption> </figure>"
+              - generic [ref=f433e322]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f433e324] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f433e104]:
+          - separator [ref=f433e105]
+          - paragraph [ref=f433e107]:
+            - text: This page titled
+            - 'link "14.3: Gravitational Wave Astronomy" [ref=f433e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.03%3A_Gravitational_Wave_Astronomy
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f433e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f433e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f433e111] [cursor=pointer]:
+              - /url: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-013-electromagnetics-and-applications-spring-2009
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f433e112]:
+        - list [ref=f433e113]:
+          - listitem [ref=f433e114]:
+            - link "Back to top" [ref=f433e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f433e116]:
+            - list [ref=f433e117]:
+              - listitem [ref=f433e118]:
+                - 'link " 14.2: Evidence for Black Holes" [ref=f433e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.02%3A_Evidence_for_Black_Holes
+                  - text: 
+                  - generic [ref=f433e120]: "14.2: Evidence for Black Holes"
+              - listitem [ref=f433e121]:
+                - 'link "14.4: How We \"See\" Black Holes " [ref=f433e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.04%3A_How_We_See_Black_Holes
+                  - generic [ref=f433e123]: "14.4: How We \"See\" Black Holes"
+                  - text: 
+        - list [ref=f433e126]:
+          - listitem [ref=f433e127]: Was this article helpful?
+          - listitem [ref=f433e128]:
+            - button "Yes" [ref=f433e129] [cursor=pointer]
+          - listitem [ref=f433e130]:
+            - button "No" [ref=f433e131] [cursor=pointer]
+          - listitem [ref=f433e132]:
+            - button "Leave feedback" [ref=f433e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , ,"
+        - generic [ref=f433e134]:
+          - heading "Attachments" [level=2] [ref=f433e135]
+          - generic:
+            - button "Attach a file" [ref=f433e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f433e138]:
+            - generic [ref=f433e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f433e142]
+            - generic [ref=f433e143]:
+              - grid [ref=f433e146]:
+                - rowgroup [ref=f433e147]:
+                  - row [ref=f433e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f433e149]':
+                      - generic:
+                        - generic [ref=f433e150]: File
+                        - generic [ref=f433e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f433e152]':
+                      - generic:
+                        - generic [ref=f433e153]: Last modified
+                        - generic [ref=f433e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f433e155]':
+                      - generic:
+                        - generic [ref=f433e156]: Size
+                        - generic [ref=f433e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f433e158]':
+                      - generic:
+                        - generic [ref=f433e159]: Added by
+                        - generic [ref=f433e160]: 
+              - grid [ref=f433e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f433e163]: File
+                          - generic [ref=f433e164]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f433e165]: Last modified
+                          - generic [ref=f433e166]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f433e167]: Size
+                          - generic [ref=f433e168]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f433e169]: Added by
+                          - generic [ref=f433e170]: 
+                - rowgroup [ref=f433e171]:
+                  - row [ref=f433e172]:
+                    - gridcell "No files attached." [ref=f433e173]
+    - generic [ref=f433e175]:
+      - button "Open support menu" [ref=f433e177] [cursor=pointer]: "?"
+      - navigation [ref=f433e179]:
+        - paragraph [ref=f433e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f433e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f433e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f433e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f433e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f433e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f433e187]:
+      - generic:
+        - generic [ref=f433e189]:
+          - button "Annotation sidebar" [ref=f433e190]
+          - generic [ref=f433e195]:
+            - button "Show highlights" [ref=f433e196]
+            - button "New page note" [ref=f433e201]
+          - status [ref=f433e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f433e207]:
+    - button "contents" [ref=f433e208] [cursor=pointer]
+    - button "readability" [ref=f433e210] [cursor=pointer]
+    - button "resources" [ref=f433e212] [cursor=pointer]
+    - button "tools" [ref=f433e214] [cursor=pointer]
+    - button "developers" [ref=f433e216] [cursor=pointer]
+  - text:  
+  - generic [ref=f433e325]:
+    - generic [ref=f433e326] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f433e329] [cursor=pointer]

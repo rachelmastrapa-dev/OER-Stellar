@@ -1,0 +1,332 @@
+- generic [ref=f529e1]:
+  - link "Skip to main content" [ref=f529e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f529e3]:
+    - text: 
+    - generic [ref=f529e4]:
+      - generic [ref=f529e5]:
+        - generic: ✕
+        - navigation [ref=f529e7]:
+          - generic [ref=f529e8]:
+            - link [ref=f529e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f529e11]
+            - button "Enter Reader Mode" [ref=f529e13] [cursor=pointer]:
+              - generic [ref=f529e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f529e16]:
+        - list [ref=f529e18]:
+          - listitem [ref=f529e19]:
+            - link [ref=f529e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f529e22]
+          - listitem [ref=f529e23]:
+            - text: 
+            - generic [ref=f529e25]:
+              - generic [ref=f529e26]: "Search :"
+              - searchbox "Search :" [ref=f529e27]
+              - button " Search" [ref=f529e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f529e29]:
+            - list [ref=f529e30]:
+              - listitem [ref=f529e31]:
+                - link "Edit" [ref=f529e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.03%3A_The_Distribution_of_Galaxies?action=edit
+              - text: 
+              - listitem [ref=f529e33]:
+                - link " Options" [ref=f529e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f529e35]:
+                - link " Rachel Mastrapa" [ref=f529e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f529e37]:
+        - generic:
+          - button " Contents" [ref=f529e227] [cursor=pointer]
+          - list [ref=f529e39]:
+            - listitem [ref=f529e40]:
+              - link " Home" [ref=f529e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f529e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f529e43]:
+              - link " Workbench" [ref=f529e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f529e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f529e46]:
+              - link " De Anza - ASTR10" [ref=f529e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f529e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f529e49]:
+              - 'link " 17: Evolution of Galaxies" [ref=f529e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies
+                - generic [ref=f529e51]: 
+                - text: "17: Evolution of Galaxies"
+              - text: »
+            - listitem [ref=f529e52]:
+              - generic [ref=f529e53]: 
+              - text: "17.3: The Distribution of Galaxies"
+          - button " Expand/collapse global location" [ref=f529e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                
+    - article [ref=f529e55]:
+      - generic [ref=f529e56]:
+        - generic [ref=f529e57]:
+          - button " Page settings" [ref=f529e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :   "
+        - 'heading "17.3: The Distribution of Galaxies" [level=1] [ref=f529e59]':
+          - generic [ref=f529e60]: "17.3: The Distribution of Galaxies "
+        - list [ref=f529e62]:
+          - listitem [ref=f529e63]:
+            - link [ref=f529e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f529e66]:
+                - img "CC" [ref=f529e67]
+                - img "BY" [ref=f529e68]
+          - listitem [ref=f529e69]:
+            - generic [ref=f529e70]:
+              - term [ref=f529e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f529e72]: Aug 19, 2026, 12:42 PM by Rachel Mastrapa
+          - listitem [ref=f529e73]:
+            - generic [ref=f529e74]:
+              - term [ref=f529e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f529e76]: Private
+          - listitem [ref=f529e77]:
+            - generic [ref=f529e78]:
+              - term [ref=f529e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f529e80]: "140270"
+          - listitem [ref=f529e81]:
+            - list [ref=f529e82]:
+              - listitem [ref=f529e83]:
+                - button "Pin Page" [ref=f529e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f529e85]:
+                - list [ref=f529e86]:
+                  - listitem [ref=f529e87]:
+                    - 'link " 17.2: Mergers and Active Galaxies" [ref=f529e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.02%3A_Mergers_and_Active_Galaxies
+                      - text: 
+                      - generic [ref=f529e89]: "17.2: Mergers and Active Galaxies"
+                  - listitem [ref=f529e90]:
+                    - 'link "17.4: The Challenge of Dark Matter " [ref=f529e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.04%3A_The_Challenge_of_Dark_Matter
+                      - generic [ref=f529e92]: "17.4: The Challenge of Dark Matter"
+                      - text: 
+              - text:  
+      - list [ref=f529e95]:
+        - listitem [ref=f529e96]:
+          - img "OpenStax" [ref=f529e97]
+        - listitem [ref=f529e98]:
+          - link "OpenStax" [ref=f529e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f529e100]:
+          - link "OpenStax" [ref=f529e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - text: 
+      - generic [ref=f529e102]:
+        - group [ref=f529e230]:
+          - generic [ref=f529e231]:
+            - generic [ref=f529e232]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f529e233]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f529e234]:
+            - generic [ref=f529e237]:
+              - generic [ref=f529e239]:
+                - link "Edit" [ref=f529e240]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f529e241]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f529e242]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f529e243]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f529e244]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f529e245]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f529e248]:
+                - toolbar [ref=f529e249]:
+                  - button "Save" [ref=f529e250]:
+                    - generic [ref=f529e251]: 
+                  - button "Cancel" [ref=f529e253]:
+                    - generic [ref=f529e254]: 
+                - text:          
+                - toolbar [ref=f529e295]:
+                  - button "Alignment" [ref=f529e296]:
+                    - generic [ref=f529e297]: 
+                - text:    
+                - toolbar [ref=f529e310]:
+                  - button "Replace" [ref=f529e311]:
+                    - generic [ref=f529e312]: 
+                - toolbar [ref=f529e314]:
+                  - button "Enable Binder" [disabled] [ref=f529e315]
+                  - button "Insert Adapt" [disabled] [ref=f529e317]
+                  - button "Query" [ref=f529e319]
+                  - button "Accessibility Checker" [disabled] [ref=f529e322]
+                - toolbar [ref=f529e325]:
+                  - button "Visual" [pressed] [ref=f529e341]:
+                    - generic [ref=f529e327]: 
+            - application "Rich Text Editor, editarea" [ref=f529e329]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f529e343]: "<h2>Building the Universe</h2> <p class=\"lt-phys-66855\">In the preceding section, we emphasized the role of mergers in shaping the evolution of galaxies. In order to collide, galaxies must be fairly close together. To estimate how often collisions occur and how they affect galaxy evolution, astronomers need to know how galaxies are distributed in space and over cosmic time. Are most of them isolated from one another or do they congregate in groups? If they congregate, how large are the groups and how and when did they form? And how, in general, are galaxies and their groups arranged in the cosmos? Are there as many in one direction of the sky as in any other, for example? How did galaxies get to be arranged the way we find them today? Edwin Hubble found answers to some of these questions only a few years after he first showed that the spiral nebulae were galaxies and not part of our Milky Way. As he examined galaxies all over the sky, Hubble made two discoveries that turned out to be crucial for studies of the evolution of the universe.</p> <h3 class=\"lt-phys-66855\">The Cosmological Principle</h3> <p class=\"lt-phys-66855\">Hubble made his observations with what were then the world's largest telescopes, the 100-inch and 60-inch reflectors on Mount Wilson. These telescopes have small fields of view, which means that they can see only a small part of the sky at a time. To photograph the entire sky with the 100-inch telescope, would have taken longer than a human lifetime. So instead, Hubble sampled the sky in many regions. He photographed 1283 sample areas, and on each print, he carefully counted the numbers of galaxies. The first discovery Hubble made from his survey was that the number of galaxies visible in each area of the sky is about the same. He also found that the numbers of galaxies increase with faintness, as we would expect if the density of galaxies is about the same at all distances from us.</p> <p class=\"lt-phys-66855\">To understand what we mean, imagine you are taking snapshots in a crowded stadium during a sold-out concert. The people sitting near you look big, so only a few of them will fit into a photo. But if you focus on the people sitting in seats way on the other side of the stadium, they look so small that many more will fit into your picture. If all parts of the stadium have the same seat arrangements, then as you look farther and farther away, your photo will get more and more crowded with people. In the same way, as Hubble looked at fainter and fainter galaxies, he saw more and more of them.</p> <p class=\"lt-phys-66855\">Hubble's findings are enormously important, for they indicate that the universe is both <strong><a href=\"/Workbench/De_Anza_-_ASTR10/17:_Evolution_of_Galaxies/17.07:_Key_Terms#isotropic\" target=\"_blank\" title=\"isotropic\">isotropic</a></strong> and <strong><a href=\"/Workbench/De_Anza_-_ASTR10/17:_Evolution_of_Galaxies/17.07:_Key_Terms#homogeneous\" target=\"_blank\" title=\"homogeneous\">homogeneous</a></strong>. The universe looks the same in all directions. Also, a large volume of space at any given redshift or distance is much like any other volume at that redshift. If that is so, any section of the universe will look the same as any other.</p> <p class=\"lt-phys-66855\">The research in the last almost 100 years since then generally agree with a homogenous and isotropic universe. Any difference we observe are small-scale, local differences. The idea that the universe is the same everywhere is called the <strong><a href=\"/Workbench/De_Anza_-_ASTR10/17:_Evolution_of_Galaxies/17.07:_Key_Terms#cosmological_principle\" target=\"_blank\" title=\"cosmological principle\">cosmological principle</a></strong>. Without this principle, it would be challenging to study the universe. Astronomers similarly assume that the speed of light is constant everywhere in the universe, and that gravity behaves in the same way. If this were not a reasonable assumption, we would not be able to create models to simulate distant parts of the universe to understand our observations. With modern instruments, astronomers have measured the velocities and distances of hundreds of thousands of galaxies, and so built up a meaningful picture of the large-scale structure of the universe. In the rest of this section, we describe what we know about the distribution of galaxies, beginning with those that are nearby.</p> <h3 class=\"lt-phys-66855\">The Local Group</h3> <p class=\"lt-phys-66855\">The region of the universe for which we have the most detailed information is, as you would expect, our own local neighborhood. The Milky Way Galaxy is a member of a small group of galaxies called the <strong><a href=\"/Workbench/De_Anza_-_ASTR10/17:_Evolution_of_Galaxies/17.07:_Key_Terms#local_group\" target=\"_blank\" title=\"Local Group\">Local Group</a></strong>. It is spread over about 3 million light-years and contains about 60 members. There are three large spiral galaxies, our own, the Andromeda galaxy, and M33, two intermediate ellipticals, and many dwarf ellipticals and irregular galaxies. New members of the Local Group are still being discovered. A dwarf galaxy only about 80,000 light-years from Earth and about 50,000 light-years from the center of the galaxy was discovered in 1994 in the constellation of Sagittarius. This dwarf is actually venturing too close to the much larger Milky Way and will eventually be consumed by it.</p> <p class=\"lt-phys-66855\">Many of the recent discoveries have been made possible by the new generation of automated, sensitive, wide-field surveys&nbsp;that map the positions of millions of stars across most of the visible sky. By digging into the data with sophisticated software, astronomers have turned up numerous tiny, faint dwarf galaxies that are all but invisible to the eye even in those deep telescopic images. Prevailing theories of how galaxies form predict that there should be more dwarf galaxies around big galaxies like the Milky Way than have been observed. Now we have the tools to find these faint and tiny galaxies and begin to compare the numbers of them with theoretical predictions.</p> <p class=\"lt-phys-66855\">Several new dwarf galaxies have also been found near the Andromeda galaxy. Such dwarf galaxies are difficult to find because they typically contain relatively few stars, and it is hard to distinguish them from the foreground stars in our own Milky Way. The average of the motions of all the galaxies in the Local Group indicates that its total mass is about 4 × 10<sup>12</sup> M<sub>Sun</sub>, and at least half of this mass is contained in the two giant spirals, the Andromeda galaxy and the Milky Way Galaxy. Remember that a substantial amount of the mass in the Local Group is in the form of dark matter.</p> <h3 class=\"lt-phys-66855\">Neighboring Groups and Clusters</h3> <p class=\"lt-phys-66855\">Small galaxy groups like ours are hard to notice at larger distances. However, there are much more substantial groups called galaxy clusters that are easier to spot even many millions of light-years away. Such clusters are described as poor or rich depending on how many galaxies they contain. Rich clusters have thousands or even tens of thousands of galaxies, although many of the galaxies are quite faint and hard to detect. The nearest moderately rich galaxy cluster is called the Virgo Cluster, after the constellation in which it is seen. It is about 50 million light-years away and contains thousands of members, of which a few are in Figure \\(\\PageIndex{1}\\). The giant elliptical, and very active, galaxy M87 belongs to the Virgo Cluster. The two galaxies to the top right of the image are known as The Eyes.</p> <figure><img alt=\"Central Virgo Cluster with giant elliptical galaxy M87 and surrounding galaxies. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/45977/692ee36c2e4629e8d2b7af612db40f5a8724e2c9\" /> <figcaption>Figure \\(\\PageIndex{1}\\) : Virgo Cluster. This image shows the central region of the Virgo Cluster, the nearest rich galaxy cluster at about 50 million light-years, dominated by the giant elliptical galaxy M87 and surrounded by hundreds of smaller member galaxies. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>) <a href=\"/Workbench/De_Anza_-_ASTR10/17:_Evolution_of_Galaxies/17.08:_Accessible_Descriptions#Figure_17.3.1_Virgo_Cluster\" target=\"_blank\" title=\"17.8: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{1}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-66855\">A good example of a cluster that is much larger than the Virgo complex is the Coma cluster, with a diameter of at least 10 million light-years. Figure \\(\\PageIndex{1}\\) is a combined visible-light, from the Sloan Digital Sky Survey, and infrared, from the Spitzer Space Telescope, image. It has been color coded so that faint dwarf galaxies are seen as green. The number of little green smudges on the image greatly outnumber the other types of galaxies in the cluster. Really rich clusters such as Coma usually have a high concentration of galaxies near the center. We can see giant elliptical galaxies in these central regions but few, if any, spiral galaxies. The spirals that do exist generally occur on the outskirts of clusters. The cluster is roughly 320 million light-years away from us. The total mass of this cluster is about 4 × 10<sup>15</sup> M<sub>Sun</sub>, enough mass to make 4 million billion stars like the Sun.</p> <figure><img alt=\"Coma Cluster image color-coded to show dwarf galaxies outnumbering large galaxies. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/45976/662e1e9a85934db0f9993f11c1511e26bf031cb0\" /> <figcaption>Figure \\(\\PageIndex{2}\\) : Coma Cluster. This combined visible-light and infrared image of the Coma Cluster, color-coded to highlight faint dwarf galaxies in green, shows that small dwarf galaxies vastly outnumber the cluster's large ellipticals and spirals. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>) <a href=\"/Workbench/De_Anza_-_ASTR10/17:_Evolution_of_Galaxies/17.08:_Accessible_Descriptions#Figure_17.3.2_Coma_Cluster\" target=\"_blank\" title=\"17.8: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{2}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-66855\">Ellipticals are often found in groups with other ellipticals in crowded situations. It is precisely in such crowds that collisions are most likely. We think that most large ellipticals are built through mergers of smaller galaxies. Spirals, on the other hand, are more likely to be found in poor clusters or on the edges of rich clusters where collisions are less likely to disrupt the spiral arms or strip out the gas needed for continued star formation.</p> <h3 class=\"lt-phys-66855\">Gravitational Lensing</h3> <p class=\"lt-phys-66855\">Spacetime is more strongly curved in regions where the gravitational field is strong. Light passing very near a concentration of matter appears to follow a curved path. In the case of starlight passing close to the Sun, we measure the position of the distant star to be slightly different from its true position. Now let's consider the case of light from a distant galaxy or quasar that passes near a concentration of matter such as a cluster of galaxies on its journey to our telescopes. According to general relativity, the light path may be bent in a variety of ways. As a result we can observe distorted and even multiple images. Figure \\(\\PageIndex{3}\\) is a diagram demonstrating how a gravitational lens can make two images. Two light rays from a distant quasar are shown being bent while passing a foreground galaxy. They then arrive together at Earth. Although the two beams of light contain the same information, they now appear to come from two different points on the sky. This diagram is oversimplified and not to scale, but it gives a rough idea of the lensing phenomenon.&nbsp;Note that the visible mass in a galaxy is not the only possible gravitational lens. Dark matter can also reveal itself by producing this effect. Astronomers are using lensed images from all over the sky to learn more about where dark matter is located and how much of it exists.</p> <figure><img alt=\"Diagram of gravitational lensing producing two images of a background quasar. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/45973/b1c801d09c557c1485e5eafec0cc9efa7cba46cd\" /> <figcaption>Figure \\(\\PageIndex{3}\\) : Gravitational Lensing. This diagram illustrates how a foreground galaxy's gravity bends two light paths from a distant quasar, so that an observer on Earth sees two separate images of the same quasar in different directions on the sky. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>) <a href=\"/Workbench/De_Anza_-_ASTR10/17:_Evolution_of_Galaxies/17.08:_Accessible_Descriptions#Figure_17.3.3_Gravitational_Lensing\" target=\"_blank\" title=\"17.8: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{3}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-66855\">Gravitational lenses can produce not only double images, as shown in Figure \\(\\PageIndex{3}\\), but also multiple images, arcs, or rings. The first gravitational lens discovered, in 1979, showed two images of the same distant object. Eventually, astronomers used the Hubble Space Telescope to capture remarkable images of the effects of gravitational lenses. Figure \\(\\PageIndex{4}\\) is an example of gravitational lensing. Light from a supernova at a distance of 9 billion light-years passed near a galaxy in a cluster at a distance of about 5 billion light-years. In the enlarged inset view of the galaxy, the arrows point to the multiple images of the exploding star. The images are arranged around the galaxy in a pattern called an Einstein Cross. The blue streaks wrapping around the galaxy are the stretched images of the supernova's host spiral galaxy, which has been distorted by the warping of space.</p> <figure><img alt=\"Hubble image of a galaxy cluster with inset showing a lensed supernova's Einstein Cross. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/45979/cb333105cd1a57b41b35ca3f937536a85434bc90\" /> <figcaption>Figure \\(\\PageIndex{4}\\) : Gravitationally Lensed Supernova. Gravitational lensing by a foreground galaxy cluster produced four separate images of a single background supernova, arranged in a Einstein Cross pattern around the lensing galaxy, along with a stretched image of the supernova's distorted host galaxy. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>) <a href=\"/Workbench/De_Anza_-_ASTR10/17:_Evolution_of_Galaxies/17.08:_Accessible_Descriptions#Figure_17.3.4_Gravitationally_Lensed_Supernova\" target=\"_blank\" title=\"17.8: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{4}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-66855\">General relativity predicts that the light from a distant object may also be amplified by the lensing effect, thereby making otherwise invisible objects bright enough to detect. This is particularly useful for probing the earliest stages of galaxy formation, when the universe was young. Figure \\(\\PageIndex{5}\\) is an example of a very distant faint galaxy that we can study in detail only because its light path passes through a large concentration of massive galaxies and we now see a brighter image of it. The rounded outlines show the location of distinct, distorted images of the background galaxy resulting from lensing by the mass in the cluster. The image in the box at lower left is a reconstruction of what the lensed galaxy would look like in the absence of the cluster, based on a model of the cluster's mass distribution, which can be derived from studying the distorted galaxy images. The reconstruction shows far more detail about the galaxy than could have been seen in the absence of lensing. As the image shows, this galaxy contains regions of star formation that are much brighter than any star-formation regions in our Milky Way Galaxy.</p> <figure><img alt=\"Lensed arcs of a background galaxy and its reconstructed appearance in a Hubble image. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/45980/62b0cced1fb29d64e9a2290fd79cf9a42c2ca8e1\" /> <figcaption>Figure \\(\\PageIndex{5}\\) : Gravitational Lensing Distortions. This image shows multiple distorted arcs produced by a galaxy cluster gravitationally lensing a single background galaxy, along with a reconstruction of that galaxy's true appearance, revealing unusually bright regions of star formation. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>) <a href=\"/Workbench/De_Anza_-_ASTR10/17:_Evolution_of_Galaxies/17.08:_Accessible_Descriptions#Figure_17.3.5_Gravitational_Lensing_Distortions\" target=\"_blank\" title=\"17.8: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{5}\\)</a>.</figcaption> </figure> <h3 class=\"lt-phys-66855\">Superclusters and Voids</h3> <p class=\"lt-phys-66855\">After astronomers discovered clusters of galaxies, they naturally wondered whether there were still larger structures in the universe. To answer this question, we must be able to map large parts of the universe in three dimensions. We must know not only the position of each galaxy on the sky but also its distance from us. This means we must be able to measure the redshift of each galaxy in our map. Taking a spectrum of each individual galaxy to do this is a much more time-consuming task than simply counting galaxies seen in different directions on the sky. Today, astronomers have found ways to get the spectra of many galaxies in the same field of view to cut down the time it takes to finish their three-dimensional maps. Larger telescopes are also able to measure the redshifts, and therefore the distances, of much more distant galaxies and to do so much more quickly than previously possible.</p> <p class=\"lt-phys-66855\">Another challenge astronomers faced in deciding how to go about constructing a map of the universe is how to begin. We cannot explore the universe in every direction to infinite depth or sensitivity. There are far too many galaxies and far too few telescopes to do the job. But we can pick a single direction or a small slice of the sky and start mapping the galaxies. Margaret Geller, the late John Huchra, and their students at the Harvard-Smithsonian Center for Astrophysics used this technique, and several other groups have extended their work to cover larger volumes of space.</p> <p class=\"lt-phys-66855\">The largest universe mapping project to date is the <a href=\"/Workbench/De_Anza_-_ASTR10/17:_Evolution_of_Galaxies/17.03:_The_Distribution_of_Galaxies#The_Sloan_Digital_Sky_Survey\" target=\"_blank\" title=\"17.3: The Distribution of Galaxies\">Sloan Digital Sky Survey</a>. A map of the distribution of galaxies observed by the Sloan survey is in Figure \\(\\PageIndex{6}\\). The point at the center corresponds to the Milky Way. Points on the map moving outward from the center are farther away. The distance to the galaxies is indicated by their redshifts, shown on the horizontal line going right from the center. Hour angle on the sky is shown around the circumference of the circular map. The colors of the galaxies indicate the ages of their stars, with the redder color showing galaxies that are made of older stars. The outer circle is at a distance of two billion light-years from us. Note that red galaxies, with older stars, are more strongly clustered than blue galaxies, with young stars.. The unmapped areas are where our view of the universe is obstructed by dust in our own Galaxy.</p> <p>To the surprise of astronomers, these new maps showed that clusters of galaxies are not arranged uniformly throughout the universe, but are found in huge filamentary <strong><a href=\"/Workbench/De_Anza_-_ASTR10/17:_Evolution_of_Galaxies/17.07:_Key_Terms#supercluster\" target=\"_blank\" title=\"supercluster\">supercluster</a></strong>s that look like great arcs of inkblots splattered across a page. The Local Group is part of a supercluster we call the Virgo Supercluster because it also includes the giant Virgo cluster of galaxies. The superclusters resemble an irregularly torn sheet of paper or a pancake in shape. They can extend for hundreds of millions of light-years in two dimensions, but are only 10 to 20 million light-years thick in the third dimension. Detailed study of some of these structures shows that their masses are roughly 10<sup>16</sup> M<sub>Sun</sub>, which is 10,000 times more massive than the Milky Way Galaxy.</p> <figure><img alt=\"SDSS map of galaxy redshift and clustering, colored by stellar age. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/45981/6dc96656104f128a09f5e7a211ded1c3cc26a588\" /> <figcaption>Figure \\(\\PageIndex{6}\\) : Sloan Digital Sky Survey Map. This map from the Sloan Digital Sky Survey plots galaxy positions by redshift and sky angle out to two billion light-years, revealing a clumpy, web-like large-scale structure in which older, redder galaxies cluster more strongly than younger, bluer galaxies. (<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\">CC BY 4.0</a>; <a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\">Fraknoi, et al.</a> via <a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\">Openstax Astronomy 2nd ed.</a>) <a href=\"/Workbench/De_Anza_-_ASTR10/17:_Evolution_of_Galaxies/17.08:_Accessible_Descriptions#Figure_17.3.6_Sloan_Digital_Sky_Survey_Map\" target=\"_blank\" title=\"17.8: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{6}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-66855\">Separating the filaments and sheets in a supercluster are <strong><a href=\"/Workbench/De_Anza_-_ASTR10/17:_Evolution_of_Galaxies/17.07:_Key_Terms#void\" target=\"_blank\" title=\"void\">voids</a></strong>, which look like huge empty bubbles walled in by the great arcs of galaxies. They have typical diameters of 150 million light-years, with the clusters of galaxies concentrated along their walls. The whole arrangement of filaments and voids reminds us of a sponge, the inside of a honeycomb, or a hunk of Swiss cheese with very large holes. If you take a good slice or cross-section through any of these, you will see something that looks roughly like Figure \\(\\PageIndex{6}\\).</p> <p class=\"lt-phys-66855\">Before these voids were discovered, most astronomers would probably have predicted that the regions between giant clusters of galaxies were filled with many small groups of galaxies, or even with isolated individual galaxies. Careful searches within these voids have found few galaxies of any kind. Apparently, 90 percent of the galaxies occupy less than 10 percent of the volume of space.</p> <p class=\"lt-phys-66855\">Even larger, more sensitive telescopes and surveys are currently being designed and built to peer farther and farther out in space and back in time. The new 50-meter Large Millimeter Telescope in Mexico and the Atacama Large Millimeter Array in Chile can detect far-infrared and millimeter-wave radiation from massive starbursting galaxies at redshifts and thus distances more than 90% of the way back to the Big Bang. These cannot be observed with visible light because their star formation regions are wrapped in clouds of thick dust. The James Webb Space Telescope has been able to pierce the clouds of dust with its infrared camera and observe galaxies that formed within a billion years of the Big Bang. Astronomers have described these young galaxies as chaotic and messy, nothing like the beautiful spirals of today. It seems these turbulent galaxies go through repeated mergers and bursts of star formation. Further studies will lead to a better understanding of the first generation of galaxies.</p> <h3 class=\"lt-phys-66855\">The Sloan Digital Sky Survey</h3> <p class=\"lt-phys-66855\">Modern technology has come to the rescue of astronomers who seek three-dimensional maps of the universe of galaxies. One ambitious survey of the sky was produced using a special telescope, camera, and spectrograph atop the Sacramento Mountains of New Mexico. Called the Sloan Digital Sky Survey (SDSS), after the foundation that provided a large part of the funding, the program used a 2.5-meter telescope as a wide-angle astronomical camera. During a mapping program lasting more than ten years, astronomers used the SDSS's 30 charge-coupled devices (CCDs) to take images of over 500 million objects and spectra of over 3 million, covering more than one-quarter of the celestial sphere. Like many large projects in modern science, the Sloan Survey involved scientists and engineers from many different institutions, ranging from universities to national laboratories.</p> <p class=\"lt-phys-66855\">Every clear night for more than a decade, astronomers used the instrument to make images recording the position and brightness of celestial objects in long strips of the sky. The key to the success of the project was a series of optical fibers, thin tubes of flexible glass that can transmit light from a source to the CCD that then records the spectrum. After taking images of a part of the sky and identifying which objects are galaxies, project scientists drilled an aluminum plate with holes for attaching fibers at the location of each galaxy. The telescope was then pointed at the right section of the sky, and the fibers led the light of each galaxy to the spectrometer for individual recording. About an hour was sufficient for each set of spectra, and the pre-drilled aluminum plates could be switched quickly. Thus, it was possible to take as many as 5000 spectra in one night.</p> <p class=\"lt-phys-66855\">The galaxy survey led to a more comprehensive map of the sky than has ever before been possible, allowing astronomers to test their ideas about large-scale structure and the evolution of galaxies against an impressive array of real data. The information recorded by the Sloan Survey staggers the imagination. The data came in at 8 megabytes per second (this means 8 million individual numbers or characters every second). Over the course of the project, scientists recorded over 15 terabytes, or 15 thousand billion bytes, which they estimate is comparable to the information contained in the Library of Congress. Organizing and sorting this volume of data and extracting the useful scientific results it contains is a formidable challenge, even in our information age.</p> <p class=\"lt-phys-66855\">One very successful solution to the challenge of dealing with such large datasets is to turn to citizen science, or crowd-sourcing. The human eye is very good at recognizing subtle differences among shapes, such as between two different spiral galaxies. When Sloan project astronomers wanted to catalog the shapes of some of the millions of galaxies in their new images, they launched the Galaxy Zoo project. Volunteers around the world were given a short training course online, then were provided with a few dozen galaxy images to classify by eye. The project was wildly successful, resulting in over 40 million galaxy classifications by more than 100,000 volunteers.</p> <h2>Examples and Exercises</h2> <div class=\"box-example\"> <h5 class=\"box-legend\"><span class=\"lt-icon-default\">Example: Galaxy Survey Volumes</span></h5> <p class=\"lt-phys-66855\">To determine the distribution of galaxies in three-dimensional space, astronomers have to measure their positions and their redshifts. The larger the volume of space surveyed, the more likely the measurement is a fair sample of the universe as a whole. However, the work involved increases very rapidly as you increase the volume covered by the survey.</p> <p class=\"lt-phys-66855\">Let's do a quick calculation to see why this is so.</p> <p class=\"lt-phys-66855\">Suppose that you have completed a survey of all the galaxies within 30 million light-years and you now want to survey to 60 million light-years. What volume of space is covered by your second survey? How much larger is this volume than the volume of your first survey? Remember that the volume of a sphere, V, is given by the formula V = 4/3πR<sup>3</sup>, where R is the radius of the sphere.</p> <h6>Solution</h6> <p class=\"lt-phys-66855\">Since the volume of a sphere depends on R<sup>3</sup> and the second survey reaches twice as far in distance, it will cover a volume that is 2<sup>3</sup> = 8 times larger. The total volume covered by the second survey will be (4/3)π × (60 million light-years)<sup>3</sup> = 9 × 10<sup>23</sup> light-years<sup>3</sup>.</p> </div> <section class=\"box-exercise\"> <h5 class=\"box-legend lt-phys-66855\"><span class=\"lt-icon-default\">Exercise: Galaxy Survey Volumes</span></h5> <p class=\"lt-phys-66855\">Suppose you now want to expand your survey to 90 million light-years. What volume of space is covered, and how much larger is it than the volume of the second survey?</p> <dl> <dt><strong class=\"emphasis bold\">Answer</strong></dt> <dd> <p class=\"lt-phys-66855\">The total volume covered is (4/3)π × (90 million light-years)<sup>3</sup> = 3.05 × 10<sup>24</sup> light-years<sup>3</sup>. The survey reaches 3 times as far in distance, so it will cover a volume that is 3<sup>3</sup> = 27 times larger.</p> </dd> </dl> </section> <section class=\"box-note\"> <h5 class=\"box-legend\"><span class=\"lt-icon-default\">Further Exploration: </span></h5> <p class=\"lt-phys-66855\">New data sets from JWST and Rubin Observatory are now available for <a href=\"https://www.zooniverse.org/projects/zookeeper/galaxy-zoo\" rel=\"noopener nofollow\" target=\"_blank\" title=\"https://www.zooniverse.org/projects/zookeeper/galaxy-zoo\">classification of galaxies by the public</a>. This program is part of a whole series of <a href=\"https://www.zooniverse.org/projects\" rel=\"noopener nofollow\" target=\"_blank\" title=\"https://www.zooniverse.org/projects\">citizen science projects</a> that enable everyone to be part of astronomy.</p> <p class=\"lt-phys-66855\">You can read more about the <a href=\"https://www.sdss.org/\" rel=\"noopener nofollow\" target=\"_blank\" title=\"https://www.sdss.org/\">Sloan survey</a> and its dramatic results. Also, watch <a href=\"https://www.youtube.com/watch?v=08LBltePDZw\" rel=\"noopener nofollow\" target=\"_blank\" title=\"https://www.youtube.com/watch?v=08LBltePDZw\">simulated video</a> of a flight through structure of the galaxies as revealed by the survey.</p> <p class=\"lt-phys-66855\">Try the <a href=\"https://foothillastrosims.github.io/gravitational-lensing/\" rel=\"noopener nofollow\" target=\"_blank\" title=\"https://foothillastrosims.github.io/gravitational-lensing/\">Gravitational Lensing Simulator</a> to explore how the distance and mass of a cluster of galaxies affects the offset of lensed images of a very distant galaxy.</p> </section>"
+              - generic [ref=f529e331]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f529e333] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f529e104]:
+          - separator [ref=f529e105]
+          - paragraph [ref=f529e107]:
+            - text: This page titled
+            - 'link "17.3: The Distribution of Galaxies" [ref=f529e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.03%3A_The_Distribution_of_Galaxies
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f529e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f529e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: .
+      - generic [ref=f529e111]:
+        - list [ref=f529e112]:
+          - listitem [ref=f529e113]:
+            - link "Back to top" [ref=f529e114] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f529e115]:
+            - list [ref=f529e116]:
+              - listitem [ref=f529e117]:
+                - 'link " 17.2: Mergers and Active Galaxies" [ref=f529e118] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.02%3A_Mergers_and_Active_Galaxies
+                  - text: 
+                  - generic [ref=f529e119]: "17.2: Mergers and Active Galaxies"
+              - listitem [ref=f529e120]:
+                - 'link "17.4: The Challenge of Dark Matter " [ref=f529e121] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/17%3A_Evolution_of_Galaxies/17.04%3A_The_Challenge_of_Dark_Matter
+                  - generic [ref=f529e122]: "17.4: The Challenge of Dark Matter"
+                  - text: 
+        - list [ref=f529e125]:
+          - listitem [ref=f529e126]: Was this article helpful?
+          - listitem [ref=f529e127]:
+            - button "Yes" [ref=f529e128] [cursor=pointer]
+          - listitem [ref=f529e129]:
+            - button "No" [ref=f529e130] [cursor=pointer]
+          - listitem [ref=f529e131]:
+            - button "Leave feedback" [ref=f529e132] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : :"
+        - generic [ref=f529e133]:
+          - heading "Attachments" [level=2] [ref=f529e134]
+          - generic:
+            - button "Attach a file" [ref=f529e135] [cursor=pointer]
+            - text: 
+          - generic [ref=f529e137]:
+            - generic [ref=f529e140]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f529e141]
+            - generic [ref=f529e142]:
+              - grid [ref=f529e145]:
+                - rowgroup [ref=f529e146]:
+                  - row [ref=f529e147]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f529e148]':
+                      - generic:
+                        - generic [ref=f529e149]: File
+                        - generic [ref=f529e150]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f529e151]':
+                      - generic:
+                        - generic [ref=f529e152]: Last modified
+                        - generic [ref=f529e153]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f529e154]':
+                      - generic:
+                        - generic [ref=f529e155]: Size
+                        - generic [ref=f529e156]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f529e157]':
+                      - generic:
+                        - generic [ref=f529e158]: Added by
+                        - generic [ref=f529e159]: 
+              - grid [ref=f529e161]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f529e162]: File
+                          - generic [ref=f529e163]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f529e164]: Last modified
+                          - generic [ref=f529e165]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f529e166]: Size
+                          - generic [ref=f529e167]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f529e168]: Added by
+                          - generic [ref=f529e169]: 
+                - rowgroup [ref=f529e170]:
+                  - row [ref=f529e171]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f529e172]:
+                      - generic [ref=f529e173]:
+                        - generic [ref=f529e174]:
+                          - generic [ref=f529e175]: 
+                          - link "mindtouch.page#thumbnail" [ref=f529e176] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/65435/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f529e177]:
+                          - generic [ref=f529e178]: (no description)
+                          - text: 
+                    - gridcell "Dec 25, 2025, 2:40 PM" [ref=f529e179]
+                    - gridcell "11 KiB" [ref=f529e181]
+                    - gridcell "Rachel Mastrapa" [ref=f529e182]
+    - generic [ref=f529e184]:
+      - button "Open support menu" [ref=f529e186] [cursor=pointer]: "?"
+      - navigation [ref=f529e188]:
+        - paragraph [ref=f529e190]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f529e191] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f529e192] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f529e193] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f529e194] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f529e195] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f529e196]:
+      - generic:
+        - generic [ref=f529e198]:
+          - button "Annotation sidebar" [ref=f529e199]
+          - generic [ref=f529e204]:
+            - button "Show highlights" [ref=f529e205]
+            - button "New page note" [ref=f529e210]
+          - status [ref=f529e215]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f529e216]:
+    - button "contents" [ref=f529e217] [cursor=pointer]
+    - button "readability" [ref=f529e219] [cursor=pointer]
+    - button "resources" [ref=f529e221] [cursor=pointer]
+    - button "tools" [ref=f529e223] [cursor=pointer]
+    - button "developers" [ref=f529e225] [cursor=pointer]
+  - text:  
+  - generic [ref=f529e334]:
+    - generic [ref=f529e335] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f529e338] [cursor=pointer]

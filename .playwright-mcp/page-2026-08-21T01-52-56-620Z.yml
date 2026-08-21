@@ -1,0 +1,622 @@
+- generic [ref=f154e1]:
+  - link "Skip to main content" [ref=f154e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f154e3]:
+    - text: 
+    - generic [ref=f154e4]:
+      - generic [ref=f154e5]:
+        - generic: ✕
+        - navigation [ref=f154e7]:
+          - generic [ref=f154e8]:
+            - link [ref=f154e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f154e11]
+            - button "Enter Reader Mode" [ref=f154e13] [cursor=pointer]:
+              - generic [ref=f154e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f154e16]:
+        - list [ref=f154e18]:
+          - listitem [ref=f154e19]:
+            - link [ref=f154e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f154e22]
+          - listitem [ref=f154e23]:
+            - text: 
+            - generic [ref=f154e25]:
+              - generic [ref=f154e26]: "Search :"
+              - searchbox "Search :" [ref=f154e27]
+              - button " Search" [ref=f154e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f154e29]:
+            - list [ref=f154e30]:
+              - listitem [ref=f154e31]:
+                - link "Edit" [ref=f154e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.05%3A_Spacecraft?action=edit
+              - text: 
+              - listitem [ref=f154e33]:
+                - link " Options" [ref=f154e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f154e35]:
+                - link " Rachel Mastrapa" [ref=f154e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f154e37]:
+        - generic:
+          - button " Contents" [ref=f154e207] [cursor=pointer]
+          - list [ref=f154e39]:
+            - listitem [ref=f154e40]:
+              - link " Home" [ref=f154e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f154e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f154e43]:
+              - link " Workbench" [ref=f154e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f154e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f154e46]:
+              - link " De Anza - ASTR10" [ref=f154e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f154e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f154e49]:
+              - 'link " 5: Astronomical Instruments" [ref=f154e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments
+                - generic [ref=f154e51]: 
+                - text: "5: Astronomical Instruments"
+              - text: »
+            - listitem [ref=f154e52]:
+              - generic [ref=f154e53]: 
+              - text: "5.5: Spacecraft"
+          - button " Expand/collapse global location" [ref=f154e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                
+    - article [ref=f154e55]:
+      - generic [ref=f154e56]:
+        - generic [ref=f154e57]:
+          - button " Page settings" [ref=f154e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "5.5: Spacecraft" [level=1] [ref=f154e59]':
+          - generic [ref=f154e208]: "5.5: Spacecraft "
+        - list [ref=f154e62]:
+          - listitem [ref=f154e63]:
+            - link [ref=f154e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f154e66]:
+                - img "CC" [ref=f154e67]
+                - img "BY" [ref=f154e68]
+          - listitem [ref=f154e69]:
+            - generic [ref=f154e70]:
+              - term [ref=f154e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f154e72]: Aug 4, 2026, 3:23 PM by Jyothsna Viswanadha
+          - listitem [ref=f154e73]:
+            - generic [ref=f154e74]:
+              - term [ref=f154e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f154e76]: Private
+          - listitem [ref=f154e77]:
+            - generic [ref=f154e78]:
+              - term [ref=f154e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f154e80]: "132012"
+          - listitem [ref=f154e81]:
+            - list [ref=f154e82]:
+              - listitem [ref=f154e83]:
+                - button "Pin Page" [ref=f154e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f154e85]:
+                - list [ref=f154e86]:
+                  - listitem [ref=f154e87]:
+                    - 'link " 5.4: Radio Telescopes" [ref=f154e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.04%3A_Radio_Telescopes
+                      - text: 
+                      - generic [ref=f154e89]: "5.4: Radio Telescopes"
+                  - listitem [ref=f154e90]:
+                    - 'link "5.6: Ethics of Building Telescopes " [ref=f154e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.06%3A_Ethics_of_Building_Telescopes
+                      - generic [ref=f154e92]: "5.6: Ethics of Building Telescopes"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f154e93]:
+        - group [ref=f154e212]:
+          - generic [ref=f154e213]:
+            - generic [ref=f154e214]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f154e215]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f154e216]:
+            - generic [ref=f154e219]:
+              - generic [ref=f154e220]:
+                - generic [ref=f154e221]:
+                  - link "Edit" [ref=f154e222]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f154e223]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f154e224]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f154e225]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f154e226]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f154e227]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f154e228]: "Words: 2479, Chars: 16210"
+              - group "Editor toolbars" [ref=f154e230]:
+                - toolbar [ref=f154e231]:
+                  - button "Save" [ref=f154e232]:
+                    - generic [ref=f154e233]: 
+                  - button "Cancel" [ref=f154e235]:
+                    - generic [ref=f154e236]: 
+                - toolbar [ref=f154e239]:
+                  - button "Undo" [disabled] [ref=f154e240]:
+                    - generic [ref=f154e241]: 
+                  - button "Redo" [disabled] [ref=f154e242]:
+                    - generic [ref=f154e243]: 
+                - toolbar [ref=f154e245]:
+                  - button "Headings" [ref=f154e246]
+                - toolbar [ref=f154e251]:
+                  - button "Bold" [ref=f154e252]:
+                    - generic [ref=f154e253]: 
+                  - button "Italic" [ref=f154e254]:
+                    - generic [ref=f154e255]: 
+                  - button "Underline" [ref=f154e256]:
+                    - generic [ref=f154e257]: 
+                - toolbar [ref=f154e259]:
+                  - button "Text color" [ref=f154e260]:
+                    - generic [ref=f154e261]: 
+                  - button "Background color" [ref=f154e263]:
+                    - generic [ref=f154e264]: 
+                - toolbar [ref=f154e267]:
+                  - button "Remove format" [ref=f154e268]:
+                    - generic [ref=f154e269]: 
+                - toolbar [ref=f154e271]:
+                  - button "Insert/Remove numbered list" [ref=f154e272]:
+                    - generic [ref=f154e273]: 
+                  - button "Insert/Remove bulleted list" [ref=f154e274]:
+                    - generic [ref=f154e275]: 
+                - toolbar [ref=f154e277]:
+                  - button "Alignment" [ref=f154e278]:
+                    - generic [ref=f154e279]: 
+                - text: 
+                - toolbar [ref=f154e282]:
+                  - button "Link" [ref=f154e283]:
+                    - generic [ref=f154e284]: 
+                  - button "Image" [ref=f154e285]:
+                    - generic [ref=f154e286]: 
+                  - text: 
+                  - button "Boxes" [ref=f154e287]
+                - toolbar [ref=f154e292]:
+                  - button "Replace" [ref=f154e293]:
+                    - generic [ref=f154e294]: 
+                - toolbar [ref=f154e296]:
+                  - button "Enable Binder" [ref=f154e297]
+                  - button "Insert Adapt" [ref=f154e299]
+                  - button "Query" [ref=f154e301]
+                  - button "Accessibility Checker" [ref=f154e304]
+                - toolbar [ref=f154e307]:
+                  - button "HTML" [ref=f154e308]:
+                    - generic [ref=f154e309]: 
+            - application "Rich Text Editor, editarea" [ref=f154e311]:
+              - iframe [active] [ref=f154e312]:
+                - generic [active] [ref=f156e1]:
+                  - heading "Atmospheric Effects on Observing" [level=2] [ref=f156e2]
+                  - paragraph [ref=f156e3]: "Earth’s atmosphere blocks most light at wavelengths shorter than visible, so we can only make direct ultraviolet, X-ray, and gamma ray observations from space, Figure \\(\\PageIndex{1}\\). This illustration shows how well Earth’s atmosphere transmits different types of light depending on its wavelength, along with the different layers of the atmosphere. Short wavelength light does not make it to the surface and must be observed from space. Some infrared and microwaves are absorbed by water near Earth's surface but can be observed at high altitudes where the atmosphere is drier. Although there is a broad range of radio that reaches Earth's surface, the longest wavelength radio waves are blocked by Earth’s atmosphere."
+                  - figure [ref=f156e4]:
+                    - img "Light interacts with Earth's atmosphere. Details in caption." [ref=f156e5]
+                    - generic [ref=f156e6]:
+                      - text: "Figure \\(\\PageIndex{1}\\): Light and Earth’s Atmosphere. Different wavelength of light penetrate different distances into Earth's atmosphere. Visible and radio wavelengths are observable from the surface of Earth. ("
+                      - link "CC BY 4.0" [ref=f156e7]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f156e8]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f156e9]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: ).
+                      - 'link "Alternative description of Figure \\(\\PageIndex{1}\\)" [ref=f156e10]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.08:_Accessible_Descriptions#Figure_5.5.1_Light_and_Earth's_Atmosphere
+                      - text: .
+                  - paragraph [ref=f156e11]: Even though visible light can reach the surface of Earth, the image is distorted by the movement of air in the atmosphere making stars twinkle. In space, the amount of detail in an image is limited only by the size of the telescope. On the other hand, it is expensive to place telescopes into space, and repairs can present a major challenge. This is why astronomers continue to build telescopes for use on the ground as well as for launching into space.
+                  - heading "Hubble Space Telescope" [level=2] [ref=f156e12]
+                  - paragraph [ref=f156e13]:
+                    - text: "Space-based telescopes allow for observations outside the Earth’s atmosphere and light pollution. Probably the most-famous of the space-based telescopes is the Hubble Space Telescope (HST). With an aperture of 2.4 meters, which was limited by the size of the payload bay in the Space Shuttle that served as its launch vehicle, Figure \\(\\PageIndex{2}\\). It was named for"
+                    - link "Edwin Hubble" [ref=f156e14]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/18:_Appendices/18.01:_Alphabetical_List_of_Scientists/18.1.12:_Hubble_Edwin
+                    - text: ", the astronomer who discovered the expansion of the universe in the 1920s. Within weeks of launch, the HST showed serious problems with its primary mirror, which affected the precise focus of the telescope. A fix was designed and astronauts about Space Shuttle Endeavor in December 1993 captured and repaired the near-sighted telescope. The repair was somewhat simple, equip the HST with glasses. The fix worked and images returned from the Hubble Space Telescope have amazed and intrigued both astronomers and the general public ever since."
+                  - figure [ref=f156e15]:
+                    - img "Deployment of Hubble Space Telescope from shuttle Endeavor." [ref=f156e16]
+                    - generic [ref=f156e17]:
+                      - text: "Figure \\(\\PageIndex{2}\\): Release of Hubble Space Telescope. The Hubble Space Telescope was released from the Space Shuttle Endeavour on April 25, 1990. ("
+                      - link "Public Domain" [ref=f156e18]:
+                        - /url: https://en.wikipedia.org/wiki/Public_domain
+                      - text: ;
+                      - link "NASA Hubble Space Telescope" [ref=f156e19]:
+                        - /url: https://science.nasa.gov/mission/hubble/
+                      - text: via
+                      - link "Wikimedia Commons" [ref=f156e20]:
+                        - /url: https://commons.wikimedia.org/wiki/File:Deployment_of_the_Hubble_Space_Telescope_(28248653761).jpg
+                      - text: ).
+                  - paragraph [ref=f156e21]: "HST is operated jointly by NASA’s Goddard Space Flight Center and the Space Telescope Science Institute in Baltimore. It was the first orbiting observatory designed to be serviced by Shuttle astronauts and, though this repair program has now been discontinued, and no more visits or improvements will be made. With the Hubble, astronomers have obtained some of the most detailed images of astronomical objects from the solar system outward to the most distant galaxies. Among its many great achievements is the Hubble Ultra-Deep Field, an image of a small region of the sky observed for almost 100 hours. It contains views of about 10,000 galaxies, some of which formed when the universe was just a few percent of its current age, Figure \\(\\PageIndex{3}\\)."
+                  - figure [ref=f156e22]:
+                    - img "Hubble Telescope ultra-deep field. Details in caption." [ref=f156e23]
+                    - generic [ref=f156e24]:
+                      - text: "Figure \\(\\PageIndex{3}\\): This Hubble Space Telescope image has provided an image of a specific region of space built from data collected between September 24, 2003, and January 16, 2004. These data allow us to search for galaxies that existed approximately 13 billion years ago. ("
+                      - link "CC BY 4.0" [ref=f156e25]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f156e26]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f156e27]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: ).
+                      - 'link "Alternative description of Figure \\(\\PageIndex{3}\\)" [ref=f156e28]':
+                        - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.08:_Accessible_Descriptions#Figure_5.5.3_Hubble_Ultra-Deep_Field
+                      - text: .
+                  - heading "Infrared Telescopes" [level=2] [ref=f156e29]
+                  - paragraph [ref=f156e30]: Water vapor, which absorbs infrared light, is concentrated in the lower part of Earth’s atmosphere. For this reason, a gain of even a few hundred meters in elevation can make an important difference in the quality of an infrared observatory site. Given the limitations of high mountains, most of which attract clouds and violent storms, and the fact that the ability of humans to perform complex tasks degrades at high altitudes, it was natural for astronomers to investigate the possibility of observing infrared waves from airplanes and ultimately from space.
+                  - paragraph [ref=f156e31]: "Infrared observations from airplanes were first made in the 1960s, starting with a 15-centimeter telescope on board a Learjet. From 1974 through 1995, NASA operated a 0.9-meter airborne telescope flying regularly out of the Ames Research Center south of San Francisco. Observing from an altitude of 12 kilometers, the telescope was above 99% of the atmospheric water vapor. More recently, NASA and the German Space Agency at DLR constructed a much larger 2.5-meter telescope, called the Stratospheric Observatory for Infrared Astronomy (SOFIA), which flew in a modified Boeing 747SP until it was decommissioned in 2022, Figure \\(\\PageIndex{4}\\). A section of the plane behind the wing could be opened for observations."
+                  - figure [ref=f156e32]:
+                    - img "Stratospheric Observatory for Infrared Astronomy (SOFIA)." [ref=f156e33]
+                    - generic [ref=f156e34]:
+                      - text: "Figure \\(\\PageIndex{4}\\): SOFIA allowed observations to be made above most of Earth’s atmospheric water vapor. ("
+                      - link "CC BY 4.0" [ref=f156e35]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f156e36]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f156e37]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: ).
+                  - paragraph [ref=f156e38]: Getting even higher and making observations from space itself have important advantages for infrared astronomy. First is the elimination of all interference from the atmosphere. Equally important is the opportunity to cool the entire optical system of the instrument in order to nearly eliminate infrared radiation from the telescope itself. If we tried to cool a telescope within the atmosphere, it would quickly become coated with condensing water vapor and other gases, making it useless. Only in the vacuum of space can optical elements be cooled to hundreds of degrees below freezing and still remain operational.
+                  - paragraph [ref=f156e39]: "The first orbiting infrared observatory, launched in 1983, was the Infrared Astronomical Satellite (IRAS), built as a joint project by the United States, the Netherlands, and Britain. IRAS was equipped with a 0.6-meter telescope cooled to a temperature of less than 10 K. For the first time, the infrared sky could be seen as if it were night, rather than through a bright foreground of atmospheric and telescope emissions. IRAS carried out a rapid but comprehensive survey of the entire infrared sky over a 10-month period, cataloging about 350,000 sources of infrared radiation. Since then, several other infrared telescopes have operated in space with much better sensitivity and resolution due to improvements in infrared detectors including the 0.85-meter Spitzer Space Telescope, which launched in 2003, Figure \\(\\PageIndex{5}\\). With infrared observations, astronomers can detect cooler parts of cosmic objects, such as the dust clouds around star nurseries and the remnants of dying stars, that visible-light images don’t reveal. Since the human eye, can't detect infrared light, astronomers select visible colors and assign them to infrared wavelengths to create a false color image. The bright colors and cloud structures would not in Figure \\(\\PageIndex{5}\\) could not be detected without infrared telescopes."
+                  - figure [ref=f156e40]:
+                    - img "Spitzer infrared Flame Nebula, Cassopeia A, Helix Nebula. Details in caption." [ref=f156e41]
+                    - generic [ref=f156e42]:
+                      - text: "Figure\\(\\PageIndex{5}\\): Observations from the Spitzer Space Telescope (SST). These infrared images of a the Flame nebula, a region of star formation, Cassiopeia A, the remnant of an exploded star, and the Helix nebula, a region where an old star is losing its outer shell, show just a few of the observations made and transmitted back to Earth from the SST. ("
+                      - link "CC BY 4.0" [ref=f156e43]:
+                        - /url: https://creativecommons.org/licenses/by/4.0/
+                      - text: ;
+                      - link "Fraknoi, et al." [ref=f156e44]:
+                        - /url: https://openstax.org/books/astronomy-2e/pages/preface
+                      - text: via
+                      - link "Openstax Astronomy 2nd ed." [ref=f156e45]:
+                        - /url: https://openstax.org/details/books/astronomy
+                      - text: ).
+                  - heading "James Webb Space Telescope" [level=2] [ref=f156e46]
+                  - paragraph [ref=f156e47]: "The largest telescope sent into space so far, and one specifically designed to observe infrared radiation from the universe, is the James Webb Space Telescope. Launched on December 25, 2021, the telescope is now in a stable orbit around the Sun about 1.5 million km from Earth, four times further than the Moon. This is a good, cold location for infrared viewing, but a place where no astronauts can currently travel if the facility needs repair. With the Webb, astronomers are able to look into the dusty regions where stars are formed and to probe the atmospheres of planets orbiting other stars, just to name two of its primary aims. The Webb’s 18-segment primary mirror is 6.5 meters in diameter, Figure \\(\\PageIndex{6}\\). Below, the mirror, a multi-layer shield the size of a tennis court protects it from the heat of the Sun and allows its liquid-helium-cooled instruments to gather extremely faint infrared light from the universe. Its giant mirror is already allowing scientists to look back close to the time when galaxies were first being assembled by the pull of gravity."
+                  - figure [ref=f156e48]:
+                    - img "James Webb Space Telescope model. Details in text." [ref=f156e49]
+                    - generic [ref=f156e50]:
+                      - text: "Figure \\(\\PageIndex{6}\\): Model of James Webb Space Telescope (JWST). The James Webb Space Telescope (JWST) is an orbiting infrared observatory that complements and extends the discoveries of the Hubble Space Telescope, with longer wavelength coverage and greatly improved sensitivity. Details in text. ("
+                      - link "Public Domain" [ref=f156e51]:
+                        - /url: https://en.wikipedia.org/wiki/Public_domain
+                      - text: ;
+                      - link "NASA" [ref=f156e52]:
+                        - /url: https://www.nasa.gov/
+                      - text: via
+                      - link "Wikimedia Commons" [ref=f156e53]:
+                        - /url: https://commons.wikimedia.org/wiki/File:JWST_spacecraft_model_3.png
+                      - text: ).
+                  - heading "High-Energy Observatories" [level=2] [ref=f156e54]
+                  - paragraph [ref=f156e55]: Ultraviolet, X-ray, and gamma-ray observations can be made only from space. Such observations first became possible in 1946, with V2 rockets captured from Germany after World War II. The US Naval Research Laboratory put instruments on these rockets for a series of pioneering flights, used initially to detect ultraviolet light from the Sun. Since then, many other rockets have been launched to make X-ray and ultraviolet observations of the Sun, and later of other celestial objects.
+                  - paragraph [ref=f156e56]:
+                    - text: One major challenge is to design mirrors to reflect such penetrating radiation as X-rays and gamma rays, which normally pass straight through matter. However, although the technical details of design are more complicated, the three basic components of an observing system are the same at all wavelengths. The system needs a telescope to gather up the radiation, filters or instruments to sort the radiation according to wavelength, and some method of detecting and making a permanent record of the observations. Astronomers have built many spacecraft to observe short wavelength light, included on a
+                    - link "list of high-energy observatories" [ref=f156e57]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/18:_Appendices/18.02:_Tables#Space+Telescopes
+                    - text: .
+                  - paragraph [ref=f156e58]: Beginning in the 1960s, a steady stream of high-energy observatories has been launched into orbit to reveal and explore the universe at short wavelengths. Among recent X-ray telescopes is the Chandra X-ray Observatory, which was launched in 1999. It is producing X-ray images with unprecedented resolution and sensitivity. Designing instruments that can collect and focus energetic radiation like X-rays and gamma rays is an enormous technological challenge. The 2002 Nobel Prize in physics was awarded to Riccardo Giacconi, a pioneer in the field of building and launching sophisticated X-ray instruments. In 2008, NASA launched the Fermi Gamma-ray Space Telescope, designed to measure cosmic gamma rays at energies greater than any previous telescope, and thus able to collect radiation from some of the most energetic events in the universe.
+                  - paragraph [ref=f156e59]: Gamma-ray detections can also be made from Earth’s surface by using the atmosphere as the primary detector. When a gamma ray hits our atmosphere, it accelerates charged particles, mostly electrons, in the atmosphere. Those energetic particles hit other particles in the atmosphere and give off their own radiation. The effect is a cascade of light and energy that can be detected on the ground. The VERITAS array in Arizona and the H.E.S.S. array in Namibia are two such ground-based gamma-ray observatories.
+                  - heading "Solar System Exploration" [level=2] [ref=f156e60]
+                  - paragraph [ref=f156e61]:
+                    - text: The spacecraft discussed so far are
+                    - link [ref=f156e62]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.07:_Key_Terms#orbiter
+                      - strong [ref=f156e63]: orbiters
+                    - text: ", because they were designed to orbit an object such as the Earth or the Sun. There are many other types of spacecraft that have been designed to explore the Solar System."
+                  - paragraph [ref=f156e64]:
+                    - text: Before orbiters were common, engineers designed spacecraft that could pass by one or more objects called
+                    - link [ref=f156e65]:
+                      - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.07:_Key_Terms#orbiter
+                      - strong [ref=f156e66]: flybys
+                    - text: . The engineers designing the early missions to explore the Solar System were still developing the tools to send spacecraft to other planets. Making the spacecraft go into orbit was considered risky because, if the calculations were even a little off, there was a possibility for it to crash on the surface or be deflected on a new path. For a spacecraft to enter orbit around another object, it needs to change speed, which costs fuel and therefore more money. Even today, flybys can be more cost-effective than orbiters. Flybys have the advantage of being able to visit more than one object. The Voyager missions took advantage of the flyby design and a once in a lifetime planetary alignment to visit all four outer planets. The downside of flybys is that they are not always able to fully image all sides of the object they visit. For example, there are parts of Pluto that the New Horizons spacecraft was not able to see. So, our current maps remain incomplete.
+                  - paragraph [ref=f156e67]:
+                    - text: If an object has a solid surface, astronomers can send
+                    - strong [ref=f156e68]:
+                      - link "landers" [ref=f156e69]:
+                        - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.07:_Key_Terms#lander
+                    - text: ", spacecraft that land on the surface. After many flybys of Mars, NASA sent the Viking mission. It consisted of twin spacecraft, each one consisting of both an orbiter and a lander. The Viking orbiters were able to relay signals from the landers back to Earth while also collecting images of the surface. The purpose of the Viking landers was to be able to study the Martian surface in ways that could not be done remotely, including several experiments designed to detect life on the Martian surface."
+                  - paragraph [ref=f156e70]:
+                    - text: The only downside of a lander is that it is stuck in one place. Sometimes landers include machines that can move across the surface, called
+                    - strong [ref=f156e71]:
+                      - link "rovers" [ref=f156e72]:
+                        - /url: /Workbench/De_Anza_-_ASTR10/05:_Astronomical_Instruments/5.07:_Key_Terms#rover
+                    - text: ". Decades after the Viking landers touched down on Mars, the Pathfinder mission successfully landed on the surface and released the Sojourner rover to explore the nearby rocks. The most recent rover on Mars is Zhurong, which functioned for 347 Martian days, much longer than its planned 90 Martian days, Figure \\(\\PageIndex{7}\\)."
+                  - figure [ref=f156e73]:
+                    - img "Zhurong rover and Tianwen-1 lander." [ref=f156e74]
+                    - generic [ref=f156e75]:
+                      - text: "Figure \\(\\PageIndex{7}\\): Zhurong rover with the Tianwen-1 lander, taken by the deployable Tianwen-1 Remote Camera on the surface of Mars. ("
+                      - link "CC BY 3.0" [ref=f156e76]:
+                        - /url: https://creativecommons.org/licenses/by/3.0
+                      - text: ;
+                      - link "China News Service Website" [ref=f156e77]:
+                        - /url: https://www.ecns.cn/
+                      - text: via
+                      - link "Wikimedia Commons" [ref=f156e78]:
+                        - /url: https://commons.wikimedia.org/wiki/File:Zhurong-with-lander-selfie-flat.jpg
+                      - text: ).
+                  - generic [ref=f156e79]:
+                    - 'heading "Further Exploration: Interactive Activity" [level=5] [ref=f156e80]'
+                    - list [ref=f156e82]:
+                      - listitem [ref=f156e83]:
+                        - text: Learn about NASA's
+                        - link "Stratospheric Observatory for Infrared Astronomy" [ref=f156e84]:
+                          - /url: https://science.nasa.gov/mission/sofia/
+                        - text: (SOFIA), a modified Boeing 747 that carried a powerful infrared telescope above most of Earth's atmosphere to study star formation, planetary systems, and the interstellar medium.
+                      - listitem [ref=f156e85]:
+                        - text: Explore the
+                        - link "Infrared Astronomical Satellite (IRAS)" [ref=f156e86]:
+                          - /url: https://www.jpl.nasa.gov/missions/infrared-astronomical-satellite-iras/
+                        - text: ", the first space telescope to conduct a complete all-sky infrared survey. IRAS laid the foundation for modern infrared astronomy by revealing previously hidden stars, galaxies, and other cosmic objects obscured at visible wavelengths."
+                      - listitem [ref=f156e87]:
+                        - text: Discover how
+                        - link "Spitzer" [ref=f156e88]:
+                          - /url: https://science.nasa.gov/mission/spitzer/
+                        - text: used infrared observations to investigate exoplanets, stellar nurseries, galaxies, and the distant universe.
+                      - listitem [ref=f156e89]:
+                        - text: Watch a behind-the-scenes tour of the
+                        - link "SOFIA" [ref=f156e90]:
+                          - /url: https://www.youtube.com/watch?v=g5z6fZKOtP4
+                        - text: observatory and learn how airborne infrared astronomy enabled observations impossible from the ground.
+                      - listitem [ref=f156e91]:
+                        - text: Explore NASA's
+                        - link "Flagship Infrared Observatory" [ref=f156e92]:
+                          - /url: https://science.nasa.gov/mission/webb/
+                        - text: ", which is investigating the earliest galaxies, exoplanet atmospheres, and the evolution of the universe."
+                      - listitem [ref=f156e93]:
+                        - text: Learn how astronomers use
+                        - link "X-ray Observations" [ref=f156e94]:
+                          - /url: https://chandra.harvard.edu/
+                        - text: to study black holes, supernova remnants, neutron stars, and other high-energy cosmic phenomena.
+                      - listitem [ref=f156e95]:
+                        - text: Discover
+                        - link "NASA's Mission" [ref=f156e96]:
+                          - /url: https://fermi.gsfc.nasa.gov/
+                        - text: for observing the universe in gamma rays, revealing extreme events such as pulsars, black holes, and gamma-ray bursts.
+                      - listitem [ref=f156e97]:
+                        - text: Explore
+                        - link "VERITAS (Very Energetic Radiation Imaging Telescope Array System)" [ref=f156e98]:
+                          - /url: https://arxiv.org/abs/astro-ph/0108478
+                        - text: a ground-based observatory that detects very high-energy gamma rays, complementing space-based missions studying energetic astrophysical sources.
+                      - listitem [ref=f156e99]:
+                        - text: Follow the historic
+                        - link "Voyager" [ref=f156e100]:
+                          - /url: https://science.nasa.gov/mission/voyager/
+                        - text: missions, which explored the outer planets and continue to send data from interstellar space.
+                      - listitem [ref=f156e101]:
+                        - text: Learn about the mission that provided humanity's first close-up views of
+                        - link "Pluto" [ref=f156e102]:
+                          - /url: https://science.nasa.gov/mission/new-horizons/
+                        - text: and continues to explore the Kuiper Belt.
+                      - listitem [ref=f156e103]:
+                        - text: Examine NASA's pioneering
+                        - link "Mars Mission" [ref=f156e104]:
+                          - /url: https://science.nasa.gov/mission/viking/
+                        - text: ", which achieved the first successful long-term operations on the Martian surface and searched for signs of life."
+                      - listitem [ref=f156e105]:
+                        - text: Discover China's first independent
+                        - link "Mars Mission" [ref=f156e106]:
+                          - /url: https://www.cnsa.gov.cn/english/n6465652/n6465653/c6809882/content.html
+                        - text: ", which successfully deployed an orbiter, lander, and rover to study the Red Planet."
+              - generic [ref=f154e313]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f154e315] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f154e95]:
+          - separator [ref=f154e96]
+          - paragraph [ref=f154e98]:
+            - 'link "5.5: Spacecraft" [ref=f154e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.05%3A_Spacecraft
+            - text: is shared under a
+            - link "CC BY" [ref=f154e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f154e101]:
+        - list [ref=f154e102]:
+          - listitem [ref=f154e103]:
+            - link "Back to top" [ref=f154e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f154e105]:
+            - list [ref=f154e106]:
+              - listitem [ref=f154e107]:
+                - 'link " 5.4: Radio Telescopes" [ref=f154e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.04%3A_Radio_Telescopes
+                  - text: 
+                  - generic [ref=f154e109]: "5.4: Radio Telescopes"
+              - listitem [ref=f154e110]:
+                - 'link "5.6: Ethics of Building Telescopes " [ref=f154e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/05%3A_Astronomical_Instruments/5.06%3A_Ethics_of_Building_Telescopes
+                  - generic [ref=f154e112]: "5.6: Ethics of Building Telescopes"
+                  - text: 
+        - list [ref=f154e115]:
+          - listitem [ref=f154e116]: Was this article helpful?
+          - listitem [ref=f154e117]:
+            - button "Yes" [ref=f154e118] [cursor=pointer]
+          - listitem [ref=f154e119]:
+            - button "No" [ref=f154e120] [cursor=pointer]
+          - listitem [ref=f154e121]:
+            - button "Leave feedback" [ref=f154e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f154e123]:
+          - heading "Attachments" [level=2] [ref=f154e124]
+          - generic:
+            - button "Attach a file" [ref=f154e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f154e127]:
+            - generic [ref=f154e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f154e131]
+            - generic [ref=f154e132]:
+              - grid [ref=f154e135]:
+                - rowgroup [ref=f154e136]:
+                  - row [ref=f154e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f154e138]':
+                      - generic:
+                        - generic [ref=f154e139]: File
+                        - generic [ref=f154e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f154e141]':
+                      - generic:
+                        - generic [ref=f154e142]: Last modified
+                        - generic [ref=f154e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f154e144]':
+                      - generic:
+                        - generic [ref=f154e145]: Size
+                        - generic [ref=f154e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f154e147]':
+                      - generic:
+                        - generic [ref=f154e148]: Added by
+                        - generic [ref=f154e149]: 
+              - grid [ref=f154e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f154e316]: File
+                          - generic [ref=f154e317]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f154e318]: Last modified
+                          - generic [ref=f154e319]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f154e320]: Size
+                          - generic [ref=f154e321]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f154e322]: Added by
+                          - generic [ref=f154e323]: 
+                - rowgroup [ref=f154e160]:
+                  - row [ref=f154e324]:
+                    - gridcell " 256px-Deployment_of_the_Hubble_Space_Telescope_(28248653761).jpg (no description)" [ref=f154e325]:
+                      - generic [ref=f154e326]:
+                        - generic [ref=f154e327]:
+                          - generic [ref=f154e328]: 
+                          - link "256px-Deployment_of_the_Hubble_Space_Telescope_(28248653761).jpg" [ref=f154e329] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/66447/256px-Deployment_of_the_Hubble_Space_Telescope_(28248653761).jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f154e330]:
+                          - generic [ref=f154e331]: (no description)
+                          - text: 
+                    - gridcell "Feb 12, 2026, 4:11 PM" [ref=f154e332]
+                    - gridcell "10 KiB" [ref=f154e334]
+                    - gridcell "Rachel Mastrapa" [ref=f154e335]
+                  - row [ref=f154e336]:
+                    - gridcell " 512px-Deployment_of_the_Hubble_Space_Telescope_(28248653761).jpg (no description)" [ref=f154e337]:
+                      - generic [ref=f154e338]:
+                        - generic [ref=f154e339]:
+                          - generic [ref=f154e340]: 
+                          - link "512px-Deployment_of_the_Hubble_Space_Telescope_(28248653761).jpg" [ref=f154e341] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/66448/512px-Deployment_of_the_Hubble_Space_Telescope_(28248653761).jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f154e342]:
+                          - generic [ref=f154e343]: (no description)
+                          - text: 
+                    - gridcell "Feb 12, 2026, 4:13 PM" [ref=f154e344]
+                    - gridcell "34 KiB" [ref=f154e346]
+                    - gridcell "Rachel Mastrapa" [ref=f154e347]
+                  - row [ref=f154e348]:
+                    - gridcell " 512px-JWST_spacecraft_model_3.png (no description)" [ref=f154e349]:
+                      - generic [ref=f154e350]:
+                        - generic [ref=f154e351]:
+                          - generic [ref=f154e352]: 
+                          - link "512px-JWST_spacecraft_model_3.png" [ref=f154e353] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/66452/512px-JWST_spacecraft_model_3.png?origin=mt-web
+                          - text:   
+                        - generic [ref=f154e354]:
+                          - generic [ref=f154e355]: (no description)
+                          - text: 
+                    - gridcell "Feb 13, 2026, 4:10 PM" [ref=f154e356]
+                    - gridcell "176 KiB" [ref=f154e358]
+                    - gridcell "Rachel Mastrapa" [ref=f154e359]
+                  - row [ref=f154e360]:
+                    - gridcell " 512px-Zhurong-with-lander-selfie-flat.jpg (no description)" [ref=f154e361]:
+                      - generic [ref=f154e362]:
+                        - generic [ref=f154e363]:
+                          - generic [ref=f154e364]: 
+                          - link "512px-Zhurong-with-lander-selfie-flat.jpg" [ref=f154e365] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/66455/512px-Zhurong-with-lander-selfie-flat.jpg?origin=mt-web
+                          - text:   
+                        - generic [ref=f154e366]:
+                          - generic [ref=f154e367]: (no description)
+                          - text: 
+                    - gridcell "Feb 16, 2026, 1:59 PM" [ref=f154e368]
+                    - gridcell "24 KiB" [ref=f154e370]
+                    - gridcell "Rachel Mastrapa" [ref=f154e371]
+                  - row [ref=f154e372]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f154e373]:
+                      - generic [ref=f154e374]:
+                        - generic [ref=f154e375]:
+                          - generic [ref=f154e376]: 
+                          - link "mindtouch.page#thumbnail" [ref=f154e377] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63431/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f154e378]:
+                          - generic [ref=f154e379]: (no description)
+                          - text: 
+                    - gridcell "Dec 7, 2025, 6:55 PM" [ref=f154e380]
+                    - gridcell "11 KiB" [ref=f154e382]
+                    - gridcell "Rachel Mastrapa" [ref=f154e383]
+    - generic [ref=f154e164]:
+      - button "Open support menu" [ref=f154e166] [cursor=pointer]: "?"
+      - navigation [ref=f154e168]:
+        - paragraph [ref=f154e170]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f154e171] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f154e172] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f154e173] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f154e174] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f154e175] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f154e176]:
+      - generic:
+        - generic [ref=f154e178]:
+          - button "Annotation sidebar" [ref=f154e179]
+          - generic [ref=f154e184]:
+            - button "Show highlights" [ref=f154e185]
+            - button "New page note" [ref=f154e190]
+          - status [ref=f154e195]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f154e196]:
+    - button "contents" [ref=f154e197] [cursor=pointer]
+    - button "readability" [ref=f154e199] [cursor=pointer]
+    - button "resources" [ref=f154e201] [cursor=pointer]
+    - button "tools" [ref=f154e203] [cursor=pointer]
+    - button "developers" [ref=f154e205] [cursor=pointer]
+  - text:  
+  - generic [ref=f154e384]:
+    - generic [ref=f154e385] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f154e388] [cursor=pointer]

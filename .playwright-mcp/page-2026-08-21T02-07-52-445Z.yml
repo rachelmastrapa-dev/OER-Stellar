@@ -1,0 +1,271 @@
+- generic [active] [ref=f244e1]:
+  - link "Skip to main content" [ref=f244e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f244e3]:
+    - text: 
+    - generic [ref=f244e4]:
+      - generic [ref=f244e5]:
+        - generic: ✕
+        - navigation [ref=f244e7]:
+          - generic [ref=f244e8]:
+            - link [ref=f244e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f244e11]
+            - button "Enter Reader Mode" [ref=f244e13] [cursor=pointer]:
+              - generic [ref=f244e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f244e16]:
+        - list [ref=f244e18]:
+          - listitem [ref=f244e19]:
+            - link [ref=f244e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f244e22]
+          - listitem [ref=f244e23]:
+            - text: 
+            - generic [ref=f244e25]:
+              - generic [ref=f244e26]: "Search :"
+              - searchbox "Search :" [ref=f244e27]
+              - button " Search" [ref=f244e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f244e29]:
+            - list [ref=f244e30]:
+              - listitem [ref=f244e31]:
+                - link "Edit" [ref=f244e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.05%3A_Variable_Stars-_One_Key_to_Cosmic_Distances?action=edit
+              - text: 
+              - listitem [ref=f244e33]:
+                - link " Options" [ref=f244e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f244e35]:
+                - link " Rachel Mastrapa" [ref=f244e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f244e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f244e38] [cursor=pointer]
+          - list [ref=f244e39]:
+            - listitem [ref=f244e40]:
+              - link " Home" [ref=f244e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f244e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f244e43]:
+              - link " Workbench" [ref=f244e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f244e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f244e46]:
+              - link " De Anza - ASTR10" [ref=f244e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f244e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f244e49]:
+              - 'link " 8: Stellar Tracking" [ref=f244e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking
+                - generic [ref=f244e51]: 
+                - text: "8: Stellar Tracking"
+              - text: »
+            - listitem [ref=f244e52]:
+              - generic [ref=f244e53]: 
+              - text: "8.5: Variable Stars- One Key to Cosmic Distances"
+          - button " Expand/collapse global location" [ref=f244e54] [cursor=pointer]
+      - navigation
+    - article [ref=f244e55]:
+      - generic [ref=f244e56]:
+        - generic [ref=f244e57]:
+          - button " Page settings" [ref=f244e58] [cursor=pointer]
+          - text: "   :  :  :  :  :  :  :  :  :  :  :  :  :          "
+        - 'heading "8.5: Variable Stars- One Key to Cosmic Distances" [level=1] [ref=f244e59]'
+        - list [ref=f244e62]:
+          - listitem [ref=f244e63]:
+            - link [ref=f244e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f244e66]:
+                - img "CC" [ref=f244e67]
+                - img "BY" [ref=f244e68]
+          - listitem [ref=f244e69]:
+            - generic [ref=f244e70]:
+              - term [ref=f244e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f244e72]: Dec 28, 2025, 5:24 PM by Rachel Mastrapa
+          - listitem [ref=f244e73]:
+            - generic [ref=f244e74]:
+              - term [ref=f244e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f244e76]: Private
+          - listitem [ref=f244e77]:
+            - generic [ref=f244e78]:
+              - term [ref=f244e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f244e80]: "139472"
+          - listitem [ref=f244e81]:
+            - list [ref=f244e82]:
+              - listitem [ref=f244e83]:
+                - button "Pin Page" [ref=f244e84] [cursor=pointer]: 
+              - listitem
+              - text: 
+              - listitem [ref=f244e85]:
+                - list [ref=f244e86]:
+                  - listitem [ref=f244e87]:
+                    - 'link " 8.4: Parallax and Naming Stars" [ref=f244e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.04%3A_Parallax_and_Naming_Stars
+                      - text: 
+                      - generic [ref=f244e89]: "8.4: Parallax and Naming Stars"
+                  - listitem [ref=f244e90]:
+                    - 'link "8.6: The H-R and Cosmic Distances " [ref=f244e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.06%3A_The_H-R_and_Cosmic_Distances
+                      - generic [ref=f244e92]: "8.6: The H-R and Cosmic Distances"
+                      - text: 
+              - listitem
+      - list [ref=f244e95]:
+        - listitem [ref=f244e96]:
+          - img "OpenStax" [ref=f244e97]
+        - listitem [ref=f244e98]:
+          - link "OpenStax" [ref=f244e99] [cursor=pointer]:
+            - /url: https://openstax.org/
+        - listitem [ref=f244e100]:
+          - link "OpenStax" [ref=f244e101] [cursor=pointer]:
+            - /url: https://openstax.org
+      - complementary
+      - text: 
+      - generic [ref=f244e102]:
+        - paragraph [ref=f244e103]
+        - generic [ref=f244e104]:
+          - separator [ref=f244e105]
+          - paragraph [ref=f244e107]:
+            - text: This page titled
+            - 'link "8.5: Variable Stars- One Key to Cosmic Distances" [ref=f244e108] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.05%3A_Variable_Stars-_One_Key_to_Cosmic_Distances
+            - text: is shared under a
+            - link "CC BY 4.0" [ref=f244e109] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0
+            - text: license and was authored, remixed, and/or curated by
+            - link "OpenStax" [ref=f244e110] [cursor=pointer]:
+              - /url: https://openstax.org/
+            - text: via
+            - link "source content" [ref=f244e111] [cursor=pointer]:
+              - /url: https://openstax.org/details/books/astronomy
+            - text: that was edited to the style and standards of the LibreTexts platform.
+      - generic [ref=f244e112]:
+        - list [ref=f244e113]:
+          - listitem [ref=f244e114]:
+            - link "Back to top" [ref=f244e115] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f244e116]:
+            - list [ref=f244e117]:
+              - listitem [ref=f244e118]:
+                - 'link " 8.4: Parallax and Naming Stars" [ref=f244e119] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.04%3A_Parallax_and_Naming_Stars
+                  - text: 
+                  - generic [ref=f244e120]: "8.4: Parallax and Naming Stars"
+              - listitem [ref=f244e121]:
+                - 'link "8.6: The H-R and Cosmic Distances " [ref=f244e122] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/08%3A_Stellar_Tracking/8.06%3A_The_H-R_and_Cosmic_Distances
+                  - generic [ref=f244e123]: "8.6: The H-R and Cosmic Distances"
+                  - text: 
+        - list [ref=f244e126]:
+          - listitem [ref=f244e127]: Was this article helpful?
+          - listitem [ref=f244e128]:
+            - button "Yes" [ref=f244e129] [cursor=pointer]
+          - listitem [ref=f244e130]:
+            - button "No" [ref=f244e131] [cursor=pointer]
+          - listitem [ref=f244e132]:
+            - button "Leave feedback" [ref=f244e133] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : : : : : , , , , , , ,"
+        - generic [ref=f244e134]:
+          - heading "Attachments" [level=2] [ref=f244e135]
+          - generic:
+            - button "Attach a file" [ref=f244e136] [cursor=pointer]
+            - text: 
+          - generic [ref=f244e138]:
+            - generic [ref=f244e141]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f244e142]
+            - generic [ref=f244e143]:
+              - grid [ref=f244e146]:
+                - rowgroup [ref=f244e147]:
+                  - row [ref=f244e148]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f244e149]':
+                      - generic:
+                        - generic [ref=f244e150]: File
+                        - generic [ref=f244e151]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f244e152]':
+                      - generic:
+                        - generic [ref=f244e153]: Last modified
+                        - generic [ref=f244e154]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f244e155]':
+                      - generic:
+                        - generic [ref=f244e156]: Size
+                        - generic [ref=f244e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f244e158]':
+                      - generic:
+                        - generic [ref=f244e159]: Added by
+                        - generic [ref=f244e160]: 
+              - grid [ref=f244e162]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f244e163]: File
+                          - generic [ref=f244e164]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f244e165]: Last modified
+                          - generic [ref=f244e166]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f244e167]: Size
+                          - generic [ref=f244e168]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f244e169]: Added by
+                          - generic [ref=f244e170]: 
+                - rowgroup [ref=f244e171]:
+                  - row [ref=f244e172]:
+                    - gridcell "No files attached." [ref=f244e173]
+    - generic [ref=f244e175]:
+      - button "Open support menu" [ref=f244e177] [cursor=pointer]: "?"
+      - navigation [ref=f244e179]:
+        - paragraph [ref=f244e181]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f244e182] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f244e183] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f244e184] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f244e185] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f244e186] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f244e187]:
+      - generic:
+        - generic [ref=f244e189]:
+          - button "Annotation sidebar" [ref=f244e190]
+          - generic [ref=f244e195]:
+            - button "Show highlights" [ref=f244e196]
+            - button "New page note" [ref=f244e201]
+          - status [ref=f244e206]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f244e207]:
+    - button "contents" [ref=f244e208] [cursor=pointer]
+    - button "readability" [ref=f244e210] [cursor=pointer]
+    - button "resources" [ref=f244e212] [cursor=pointer]
+    - button "tools" [ref=f244e214] [cursor=pointer]
+    - button "developers" [ref=f244e216] [cursor=pointer]

@@ -1,0 +1,319 @@
+- generic [ref=f119e1]:
+  - link "Skip to main content" [ref=f119e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f119e3]:
+    - text: 
+    - generic [ref=f119e4]:
+      - generic [ref=f119e5]:
+        - generic: ✕
+        - navigation [ref=f119e7]:
+          - generic [ref=f119e8]:
+            - link [ref=f119e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f119e11]
+            - button "Enter Reader Mode" [ref=f119e13] [cursor=pointer]:
+              - generic [ref=f119e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f119e16]:
+        - list [ref=f119e18]:
+          - listitem [ref=f119e19]:
+            - link [ref=f119e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f119e22]
+          - listitem [ref=f119e23]:
+            - text: 
+            - generic [ref=f119e25]:
+              - generic [ref=f119e26]: "Search :"
+              - searchbox "Search :" [ref=f119e27]
+              - button " Search" [ref=f119e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f119e29]:
+            - list [ref=f119e30]:
+              - listitem [ref=f119e31]:
+                - link "Edit" [ref=f119e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.06%3A_Stellar_Characteristics?action=edit
+              - text: 
+              - listitem [ref=f119e33]:
+                - link " Options" [ref=f119e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f119e35]:
+                - link " Rachel Mastrapa" [ref=f119e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f119e37]:
+        - generic:
+          - button " Contents" [ref=f119e217] [cursor=pointer]
+          - list [ref=f119e39]:
+            - listitem [ref=f119e40]:
+              - link " Home" [ref=f119e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f119e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f119e43]:
+              - link " Workbench" [ref=f119e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f119e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f119e46]:
+              - link " De Anza - ASTR10" [ref=f119e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f119e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f119e49]:
+              - 'link " 4: Stellar Spectra" [ref=f119e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra
+                - generic [ref=f119e51]: 
+                - text: "4: Stellar Spectra"
+              - text: »
+            - listitem [ref=f119e52]:
+              - generic [ref=f119e53]: 
+              - text: "4.6: Stellar Characteristics"
+          - button " Expand/collapse global location" [ref=f119e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                 
+    - article [ref=f119e55]:
+      - generic [ref=f119e56]:
+        - generic [ref=f119e57]:
+          - button " Page settings" [ref=f119e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "4.6: Stellar Characteristics" [level=1] [ref=f119e59]':
+          - generic [ref=f119e60]: "4.6: Stellar Characteristics "
+        - list [ref=f119e62]:
+          - listitem [ref=f119e63]:
+            - link [ref=f119e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f119e66]:
+                - img "CC" [ref=f119e67]
+                - img "BY" [ref=f119e68]
+          - listitem [ref=f119e69]:
+            - generic [ref=f119e70]:
+              - term [ref=f119e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f119e72]: Aug 3, 2026, 3:23 PM by Jyothsna Viswanadha
+          - listitem [ref=f119e73]:
+            - generic [ref=f119e74]:
+              - term [ref=f119e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f119e76]: Private
+          - listitem [ref=f119e77]:
+            - generic [ref=f119e78]:
+              - term [ref=f119e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f119e80]: "132880"
+          - listitem [ref=f119e81]:
+            - list [ref=f119e82]:
+              - listitem [ref=f119e83]:
+                - button "Pin Page" [ref=f119e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f119e85]:
+                - list [ref=f119e86]:
+                  - listitem [ref=f119e87]:
+                    - 'link " 4.5: Brown Dwarfs" [ref=f119e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.05%3A_Brown_Dwarfs
+                      - text: 
+                      - generic [ref=f119e89]: "4.5: Brown Dwarfs"
+                  - listitem [ref=f119e90]:
+                    - 'link "4.7: Accessibility Through Sonification " [ref=f119e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.07%3A_Accessibility_Through_Sonification
+                      - generic [ref=f119e92]: "4.7: Accessibility Through Sonification"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f119e93]:
+        - group [ref=f119e220]:
+          - generic [ref=f119e221]:
+            - generic [ref=f119e222]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f119e223]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f119e224]:
+            - generic [ref=f119e227]:
+              - generic [ref=f119e229]:
+                - link "Edit" [ref=f119e230]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f119e231]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f119e232]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f119e233]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f119e234]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f119e235]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f119e238]:
+                - toolbar [ref=f119e239]:
+                  - button "Save" [ref=f119e240]:
+                    - generic [ref=f119e241]: 
+                  - button "Cancel" [ref=f119e243]:
+                    - generic [ref=f119e244]: 
+                - text:          
+                - toolbar [ref=f119e285]:
+                  - button "Alignment" [ref=f119e286]:
+                    - generic [ref=f119e287]: 
+                - text:    
+                - toolbar [ref=f119e300]:
+                  - button "Replace" [ref=f119e301]:
+                    - generic [ref=f119e302]: 
+                - toolbar [ref=f119e304]:
+                  - button "Enable Binder" [disabled] [ref=f119e305]
+                  - button "Insert Adapt" [disabled] [ref=f119e307]
+                  - button "Query" [ref=f119e309]
+                  - button "Accessibility Checker" [disabled] [ref=f119e312]
+                - toolbar [ref=f119e315]:
+                  - button "Visual" [pressed] [ref=f119e331]:
+                    - generic [ref=f119e317]: 
+            - application "Rich Text Editor, editarea" [ref=f119e319]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f119e333]: "<h2>Decoding Light</h2> <p>Analyzing the spectrum of a star can teach us all kinds of things in addition to its temperature. We can measure its detailed chemical composition as well as the pressure in its atmosphere. From the pressure, we get clues about its size. We can also measure its motion toward or away from us and estimate its rotation.</p> <h2 class=\"lt-phys-64760\">Stellar Composition</h2> <p class=\"lt-phys-64760\">Absorption lines of a majority of the known chemical elements have now been identified in the spectra of the Sun and stars. If we see lines of iron in a star’s spectrum, for example, then we know immediately that the star must contain iron.</p> <p class=\"lt-phys-64760\">Note that the absence of an element’s spectral lines does not necessarily mean that the element itself is absent. As we saw, the temperature and pressure in a star’s atmosphere will determine what types of atoms are able to produce absorption lines. Only if the physical conditions in a star’s photosphere are such that lines of an element should be there can we conclude that the absence of observable spectral lines implies a&nbsp;low abundance of the element.</p> <p class=\"lt-phys-64760\">Suppose two stars have identical temperatures and pressures, but the lines of, say, sodium are stronger in one than in the other. Stronger lines mean that there are more atoms in the stellar photosphere absorbing light. Therefore, we know immediately that the star with stronger sodium lines contains more sodium. Complex calculations are required to determine exactly how much more, but those calculations can be done for any element observed in any star with any temperature and pressure.</p> <p class=\"lt-phys-64760\">Of course, astronomy textbooks such as ours always make these things sound a bit easier than they really are. If you look at the stellar spectra,&nbsp;you may get some feeling for how hard it is to decode all of the information contained in the thousands of absorption lines. First of all, it has taken many years of careful laboratory work on Earth to determine the precise wavelengths at which hot gases of each element have their spectral lines. Long books and computer databases have been compiled to show the lines of each element that can be seen at each temperature. Second, stellar spectra usually have many lines from a number of elements, and we must be careful to sort them out correctly. Sometimes nature is unhelpful, and lines of different elements have identical wavelengths, thereby adding to the confusion. And third,&nbsp;the motion of the star can change the observed wavelength of each of the lines. So, the observed wavelengths may not match laboratory measurements exactly. In practice, analyzing stellar spectra is a demanding, sometimes frustrating task that requires both training and skill.</p> <p class=\"lt-phys-64760\">Studies of stellar spectra have shown that hydrogen makes up about three-quarters of the mass of most stars. Helium is the second-most abundant element, making up almost a quarter of a star’s mass. Together, hydrogen and helium make up from 96 to 99% of the mass; in some stars, they amount to more than 99.9%. Among the 4% or less of heavier&nbsp;elements,&nbsp;oxygen, carbon, neon, iron, nitrogen, silicon, magnesium, and sulfur are among the most abundant. Generally, but not invariably, the elements of lower atomic weight are more abundant than those of higher atomic weight.</p> <p class=\"lt-phys-64760\">Take a careful look at the list of elements in the preceding paragraph. Two of the most abundant are hydrogen and oxygen which make up water.&nbsp;Add carbon and nitrogen and you are starting to write the prescription for the chemistry of an astronomy student. We are made of elements that are common in the universe, just mixed together in a far more sophisticated form and a much cooler environment&nbsp;than in a star.</p> <p class=\"lt-phys-64760\">Astronomers use the term \"metals” to refer to all elements heavier than hydrogen and helium. The fraction of a star’s mass that is composed of these elements is referred to as the star’s metallicity. The metallicity of the Sun, for example, is 0.02, since 2% of the Sun’s mass is made of elements heavier than helium.</p> <p class=\"lt-phys-64760\">Table 4.1.2 lists how common each element is in the universe compared to hydrogen. These estimates are based primarily on investigation of the Sun, which is a typical star. Some very rare elements, however, have not been detected in the Sun. Estimates of the amounts of these elements in the universe are based on laboratory measurements of their abundance in primitive meteorites, which are considered representative of unaltered material condensed from the solar nebula.</p> <h2 class=\"lt-phys-64760\">Stellar Sizes</h2> <p class=\"lt-phys-64760\">Stars come in a wide variety of sizes. At some periods in their lives, stars can expand to enormous dimensions. Stars of such exaggerated size are called <span data-type=\"term\" group-by=\"g\">giants</span>. Luckily for the astronomer, stellar spectra can be used to distinguish giants from common stars such as our Sun.</p> <p class=\"lt-phys-64760\">Suppose you want to determine whether a star is a giant. A giant star has a large, extended photosphere. Because it is so large, a giant star’s atoms are spread over a great volume, which means that the density of particles in the star’s photosphere is low. As a result, the pressure in a giant star’s photosphere is also low. This low pressure affects the spectrum in two ways. First, a star with a lower-pressure photosphere shows narrower spectral lines than a star of the same temperature with a higher-pressure photosphere, Figure \\(\\PageIndex{1}\\). The difference is large enough that careful study of spectra can tell which of two stars at the same temperature has a higher pressure and which has a lower pressure. This effect is due to collisions between particles in the star’s photosphere as more collisions lead to broader spectral lines. Collisions will, of course, be more frequent in a higher-density environment. Using traffic as an analogy, collisions are much more likely during rush hour, when the density of cars is high.</p> <p class=\"lt-phys-64760\">More atoms are ionized in a giant star than in a star like the Sun with the same temperature. The ionization of atoms in a star’s outer layers is caused mainly by photons, and the amount of energy carried by photons is determined by temperature. But how long atoms stay ionized depends in part on pressure. Compared with what happens in the Sun with its relatively dense photosphere, ionized atoms in a giant star’s photosphere are less likely to pass close enough to electrons to interact and combine with one or more of them, thereby becoming neutral again. Ionized atoms, as we discussed earlier, have different spectra from atoms that are neutral.</p> <figure><img alt=\"The effect of stellar pressure on spectral lines. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/45954/70c414e9e2a99a048e9952263853ab91d825e99d\" /> <figcaption>Figure \\(\\PageIndex{1}\\):&nbsp;Stars of the same temperature but different pressures have distinct differences in their spectral lines. A giant star with a very-low-pressure photosphere shows very narrow spectral lines (bottom), whereas a smaller star with a higher-pressure photosphere shows much broader spectral lines (top). <span class=\"mt-bgcolor-f1c40f\">(</span><a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\"><span class=\"mt-bgcolor-f1c40f\">CC BY 4.0</span></a><span class=\"mt-bgcolor-f1c40f\">; </span><a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\"><span class=\"mt-bgcolor-f1c40f\">Fraknoi</span><span class=\"mt-bgcolor-f1c40f\">, et al.</span></a><span class=\"mt-bgcolor-f1c40f\"> via </span><a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\"><span class=\"mt-bgcolor-f1c40f\">Openstax</span><span class=\"mt-bgcolor-f1c40f\"> Astronomy </span><span class=\"mt-bgcolor-f1c40f\">2nd</span><span class=\"mt-bgcolor-f1c40f\"> ed.</span></a><span class=\"mt-bgcolor-f1c40f\">).&nbsp;</span><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.09:_Accessible_Descriptions#Figure_4.6.1_Pressure_Effect_on_Spectral_Lines\" title=\"4.9: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{1}\\)</a>.</figcaption> </figure> <h2 class=\"lt-phys-64760\">Stellar Rotation</h2> <p class=\"lt-phys-64760\">We can also use the Doppler effect to measure how fast a star rotates. If an object is rotating, unless its axis of rotation happens to be pointed exactly toward us, then one of its sides is approaching us while the other is receding. Astronomers&nbsp;can observe the light from either the approaching or receding edge of&nbsp;nearby objects, like planets, and directly measure the Doppler shifts that arise from the rotation.</p> <p class=\"lt-phys-64760\">Stars, however, are so far away that they all appear as unresolved points. The best we can do is to analyze the light from the entire star at once. Due to the Doppler effect, the lines in the light that come from the side of the star rotating toward us are shifted to shorter wavelengths and the lines in the light from the opposite edge of the star are shifted to longer wavelengths. You can think of each spectral line that we observe as the sum or composite of spectral lines originating from different speeds with respect to us. Each point on the star has its own Doppler shift, so the absorption line we see from the whole star is actually much wider than it would be if the star were not rotating. If a star is rotating rapidly, there will be a greater spread of Doppler shifts and all its spectral lines should be quite broad. In fact, astronomers call this effect line broadening, and the amount of broadening can tell us the speed at which the star rotates, Figure \\(\\PageIndex{2}\\).</p> <figure><img alt=\"Spectral lines of rotating stars. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/45960/683862535775d5d3120ce7eadf7c6cf505500440\" /> <figcaption>Figure \\(\\PageIndex{2}\\):&nbsp;A rotating star will show broader spectral lines than a non-rotating star. <span class=\"mt-bgcolor-f1c40f\">(</span><a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\"><span class=\"mt-bgcolor-f1c40f\">CC BY 4.0</span></a><span class=\"mt-bgcolor-f1c40f\">; </span><a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\"><span class=\"mt-bgcolor-f1c40f\">Fraknoi</span><span class=\"mt-bgcolor-f1c40f\">, et al.</span></a><span class=\"mt-bgcolor-f1c40f\"> via </span><a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\"><span class=\"mt-bgcolor-f1c40f\">Openstax</span><span class=\"mt-bgcolor-f1c40f\"> Astronomy </span><span class=\"mt-bgcolor-f1c40f\">2nd</span><span class=\"mt-bgcolor-f1c40f\"> ed</span></a><span class=\"mt-bgcolor-f1c40f\">).</span> <a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.09:_Accessible_Descriptions#Figure_4.6.2_Stellar_Rotation_and_Spectroscopy\" title=\"4.9: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{2}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64760\">Measurements of the widths of spectral lines show that many stars rotate faster than the Sun, some with periods of less than a day! These rapid rotators spin so fast that their shapes are flattened into what we call oblate spheroids. An example of this is the star Vega, which rotates once every 12.5 hours. Vega’s rotation flattens its shape so much that its diameter at the equator is 23% wider than its diameter at the poles, Figure \\(\\PageIndex{3}\\). The Sun, with its rotation period of about a month, rotates rather slowly. Studies have shown that stars decrease their rotational speed as they age. Young stars rotate very quickly, with rotational periods of days or less. Very old stars can have rotation periods of several months.</p> <figure><img alt=\"Comparison of the shape of the Sun and Altair. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/45959/b8fb989de9a09d858cfe7ddda8652ca9c525841d\" /> <figcaption>Figure \\(\\PageIndex{3}\\): Comparison of Rotating Stars. This illustration compares the more rapidly rotating star Altair to the slower rotating Sun. Since Altair rotates at a higher rate, it is broader at its equator than the Sun, forming an oblate spheroid. <span class=\"mt-bgcolor-f1c40f\">(</span><a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\"><span class=\"mt-bgcolor-f1c40f\">CC BY 4.0</span></a><span class=\"mt-bgcolor-f1c40f\">; </span><a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\"><span class=\"mt-bgcolor-f1c40f\">Fraknoi</span><span class=\"mt-bgcolor-f1c40f\">, et al.</span></a><span class=\"mt-bgcolor-f1c40f\"> via </span><a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\"><span class=\"mt-bgcolor-f1c40f\">Openstax</span><span class=\"mt-bgcolor-f1c40f\"> Astronomy </span><span class=\"mt-bgcolor-f1c40f\">2nd</span><span class=\"mt-bgcolor-f1c40f\"> ed</span></a><span class=\"mt-bgcolor-f1c40f\">).</span>&nbsp;<a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.09:_Accessible_Descriptions#Figure_4.6.3_Comparison_of_Rotating_Stars\" title=\"4.9: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{3}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64760\">Spectroscopy is an extremely powerful technique that helps us learn all kinds of information about stars that we simply could not gather any other way. We will see in later chapters that these same techniques can also teach us about galaxies, which are the most distant objects that can we observe. Without spectroscopy, we would know next to nothing about the universe beyond the solar system.</p> <h2 class=\"lt-phys-64760\">Radial Velocity</h2> <p class=\"lt-phys-64760\">When we measure the spectrum of a star, we determine the wavelength of each of its lines. If the star is not moving with respect to the Sun, then the wavelength corresponding to each element will be the same as those we measure in a laboratory here on Earth. But if stars are moving toward or away from us, we must consider the Doppler effect. We should see all the spectral lines of moving stars shifted toward the red end of the spectrum if the star is moving away from us, or toward the blue end if it is moving toward us, Figure \\(\\PageIndex{4}\\). The greater the shift, the faster the star is moving. Such motion, along the line of sight between the star and the observer, is called radial velocity and is usually measured in kilometers per second.</p> <figure><img alt=\"Spectra with Doppler shift. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/45955/3ddfbb09b311b3bb8d59ee34bd2a43a9865fa225\" /> <figcaption>Figure \\(\\PageIndex{4}\\):&nbsp;When the spectral lines of a moving star shift toward the red end of the spectrum, we know that the star is moving away from us. If they shift toward the blue end, the star is moving toward us. <span class=\"mt-bgcolor-f1c40f\">(</span><a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\"><span class=\"mt-bgcolor-f1c40f\">CC BY 4.0</span></a><span class=\"mt-bgcolor-f1c40f\">; </span><a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\"><span class=\"mt-bgcolor-f1c40f\">Fraknoi</span><span class=\"mt-bgcolor-f1c40f\">, et al.</span></a><span class=\"mt-bgcolor-f1c40f\"> via </span><a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\"><span class=\"mt-bgcolor-f1c40f\">Openstax</span><span class=\"mt-bgcolor-f1c40f\"> Astronomy </span><span class=\"mt-bgcolor-f1c40f\">2nd</span><span class=\"mt-bgcolor-f1c40f\"> ed.</span></a><span class=\"mt-bgcolor-f1c40f\">).</span>&nbsp;<a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.09:_Accessible_Descriptions#Figure_4.6.4_Doppler_Shifted_Stars\" title=\"4.9: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{4}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64760\">In 1868, William Huggins made the first radial velocity determination of a star. He observed the Doppler shift in one of the hydrogen lines in the spectrum of Sirius and found that this star is moving toward the Solar System. Later measurements now indicate that Sirius is actually moving away, but Huggins is still celebrated as a pioneer in making such measurements. Today, radial velocity can be measured for any star bright enough for its spectrum to be observed. Radial velocity measurements of double stars are crucial in deriving stellar masses.</p> <h2 class=\"lt-phys-64760\">Proper Motion</h2> <p class=\"lt-phys-64760\">There is another type of motion stars can have that cannot be detected with stellar spectra. Unlike radial motion, which is along our line of sight, toward or away from Earth,&nbsp;<span data-type=\"term\" group-by=\"p\">proper motion</span>, is transverse, or across our line of sight. We see it as a change in the relative positions of the stars in the sky, Figure \\(\\PageIndex{5}\\). These changes are very slow. Even the star with the largest proper motion takes 200 years to change its position in the sky by an amount equal to the width of the full Moon, and the motions of other stars are smaller yet.</p> <figure><img alt=\"Proper motion of Barnard's star. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/45956/892f6922b6c8da21d9c18a2e10694436cc37823e\" /> <figcaption>Figure \\(\\PageIndex{5}\\):&nbsp;Barnard’s star, the star with the largest known proper motion, has moved over a period of 20 years. <span class=\"mt-bgcolor-f1c40f\">(</span><a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\"><span class=\"mt-bgcolor-f1c40f\">CC BY 4.0</span></a><span class=\"mt-bgcolor-f1c40f\">; </span><a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\"><span class=\"mt-bgcolor-f1c40f\">Fraknoi</span><span class=\"mt-bgcolor-f1c40f\">, et al.</span></a><span class=\"mt-bgcolor-f1c40f\"> via </span><a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\"><span class=\"mt-bgcolor-f1c40f\">Openstax</span><span class=\"mt-bgcolor-f1c40f\"> Astronomy </span><span class=\"mt-bgcolor-f1c40f\">2nd</span><span class=\"mt-bgcolor-f1c40f\"> ed.</span></a><span class=\"mt-bgcolor-f1c40f\">).</span>&nbsp;<a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.09:_Accessible_Descriptions#Figure_4.6.5_Proper_Motion\" title=\"4.9: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{5}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64760\">For this reason, with our naked eyes, we do not notice any change in the positions of the bright stars during the course of a human lifetime. If we could live long enough, however, the changes would become obvious. For example, some 50,000 years from now, terrestrial observers will find the handle of the Big Dipper unmistakably more bent than it is now Figure \\(\\PageIndex{6}\\).</p> <figure><img alt=\"Proper motion of Big Dipper stars. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/45953/1cb88d3a39f541bf37e131eba399663a9252bb7f\" /> <figcaption>Figure \\(\\PageIndex{6}\\):&nbsp;This figure shows changes in the appearance of the Big Dipper due to proper motion of the stars over 100,000 years. <span class=\"mt-bgcolor-f1c40f\">(</span><a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\"><span class=\"mt-bgcolor-f1c40f\">CC BY 4.0</span></a><span class=\"mt-bgcolor-f1c40f\">; </span><a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\"><span class=\"mt-bgcolor-f1c40f\">Fraknoi</span><span class=\"mt-bgcolor-f1c40f\">, et al.</span></a><span class=\"mt-bgcolor-f1c40f\"> via </span><a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\"><span class=\"mt-bgcolor-f1c40f\">Openstax</span><span class=\"mt-bgcolor-f1c40f\"> Astronomy </span><span class=\"mt-bgcolor-f1c40f\">2nd</span><span class=\"mt-bgcolor-f1c40f\"> ed.</span></a><span class=\"mt-bgcolor-f1c40f\">).</span>&nbsp;<a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.09:_Accessible_Descriptions#Figure_4.6.6_Changes_in_the_Big_Dipper\" title=\"4.9: Accessible Descriptions\">Alternative description of Figure \\(\\PageIndex{6}\\)</a>.</figcaption> </figure> <p class=\"lt-phys-64760\">Astronomers measure the proper motion of a star in arcseconds (1/3600 of a degree) per year. The measurement of proper motion tells us only by how much of an angle a star has changed its position in the sky. If two stars at different distances are moving at the same velocity perpendicular to our line of sight, the closer one will show a larger shift in its position in the sky in a year’s time. As an analogy, imagine you are standing at the side of a freeway. Cars will appear to whiz past you. If you then watch the traffic from a vantage point half a mile away, the cars will move much more slowly across your field of vision. In order to convert this angular motion to a velocity, we need to know how far away the star is.</p> <p class=\"lt-phys-64760\">To know a star's true space velocity, or its total speed and the direction in which it is moving through space relative to the Sun, we must know its radial velocity, proper motion, and distance, Figure \\(\\PageIndex{7}\\). The radial velocity is the part of the space velocity projected along the line of sight from the Sun to a star, or the speed that is is moving toward or away from the Sun. The transverse velocity is the part of the space velocity projected on the sky, or the speed that the star is moving across the sky. What astronomers measure is proper motion (μ), which is the change in the apparent direction on the sky measured in fractions of a degree. To convert this change in direction to a speed in kilometers per second, it is necessary to also know the distance (d) from the Sun to the star. With these three values, astronomers can calculate a star's space velocity.</p> <p class=\"lt-phys-64760\">A star’s space velocity can also, over time, cause its distance from the Sun to change significantly. Over several hundred thousand years, these changes can be large enough to affect the apparent brightnesses of nearby stars. Today, <span class=\"no-emphasis\" data-type=\"term\" group-by=\"S\">Sirius</span>, in the constellation Canis Major is the brightest star in the sky, but 100,000 years ago, the star Canopus in the constellation Carina&nbsp;was the brightest one. A little over 200,000 years from now, Sirius will have moved away and faded somewhat, and <span class=\"no-emphasis\" data-type=\"term\" group-by=\"V\">Vega</span>, the bright blue star in Lyra, will take over its place of honor as the brightest star in Earth’s skies.</p> <figure><img alt=\"Space velocity of a star. Details in caption.\" class=\"internal default\" src=\"/@api/deki/files/45957/4503a7d55b856608df97d64bc0f7c017b5b7d5c9\" /> <figcaption>Figure \\(\\PageIndex{7}\\):&nbsp;In this illustration, a star is moving according to its&nbsp;space velocity. For astronomers to calculate&nbsp;the stars space velocity, they must measure its proper motion, radial velocity, and distance to the star.&nbsp;<span class=\"mt-bgcolor-f1c40f\">(</span><a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" title=\"CC BY 4.0\"><span class=\"mt-bgcolor-f1c40f\">CC BY 4.0</span></a><span class=\"mt-bgcolor-f1c40f\">; </span><a href=\"https://openstax.org/books/astronomy-2e/pages/preface\" target=\"_blank\" title=\"Fraknoi, et al.\"><span class=\"mt-bgcolor-f1c40f\">Fraknoi</span><span class=\"mt-bgcolor-f1c40f\">, et al.</span></a><span class=\"mt-bgcolor-f1c40f\"> via </span><a href=\"https://openstax.org/details/books/astronomy\" target=\"_blank\" title=\"Openstax Astronomy 2nd ed.\"><span class=\"mt-bgcolor-f1c40f\">Openstax</span><span class=\"mt-bgcolor-f1c40f\"> Astronomy </span><span class=\"mt-bgcolor-f1c40f\">2nd</span><span class=\"mt-bgcolor-f1c40f\"> ed.</span></a><span class=\"mt-bgcolor-f1c40f\">).</span><a href=\"/Workbench/De_Anza_-_ASTR10/04:_Stellar_Spectra/4.09:_Accessible_Descriptions#Figure_4.6.7_Space_Velocity_and_Proper_Motion\" title=\"4.9: Accessible Descriptions\">&nbsp;Alternative description of&nbsp;Figure \\(\\PageIndex{7}\\).</a></figcaption> </figure> <section class=\"box-note\"> <h5 class=\"box-legend\"><span class=\"lt-icon-default\">Further Exploration: Interactive Activity&nbsp;</span></h5> <ul> <li>Explore the <a href=\"https://foothillastrosims.github.io/Spectrum-Constructor/\" title=\"https://foothillastrosims.github.io/Spectrum-Constructor/\">AstroSims Spectrum Constructor</a> simulation&nbsp;to investigate how continuous, emission, and absorption spectra are formed and how astronomers use spectral lines to identify the composition of stars and gases.</li> </ul> </section>"
+              - generic [ref=f119e321]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f119e323] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f119e95]:
+          - separator [ref=f119e96]
+          - paragraph [ref=f119e98]:
+            - 'link "4.6: Stellar Characteristics" [ref=f119e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.06%3A_Stellar_Characteristics
+            - text: is shared under a
+            - link "CC BY" [ref=f119e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f119e101]:
+        - list [ref=f119e102]:
+          - listitem [ref=f119e103]:
+            - link "Back to top" [ref=f119e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f119e105]:
+            - list [ref=f119e106]:
+              - listitem [ref=f119e107]:
+                - 'link " 4.5: Brown Dwarfs" [ref=f119e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.05%3A_Brown_Dwarfs
+                  - text: 
+                  - generic [ref=f119e109]: "4.5: Brown Dwarfs"
+              - listitem [ref=f119e110]:
+                - 'link "4.7: Accessibility Through Sonification " [ref=f119e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/04%3A_Stellar_Spectra/4.07%3A_Accessibility_Through_Sonification
+                  - generic [ref=f119e112]: "4.7: Accessibility Through Sonification"
+                  - text: 
+        - list [ref=f119e115]:
+          - listitem [ref=f119e116]: Was this article helpful?
+          - listitem [ref=f119e117]:
+            - button "Yes" [ref=f119e118] [cursor=pointer]
+          - listitem [ref=f119e119]:
+            - button "No" [ref=f119e120] [cursor=pointer]
+          - listitem [ref=f119e121]:
+            - button "Leave feedback" [ref=f119e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f119e123]:
+          - heading "Attachments" [level=2] [ref=f119e124]
+          - generic:
+            - button "Attach a file" [ref=f119e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f119e127]:
+            - generic [ref=f119e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f119e131]
+            - generic [ref=f119e132]:
+              - grid [ref=f119e135]:
+                - rowgroup [ref=f119e136]:
+                  - row [ref=f119e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f119e138]':
+                      - generic:
+                        - generic [ref=f119e139]: File
+                        - generic [ref=f119e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f119e141]':
+                      - generic:
+                        - generic [ref=f119e142]: Last modified
+                        - generic [ref=f119e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f119e144]':
+                      - generic:
+                        - generic [ref=f119e145]: Size
+                        - generic [ref=f119e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f119e147]':
+                      - generic:
+                        - generic [ref=f119e148]: Added by
+                        - generic [ref=f119e149]: 
+              - grid [ref=f119e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f119e152]: File
+                          - generic [ref=f119e153]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f119e154]: Last modified
+                          - generic [ref=f119e155]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f119e156]: Size
+                          - generic [ref=f119e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f119e158]: Added by
+                          - generic [ref=f119e159]: 
+                - rowgroup [ref=f119e160]:
+                  - row [ref=f119e161]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f119e162]:
+                      - generic [ref=f119e163]:
+                        - generic [ref=f119e164]:
+                          - generic [ref=f119e165]: 
+                          - link "mindtouch.page#thumbnail" [ref=f119e166] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63481/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f119e167]:
+                          - generic [ref=f119e168]: (no description)
+                          - text: 
+                    - gridcell "Dec 7, 2025, 10:01 PM" [ref=f119e169]
+                    - gridcell "11 KiB" [ref=f119e171]
+                    - gridcell "Rachel Mastrapa" [ref=f119e172]
+    - generic [ref=f119e174]:
+      - button "Open support menu" [ref=f119e176] [cursor=pointer]: "?"
+      - navigation [ref=f119e178]:
+        - paragraph [ref=f119e180]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f119e181] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f119e182] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f119e183] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f119e184] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f119e185] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f119e186]:
+      - generic:
+        - generic [ref=f119e188]:
+          - button "Annotation sidebar" [ref=f119e189]
+          - generic [ref=f119e194]:
+            - button "Show highlights" [ref=f119e195]
+            - button "New page note" [ref=f119e200]
+          - status [ref=f119e205]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f119e206]:
+    - button "contents" [ref=f119e207] [cursor=pointer]
+    - button "readability" [ref=f119e209] [cursor=pointer]
+    - button "resources" [ref=f119e211] [cursor=pointer]
+    - button "tools" [ref=f119e213] [cursor=pointer]
+    - button "developers" [ref=f119e215] [cursor=pointer]
+  - text:  
+  - generic [ref=f119e324]:
+    - generic [ref=f119e325] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f119e328] [cursor=pointer]

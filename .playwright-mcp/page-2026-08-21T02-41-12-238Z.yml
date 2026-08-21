@@ -1,0 +1,254 @@
+- generic [active] [ref=f439e1]:
+  - link "Skip to main content" [ref=f439e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f439e3]:
+    - text: 
+    - generic [ref=f439e4]:
+      - generic [ref=f439e5]:
+        - generic: ✕
+        - navigation [ref=f439e7]:
+          - generic [ref=f439e8]:
+            - link [ref=f439e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f439e11]
+            - button "Enter Reader Mode" [ref=f439e13] [cursor=pointer]:
+              - generic [ref=f439e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f439e16]:
+        - list [ref=f439e18]:
+          - listitem [ref=f439e19]:
+            - link [ref=f439e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f439e22]
+          - listitem [ref=f439e23]:
+            - text: 
+            - generic [ref=f439e25]:
+              - generic [ref=f439e26]: "Search :"
+              - searchbox "Search :" [ref=f439e27]
+              - button " Search" [ref=f439e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f439e29]:
+            - list [ref=f439e30]:
+              - listitem [ref=f439e31]:
+                - link "Edit" [ref=f439e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.05%3A_Key_Terms?action=edit
+              - text: 
+              - listitem [ref=f439e33]:
+                - link " Options" [ref=f439e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f439e35]:
+                - link " Rachel Mastrapa" [ref=f439e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f439e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f439e38] [cursor=pointer]
+          - list [ref=f439e39]:
+            - listitem [ref=f439e40]:
+              - link " Home" [ref=f439e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f439e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f439e43]:
+              - link " Workbench" [ref=f439e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f439e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f439e46]:
+              - link " De Anza - ASTR10" [ref=f439e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f439e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f439e49]:
+              - 'link " 14: Black Holes" [ref=f439e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes
+                - generic [ref=f439e51]: 
+                - text: "14: Black Holes"
+              - text: »
+            - listitem [ref=f439e52]:
+              - generic [ref=f439e53]: 
+              - text: "14.5: Key Terms"
+          - text: 
+      - navigation
+    - article [ref=f439e54]:
+      - generic [ref=f439e55]:
+        - generic [ref=f439e56]:
+          - button " Page settings" [ref=f439e57] [cursor=pointer]
+          - text: ":  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "14.5: Key Terms" [level=1] [ref=f439e58]'
+        - list [ref=f439e61]:
+          - listitem [ref=f439e62]:
+            - link [ref=f439e64] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f439e65]:
+                - img "CC" [ref=f439e66]
+                - img "BY" [ref=f439e67]
+          - listitem [ref=f439e68]:
+            - generic [ref=f439e69]:
+              - term [ref=f439e70] [cursor=pointer]: "Last updated:"
+              - definition [ref=f439e71]: Aug 12, 2026, 5:25 PM by Jyothsna Viswanadha
+          - listitem [ref=f439e72]:
+            - generic [ref=f439e73]:
+              - term [ref=f439e74] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f439e75]: Private
+          - listitem [ref=f439e76]:
+            - generic [ref=f439e77]:
+              - term [ref=f439e78] [cursor=pointer]: "Page ID:"
+              - definition [ref=f439e79]: "132512"
+          - listitem [ref=f439e80]:
+            - list [ref=f439e81]:
+              - listitem [ref=f439e82]:
+                - button "Pin Page" [ref=f439e83] [cursor=pointer]: 
+              - listitem
+              - text: 
+              - listitem [ref=f439e84]:
+                - list [ref=f439e85]:
+                  - listitem [ref=f439e86]:
+                    - 'link " 14.4: How We \"See\" Black Holes" [ref=f439e87] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.04%3A_How_We_See_Black_Holes
+                      - text: 
+                      - generic [ref=f439e88]: "14.4: How We \"See\" Black Holes"
+                  - listitem [ref=f439e89]:
+                    - 'link "14.6: Accessible Descriptions " [ref=f439e90] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.06%3A_Accessible_Descriptions
+                      - generic [ref=f439e91]: "14.6: Accessible Descriptions"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f439e92]:
+        - paragraph [ref=f439e93]
+        - generic [ref=f439e94]:
+          - separator [ref=f439e95]
+          - paragraph [ref=f439e97]:
+            - 'link "14.5: Key Terms" [ref=f439e98] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.05%3A_Key_Terms
+            - text: is shared under a
+            - link "CC BY" [ref=f439e99] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f439e100]:
+        - list [ref=f439e101]:
+          - listitem [ref=f439e102]:
+            - link "Back to top" [ref=f439e103] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f439e104]:
+            - list [ref=f439e105]:
+              - listitem [ref=f439e106]:
+                - 'link " 14.4: How We \"See\" Black Holes" [ref=f439e107] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.04%3A_How_We_See_Black_Holes
+                  - text: 
+                  - generic [ref=f439e108]: "14.4: How We \"See\" Black Holes"
+              - listitem [ref=f439e109]:
+                - 'link "14.6: Accessible Descriptions " [ref=f439e110] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes/14.06%3A_Accessible_Descriptions
+                  - generic [ref=f439e111]: "14.6: Accessible Descriptions"
+                  - text: 
+        - list [ref=f439e114]:
+          - listitem [ref=f439e115]: Was this article helpful?
+          - listitem [ref=f439e116]:
+            - button "Yes" [ref=f439e117] [cursor=pointer]
+          - listitem [ref=f439e118]:
+            - button "No" [ref=f439e119] [cursor=pointer]
+          - listitem [ref=f439e120]:
+            - button "Leave feedback" [ref=f439e121] [cursor=pointer]
+          - listitem
+        - text: ": : : :"
+        - generic [ref=f439e122]:
+          - heading "Attachments" [level=2] [ref=f439e123]
+          - generic:
+            - button "Attach a file" [ref=f439e124] [cursor=pointer]
+            - text: 
+          - generic [ref=f439e126]:
+            - generic [ref=f439e129]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f439e130]
+            - generic [ref=f439e131]:
+              - grid [ref=f439e134]:
+                - rowgroup [ref=f439e135]:
+                  - row [ref=f439e136]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f439e137]':
+                      - generic:
+                        - generic [ref=f439e138]: File
+                        - generic [ref=f439e139]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f439e140]':
+                      - generic:
+                        - generic [ref=f439e141]: Last modified
+                        - generic [ref=f439e142]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f439e143]':
+                      - generic:
+                        - generic [ref=f439e144]: Size
+                        - generic [ref=f439e145]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f439e146]':
+                      - generic:
+                        - generic [ref=f439e147]: Added by
+                        - generic [ref=f439e148]: 
+              - grid [ref=f439e150]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f439e151]: File
+                          - generic [ref=f439e152]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f439e153]: Last modified
+                          - generic [ref=f439e154]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f439e155]: Size
+                          - generic [ref=f439e156]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f439e157]: Added by
+                          - generic [ref=f439e158]: 
+                - rowgroup [ref=f439e159]:
+                  - row [ref=f439e160]:
+                    - gridcell "No files attached." [ref=f439e161]
+    - generic [ref=f439e163]:
+      - button "Open support menu" [ref=f439e165] [cursor=pointer]: "?"
+      - navigation [ref=f439e167]:
+        - paragraph [ref=f439e169]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f439e170] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f439e171] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f439e172] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f439e173] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f439e174] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f439e175]:
+      - generic:
+        - generic [ref=f439e177]:
+          - button "Annotation sidebar" [ref=f439e178]
+          - generic [ref=f439e183]:
+            - button "Show highlights" [ref=f439e184]
+            - button "New page note" [ref=f439e189]
+          - status [ref=f439e194]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f439e195]:
+    - button "contents" [ref=f439e196] [cursor=pointer]
+    - button "readability" [ref=f439e198] [cursor=pointer]
+    - button "resources" [ref=f439e200] [cursor=pointer]
+    - button "tools" [ref=f439e202] [cursor=pointer]
+    - button "developers" [ref=f439e204] [cursor=pointer]

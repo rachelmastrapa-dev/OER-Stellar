@@ -1,0 +1,256 @@
+- generic [active] [ref=f376e1]:
+  - link "Skip to main content" [ref=f376e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f376e3]:
+    - text: 
+    - generic [ref=f376e4]:
+      - generic [ref=f376e5]:
+        - generic: ✕
+        - navigation [ref=f376e7]:
+          - generic [ref=f376e8]:
+            - link [ref=f376e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f376e11]
+            - button "Enter Reader Mode" [ref=f376e13] [cursor=pointer]:
+              - generic [ref=f376e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f376e16]:
+        - list [ref=f376e18]:
+          - listitem [ref=f376e19]:
+            - link [ref=f376e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f376e22]
+          - listitem [ref=f376e23]:
+            - text: 
+            - generic [ref=f376e25]:
+              - generic [ref=f376e26]: "Search :"
+              - searchbox "Search :" [ref=f376e27]
+              - button " Search" [ref=f376e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f376e29]:
+            - list [ref=f376e30]:
+              - listitem [ref=f376e31]:
+                - link "Edit" [ref=f376e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.05%3A_Stories_of_the_Pleiades?action=edit
+              - text: 
+              - listitem [ref=f376e33]:
+                - link " Options" [ref=f376e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:       
+              - text:  
+              - listitem [ref=f376e35]:
+                - link " Rachel Mastrapa" [ref=f376e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f376e37]:
+        - generic:
+          - button " Expand/collapse global hierarchy" [ref=f376e38] [cursor=pointer]
+          - list [ref=f376e39]:
+            - listitem [ref=f376e40]:
+              - link " Home" [ref=f376e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f376e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f376e43]:
+              - link " Workbench" [ref=f376e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f376e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f376e46]:
+              - link " De Anza - ASTR10" [ref=f376e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f376e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f376e49]:
+              - 'link " 12: Aging Stars" [ref=f376e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars
+                - generic [ref=f376e51]: 
+                - text: "12: Aging Stars"
+              - text: »
+            - listitem [ref=f376e52]:
+              - generic [ref=f376e53]: 
+              - text: "12.5: Stories of the Pleiades"
+          - button " Expand/collapse global location" [ref=f376e54] [cursor=pointer]
+      - navigation
+    - article [ref=f376e55]:
+      - generic [ref=f376e56]:
+        - generic [ref=f376e57]:
+          - button " Page settings" [ref=f376e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "12.5: Stories of the Pleiades" [level=1] [ref=f376e59]'
+        - list [ref=f376e62]:
+          - listitem [ref=f376e63]:
+            - link [ref=f376e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by-nc/4.0/
+              - generic [ref=f376e66]:
+                - img "CC" [ref=f376e67]
+                - img "BY" [ref=f376e68]
+                - img "NC" [ref=f376e69]
+          - listitem [ref=f376e70]:
+            - generic [ref=f376e71]:
+              - term [ref=f376e72] [cursor=pointer]: "Last updated:"
+              - definition [ref=f376e73]: Aug 4, 2026, 4:49 PM by Jyothsna Viswanadha
+          - listitem [ref=f376e74]:
+            - generic [ref=f376e75]:
+              - term [ref=f376e76] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f376e77]: Private
+          - listitem [ref=f376e78]:
+            - generic [ref=f376e79]:
+              - term [ref=f376e80] [cursor=pointer]: "Page ID:"
+              - definition [ref=f376e81]: "128550"
+          - listitem [ref=f376e82]:
+            - list [ref=f376e83]:
+              - listitem [ref=f376e84]:
+                - button "Pin Page" [ref=f376e85] [cursor=pointer]: 
+              - listitem
+              - text: 
+              - listitem [ref=f376e86]:
+                - list [ref=f376e87]:
+                  - listitem [ref=f376e88]:
+                    - 'link " 12.4: Further Evolution of Stars" [ref=f376e89] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.04%3A_Further_Evolution_of_Stars
+                      - text: 
+                      - generic [ref=f376e90]: "12.4: Further Evolution of Stars"
+                  - listitem [ref=f376e91]:
+                    - 'link "12.6: Key Terms " [ref=f376e92] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.06%3A_Key_Terms
+                      - generic [ref=f376e93]: "12.6: Key Terms"
+                      - text: 
+              - listitem
+      - complementary
+      - text: 
+      - generic [ref=f376e94]:
+        - paragraph [ref=f376e95]
+        - generic [ref=f376e96]:
+          - separator [ref=f376e97]
+          - paragraph [ref=f376e99]:
+            - 'link "12.5: Stories of the Pleiades" [ref=f376e100] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.05%3A_Stories_of_the_Pleiades
+            - text: is shared under a
+            - link "CC BY-NC" [ref=f376e101] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by-nc/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f376e102]:
+        - list [ref=f376e103]:
+          - listitem [ref=f376e104]:
+            - link "Back to top" [ref=f376e105] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f376e106]:
+            - list [ref=f376e107]:
+              - listitem [ref=f376e108]:
+                - 'link " 12.4: Further Evolution of Stars" [ref=f376e109] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.04%3A_Further_Evolution_of_Stars
+                  - text: 
+                  - generic [ref=f376e110]: "12.4: Further Evolution of Stars"
+              - listitem [ref=f376e111]:
+                - 'link "12.6: Key Terms " [ref=f376e112] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/12%3A_Aging_Stars/12.06%3A_Key_Terms
+                  - generic [ref=f376e113]: "12.6: Key Terms"
+                  - text: 
+        - list [ref=f376e116]:
+          - listitem [ref=f376e117]: Was this article helpful?
+          - listitem [ref=f376e118]:
+            - button "Yes" [ref=f376e119] [cursor=pointer]
+          - listitem [ref=f376e120]:
+            - button "No" [ref=f376e121] [cursor=pointer]
+          - listitem [ref=f376e122]:
+            - button "Leave feedback" [ref=f376e123] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f376e124]:
+          - heading "Attachments" [level=2] [ref=f376e125]
+          - generic:
+            - button "Attach a file" [ref=f376e126] [cursor=pointer]
+            - text: 
+          - generic [ref=f376e128]:
+            - generic [ref=f376e131]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f376e132]
+            - generic [ref=f376e133]:
+              - grid [ref=f376e136]:
+                - rowgroup [ref=f376e137]:
+                  - row [ref=f376e138]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f376e139]':
+                      - generic:
+                        - generic [ref=f376e140]: File
+                        - generic [ref=f376e141]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f376e142]':
+                      - generic:
+                        - generic [ref=f376e143]: Last modified
+                        - generic [ref=f376e144]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f376e145]':
+                      - generic:
+                        - generic [ref=f376e146]: Size
+                        - generic [ref=f376e147]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f376e148]':
+                      - generic:
+                        - generic [ref=f376e149]: Added by
+                        - generic [ref=f376e150]: 
+              - grid [ref=f376e152]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f376e153]: File
+                          - generic [ref=f376e154]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f376e155]: Last modified
+                          - generic [ref=f376e156]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f376e157]: Size
+                          - generic [ref=f376e158]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f376e159]: Added by
+                          - generic [ref=f376e160]: 
+                - rowgroup [ref=f376e161]:
+                  - row [ref=f376e162]:
+                    - gridcell "No files attached." [ref=f376e163]
+    - generic [ref=f376e165]:
+      - button "Open support menu" [ref=f376e167] [cursor=pointer]: "?"
+      - navigation [ref=f376e169]:
+        - paragraph [ref=f376e171]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f376e172] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f376e173] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f376e174] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f376e175] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f376e176] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f376e177]:
+      - generic:
+        - generic [ref=f376e179]:
+          - button "Annotation sidebar" [ref=f376e180]
+          - generic [ref=f376e185]:
+            - button "Show highlights" [ref=f376e186]
+            - button "New page note" [ref=f376e191]
+          - status [ref=f376e196]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f376e197]:
+    - button "contents" [ref=f376e198] [cursor=pointer]
+    - button "readability" [ref=f376e200] [cursor=pointer]
+    - button "resources" [ref=f376e202] [cursor=pointer]
+    - button "tools" [ref=f376e204] [cursor=pointer]
+    - button "developers" [ref=f376e206] [cursor=pointer]

@@ -1,0 +1,929 @@
+- generic [ref=f277e1]:
+  - link "Skip to main content" [ref=f277e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f277e3]:
+    - text: 
+    - generic [ref=f277e4]:
+      - generic [ref=f277e5]:
+        - generic: ✕
+        - navigation [ref=f277e7]:
+          - generic [ref=f277e8]:
+            - link [ref=f277e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f277e11]
+            - button "Enter Reader Mode" [ref=f277e13] [cursor=pointer]:
+              - generic [ref=f277e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f277e16]:
+        - list [ref=f277e18]:
+          - listitem [ref=f277e19]:
+            - link [ref=f277e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f277e22]
+          - listitem [ref=f277e23]:
+            - text: 
+            - generic [ref=f277e25]:
+              - generic [ref=f277e26]: "Search :"
+              - searchbox "Search :" [ref=f277e27]
+              - button " Search" [ref=f277e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f277e29]:
+            - list [ref=f277e30]:
+              - listitem [ref=f277e31]:
+                - link "Edit" [ref=f277e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.03%3A_Measuring_Stellar_Masses_Binary_Stars?action=edit
+              - text: 
+              - listitem [ref=f277e33]:
+                - link " Options" [ref=f277e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f277e35]:
+                - link " Rachel Mastrapa" [ref=f277e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f277e37]:
+        - generic:
+          - button " Contents" [ref=f277e217] [cursor=pointer]
+          - list [ref=f277e39]:
+            - listitem [ref=f277e40]:
+              - link " Home" [ref=f277e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f277e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f277e43]:
+              - link " Workbench" [ref=f277e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f277e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f277e46]:
+              - link " De Anza - ASTR10" [ref=f277e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f277e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f277e49]:
+              - 'link " 9: Celestial Census" [ref=f277e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census
+                - generic [ref=f277e51]: 
+                - text: "9: Celestial Census"
+              - text: »
+            - listitem [ref=f277e52]:
+              - generic [ref=f277e53]: 
+              - text: "9.3: Measuring Stellar Masses, Binary Stars"
+          - button " Expand/collapse global location" [ref=f277e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                
+    - article [ref=f277e55]:
+      - generic [ref=f277e56]:
+        - generic [ref=f277e57]:
+          - button " Page settings" [ref=f277e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "9.3: Measuring Stellar Masses, Binary Stars" [level=1] [ref=f277e59]':
+          - generic [ref=f277e60]: "9.3: Measuring Stellar Masses, Binary Stars "
+        - list [ref=f277e62]:
+          - listitem [ref=f277e63]:
+            - link [ref=f277e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f277e66]:
+                - img "CC" [ref=f277e67]
+                - img "BY" [ref=f277e68]
+          - listitem [ref=f277e69]:
+            - generic [ref=f277e70]:
+              - term [ref=f277e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f277e72]: Dec 28, 2025, 5:39 PM by Rachel Mastrapa
+          - listitem [ref=f277e73]:
+            - generic [ref=f277e74]:
+              - term [ref=f277e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f277e76]: Private
+          - listitem [ref=f277e77]:
+            - generic [ref=f277e78]:
+              - term [ref=f277e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f277e80]: "132348"
+          - listitem [ref=f277e81]:
+            - list [ref=f277e82]:
+              - listitem [ref=f277e83]:
+                - button "Pin Page" [ref=f277e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f277e85]:
+                - list [ref=f277e86]:
+                  - listitem [ref=f277e87]:
+                    - 'link " 9.2: Colors of Stars" [ref=f277e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.02%3A_Colors_of_Stars
+                      - text: 
+                      - generic [ref=f277e89]: "9.2: Colors of Stars"
+                  - listitem [ref=f277e90]:
+                    - 'link "9.4: Diameters of Stars " [ref=f277e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.04%3A_Diameters_of_Stars
+                      - generic [ref=f277e92]: "9.4: Diameters of Stars"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f277e93]:
+        - group [ref=f277e220]:
+          - generic [ref=f277e221]:
+            - generic [ref=f277e222]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f277e223]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f277e224]:
+            - generic [ref=f277e227]:
+              - generic [ref=f277e228]:
+                - generic [ref=f277e229]:
+                  - link "Edit" [ref=f277e230]:
+                    - /url: javascript:void('Edit')
+                  - link "View" [ref=f277e231]:
+                    - /url: javascript:void('View')
+                  - link "Format" [ref=f277e232]:
+                    - /url: javascript:void('Format')
+                  - link "Style" [ref=f277e233]:
+                    - /url: javascript:void('Style')
+                  - link "Elements" [ref=f277e234]:
+                    - /url: javascript:void('Elements')
+                  - link "Help" [ref=f277e235]:
+                    - /url: javascript:void('Help')
+                - generic [ref=f277e236]: "Words: 7016, Chars: 40507"
+              - group "Editor toolbars" [ref=f277e238]:
+                - toolbar [ref=f277e239]:
+                  - button "Save" [ref=f277e240]:
+                    - generic [ref=f277e241]: 
+                  - button "Cancel" [ref=f277e243]:
+                    - generic [ref=f277e244]: 
+                - toolbar [ref=f277e247]:
+                  - button "Undo" [disabled] [ref=f277e248]:
+                    - generic [ref=f277e249]: 
+                  - button "Redo" [disabled] [ref=f277e250]:
+                    - generic [ref=f277e251]: 
+                - toolbar [ref=f277e253]:
+                  - button "Headings" [ref=f277e254]
+                - toolbar [ref=f277e259]:
+                  - button "Bold" [ref=f277e260]:
+                    - generic [ref=f277e261]: 
+                  - button "Italic" [ref=f277e262]:
+                    - generic [ref=f277e263]: 
+                  - button "Underline" [ref=f277e264]:
+                    - generic [ref=f277e265]: 
+                - toolbar [ref=f277e267]:
+                  - button "Text color" [ref=f277e268]:
+                    - generic [ref=f277e269]: 
+                  - button "Background color" [ref=f277e271]:
+                    - generic [ref=f277e272]: 
+                - toolbar [ref=f277e275]:
+                  - button "Remove format" [ref=f277e276]:
+                    - generic [ref=f277e277]: 
+                - toolbar [ref=f277e279]:
+                  - button "Insert/Remove numbered list" [ref=f277e280]:
+                    - generic [ref=f277e281]: 
+                  - button "Insert/Remove bulleted list" [ref=f277e282]:
+                    - generic [ref=f277e283]: 
+                - toolbar [ref=f277e285]:
+                  - button "Alignment" [ref=f277e286]:
+                    - generic [ref=f277e287]: 
+                - text: 
+                - toolbar [ref=f277e290]:
+                  - button "Link" [ref=f277e291]:
+                    - generic [ref=f277e292]: 
+                  - button "Image" [ref=f277e293]:
+                    - generic [ref=f277e294]: 
+                  - text: 
+                  - button "Boxes" [ref=f277e295]
+                - toolbar [ref=f277e300]:
+                  - button "Replace" [ref=f277e301]:
+                    - generic [ref=f277e302]: 
+                - toolbar [ref=f277e304]:
+                  - button "Enable Binder" [ref=f277e305]
+                  - button "Insert Adapt" [ref=f277e307]
+                  - button "Query" [ref=f277e309]
+                  - button "Accessibility Checker" [ref=f277e312]
+                - toolbar [ref=f277e315]:
+                  - button "HTML" [ref=f277e316]:
+                    - generic [ref=f277e317]: 
+            - application "Rich Text Editor, editarea" [ref=f277e319]:
+              - iframe [active] [ref=f277e320]:
+                - generic [active] [ref=f279e1]:
+                  - heading "How to Weigh a Star" [level=2] [ref=f279e2]
+                  - paragraph [ref=f279e3]: The mass of a star—how much material it contains—is one of its most important characteristics. If we know a star’s mass, as we shall see, we can estimate how long it will shine and what its ultimate fate will be. Yet the mass of a star is very difficult to measure directly. Somehow, we need to put a star on the cosmic equivalent of a scale.
+                  - paragraph [ref=f279e4]: Luckily, not all stars live like the Sun, in isolation from other stars. About half the stars are binary stars—two stars that orbit each other, bound together by gravity. Masses of binary stars can be calculated from measurements of their orbits, just as the mass of the Sun can be derived by measuring the orbits of the planets around it (see Orbits and Gravity).
+                  - heading "Binary Stars" [level=3] [ref=f279e5]
+                  - paragraph [ref=f279e6]:
+                    - text: Before we discuss in more detail how mass can be measured, we will take a closer look at stars that come in pairs. The first binary star was discovered in 1650, less than half a century after Galileo began to observe the sky with a telescope. John Baptiste Riccioli (1598–1671), an Italian astronomer, noted that the star Mizar, in the middle of the Big Dipper’s handle, appeared through his telescope as two stars. Since that discovery, thousands of binary stars have been cataloged. (Astronomers call any pair of stars that appear to be close to each other in the sky
+                    - emphasis [ref=f279e7]: double
+                    - emphasis [ref=f279e8]: stars
+                    - text: ", but not all of these form a true binary, that is, not all of them are physically associated. Some are just chance alignments of stars that are actually at different distances from us.) Although stars most commonly come in pairs, there are also triple and quadruple systems."
+                  - paragraph [ref=f279e9]: One well-known binary star is Castor, located in the constellation of Gemini. By 1804, astronomer William Herschel, who also discovered the planet Uranus, had noted that the fainter component of Castor had slightly changed its position relative to the brighter component. (We use the term “component” to mean a member of a star system.) Here was evidence that one star was moving around another. It was actually the first evidence that gravitational influences exist outside the solar system. The orbital motion of a binary star is shown in Figure 18.4. A binary star system in which both of the stars can be seen with a telescope is called a visual binary.
+                  - figure [ref=f279e10]:
+                    - img "Revolution of a Binary Star. This figure shows seven observations of the mutual revolution of two stars, one a brown dwarf and one an ultra-cool L dwarf. At center one of the stars is drawn as a red dot surrounded by a blue ellipse. The positions of the companion star at seven different dates are shown as red dots along the blue ellipse. A white arrow points from each red dot on the ellipse to an actual image of the system. Moving clockwise from lower left around the ellipse the observation dates for the individual images are, “April 2000”, “February 2002”, “October 2002”, “February 2003”, “March 2003”, “December 2003” and “January 2004”." [ref=f279e12]
+                  - paragraph [ref=f279e14]: Edward C. Pickering (1846–1919), at Harvard, discovered a second class of binary stars in 1889—a class in which only one of the stars is actually seen directly. He was examining the spectrum of Mizar and found that the dark absorption lines in the brighter star’s spectrum were usually double. Not only were there two lines where astronomers normally saw only one, but the spacing of the lines was constantly changing. At times, the lines even became single. Pickering correctly deduced that the brighter component of Mizar, called Mizar A, is itself really two stars that revolve about each other in a period of 104 days. A star like Mizar A, which appears as a single star when photographed or observed visually through the telescope, but which spectroscopy shows really to be a double star, is called a spectroscopic binary.
+                  - paragraph [ref=f279e15]:
+                    - text: Mizar, by the way, is a good example of just how complex such star systems can be. Mizar has been known for centuries to have a faint companion called Alcor, which can be seen without a telescope. Mizar and Alcor form an
+                    - emphasis [ref=f279e16]: optical double
+                    - text: —a pair of stars that appear close together in the sky but do not orbit each other. Through a telescope, as Riccioli discovered in 1650, Mizar can be seen to have another, closer companion that does orbit it; Mizar is thus a visual binary. The two components that make up this visual binary, known as Mizar A and Mizar B, are both spectroscopic binaries. So, Mizar is really a quadruple system of stars.
+                  - paragraph [ref=f279e17]:
+                    - text: Strictly speaking, it is not correct to describe the motion of a binary star system by saying that one star orbits the other. Gravity is a
+                    - emphasis [ref=f279e18]: mutual
+                    - text: attraction. Each star exerts a gravitational force on the other, with the result that both stars orbit a point between them called the
+                    - emphasis [ref=f279e19]: center of mass
+                    - text: . Imagine that the two stars are seated at either end of a seesaw. The point at which the fulcrum would have to be located in order for the seesaw to balance is the center of mass, and it is always closer to the more massive star (Figure 18.5).
+                  - 'figure "Figure 18.5 : Binary Star System. In a binary star system, both stars orbit their center of mass. The image shows the relative positions of two, different-mass stars from their center of mass, similar to how two masses would have to be located on a seesaw in order to keep it level. The star with the higher mass will be found closer to the center of mass, while the star with the lower mass will be farther from it." [ref=f279e20]':
+                    - img "Diagram illustrating the concept of center of mass in a binary star system. A seesaw is shown in profile, with the plank horizontal indicating that the system is in balance. Sitting on the left side of the plank is a red sphere labeled “High-mass star”, and on the right side is a small blue sphere labeled “Low-mass star”. In this case the fulcrum (or pivot) is not located below the center of the seesaw, but placed to the left of center near the high mass star. The point where the fulcrum touches the plank is labeled “Center of mass”." [ref=f279e22]
+                  - paragraph [ref=f279e24]: Figure 18.6 shows two stars (A and B) moving around their center of mass, along with one line in the spectrum of each star that we observe from the system at different times. When one star is approaching us relative to the center of mass, the other star is receding from us. In the top left illustration, star A is moving toward us, so the line in its spectrum is Doppler-shifted toward the blue end of the spectrum. Star B is moving away from us, so its line shows a redshift. When we observe the composite spectrum of the two stars, the line appears double. When the two stars are both moving across our line of sight (neither away from nor toward us), they both have the same radial velocity (that of the pair’s center of mass); hence, the spectral lines of the two stars come together. This is shown in the two bottom illustrations in Figure 18.6.
+                  - figure [ref=f279e25]:
+                    - img [ref=f279e27]
+                  - paragraph [ref=f279e29]:
+                    - text: A plot showing how the velocities of the stars change with time is called a
+                    - emphasis [ref=f279e30]: radial velocity curve
+                    - text: ; the curve for the binary system in Figure 18.6 is shown in Figure 18.7.
+                  - 'figure "Figure 18.7 : Radial Velocities in a Spectroscopic Binary System. These curves plot the radial velocities of two stars in a spectroscopic binary system, showing how the stars alternately approach and recede from Earth. Note that positive velocity means the star is moving away from us, and negative velocity means the star is moving toward us. The center of mass of the system itself is also moving away from us, indicated by the positive velocity of 40 kilometers per second. The positions on the curve corresponding to the illustrations in Figure 18.6 are marked with the diagram number (1–4)." [ref=f279e31]':
+                    - img [ref=f279e33]
+                  - generic [ref=f279e35]:
+                    - heading "Link to Learning" [level=5] [ref=f279e36]
+                    - paragraph [ref=f279e38]:
+                      - text: This
+                      - link "animation" [ref=f279e39]:
+                        - /url: https://openstax.org/l/30binstaranim
+                      - text: lets you follow the orbits of a binary star system in various combinations of the masses of the two stars.
+                  - heading "Masses from the Orbits of Binary Stars" [level=3] [ref=f279e40]
+                  - paragraph [ref=f279e41]:
+                    - text: We can estimate the masses of binary star systems using Newton’s reformulation of Kepler’s third law (discussed in Newton’s Universal Law of Gravitation). Kepler found that the time a planet takes to go around the Sun is related by a specific mathematical formula to its distance from the Sun. In our binary star situation, if two objects are in mutual revolution, then the period (
+                    - emphasis [ref=f279e42]: P
+                    - text: ) with which they go around each other is related to the semimajor axis (
+                    - emphasis [ref=f279e43]: D
+                    - text: ) of the orbit of one with respect to the other, according to this equation
+                  - paragraph [ref=f279e44]:
+                    - math [ref=f279e45]:
+                      - generic [ref=f279e48]:
+                        - generic [ref=f279e49]:
+                          - generic [ref=f279e50]: D
+                          - generic [ref=f279e51]: "3"
+                        - generic [ref=f279e52]: =
+                        - generic [ref=f279e53]: (
+                        - generic [ref=f279e54]:
+                          - generic [ref=f279e55]: M
+                          - generic [ref=f279e56]: "1"
+                        - generic [ref=f279e57]: +
+                        - generic [ref=f279e58]:
+                          - generic [ref=f279e59]: M
+                          - generic [ref=f279e60]: "2"
+                        - generic [ref=f279e61]: )
+                  - paragraph [ref=f279e62]:
+                    - text: where
+                    - emphasis [ref=f279e63]: D
+                    - text: is in astronomical units,
+                    - emphasis [ref=f279e64]: P
+                    - text: is measured in years, and
+                    - emphasis [ref=f279e65]: M
+                    - subscript [ref=f279e66]: "1"
+                    - text: +
+                    - emphasis [ref=f279e67]: M
+                    - subscript [ref=f279e68]: "2"
+                    - text: is the sum of the masses of the two stars in units of the Sun’s mass. This is a very useful formula for astronomers; it says that if we can observe the size of the orbit and the period of mutual revolution of the stars in a binary system, we can calculate the sum of their masses.
+                  - paragraph [ref=f279e69]: Most spectroscopic binaries have periods ranging from a few days to a few months, with separations of usually less than 1 AU between their member stars. Recall that an AU is the distance from Earth to the Sun, so this is a small separation and very hard to see at the distances of stars. This is why many of these systems are known to be double only through careful study of their spectra.
+                  - paragraph [ref=f279e70]: We can analyze a radial velocity curve (such as the one in Figure 18.7) to determine the masses of the stars in a spectroscopic binary. This is complex in practice but not hard in principle. We measure the speeds of the stars from the Doppler effect. We then determine the period—how long the stars take to go through an orbital cycle—from the velocity curve. Knowing how fast the stars are moving and how long they take to go around tells us the circumference of the orbit and, hence, the separation of the stars in kilometers or astronomical units. From Kepler’s law, the period and the separation allow us to calculate the sum of the stars’ masses.
+                  - paragraph [ref=f279e71]: Of course, knowing the sum of the masses is not as useful as knowing the mass of each star separately. But the relative orbital speeds of the two stars can tell us how much of the total mass each star has. As we saw in our seesaw analogy, the more massive star is closer to the center of mass and therefore has a smaller orbit. Therefore, it moves more slowly to get around in the same time compared to the more distant, lower-mass star. If we sort out the speeds relative to each other, we can sort out the masses relative to each other. In practice, we also need to know how the binary system is oriented in the sky to our line of sight, but if we do, and the just-described steps are carried out carefully, the result is a calculation of the masses of each of the two stars in the system.
+                  - paragraph [ref=f279e72]: To summarize, a good measurement of the motion of two stars around a common center of mass, combined with the laws of gravity, allows us to determine the masses of stars in such systems. These mass measurements are absolutely crucial to developing a theory of how stars evolve. One of the best things about this method is that it is independent of the location of the binary system. It works as well for stars 100 light-years away from us as for those in our immediate neighborhood.
+                  - paragraph [ref=f279e73]: "To take a specific example, Sirius is one of the few binary stars in Appendix J for which we have enough information to apply Kepler’s third law:"
+                  - paragraph [ref=f279e74]:
+                    - math [ref=f279e75]:
+                      - generic [ref=f279e78]:
+                        - generic [ref=f279e79]:
+                          - generic [ref=f279e80]: D
+                          - generic [ref=f279e81]: "3"
+                        - generic [ref=f279e82]: =
+                        - generic [ref=f279e83]: (
+                        - generic [ref=f279e84]:
+                          - generic [ref=f279e85]: M
+                          - generic [ref=f279e86]: "1"
+                        - generic [ref=f279e87]: +
+                        - generic [ref=f279e88]:
+                          - generic [ref=f279e89]: M
+                          - generic [ref=f279e90]: "2"
+                        - generic [ref=f279e91]: )
+                  - paragraph [ref=f279e92]: In this case, the two stars, the one we usually call Sirius and its very faint companion, are separated by about 20 AU and have an orbital period of about 50 years. If we place these values in the formula we would have
+                  - paragraph [ref=f279e93]:
+                    - math [ref=f279e94]:
+                      - generic [ref=f279e97]:
+                        - generic [ref=f279e99]:
+                          - generic [ref=f279e100]:
+                            - generic [ref=f279e101]: (20)
+                            - generic [ref=f279e103]: "3"
+                          - generic [ref=f279e105]: =
+                          - generic [ref=f279e106]: (
+                          - generic [ref=f279e107]:
+                            - generic [ref=f279e108]: M
+                            - generic [ref=f279e109]: "1"
+                          - generic [ref=f279e110]: +
+                          - generic [ref=f279e111]:
+                            - generic [ref=f279e112]: M
+                            - generic [ref=f279e113]: "2"
+                          - generic [ref=f279e114]: )
+                          - generic [ref=f279e115]:
+                            - generic [ref=f279e116]: (50)
+                            - generic [ref=f279e117]: "2"
+                        - generic [ref=f279e119]:
+                          - generic [ref=f279e120]: "8000"
+                          - generic [ref=f279e121]: =
+                          - generic [ref=f279e122]: (
+                          - generic [ref=f279e123]:
+                            - generic [ref=f279e124]: M
+                            - generic [ref=f279e125]: "1"
+                          - generic [ref=f279e126]: +
+                          - generic [ref=f279e127]:
+                            - generic [ref=f279e128]: M
+                            - generic [ref=f279e129]: "2"
+                          - generic [ref=f279e130]: )
+                          - generic [ref=f279e131]: (2500)
+                  - paragraph [ref=f279e132]: "This can be solved for the sum of the masses:"
+                  - paragraph [ref=f279e133]:
+                    - math [ref=f279e134]:
+                      - generic [ref=f279e137]:
+                        - generic [ref=f279e138]:
+                          - generic [ref=f279e139]: M
+                          - generic [ref=f279e140]: "1"
+                        - generic [ref=f279e141]: +
+                        - generic [ref=f279e142]:
+                          - generic [ref=f279e143]: M
+                          - generic [ref=f279e144]: "2"
+                        - generic [ref=f279e145]: =
+                        - generic [ref=f279e146]:
+                          - generic [ref=f279e147]: "8000"
+                          - generic [ref=f279e149]: "2500"
+                        - generic [ref=f279e151]: =
+                        - generic [ref=f279e152]: "3.2"
+                  - paragraph [ref=f279e153]: Therefore, the sum of masses of the two stars in the Sirius binary system is 3.2 times the Sun’s mass. In order to determine the individual mass of each star, we would need the velocities of the two stars and the orientation of the orbit relative to our line of sight.
+                  - heading "The Range of Stellar Masses" [level=3] [ref=f279e154]
+                  - paragraph [ref=f279e155]: How large can the mass of a star be? Stars more massive than the Sun are rare. None of the stars within 30 light-years of the Sun has a mass greater than four times that of the Sun. Searches at large distances from the Sun have led to the discovery of a few stars with masses up to about 100 times that of the Sun, and a handful of stars (a few out of several billion) may have masses as large as 250 solar masses. However, most stars have less mass than the Sun.
+                  - paragraph [ref=f279e156]:
+                    - text: "According to theoretical calculations, the smallest mass that a true star can have is about 1/12 that of the Sun. By a “true” star, astronomers mean one that becomes hot enough to fuse protons to form helium (as discussed in The Sun: A Nuclear Powerhouse). Objects with masses between roughly 1/100 and 1/12 that of the Sun may produce energy for a brief time by means of nuclear reactions involving deuterium, but they do not become hot enough to fuse protons. Such objects are intermediate in mass between stars and planets and have been given the name brown dwarfs (Figure 18.8). Brown dwarfs are similar to Jupiter in radius but have masses from approximately 13 to 80 times larger than the mass of Jupiter."
+                    - superscript [ref=f279e157]: "2"
+                  - 'figure "Figure 18.8 : Brown Dwarfs in Orion. These images, taken with the Hubble Space Telescope, show the region surrounding the Trapezium star cluster inside the star-forming region called the Orion Nebula. (a) No brown dwarfs are seen in the visible light image, both because they put out very little light in the visible and because they are hidden within the clouds of dust in this region. (b) This image was taken in infrared light, which can make its way to us through the dust. The faintest objects in this image are brown dwarfs with masses between 13 and 80 times the mass of Jupiter. (credit a: NASA, C.R. O’Dell and S.K. Wong (Rice University); credit b: NASA; K.L. Luhman (Harvard-Smithsonian Center for Astrophysics) and G. Schneider, E. Young, G. Rieke, A. Cotera, H. Chen, M. Rieke, R. Thompson (Steward Observatory))" [ref=f279e158]':
+                    - img "Brown Dwarfs in the Orion Nebula. In image (a), taken in visible light, bright clouds of gas dominate the image. Just a few bright stars around the Trapezium are visible below center. In image (b), taken in infrared light, much less nebulosity is seen and many more stars cover the entire field." [ref=f279e160]
+                  - paragraph [ref=f279e162]: Still-smaller objects with masses less than about 1/100 the mass of the Sun (or 10 Jupiter masses) are called planets. They may radiate energy produced by the radioactive elements that they contain, and they may also radiate heat generated by slowly compressing under their own weight (a process called gravitational contraction). However, their interiors will never reach temperatures high enough for any nuclear reactions, to take place. Jupiter, whose mass is about 1/1000 the mass of the Sun, is unquestionably a planet, for example. Until the 1990s, we could only detect planets in our own solar system, but now we have thousands of them elsewhere as well. (We will discuss these exciting observations in The Birth of Stars and the Discovery of Planets outside the Solar System.)
+                  - heading "The Mass-Luminosity Relation" [level=3] [ref=f279e163]
+                  - paragraph [ref=f279e164]: "Now that we have measurements of the characteristics of many different types of stars, we can search for relationships among the characteristics. For example, we can ask whether the mass and luminosity of a star are related. It turns out that for most stars, they are: The more massive stars are generally also the more luminous. This relationship, known as the mass-luminosity relation, is shown graphically in Figure 18.9. Each point represents a star whose mass and luminosity are both known. The horizontal position on the graph shows the star’s mass, given in units of the Sun’s mass, and the vertical position shows its luminosity in units of the Sun’s luminosity."
+                  - 'figure "Figure 18.9 : Mass-Luminosity Relation. The plotted points show the masses and luminosities of stars. The three points lying below the sequence of points are all white dwarf stars." [ref=f279e165]':
+                    - img "Plot of the Mass-Luminosity Relation. In this graph the vertical axis is labeled “Luminosity (LSun)”. It is a logarithmic scale, ranging from 0 to 1,000,000. The horizontal axis is labeled “Mass (solar masses)”. It is a non-logarithmic scale ranging from zero to 20. About 100 stars are plotted on the graph, with nearly all lying on a straight line running from the lower left corner to the upper right corner. A few points lie below the lower left part of the main line and are white dwarf stars." [ref=f279e167]
+                  - paragraph [ref=f279e169]: We can also say this in mathematical terms.
+                  - paragraph [ref=f279e170]:
+                    - math [ref=f279e171]:
+                      - generic [ref=f279e174]:
+                        - generic [ref=f279e175]: L
+                        - generic [ref=f279e176]: ~
+                        - generic [ref=f279e177]:
+                          - generic [ref=f279e178]: M
+                          - generic [ref=f279e179]: "3.9"
+                  - paragraph [ref=f279e181]:
+                    - text: It’s a reasonably good approximation to say that luminosity (expressed in units of the Sun’s luminosity) varies as the fourth power of the mass (in units of the Sun’s mass). (The symbol ~ means the two quantities are proportional.) If two stars differ in mass by a factor of 2, then the more massive one will be 2
+                    - superscript [ref=f279e182]: "4"
+                    - text: ", or about 16 times brighter; if one star is 1/3 the mass of another, it will be approximately 81 times less luminous."
+                  - generic [ref=f279e183]:
+                    - 'heading "Example 18.1: Calculating the Mass from the Luminosity of a Star" [level=5] [ref=f279e184]'
+                    - paragraph [ref=f279e186]: The mass-luminosity formula can be rewritten so that a value of mass can be determined if the luminosity is known.
+                    - heading "Solution" [level=6] [ref=f279e187]
+                    - paragraph [ref=f279e188]: "First, we must get our units right by expressing both the mass and the luminosity of a star in units of the Sun’s mass and luminosity:"
+                    - paragraph [ref=f279e189]:
+                      - math [ref=f279e190]:
+                        - generic [ref=f279e193]:
+                          - generic [ref=f279e194]: L
+                          - generic [ref=f279e195]: /
+                          - generic [ref=f279e196]:
+                            - generic [ref=f279e197]: L
+                            - generic [ref=f279e198]: Sun
+                          - generic [ref=f279e200]: =
+                          - generic [ref=f279e201]:
+                            - generic [ref=f279e203]:
+                              - generic [ref=f279e204]: (
+                              - generic [ref=f279e205]:
+                                - generic [ref=f279e206]: M
+                                - generic [ref=f279e207]: /
+                                - generic [ref=f279e208]:
+                                  - generic [ref=f279e209]: M
+                                  - generic [ref=f279e210]: Sun
+                              - generic [ref=f279e212]: )
+                            - generic [ref=f279e213]: "4"
+                    - paragraph [ref=f279e214]: "Now we can take the 4th root of both sides, which is equivalent to taking both sides to the 1/4 = 0.25 power. The formula in this case would be:"
+                    - paragraph [ref=f279e215]:
+                      - math [ref=f279e216]:
+                        - generic [ref=f279e219]:
+                          - generic [ref=f279e220]: M
+                          - generic [ref=f279e221]: /
+                          - generic [ref=f279e222]:
+                            - generic [ref=f279e223]: M
+                            - generic [ref=f279e224]: Sun
+                          - generic [ref=f279e226]: =
+                          - generic [ref=f279e227]: (
+                          - generic [ref=f279e228]: L
+                          - generic [ref=f279e229]: /
+                          - generic [ref=f279e230]:
+                            - generic [ref=f279e231]: L
+                            - generic [ref=f279e232]: Sun
+                          - generic [ref=f279e234]:
+                            - generic [ref=f279e235]: )
+                            - generic [ref=f279e236]: "0.25"
+                          - generic [ref=f279e238]: =
+                          - generic [ref=f279e239]: (
+                          - generic [ref=f279e240]: L
+                          - generic [ref=f279e241]: /
+                          - generic [ref=f279e242]:
+                            - generic [ref=f279e243]: L
+                            - generic [ref=f279e244]: Sun
+                          - generic [ref=f279e246]:
+                            - generic [ref=f279e247]: )
+                            - generic [ref=f279e248]: "0.25"
+                  - generic [ref=f279e250]:
+                    - 'heading "Exercise \\(\\PageIndex{1}\\)" [level=5] [ref=f279e251]'
+                    - paragraph [ref=f279e253]: In the previous section, we determined the sum of the masses of the two stars in the Sirius binary system (Sirius and its faint companion) using Kepler’s third law to be 3.2 solar masses. Using the mass-luminosity relationship, calculate the mass of each individual star.
+                    - generic [ref=f279e254]:
+                      - term [ref=f279e255]:
+                        - strong [ref=f279e256]: Answer
+                      - definition [ref=f279e257]:
+                        - paragraph [ref=f279e258]
+                        - paragraph [ref=f279e259]:
+                          - text: "In Appendix J, Sirius is listed with a luminosity 23 times that of the Sun. This value can be inserted into the mass-luminosity relationship to get the mass of Sirius:"
+                          - math [ref=f279e260]:
+                            - generic [ref=f279e263]:
+                              - generic [ref=f279e264]: M
+                              - generic [ref=f279e265]: /
+                              - generic [ref=f279e266]:
+                                - generic [ref=f279e267]: M
+                                - generic [ref=f279e268]: Sun
+                              - generic [ref=f279e270]: =
+                              - generic [ref=f279e271]:
+                                - generic [ref=f279e272]: "23"
+                                - generic [ref=f279e274]: "0.25"
+                              - generic [ref=f279e276]: =
+                              - generic [ref=f279e277]: "2.2"
+                          - text: The mass of the companion star to Sirius is then
+                          - math [ref=f279e278]:
+                            - generic [ref=f279e281]:
+                              - generic [ref=f279e282]: "3.2"
+                              - generic [ref=f279e283]: "-"
+                              - generic [ref=f279e284]: "2.2"
+                              - generic [ref=f279e285]: =
+                              - generic [ref=f279e286]: "1.0"
+                          - text: solar mass.
+                  - paragraph [ref=f279e287]: Notice how good this mass-luminosity relationship is. Most stars (see Figure 18.9) fall along a line running from the lower-left (low mass, low luminosity) corner of the diagram to the upper-right (high mass, high luminosity) corner. About 90% of all stars obey the mass-luminosity relation. Later, we will explore why such a relationship exists and what we can learn from the roughly 10% of stars that “disobey” it.
+                  - generic [ref=f279e288]:
+                    - heading "Link to Learning" [level=5] [ref=f279e289]
+                    - paragraph [ref=f279e291]:
+                      - text: This
+                      - link "visualization" [ref=f279e292]:
+                        - /url: https://openstax.org/l/30starmass
+                      - text: illustrates how all the properties of a star are determined by the mass that the star happened to form with and how these properties change when you change the mass.
+                  - heading "Footnotes" [level=3] [ref=f279e293]
+                  - list [ref=f279e294]:
+                    - listitem [ref=f279e295]:
+                      - link "2" [ref=f279e296]:
+                        - /url: /Bookshelves/Astronomy__Cosmology/Astronomy_2e_(OpenStax)/18:_The_Stars_-_A_Celestial_Census/18.03:_Measuring_Stellar_Masses#footnote-ref1
+                      - text: Exactly where to put the dividing line between planets and brown dwarfs is a subject of some debate among astronomers as we write this book (as is, in fact, the exact definition of each of these objects). Even those who accept deuterium fusion (see The Birth of Stars and the Discovery of Planets outside the Solar System) as the crucial issue for brown dwarfs concede that, depending on the composition of the star and other factors, the lowest mass for such a dwarf could be anywhere from 11 to 16 Jupiter masses.
+                  - paragraph [ref=f279e297]
+                  - generic [ref=f279e298]:
+                    - heading "Learning Objectives" [level=5] [ref=f279e299]
+                    - paragraph [ref=f279e301]: "By the end of this section, you will be able to:"
+                    - list [ref=f279e302]:
+                      - listitem [ref=f279e303]: Distinguish the different types of binary star systems
+                      - listitem [ref=f279e304]: Understand how we can apply Newton’s version of Kepler’s third law to derive the sum of star masses in a binary star system
+                      - listitem [ref=f279e305]: Apply the relationship between stellar mass and stellar luminosity to determine the physical characteristics of a star
+                  - paragraph [ref=f279e306]: The mass of a star—how much material it contains—is one of its most important characteristics. If we know a star’s mass, as we shall see, we can estimate how long it will shine and what its ultimate fate will be. Yet the mass of a star is very difficult to measure directly. Somehow, we need to put a star on the cosmic equivalent of a scale.
+                  - paragraph [ref=f279e307]: Luckily, not all stars live like the Sun, in isolation from other stars. About half the stars are binary stars—two stars that orbit each other, bound together by gravity. Masses of binary stars can be calculated from measurements of their orbits, just as the mass of the Sun can be derived by measuring the orbits of the planets around it (see Orbits and Gravity).
+                  - heading "Binary Stars" [level=3] [ref=f279e308]
+                  - paragraph [ref=f279e309]: There are numerous types of stars and star systems throughout the Universe. We will touch on a few of these; some of the more common stars and star systems and some of the strangest of the stars.
+                  - paragraph [ref=f279e310]:
+                    - text: Occasionally, astronomers will look through their telescopes and see two or more stars which happen to line up so that we see what appears to be a double star system, yet these stars are not physically related to each other. These are called
+                    - strong [ref=f279e311]: Optical Doubles
+                    - text: and simply happen by chance. Such occurrences are more infrequent than one would think. Systems in which physically associated star systems are made up of two stars are
+                    - strong [ref=f279e312]: Binary Stars
+                    - text: . And a
+                    - strong [ref=f279e313]: Visual Binary
+                    - text: is a pair of stars that we can see orbiting each other.
+                  - paragraph [ref=f279e314]:
+                    - text: An
+                    - strong [ref=f279e315]: Eclipsing Binary Star
+                    - text: ", or EBS, is a star system in which the star’s orbital plane is such that it lies in the line of sight of telescopes on Earth so that the stars eclipse each other. Also called"
+                    - strong [ref=f279e316]: eclipsing
+                    - strong [ref=f279e317]: variables
+                    - text: ", as one star orbits the more massive central star, the observers on Earth see eclipses occur."
+                  - paragraph [ref=f279e318]: First, the orbiting star will eclipse the more massive central star, eclipsing or blocking some of the light from the more massive and larger central star. Then, the smaller orbiting star will pass behind the more massive central star, usually eclipsing or blocking all of the light from the orbiting star. These eclipses can occur often if the orbiting star is close enough to the more massive central star. Or it may take weeks or months, perhaps even years, between eclipses depending on the EBS.
+                  - figure "Image courtesy of Florida State College at Jacksonville." [ref=f279e319]:
+                    - img "This diagram shows an eclipsing Binary Star Mockup. The more massive, larger yellow central star is being orbited by a second, smaller orange star. A series of eclipses will occur. If the view is more overhead or a bird’s-eye view, then no eclipses will be seen from the Earth-based observer." [ref=f279e320]
+                  - paragraph [ref=f279e322]:
+                    - text: Before we discuss in more detail how mass can be measured, we will take a closer look at stars that come in pairs. The first binary star was discovered in 1650, less than half a century after Galileo began to observe the sky with a telescope. John Baptiste Riccioli (1598–1671), an Italian astronomer, noted that the star Mizar, in the middle of the Big Dipper’s handle, appeared through his telescope as two stars. Since that discovery, thousands of binary stars have been cataloged. (Astronomers call any pair of stars that appear to be close to each other in the sky
+                    - emphasis [ref=f279e323]: double
+                    - emphasis [ref=f279e324]: stars
+                    - text: ", but not all of these form a true binary, that is, not all of them are physically associated. Some are just chance alignments of stars that are actually at different distances from us.) Although stars most commonly come in pairs, there are also triple and quadruple systems."
+                  - paragraph [ref=f279e325]: One well-known binary star is Castor, located in the constellation of Gemini. By 1804, astronomer William Herschel, who also discovered the planet Uranus, had noted that the fainter component of Castor had slightly changed its position relative to the brighter component. (We use the term “component” to mean a member of a star system.) Here was evidence that one star was moving around another. It was actually the first evidence that gravitational influences exist outside the solar system. The orbital motion of a binary star is shown in Figure 18.4. A binary star system in which both of the stars can be seen with a telescope is called a visual binary.
+                  - figure [ref=f279e326]:
+                    - img "Revolution of a Binary Star. This figure shows seven observations of the mutual revolution of two stars, one a brown dwarf and one an ultra-cool L dwarf. At center one of the stars is drawn as a red dot surrounded by a blue ellipse. The positions of the companion star at seven different dates are shown as red dots along the blue ellipse. A white arrow points from each red dot on the ellipse to an actual image of the system. Moving clockwise from lower left around the ellipse the observation dates for the individual images are, “April 2000”, “February 2002”, “October 2002”, “February 2003”, “March 2003”, “December 2003” and “January 2004”." [ref=f279e328]
+                  - paragraph [ref=f279e330]: Edward C. Pickering (1846–1919), at Harvard, discovered a second class of binary stars in 1889—a class in which only one of the stars is actually seen directly. He was examining the spectrum of Mizar and found that the dark absorption lines in the brighter star’s spectrum were usually double. Not only were there two lines where astronomers normally saw only one, but the spacing of the lines was constantly changing. At times, the lines even became single. Pickering correctly deduced that the brighter component of Mizar, called Mizar A, is itself really two stars that revolve about each other in a period of 104 days. A star like Mizar A, which appears as a single star when photographed or observed visually through the telescope, but which spectroscopy shows really to be a double star, is called a spectroscopic binary.
+                  - paragraph [ref=f279e331]:
+                    - text: Mizar, by the way, is a good example of just how complex such star systems can be. Mizar has been known for centuries to have a faint companion called Alcor, which can be seen without a telescope. Mizar and Alcor form an
+                    - emphasis [ref=f279e332]: optical double
+                    - text: —a pair of stars that appear close together in the sky but do not orbit each other. Through a telescope, as Riccioli discovered in 1650, Mizar can be seen to have another, closer companion that does orbit it; Mizar is thus a visual binary. The two components that make up this visual binary, known as Mizar A and Mizar B, are both spectroscopic binaries. So, Mizar is really a quadruple system of stars.
+                  - paragraph [ref=f279e333]:
+                    - text: Strictly speaking, it is not correct to describe the motion of a binary star system by saying that one star orbits the other. Gravity is a
+                    - emphasis [ref=f279e334]: mutual
+                    - text: attraction. Each star exerts a gravitational force on the other, with the result that both stars orbit a point between them called the
+                    - emphasis [ref=f279e335]: center of mass
+                    - text: . Imagine that the two stars are seated at either end of a seesaw. The point at which the fulcrum would have to be located in order for the seesaw to balance is the center of mass, and it is always closer to the more massive star (Figure 18.5).
+                  - 'figure "Figure 18.5 : Binary Star System. In a binary star system, both stars orbit their center of mass. The image shows the relative positions of two, different-mass stars from their center of mass, similar to how two masses would have to be located on a seesaw in order to keep it level. The star with the higher mass will be found closer to the center of mass, while the star with the lower mass will be farther from it." [ref=f279e336]':
+                    - img "Diagram illustrating the concept of center of mass in a binary star system. A seesaw is shown in profile, with the plank horizontal indicating that the system is in balance. Sitting on the left side of the plank is a red sphere labeled “High-mass star”, and on the right side is a small blue sphere labeled “Low-mass star”. In this case the fulcrum (or pivot) is not located below the center of the seesaw, but placed to the left of center near the high mass star. The point where the fulcrum touches the plank is labeled “Center of mass”." [ref=f279e338]
+                  - paragraph [ref=f279e340]: Figure 18.6 shows two stars (A and B) moving around their center of mass, along with one line in the spectrum of each star that we observe from the system at different times. When one star is approaching us relative to the center of mass, the other star is receding from us. In the top left illustration, star A is moving toward us, so the line in its spectrum is Doppler-shifted toward the blue end of the spectrum. Star B is moving away from us, so its line shows a redshift. When we observe the composite spectrum of the two stars, the line appears double. When the two stars are both moving across our line of sight (neither away from nor toward us), they both have the same radial velocity (that of the pair’s center of mass); hence, the spectral lines of the two stars come together. This is shown in the two bottom illustrations in Figure 18.6.
+                  - figure [ref=f279e341]:
+                    - img [ref=f279e343]
+                  - paragraph [ref=f279e345]:
+                    - text: A plot showing how the velocities of the stars change with time is called a
+                    - emphasis [ref=f279e346]: radial velocity curve
+                    - text: ; the curve for the binary system in Figure 18.6 is shown in Figure 18.7.
+                  - 'figure "Figure 18.7 : Radial Velocities in a Spectroscopic Binary System. These curves plot the radial velocities of two stars in a spectroscopic binary system, showing how the stars alternately approach and recede from Earth. Note that positive velocity means the star is moving away from us, and negative velocity means the star is moving toward us. The center of mass of the system itself is also moving away from us, indicated by the positive velocity of 40 kilometers per second. The positions on the curve corresponding to the illustrations in Figure 18.6 are marked with the diagram number (1–4)." [ref=f279e347]':
+                    - img [ref=f279e349]
+                  - generic [ref=f279e351]:
+                    - heading "Link to Learning" [level=5] [ref=f279e352]
+                    - paragraph [ref=f279e354]:
+                      - text: This
+                      - link "animation" [ref=f279e355]:
+                        - /url: https://openstax.org/l/30binstaranim
+                      - text: lets you follow the orbits of a binary star system in various combinations of the masses of the two stars.
+                  - heading "Masses from the Orbits of Binary Stars" [level=3] [ref=f279e356]
+                  - paragraph [ref=f279e357]:
+                    - text: We can estimate the masses of binary star systems using Newton’s reformulation of Kepler’s third law (discussed in Newton’s Universal Law of Gravitation). Kepler found that the time a planet takes to go around the Sun is related by a specific mathematical formula to its distance from the Sun. In our binary star situation, if two objects are in mutual revolution, then the period (
+                    - emphasis [ref=f279e358]: P
+                    - text: ) with which they go around each other is related to the semimajor axis (
+                    - emphasis [ref=f279e359]: D
+                    - text: ) of the orbit of one with respect to the other, according to this equation
+                  - paragraph [ref=f279e360]:
+                    - math [ref=f279e361]:
+                      - generic [ref=f279e364]:
+                        - generic [ref=f279e365]:
+                          - generic [ref=f279e366]: D
+                          - generic [ref=f279e367]: "3"
+                        - generic [ref=f279e368]: =
+                        - generic [ref=f279e369]: (
+                        - generic [ref=f279e370]:
+                          - generic [ref=f279e371]: M
+                          - generic [ref=f279e372]: "1"
+                        - generic [ref=f279e373]: +
+                        - generic [ref=f279e374]:
+                          - generic [ref=f279e375]: M
+                          - generic [ref=f279e376]: "2"
+                        - generic [ref=f279e377]: )
+                  - paragraph [ref=f279e378]:
+                    - text: where
+                    - emphasis [ref=f279e379]: D
+                    - text: is in astronomical units,
+                    - emphasis [ref=f279e380]: P
+                    - text: is measured in years, and
+                    - emphasis [ref=f279e381]: M
+                    - subscript [ref=f279e382]: "1"
+                    - text: +
+                    - emphasis [ref=f279e383]: M
+                    - subscript [ref=f279e384]: "2"
+                    - text: is the sum of the masses of the two stars in units of the Sun’s mass. This is a very useful formula for astronomers; it says that if we can observe the size of the orbit and the period of mutual revolution of the stars in a binary system, we can calculate the sum of their masses.
+                  - paragraph [ref=f279e385]: Most spectroscopic binaries have periods ranging from a few days to a few months, with separations of usually less than 1 AU between their member stars. Recall that an AU is the distance from Earth to the Sun, so this is a small separation and very hard to see at the distances of stars. This is why many of these systems are known to be double only through careful study of their spectra.
+                  - paragraph [ref=f279e386]: We can analyze a radial velocity curve (such as the one in Figure 18.7) to determine the masses of the stars in a spectroscopic binary. This is complex in practice but not hard in principle. We measure the speeds of the stars from the Doppler effect. We then determine the period—how long the stars take to go through an orbital cycle—from the velocity curve. Knowing how fast the stars are moving and how long they take to go around tells us the circumference of the orbit and, hence, the separation of the stars in kilometers or astronomical units. From Kepler’s law, the period and the separation allow us to calculate the sum of the stars’ masses.
+                  - paragraph [ref=f279e387]: Of course, knowing the sum of the masses is not as useful as knowing the mass of each star separately. But the relative orbital speeds of the two stars can tell us how much of the total mass each star has. As we saw in our seesaw analogy, the more massive star is closer to the center of mass and therefore has a smaller orbit. Therefore, it moves more slowly to get around in the same time compared to the more distant, lower-mass star. If we sort out the speeds relative to each other, we can sort out the masses relative to each other. In practice, we also need to know how the binary system is oriented in the sky to our line of sight, but if we do, and the just-described steps are carried out carefully, the result is a calculation of the masses of each of the two stars in the system.
+                  - paragraph [ref=f279e388]: To summarize, a good measurement of the motion of two stars around a common center of mass, combined with the laws of gravity, allows us to determine the masses of stars in such systems. These mass measurements are absolutely crucial to developing a theory of how stars evolve. One of the best things about this method is that it is independent of the location of the binary system. It works as well for stars 100 light-years away from us as for those in our immediate neighborhood.
+                  - paragraph [ref=f279e389]: "To take a specific example, Sirius is one of the few binary stars in Appendix J for which we have enough information to apply Kepler’s third law:"
+                  - paragraph [ref=f279e390]:
+                    - math [ref=f279e391]:
+                      - generic [ref=f279e394]:
+                        - generic [ref=f279e395]:
+                          - generic [ref=f279e396]: D
+                          - generic [ref=f279e397]: "3"
+                        - generic [ref=f279e398]: =
+                        - generic [ref=f279e399]: (
+                        - generic [ref=f279e400]:
+                          - generic [ref=f279e401]: M
+                          - generic [ref=f279e402]: "1"
+                        - generic [ref=f279e403]: +
+                        - generic [ref=f279e404]:
+                          - generic [ref=f279e405]: M
+                          - generic [ref=f279e406]: "2"
+                        - generic [ref=f279e407]: )
+                  - paragraph [ref=f279e408]: In this case, the two stars, the one we usually call Sirius and its very faint companion, are separated by about 20 AU and have an orbital period of about 50 years. If we place these values in the formula we would have
+                  - paragraph [ref=f279e409]:
+                    - math [ref=f279e410]:
+                      - generic [ref=f279e413]:
+                        - generic [ref=f279e415]:
+                          - generic [ref=f279e416]:
+                            - generic [ref=f279e417]: (20)
+                            - generic [ref=f279e419]: "3"
+                          - generic [ref=f279e421]: =
+                          - generic [ref=f279e422]: (
+                          - generic [ref=f279e423]:
+                            - generic [ref=f279e424]: M
+                            - generic [ref=f279e425]: "1"
+                          - generic [ref=f279e426]: +
+                          - generic [ref=f279e427]:
+                            - generic [ref=f279e428]: M
+                            - generic [ref=f279e429]: "2"
+                          - generic [ref=f279e430]: )
+                          - generic [ref=f279e431]:
+                            - generic [ref=f279e432]: (50)
+                            - generic [ref=f279e433]: "2"
+                        - generic [ref=f279e435]:
+                          - generic [ref=f279e436]: "8000"
+                          - generic [ref=f279e437]: =
+                          - generic [ref=f279e438]: (
+                          - generic [ref=f279e439]:
+                            - generic [ref=f279e440]: M
+                            - generic [ref=f279e441]: "1"
+                          - generic [ref=f279e442]: +
+                          - generic [ref=f279e443]:
+                            - generic [ref=f279e444]: M
+                            - generic [ref=f279e445]: "2"
+                          - generic [ref=f279e446]: )
+                          - generic [ref=f279e447]: (2500)
+                  - paragraph [ref=f279e448]: "This can be solved for the sum of the masses:"
+                  - paragraph [ref=f279e449]:
+                    - math [ref=f279e450]:
+                      - generic [ref=f279e453]:
+                        - generic [ref=f279e454]:
+                          - generic [ref=f279e455]: M
+                          - generic [ref=f279e456]: "1"
+                        - generic [ref=f279e457]: +
+                        - generic [ref=f279e458]:
+                          - generic [ref=f279e459]: M
+                          - generic [ref=f279e460]: "2"
+                        - generic [ref=f279e461]: =
+                        - generic [ref=f279e462]:
+                          - generic [ref=f279e463]: "8000"
+                          - generic [ref=f279e465]: "2500"
+                        - generic [ref=f279e467]: =
+                        - generic [ref=f279e468]: "3.2"
+                  - paragraph [ref=f279e469]: Therefore, the sum of masses of the two stars in the Sirius binary system is 3.2 times the Sun’s mass. In order to determine the individual mass of each star, we would need the velocities of the two stars and the orientation of the orbit relative to our line of sight.
+                  - heading "The Range of Stellar Masses" [level=3] [ref=f279e470]
+                  - paragraph [ref=f279e471]: How large can the mass of a star be? Stars more massive than the Sun are rare. None of the stars within 30 light-years of the Sun has a mass greater than four times that of the Sun. Searches at large distances from the Sun have led to the discovery of a few stars with masses up to about 100 times that of the Sun, and a handful of stars (a few out of several billion) may have masses as large as 250 solar masses. However, most stars have less mass than the Sun.
+                  - paragraph [ref=f279e472]:
+                    - text: "According to theoretical calculations, the smallest mass that a true star can have is about 1/12 that of the Sun. By a “true” star, astronomers mean one that becomes hot enough to fuse protons to form helium (as discussed in The Sun: A Nuclear Powerhouse). Objects with masses between roughly 1/100 and 1/12 that of the Sun may produce energy for a brief time by means of nuclear reactions involving deuterium, but they do not become hot enough to fuse protons. Such objects are intermediate in mass between stars and planets and have been given the name brown dwarfs (Figure 18.8). Brown dwarfs are similar to Jupiter in radius but have masses from approximately 13 to 80 times larger than the mass of Jupiter."
+                    - superscript [ref=f279e473]: "2"
+                  - 'figure "Figure 18.8 : Brown Dwarfs in Orion. These images, taken with the Hubble Space Telescope, show the region surrounding the Trapezium star cluster inside the star-forming region called the Orion Nebula. (a) No brown dwarfs are seen in the visible light image, both because they put out very little light in the visible and because they are hidden within the clouds of dust in this region. (b) This image was taken in infrared light, which can make its way to us through the dust. The faintest objects in this image are brown dwarfs with masses between 13 and 80 times the mass of Jupiter. (credit a: NASA, C.R. O’Dell and S.K. Wong (Rice University); credit b: NASA; K.L. Luhman (Harvard-Smithsonian Center for Astrophysics) and G. Schneider, E. Young, G. Rieke, A. Cotera, H. Chen, M. Rieke, R. Thompson (Steward Observatory))" [ref=f279e474]':
+                    - img "Brown Dwarfs in the Orion Nebula. In image (a), taken in visible light, bright clouds of gas dominate the image. Just a few bright stars around the Trapezium are visible below center. In image (b), taken in infrared light, much less nebulosity is seen and many more stars cover the entire field." [ref=f279e476]
+                  - paragraph [ref=f279e478]: Still-smaller objects with masses less than about 1/100 the mass of the Sun (or 10 Jupiter masses) are called planets. They may radiate energy produced by the radioactive elements that they contain, and they may also radiate heat generated by slowly compressing under their own weight (a process called gravitational contraction). However, their interiors will never reach temperatures high enough for any nuclear reactions, to take place. Jupiter, whose mass is about 1/1000 the mass of the Sun, is unquestionably a planet, for example. Until the 1990s, we could only detect planets in our own solar system, but now we have thousands of them elsewhere as well. (We will discuss these exciting observations in The Birth of Stars and the Discovery of Planets outside the Solar System.)
+                  - heading "The Mass-Luminosity Relation" [level=3] [ref=f279e479]
+                  - paragraph [ref=f279e480]: "Now that we have measurements of the characteristics of many different types of stars, we can search for relationships among the characteristics. For example, we can ask whether the mass and luminosity of a star are related. It turns out that for most stars, they are: The more massive stars are generally also the more luminous. This relationship, known as the mass-luminosity relation, is shown graphically in Figure 18.9. Each point represents a star whose mass and luminosity are both known. The horizontal position on the graph shows the star’s mass, given in units of the Sun’s mass, and the vertical position shows its luminosity in units of the Sun’s luminosity."
+                  - 'figure "Figure 18.9 : Mass-Luminosity Relation. The plotted points show the masses and luminosities of stars. The three points lying below the sequence of points are all white dwarf stars." [ref=f279e481]':
+                    - img "Plot of the Mass-Luminosity Relation. In this graph the vertical axis is labeled “Luminosity (LSun)”. It is a logarithmic scale, ranging from 0 to 1,000,000. The horizontal axis is labeled “Mass (solar masses)”. It is a non-logarithmic scale ranging from zero to 20. About 100 stars are plotted on the graph, with nearly all lying on a straight line running from the lower left corner to the upper right corner. A few points lie below the lower left part of the main line and are white dwarf stars." [ref=f279e483]
+                  - paragraph [ref=f279e485]: We can also say this in mathematical terms.
+                  - paragraph [ref=f279e486]:
+                    - math [ref=f279e487]:
+                      - generic [ref=f279e490]:
+                        - generic [ref=f279e491]: L
+                        - generic [ref=f279e492]: ~
+                        - generic [ref=f279e493]:
+                          - generic [ref=f279e494]: M
+                          - generic [ref=f279e495]: "3.9"
+                  - paragraph [ref=f279e497]:
+                    - text: It’s a reasonably good approximation to say that luminosity (expressed in units of the Sun’s luminosity) varies as the fourth power of the mass (in units of the Sun’s mass). (The symbol ~ means the two quantities are proportional.) If two stars differ in mass by a factor of 2, then the more massive one will be 2
+                    - superscript [ref=f279e498]: "4"
+                    - text: ", or about 16 times brighter; if one star is 1/3 the mass of another, it will be approximately 81 times less luminous."
+                  - generic [ref=f279e499]:
+                    - 'heading "Example 18.1: Calculating the Mass from the Luminosity of a Star" [level=5] [ref=f279e500]'
+                    - paragraph [ref=f279e502]: The mass-luminosity formula can be rewritten so that a value of mass can be determined if the luminosity is known.
+                    - heading "Solution" [level=6] [ref=f279e503]
+                    - paragraph [ref=f279e504]: "First, we must get our units right by expressing both the mass and the luminosity of a star in units of the Sun’s mass and luminosity:"
+                    - paragraph [ref=f279e505]:
+                      - math [ref=f279e506]:
+                        - generic [ref=f279e509]:
+                          - generic [ref=f279e510]: L
+                          - generic [ref=f279e511]: /
+                          - generic [ref=f279e512]:
+                            - generic [ref=f279e513]: L
+                            - generic [ref=f279e514]: Sun
+                          - generic [ref=f279e516]: =
+                          - generic [ref=f279e517]:
+                            - generic [ref=f279e519]:
+                              - generic [ref=f279e520]: (
+                              - generic [ref=f279e521]:
+                                - generic [ref=f279e522]: M
+                                - generic [ref=f279e523]: /
+                                - generic [ref=f279e524]:
+                                  - generic [ref=f279e525]: M
+                                  - generic [ref=f279e526]: Sun
+                              - generic [ref=f279e528]: )
+                            - generic [ref=f279e529]: "4"
+                    - paragraph [ref=f279e530]: "Now we can take the 4th root of both sides, which is equivalent to taking both sides to the 1/4 = 0.25 power. The formula in this case would be:"
+                    - paragraph [ref=f279e531]:
+                      - math [ref=f279e532]:
+                        - generic [ref=f279e535]:
+                          - generic [ref=f279e536]: M
+                          - generic [ref=f279e537]: /
+                          - generic [ref=f279e538]:
+                            - generic [ref=f279e539]: M
+                            - generic [ref=f279e540]: Sun
+                          - generic [ref=f279e542]: =
+                          - generic [ref=f279e543]: (
+                          - generic [ref=f279e544]: L
+                          - generic [ref=f279e545]: /
+                          - generic [ref=f279e546]:
+                            - generic [ref=f279e547]: L
+                            - generic [ref=f279e548]: Sun
+                          - generic [ref=f279e550]:
+                            - generic [ref=f279e551]: )
+                            - generic [ref=f279e552]: "0.25"
+                          - generic [ref=f279e554]: =
+                          - generic [ref=f279e555]: (
+                          - generic [ref=f279e556]: L
+                          - generic [ref=f279e557]: /
+                          - generic [ref=f279e558]:
+                            - generic [ref=f279e559]: L
+                            - generic [ref=f279e560]: Sun
+                          - generic [ref=f279e562]:
+                            - generic [ref=f279e563]: )
+                            - generic [ref=f279e564]: "0.25"
+                  - generic [ref=f279e566]:
+                    - 'heading "Exercise \\(\\PageIndex{1}\\)" [level=5] [ref=f279e567]'
+                    - paragraph [ref=f279e569]: In the previous section, we determined the sum of the masses of the two stars in the Sirius binary system (Sirius and its faint companion) using Kepler’s third law to be 3.2 solar masses. Using the mass-luminosity relationship, calculate the mass of each individual star.
+                    - generic [ref=f279e570]:
+                      - term [ref=f279e571]:
+                        - strong [ref=f279e572]: Answer
+                      - definition [ref=f279e573]:
+                        - paragraph [ref=f279e574]
+                        - paragraph [ref=f279e575]:
+                          - text: "In Appendix J, Sirius is listed with a luminosity 23 times that of the Sun. This value can be inserted into the mass-luminosity relationship to get the mass of Sirius:"
+                          - math [ref=f279e576]:
+                            - generic [ref=f279e579]:
+                              - generic [ref=f279e580]: M
+                              - generic [ref=f279e581]: /
+                              - generic [ref=f279e582]:
+                                - generic [ref=f279e583]: M
+                                - generic [ref=f279e584]: Sun
+                              - generic [ref=f279e586]: =
+                              - generic [ref=f279e587]:
+                                - generic [ref=f279e588]: "23"
+                                - generic [ref=f279e590]: "0.25"
+                              - generic [ref=f279e592]: =
+                              - generic [ref=f279e593]: "2.2"
+                          - text: The mass of the companion star to Sirius is then
+                          - math [ref=f279e594]:
+                            - generic [ref=f279e597]:
+                              - generic [ref=f279e598]: "3.2"
+                              - generic [ref=f279e599]: "-"
+                              - generic [ref=f279e600]: "2.2"
+                              - generic [ref=f279e601]: =
+                              - generic [ref=f279e602]: "1.0"
+                          - text: solar mass.
+                  - paragraph [ref=f279e603]: Notice how good this mass-luminosity relationship is. Most stars (see Figure 18.9) fall along a line running from the lower-left (low mass, low luminosity) corner of the diagram to the upper-right (high mass, high luminosity) corner. About 90% of all stars obey the mass-luminosity relation. Later, we will explore why such a relationship exists and what we can learn from the roughly 10% of stars that “disobey” it.
+                  - generic [ref=f279e604]:
+                    - heading "Link to Learning" [level=5] [ref=f279e605]
+                    - paragraph [ref=f279e607]:
+                      - text: This
+                      - link "visualization" [ref=f279e608]:
+                        - /url: https://openstax.org/l/30starmass
+                      - text: illustrates how all the properties of a star are determined by the mass that the star happened to form with and how these properties change when you change the mass.
+                  - heading "Footnotes" [level=3] [ref=f279e609]
+                  - list [ref=f279e610]:
+                    - listitem [ref=f279e611]:
+                      - link "2" [ref=f279e612]:
+                        - /url: /Bookshelves/Astronomy__Cosmology/Astronomy_2e_(OpenStax)/18:_The_Stars_-_A_Celestial_Census/18.03:_Measuring_Stellar_Masses#footnote-ref1
+                      - text: Exactly where to put the dividing line between planets and brown dwarfs is a subject of some debate among astronomers as we write this book (as is, in fact, the exact definition of each of these objects). Even those who accept deuterium fusion (see The Birth of Stars and the Discovery of Planets outside the Solar System) as the crucial issue for brown dwarfs concede that, depending on the composition of the star and other factors, the lowest mass for such a dwarf could be anywhere from 11 to 16 Jupiter masses.
+              - generic [ref=f277e321]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f277e323] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f277e95]:
+          - separator [ref=f277e96]
+          - paragraph [ref=f277e98]:
+            - 'link "9.3: Measuring Stellar Masses, Binary Stars" [ref=f277e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.03%3A_Measuring_Stellar_Masses_Binary_Stars
+            - text: is shared under a
+            - link "CC BY" [ref=f277e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f277e101]:
+        - list [ref=f277e102]:
+          - listitem [ref=f277e103]:
+            - link "Back to top" [ref=f277e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f277e105]:
+            - list [ref=f277e106]:
+              - listitem [ref=f277e107]:
+                - 'link " 9.2: Colors of Stars" [ref=f277e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.02%3A_Colors_of_Stars
+                  - text: 
+                  - generic [ref=f277e109]: "9.2: Colors of Stars"
+              - listitem [ref=f277e110]:
+                - 'link "9.4: Diameters of Stars " [ref=f277e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/09%3A_Celestial_Census/9.04%3A_Diameters_of_Stars
+                  - generic [ref=f277e112]: "9.4: Diameters of Stars"
+                  - text: 
+        - list [ref=f277e115]:
+          - listitem [ref=f277e116]: Was this article helpful?
+          - listitem [ref=f277e117]:
+            - button "Yes" [ref=f277e118] [cursor=pointer]
+          - listitem [ref=f277e119]:
+            - button "No" [ref=f277e120] [cursor=pointer]
+          - listitem [ref=f277e121]:
+            - button "Leave feedback" [ref=f277e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f277e123]:
+          - heading "Attachments" [level=2] [ref=f277e124]
+          - generic:
+            - button "Attach a file" [ref=f277e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f277e127]:
+            - generic [ref=f277e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f277e131]
+            - generic [ref=f277e132]:
+              - grid [ref=f277e135]:
+                - rowgroup [ref=f277e136]:
+                  - row [ref=f277e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f277e138]':
+                      - generic:
+                        - generic [ref=f277e139]: File
+                        - generic [ref=f277e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f277e141]':
+                      - generic:
+                        - generic [ref=f277e142]: Last modified
+                        - generic [ref=f277e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f277e144]':
+                      - generic:
+                        - generic [ref=f277e145]: Size
+                        - generic [ref=f277e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f277e147]':
+                      - generic:
+                        - generic [ref=f277e148]: Added by
+                        - generic [ref=f277e149]: 
+              - grid [ref=f277e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f277e152]: File
+                          - generic [ref=f277e153]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f277e154]: Last modified
+                          - generic [ref=f277e155]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f277e156]: Size
+                          - generic [ref=f277e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f277e158]: Added by
+                          - generic [ref=f277e159]: 
+                - rowgroup [ref=f277e160]:
+                  - row [ref=f277e161]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f277e162]:
+                      - generic [ref=f277e163]:
+                        - generic [ref=f277e164]:
+                          - generic [ref=f277e165]: 
+                          - link "mindtouch.page#thumbnail" [ref=f277e166] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63450/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f277e167]:
+                          - generic [ref=f277e168]: (no description)
+                          - text: 
+                    - gridcell "Dec 7, 2025, 7:20 PM" [ref=f277e169]
+                    - gridcell "11 KiB" [ref=f277e171]
+                    - gridcell "Rachel Mastrapa" [ref=f277e172]
+    - generic [ref=f277e174]:
+      - button "Open support menu" [ref=f277e176] [cursor=pointer]: "?"
+      - navigation [ref=f277e178]:
+        - paragraph [ref=f277e180]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f277e181] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f277e182] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f277e183] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f277e184] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f277e185] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f277e186]:
+      - generic:
+        - generic [ref=f277e188]:
+          - button "Annotation sidebar" [ref=f277e189]
+          - generic [ref=f277e194]:
+            - button "Show highlights" [ref=f277e195]
+            - button "New page note" [ref=f277e200]
+          - status [ref=f277e205]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f277e206]:
+    - button "contents" [ref=f277e207] [cursor=pointer]
+    - button "readability" [ref=f277e209] [cursor=pointer]
+    - button "resources" [ref=f277e211] [cursor=pointer]
+    - button "tools" [ref=f277e213] [cursor=pointer]
+    - button "developers" [ref=f277e215] [cursor=pointer]
+  - text:  
+  - generic [ref=f277e324]:
+    - generic [ref=f277e325] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f277e328] [cursor=pointer]

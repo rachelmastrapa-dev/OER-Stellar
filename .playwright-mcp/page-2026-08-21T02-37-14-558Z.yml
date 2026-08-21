@@ -1,0 +1,319 @@
+- generic [ref=f415e1]:
+  - link "Skip to main content" [ref=f415e2] [cursor=pointer]:
+    - /url: "#elm-main-content"
+  - main [ref=f415e3]:
+    - text: 
+    - generic [ref=f415e4]:
+      - generic [ref=f415e5]:
+        - generic: ✕
+        - navigation [ref=f415e7]:
+          - generic [ref=f415e8]:
+            - link [ref=f415e10] [cursor=pointer]:
+              - /url: https://phys.libretexts.org/
+              - img "Library homepage" [ref=f415e11]
+            - button "Enter Reader Mode" [ref=f415e13] [cursor=pointer]:
+              - generic [ref=f415e14]: chrome_reader_mode
+        - generic "Conditional content <strong>(Pro member)</strong>"
+      - navigation [ref=f415e16]:
+        - list [ref=f415e18]:
+          - listitem [ref=f415e19]:
+            - link [ref=f415e21] [cursor=pointer]:
+              - img "LibreOne Launchpad" [ref=f415e22]
+          - listitem [ref=f415e23]:
+            - text: 
+            - generic [ref=f415e25]:
+              - generic [ref=f415e26]: "Search :"
+              - searchbox "Search :" [ref=f415e27]
+              - button " Search" [ref=f415e28] [cursor=pointer]
+            - text: 
+          - listitem [ref=f415e29]:
+            - list [ref=f415e30]:
+              - listitem [ref=f415e31]:
+                - link "Edit" [ref=f415e32] [cursor=pointer]:
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.08%3A_Accessible_Descriptions?action=edit
+              - text: 
+              - listitem [ref=f415e33]:
+                - link " Options" [ref=f415e34] [cursor=pointer]:
+                  - /url: "#"
+                - text:        
+              - text:  
+              - listitem [ref=f415e35]:
+                - link " Rachel Mastrapa" [ref=f415e36] [cursor=pointer]:
+                  - /url: "#"
+                - text:    
+      - navigation [ref=f415e37]:
+        - generic:
+          - button " Contents" [ref=f415e217] [cursor=pointer]
+          - list [ref=f415e39]:
+            - listitem [ref=f415e40]:
+              - link " Home" [ref=f415e41] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/
+                - generic [ref=f415e42]: 
+                - text: Home
+              - text: »
+            - listitem [ref=f415e43]:
+              - link " Workbench" [ref=f415e44] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench
+                - generic [ref=f415e45]: 
+                - text: Workbench
+              - text: »
+            - listitem [ref=f415e46]:
+              - link " De Anza - ASTR10" [ref=f415e47] [cursor=pointer]:
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10
+                - generic [ref=f415e48]: 
+                - text: De Anza - ASTR10
+              - text: »
+            - listitem [ref=f415e49]:
+              - 'link " 13: Stellar Finale" [ref=f415e50] [cursor=pointer]':
+                - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale
+                - generic [ref=f415e51]: 
+                - text: "13: Stellar Finale"
+              - text: »
+            - listitem [ref=f415e52]:
+              - generic [ref=f415e53]: 
+              - text: "13.8: Accessible Descriptions"
+          - button " Expand/collapse global location" [ref=f415e54] [cursor=pointer]
+      - navigation:
+        - generic:                                                
+    - article [ref=f415e55]:
+      - generic [ref=f415e56]:
+        - generic [ref=f415e57]:
+          - button " Page settings" [ref=f415e58] [cursor=pointer]
+          - text: "    :  :  :  :  :  :  :  :  :  :  :  :  :  "
+        - 'heading "13.8: Accessible Descriptions" [level=1] [ref=f415e59]':
+          - generic [ref=f415e60]: "13.8: Accessible Descriptions "
+        - list [ref=f415e62]:
+          - listitem [ref=f415e63]:
+            - link [ref=f415e65] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/4.0/
+              - generic [ref=f415e66]:
+                - img "CC" [ref=f415e67]
+                - img "BY" [ref=f415e68]
+          - listitem [ref=f415e69]:
+            - generic [ref=f415e70]:
+              - term [ref=f415e71] [cursor=pointer]: "Last updated:"
+              - definition [ref=f415e72]: Aug 10, 2026, 11:48 AM by Rachel Mastrapa
+          - listitem [ref=f415e73]:
+            - generic [ref=f415e74]:
+              - term [ref=f415e75] [cursor=pointer]: "Page restriction:"
+              - definition [ref=f415e76]: Private
+          - listitem [ref=f415e77]:
+            - generic [ref=f415e78]:
+              - term [ref=f415e79] [cursor=pointer]: "Page ID:"
+              - definition [ref=f415e80]: "132489"
+          - listitem [ref=f415e81]:
+            - list [ref=f415e82]:
+              - listitem [ref=f415e83]:
+                - button "Pin Page" [ref=f415e84] [cursor=pointer]: 
+              - text: 
+              - listitem [ref=f415e85]:
+                - list [ref=f415e86]:
+                  - listitem [ref=f415e87]:
+                    - 'link " 13.7: Key Terms" [ref=f415e88] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.07%3A_Key_Terms
+                      - text: 
+                      - generic [ref=f415e89]: "13.7: Key Terms"
+                  - listitem [ref=f415e90]:
+                    - 'link "14: Black Holes " [ref=f415e91] [cursor=pointer]':
+                      - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes
+                      - generic [ref=f415e92]: "14: Black Holes"
+                      - text: 
+              - text:  
+      - text: 
+      - generic [ref=f415e93]:
+        - group [ref=f415e220]:
+          - generic [ref=f415e221]:
+            - generic [ref=f415e222]: Why are you making this edit?
+            - textbox "Why are you making this edit?" [ref=f415e223]:
+              - /placeholder: Enter reason (viewable in Site History Report)
+          - generic [ref=f415e224]:
+            - generic [ref=f415e227]:
+              - generic [ref=f415e229]:
+                - link "Edit" [ref=f415e230]:
+                  - /url: javascript:void('Edit')
+                - link "View" [ref=f415e231]:
+                  - /url: javascript:void('View')
+                - link "Format" [ref=f415e232]:
+                  - /url: javascript:void('Format')
+                - link "Style" [ref=f415e233]:
+                  - /url: javascript:void('Style')
+                - link "Elements" [ref=f415e234]:
+                  - /url: javascript:void('Elements')
+                - link "Help" [ref=f415e235]:
+                  - /url: javascript:void('Help')
+              - group "Editor toolbars" [ref=f415e238]:
+                - toolbar [ref=f415e239]:
+                  - button "Save" [ref=f415e240]:
+                    - generic [ref=f415e241]: 
+                  - button "Cancel" [ref=f415e243]:
+                    - generic [ref=f415e244]: 
+                - text:          
+                - toolbar [ref=f415e285]:
+                  - button "Alignment" [ref=f415e286]:
+                    - generic [ref=f415e287]: 
+                - text:    
+                - toolbar [ref=f415e300]:
+                  - button "Replace" [ref=f415e301]:
+                    - generic [ref=f415e302]: 
+                - toolbar [ref=f415e304]:
+                  - button "Enable Binder" [disabled] [ref=f415e305]
+                  - button "Insert Adapt" [disabled] [ref=f415e307]
+                  - button "Query" [ref=f415e309]
+                  - button "Accessibility Checker" [disabled] [ref=f415e312]
+                - toolbar [ref=f415e315]:
+                  - button "Visual" [pressed] [ref=f415e331]:
+                    - generic [ref=f415e317]: 
+            - application "Rich Text Editor, editarea" [ref=f415e319]:
+              - textbox "Rich Text Editor, editarea" [active] [ref=f415e333]: "<h2>Figure 13.1.1 White Dwarfs in M4</h2> <p>Two-panel image showing a ground-based optical image (left) and a portion of a Hubble Space Telescope WFPC2 image (right) of the globular cluster M4.</p> <h3>Image (Ground)</h3> <ul> <li>On the left, labeled \"Ground.\"</li> <li>A ground-based, visible image of the globular cluster M4. <ul> <li>The image is based on visible light, but is grayscale, also called black and white.</li> <li>The brightness of the stars is indicated by the size of the white dot of a star.</li> </ul> </li> <li>Thousands of stars are on a black background with very little space between the stars.&nbsp; <ul> <li>The stars are dimmer and more spaced apart on the boundaries of the image.&nbsp;</li> <li>They become brighter and more crowded toward the center of the image.</li> <li>The center of the image, also the center of the cluster, has the brightest and most densely packed stars.</li> </ul> </li> <li>Two diagonal white lines extend from a small region near the cluster's center outward to the right, forming a triangle that indicates the area magnified in the HST panel.</li> </ul> <h3>Image (HST)</h3> <ul> <li>On the right, labeled \"HST.\"</li> <li>A zoomed-in, higher-resolution, visible, color image of the region outlined in the ground-based panel, taken with the Hubble Space Telescope's WFPC2 camera.</li> <li>Dozens of red, orange, and yellow-white stars are scattered against a black background.</li> <li>Many of the brighter stars display diagonal, cross-shaped structures.</li> <li>Seven faint, small stars are individually marked with white circles, distinguishing them from the surrounding brighter stars. <ul> <li>These circled stars are the white dwarfs identified in the cluster.</li> <li>They are noticeably dimmer and smaller than the yellow, orange, and red stars around them.</li> </ul> </li> </ul> <h2>Figure 13.1.2 White Dwarf Radius vs. Mass</h2> <p>A line chart showing the relationship between the mass and radius of white dwarf stars.</p> <h3>Chart Elements</h3> <ul> <li>The vertical axis is labeled Radius (solar radii) and goes from 0 at the bottom to 0.02 at the top, in increments of 0.005.</li> <li>The horizontal axis is labeled Mass (solar masses) and goes from 0 at the left to 1.4 at the right, in increments of 0.2.</li> <li>The model data is plotted as a red curve.</li> </ul> <h3>Curve</h3> <ul> <li>The curve begins at the upper left near a mass of 0.2 and a radius of 0.021.</li> <li>As mass increases, the radius decreases steadily but gradually through the middle portion of the curve.</li> <li>Near a mass of 1.2, the curve begins to drop off more steeply.</li> <li>The curve ends at the lower right near a mass of 1.4 and a radius of 0.</li> </ul> <h2>Figure 13.1.3 Evolutionary Track for the Sun</h2> <p>An H-R Diagram showing the evolutionary track of the Sun plotted against the main sequence.</p> <h3>Chart Elements</h3> <ul> <li>The vertical axis is labeled Luminosity (L<sub>Sun</sub>) and goes from 0.1 at the bottom to 10,000 at the top, in increments of 10 times the previous value.</li> <li>The horizontal axis is labeled Surface Temperature (K) and goes from 100,000 on the left to 1,000 on the right, in increments of 10 times the previous value. The scale is logarithmic instead of linear.</li> <li>The straight red line is labeled Main sequence. It begins around 12,000 K and 6,000 L<sub>Sun</sub> and ends near 6,000 K and 0.1 L<sub>Sun</sub>.</li> </ul> <h3>Evolutionary Track</h3> <ul> <li>The evolutionary curve is plotted in black.</li> <li>The overall behavior is that the track moves from the upper right of the chart, to the bottom left.</li> <li>It begins at point A, near 4,000 K and 6,000 L<sub>Sun</sub>, to the right if the main sequence.</li> <li>Right after leaving point A, the track makes a small dip to lower luminosity and higher temperature, reverses course slightly.</li> <li>The track moves mostly horizontally, staying above the main sequence, passing through point B near 70,000 K and 10,000 L<sub>Sun</sub>.</li> <li>The track then curves downward, reaching a maximum temperature of over 100,000 K, then ending at point C near 60,000 K and 10 L<sub>Sun</sub>. The track continues to lose a small amount of luminosity and temperature and ends with an arrow.</li> </ul> <h2>Figure 13.2.1 Structure of an Old Massive Star</h2> <p>A diagram showing the layered core region of an old, massive star.</p> <h3>Internal Layers</h3> <ul> <li>The core region is depicted as a set of concentric circles, shown as a cross-section.</li> <li>At the center is a small, orange circle labeled Iron.</li> <li>Surrounding the iron core, moving outward, are shells representing layers of the star. <ul> <li>Each shell is a different color, becoming progressively larger toward the outer edge of the diagram.</li> <li>From just outside the core to the surface, the shells are labeled Silicon and sulfur (yellow), Oxygen (red), Neon (blue-green), Carbon mixed with oxygen (black), Helium (blue), and Hydrogen (white).</li> </ul> </li> </ul> <h2>Figure 13.2.2 Five Supernova Explosions</h2> <p>A set of Hubble Space Telescope images showing five supernovae in other galaxies, each shown before/after and during the explosion.</p> <h3>Layout</h3> <ul> <li>The images are arranged in two rows of five panels each, with each column showing the same galaxy.</li> <li>The top row shows each galaxy with the supernova present, indicated by a white arrow pointing to a bright point of light.</li> <li>The bottom row shows the same five galaxies without the supernova visible.</li> </ul> <h3>Galaxies</h3> <ul> <li>From left to right, the galaxies are labeled: HST04Sas, HST04Yow, HST04Zwi, HST05Lan, and HST05Str.</li> <li>Each galaxy appears as a small, faint, colorful smudge of light against a black background, with varying shapes across the five columns.</li> </ul> <p>Credit: modification of work by NASA, ESA, and A. Riess (STScI)</p> <h2>Figure 13.2.3 Kepler Supernova Remnant</h2> <p>A multi-wavelength composite image of the Kepler Supernova Remnant, shown alongside its four individual wavelength components.</p> <h3>Combined Image</h3> <ul> <li>The large panel on the left is the final combined image of the supernova remnant, a diffuse, spherical shell of gas an a black brackground.</li> <li>The shell is depicted in a mix of blue, green, red, and yellow, with bright regions near the center and the upper right.</li> </ul> <h3>Individual Wavelength Panels</h3> <ul> <li>Four smaller panels are arranged to the right of the combined image, in a 2x2 grid. Each ones is a single color on a black background.</li> <li>Top left: <ul> <li>X-ray, shown in blue.</li> <li>Acquired by the Chandra X-ray Observatory.&nbsp;</li> <li>The structure and brightness is relatively consistent througout the circular shape, with bright spots around the outisde rings, and dark blotches near the center.</li> </ul> </li> <li>Top right: <ul> <li>X-ray, shown in green.</li> <li>Acquired by the Chandra X-ray Observatory.</li> <li>The overall structure is similar to a swirl, starting on the left side, extending clockwise, and ending in the center.</li> <li>The detail in the fine structure of the gas is improved compared to the top left image.</li> </ul> </li> <li>Bottom left: <ul> <li>Visible, shown in yellow.</li> <li>Acquired by the Hubble Space Telescope.</li> <li>There are just a few wisps of cloud, mostly on the upper right, with small points near the center.</li> </ul> </li> <li>Bottom right: <ul> <li>Infrared, shown in red.</li> <li>Acquired by the Spitzer Space Telescope.</li> <li>The shape is similar to the top right image, except with less detail.</li> </ul> </li> </ul> <p>Credit: modification of work by NASA, ESA, R. Sankrit and W. Blair (Johns Hopkins University)</p> <h2>Figure 13.3.1 SN 1006</h2> <p>A multi-wavelength composite image of the supernova remnant SN 1006, acquired in X-ray, visible, and radio light.</p> <h3>Image Elements</h3> <ul> <li>The remnant is depicted as a nearly spherical bubble of gas, set against a dense background of stars.</li> <li>The bubble's structure is a mottled mix of blue and red, with X-ray emission shown in blue and radio emission shown in red.</li> <li>A thin, bright arc of visible light, shown in white-yellow, is included along the upper right edge of the bubble.</li> </ul> <p>Credit: NASA, ESA, Zolt Levay (STScI)</p> <h2>Figure 13.3.2 SN 1054</h2> <p>A visible light image of the supernova remnant from SN 1054, showing an intricate, web-like structure of glowing gas filaments.</p> <h3>Image Elements</h3> <ul> <li>The remnant is&nbsp; a large, irregularly shaped cloud of gas, roughly oval in overall outline.</li> <li>A dense, tangled network of thin, bright filaments crisscrosses the interior, appearing in shades of white, pink, and pale green.</li> <li>Several dark, open cavities are interspersed among the filaments, particularly near the center and lower left, revealing a soft blue glow underneath.</li> <li>The outer edge of the remnant is rimmed with a diffuse orange and red glow.</li> <li>The central part of the remnant has a blue-green glow.</li> <li>The remnant is set against a black background dotted with numerous small background stars.</li> </ul> <h2>Figure 13.3.3 SN 2014J</h2> <p>A Hubble Space Telescope image of the galaxy M82, with an inset showing supernova SN 2014J.</p> <h3>Main Image</h3> <ul> <li>The body of the galaxy extends diagonally across the image, from the upper left to the lower right.</li> <li>The galaxy's core glows white and blue-white, surrounded by dark, dusty lanes.</li> <li>Large plumes and delicate tendrils of reddish hydrogen gas extend outward from the center of the galaxy to great distances, particularly toward the lower portion of the image.</li> <li>A small white box is included to the right of center, marking the location of the supernova.</li> </ul> <h3>Inset Image</h3> <ul> <li>An enlarged inset is included at the lower right, showing a close-up HST image of the supernova.</li> <li>The supernova appears as a single bright point of light with a yellow-white center and faint rays.</li> <li>The inset is captioned \"SN 2014J January 31, 2014.\"</li> </ul> <p>Credit: NASA, ESA, A. Goobar (Stockholm University), and the Hubble Heritage Team (STScI/AURA)</p> <h2>Figure 13.3.4 SN 1987A</h2> <p>A Hubble Space Telescope image of the supernova remnant SN 1987A.</p> <h3>Supernova Remnant</h3> <ul> <li>The supernova remnant is very small compared to the rest of the image, described in Image Elements.</li> <li>The supernova remnant SN 1987A is depicted bright red-pink oval located near the center of the image, left of the blue-white star cluster. The bright oval has a center dot of the same color.</li> <li>The bright oval is connected to two fainter red circles, one extending to the upper right and one extending to the bottom left. The circles are slightly overlapping, forming a shape similar to a number eight.</li> </ul> <h3>Image Elements</h3> <ul> <li>The image depicts a wide field of glowing reddish and orange gas clouds (nebula), filling most of the image.</li> <li>Numerous background stars of varying brightness and color are scattered throughout the image, appearing as small white, yellow, and blue points of light.</li> <li>A dense, dark region with little gas is included in the lower-left portion of the image, creating contrast against the surrounding bright nebula.</li> </ul> <p>Credit: Hubble Heritage Team (AURA/STScI/NASA/ESA)</p> <h2>Figure 13.3.5 Ring Around SN 1987A</h2> <p>Two images comparing the appearance of the ring surrounding Supernova 1987A in 1997 and 2003.</p> <h3>Image (a)</h3> <ul> <li>On the left, labeled \"1997.\"</li> <li>A hazy, elongated pinkish-white central object is located at the center of the image.</li> <li>An oval-shaped ring surrounds the central object, composed of many small orange and yellow patches of light against a dark purple background. The ring is mostly continuous with some tiny gaps.</li> <li>The ring appears fairly uniform in brightness, except for one notably bright white-yellow patch located at the lower right of the ring.</li> </ul> <h3>Image (b)</h3> <ul> <li>On the right, labeled \"2003.\"</li> <li>A hazy, elongated pinkish-white central object is included at the center of the image, similar in position to Image (a), except significantly dimmer.</li> <li>An oval-shaped ring surrounds the central object, composed of about 15 bright white and orange circular patches of light against a dark purple background.</li> <li>The ring is much brighter overall than in Image (a), with the individual bright patches more numerous and more evenly distributed around the ring.</li> <li>Unlike the mostly continuous orange ring in Image (a), the bright, circular patches have clearly defined boundaries, similar to a beaded necklace.</li> </ul> <p>Credit: NASA, P. Challis, R. Kirshner (Harvard-Smithsonian Center for Astrophysics) and B. Sugerman (STScI)</p> <h2>Figure 13.3.6 JWST Observes SN 1987A</h2> <p>A James Webb Space Telescope near-infrared image of the region surrounding Supernova 1987A.</p> <h3>Central Structure</h3> <ul> <li>A keyhole-shaped structure is included at the center of the image, formed by clumpy gas and dust ejected by the supernova explosion.</li> <li>The dust in this central region is depicted as a dark, blue-tinted patch, dense enough that even the near-infrared light detected by Webb cannot penetrate it, forming the dark \"hole\" of the keyhole.</li> </ul> <h3>Equatorial Ring</h3> <ul> <li>A bright, oval equatorial ring surrounds the central keyhole structure, composed of many small clumped patches of white and yellow light. This is the same ring included in Figure 13.3.5</li> <li>Outside the bright ring, there is a softer, glowing orange halo of gas, fading outward into the surrounding dark background.</li> </ul> <h3>Outer Structure</h3> <ul> <li>Two faint, diffuse arms extend from the equatorial ring, forming the outer edges of a larger hourglass-shaped structure that connects to the ring at its waist.</li> <li>These faint arms are depicted as reddish, wispy extensions reaching outward from the top and bottom of the central region.</li> </ul> <h3>Surrounding Field</h3> <ul> <li>Numerous background stars are scattered throughout the image, several displaying prominent diffraction spikes.</li> <li>A small, tight cluster of faint stars is included in the lower right portion of the image.</li> </ul> <h3>False Color Assignments</h3> <ul> <li>In this false color image, specific infrared wavelengths have been assigned to a visible wavelength color.</li> <li>Blue is 1.5 μm</li> <li>Yellow is 3.23 μm</li> <li>Orange is 4.05 μm</li> <li>Red is 4.44 μm</li> </ul> <h2>Figure 13.3.7 SN 1987A Brightness vs. Time</h2> <p>A line chart depicting the change in apparent visual magnitude (brightness) of Supernova 1987A over time following the outburst.</p> <h3>Chart Elements</h3> <ul> <li>The vertical axis is labeled Apparent Visual Magnitude and ranges from 0 at the top to approximately 20 at the bottom, with gridlines at increments of 5 on a linear scale. Higher magnitude values indicate a dimmer object, while lower values correspond to greater brightness. The axis has larger magnitude values at the bottom so that values at the top of the axis are the brightest.</li> <li>The horizontal axis is labeled Days since Outburst and ranges from 0 on the left to approximately 1,400 on the right, with labeled gridlines at 0, 500, and 1,000 on a linear scale.</li> <li>The data is plotted as a single red line.</li> </ul> <h3>Curve Description</h3> <ul> <li>The line begins near day 0 at a magnitude of about 5.</li> <li>It rises to a peak brightness of about magnitude 3 around day 100.</li> <li>The curve then dips slightly, falling back to about magnitude 5.5 by around day 200.</li> <li>From there, the curve declines gradually, reaching about magnitude 8 by day 500.</li> <li>The decline steepens between day 500 and day 1,000, with the magnitude increasing to over 15, meaning that the brightness has dropped significantly.</li> <li>The decrease in brightness than slows, but continues to decline gradually to about magnitude 17 by around day 1,400, where the line ends.</li> </ul> <h2>Figure 13.4.1 Neutron Star RX J1856.5−3754</h2> <p>A Hubble Space Telescope WFPC2 image of neutron star RX J1856.5−3754.</p> <h3>Image Elements</h3> <ul> <li>The image has reddish and cyan tones against a dark background, filled with numerous small red-orange and cyan stars scattered throughout the image.</li> <li>A white arrow points toward a faint, small, white point of light located near the center of the image, indicating the position of the neutron star RX J1856.5−3754.</li> <li>The neutron star itself appears as a faint, star-like point, not visually distinguishable in brightness from the surrounding faint background stars except for the arrow marking its location.</li> <li>A bright red star with prominent spikes is in the lower left corner of the image.</li> </ul> <p>Credit: Fred Walter (State University of New York at Stony Brook) and NASA/ESA</p> <h2>Figure 13.4.2 Crab Nebula in X-rays</h2> <p>A Chandra X-ray Observatory image of the Crab Nebula.</p> <h3>Central Region</h3> <ul> <li>The pulsar is depicted as a small, bright white point near the center of the image.</li> <li>Concentric rings of white light surround the pulsar, forming an oval, swirling structure. The long ends of the oval are on the upper left and bottom right.</li> <li>A white jet of material extends from the pulsar toward the lower left of the image, appearing as a bright, elongated cone-shaped feature with diffuse wisps at the end.</li> </ul> <h3>Surrounding Gas Cloud</h3> <ul> <li>A diffuse, irregularly shaped cloud of gas surrounds the central rings and jet, depicted in orange and yellow tones.</li> <li>The outer edges of the gas cloud are wispy and uneven, similar in structure and color to flames, fading into the dark background at the edges of the image.</li> </ul> <p>Credit: NASA/CXC/SAO</p> <h2>Figure 13.4.3 Model of a Pulsar</h2> <p>A diagram illustrating the structure a pulsar, demonstrating the lighthouse model.</p> <h3>Diagram Elements</h3> <ul> <li>Earth is depicted below center, small and blue, positioned in the path of an cone of light labeled Beam of particles and radiation.</li> <li>The neutron star, labeled Neutron star, at upper right as a blue sphere.</li> <li>The rotation axis of the neutron star is drawn as a vertical line extending upward from the neutron star, labeled Rotation axis, with a counter-clockwise arrow around it indicating the direction of rotation. The direction of rotation indicates that the beam will soon move over the Earth</li> <li>Magnetic field lines are depicted as concentric red arcs arranged in a plane perpendicular to the rotation axis, extending outward on either side of the neutron star. The plane of the magnetic field also includes Earth and the beams.</li> </ul> <h3>Magnetic Poles and Beams</h3> <ul> <li>The magnetic field lines intersect the surface of the neutron star at two points. The point on the lower left side of the neutron star is labeled North magnetic, while the point on the upper right side of the neutron star is labeled South magnetic pole.</li> <li>A cone-shaped beam of radiation, shaded in pale yellow, is emitted from each magnetic pole.</li> <li>The beam from the north magnetic pole faces toward the lower left.</li> <li>The beam from the south magnetic pole faces toward the upper right.</li> </ul> <p>Credit: Tony Hisgett</p> <h2>Figure 13.5.1 GK Persei</h2> <p>A multi-wavelength composite image of the nova remnant GK Persei.</p> <h3>Image Elements</h3> <ul> <li>A bright white-blue point of light is left of center, indicating the white dwarf star.</li> <li>Surrounding the star, there is a roughly circular shell of debris, composed of numerous small clumps and filaments radiating outward.</li> <li>The debris shell shows a mix of colors: blue diffuse glow (X-ray data) fills much of the interior region, while pink and magenta clumps and streaks (radio data) are scattered throughout, tracing filamentary structures extending outward from the center.</li> <li>Faint yellow-orange specks (visible light data) are scattered among the pink and blue regions.</li> <li>The remnant appears brightest and most densely packed with filaments near the center, becoming more sparse toward the outer edges.</li> <li>A separate, small pink point of light is included to the lower left of the main remnant, isolated against the dark background.</li> <li>The surrounding background is black, with no other stars visible in the image.</li> </ul> <p>Credit: X-ray: NASA/CXC/RIKEN/D. Takei et al.; Optical: NASA/STScI; Radio: NRAO/VLA</p> <h2>Figure 13.5.2 Type Ia Supernova</h2> <p>A five-panel diagram illustrating the evolution of a binary star system leading to a Type Ia supernova, read from left to right indicating the passage of time.</p> <h3>Panel 1</h3> <ul> <li>The primary star is depicted at bottom as a large white circle.</li> <li>The secondary star is depicted above it as a smaller white circle.</li> <li>A grey arrow points to the right, indicating the transition to the next phase.</li> </ul> <h3>Panel 2</h3> <ul> <li>The primary star has evolved into a 1Red giant, depicted as a large red circle with a glowing outer edge.</li> <li>The secondary star remains a main-sequence star, depicted as a small white circle above the red giant.</li> <li>A grey arrow points to the right, indicating the transition to the next phase.</li> </ul> <h3>Panel 3</h3> <ul> <li>The primary star has evolved into a white dwarf, depicted as a small white dot.</li> <li>The secondary star remains a Main-sequence star, depicted as a small white circle above the white dwarf.</li> <li>A grey arrow points to the right, indicating the transition to the next phase.</li> </ul> <h3>Panel 4</h3> <ul> <li>The primary star remains a White dwarf, depicted as a small white dot at bottom.</li> <li>The secondary star has evolved into a Red giant, depicted as a large red circle above the white dwarf, with a stream of material flowing downward from the red giant toward the white dwarf.</li> <li>A grey arrow points to the right, indicating the transition to the final phase.</li> </ul> <h3>Panel 5</h3> <ul> <li>The primary star has exploded as a Type Ia supernova, depicted as a bright white burst with jagged white streaks of debris radiating outward.</li> <li>The secondary star is now a red-giant remnant, depicted as a small white circle above the supernova debris.</li> </ul> <p>A note at the bottom left of the image indicates the diagram is \"Not to scale.\"</p> <h2>Figure 13.5.3 SN 1994D in NGC 4526</h2> <p>A Hubble Space Telescope image of the spiral galaxy NGC 4526, and Supernova 1994D.</p> <h3>Image Elements</h3> <ul> <li>The galaxy NGC 4526 is depicted diagonally across the image, oriented nearly edge-on, extending from the lower left to the upper right.</li> <li>A bright, glowing central bulge is in the middle of the galaxy, appearing pale purple-white in color.</li> <li>A dark, dusty lane runs along the plane of the galaxy's disk, tracing its edge-on orientation and partially obscuring the light from the bulge.</li> <li>A bright, star-like point of light, SN 1994D, is in the lower left portion of the image, separate from the galaxy's bulge, along the near edge of the disk.</li> <li>The background surrounding the galaxy is dark, with a few faint, scattered stars visible.</li> </ul> <p>Credit: NASA/ESA, The Hubble Key Project Team and The High-Z Supernova Search Team</p>"
+              - generic [ref=f415e321]:
+                - text: "Who is editing: nobody else is currently editing"
+                - link "" [ref=f415e323] [cursor=pointer]:
+                  - /url: javascript:void('update')
+              - text:      
+        - generic [ref=f415e95]:
+          - separator [ref=f415e96]
+          - paragraph [ref=f415e98]:
+            - 'link "13.8: Accessible Descriptions" [ref=f415e99] [cursor=pointer]':
+              - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.08%3A_Accessible_Descriptions
+            - text: is shared under a
+            - link "CC BY" [ref=f415e100] [cursor=pointer]:
+              - /url: https://creativecommons.org/licenses/by/
+            - text: license and was authored, remixed, and/or curated by LibreTexts.
+      - generic [ref=f415e101]:
+        - list [ref=f415e102]:
+          - listitem [ref=f415e103]:
+            - link "Back to top" [ref=f415e104] [cursor=pointer]:
+              - /url: "#title"
+          - listitem [ref=f415e105]:
+            - list [ref=f415e106]:
+              - listitem [ref=f415e107]:
+                - 'link " 13.7: Key Terms" [ref=f415e108] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/13%3A_Stellar_Finale/13.07%3A_Key_Terms
+                  - text: 
+                  - generic [ref=f415e109]: "13.7: Key Terms"
+              - listitem [ref=f415e110]:
+                - 'link "14: Black Holes " [ref=f415e111] [cursor=pointer]':
+                  - /url: https://phys.libretexts.org/Workbench/De_Anza_-_ASTR10/14%3A_Black_Holes
+                  - generic [ref=f415e112]: "14: Black Holes"
+                  - text: 
+        - list [ref=f415e115]:
+          - listitem [ref=f415e116]: Was this article helpful?
+          - listitem [ref=f415e117]:
+            - button "Yes" [ref=f415e118] [cursor=pointer]
+          - listitem [ref=f415e119]:
+            - button "No" [ref=f415e120] [cursor=pointer]
+          - listitem [ref=f415e121]:
+            - button "Leave feedback" [ref=f415e122] [cursor=pointer]
+          - listitem
+        - generic:     
+        - text: ": : : :"
+        - generic [ref=f415e123]:
+          - heading "Attachments" [level=2] [ref=f415e124]
+          - generic:
+            - button "Attach a file" [ref=f415e125] [cursor=pointer]
+            - text: 
+          - generic [ref=f415e127]:
+            - generic [ref=f415e130]:
+              - text: "Search file names and descriptions:"
+              - searchbox "Search file names and descriptions:" [ref=f415e131]
+            - generic [ref=f415e132]:
+              - grid [ref=f415e135]:
+                - rowgroup [ref=f415e136]:
+                  - row [ref=f415e137]:
+                    - 'columnheader "File: activate to sort column descending" [ref=f415e138]':
+                      - generic:
+                        - generic [ref=f415e139]: File
+                        - generic [ref=f415e140]: 
+                    - 'columnheader "Last modified: activate to sort column ascending" [ref=f415e141]':
+                      - generic:
+                        - generic [ref=f415e142]: Last modified
+                        - generic [ref=f415e143]: 
+                    - 'columnheader "Size: activate to sort column ascending" [ref=f415e144]':
+                      - generic:
+                        - generic [ref=f415e145]: Size
+                        - generic [ref=f415e146]: 
+                    - 'columnheader "Added by: activate to sort column ascending" [ref=f415e147]':
+                      - generic:
+                        - generic [ref=f415e148]: Added by
+                        - generic [ref=f415e149]: 
+              - grid [ref=f415e151]:
+                - rowgroup:
+                  - 'row "File: activate to sort column descending Last modified: activate to sort column ascending Size: activate to sort column ascending Added by: activate to sort column ascending"':
+                    - 'columnheader "File: activate to sort column descending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f415e152]: File
+                          - generic [ref=f415e153]: 
+                    - 'columnheader "Last modified: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f415e154]: Last modified
+                          - generic [ref=f415e155]: 
+                    - 'columnheader "Size: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f415e156]: Size
+                          - generic [ref=f415e157]: 
+                    - 'columnheader "Added by: activate to sort column ascending"':
+                      - generic:
+                        - generic:
+                          - generic [ref=f415e158]: Added by
+                          - generic [ref=f415e159]: 
+                - rowgroup [ref=f415e160]:
+                  - row [ref=f415e161]:
+                    - gridcell " mindtouch.page#thumbnail (no description)" [ref=f415e162]:
+                      - generic [ref=f415e163]:
+                        - generic [ref=f415e164]:
+                          - generic [ref=f415e165]: 
+                          - link "mindtouch.page#thumbnail" [ref=f415e166] [cursor=pointer]:
+                            - /url: https://phys.libretexts.org/@api/deki/files/63472/mindtouch.page%23thumbnail?origin=mt-web
+                          - text:   
+                        - generic [ref=f415e167]:
+                          - generic [ref=f415e168]: (no description)
+                          - text: 
+                    - gridcell "Dec 7, 2025, 8:28 PM" [ref=f415e169]
+                    - gridcell "11 KiB" [ref=f415e171]
+                    - gridcell "Rachel Mastrapa" [ref=f415e172]
+    - generic [ref=f415e174]:
+      - button "Open support menu" [ref=f415e176] [cursor=pointer]: "?"
+      - navigation [ref=f415e178]:
+        - paragraph [ref=f415e180]:
+          - text: The LibreTexts libraries are
+          - link "Powered by NICE CXone Expert" [ref=f415e181] [cursor=pointer]:
+            - /url: https://www.nice.com/resources/cxone-expert-knowledge-management
+          - text: and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739.
+          - link "Privacy Policy" [ref=f415e182] [cursor=pointer]:
+            - /url: https://libretexts.org/privacy
+          - text: .
+          - link "Terms & Conditions" [ref=f415e183] [cursor=pointer]:
+            - /url: https://libretexts.org/terms-conditions
+          - text: .
+          - link "Accessibility Statement" [ref=f415e184] [cursor=pointer]:
+            - /url: https://commons.libretexts.org/accessibility
+          - text: . For more information contact us at
+          - link "info@libretexts.org" [ref=f415e185] [cursor=pointer]:
+            - /url: mailto:info@libretexts.org
+          - text: .
+  - generic:
+    - generic [ref=f415e186]:
+      - generic:
+        - generic [ref=f415e188]:
+          - button "Annotation sidebar" [ref=f415e189]
+          - generic [ref=f415e194]:
+            - button "Show highlights" [ref=f415e195]
+            - button "New page note" [ref=f415e200]
+          - status [ref=f415e205]: Highlights hidden
+        - generic:
+          - list
+    - generic:
+      - list
+  - generic [ref=f415e206]:
+    - button "contents" [ref=f415e207] [cursor=pointer]
+    - button "readability" [ref=f415e209] [cursor=pointer]
+    - button "resources" [ref=f415e211] [cursor=pointer]
+    - button "tools" [ref=f415e213] [cursor=pointer]
+    - button "developers" [ref=f415e215] [cursor=pointer]
+  - text:  
+  - generic [ref=f415e324]:
+    - generic [ref=f415e325] [cursor=pointer]: Complete your gift to make an impact
+    - img [ref=f415e328] [cursor=pointer]
