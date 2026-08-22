@@ -28,24 +28,61 @@ If starting new project, use libretext to harvest book to repo using export-book
 ## Edit Chapter - Claude/AI
 
 ### Clean HTML - Claude/AI
-1. **Remove italics** — Strip all `<em>` or `<i>` tags from the text.
-2. **Remove bold** — Remove `<strong>` or `<b>` tags, *except* when they wrap a link to a key terms page.
-3. **Remove term spans** — Replace `<span class="no-emphasis" data-type="term" ...>text</span>` with just the plain text.
-4. **Remove `&nbsp;`** — Replace non-breaking spaces with a regular space if a space is needed, or remove them entirely if no space is needed.
-5. **Replace Figure and Table numbers** — Replace all specific Figure and Table numbers (e.g., Figure 21.5, Table 18.1) with `Figure \(\PageIndex{1}\)` or `Table \(\PageIndex{1}\)`.
-7. **Correct minor HTML errors** — Fix any small structural or syntax errors in the HTML.
-8. **Format equations in KaTeX** — Convert all equations to KaTeX formatting:
-    - Inline equations: wrap with `\(...)\)`
-    - Block or Display equations: wrap with `\[]...\nonumber\]`
-    - Variables not in equations are rendered as plain HTML text with no italics.
-9. **Remove parenthetical "see" references** — Remove parenthetical text that begins with "see" but keep any Figure \(\PageIndex{1}\) reference. For example:
+1. **Remove italics** — strip `<em>` and `<i>` tags, keeping the inner text.
+2. **Remove bold** — strip `<strong>` and `<b>` tags, keeping inner text,
+   **except** when the tag directly wraps an `<a>` link to a key-terms page
+   (href contains `Key_Terms`). Leave those completely untouched — tag,
+   attributes, and all. Also do not change for for a figure thumbnail on the main chapter page or for the word Solution in an example  .
+   - Example — change this: `<strong>text</strong>` → `text`
+   - Example — do **not** change this:
+     `<strong><a href="/Workbench/.../13.07%3A_Key_Terms#nova" target="_blank" title="nova">nova</a></strong>`
+   - Example - do **not** change this: `<strong>Thumbnail</strong>` on the main chapter page, usually NN.00-Introduction.html
+3. **Remove term spans** — replace
+   `<span class="no-emphasis" data-type="term" ...>text</span>` with just
+   `text` or  `<span data-type="term" ...>text</span>` with just
+   `text`.
+4. **Remove `&nbsp;`** — replace with a single regular space if a space is
+   needed for readability at that point; otherwise remove it entirely with
+   no replacement.
+5. **Replace specific Figure/Table numbers** — in paragraph text and figure/table markup. (not
+   headers), replace any literal
+   figure/table number like "Figure 21.5" or "Table 18.1" with
+   `Figure \(\PageIndex{1}\)` or `Table \(\PageIndex{1}\)`.
+6. **Remove parenthetical "see" references** — remove parenthetical text
+   that begins with "see," keeping any Figure reference unwrapped:
    - `(see Figure \(\PageIndex{1}\))` → `Figure \(\PageIndex{1}\)`
    - `(Figure \(\PageIndex{1}\))` → `Figure \(\PageIndex{1}\)`
    - `(see Active Galaxies, Quasars...)` → removed entirely
-   - Parentheses around entire sentences are also removed.
+   - Parentheses wrapping an entire sentence (or more) → removed
+   - In-text citations like `(Urton, 1981)` → removed
+7. **Correct minor HTML errors** — fix small, obvious structural issues
+   (unclosed tags, mismatched quotes). Do not restructure or reorder content.
+8. **Remove breaks** - Remove `<br />`. Paragraph text should end with `</p>`
+
+## Hard exclusions — never modify or remove, under any rule above
+
+- Anything inside a `<strong><a href="...Key_Terms...">...</a></strong>`
+  key-term link.
+- `<img>` `src` attributes or any figure numbering/indices.
+- Class attributes from header or paragraph tags. e.g. 
+- Anything not explicitly covered by rules 1–8 above (Example/Exercise
+  boxes, Further Exploration, learning objectives, IDEA/grammar
+  highlighting, paragraph reordering, references formatting).
+
+
+
+
 
 
 ### Edit HTML - user interactions
+
+8. **Format equations in KaTeX**:
+   - Inline equations → wrap with `\(...\)`
+   - Block/display equations → wrap with `\[...\nonumber\]`
+   - Plain variables that are not inside an equation (e.g. `H<sub>0</sub>`,
+     `v is the velocity...`) stay as normal HTML text, no italics.
+   - **Never** touch equations inside figure or table markup — leave those
+     exactly as-is.
 
 8. **Examples and Exercises**
    - If a header starts with "Example," reformat it into a styled example box with the header text as the box legend and the section text inside the box.

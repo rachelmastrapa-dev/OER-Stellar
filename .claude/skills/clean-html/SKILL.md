@@ -43,12 +43,15 @@ in memory, then write the result back to the same path (overwrite in place).
 2. **Remove bold** — strip `<strong>` and `<b>` tags, keeping inner text,
    **except** when the tag directly wraps an `<a>` link to a key-terms page
    (href contains `Key_Terms`). Leave those completely untouched — tag,
-   attributes, and all.
+   attributes, and all. Also do not change for for a figure thumbnail on the main chapter page or for the word Solution in an example or answer in an exercise.
    - Example — change this: `<strong>text</strong>` → `text`
    - Example — do **not** change this:
      `<strong><a href="/Workbench/.../13.07%3A_Key_Terms#nova" target="_blank" title="nova">nova</a></strong>`
+   - Example - do **not** change this: `<strong>Thumbnail</strong>` on the main chapter page, usually NN.00-Introduction.html
+   - Example: for Exercises and Examples, do **not** change `<strong>Answer</strong>` or `<strong>Solution</strong>`. 
 3. **Remove term spans** — replace
    `<span class="no-emphasis" data-type="term" ...>text</span>` with just
+   `text` or  `<span data-type="term" ...>text</span>` with just
    `text`.
 4. **Remove `&nbsp;`** — replace with a single regular space if a space is
    needed for readability at that point; otherwise remove it entirely with
@@ -66,13 +69,7 @@ in memory, then write the result back to the same path (overwrite in place).
    - In-text citations like `(Urton, 1981)` → removed
 7. **Correct minor HTML errors** — fix small, obvious structural issues
    (unclosed tags, mismatched quotes). Do not restructure or reorder content.
-8. **Format equations in KaTeX**:
-   - Inline equations → wrap with `\(...\)`
-   - Block/display equations → wrap with `\[...\nonumber\]`
-   - Plain variables that are not inside an equation (e.g. `H<sub>0</sub>`,
-     `v is the velocity...`) stay as normal HTML text, no italics.
-   - **Never** touch equations inside figure or table markup — leave those
-     exactly as-is.
+8. **Remove breaks** - Remove `<br />`. Paragraph text should end with `</p>`
 
 ## Hard exclusions — never modify or remove, under any rule above
 
