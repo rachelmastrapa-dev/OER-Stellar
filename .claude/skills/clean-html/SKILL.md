@@ -65,7 +65,7 @@ in memory, then write the result back to the same path (overwrite in place).
    - `(see Figure \(\PageIndex{1}\))` → `Figure \(\PageIndex{1}\)`
    - `(Figure \(\PageIndex{1}\))` → `Figure \(\PageIndex{1}\)`
    - `(see Active Galaxies, Quasars...)` → removed entirely
-   - Parentheses wrapping an entire sentence (or more) → removed
+   - Parentheses wrapping an entire sentence (or more) → remove the parentheses, leave the sentence Example: Change `(sentence)` to `sentence`
    - In-text citations like `(Urton, 1981)` → removed
 7. **Correct minor HTML errors** — fix small, obvious structural issues
    (unclosed tags, mismatched quotes). Do not restructure or reorder content.
