@@ -32,6 +32,8 @@ Ask which chapter to process if not specified, e.g.:
   given chapter folder.
 - Do **not** recurse into the chapter's `images/` subfolder or touch
   `manifest.csv`.
+- Do **not** recurse into the chapter's `sources/` subfolder or touch
+  `attributions.csv` or `references.csv`.
 - If no matching files are found, say so and stop.
 
 ## Per-file edit rules

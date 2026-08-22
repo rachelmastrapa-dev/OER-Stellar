@@ -8,16 +8,20 @@
 - Parapgraph text is [Normal-aka Default]
 - May have figures in text. See page-styles/figure-format
 
-**The following sections may or may not appear on every section page.**
+**The following sections may or may not appear on every section page, but should appear in this order**
 
 ## Examples and Exercises [Heading 2]
 - Contains the example and exercise boxes.
-- See page-styles/exercise-box.md and page-styles/example-box.md for formatting and examples. 
+- Read `guidelines/page-styles/exercise-box.md` and `guidelines/page-styles/example-box.md` for formatting and examples. 
+
+## Further Exploration 
+- Contains links to outside content for student enrichments
+- Read `guidelines/page-styles/further-exploration.md` for formatting and examples.
 
 ## References 
 - Use HTML unordered list.
 - List alphabettically by author.
-- See page-styles/references.md for formatting and examples.
+- Read page-styles/references.md for formatting and examples.
 
 ## Attributions [Heading 2]
 - Attributions of remixed OER material.
