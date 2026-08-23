@@ -1,13 +1,12 @@
 ---
 name: clean-html
-description: Apply a fixed set of mechanical, no-judgment text edits to every local section HTML file in one chapter folder (strip italics/bold, remove term spans and nbsp, replace figure/table numbers, remove "see" parentheticals, fix minor HTML errors, format equations in KaTeX). Overwrites files in place; relies on git for undo.
+description: Apply a fixed set of mechanical, no-judgment text edits to every local section HTML file in one chapter folder (strip italics/bold, remove term spans and nbsp, replace figure/table numbers, remove "see" parentheticals, fix minor HTML errors). Overwrites files in place; relies on git for undo.
 ---
 
 # Clean HTML (Simple / Passive Edits)
 
 Apply a fixed, deterministic set of text-cleanup rules to every section HTML
-file in **one local chapter folder**. This mirrors the "Passive - no user
-interaction needed" list from `Old/ASTR10-Editing.md`. It does **not** make
+file in **one local chapter folder**. It is meant to be passive, without user interaction. It does **not** make
 judgment calls, reorganize content, touch figures, or handle key terms,
 Example/Exercise boxes, headings, Further Exploration, IDEA/grammar
 highlighting, or references — those are separate steps.
@@ -32,6 +31,8 @@ Ask which chapter to process if not specified, e.g.:
   given chapter folder.
 - Do **not** recurse into the chapter's `images/` subfolder or touch
   `manifest.csv`.
+- Do **not** recurse into the chapter's `sources/` subfolder or touch
+  `attributions.csv` or `references.csv`.
 - If no matching files are found, say so and stop.
 
 ## Per-file edit rules

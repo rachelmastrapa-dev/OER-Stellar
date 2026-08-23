@@ -9,6 +9,7 @@
     1. Open a terminal command prompt 
     2. Navigate to repo 
     3. Type claude
+    4. Exit when not using
 5. Commit often! Keep careful session notes!
 ## Ending Day
 1. List questions for tomorrow in session file
@@ -35,64 +36,34 @@ If starting new project, use libretext to harvest book to repo using export-book
 ### Edit HTML - Claude/AI user interactions
 
 Ask for help!
+1. Move all learning objectives to main chapter page.
+2. Change equations from MathML to Latex.
+3. Move all link to learning items to Further Exploration. 
+4. Put example and exercises in boxes and move to the correct section.
 
-
-1. **Learning Objectives**
-   - If there is not one already, create a learning objectives box on the main chapter page.
-   - Find the learning objectives boxes on each page. 
-   - Move the learning objectives from chapters into main chapter page.
-   - Delete the learning objectives boxes on the 
-2. **Format equations in LaTeX**:
-   - Inline equations → wrap with `\(...\)`
-   - Block/display equations → wrap with `\[...\nonumber\]`
-   - Plain variables that are not inside an equation (e.g. `H<sub>0</sub>`,
-     `v is the velocity...`) stay as normal HTML text, no italics.
-   - **Never** touch equations inside figure or table markup — leave those
-     exactly as-is.
-3. **Further Exploration**
-  - Note boxes that say link to learning 
-     - Create note box at end of page called Further Exploration
-     - Move each of the link statements to the Further Exploration box and 
-     - If there is more than one paragraph, format all to an unnumbered list
-     - Follow the link to its actual source and replace the link in the html with the actual page.
-4. **Examples and Exercises**
-   - If a header starts with "Example," reformat it into a styled example box with the header text as the box legend and the section text inside the box.
-   - If a header starts with "Exercise," reformat it into a styled exercise box, with the header as the legend, section text inside, and any answer text moved to the answer section.
-   - Move Examples and Exercises boxes to the end of the page according to guidelines\page-styles\section-page.md
-
-
-
-## Edit Text - Manual
-- Make sure remixed material is in the correct section.
-- Delete extra text & figures
-- Organize and edit text. 
-- Figure titles Default attribution - make a default attribution log, attribution info
-
+Future: remove text from other boxes?
 
 
 ## HTML Review - Manual 
-
-- Delete extra text or figures.
-- log attribution info, including codes                
-- Log attribution info for figures and give them titles.
-
-- log references, key terms, etc.
+- Make sure remixed material is in the correct section.
+- Delete extra text or figures. -delete figure in folder and .csv file?
+- Organize and edit text. - First pass at grouping topics
+- Figures 
+  - add titles 
+  - manually index?
+  - Default attribution ??
+  - log attribution info, including codes                
 - contextualize further exploration links
 
-
-
-
-## Logging
-- collecting class attributes - connecting to location default attribute?  page attribute?
-- collecting references
-- collecting manual page attributions
+### Logging 
+- by hand for now - make a .csv file and enter manually?
+- class attributes - connecting to location default attribute?  page attribute?
+- references
+- manual page attributions
 - figure attribution info
 
-
-
 ## Format Figures - Claude AI - more astro figs to skills in ASTR10
-- delete unused figures?
-- Increment Figure indices
+- Increment Figure indices??
 - Accesible Descriptions
 - alt-text
 - Figure attribution
@@ -115,19 +86,17 @@ The general idea is to copy in the figure, and then the html of the figure and 
 
 
 ## Format Sources - Claude/AI Passive
-References, manual attributions - per section page?
+References, manual attributions - per section page?, need style files for each
 15. **Format references in APA** — Format any references found in the HTML into APA style, organized in a References section. 
 
 
-
 ## Review - Claude/AI - interactive?
-make suggestions - search for outer material?? 
+make suggestions - search for outer material??. accesibility
 11. **Highlight spelling/grammar errors in orange** — Do not correct them; instead wrap them in `<span class="mt-bgcolor-e67e22">text</span>`.
 12. **Highlight IDEA Framework issues in red** — Flag content in paragraph text that does not meet IDEA (Inclusion, Diversity, Equity, and Access) standards using `<span class="mt-bgcolor-c0392b">text</span>`. For non-text material (figures, headers), describe recommended changes in a list.
 
 
 ## Format Key Terms - Claude AI Passive
-
 - Key terms
   - Check against key terms list from Openstax and create list for chapter
   - Format terms and definitions and add to key terms page
@@ -136,32 +105,10 @@ make suggestions - search for outer material??
      - handle whether in plural or singular in paragraph text.
 
 
-## Final Edit - Manual
-
-
-- contextualize links
-- manually relink all accessible descriptions
-- format any references, attributions, etc.
-
-**Chapter Done?**
-
-## Format Key Terms - Playlab AI
-- use chatbot
-  - when done, type done, and copy to AI log
-  - check openstax for key terms and definitions    
-  - In-text key terms are bold
-  - create definitions for all terms in spreadsheet
-- Use chatbot to format list
-- Link term to key term page
-  - Search each page for first appearance of term.
-  - copy in link from AI or
-    - Browse to key terms and find anchor
-    - Make sure that link opens new window
-- save AI report to AI log
 
 ## Edit main chapter page - manual
 - Have page start with an H2 Introduction before learning objectives and short summary paragraph.
-- reduce to 10 learning objectives (no learning objectives on sub-pages)
+- reduce to 10 or fewer learning objectives (no learning objectives on sub-pages)
 - check size of thumbnail image and format attribution  
 
 ## Final Check- Manual
