@@ -89,12 +89,12 @@ The general idea is to copy in the figure, and then the html of the figure and 
 References, manual attributions - per section page?, need style files for each
 15. **Format references in APA** — Format any references found in the HTML into APA style, organized in a References section. 
 
-
-## Review - Claude/AI - interactive?
+<!-->
+## Review - Claude/AI - interactive? - skip for now
 make suggestions - search for outer material??. accesibility
 11. **Highlight spelling/grammar errors in orange** — Do not correct them; instead wrap them in `<span class="mt-bgcolor-e67e22">text</span>`.
 12. **Highlight IDEA Framework issues in red** — Flag content in paragraph text that does not meet IDEA (Inclusion, Diversity, Equity, and Access) standards using `<span class="mt-bgcolor-c0392b">text</span>`. For non-text material (figures, headers), describe recommended changes in a list.
-
+<-->
 
 ## Format Key Terms - Claude AI Passive
 - Key terms
@@ -112,6 +112,7 @@ make suggestions - search for outer material??. accesibility
 - check size of thumbnail image and format attribution  
 
 ## Final Check- Manual
+- Manually paste each page and check for functionality.
 - Commit changes in Conductor
 - Update progress log.
 - Notify Jyothsna that it is done. 
