@@ -9,6 +9,7 @@
     1. Open a terminal command prompt 
     2. Navigate to repo 
     3. Type claude
+    4. Exit when not using
 5. Commit often! Keep careful session notes!
 ## Ending Day
 1. List questions for tomorrow in session file
@@ -43,18 +44,15 @@ Ask for help!
 Future: remove text from other boxes?
 
 
-## Edit Text - Manual
-- Make sure remixed material is in the correct section.
-- Delete extra text & figures
-- Organize and edit text. 
-- Figure titles Default attribution - make a default attribution log, attribution info
-
 ## HTML Review - Manual 
-
+- Make sure remixed material is in the correct section.
 - Delete extra text or figures. -delete figure in folder and .csv file?
-- First pass at grouping topics
-- log attribution info, including codes                
-- Figure titles - manually index?
+- Organize and edit text. - First pass at grouping topics
+- Figures 
+  - add titles 
+  - manually index?
+  - Default attribution ??
+  - log attribution info, including codes                
 - contextualize further exploration links
 
 ### Logging 
@@ -65,8 +63,7 @@ Future: remove text from other boxes?
 - figure attribution info
 
 ## Format Figures - Claude AI - more astro figs to skills in ASTR10
-- delete unused figures?
-- Increment Figure indices
+- Increment Figure indices??
 - Accesible Descriptions
 - alt-text
 - Figure attribution
@@ -93,7 +90,6 @@ References, manual attributions - per section page?, need style files for each
 15. **Format references in APA** — Format any references found in the HTML into APA style, organized in a References section. 
 
 
-
 ## Review - Claude/AI - interactive?
 make suggestions - search for outer material??. accesibility
 11. **Highlight spelling/grammar errors in orange** — Do not correct them; instead wrap them in `<span class="mt-bgcolor-e67e22">text</span>`.
@@ -109,28 +105,10 @@ make suggestions - search for outer material??. accesibility
      - handle whether in plural or singular in paragraph text.
 
 
-## Final Edit - Manual
-
-
-**Chapter Done?**
-
-## Format Key Terms - Playlab AI
-- use chatbot
-  - when done, type done, and copy to AI log
-  - check openstax for key terms and definitions    
-  - In-text key terms are bold
-  - create definitions for all terms in spreadsheet
-- Use chatbot to format list
-- Link term to key term page
-  - Search each page for first appearance of term.
-  - copy in link from AI or
-    - Browse to key terms and find anchor
-    - Make sure that link opens new window
-- save AI report to AI log
 
 ## Edit main chapter page - manual
 - Have page start with an H2 Introduction before learning objectives and short summary paragraph.
-- reduce to 10 learning objectives (no learning objectives on sub-pages)
+- reduce to 10 or fewer learning objectives (no learning objectives on sub-pages)
 - check size of thumbnail image and format attribution  
 
 ## Final Check- Manual
