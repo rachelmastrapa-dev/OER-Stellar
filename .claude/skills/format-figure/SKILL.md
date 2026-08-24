@@ -59,12 +59,15 @@ in memory, if a judgement needs to be made, ask the user, otherwise complete tas
        - The type of attribution depends on the information found in the row.
           - If the information has the figure title and a the name of a default attribution, return the default attribution found in editing standards.
           - Otherwise, use the given information to format an attribution according to editing standards.
-    2. Create figure caption text <!-- read file for attribution info?  how to connect figure html to image in images  -->
-       - Refer to
+    2. Create figure caption text
+       - Refer to the figure caption text section in `editing-standards.md`
     3. Create the accessible description
-       - Refer to
+       - Refer to 
     4. Create the figure html
        - Refer to 
+    5. Ask the user to confirm before moving to the next figure.
+
+      <!-- read file for attribution info?  how to connect figure html to image in images In Openstax Astronomy, some figures have a credit at the end of the original figure caption. Examples: (credit: Adam Evans) or (credit: modification of work by Hubble Legacy Archive, NASA, ESA, and Judy Schmidt). All figures from the textbook must use the standard Openstax Astronomy. However the credit should be preserved and moved to the accessible description with some minor edits. Examples: Credit: Adam Evans or Credit: Hubble Legacy Archive, NASA, ESA, and Judy Schmidt. -->
 
 
 ## Hard exclusions — never modify or remove, under any rule above
