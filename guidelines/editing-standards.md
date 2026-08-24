@@ -1,30 +1,40 @@
 # Editing Standards for ASTR 10 Stellar Textbook
 
-## Page Style
+## Locating files
+All paths in this document start in the directory where this file is located.  
+- The root directory of the git repository is found with `ROOT=$(git rev-parse --show-toplevel)`
+- Example: 
+   - If the location of this file is `$ROOT/guidelines/editing-standards.md` and there is a reference to a file called `learning-objectives.md` in `page-styles` then the path of the file is `$ROOT/guidelines/page-styles/learning-objectives.md`
+   -If there is just a reference to a file, such as `idea-framework.pdf`, then its path is `$ROOT/guidelines/idea-framework.pdf`
 
-### Guide for Main Chapters
-#### Page Settings
-- Guide Listing Display: Single (Topic Hierarchy)
-- Article Type: Chapter
+## Page Styles
 
-#### Introduction [Heading 2] – this is the home page
-- Chapter Summary  - make sure you can see it in the page settings 
-- Brief Introduction [Normal-aka Default]
+### Chapter Page
+- Refer to `page-styles/chapter-page.md`
+- Format for the main page of the chapter
+- Contains an introduction paragrph learning objectives and table of contents
 
-#### Learning Objectives
-- Use Boxes -> for Learning Objectives
-- At least 2, <11
+### Section Page
+- Refer to `page-styles/section-page.md`
+- Pages of content for a chapter in the textbook.
+- May contain various page elements.
 
-#### DO NOT DELETE: template.ShowOrg() (with double brackets before and after)
+## Page Elements
 
-#### Chapter Thumbnail Image
-- Chapter Image Thumbnail is in Page Settings 
-- put image caption and attribution in text at bottom of page
-- No alt text option available
-- Use small images for thumbnail, so that you can see the page summary – 512 px works
+## Learning Objectives
+- Refer to `page-styles/learning-objectives.md`
+- Learning objectives list concepts that students should know by the end of the chapter.
+- They are listed in a box on the chapter page.
 
-Chapter Image attribution example
+## Further Exploration
+- Refer to `page-styles/further-exploration.md`
+- A note box near the end of a section page with links for students to find more information.
+- Not present on every page, only when needed.
 
-Thumbnail: The Atacama Large Millimeter/submillimeter Array (ALMA) imaged the dusty disc encircling the young, isolated star HD 169142 in high resolution by picking up faint signals from its constituent millimeter-sized dust grains. The vivid rings are thick bands of dust, separated by deep gaps. (CC BY 4.0; ALMA (ESO/NAOJ/NRAO)/ Fedele et al. via Wikimedia Commons.)
+## Example Box
+- Refer to `page-styles/example-box.md`
+- Format for an example box
 
-{{template.ShowOrg()}}
+## Exercise Box
+- Refer to `page-styles/exercise-box.md`
+- Format for an exercise box
