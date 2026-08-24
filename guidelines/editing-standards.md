@@ -38,3 +38,11 @@ All paths in this document start in the directory where this file is located.
 ## Exercise Box
 - Refer to `page-styles/exercise-box.md`
 - Format for an exercise box
+
+## Figure Attribution
+- Refer to `page-styles/figure-attribution.md`
+- Figures require an attribution to give the creator credit.
+
+## Figure HTML
+- Refer to `page-styles/figure-html.md`
+- Standard libretext html format for figures.
