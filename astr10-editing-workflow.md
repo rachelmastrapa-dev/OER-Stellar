@@ -52,7 +52,8 @@ Future: remove text from other boxes?
   - add titles 
   - manually index?
   - Default attribution ??
-  - log attribution info, including codes                
+- log attribution info for manual attributions only
+- log references                
 - contextualize further exploration links
 
 ### Logging 
