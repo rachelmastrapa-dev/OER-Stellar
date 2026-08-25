@@ -21,7 +21,7 @@
 ## References 
 - Use HTML unordered list.
 - List alphabettically by author.
-- Read page-styles/references.md for formatting and examples.
+- Read `page-styles/references.md` for formatting and examples.
 
 ## Attributions [Heading 2]
 - Attributions of remixed OER material.

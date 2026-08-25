@@ -40,33 +40,44 @@ This is a list of general guidelines to use for all tools in this directory and 
 
 ## Page Elements
 
-## Learning Objectives
+### Learning Objectives
 - Refer to `page-styles/learning-objectives.md`
 - Learning objectives list concepts that students should know by the end of the chapter.
 - They are listed in a box on the chapter page.
 
-## Further Exploration
+### Further Exploration
 - Refer to `page-styles/further-exploration.md`
 - A note box near the end of a section page with links for students to find more information.
 - Not present on every page, only when needed.
 
-## Example Box
+### Example Box
 - Refer to `page-styles/example-box.md`
 - Format for an example box
 
-## Exercise Box
+### Exercise Box
 - Refer to `page-styles/exercise-box.md`
 - Format for an exercise box
 
-## Figure Attribution
+## Figure Elements
+
+### Figure Attribution
 - Refer to `page-styles/figure-attribution.md`
 - Figures require an attribution to give the creator credit.
 
-## Figure HTML
+### Figure HTML
 - Refer to `page-styles/figure-html.md`
 - Standard libretext html format for figures.
 
-## Figure Caption Text
+### Figure Caption Text
 - Refer to `page-styles/figure-caption-text.md`
 - The text in the figure caption between the title and attribution.
 - Includes the main learning objective of the figure
+
+### Alternative Text
+- Refer to `page-styles/alternative-text.md`
+- An alternatie text description is a brief description of the figure that is embedded in the figure.
+
+### Figure HTML
+- Refer to `page-styles/figure-html.md`
+- The figure html is formatted for a Libretext textbook to display a figure.
+- The figure html includes the alternative text, figure caption, figure attribution, and a link to the accessible description. 

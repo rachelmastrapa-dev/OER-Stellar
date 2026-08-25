@@ -1,11 +1,12 @@
 ---
 name: format-figure
-description: Format figure html for figures in an OER textbook, including caption text, alt-text, figure attribution, and accessible description.
+description: Format figure html for figures in an OER textbook, including caption text, alt-text, figure attribution, and accessible description. This skill is designed to streamline the process of editing figures for an Open Educational Resource (OER) astronomy textbook in Libtetext. Since astronomy is a visual science, it is important to make the figures clear to the broadest audience possible.
+
 ---
 
 # Format Figure
 
-Apply a set of rules to every section HTML file in **one local chapter folder**. Ask the user for input based on the triggers in the rules.
+Apply a set of rules to every section HTML file in **one local chapter folder**. 
 
 ## Locating repo files
 Before reading any repository-relative paths below, resolve the repo root:
@@ -50,22 +51,34 @@ The editings standards for this project are described in `$ROOT/guidelines/editi
 Apply these, in order, to each file's HTML. Read the file, apply all rules
 in memory, if a judgement needs to be made, ask the user, otherwise complete tasks, then write the result back to the same path (overwrite in place). 
 
-1. Locate a figure in the html, e.g it starts with `<figure>` and ends with `</figure>` and do the following:
+1. Locate a figure in the file, e.g it starts with `<figure>` and ends with `</figure>` and do the following:
     1. Use the figure html section in editing standards to locate the alt-text and figure caption in the figure html. If present, copy the original alt-text and figure caption text into a paragraph and place the paragraph before the figure html.
-    1. Create figure attribution
+    3. Identify the figure number.
+       - The figure number is in the format `chapter number.section number.figure index`
+         - Example: For the third figure of the 4th section page of chapter 13, the figure number is 13.4.3
+       - The chapter number and section number are in the name of the file `<NN.SS>-<Section-Title-Slug>.html` 
+         - The chapter number is `NN` and the section number is `SS`
+         - Drop the leading `0` for single digit chapters or sections  
+            - Example: If the name of the file is `02.01-A-Tour-of-the-Universe`, the chapter number is 2 and the section number is 1.  
+       - The figure index starts at 1 with the first figure on the page, and increases for each figure. That is the first figure has a figure index of 1, the second figure has a figure index of 2, etc.
+       - For the third figure in `02.01-A-Tour-of-the-Universe` the figure number of 2.1.3
+    2. Create figure attribution
        - Refer to the Figure Attribution section in `editing-standards.md`
        - Locate attribution information in `$ROOT/chapters/<NN>-<Chapter-Title-Slug>/sources/figure-attributions.md`
        - In the file, find the row with matching figure title
        - The type of attribution depends on the information found in the row.
           - If the information has the figure title and a the name of a default attribution, return the default attribution found in editing standards.
           - Otherwise, use the given information to format an attribution according to editing standards.
-    2. Create figure caption text
+    3. Create figure caption text
        - Refer to the figure caption text section in `editing-standards.md`
-    3. Create the accessible description
-       - Refer to 
-    4. Create the figure html
-       - Refer to 
-    5. Ask the user to confirm before moving to the next figure.
+    4. Create the accessible description
+       - Refer to the accessible description section in `editing-standards.md`
+    5. Create the alternative text
+       - Refer to the alternative text section in `editing-standards.md`
+    6. Create the accessible description link
+       - Refer to the accessible description link section in `editing-standards.md`
+    7. Create the figure html
+       - Refer to the figure html section in `editing-standards.md`
 
       <!-- read file for attribution info?  how to connect figure html to image in images In Openstax Astronomy, some figures have a credit at the end of the original figure caption. Examples: (credit: Adam Evans) or (credit: modification of work by Hubble Legacy Archive, NASA, ESA, and Judy Schmidt). All figures from the textbook must use the standard Openstax Astronomy. However the credit should be preserved and moved to the accessible description with some minor edits. Examples: Credit: Adam Evans or Credit: Hubble Legacy Archive, NASA, ESA, and Judy Schmidt. -->
 

@@ -14,14 +14,6 @@ When generating caption text, Claude should follow these guidelines:
 - If the figure is an image, include the name of the telescope or spacecraft and the wavelength of light, e.g. observed, visible, X-ray, inrared, if available.
 - If the figure has multiple subfigures: refer to them based on their type and labels. e.g. Image (a), Diagram (c)
 
-## HTML Format
-
-Figure attributions are rendered in text with the general format License; Author via Source with links to License Author and Source.
-
-The HTML is: <a href="LicenseLink" target="_blank" title="License">License</a>; <a href="AuthorLink" target="_blank" title="Author">Author</a> via <a href="FigureLink" target="_blank" title="Source">Source</a>
-
-The LicenseLink, License, AuthorLink, Author, FigureLink, and Source are required to format the figure attribution.
-
 # Examples
 
 Examples of figure caption text for figures in an OER astronomy textbook.
@@ -30,7 +22,7 @@ Examples of figure caption text for figures in an OER astronomy textbook.
 
  ![Orion Nebula in visible and infrared. Details in Caption.](OrionNebula.png)
 
-Figure caption text:The visible light in Image (a) of the Orion nebula reveals its structure, but infrared light in Image (b) can reveal significantly more details.
+Figure caption text: The visible light in Image (a) of the Orion nebula reveals its structure, but infrared light in Image (b) can reveal significantly more details.
 
 ## Example 2
 
