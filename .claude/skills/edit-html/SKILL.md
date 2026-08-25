@@ -5,13 +5,20 @@ description: Apply a fixed set of text edits to every local section HTML file in
 
 # Edit HTML (Complex edits with options for user interaction)
 
-Apply a set of rules to every section HTML file in **one local chapter folder**. This mirrors the steps in `astro10-editing-workflow.md` for Claude/AI user intersactions. Ask the user for input based on the triggers in the rules. It does **not** reorganize content, or handle key terms, headings, IDEA/grammar highlighting, or references  — those are separate steps.
+Apply a set of rules to every section HTML file in **one local chapter folder**. Ask the user for input based on the triggers in the rules. It does **not** reorganize content, or handle key terms, headings, IDEA/grammar highlighting, or references  — those are separate steps.
+
+## Locating repo files
+Before reading any repository-relative paths below, resolve the repo root:
+`ROOT=$(git rev-parse --show-toplevel)`
+
+Reference files as `$ROOT/guidelines/editing-standards.md`, 
+`$ROOT/guidelines/page-styles/example-box.md`, etc.
 
 ## Precondition — clean working tree required
 
 Before doing anything else, check `git status` on the target chapter folder.
 
-- If there are **any uncommitted changes** in `chapters/<NN>-<Chapter-Title-Slug>/`,
+- If there are **any uncommitted changes** in `$ROOT/chapters/<NN>-<Chapter-Title-Slug>/`,
   **stop immediately** and tell the user to commit first. Do not edit any files.
 - Only proceed once the working tree for that folder is clean.
 
@@ -31,15 +38,24 @@ Ask which chapter to process if not specified, e.g.:
   `attributions.csv` or `references.csv`.
 - If no matching files are found, say so and stop.
 
+## Editing Standards
+The editings standards for this project are described in `$ROOT/guidelines/editing-standards.md`.  
+- The `editing-standards.md` file contains brief descriptions of formatting standards.
+- It also contains directions to other files that have more detailed descriptions of specific formatting standards.
+- Always look in `editing-standards.md` first when looking for information about editing, formatting, or general guidance for this project, then follow the directions to other files when needed.
+- If there is a rule that says to use editing standards, look for guidance in `editing-standards.md`.
+
 ## Per-file edit rules
 
 Apply these, in order, to each file's HTML. Read the file, apply all rules
 in memory, if a judgement needs to be made, ask the user, otherwise complete tasks, then write the result back to the same path (overwrite in place). 
 
 1. **Learning Objectives**
-   - Read `guidelines/page-styles/learning-objectives.md` for formatting guide and HTML examples of learning objectives.
-   - If there is not one already, create a learning objectives box on the main chapter page, `<NN>.00-Introduction.html`, according to the layout in `guidelines/page-styles/chapter-page.md`
-   - Search for learning objectives boxes on each section page, based on boxes similar to the format in `guidelines/page-styles/learning-objectives.md`.
+   - Read the Learning Objectives section in `editing-standards.md`.
+   - If there is not one already, create a learning objectives box on the main chapter page
+     - The main chapter page should have a name similar to `<NN>.00-Introduction.html` 
+     - Read the Chapter Page section in `editing-standards.md` for placement of the learning objectives box on the page.
+   - Search for learning objectives boxes on each section page, based on boxes similar to the format for learning objecive boxes given in `editing-standards.md`.
      - For found learning objectives boxes.
        - Move the learning objectives from section pages into the box on the main chapter page. 
         - Move them unedited, they will be edited manually by user. 
@@ -58,11 +74,11 @@ in memory, if a judgement needs to be made, ask the user, otherwise complete tas
    - **Never** touch equations inside figure or table markup — leave those
      exactly as-is.
 3. **Further Exploration**
-  - If you find any note boxes with Link to Learning in their header and that is similar to this: 
+  - Refer to the Further Exploration section in `editing-standards.md`.
+  - If you find any note boxes with Link to Learning in their header and is similar to this: 
   `<div class="box-note"> <h5 class="box-legend"><span class="lt-icon-default">Link to Learning</span></h5><p>Text with an external link</p></div>` then do the following.  If there are no box notes similar to this, go to the next rule.
-     - Create a note box at the end of the page called Further Exploration
-       - The box should be located at the end, before or after different headers according to the layout in `guidelines/page-styles/section-page.md`
-       - The format of the box is in `guidelines/page-styles/further-exploration.md`
+     - Read the Section Page section in `editing-standards.md` for placement of the further exploration box on the page. 
+     - Create a note box called Further Exploration with format an placement according to editing standards.
      - Move all of the statements in link to learning boxes to the Further Exploration box
      - The URL in the text redirects to another URL. 
        - Use WebFetch on the given URL to find the redirected URL. 
@@ -71,19 +87,20 @@ in memory, if a judgement needs to be made, ask the user, otherwise complete tas
           - Do what the user says and continue. 
        - If WebFetch returns a working URL, replace the link in the HTML with the WebFetch returned URL. Example: replace `https://openstax.org/l/30ndegtystidfor` with `https://www.youtube.com/watch?v=h1iJXOUMJpg`
 4. **Examples and Exercises**
+   - Refer to the Example Box section, the Exercise Box section, and the Section Page section in `editing-standards.md`.
    - Search for any headers that include Example or Exercise or any Exercise or Example Boxes. If you don't find anything, then you are done with this rule. If you find anything, do the following: 
-     - Create a header for the Examples and Exercises section in the position on the page and style given in `guidelines/page-styles/section-page.md`
+     - Create a header for the Examples and Exercises section in the position and format according to editing standards for a section page.
      - For found text that starts with a header that starts with "Example," and has some text in the section that looks like an example problem, then ask the user if it should be put in an Example box.
         - If user says yes:
-          - Create an Example box using the format from `guidelines/page-styles/example-box.md`
-          - Move the text from the section into the Example box, using the layout in `guidelines/page-styles/example-box.md`.
+          - Create an Example box according to editing standards.
+          - Move the text from the section into the Example box, using a layout according to editing standards.
           - Move the new Example Box to the Examples and Exercises section.
      - For found text that starts with a header that starts with "Exercise," and has some text in the section that looks like an exercise problem, then ask the user if it should be put in an Exercise box:
         - If user says yes: 
-           - Create an Exercise box using the format from `guidelines/page-styles/exercise-box.md`
-           - Move the text from the section into the Example box, using the layout in `guidelines/page-styles/exercise-box.md`.
-           - Move the new Exercises Box to the Examples and Exercises section.
-     - For found text that are intact Exercise or Example boxes similar to those in `guidelines/page-styles/example-box.md` or `guidelines/page-styles/exercise-box.md`, move them to the Examples and Exercises section.
+           - Create an Exercise box according to editing standards.
+           - Move the text from the section into the Example box, using a layout according to editing standards.
+           - Move the new Exercise Box to the Examples and Exercises section.
+     - For found text that are intact Exercise or Example boxes similar to those in editing standards, move them to the Examples and Exercises section.
 
 ## Hard exclusions — never modify or remove, under any rule above
 
