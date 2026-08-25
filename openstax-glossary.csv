@@ -1,4 +1,4 @@
-term,definition
+term,definition 
 absorption spectrum,a series or pattern of dark lines superimposed on a continuous spectrum
 accelerate,"to change velocity; to speed up, slow down, or change direction."
 accretion,"the gradual accumulation of mass, as by a planet forming from colliding particles in the solar nebula"
@@ -85,7 +85,7 @@ elliptical galaxy,a galaxy whose shape is an ellipse and that contains no conspi
 emission spectrum,a series or pattern of bright lines superimposed on a continuous spectrum
 energy flux,"the amount of energy passing through a unit area (for example, 1 square meter) per second; the units of flux are watts per square meter"
 energy level,"a particular level, or amount, of energy possessed by an atom or ion above the energy it possesses in its least energetic state; also used to refer to the states of energy an electron can have in an atom"
-epicycle,"the circular orbit of a body in the Ptolemaic system, the center of which revolves about another circle (the deferent)"
+epicycle,the circular orbit of a body in the Ptolemaic system, the center of which revolves about another circle, the deferent
 equivalence principle,concept that a gravitational force and a suitable acceleration are indistinguishable within a sufficiently local environment
 escape speed,the speed a body must achieve to break away from the gravity of another body
 event horizon,"a boundary in spacetime such that events inside the boundary can have no effect on the world outside it—that is, the boundary of the region around a black hole where the curvature of spacetime no longer provides any way out"

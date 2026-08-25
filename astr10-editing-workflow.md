@@ -45,8 +45,10 @@ Future: remove text from other boxes?
 
 
 ## HTML Review - Manual 
+- scan for key terms and copy to list from openstax key terms
 - Make sure remixed material is in the correct section.
-- Delete extra text or figures. -delete figure in folder and .csv file?
+- Delete extra text or figures. 
+  - delete figure in folder and .csv file?
 - Organize and edit text. - First pass at grouping topics
 - Figures 
   - add titles 
