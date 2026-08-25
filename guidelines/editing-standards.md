@@ -77,6 +77,10 @@ This is a list of general guidelines to use for all tools in this directory and 
 - Refer to `page-styles/alternative-text.md`
 - An alternatie text description is a brief description of the figure that is embedded in the figure.
 
+### Accessible Description
+- Refer to `page-styles/accessible-description.md`
+- The accessible description is a longer, structured description of the figure, placed on a separate Accessible Descriptions page, so all students can access the information in the figure.
+
 ### Accessible Description Link
 - Refer to `page-styles/accessible-description-link.md`
 - The accessible description link is needed to connect the accessible description to the figure caption.
@@ -86,7 +90,18 @@ This is a list of general guidelines to use for all tools in this directory and 
 - Locate the image file connected to the figure html.
 - The image file is needed to generate alternative text, figure caption text, and accessible description
 
-### Figure HTML
-- Refer to `page-styles/figure-html.md`
-- The figure html is formatted for a Libretext textbook to display a figure.
-- The figure html includes the alternative text, figure caption, figure attribution, and a link to the accessible description. 
+## Key Terms Page
+- Refer to `page-styles/key-terms-page.md`
+- Format for the chapter's key terms/glossary page.
+
+## References
+- Refer to `page-styles/references.md`
+- Format for the References section on a section page.
+
+## Tables
+- Refer to `page-styles/tables.md`
+- Format for tables on a section page.
+
+## Text Attributions
+- Refer to `page-styles/text-attributions.md`
+- Format for manually added attributions of remixed OER material on a section page. 

@@ -63,31 +63,30 @@ in memory, if a judgement needs to be made, ask the user, otherwise complete tas
        - The figure index starts at 1 with the first figure on the page, and increases for each figure. That is the first figure has a figure index of 1, the second figure has a figure index of 2, etc.
        - For the third figure in `02.01-A-Tour-of-the-Universe` the figure number of 2.1.3
     3. Locate the image file that is used for the figure.
-    2. Create figure attribution
+    4. Create figure attribution
        - Refer to the Figure Attribution section in `editing-standards.md`
-       - Locate attribution information in `$ROOT/chapters/<NN>-<Chapter-Title-Slug>/sources/figure-attributions.md`
+       - Locate attribution information in `$ROOT/chapters/<NN>-<Chapter-Title-Slug>/sources/figure-attributions.csv`
        - In the file, find the row with matching figure title
        - The type of attribution depends on the information found in the row.
           - If the information has the figure title and a the name of a default attribution, return the default attribution found in editing standards.
           - Otherwise, use the given information to format an attribution according to editing standards.
-    3. Create figure caption text
+    5. Create figure caption text
        - Refer to the figure caption text section in `editing-standards.md`
-    4. Create the accessible description
+    6. Create the accessible description
        - Refer to the accessible description section in `editing-standards.md`
-    5. Create the alternative text
+    7. Create the alternative text
        - Refer to the alternative text section in `editing-standards.md`
-    6. Create the accessible description link
+    8. Create the accessible description link
        - Refer to the accessible description link section in `editing-standards.md`
-    7. Create the figure html
+    9. Create the figure html
        - Refer to the figure html section in `editing-standards.md`
 
-      <!-- read file for attribution info?  how to connect figure html to image in images In Openstax Astronomy, some figures have a credit at the end of the original figure caption. Examples: (credit: Adam Evans) or (credit: modification of work by Hubble Legacy Archive, NASA, ESA, and Judy Schmidt). All figures from the textbook must use the standard Openstax Astronomy. However the credit should be preserved and moved to the accessible description with some minor edits. Examples: Credit: Adam Evans or Credit: Hubble Legacy Archive, NASA, ESA, and Judy Schmidt. -->
 
 
 ## Hard exclusions — never modify or remove, under any rule above
 
 - Class attributes from header, list, or paragraph tags. e.g. `<li class="lt-phys-64811">`
-- Anything not explicitly covered by rules 1–4 above 
+- Anything not explicitly covered by rules 1–9 above 
 
 ## Output
 
