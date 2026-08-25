@@ -51,7 +51,7 @@ Future: remove text from other boxes?
 - Figures 
   - add titles 
   - manually index?
-  - Default attribution ??
+  - log attributions
 - log attribution info for manual attributions only
 - log references                
 - contextualize further exploration links
