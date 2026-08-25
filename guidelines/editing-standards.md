@@ -77,6 +77,15 @@ This is a list of general guidelines to use for all tools in this directory and 
 - Refer to `page-styles/alternative-text.md`
 - An alternatie text description is a brief description of the figure that is embedded in the figure.
 
+### Accessible Description Link
+- Refer to `page-styles/accessible-description-link.md`
+- The accessible description link is needed to connect the accessible description to the figure caption.
+
+## Image File Names
+- Refer to `page-styles/image-file-name.md`
+- Locate the image file connected to the figure html.
+- The image file is needed to generate alternative text, figure caption text, and accessible description
+
 ### Figure HTML
 - Refer to `page-styles/figure-html.md`
 - The figure html is formatted for a Libretext textbook to display a figure.

@@ -53,7 +53,7 @@ in memory, if a judgement needs to be made, ask the user, otherwise complete tas
 
 1. Locate a figure in the file, e.g it starts with `<figure>` and ends with `</figure>` and do the following:
     1. Use the figure html section in editing standards to locate the alt-text and figure caption in the figure html. If present, copy the original alt-text and figure caption text into a paragraph and place the paragraph before the figure html.
-    3. Identify the figure number.
+    2. Identify the figure number.
        - The figure number is in the format `chapter number.section number.figure index`
          - Example: For the third figure of the 4th section page of chapter 13, the figure number is 13.4.3
        - The chapter number and section number are in the name of the file `<NN.SS>-<Section-Title-Slug>.html` 
@@ -62,6 +62,7 @@ in memory, if a judgement needs to be made, ask the user, otherwise complete tas
             - Example: If the name of the file is `02.01-A-Tour-of-the-Universe`, the chapter number is 2 and the section number is 1.  
        - The figure index starts at 1 with the first figure on the page, and increases for each figure. That is the first figure has a figure index of 1, the second figure has a figure index of 2, etc.
        - For the third figure in `02.01-A-Tour-of-the-Universe` the figure number of 2.1.3
+    3. Locate the image file that is used for the figure.
     2. Create figure attribution
        - Refer to the Figure Attribution section in `editing-standards.md`
        - Locate attribution information in `$ROOT/chapters/<NN>-<Chapter-Title-Slug>/sources/figure-attributions.md`
