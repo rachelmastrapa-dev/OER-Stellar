@@ -80,6 +80,8 @@ in memory, if a judgement needs to be made, ask the user, otherwise complete tas
        - Refer to the accessible description link section in `editing-standards.md`
     9. Create the figure html
        - Refer to the figure html section in `editing-standards.md`
+    10. Ovewrite the old figure html with the new html.
+    11. Write all accessible descriptions page. e.g. `$ROOT/chapters/<NN>-<Chapter-Title-Slug>/<NN.SS>-Accessible-Descriptions.html`
 
 
 
