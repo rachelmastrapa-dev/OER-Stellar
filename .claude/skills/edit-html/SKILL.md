@@ -70,9 +70,12 @@ in memory, if a judgement needs to be made, ask the user, otherwise complete tas
      - For inline equations → wrap with `\(...\)`
      - For block or display equations → wrap with `\[...\nonumber\]`
    - Plain variables that are not inside an equation (e.g. `H<sub>0</sub>`,
-     `v is the velocity...`) stay as normal HTML text, no italics.
+     `v is the velocity...`, `P<sup>2</sup>`) stay as normal HTML text, no italics.
+   - Very simple equations in paragraph text can be in HTML e.g. `P<sup>2</sup>=a<sup>3</sup>`
+   - Numbers that are in paragraph text should be plain text or simple HTML, e.g. `1.0` and `1.5 x 10<sup>8</sup>`
    - **Never** touch equations inside figure or table markup — leave those
      exactly as-is.
+
 3. **Further Exploration**
   - Refer to the Further Exploration section in `editing-standards.md`.
   - If you find any note boxes with Link to Learning in their header and is similar to this: 

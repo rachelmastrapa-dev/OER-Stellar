@@ -1,6 +1,6 @@
-term,definition
+term,definition 
 absorption spectrum,a series or pattern of dark lines superimposed on a continuous spectrum
-accelerate,"to change velocity; to speed up, slow down, or change direction."
+accelerate,to change velocity, to speed up, slow down, or change direction
 accretion,"the gradual accumulation of mass, as by a planet forming from colliding particles in the solar nebula"
 accretion disk,"the disk of gas and dust found orbiting newborn stars, as well as compact stellar remnants such as white dwarfs, neutron stars, and black holes when they are in binary systems and are sufficiently close to their binary companions to draw off material"
 active galactic nuclei (AGN),"galaxies that are almost as luminous as quasars and share many of their properties, although to a less spectacular degree; abnormal amounts of energy are produced in their centers"
@@ -75,7 +75,7 @@ dispersion,separation of different wavelengths of white light through refraction
 DNA (deoxyribonucleic acid),a molecule that stores information about how to replicate a cell and its chemical and structural components
 Doppler effect,the apparent change in wavelength or frequency of the radiation from a source due to its relative motion away from or toward the observer
 Drake equation,"a formula for estimating the number of intelligent, technological civilizations in our Galaxy, first suggested by Frank Drake"
-eccentricity,"in an ellipse, the ratio of the distance between the foci to the major axis"
+eccentricity,in an ellipse, the ratio of the distance between the foci to the major axis
 eclipsing binary,"a binary star in which the plane of revolution of the two stars is nearly edge-on to our line of sight, so that the light of one star is periodically diminished by the other passing in front of it"
 ecliptic,the apparent annual path of the Sun on the celestial sphere
 electromagnetic radiation,radiation consisting of waves propagated through regularly varying electric and magnetic fields and traveling at the speed of light
@@ -85,7 +85,7 @@ elliptical galaxy,a galaxy whose shape is an ellipse and that contains no conspi
 emission spectrum,a series or pattern of bright lines superimposed on a continuous spectrum
 energy flux,"the amount of energy passing through a unit area (for example, 1 square meter) per second; the units of flux are watts per square meter"
 energy level,"a particular level, or amount, of energy possessed by an atom or ion above the energy it possesses in its least energetic state; also used to refer to the states of energy an electron can have in an atom"
-epicycle,"the circular orbit of a body in the Ptolemaic system, the center of which revolves about another circle (the deferent)"
+epicycle,the circular orbit of a body in the Ptolemaic system, the center of which revolves about another circle, the deferent
 equivalence principle,concept that a gravitational force and a suitable acceleration are indistinguishable within a sufficiently local environment
 escape speed,the speed a body must achieve to break away from the gravity of another body
 event horizon,"a boundary in spacetime such that events inside the boundary can have no effect on the world outside it—that is, the boundary of the region around a black hole where the curvature of spacetime no longer provides any way out"
@@ -155,7 +155,7 @@ iron meteorite,a meteorite composed primarily of iron and nickel
 irregular galaxy,a galaxy without any clear symmetry or pattern; neither a spiral nor an elliptical galaxy
 isotope,any of two or more forms of the same element whose atoms have the same number of protons but different numbers of neutrons
 isotropic,the same in all directions
-Kepler’s first law,"each planet moves around the Sun in an orbit that is an ellipse, with the Sun at one focus of the ellipse"
+Kepler’s first law,each planet moves around the Sun in an orbit that is an ellipse, with the Sun at one focus of the ellipse
 Kepler’s second law,the straight line joining a planet and the Sun sweeps out equal areas in space in equal intervals of time
 Kepler’s third law,the square of a planet’s orbital period is directly proportional to the cube of the semimajor axis of its orbit
 Kuiper belt,a region of space beyond Neptune that is dynamically stable (like the asteroid belt); the source region for most short-period comets
@@ -268,7 +268,7 @@ sedimentary rock,"rock formed by the deposition and cementing of fine grains of 
 seeing,"unsteadiness of Earth’s atmosphere, which blurs telescopic images; good seeing means the atmosphere is steady"
 seismic wave,"a vibration that travels through the interior of Earth or any other object; on Earth, these are generally caused by earthquakes"
 selection effect,"the selection of sample data in a nonrandom way, causing the sample data to be unrepresentative of the entire data set"
-semimajor axis,"half of the major axis of a conic section, such as an ellipse"
+semimajor axis,half of the major axis of a conic section, such as an ellipse
 SETI,the search for extraterrestrial intelligence; usually applied to searches for radio signals from other civilizations
 sidereal day,Earth’s rotation period as defined by the positions of the stars in the sky; the time between successive passages of the same star through the meridian
 sidereal month,the period of the Moon’s revolution about Earth measured with respect to the stars
