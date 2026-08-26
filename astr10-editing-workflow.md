@@ -20,8 +20,8 @@
 - Remove chapter summaries
 - Add chapter thumbnails
 - Change chapter titles - shorten, clarify
-- Delete Extra material - on the chapter/section level
-- Delete extra figures!!!
+- **Delete Extra material** - on the chapter/section level
+- **Delete extra figures**
 - Commit changes in Conductor
 
 ## Harvest
@@ -35,6 +35,7 @@ If starting new project, use libretext to harvest book to repo using export-book
 
 ### Edit HTML - Claude/AI user interactions
 
+**User: Commit and close all files**
 Ask for help!
 1. Move all learning objectives to main chapter page.
 2. Change equations from MathML to Latex.
@@ -45,6 +46,9 @@ Future: remove text from other boxes?
 
 
 ## HTML Review - Manual 
+
+**User: Commit and close all files**
+
 - scan for key terms and copy to list from openstax key terms
 - Make sure remixed material is in the correct section.
 - Delete extra text or figures. 
@@ -66,6 +70,9 @@ Future: remove text from other boxes?
 - figure attribution info
 
 ## Format Figures - Claude AI - more astro figs to skills in ASTR10
+
+**User: Commit and close all files**
+
 - Increment Figure indices??
 - Accesible Descriptions
 - alt-text
@@ -89,15 +96,11 @@ The general idea is to copy in the figure, and then the html of the figure and 
 
 
 ## Format Sources - Claude/AI Passive
-References, manual attributions - per section page?, need style files for each
-15. **Format references in APA** — Format any references found in the HTML into APA style, organized in a References section. 
 
-<!-->
-## Review - Claude/AI - interactive? - skip for now
-make suggestions - search for outer material??. accesibility
-11. **Highlight spelling/grammar errors in orange** — Do not correct them; instead wrap them in `<span class="mt-bgcolor-e67e22">text</span>`.
-12. **Highlight IDEA Framework issues in red** — Flag content in paragraph text that does not meet IDEA (Inclusion, Diversity, Equity, and Access) standards using `<span class="mt-bgcolor-c0392b">text</span>`. For non-text material (figures, headers), describe recommended changes in a list.
-<-->
+**User: Commit and close all files**
+
+References, manual attributions - per section page?, need style files for each
+
 
 ## Format Key Terms - Claude AI Passive
 - Key terms
@@ -107,9 +110,16 @@ make suggestions - search for outer material??. accesibility
      - format text to bold and link
      - handle whether in plural or singular in paragraph text.
 
+## Final Review - Claude/AI - interactive? - skip for now
+make suggestions - search for outer material??. accesibility
+1. Make minor grammar and spelling errors.
+2. Ask about more complicated errors
+<!--12. **Highlight IDEA Framework issues in red** — Flag content in paragraph text that does not meet IDEA (Inclusion, Diversity, Equity, and Access) standards using `<span class="mt-bgcolor-c0392b">text</span>`. For non-text material (figures, headers), describe recommended changes in a list.
+<-->
 
 
-## Edit main chapter page - manual
+
+## Edit main chapter page - manual 
 - Have page start with an H2 Introduction before learning objectives and short summary paragraph.
 - reduce to 10 or fewer learning objectives (no learning objectives on sub-pages)
 - check size of thumbnail image and format attribution  
