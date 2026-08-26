@@ -3,7 +3,7 @@
 
 ## Key Terms Link Format
 
-- The ccessible description link should look similar to this: `/Workbench/TextbookTitle/<NN>:_<Chapter_Title>/<NN0>.<SS>:_Key_Terms#term` where
+- The key terms link should look similar to this: `/Workbench/TextbookTitle/<NN>:_<Chapter_Title>/<NN0>.<SS>:_Key_Terms#term` where
    - `<NN>` is the chapter number and `<NN0>` is the chapter number with the leading 0 stripped off for single digit chapters
        - Example: For Chapter 2 `<NN>`is 02 while `<NN0>`is 2
        - Example: For Chapter 14 `<NN>` and `<NN0>` are both 14
