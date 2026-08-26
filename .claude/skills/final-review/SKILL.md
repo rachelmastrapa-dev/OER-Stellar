@@ -67,8 +67,8 @@ After processing each file, overwrite it in place and print a one-line
 summary of what changed, e.g.:
 
 ```
-3.02-Stellar-Winds.html:2 learning objectives moved, no equations found,
-2 link to learning found and moved, no examples or exercises found.
+3.02-Stellar-Winds.html: 2 spelling errors found and corrected, no egrammar or html errors found.
+
 ```
 
 After the whole chapter is done, print a chapter-level total across all
