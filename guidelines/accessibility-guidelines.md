@@ -36,4 +36,10 @@ Examples include:
 
 For more details about accessible descriptions, refer to `page-styles/accessible-description.md`
 
+## HTML Links
+Links should open in a new tab.  Include `target="_blank"` in the link html to make the link open in a new tab
+Example:
+<a href="http://phet.colorado.edu/en/simulation/gravity-and-orbits" target="_blank">
+
+
 Based on ADA and WCAG guidelines shared by Jyothsna Viswanadha
