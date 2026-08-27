@@ -27,7 +27,7 @@
 - **Delete extra figures**
 - Commit changes in Conductor
 
-## Harvest
+## Libretext export - - Claude/AI Passive
 If starting new project, use libretext to harvest book to repo using export-book and libretext-export, or do chapter by chapter
 
 
@@ -45,8 +45,8 @@ Ask for help!
 2. Change equations from MathML to Latex.
 3. Move all link to learning items to Further Exploration. 
 4. Put example and exercises in boxes and move to the correct section.
-<!-- include review of terminology?-->
-Future: remove text from other boxes?
+<!-- include review of terminology?, remove parens about put comments for rephrasing of same concept  Future: remove text from other boxes?, remove quote marks that are not for dialog-->
+
 
 
 ## Chapter Review - Manual 
@@ -56,12 +56,18 @@ Future: remove text from other boxes?
 - Delete extra text or figures.  
   - in librext and locally
 - Make sure remixed material is in the correct section.
+- search and replace
+  '  solar system revolve
+  - footnotes
+
+- Figures - log
+  - add titles 
+  - manually index? 
+
 - scan for key terms - log
 - Organize and edit text.
   - do not describe figures
-- Figures - log
-  - add titles 
-  - manually index?              
+             
 - contextualize further exploration links
 
 ### Logging 
