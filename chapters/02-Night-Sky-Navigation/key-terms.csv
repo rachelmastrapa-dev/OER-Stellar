@@ -10,4 +10,13 @@ Earth,great circle,a circle on the surface of a sphere that is the curve of inte
 Earth,meridian,a great circle on the terrestrial or celestial sphere that passes through the poles
 Earth,latitude,angular distance north or south of the earth's equator measured in degrees along a meridian
 Earth,longitude,angular distance to a position on a meridian measured east or west and expressed degrees from the Prime Meridian
-Earth,
+Earth,solar day,Earth’s rotation period as defined by the position of the Sun in the sky or the time between successive passages of the Sun through the meridian
+Earth,sidereal day,Earth’s rotation period as defined by the positions of the stars in the sky or the time between successive passages of the same star through the meridian
+Earth,declination,the angular distance north or south of the celestial equator
+Earth,right ascension,the coordinate for measuring the east-west positions of celestial bodies or the angle measured eastward along the celestial equator from the vernal equinox to the hour circle passing through a body
+Earth,ecliptic,the apparent annual path of the Sun on the celestial sphere
+The Sun,zodiac,a belt around the sky about 18° wide centered on the ecliptic
+The Sun,solstice,the two times of the year when the sun is at its greatest angular distance from the celestial equator
+The Sun,equinox, the two points on the celestial sphere at which the ecliptic intersects the celestial equator
+The Sun,
+The Sun,
