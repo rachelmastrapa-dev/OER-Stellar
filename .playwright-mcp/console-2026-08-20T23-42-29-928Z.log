@@ -1,11 +1,1 @@
-[    1844ms] [LOG] CKEditor Query Plugin Release: 1.1.2 - Date: 2023-01-06 @ https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js:0
-[    1844ms] [LOG] CKEditor LibreFormat Plugin @ https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js:0
-[    1844ms] [LOG] CKEditor LibreBoxes Plugin @ https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js:0
-[    1844ms] [LOG] CKEditor LibreQuery Plugin @ https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js:0
-[    2054ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://stats.g.doubleclick.net/g/collect?v=2&tid=G-YNNYBFB9RM&cid=1904619504.1787269352&gtm=45je68j0v9125907141za20g&rcb=6&aip=1&dma=0&gcd=13l3l3l3l2l1&npa=0&frm=0&tag_exp=115938466~115938468~118897920~118897930~119367802~119367810~120315471~120385423~120412528:0
-[    2333ms] ReferenceError: tippy is not defined
-    at https://cdn.libretexts.net/readerview/readerview.min.js:1:67964
-[   64434ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
-[  161649ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://phys.libretexts.org/Special:Userlogin:0
-[  166010ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://phys.libretexts.org/favicon.ico:0
-[  221691ms] [ERROR] Failed to load resource: the server responded with a status of 500 () @ https://phys.libretexts.org/Special:Userlogin:0
+note which chapters I am workon - in progress

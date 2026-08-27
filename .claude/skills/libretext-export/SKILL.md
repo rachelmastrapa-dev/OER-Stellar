@@ -76,7 +76,10 @@ A single LibreTexts Table of Contents (TOC) URL for one chapter, e.g.:
    Do not overwrite an existing file silently — if the file already exists,
    report the conflict and ask whether to overwrite. If all of the chapter content exists, ask if the chapter should be skipped.
 
-6. **Report back**
+6. **Delete redundant files**
+  If playright has left a lot of files, such as copies of the images, or copies of the html, in `.playwright-mcp/`, then delete all of the duplicate files in the playwright folder. Do **not** delete any html or image files in the chapters directory or subdirectory.
+
+7. **Report back**
    After the run, list every file written (path only), any sections that
    failed to extract and why, and any chapter/section numbering the tool
    had to guess at.
