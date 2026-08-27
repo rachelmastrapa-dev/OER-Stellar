@@ -36,6 +36,7 @@ If starting new project, use libretext to harvest book to repo using export-book
 - Summary, removing italics, bold, spans, figure ## set to default, etc.
 
 
+
 ### Edit HTML - Claude/AI user interactions
 
 **User: Commit and close all files**
@@ -44,30 +45,27 @@ Ask for help!
 2. Change equations from MathML to Latex.
 3. Move all link to learning items to Further Exploration. 
 4. Put example and exercises in boxes and move to the correct section.
-
+<!-- include review of terminology?-->
 Future: remove text from other boxes?
 
 
-## HTML Review - Manual 
+## Chapter Review - Manual 
 
 **User: Commit and close all files**
 
-- scan for key terms and copy to list from openstax key terms
+- Delete extra text or figures.  
+  - in librext and locally
 - Make sure remixed material is in the correct section.
-- Delete extra text or figures. 
-  - delete figure in folder and .csv file?
-- Organize and edit text. - First pass at grouping topics
-- Figures 
+- scan for key terms - log
+- Organize and edit text.
+  - do not describe figures
+- Figures - log
   - add titles 
-  - manually index?
-  - log attributions
-- log attribution info for manual attributions only
-- log references                
+  - manually index?              
 - contextualize further exploration links
 
 ### Logging 
-- by hand for now - make a .csv file and enter manually?
-- class attributes - connecting to location default attribute?  page attribute?
+
 - references 
   - sources/references.csv
 - text attributions 
@@ -75,11 +73,13 @@ Future: remove text from other boxes?
   - sources/text-attributions.csv
   - section, title,	link, source title,	source link, author, author link, license, license Link
 - figure attribution info 
-  - soures/figure-attributions.csv
+  - sources/figure-attributions.csv
   - section, title, license, license link, author, author link, source, image link, figure link
 - key terms 
   - key-term.csv
   - section,term,definition
+
+<!-->  - class attributes - connecting to location default attribute?  page attribute? < -->
 
 ## Format Figures - Claude AI - more astro figs to skills in ASTR10
 
