@@ -97,6 +97,8 @@ Ask for help!
 - Figure attribution
 - Figure HTML
 
+## Edit Figure text
+- edit or delete extra figure text.
 
 ## Format Sources - Claude/AI Passive
 
