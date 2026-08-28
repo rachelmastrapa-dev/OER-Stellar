@@ -49,7 +49,7 @@ Ask for help!
 
 
 
-## Chapter Review - Manual 
+## Chapter Review - Manual  
 
 **User: Commit and close all files**
 
