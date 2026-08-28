@@ -23,7 +23,7 @@ The textbook is for an introductory astronomy course with no math requirement.
 
 ### Words and terms to Avoid
 
-- Revolve is a deprecated term for orbit and should not be used.
+- Revolve is a deprecated term for orbit and should not be used. Replace revolves about with orbits around
 - Do not use the term optical to mean visible light.
 - Avoid introducing new astronomy terms, such as diffraction spikes.
 - Do not use italics

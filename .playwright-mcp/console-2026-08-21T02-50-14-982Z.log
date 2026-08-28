@@ -1,8 +1,0 @@
-[     775ms] [LOG] CKEditor Query Plugin Release: 1.1.2 - Date: 2023-01-06 @ https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js:0
-[     776ms] [LOG] CKEditor LibreFormat Plugin @ https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js:0
-[     776ms] [LOG] CKEditor LibreBoxes Plugin @ https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js:0
-[     776ms] [LOG] CKEditor LibreQuery Plugin @ https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js:0
-[    1710ms] [LOG] October 15, 2022 - Emily @ https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js:1
-[    1710ms] [LOG] adding a11ychecker.. @ https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js:1
-[    1719ms] [LOG] CKEditor Binder Plugin @ https://cdn.libretexts.net/github/ckeditor-binder-plugin/v4/js/registerPlugin.min.js:35
-[    2573ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://commons.libretexts.org/api/v1/commons/book/phys-108155:0
