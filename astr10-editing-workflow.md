@@ -58,11 +58,14 @@ Ask for help!
   - reduce to 10 or fewer learning objectives (no learning objectives on sub-pages)
 - Content
   -  Delete extra text 
+      - footnotes
+      - references to other chapters
   - Organize page structure
-  - Start with <h2> make sure all headers are nested
+    - Start with <h2> make sure all headers are nested
   - search and replace
     - '  solar system revolve
-    - footnotes
+    - change titles in exercise and example boxes - delete number in example. copy title to exercise
+    
 - Figures
   - add titles 
   - check index
@@ -149,8 +152,13 @@ make suggestions - search for outer material??. accesibility
 - Notify Jyothsna that it is done. 
 - When you make corrections, update progress again. 
 
+## Reviews
+- check Caitling and Jyothsnas - link here?
+- wait for accessibility review?
+
 ## Jyothsna
 - Main chapter page 
   - start with H2 Introduction and brief summary
 - Remove all section summaries
 - Change name of last page to Accessible Descriptions
+
