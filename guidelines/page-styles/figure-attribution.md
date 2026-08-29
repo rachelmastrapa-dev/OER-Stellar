@@ -12,6 +12,10 @@ The HTML is: <a href="LicenseLink" target="_blank" title="License">License</a>; 
 
 The LicenseLink, License, AuthorLink, Author, FigureLink, and Source are required to format the figure attribution.
 
+Read `attribution-info.md` to decode some of the information that is used regularly. 
+Example: If the information looks like this: `Celestial Coordinates,Planisphere,pd,pdl,Antonio Zatta,https://en.wikipedia.org/wiki/Antonio_Zatta,wc,https://commons.wikimedia.org/wiki/File:1777_celestial_map_of_the_Northern_Hemisphere_by_Antionia_Zatta.jpg` use the information in `attribution-info.md` to make the information into `Celestial Coordinates,Planisphere,Public Domain,https://commons.wikimedia.org/wiki/Public_domain,Antonio Zatta,https://en.wikipedia.org/wiki/Antonio_Zatta,Wikimedia Commons,https://commons.wikimedia.org/wiki/File:1777_celestial_map_of_the_Northern_Hemisphere_by_Antionia_Zatta.jpg`
+
+
 ## Example
 
 LicenseLink: https://creativecommons.org/licenses/by/4.0/
