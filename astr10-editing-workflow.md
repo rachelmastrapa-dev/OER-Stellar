@@ -63,6 +63,7 @@ Ask for help!
 - Figures - log
   - add titles 
   - manually index? 
+  - contextualize figures and tables.
 
 - scan for key terms - log
 - Organize and edit text.
@@ -97,8 +98,7 @@ Ask for help!
 - Figure attribution
 - Figure HTML
 
-## Edit Figure text
-- edit or delete extra figure text.
+
 
 ## Format Sources - Claude/AI Passive
 

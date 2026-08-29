@@ -52,7 +52,7 @@ Apply these, in order, to each file's HTML. Read the file, apply all rules
 in memory, if a judgement needs to be made, ask the user, otherwise complete tasks, then write the result back to the same path (overwrite in place). 
 
 1. Locate a figure in the file, e.g it starts with `<figure>` and ends with `</figure>` and do the following:
-    1. Use the figure html section in editing standards to locate the alt-text and figure caption in the figure html. If present, copy the original alt-text and figure caption text into a paragraph and place the paragraph before the figure html.
+    1. Use the figure html section in editing standards to locate the alt-text and figure caption in the figure html. Do **not** preserve the original alt-text or figure caption text in paragraph form.
     2. Identify the figure number.
        - The figure number is in the format `chapter number.section number.figure index`
          - Example: For the third figure of the 4th section page of chapter 13, the figure number is 13.4.3
@@ -65,11 +65,9 @@ in memory, if a judgement needs to be made, ask the user, otherwise complete tas
     3. Locate the image file that is used for the figure.
     4. Create figure attribution
        - Refer to the Figure Attribution section in `editing-standards.md`
-       - Locate attribution information in `$ROOT/chapters/<NN>-<Chapter-Title-Slug>/sources/figure-attributions.csv`
-       - In the file, find the row with matching figure title
-       - The type of attribution depends on the information found in the row.
-          - If the information has the figure title and a the name of a default attribution, return the default attribution found in editing standards.
-          - Otherwise, use the given information to format an attribution according to editing standards.
+       - If there is a default attribution for the figure it's name will appear at the end of the figure caption text. Example: if it looks like this `<figcaption>Figure \(\PageIndex{1}\) : Doppler Effect. (a) A source, S, makes waves whose numbered crests (1, 2, 3, and 4) wash over a stationary observer. (Openstax Astronomy).</figcaption>` use the Openstax Astronomy default attribution.
+       - If there is no  default attribution, locate attribution information in `$ROOT/chapters/<NN>-<Chapter-Title-Slug>/sources/figure-attributions.csv`
+         - In the file, find the row with matching figure title and use the given information to format an attribution according to editing standards.
     5. Create figure caption text
        - Refer to the figure caption text section in `editing-standards.md`
     6. Create the accessible description
