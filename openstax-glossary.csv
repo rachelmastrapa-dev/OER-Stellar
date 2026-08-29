@@ -36,7 +36,7 @@ celestial equator,a great circle on the celestial sphere 90° from the celestial
 celestial poles,points about which the celestial sphere appears to rotate; intersections of the celestial sphere with Earth’s polar axis
 celestial sphere,the apparent sphere of the sky; a sphere of large radius centered on the observer; directions of objects in the sky can be denoted by their position on the celestial sphere
 central bulge,(or nuclear bulge) the central (round) part of the Milky Way or a similar galaxy
-cepheid,"a star that belongs to a class of yellow supergiant pulsating stars; these stars vary periodically in brightness, and the relationship between their periods and luminosities is useful in deriving distances to them"
+cepheid,a star that belongs to a class of yellow supergiant pulsating stars these stars vary periodically in brightness and the relationship between their periods and luminosities can be used to calculate their distance
 Chandrasekhar limit,the upper limit to the mass of a white dwarf (equals 1.4 times the mass of the Sun)
 charge-coupled device (CCD),"array of high-sensitivity electronic detectors of electromagnetic radiation, used at the focus of a telescope (or camera lens) to record an image or spectrum"
 chromatic aberration,distortion that causes an image to appear fuzzy when each wavelength coming into a transparent material focuses at a different spot
@@ -165,7 +165,7 @@ Local Bubble,"(or Local Hot Bubble) a region of low-density, million degree gas 
 Local Fluff,"a slightly denser cloud inside the Local Bubble, inside which the Sun also lies"
 Local Group,a small cluster of galaxies to which our Galaxy belongs
 luminosity,the rate at which a star or other object emits electromagnetic energy into space; the total power output of an object
-luminosity class,"a classification of a star according to its luminosity within a given spectral class; our Sun, a G2V star, has luminosity class V, for example"
+luminosity class,a classification of a star according to its luminosity within a given spectral class example: our Sun is a G2V star and has luminosity class V
 lunar eclipse,an eclipse of the Moon in which the Moon moves into the shadow of Earth lunar eclipses can occur only at the time of full moon
 magnetosphere,"the region around a planet in which its intrinsic magnetic field dominates the interplanetary field carried by the solar wind; hence, the region within which charged particles can be trapped by the planetary magnetic field"
 magnitude,"an older system of measuring the amount of light we receive from a star or other luminous object; the larger the magnitude, the less radiation we receive from the object"
@@ -261,7 +261,7 @@ retrograde motion,the apparent westward motion of a planet on the celestial sphe
 rift zone,"in geology, a place where the crust is being torn apart by internal forces generally associated with the injection of new material from the mantle and with the slow separation of tectonic plates"
 right ascension,the coordinate for measuring the east-west positions of celestial bodies; the angle measured eastward along the celestial equator from the vernal equinox to the hour circle passing through a body
 RNA (ribonucleic acid),a molecule that aids in the flow of genetic information from DNA to proteins
-RR Lyrae,"one of a class of giant pulsating stars with periods shorter than 1 day, useful for finding distances"
+RR Lyrae,one of a class of giant pulsating stars with periods shorter than 1 day and useful for finding distances
 runaway greenhouse effect,"the process by which the greenhouse effect, rather than remaining stable or being lessened through intervention, continues to grow at an increasing rate"
 satellite,an object that revolves around a planet
 sedimentary rock,"rock formed by the deposition and cementing of fine grains of material, such as pieces of igneous rock or the shells of living things"
