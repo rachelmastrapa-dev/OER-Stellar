@@ -10,6 +10,10 @@ Accessible description are as an addition to the image, so that all students can
 - If there is an image credit in the supporting text, include it as the last line of the description
   - Examples of credits in supportin text: (credit: Adam Evans) or (credit: modification of work by Hubble Legacy Archive, NASA, ESA, and Judy Schmidt).
   - Remove text similar to "modification of work by" Examples of edited text for accessible description: Credit: Adam Evans or Credit: Hubble Legacy Archive, NASA, ESA, and Judy Schmidt.
+  - If there is something at the end of the figure caption that looks like this: (Openstax Astronomy), that is not an image credit, that is a signal to use the default Openstax Astronomy figure attribution. 
+     - Do not turn (Openstax Astronomy) into an image credit.  
+     - If there is an credit before it, then follow the instructions for moving the image credit. 
+        - Example. If it looks like `(credit: ESO) (Openstax Astronomy)` Use `(credit: ESO)` to add a credit to the accessible description and do not use (Openstax Astronomy) in the accessible description
 
 <!-- Follow any general guidelines in astro_figs.html, such as which words are appropriate for the textbook. -->
 

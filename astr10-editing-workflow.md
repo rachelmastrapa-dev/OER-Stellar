@@ -60,16 +60,20 @@ Ask for help!
   '  solar system revolve
   - footnotes
 
-- Figures - log
+- Figures - log  (Openstax Astronomy)
   - add titles 
   - manually index? 
   - contextualize figures and tables.
 
 - scan for key terms - log
+
 - Organize and edit text.
-  - do not describe figures
              
 - contextualize further exploration links
+
+## Tasks to do when late and exhausted
+
+Copy (Openstax Astronomy) into every figure caption
 
 ### Logging 
 
