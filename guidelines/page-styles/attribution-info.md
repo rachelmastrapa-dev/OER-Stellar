@@ -1,8 +1,10 @@
 # Useful Attribution Sources
 
 ## Repositories/Sources
-Wikimedia Commons https://commons.wikimedia.org/wiki/
+wc = Wikimedia Commons
+wcl = https://commons.wikimedia.org/wiki/
 
 ## Licenses
 
-Public Domain https://commons.wikimedia.org/wiki/Public_domain
+pd = Public Domain 
+pdl = https://commons.wikimedia.org/wiki/Public_domain
