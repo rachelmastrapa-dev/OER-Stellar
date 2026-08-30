@@ -52,24 +52,36 @@ Ask for help!
 ## Chapter Review - Manual   
 
 **User: Commit and close all files**
-
-- Delete extra text or figures.  
-  - in librext and locally
-- Make sure remixed material is in the correct section.
-- search and replace
-  '  solar system revolve
-  - footnotes
-
-- Figures - log  (Openstax Astronomy)
+- main chapter page
+  - format thumbnail - copy from another example
+  - Have page start with an H2 Introduction before learning objectives and short summary paragraph.
+  - reduce to 10 or fewer learning objectives (no learning objectives on sub-pages)
+- Content
+  -  Delete extra text 
+      - footnotes
+      - references to other chapters
+  - Organize page structure
+    - Start with <h2> make sure all headers are nested
+  - search and replace
+    - '  solar system revolve
+    - change titles in exercise and example boxes - delete number in example. copy title to exercise
+    
+- Figures
   - add titles 
-  - manually index? 
+  - check index
+  - check against files, manifest
+  - log - att info or (Openstax Astronomy)
   - contextualize figures and tables.
+- key terms 
+   -  find in text and log
+- Further Exploration
+   - check for full link
+   - contextualize further exploration links
+- text attribution
+  - log
+- References 
+   - log
 
-- scan for key terms - log
-
-- Organize and edit text.
-             
-- contextualize further exploration links
 
 ## Tasks to do when late and exhausted
 
@@ -133,9 +145,6 @@ make suggestions - search for outer material??. accesibility
 <-->
 
 ## Final Check- Manual
-- Check main chapter page
-  - Have page start with an H2 Introduction before learning objectives and short summary paragraph.
-  - reduce to 10 or fewer learning objectives (no learning objectives on sub-pages)
 - Manually paste each page and check for functionality.
   - check size of thumbnail image  for main chapter page   
 - Commit changes in Conductor
@@ -143,8 +152,13 @@ make suggestions - search for outer material??. accesibility
 - Notify Jyothsna that it is done. 
 - When you make corrections, update progress again. 
 
+## Reviews
+- check Caitling and Jyothsnas - link here?
+- wait for accessibility review?
+
 ## Jyothsna
 - Main chapter page 
   - start with H2 Introduction and brief summary
 - Remove all section summaries
 - Change name of last page to Accessible Descriptions
+

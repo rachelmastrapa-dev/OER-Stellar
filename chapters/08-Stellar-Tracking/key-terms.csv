@@ -4,5 +4,7 @@ Doppler Effect,radial velocity,motion toward or away from the observer the compo
 Proper Motion,space velocity,the total speed and direction with which an object is moving through space relative to the Sun
 Proper Motion,proper motion,the angular change per year in the direction of a star as seen from the Sun
 Parallax and Naming Stars,parsec,a unit of distance in astronomy equal to 3.26 light-years at a distance of 1 parsec a star has a parallax of 1 arcsecond
-Variable Stars,period-luminosity relation,an empirical relation between the periods and luminosities of certain variable stars
-
+Variable Stars,period-luminosity relation,an empirical relation between the periods and luminosities of certain variable stars 
+Variable Stars,cepheid,a star that belongs to a class of yellow supergiant pulsating stars these stars vary periodically in brightness and the relationship between their periods and luminosities can be used to calculate their distance
+Variable Stars,RR Lyrae,one of a class of giant pulsating stars with periods shorter than 1 day and useful for finding distances
+Variable Stars,luminosity class,a classification of a star according to its luminosity within a given spectral class example: our Sun is a G2V star and has luminosity class V
