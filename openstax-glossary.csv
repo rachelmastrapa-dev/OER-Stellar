@@ -31,7 +31,7 @@ binary stars,two stars that revolve about each other
 biomarker,"evidence of the presence of life, especially a global indication of life on a planet that could be detected remotely (such as an unusual atmospheric composition)"
 black hole,a region in spacetime where gravity is so strong that nothing—not even light—can escape
 blackbody,an idealized object that absorbs all electromagnetic energy that falls onto it
-brown dwarf,"an object intermediate in size between a planet and a star; the approximate mass range is from about 1/100 of the mass of the Sun up to the lower mass limit for self-sustaining nuclear reactions, which is about 0.075 the mass of the Sun; brown dwarfs are capable of deuterium fusion, but not hydrogen fusion"
+brown dwarf,an object intermediate in size between a planet and a star the approximate mass range is from about 1/100 of the mass of the Sun up to the lower mass limit for self-sustaining nuclear reactions which is about 0.075 the mass of the Sun brown dwarfs are capable of deuterium fusion, but not hydrogen fusion
 celestial equator,a great circle on the celestial sphere 90° from the celestial poles; where the celestial sphere intersects the plane of Earth’s equator
 celestial poles,points about which the celestial sphere appears to rotate; intersections of the celestial sphere with Earth’s polar axis
 celestial sphere,the apparent sphere of the sky; a sphere of large radius centered on the observer; directions of objects in the sky can be denoted by their position on the celestial sphere
@@ -44,7 +44,7 @@ chromosphere,the part of the solar atmosphere that lies immediately above the ph
 circumpolar zone,those portions of the celestial sphere near the celestial poles that are either always above or always below the horizon
 closed universe,"a model in which the universe expands from a Big Bang, stops, and then contracts to a big crunch"
 cold dark matter,"slow-moving massive particles, not yet identified, that don’t absorb, emit, or reflect light or other electromagnetic radiation"
-color index,"difference between the magnitudes of a star or other object measured in light of two different spectral regions—for example, blue minus visual (B–V) magnitudes"
+color index,difference between the magnitudes of a star or other object measured in light of two different spectral regions example: blue minus visual (B–V) magnitudes
 comet,a small body of icy and dusty matter that revolves about the Sun when a comet comes near the Sun some of its material vaporizes forming a large head of tenuous gas and often a tail
 conduction,process by which heat is directly transmitted through a substance when there is a difference of temperature between adjoining regions caused by atomic or molecular collisions
 continuous spectrum,"a spectrum of light composed of radiation of a continuous range of wavelengths or colors, rather than only certain discrete wavelengths"
@@ -76,7 +76,7 @@ DNA (deoxyribonucleic acid),a molecule that stores information about how to repl
 Doppler effect,the apparent change in wavelength or frequency of the radiation from a source due to its relative motion away from or toward the observer 
 Drake equation,"a formula for estimating the number of intelligent, technological civilizations in our Galaxy, first suggested by Frank Drake"
 eccentricity,in an ellipse, the ratio of the distance between the foci to the major axis
-eclipsing binary,"a binary star in which the plane of revolution of the two stars is nearly edge-on to our line of sight, so that the light of one star is periodically diminished by the other passing in front of it"
+eclipsing binary,a binary star in which the plane of revolution of the two stars is nearly edge-on to our line of sight so that the light of one star is periodically diminished by the other passing in front of it
 ecliptic,the apparent annual path of the Sun on the celestial sphere
 electromagnetic radiation,radiation consisting of waves propagated through regularly varying electric and magnetic fields and traveling at the speed of light
 electromagnetic spectrum,"the whole array or family of electromagnetic waves, from radio to gamma rays"
@@ -283,7 +283,7 @@ space velocity,the total speed and direction with which an object is moving thro
 spacetime,"system of one time and three space coordinates, with respect to which the time and place of an event can be specified"
 spectral class,"(or spectral type) the classification of stars according to their temperatures using the characteristics of their spectra; the types are O, B, A, F, G, K, and M with L, T, and Y added recently for cooler star-like objects that recent survey have revealed"
 spectrometer,"an instrument for obtaining a spectrum; in astronomy, usually attached to a telescope to record the spectrum of a star, galaxy, or other astronomical object"
-spectroscopic binary,"a binary star in which the components are not resolved but whose binary nature is indicated by periodic variations in radial velocity, indicating orbital motion"
+spectroscopic binary,a binary star in which the components are not resolved but whose binary nature is indicated by periodic variations in radial velocity indicating orbital motion
 spiral arm,"a spiral-shaped region, characterized by relatively dense interstellar material and young stars, that is observed in the disks of spiral galaxies"
 spiral galaxy,"a flattened, rotating galaxy with pinwheel-like arms of interstellar material and young stars, winding out from its central bulge"
 starburst,a galaxy or merger of multiple galaxies that turns gas into stars much faster than usual
@@ -324,7 +324,7 @@ volcano,a place where material from a planet’s mantle erupts on its surface
 wavelength,the distance from crest to crest or trough to trough in a wave
 weakly interacting massive particles,(WIMPs) weakly interacting massive particles are one of the candidates for the composition of dark matter
 white dwarf,a low-mass star that has exhausted most or all of its nuclear fuel and has collapsed to a very small size; such a star is near its final state of life
-Wien’s law,formula that relates the temperature of a blackbody to the wavelength at which it emits the greatest intensity of radiation
+Wien’s law,formula that relates the temperature of a blackbody to the wavelength at which it emits the greatest intensity of radiation 
 X-rays,electromagnetic radiation with wavelengths between 0.01 nanometer and 10 nanometers; intermediate between those of ultraviolet radiation and gamma rays
 year,the period of revolution of Earth around the Sun
 zenith,the point on the celestial sphere opposite the direction of gravity; point directly above the observer

@@ -7,7 +7,7 @@
 3. Create new session file for today in VSCodium
 4. Starting Claude Code
     1. Open a terminal command prompt 
-    2. Navigate to repo 
+    2. Navigate to repo cd Crap\OERAI\git_repos\OER-Stellar
     3. Type claude
     4. Exit when not using
 5. **Commit often! Keep careful session notes!**
