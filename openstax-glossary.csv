@@ -32,7 +32,7 @@ biomarker,"evidence of the presence of life, especially a global indication of l
 black hole,a region in spacetime where gravity is so strong that nothing—not even light—can escape
 blackbody,an idealized object that absorbs all electromagnetic energy that falls onto it
 brown dwarf,an object intermediate in size between a planet and a star the approximate mass range is from about 1/100 of the mass of the Sun up to the lower mass limit for self-sustaining nuclear reactions which is about 0.075 the mass of the Sun brown dwarfs are capable of deuterium fusion, but not hydrogen fusion
-celestial equator,a great circle on the celestial sphere 90° from the celestial poles; where the celestial sphere intersects the plane of Earth’s equator
+celestial equator,a great circle on the celestial sphere 90° from the celestial poles; where the celestial sphere intersects the plane of Earth’s equator 
 celestial poles,points about which the celestial sphere appears to rotate; intersections of the celestial sphere with Earth’s polar axis
 celestial sphere,the apparent sphere of the sky; a sphere of large radius centered on the observer; directions of objects in the sky can be denoted by their position on the celestial sphere
 central bulge,(or nuclear bulge) the central (round) part of the Milky Way or a similar galaxy
@@ -48,7 +48,7 @@ color index,difference between the magnitudes of a star or other object measured
 comet,a small body of icy and dusty matter that revolves about the Sun when a comet comes near the Sun some of its material vaporizes forming a large head of tenuous gas and often a tail
 conduction,process by which heat is directly transmitted through a substance when there is a difference of temperature between adjoining regions caused by atomic or molecular collisions
 continuous spectrum,"a spectrum of light composed of radiation of a continuous range of wavelengths or colors, rather than only certain discrete wavelengths"
-convection,"movement caused within a gas or liquid by the tendency of hotter, and therefore less dense material, to rise and colder, denser material to sink under the influence of gravity, which consequently results in transfer of heat"
+convection,movement caused within a gas or liquid by the tendency of hotter, and therefore less dense material, to rise and colder, denser material to sink under the influence of gravity, which consequently results in transfer of heat
 core,the central part of the planet; consists of higher density material
 corona,(of the Sun) the outer (hot) atmosphere of the Sun
 coronal hole,a region in the Sun’s outer atmosphere that appears darker because there is less hot gas there
@@ -112,7 +112,7 @@ giant planet,"any of the planets Jupiter, Saturn, Uranus, and Neptune in our sol
 globular cluster,"one of about 150 large, spherical star clusters (each with hundreds of thousands of stars) that form a spherical halo around the center of our Galaxy"
 grand unified theories,(GUTs) physical theories that attempt to describe the four forces of nature as different manifestations of a single force
 granite,a type of igneous silicate rock that makes up most of Earth’s continental crust
-granulation,"the rice-grain-like structure of the solar photosphere; granulation is produced by upwelling currents of gas that are slightly hotter, and therefore brighter, than the surrounding regions, which are flowing downward into the Sun"
+granulation,the rice-grain-like structure of the solar photosphere; granulation is produced by upwelling currents of gas that are slightly hotter, and therefore brighter, than the surrounding regions, which are flowing downward into the Sun
 gravitational redshift,an increase in wavelength of an electromagnetic wave (light) when propagating from or near a massive object
 gravitational wave,a disturbance in the curvature of spacetime caused by changes in how matter is distributed; gravitational waves propagate at (or near) the speed of light.
 gravity,the mutual attraction of material bodies or particles
@@ -229,7 +229,7 @@ photosynthesis,"a complex sequence of chemical reactions through which some livi
 plage,a bright region of the solar surface observed in the light of some spectral line
 planet, any of the larger objects orbiting around the Sun or any similar objects that orbit other stars in ancient times any object that moved regularly among the fixed stars
 planetary nebula,a shell of gas ejected by and expanding away from an extremely hot low-mass star that is nearing the end of its life (the nebulae glow because of the ultra-violet energy of the central star)
-planetesimals,"objects, from tens to hundreds of kilometers in diameter, that formed in the solar nebula as an intermediate step between tiny grains and the larger planetary objects we see today; the comets and some asteroids may be leftover planetesimals"
+planetesimals,objects from tens to hundreds of kilometers in diameter that formed in the solar nebula as an intermediate step between tiny grains and the larger planetary objects we see today; the comets and some asteroids may be leftover planetesimals
 plasma,a hot ionized gas
 plate tectonics,the motion of segments or plates of the outer layer of a planet over the underlying mantle
 population I star,a star containing heavy elements; typically young and found in the disk
@@ -277,8 +277,8 @@ solar day,Earth’s rotation period as defined by the position of the Sun in the
 solar eclipse,an eclipse of the Sun by the Moon, caused by the passage of the Moon in front of the Sun solar eclipses can occur only at the time of the new moon
 solar flare,a sudden and temporary outburst of electromagnetic radiation from an extended region of the Sun’s surface
 solar month,"the time interval in which the phases repeat—say, from full to full phase"
-solar nebula,the cloud of gas and dust from which the solar system formed
-solar wind,"a flow of hot, charged particles leaving the Sun"
+solar nebula,the cloud of gas and dust from which the Solar System formed
+solar wind,a flow of hot, charged particles leaving the Sun
 space velocity,the total speed and direction with which an object is moving through space relative to the Sun
 spacetime,"system of one time and three space coordinates, with respect to which the time and place of an event can be specified"
 spectral class,"(or spectral type) the classification of stars according to their temperatures using the characteristics of their spectra; the types are O, B, A, F, G, K, and M with L, T, and Y added recently for cooler star-like objects that recent survey have revealed"
@@ -294,7 +294,7 @@ stony-iron meteorite,a type of differentiated meteorite that is a blend of nicke
 stratosphere,the layer of Earth’s atmosphere above the troposphere and below the ionosphere
 stromatolites,"solid, layered rock formations that are thought to be the fossils of oxygen-producing photosynthetic bacteria in rocks that are 3.5 billion years old"
 subduction,the sideways and downward movement of the edge of a plate of Earth’s crust into the mantle beneath another plate
-sunspot,"large, dark features seen on the surface of the Sun caused by increased magnetic activity"
+sunspot,large, dark features seen on the surface of the Sun caused by increased magnetic activity
 sunspot cycle,the semiregular 11-year period with which the frequency of sunspots fluctuates
 super-Earth,"a planet larger than Earth, generally between 1.4 and 2.8 times the size of our planet"
 supercluster,a large region of space (more than 100 million light-years across) where groups and clusters of galaxies are more concentrated; a cluster of clusters of galaxies
