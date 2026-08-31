@@ -13,7 +13,7 @@ anthropic principle,idea that physical laws must be the way they are because oth
 aperture,diameter of the primary lens or mirror of a telescope
 aphelion,the point in its orbit where a planet (or other orbiting object) is farthest from the Sun
 apogee,the point in its orbit where an Earth satellite is farthest from Earth
-apparent brightness,"a measure of the amount of light received by Earth from a star or other object—that is, how bright an object appears in the sky, as contrasted with its luminosity"
+apparent brightness,a measure of the amount of light received by Earth from a star or other object—that is, how bright an object appears in the sky, as contrasted with its luminosity
 apparent magnitude,"a measure of how bright a star looks in the sky; the larger the number, the dimmer the star appears to us"
 apparent solar time,time as measured by the position of the Sun in the sky (the time that would be indicated by a sundial)
 association,"a loose group of young stars whose spectral types, motions, and positions in the sky indicate a common origin"
@@ -79,7 +79,7 @@ eccentricity,in an ellipse, the ratio of the distance between the foci to the ma
 eclipsing binary,a binary star in which the plane of revolution of the two stars is nearly edge-on to our line of sight so that the light of one star is periodically diminished by the other passing in front of it
 ecliptic,the apparent annual path of the Sun on the celestial sphere
 electromagnetic radiation,radiation consisting of waves propagated through regularly varying electric and magnetic fields and traveling at the speed of light
-electromagnetic spectrum,"the whole array or family of electromagnetic waves, from radio to gamma rays"
+electromagnetic spectrum,the full range of electromagnetic waves, from radio to gamma rays
 ellipse,a closed curve for which the sum of the distances from any point on the ellipse to two points inside (called the foci) is always the same
 elliptical galaxy,a galaxy whose shape is an ellipse and that contains no conspicuous interstellar material
 emission spectrum,a series or pattern of bright lines superimposed on a continuous spectrum
@@ -99,7 +99,7 @@ fission,breaking up of heavier atomic nuclei into lighter ones
 flat universe,"a model of the universe that has a critical density and in which the geometry of the universe is flat, like a sheet of paper"
 focus (ellipse),(plural: foci) one of two fixed points inside an ellipse from which the sum of the distances to any point on the ellipse is constant
 focus (telescope),(of telescope) point where the rays of light converged by a mirror or lens meet
-frequency,the number of waves that cross a given point per unit time (in radiation)
+frequency,the number of waves that cross a given point per unit time
 fusion,building up of heavier atomic nuclei from lighter ones
 galactic cannibalism,a process by which a larger galaxy strips material from or completely swallows a smaller one
 gamma rays,photons (of electromagnetic radiation) of energy with wavelengths no longer than 0.01 nanometer; the most energetic form of electromagnetic radiation
@@ -140,7 +140,7 @@ Hubble’s law,a rule that the radial velocities of remote galaxies are proporti
 hydrostatic equilibrium,"balance between the weights of various layers, as in a star or Earth’s atmosphere, and the pressures that support them"
 igneous rock,rock produced by cooling from a molten state
 inflationary universe,"a theory of cosmology in which the universe is assumed to have undergone a phase of very rapid expansion when the universe was about 10–35 second old; after this period of rapid expansion, the standard Big Bang and inflationary models are identical"
-infrared,"electromagnetic radiation of wavelength 103–106 nanometers; longer than the longest (red) wavelengths that can be perceived by the eye, but shorter than radio wavelengths"
+infrared,electromagnetic radiation of wavelength 103–106 nanometers; longer than the longest (red) wavelengths that can be perceived by the eye, but shorter than radio wavelengths
 interference,process in which waves mix together such that their crests and troughs can alternately reinforce and cancel one another
 interferometer,instrument that combines electromagnetic radiation from one or more telescopes to obtain a resolution equivalent to what would be obtained with a single telescope with a diameter equal to the baseline separating the individual separate telescopes
 interferometer array,"combination of multiple radio dishes to, in effect, work like a large number of two-dish interferometers"
@@ -248,8 +248,8 @@ pulsating variable star,a variable star that pulsates in size and luminosity
 quasar,"an object of very high redshift that looks like a star but is extragalactic and highly luminous; also called a quasi-stellar object, or QSO"
 radar,"technique of transmitting radio waves to an object and then detecting the radiation that the object reflects back to the transmitter; used to measure the distance to, and motion of, a target object or to form images of it"
 radial velocity,motion toward or away from the observer the component of relative velocity that lies in the line of sight
-radiation,"emission of energy as electromagnetic waves or photons, also the transmitted energy itself"
-radio waves,"all electromagnetic waves longer than microwaves, including radar waves and AM radio waves"
+radiation,emission of energy as electromagnetic waves or photons, also the transmitted energy itself
+radio waves,all electromagnetic waves longer than microwaves, including radar waves and radio waves
 radioactivity,"process by which certain kinds of atomic nuclei decay naturally, with the spontaneous emission of subatomic particles and gamma rays"
 reddening (interstellar),the reddening of starlight passing through interstellar dust because dust scatters blue light more effectively than red
 redshift,when lines in the spectra are displaced toward longer wavelengths (toward the red end of the visible spectrum)
