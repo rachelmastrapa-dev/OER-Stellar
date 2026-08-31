@@ -7,7 +7,7 @@
 3. Create new session file for today in VSCodium
 4. Starting Claude Code
     1. Open a terminal command prompt 
-    2. Navigate to repo 
+    2. Navigate to repo cd Crap\OERAI\git_repos\OER-Stellar
     3. Type claude
     4. Exit when not using
 5. **Commit often! Keep careful session notes!**
@@ -147,7 +147,7 @@ make suggestions - search for outer material??. accesibility
 ## Final Check- Manual
 - Manually paste each page and check for functionality.
   - check size of thumbnail image  for main chapter page   
-- Commit changes in Conductor
+- Commit changes in Conductor 
 - Update progress log.
 - Notify Jyothsna that it is done. 
 - When you make corrections, update progress again. 

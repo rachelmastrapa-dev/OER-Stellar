@@ -13,7 +13,7 @@ anthropic principle,idea that physical laws must be the way they are because oth
 aperture,diameter of the primary lens or mirror of a telescope
 aphelion,the point in its orbit where a planet (or other orbiting object) is farthest from the Sun
 apogee,the point in its orbit where an Earth satellite is farthest from Earth
-apparent brightness,"a measure of the amount of light received by Earth from a star or other object—that is, how bright an object appears in the sky, as contrasted with its luminosity"
+apparent brightness,a measure of the amount of light received by Earth from a star or other object—that is, how bright an object appears in the sky, as contrasted with its luminosity
 apparent magnitude,"a measure of how bright a star looks in the sky; the larger the number, the dimmer the star appears to us"
 apparent solar time,time as measured by the position of the Sun in the sky (the time that would be indicated by a sundial)
 association,"a loose group of young stars whose spectral types, motions, and positions in the sky indicate a common origin"
@@ -31,8 +31,8 @@ binary stars,two stars that revolve about each other
 biomarker,"evidence of the presence of life, especially a global indication of life on a planet that could be detected remotely (such as an unusual atmospheric composition)"
 black hole,a region in spacetime where gravity is so strong that nothing—not even light—can escape
 blackbody,an idealized object that absorbs all electromagnetic energy that falls onto it
-brown dwarf,"an object intermediate in size between a planet and a star; the approximate mass range is from about 1/100 of the mass of the Sun up to the lower mass limit for self-sustaining nuclear reactions, which is about 0.075 the mass of the Sun; brown dwarfs are capable of deuterium fusion, but not hydrogen fusion"
-celestial equator,a great circle on the celestial sphere 90° from the celestial poles; where the celestial sphere intersects the plane of Earth’s equator
+brown dwarf,an object intermediate in size between a planet and a star the approximate mass range is from about 1/100 of the mass of the Sun up to the lower mass limit for self-sustaining nuclear reactions which is about 0.075 the mass of the Sun brown dwarfs are capable of deuterium fusion, but not hydrogen fusion
+celestial equator,a great circle on the celestial sphere 90° from the celestial poles; where the celestial sphere intersects the plane of Earth’s equator 
 celestial poles,points about which the celestial sphere appears to rotate; intersections of the celestial sphere with Earth’s polar axis
 celestial sphere,the apparent sphere of the sky; a sphere of large radius centered on the observer; directions of objects in the sky can be denoted by their position on the celestial sphere
 central bulge,(or nuclear bulge) the central (round) part of the Milky Way or a similar galaxy
@@ -44,17 +44,17 @@ chromosphere,the part of the solar atmosphere that lies immediately above the ph
 circumpolar zone,those portions of the celestial sphere near the celestial poles that are either always above or always below the horizon
 closed universe,"a model in which the universe expands from a Big Bang, stops, and then contracts to a big crunch"
 cold dark matter,"slow-moving massive particles, not yet identified, that don’t absorb, emit, or reflect light or other electromagnetic radiation"
-color index,"difference between the magnitudes of a star or other object measured in light of two different spectral regions—for example, blue minus visual (B–V) magnitudes"
+color index,difference between the magnitudes of a star or other object measured in light of two different spectral regions example: blue minus visual (B–V) magnitudes
 comet,a small body of icy and dusty matter that revolves about the Sun when a comet comes near the Sun some of its material vaporizes forming a large head of tenuous gas and often a tail
 conduction,process by which heat is directly transmitted through a substance when there is a difference of temperature between adjoining regions caused by atomic or molecular collisions
 continuous spectrum,"a spectrum of light composed of radiation of a continuous range of wavelengths or colors, rather than only certain discrete wavelengths"
-convection,"movement caused within a gas or liquid by the tendency of hotter, and therefore less dense material, to rise and colder, denser material to sink under the influence of gravity, which consequently results in transfer of heat"
+convection,movement caused within a gas or liquid by the tendency of hotter, and therefore less dense material, to rise and colder, denser material to sink under the influence of gravity, which consequently results in transfer of heat
 core,the central part of the planet; consists of higher density material
 corona,(of the Sun) the outer (hot) atmosphere of the Sun
 coronal hole,a region in the Sun’s outer atmosphere that appears darker because there is less hot gas there
 coronal mass ejection (CME),a solar flare in which immense quantities of coronal material—mainly protons and electrons—is ejected at high speeds (500–1000 kilometers per second) into interplanetary space
 cosmic microwave background (CMB),microwave radiation coming from all directions that is the redshifted afterglow of the Big Bang
-cosmic rays,atomic nuclei (mostly protons) and electrons that are observed to strike Earth’s atmosphere with exceedingly high energies.
+cosmic rays,atomic nuclei (mostly protons) and electrons that are observed to strike Earth’s atmosphere with very high energies.
 cosmological constant,the term in the equations of general relativity that represents a repulsive force in the universe
 cosmological principle,"the assumption that, on the large scale, the universe at any given time is the same everywhere—isotropic and homogeneous
 cosmology,the study of the organization and evolution of the universe
@@ -76,10 +76,10 @@ DNA (deoxyribonucleic acid),a molecule that stores information about how to repl
 Doppler effect,the apparent change in wavelength or frequency of the radiation from a source due to its relative motion away from or toward the observer 
 Drake equation,"a formula for estimating the number of intelligent, technological civilizations in our Galaxy, first suggested by Frank Drake"
 eccentricity,in an ellipse, the ratio of the distance between the foci to the major axis
-eclipsing binary,"a binary star in which the plane of revolution of the two stars is nearly edge-on to our line of sight, so that the light of one star is periodically diminished by the other passing in front of it"
+eclipsing binary,a binary star in which the plane of revolution of the two stars is nearly edge-on to our line of sight so that the light of one star is periodically diminished by the other passing in front of it
 ecliptic,the apparent annual path of the Sun on the celestial sphere
 electromagnetic radiation,radiation consisting of waves propagated through regularly varying electric and magnetic fields and traveling at the speed of light
-electromagnetic spectrum,"the whole array or family of electromagnetic waves, from radio to gamma rays"
+electromagnetic spectrum,the full range of electromagnetic waves, from radio to gamma rays
 ellipse,a closed curve for which the sum of the distances from any point on the ellipse to two points inside (called the foci) is always the same
 elliptical galaxy,a galaxy whose shape is an ellipse and that contains no conspicuous interstellar material
 emission spectrum,a series or pattern of bright lines superimposed on a continuous spectrum
@@ -99,7 +99,7 @@ fission,breaking up of heavier atomic nuclei into lighter ones
 flat universe,"a model of the universe that has a critical density and in which the geometry of the universe is flat, like a sheet of paper"
 focus (ellipse),(plural: foci) one of two fixed points inside an ellipse from which the sum of the distances to any point on the ellipse is constant
 focus (telescope),(of telescope) point where the rays of light converged by a mirror or lens meet
-frequency,the number of waves that cross a given point per unit time (in radiation)
+frequency,the number of waves that cross a given point per unit time
 fusion,building up of heavier atomic nuclei from lighter ones
 galactic cannibalism,a process by which a larger galaxy strips material from or completely swallows a smaller one
 gamma rays,photons (of electromagnetic radiation) of energy with wavelengths no longer than 0.01 nanometer; the most energetic form of electromagnetic radiation
@@ -107,17 +107,17 @@ gene,the basic functional unit that carries the genetic (hereditary) material co
 general theory of relativity,Einstein’s theory relating gravity and the structure (geometry) of space and time
 geocentric,centered on Earth
 giant,"a star of exaggerated size with a large, extended photosphere"
-giant molecular clouds,"large, cold interstellar clouds with diameters of dozens of light-years and typical masses of 105 solar masses; found in the spiral arms of galaxies, these clouds are where stars form"
+giant molecular clouds,large cold interstellar clouds with diameters of dozens of light-years and typical masses of 105 solar masses; found in the spiral arms of galaxies these clouds are where stars form
 giant planet,"any of the planets Jupiter, Saturn, Uranus, and Neptune in our solar system, or planets of roughly that mass and composition in other planetary systems"
 globular cluster,"one of about 150 large, spherical star clusters (each with hundreds of thousands of stars) that form a spherical halo around the center of our Galaxy"
 grand unified theories,(GUTs) physical theories that attempt to describe the four forces of nature as different manifestations of a single force
 granite,a type of igneous silicate rock that makes up most of Earth’s continental crust
-granulation,"the rice-grain-like structure of the solar photosphere; granulation is produced by upwelling currents of gas that are slightly hotter, and therefore brighter, than the surrounding regions, which are flowing downward into the Sun"
+granulation,the rice-grain-like structure of the solar photosphere; granulation is produced by upwelling currents of gas that are slightly hotter, and therefore brighter, than the surrounding regions, which are flowing downward into the Sun
 gravitational redshift,an increase in wavelength of an electromagnetic wave (light) when propagating from or near a massive object
 gravitational wave,a disturbance in the curvature of spacetime caused by changes in how matter is distributed; gravitational waves propagate at (or near) the speed of light.
 gravity,the mutual attraction of material bodies or particles
 great circle,a circle on the surface of a sphere that is the curve of intersection of the sphere with a plane passing through its center
-greenhouse effect,"the blanketing (absorption) of infrared radiation near the surface of a planet—for example, by CO2 in its atmosphere"
+greenhouse effect,the blanketing (absorption) of infrared radiation near the surface of a planet—for example, by CO2 in its atmosphere
 greenhouse gas,"a gas in an atmosphere that absorbs and emits radiation within the thermal infrared range; on Earth, these atmospheric gases primarily include carbon dioxide, methane, and water vapor"
 ground state,the lowest energy state of an atom
 H II region,the region of ionized hydrogen in interstellar space
@@ -140,12 +140,12 @@ Hubble’s law,a rule that the radial velocities of remote galaxies are proporti
 hydrostatic equilibrium,"balance between the weights of various layers, as in a star or Earth’s atmosphere, and the pressures that support them"
 igneous rock,rock produced by cooling from a molten state
 inflationary universe,"a theory of cosmology in which the universe is assumed to have undergone a phase of very rapid expansion when the universe was about 10–35 second old; after this period of rapid expansion, the standard Big Bang and inflationary models are identical"
-infrared,"electromagnetic radiation of wavelength 103–106 nanometers; longer than the longest (red) wavelengths that can be perceived by the eye, but shorter than radio wavelengths"
+infrared,electromagnetic radiation of wavelength 103–106 nanometers; longer than the longest (red) wavelengths that can be perceived by the eye, but shorter than radio wavelengths
 interference,process in which waves mix together such that their crests and troughs can alternately reinforce and cancel one another
 interferometer,instrument that combines electromagnetic radiation from one or more telescopes to obtain a resolution equivalent to what would be obtained with a single telescope with a diameter equal to the baseline separating the individual separate telescopes
 interferometer array,"combination of multiple radio dishes to, in effect, work like a large number of two-dish interferometers"
 International Date Line,an arbitrary line on the surface of Earth near longitude 180° across which the date changes by one day
-interstellar dust,"tiny solid grains in interstellar space thought to consist of a core of rocklike material (silicates) or graphite surrounded by a mantle of ices; water, methane, and ammonia are probably the most abundant ices"
+interstellar dust,tiny solid grains in interstellar space thought to consist of a core of rocklike material (silicates) or graphite surrounded by a mantle of ices; water, methane, and ammonia are probably the most abundant ices
 interstellar extinction,the attenuation or absorption of light by dust in the interstellar medium
 interstellar medium (ISM),(or interstellar matter) the gas and dust between the stars in a galaxy
 inverse square law,(for light) the amount of energy (light) flowing through a given area in a given time decreases in proportion to the square of the distance from the source of energy or light
@@ -161,10 +161,10 @@ Kepler’s third law,the square of a planet’s orbital period is directly propo
 Kuiper belt,a region of space beyond Neptune that is dynamically stable (like the asteroid belt); the source region for most short-period comets
 light curve,"a graph that displays the time variation of the light from a variable or eclipsing binary star or, more generally, from any other object whose radiation output changes with time"
 lithium,the third element in the periodic table; lithium nuclei with three protons and four neutrons were manufactured during the first few minutes of the expansion of the universe
-Local Bubble,"(or Local Hot Bubble) a region of low-density, million degree gas in which the Sun and solar system are currently located"
-Local Fluff,"a slightly denser cloud inside the Local Bubble, inside which the Sun also lies"
+Local Bubble,(or Local Hot Bubble) a region of low-density million degree gas in which the Sun and Solar System are currently located
+Local Fluff,a slightly denser cloud inside the Local Bubble, inside which the Sun also lies
 Local Group,a small cluster of galaxies to which our Galaxy belongs
-luminosity,the rate at which a star or other object emits electromagnetic energy into space; the total power output of an object
+luminosity,the rate at which a star or other object emits electromagnetic energy into space; the total power output of an object 
 luminosity class,a classification of a star according to its luminosity within a given spectral class example: our Sun is a G2V star and has luminosity class V
 lunar eclipse,an eclipse of the Moon in which the Moon moves into the shadow of Earth lunar eclipses can occur only at the time of full moon
 magnetosphere,"the region around a planet in which its intrinsic magnetic field dominates the interplanetary field carried by the solar wind; hence, the region within which charged particles can be trapped by the planetary magnetic field"
@@ -190,7 +190,7 @@ microwave,electromagnetic radiation of wavelengths from 1 millimeter to 1 meter;
 Milky Way Galaxy,"the band of light encircling the sky, which is due to the many stars and diffuse nebulae lying near the plane of the Milky Way Galaxy"
 millisecond pulsar,a pulsar that rotates so quickly that it can give off hundreds of pulses per second (and its period is therefore measured in milliseconds)
 mini-Neptune,"a planet that is intermediate between the largest terrestrial planet in our solar system (Earth) and the smallest jovian planet (Neptune); generally, mini-Neptunes have sizes between 2.8 and 4 times Earth’s size"
-molecular cloud,"a large, dense, cold interstellar cloud; because of its size and density, this type of cloud can keep ultraviolet radiation from reaching its interior, where molecules are able to form"
+molecular cloud,a large dense cold interstellar cloud; because of its size and density this type of cloud can keep ultraviolet radiation from reaching its interior where molecules are able to form
 momentum,"the measure of the amount of motion of a body; the momentum of a body is the product of its mass and velocity; in the absence of an unbalanced force, momentum is conserved"
 multiverse,"the speculative idea that our universe is just one of many universes, each with its own set of physical laws"
 near-Earth asteroid (NEA),"an Earth-approaching asteroid, one whose orbit could bring it on a collision course with our planet"
@@ -229,7 +229,7 @@ photosynthesis,"a complex sequence of chemical reactions through which some livi
 plage,a bright region of the solar surface observed in the light of some spectral line
 planet, any of the larger objects orbiting around the Sun or any similar objects that orbit other stars in ancient times any object that moved regularly among the fixed stars
 planetary nebula,a shell of gas ejected by and expanding away from an extremely hot low-mass star that is nearing the end of its life (the nebulae glow because of the ultra-violet energy of the central star)
-planetesimals,"objects, from tens to hundreds of kilometers in diameter, that formed in the solar nebula as an intermediate step between tiny grains and the larger planetary objects we see today; the comets and some asteroids may be leftover planetesimals"
+planetesimals,objects from tens to hundreds of kilometers in diameter that formed in the solar nebula as an intermediate step between tiny grains and the larger planetary objects we see today; the comets and some asteroids may be leftover planetesimals
 plasma,a hot ionized gas
 plate tectonics,the motion of segments or plates of the outer layer of a planet over the underlying mantle
 population I star,a star containing heavy elements; typically young and found in the disk
@@ -248,8 +248,8 @@ pulsating variable star,a variable star that pulsates in size and luminosity
 quasar,"an object of very high redshift that looks like a star but is extragalactic and highly luminous; also called a quasi-stellar object, or QSO"
 radar,"technique of transmitting radio waves to an object and then detecting the radiation that the object reflects back to the transmitter; used to measure the distance to, and motion of, a target object or to form images of it"
 radial velocity,motion toward or away from the observer the component of relative velocity that lies in the line of sight
-radiation,"emission of energy as electromagnetic waves or photons, also the transmitted energy itself"
-radio waves,"all electromagnetic waves longer than microwaves, including radar waves and AM radio waves"
+radiation,emission of energy as electromagnetic waves or photons, also the transmitted energy itself
+radio waves,all electromagnetic waves longer than microwaves, including radar waves and radio waves
 radioactivity,"process by which certain kinds of atomic nuclei decay naturally, with the spontaneous emission of subatomic particles and gamma rays"
 reddening (interstellar),the reddening of starlight passing through interstellar dust because dust scatters blue light more effectively than red
 redshift,when lines in the spectra are displaced toward longer wavelengths (toward the red end of the visible spectrum)
@@ -277,13 +277,13 @@ solar day,Earth’s rotation period as defined by the position of the Sun in the
 solar eclipse,an eclipse of the Sun by the Moon, caused by the passage of the Moon in front of the Sun solar eclipses can occur only at the time of the new moon
 solar flare,a sudden and temporary outburst of electromagnetic radiation from an extended region of the Sun’s surface
 solar month,"the time interval in which the phases repeat—say, from full to full phase"
-solar nebula,the cloud of gas and dust from which the solar system formed
-solar wind,"a flow of hot, charged particles leaving the Sun"
+solar nebula,the cloud of gas and dust from which the Solar System formed
+solar wind,a flow of hot, charged particles leaving the Sun
 space velocity,the total speed and direction with which an object is moving through space relative to the Sun
 spacetime,"system of one time and three space coordinates, with respect to which the time and place of an event can be specified"
 spectral class,"(or spectral type) the classification of stars according to their temperatures using the characteristics of their spectra; the types are O, B, A, F, G, K, and M with L, T, and Y added recently for cooler star-like objects that recent survey have revealed"
 spectrometer,"an instrument for obtaining a spectrum; in astronomy, usually attached to a telescope to record the spectrum of a star, galaxy, or other astronomical object"
-spectroscopic binary,"a binary star in which the components are not resolved but whose binary nature is indicated by periodic variations in radial velocity, indicating orbital motion"
+spectroscopic binary,a binary star in which the components are not resolved but whose binary nature is indicated by periodic variations in radial velocity indicating orbital motion
 spiral arm,"a spiral-shaped region, characterized by relatively dense interstellar material and young stars, that is observed in the disks of spiral galaxies"
 spiral galaxy,"a flattened, rotating galaxy with pinwheel-like arms of interstellar material and young stars, winding out from its central bulge"
 starburst,a galaxy or merger of multiple galaxies that turns gas into stars much faster than usual
@@ -294,7 +294,7 @@ stony-iron meteorite,a type of differentiated meteorite that is a blend of nicke
 stratosphere,the layer of Earth’s atmosphere above the troposphere and below the ionosphere
 stromatolites,"solid, layered rock formations that are thought to be the fossils of oxygen-producing photosynthetic bacteria in rocks that are 3.5 billion years old"
 subduction,the sideways and downward movement of the edge of a plate of Earth’s crust into the mantle beneath another plate
-sunspot,"large, dark features seen on the surface of the Sun caused by increased magnetic activity"
+sunspot,large, dark features seen on the surface of the Sun caused by increased magnetic activity
 sunspot cycle,the semiregular 11-year period with which the frequency of sunspots fluctuates
 super-Earth,"a planet larger than Earth, generally between 1.4 and 2.8 times the size of our planet"
 supercluster,a large region of space (more than 100 million light-years across) where groups and clusters of galaxies are more concentrated; a cluster of clusters of galaxies
@@ -324,7 +324,7 @@ volcano,a place where material from a planet’s mantle erupts on its surface
 wavelength,the distance from crest to crest or trough to trough in a wave
 weakly interacting massive particles,(WIMPs) weakly interacting massive particles are one of the candidates for the composition of dark matter
 white dwarf,a low-mass star that has exhausted most or all of its nuclear fuel and has collapsed to a very small size; such a star is near its final state of life
-Wien’s law,formula that relates the temperature of a blackbody to the wavelength at which it emits the greatest intensity of radiation
+Wien’s law,formula that relates the temperature of a blackbody to the wavelength at which it emits the greatest intensity of radiation 
 X-rays,electromagnetic radiation with wavelengths between 0.01 nanometer and 10 nanometers; intermediate between those of ultraviolet radiation and gamma rays
 year,the period of revolution of Earth around the Sun
 zenith,the point on the celestial sphere opposite the direction of gravity; point directly above the observer
