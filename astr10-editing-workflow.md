@@ -147,7 +147,7 @@ make suggestions - search for outer material??. accesibility
 ## Final Check- Manual
 - Manually paste each page and check for functionality.
   - check size of thumbnail image  for main chapter page   
-- Commit changes in Conductor
+- Commit changes in Conductor 
 - Update progress log.
 - Notify Jyothsna that it is done. 
 - When you make corrections, update progress again. 
