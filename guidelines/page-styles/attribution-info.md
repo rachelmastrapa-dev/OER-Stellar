@@ -10,6 +10,9 @@ nsvsl https://svs.gsfc.nasa.gov/
 ab = astrobites
 abl = https://astrobites.org/
 nasal = https://www.nasa.gov/
+iaul = https://iauarchive.eso.org/
+snt = Sky and Telescope
+sntl = https://skyandtelescope.org/
 
 ## Licenses
 
